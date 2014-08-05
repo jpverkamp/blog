@@ -1,0 +1,29 @@
+title: Wombat IDE - Updated syntax, documentation
+date: 2012-04-30T04:55:41
+slug: wombat-ide-updated-syntax-documentation
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+First, a few bug fixes with the keyword lists and help links:
+<ul>
+	<li>Added a bit of code to differentiate between a normal `let` and a named `let`.</li>
+	<li>Fixed for losing the syntax definitions on some systems.</li>
+</ul>
+Also, I wrote code to generate help files for the C211 libraries. Theoretically, I should just be able to update these with future updates to the APIs:
+<ul>
+	<li><a title="C211 Image API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-image.htm">Image API</a></li>
+	<li><a title="C211 Matrix API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-matrix.htm">Matrix API</a></li>
+	<li><a title="C211 Tree API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-tree.htm">Tree API</a></li>
+	<li><a title="C211 Turtle API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-turtle.htm">Turtle API</a></li>
+	<li><a title="C211 Color API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-color.htm">Color API</a> (Edit: Added 19 May after re-factoring of colors)</li>
+</ul>
+As a side note, I've added two new functions to the tree API:
+<ul>
+	<li>`(left-subtree? tr)` - returns `#t` if the given tree has a non-empty left subtree</li>
+	<li>`(right-subtree? tr)` - returns `#t` if the given tree has a non-empty right subtree</li>
+</ul>

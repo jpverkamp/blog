@@ -1,0 +1,80 @@
+title: Wombat IDE - A bunch of new procedures
+date: 2011-10-25T04:55:10
+slug: wombat-ide-a-bunch-of-new-procedures
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+I've added a bunch of new procedures today, mostly to improve compatibility with Chez Scheme and the like. All together, I've added these functions:
+<ul>
+	<li>`cpu-time` - get a timestamp to use in timing function runtime</li>
+</ul>
+
+<!--more-->
+
+@codeblock["scheme"]|{
+~ (cpu-time)
+1.339726427264E9
+
+~ (let ([start (cpu-time)])
+    (long-running-function)
+    (- (cpu-time) start))
+0.7339999675750732
+}|
+
+<ul>
+	<li>`filter` - keep only elements that match a given predicate</li>
+</ul>
+
+@codeblock["scheme"]|{
+~ (filter even? '(8 6 7 5 3 0 9))
+(8 6 0)
+}|
+
+<ul>
+	<li>`@wikipedia["fold-left"]{Fold (higher-order function)}` - perform formulaic recursive procedures on lists from, see the linked Wikipedia article for more details</li>
+</ul>
+
+@codeblock["scheme"]|{
+~ (fold-left cons '() '(8 6 7 5 3 0 9))
+(((((((() . 8) . 6) . 7) . 5) . 3) . 0) . 9)
+
+~ (fold-left + 0 '(8 6 7 5 3 0 9))
+38
+}|
+
+<ul>
+	<li>`@wikipedia["fold-right"]{Fold (higher-order function)}` - similar to `fold-left` with the arguments reversed</li>
+</ul>
+
+@codeblock["scheme"]|{
+~ (fold-right cons '() '(8 6 7 5 3 0 9))
+(8 6 7 5 3 0 9)
+
+~ (fold-right + 0 '(8 6 7 5 3 0 9))
+38
+}|
+
+<ul>
+	<li>`any?` - tests if any item in a list matches a given predicate</li>
+</ul>
+
+@codeblock["scheme"]|{
+~ (any? even? '(8 6 7 5 3 0 9))
+#t
+}|
+
+<ul>
+	<li>`all?` - tests if all items in a list match a given predicate</li>
+</ul>
+
+@codeblock["scheme"]|{
+~ (all? even? '(8 6 7 5 3 0 9))
+#f
+}|
+
+Hopefully at least some of these will be useful. The current version is <a title="Wombat Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">1.297.15</a>.

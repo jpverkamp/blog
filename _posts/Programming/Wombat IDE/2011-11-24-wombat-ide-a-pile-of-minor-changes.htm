@@ -1,0 +1,31 @@
+title: Wombat IDE - A pile of minor changes
+date: 2011-11-24T04:55:03
+slug: wombat-ide-a-pile-of-minor-changes
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+I've been putting off a new release for a while while I collect a number of minor bug fixes and enhancements, but I think it's about time to actually release them. <a title="Wombat Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">1.327.1</a> is the new build.
+
+<!--more-->
+
+A few bug fixes:
+<ul>
+	<li>Fixed a bug on some *nix machines where the launcher wouldn't find the correct directory (the directory is now derived from the running JAR's location)</li>
+	<li>Fixed a type typo in `image-ref`</li>
+	<li>Added a corrected error message for negative array indexes (for example, trying to make an image with a negative size)</li>
+	<li>Added a bunch of mapped types to error messages (numbers, voids, strings, etc)</li>
+</ul>
+<div>And a few new features:</div>
+<ul>
+	<li>Added a link to the launcher to the index page</li>
+	<li>Moved all of the IDE related files into their own directory in preparation to split development (the launcher is a second project at the moment)</li>
+	<li>`#void` will print when nested in another structure `(list (void))`, but not directly</li>
+	<li>Added the function `atom?`</li>
+</ul>
+<div><span style="font-family: monospace;">
+</span></div>

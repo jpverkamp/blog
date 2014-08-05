@@ -1,0 +1,28 @@
+title: Wombat IDE - Big fixes and confusion removal
+date: 2011-11-02T04:55:05
+slug: wombat-ide-big-fixes-and-confusion-removal
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+A small list of bug fixes first:
+<ul>
+	<li>Updated `draw-tree` to use ovals instead of rectangles to match the old version</li>
+	<li>Fix error messages with functions whose names end with `?`</li>
+	<li>Added better error messages for division by 0, particularly for the function `/`</li>
+	<li>Removed whitespace at the ends of files and lines on save</li>
+	<li>Fixed automatic indentation on the first line of a file</li>
+	<li>Removed formatting from the undo/redo stack (as it's automatic anyways)</li>
+</ul>
+
+<!--more-->
+
+Next, there are a few functions that have been confusing students, mostly because they aren't actually Scheme functions, but rather parts of the Scheme/Java bindings. Specifically, member? (not analogous to member) and integer (type casting).
+
+Finally, there's a new dialog added for find/replace. It works pretty much how such features always work, allowing sequential or global search and replace of given strings in the currently open file. It works well enough for now, although I'm not particularly happy with the interface:
+<div><a href="http://blog.jverkamp.com/2011/11/02/wombat-ide-big-fixes-and-confusion-removal/find-replace/" rel="attachment wp-att-618"><img class="alignnone size-full wp-image-618" title="Wombat Find/Replace Dialog" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/find-replace.png" alt="Options to find and replace strings in open text documents" width="433" height="152" /></a></div>
+The new version is <a title="Wombat Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/ ">1.305.1</a>.

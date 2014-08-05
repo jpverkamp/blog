@@ -1,0 +1,28 @@
+title: Wombat IDE - Pair programming
+date: 2012-02-15T04:55:13
+slug: wombat-ide-pair-programming
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+As I mentioned once before, I've been meaning to add the ability to share screens between different users. I spent a few hours yesterday evening, trying to get everything working correctly in the new setup. So far, I have messages sent and received (encoded using a <a title="Public Domain Base 64 library" href="http://iharder.sourceforge.net/current/java/base64/">Public Domain Java Base64 library</a>) between a host and one or more clients, all with an easy enough to use GUI built right into Wombat:
+
+<!--more-->
+
+<a href="http://blog.jverkamp.com/2012/02/14/wombat-ide-pair-programming/connect/" rel="attachment wp-att-656"><img class="alignnone size-full wp-image-656" title="Wombat IDE - Screen Sharing Connect Dialog" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/connect.png" alt="A dialog to host a connection or join other users" width="296" height="110" /></a>
+
+If you click Host, you get a new document with a light green background that otherwise acts exactly like a normal document:
+
+<a href="http://blog.jverkamp.com/2012/02/14/wombat-ide-pair-programming/host/" rel="attachment wp-att-657"><img class="alignnone size-full wp-image-657" title="Wombat IDE - Screen Host" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/host.png" alt="Hosted text area for Wombat screen sharing" width="503" height="402" /></a>
+
+And then if you join, you get another green box. Now, whatever you type in either box will be sent to both of them:
+
+<a href="http://blog.jverkamp.com/2012/02/14/wombat-ide-pair-programming/join/" rel="attachment wp-att-658"><img class="alignnone size-full wp-image-658" title="Wombat IDE - Screen Sharing Joined" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/join.png" alt="Showing both the host and client panels of a shared session" width="503" height="402" /></a>
+
+While this example shows both text areas in the same Wombat session, it works exactly the same way with two different instances, either on the same machine or on different machines. The only problems comes up when you are trying to run the host on a machine with an outgoing firewall--particularly most Windows machines. We're trying to get an exception through the SoIC machines which should solve the problem for C211, but it's something to keep in mind otherwise.
+
+If you want to switch over to the new versions of Wombat, you can get it <a title="Wombat Launcher Download" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">here</a>. You should have at least version 2.46.40.

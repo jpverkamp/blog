@@ -1,0 +1,103 @@
+title: Wombat IDE - C211 tree and image libraries
+date: 2011-08-27T05:05:33
+slug: c211-tree-and-image-libraries
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+To start off, I have a small list of bug fixes / minor improvements before I get to the real meat of what I've got for the day:
+<ul>
+	<li>Added ability to change font size</li>
+	<li>Added a program icon (which doesn't seem to work on OSX, I should look into this)</li>
+	<li>Added an IconManager to deal with all of the menu icons</li>
+	<li>Added option to reset the Scheme environment if it gets broken for whatever reason</li>
+	<li>Changed prompt from >>> to §, mostly because I just like the character (also a single character saves space)</li>
+	<li>Fixed display, redirecting it to the REPL. Unfortunately `trace` still doesn't work</li>
+	<li>Bound true to `#t` and false to `#f` to make input and output match</li>
+	<li>Fix for a problem that would prevent Wombat from closing on OS X</li>
+</ul>
+
+<!--more-->
+
+Now, a bigger change was actually getting the C211 libraries working in Wombat. Previously, they had been written in pure Scheme code, designed to run on [Chez Scheme][chez]. Unfortunately, some of that code, such as the code to load and save images was somewhat slower than I would like so I decided to rewrite the libraries in Java. That way, I could take advantage of all of the image types that Java can read/write without having to write adaptors for each myself. See below for the APIs for the image and tree libraries.
+
+Overall, this has been a pretty major bump in version, we're up to r154 now. Download it <a title="Wombat Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">here</a>.
+<h2>Image library</h2>
+The C211 image library matches the old API while at the same time adding a few new features. Here's the API (Edit: The newest API can be found <a title="C211 Image API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-image.htm">here</a>):
+<ul>
+	<li>`(color r g b)` - creates a color with the given `r`, `g`, and `b` channels</li>
+	<li>`(color? c)` - tests if `c` is a color</li>
+	<li>`(color-equal? c1 c2)` - checks if two colors are the same</li>
+	<li>`(color-ref c b)` - extracts the band `b` (one of the symbols `red`, `green`, or `blue<code>) from the color <code>c`</code></code></li>
+	<li>`(image? i)` - tests if `i` is an image</li>
+	<li>`(image-equal? i1 i1)` - tests if two images are equal (the same size and all pixels are `color-equal?`</li>
+	<li>`(image-rows i)` - extract the number of rows in an image</li>
+	<li>`(image-cols i)` - extract the number of columns in an image</li>
+	<li>`(image-set! i r c c)` - sets the pixel at (`r`, `c`) in the image `i` to the color `v`</li>
+	<li>`(read-image [filename])` - reads an image; if `filename` is not specified, prompt the user</li>
+	<li>`(write-image i [filename])` - writes an image `i` to a file; if `filename` is not specified, prompt the user</li>
+	<li>`(draw-image i)` - display the given image `i` on the screen</li>
+	<li>`(image-map i p)` - map a function `p` of the form `color -> color` over the image</li>
+	<li>`(make-image rs cs g)` - create a new image with `rs` rows and `cs` columns; if `g` is a color, use that; if `g` is a function of the form `r, c, rs, cs -> color<code> apply it at each possible row and column value`</code></li>
+</ul>
+In addition, the following colors have also been defined as constants: `black`, `darkgray`, `gray`, `lightgray`, `white`, `red`, `green`, `blue`, `yellow`, `cyan`, `magenta`, `orange`, and `pink`.
+
+Mainly, the only new features that the API exposes are making the filenames to `read-image` and `write-image` optional, allowing the user to choose an image with a standard file dialog.
+
+As an example of what the image library is capable of, consider this code:
+
+@codeblock["scheme"]|{
+(draw-image
+  (make-image 500 500
+    (lambda (rs cs r c)
+      (color
+        (div (* r 255) rs)
+        (div (* c 255) cs)
+        0))))
+}|
+
+Save this code as `make-gradient.ss` and hit F5 to run it. Here's what you get:
+
+<a href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/make-image/" rel="attachment wp-att-518"><img class="alignnone  wp-image-518" title="C211 Image API" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/make-image.png" alt="Example of C211 Image API: make-image" width="403" height="424" /></a>
+
+There are much more powerful things you can do with this that I'll probably post at some point, but for now I think you get the idea.
+<h2>Tree library</h2>
+Edit: The newest C211 Tree Library API can be found <a title="C211 Tree API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-tree.htm">here</a>.
+<ul>
+	<li>`(tree v l r)` - creates a new tree with the given root value `v`, left subtree `l`, and right subtree `r`</li>
+	<li>`(tree? tr)` - checks if an object is a tree</li>
+	<li>`(leaf v)` - creates a leaf; an alias of `(tree v (empty-tree) (empty-tree))`</li>
+	<li>`(leaf? tr)` - checks if a tree is a leaf</li>
+	<li>`(empty-tree)` - creates an empty tree</li>
+	<li>`(empty-tree? tr)` - checks if a tree is empty</li>
+	<li>`(left-subtree tr)` - returns the left subtree of a given tree</li>
+	<li>`(right-subtree tr)` - returns the right subtree of a given tree</li>
+	<li>`(root-value tr)` - returns the value stored at the root value of the given tree</li>
+	<li>`(draw-tree tr)` - draws a tree to the screen</li>
+</ul>
+Here's an example of `draw-tree`:
+
+@codeblock["scheme"]|{
+(draw-tree
+  (tree 8
+  (tree 6
+    (leaf 7)
+    (empty-tree))
+  (tree 5
+    (tree 3
+      (leaf 0)
+      (leaf 9))
+    (empty-tree))))
+}|
+
+<a href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/draw-tree/" rel="attachment wp-att-516"><img class="alignnone size-full wp-image-516" title="C211 Tree API" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/draw-tree.png" alt="Example of the C211 tree API" width="400" height="400" /></a>
+
+One feature that I think turned out particularly well is how the tree will automatically scale with its window. This way you can shrink or grow the tree when you need to show certain properties or compare multiple trees:
+
+<a href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/draw-tree-scaled/" rel="attachment wp-att-517"><img class="alignnone size-full wp-image-517" title="C211 Tree API - Scaled" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/draw-tree-scaled.png" alt="Scaled Example of C211 Tree API - Scaled" width="184" height="191" /></a>
+
+The only change between the previous tree API in <a title="Scheme Widget Library" href="http://www.scheme.com/chezscheme.html">SWL</a> and the new version is that the left and right subtrees of a tree must actually be trees. Previously, they could be any value, but do to a design consideration in the Java back-end of the trees, the underlying data structure was restricted. This will actually theoretically make it harder to write incorrect tree code as you can no longer mix tree and non-tree code. We'll see this semester if this is actually the case.

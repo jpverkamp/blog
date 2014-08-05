@@ -1,0 +1,36 @@
+title: Wombat IDE - Another bug fix / feature post
+date: 2012-05-20T04:55:12
+slug: wombat-ide-another-bug-fix-feature-post
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+Additional features:
+<ul>
+	<li>Since both the image and turtle libraries need the same color code, I've factored that out into it's own module: `<a title="C211 Color API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-color.htm">(c211 color)</a>`</li>
+	<li><a title="Issue 193" href="https://code.google.com/p/wombat-ide/issues/detail?id=193">Issue 193</a>: Opening a file on top of an empty <new document> replaces that document.</li>
+</ul>
+Bug fixes:
+<ul>
+	<li>Fixed documentation issues with image->list, list->image,</li>
+	<li><a title="Issue 187" href="https://code.google.com/p/wombat-ide/issues/detail?id=187">Issue 187</a>: Fixed the direction parameter to `hatch` to take degrees rather than radians to match the rest of the library.</li>
+	<li>Made links in the about dialog clickable.</li>
+	<li><a title="Issue 186" href="https://code.google.com/p/wombat-ide/issues/detail?id=186">Issue 186</a>: Fixed the recent document manager on documents with the same name.</li>
+</ul>
+
+<!--more-->
+
+Also, we now have a launcher image:
+
+<a href="http://blog.jverkamp.com/2012/05/19/wombat-ide-another-bug-fix-feature-post/loading/" rel="attachment wp-att-760"><img class="alignnone  wp-image-760" title="Wombat IDE Loading Screen" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/loading.png" alt="Loading screen displayed before the JVM starts up" width="521" height="234" /></a>
+
+(<a title="Wombat Image Source" href="http://www.nongnu.org/neurowombat/resources.html">Source</a>, <a title="Creative Commons Public License" href="https://creativecommons.org/licenses/by-sa/1.0/legalcode">License</a>)
+
+Finally, there's been one change to the <a title="C211 Image API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-image.htm">Image API</a>:
+<ul>
+	<li>The generating function to `make-image` now takes only two arguments, `row` and `column`. The `rows` and `columns` arguments have been dropped. The change is reflected in the <a title="C211 Image API" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-image.htm">online API</a>.</li>
+</ul>

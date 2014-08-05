@@ -1,0 +1,18 @@
+title: Wombat IDE - Yeah... Maybe I was crazy
+date: 2012-01-08T04:55:26
+slug: wombat-ide-yeah-maybe-i-was-crazy
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Language/Scheme
+- Programming/By Project/Wombat IDE
+comments: true
+
+---
+So I started `let` today. And let me tell you (no pun intended) that is one sticky function to work with, once you get the entire family involved. You have let, let*, let-values, letrec, and named lets, along with all sorts of combinations thereof. I actually made it about 90% through all of these (just a few bugs to work out in letrec) before I realized that this was perhaps more than I actually wanted to do for the public version of Wombat.
+
+<!--more-->
+
+I need a working version of Wombat when the new semester starts, preferably one that's already compatible with Chez Scheme. So I think I'm going to bite the bullet and look into bundling a native version of Petite with Wombat and wrapping that as the Scheme back-end. That's how <a title="Wombat IDE – A bit of history" href="http://blog.jverkamp.com/2011/07/07/a-bit-of-history/">Odete did it</a>, using a native interface in their case, but I think I'm just going to use either the local network or even just `stdin` and `stdout` to communcate. We'll see how that goes.
+
+Of course, I'll keep the entire code base for Wombat Scheme in the repository if I ever want to deal with it again. It was definitely an interesting project and taught me a little more about how much work it takes to actually implement a language. We'll see where that goes from here.
