@@ -1,0 +1,383 @@
+title: Translate CSV to HTML
+date: 2013-01-16T04:55:10
+slug: translate-csv-to-html
+layout: post
+categories:
+- Programming/By Language/HTML
+- Programming/By Language/Racket
+- Programming/By Language/Scheme
+- Programming/By Source/Programming Praxis
+- Programming/By Topic/File Formats/CSV
+- Programming/By Topic/Web Development
+comments: true
+
+---
+<a href="http://programmingpraxis.com/2013/01/15/translate-csv-to-html/" title="Translate CSV to HTML">Yesterday's post</a> from Programming Praxis asks us to write a function that will read content formatted as @wikipedia{comma-separated values} and output the result as an HTML table. Their solution uses the <a href="http://programmingpraxis.com/essays/#text-file-databases" title="Text file database">text file database library</a> that they posted about (which is a neat concept, you should check it out), but I think I'm going to work out the solution more directly.
+
+<!--more-->
+
+To make the problem more interesting, I wanted to add a few additional constraints:
+
+<ul>
+<li>The parsed must be able to handle quoted expressions that may themselves contain commas or escaped quotes (example: "to be, or not \"to be\"" should parse as a single item)</li>
+<li>Any expression that could be <em>read</em> as a Scheme expression should be</li>
+<li>All other expressions should be read as strings</li>
+</ul>
+
+So if we were to take this as a sample input file:
+
+@codeblock["css"]|{
+this,is a,"test of awesome"
+1,2,3.14
+#<void>,"frog, \"neblins\"",#f
+}|
+
+The output should be a list of lists like so:
+
+@codeblock["scheme"]|{
+'((this "is a" "test of awesome")
+  (1 2 3.14)
+  ("#<void>" "frog, \"neblins\"" #f)))
+}|
+
+Note how "is a" had to be parsed as a string because it was two objects, both quoted strings parsed correctly (including the escaped quotes and comma), and the numbers and <em>#f</em> all were converted into Scheme objects. Also, since <em>#<void></em> isn't 'readable', it should be read as a string.
+
+From there, we'll want to output that as HTML, but we'll get to that in a bit. If you'd like to follow along with the full code though, you can do so on GitHub: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/csv-to-html.rkt" title="GitHub: csv to html source">csv to html source</a>
+
+My basic avenue of attack is to use a @wikipedia{finite state machine} to parse the input. I'm going to have four states:
+
+<ul>
+<li>start -- when we're starting a line item</li>
+<li>string -- while we're reading a string</li>
+<li>string/escape -- immediately after an escape in a string</li>
+<li>normal -- any non-string line item</li>
+</ul>
+
+With these, we'll need to keep track of three additional things (all lists):
+
+<ul>
+<li>lines -- all of the completed lines we've read thus far</li>
+<li>current-line -- the progress we've made on the current line</li>
+<li>current-block -- the progress we've made on the current line item</li>
+</ul>
+
+All three will start out empty. So our basic code is going to look something like this:
+
+@codeblock["scheme"]|{
+; read csv content from the current input stream
+; try to parse each value as a Scheme value, on fail return a string
+; make sure to correctly handle quoted strings
+(define (read-csv)
+  (let loop ([lines '()]
+             [current-line '()]
+             [current-block '()]
+             [mode 'start]) ; start, string, string/escape, or normal
+    ...)
+}|
+
+So far, so good. Although it does a whopping lot of nothing as of yet. Let's fix that.
+
+First, we want to read the next character. Then we'll need to process it. The first case to consider will be if we're at the end of the file:
+
+@codeblock["scheme"]|{
+...
+(define next (read-char))
+(cond
+  ; eof, stop reading
+  [(eof-object? next)
+   (reverse (cons (reverse (cons (try-read (list->string (reverse current-block)))
+                                 current-line))
+                  lines))]
+...
+}|
+
+For the moment, ignore the <em>try-read</em> function. That will do the work of trying to parse a string as a Scheme object and falling back to a string if it fails. Other than that, one additional thing to note is that all three of the lists mentioned above are being built backwards (that's just the nature of @wikipedia{tail recursion}; ask me why in the comments if you're curious).
+
+That means when we're done with each block/line, we have to <em>reverse</em> it. You incur an <em>O(n)</em> cost, but compared to some of the other stuff we're doing, that'll be negligible. If you're really interested in performance, you'd probably want to read a line at a time into memory and split it using <em>substring</em>.
+
+In any case, now that possibility is out of the way, the next to consider is whether we're in <em>string</em> mode or <em>normal</em> / non-string mode. That's actually probably the easiest state to deal with:
+
+@codeblock["scheme"]|{
+...
+; start in string or normal mode
+[(eq? mode 'start)
+ (loop lines current-line (cons next current-block) (if (eq? next #\") 'string 'normal))]
+...
+}|
+
+All we have to do is check for an opening quote.
+
+Next, dealing with string mode. Basically, we have three options. Either we continue with normal characters in the string, we find an escape character, or we end the string.
+
+@codeblock["scheme"]|{
+...
+      ; look for escaped characters in string mode
+      [(and (eq? mode 'string) (eq? next #\\))
+       (loop lines current-line (cons next current-block) 'string/escape)]
+
+      ; read next character in escape mode
+      [(eq? mode 'string/escape)
+       (loop lines current-line (cons next current-block) 'string)]
+
+      ; end the string in string mode (the next character must be a comma or newline)
+      ; todo: deal with \r\n newlines
+      [(and (eq? mode 'string) (eq? next #\"))
+       (define done-block (try-read (list->string (reverse (cons next current-block)))))
+       (define next-next (read-char))
+       (cond
+         [(eq? next-next #\,)
+          (loop lines (cons done-block current-line) '() 'start)]
+         [(eq? next-next #\newline)
+          (define done-line (reverse (cons done-block current-line)))
+          (loop (cons done-line lines) '() '() 'start)]
+         [else
+          (error 'read-csv "Invalid string literal, missing comma or newline")])]
+...
+}|
+
+This is a bit more complicated, but only a bit. The interesting parts to note are that if we see an escape, we just skip over (buffering) the next character. That way, we can skip right past things like \". Technically, we could read ahead (like we have to do in the third part of this anyways) and skip the state entirely, but I think this way is cleaner.
+
+To show the other way though, consider the third part where a string mode block ends. There are three possible endings here (each of which could be states, but I'm demonstrating both methods). Either you have a comma after the quote and you go on to another item on this line, you have a newline (I need to but haven't dealt with \r or \r\n @wikipedia{line endings}. For now, this is Unix (including OS X) only.), or you have an error. One interesting thing to note: this system actually allows for multiline strings. So these two would be equivalent:
+
+@codeblock["css"]|{
+"hello
+world"
+
+"hello\nworld"
+}|
+
+Next, we have cases for the end of an item. These are basically the same as the string cases above, but I broke them out into their own cond cases this time.
+
+@codeblock["scheme"]|{
+...
+; end an item
+[(and (eq? mode 'normal) (eq? next #\,))
+ (define done-block (try-read (list->string (reverse current-block))))
+ (loop lines (cons done-block current-line) '() 'start)]
+
+; end a line
+; todo: deal with \r\n
+[(and (eq? mode 'normal) (eq? next #\newline))
+ (define done-block (try-read (list->string (reverse current-block))))
+ (define done-line (reverse (cons done-block current-line)))
+ (loop (cons done-line lines) '() '() 'start)]
+...
+}|
+
+Like I said, this is the same as before.
+
+Finally, we have the default case. If nothing else happens, just buffer the character and keep reading. This should happen most of the time. Note that <em>mode</em> (the FSM state) is preserved. This is important.
+
+@codeblock["scheme"]|{
+...
+; buffer all other characters
+[else
+ (loop lines current-line (cons next current-block) mode)])))
+...
+}|
+
+And there you have it. A fully functional CSV parser. You can try it out (although you'll need the definite for <em>try-read</em>, which I'll get to in a moment) like so:
+
+@codeblock["scheme"]|{
+> (with-input-from-string
+   "Beth,12.75,0,mfg
+   Dan,8.50,10,sales
+   Kathy,11.40,30,sales
+   Mark,12.75,40,mfg
+   Mary,7.50,20,mfg
+   Susie,10.30,25,acctg"
+   read-csv)
+'((Beth 12.75 0 mfg) (Dan 8.5 10 sales)
+  (Kathy 11.4 30 sales) (Mark 12.75 40 mfg)
+  (Mary 7.5 20 mfg) (Susie 10.3 25 acctg))
+}|
+
+Note how all of the names and positions were parsed as symbols. If you really wanted them as strings, you could just quote them:
+
+@codeblock["scheme"]|{
+> (with-input-from-string
+   "\"Beth\",12.75,0,mfg"
+   read-csv)
+'(("Beth" 12.75 0 mfg))
+}|
+
+Now that I've showed that off sufficiently, what black magic is going on in that <em>try-read</em> function? Remember, the goal is to try to read the input as a single Scheme object. If that fails (for any reason) or if there is more than one object, just fall back and return the original string.
+
+@codeblock["scheme"]|{
+; parse a block into a scheme object
+; if that fails, just return the original string
+(define (try-read block)
+  (with-handlers ([exn? (lambda (err) block)])
+    (with-input-from-string
+     block
+     (lambda ()
+       (define result (read))
+       (when (not (eof-object? (read)))
+         (error 'try-read "unfinished"))
+       result))))
+}|
+
+This is actually the first time I've worked with Racket's @racket-doc{exceptions} and I have to say, they're actually pretty nice to work with. Just add an exception predicate (I used <em>exn?</em> to catch all of them) and say what that should return.
+
+The last bit there, with the <em>(when (not (eof-object? ...)))</em> is to throw just such an exception if there's still more to read. I didn't have this originally, but that mean that something like this would happen:
+
+@codeblock["scheme"]|{
+> (with-input-from-string
+   "hello world"
+   read-csv)
+'(hello)
+}|
+
+With the added code, you get a string as expected:
+
+@codeblock["scheme"]|{
+> (with-input-from-string
+   "hello world"
+   read-csv)
+'(("hello world"))
+}|
+
+So that's all we need to parse the CSV files. What about the second half of that <a href="http://programmingpraxis.com/2013/01/15/translate-csv-to-html/" title="Translate CSV to HTML">original question</a> though? We still need to output an HTML table!
+
+Well, actually that's by far the easier part. Just use <em>for</em> loops around <em>printf</em> statements.
+
+@codeblock["scheme"]|{
+; write a list of lists to an html table
+(define (csv->html csv)
+  (with-output-to-string
+   (lambda ()
+     (printf "<table class="table table-striped">\n")
+     (for ([line (in-list csv)])
+       (printf "  <tr>\n")
+       (for ([item (in-list line)])
+         (printf "    <td>~a</td>\n" item))
+       (printf "  </tr>\n"))
+     (printf "</table>\n"))))
+}|
+
+It's barely even Racket anymore, but it is cleaner (in my opinion) than the purely functional solution I was working with earlier. I did use <em>with-output-to-string</em> to capture it as a string rather than printing it directly, which is neat. I think Scheme is by far that easiest language to do that in (rather than redirecting output at the shell level).
+
+And that's actually all we need. One simple test run:
+
+@codeblock["scheme"]|{
+> (display
+   (csv->html
+    (with-input-from-string
+     "Beth,12.75,0,mfg
+   Dan,8.50,10,sales
+   Kathy,11.40,30,sales
+   Mark,12.75,40,mfg
+   Mary,7.50,20,mfg
+   Susie,10.30,25,acctg"
+     read-csv)))
+<table class="table table-striped">
+  <tr>
+    <td>Beth</td>
+    <td>12.75</td>
+    <td>0</td>
+    <td>mfg</td>
+  </tr>
+  <tr>
+    <td>Dan</td>
+    <td>8.5</td>
+    <td>10</td>
+    <td>sales</td>
+  </tr>
+  <tr>
+    <td>Kathy</td>
+    <td>11.4</td>
+    <td>30</td>
+    <td>sales</td>
+  </tr>
+  <tr>
+    <td>Mark</td>
+    <td>12.75</td>
+    <td>40</td>
+    <td>mfg</td>
+  </tr>
+  <tr>
+    <td>Mary</td>
+    <td>7.5</td>
+    <td>20</td>
+    <td>mfg</td>
+  </tr>
+  <tr>
+    <td>Susie</td>
+    <td>10.3</td>
+    <td>25</td>
+    <td>acctg</td>
+  </tr>
+</table>
+}|
+
+Bam. Done.
+
+And there you have it, the ability to read CSV files and write them back out as HTML tables. I think I may actually put this in to replace the (relatively new) <a href="http://blog.jverkamp.com/wombat-ide/c211-csv-api/" title="Wombat API: (c211 csv)">(c211 csv)</a> library in Wombat. It handles quoted strings much more nicely (or at all).
+
+As a final aside, yes. I realize this could be written much more 'concisely' if you remove the constraints on quoted items and trying to convert to Scheme objects:
+
+@codeblock["scheme"]|{
+(require racket/string)
+
+(define (csv->html csv)
+  (printf "<table class="table table-striped">\n")
+  (for ([line (in-list (string-split csv "\n"))])
+    (printf "  <tr>\n")
+    (for ([item (in-list (string-split line ","))])
+      (printf "    <td>~s</td>\n" item))
+    (printf "  </tr>\n"))
+  (printf "</table>\n"))
+}|
+
+Example:
+
+@codeblock["scheme"]|{
+> (csv->html "Beth,12.75,0,mfg
+Dan,8.50,10,sales
+Kathy,11.40,30,sales
+Mark,12.75,40,mfg
+Mary,7.50,20,mfg
+Susie,10.30,25,acctg")
+<table class="table table-striped">
+  <tr>
+    <td>"Beth"</td>
+    <td>"12.75"</td>
+    <td>"0"</td>
+    <td>"mfg"</td>
+  </tr>
+  <tr>
+    <td>"Dan"</td>
+    <td>"8.50"</td>
+    <td>"10"</td>
+    <td>"sales"</td>
+  </tr>
+  <tr>
+    <td>"Kathy"</td>
+    <td>"11.40"</td>
+    <td>"30"</td>
+    <td>"sales"</td>
+  </tr>
+  <tr>
+    <td>"Mark"</td>
+    <td>"12.75"</td>
+    <td>"40"</td>
+    <td>"mfg"</td>
+  </tr>
+  <tr>
+    <td>"Mary"</td>
+    <td>"7.50"</td>
+    <td>"20"</td>
+    <td>"mfg"</td>
+  </tr>
+  <tr>
+    <td>"Susie"</td>
+    <td>"10.30"</td>
+    <td>"25"</td>
+    <td>"acctg"</td>
+  </tr>
+</table>
+}|
+
+But where's the fun in that? :)
+
+If you'd like to download the full code for today's post, you can do so on GitHub: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/csv-to-html.rkt" title="GitHub: csv to html source">csv to html source</a>

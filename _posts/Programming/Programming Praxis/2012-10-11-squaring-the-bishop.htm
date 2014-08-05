@@ -1,0 +1,134 @@
+title: Squaring the Bishop
+date: 2012-10-11T14:00:40
+slug: squaring-the-bishop
+layout: post
+categories:
+- Programming/By Language/Racket
+- Programming/By Language/Scheme
+- Programming/By Source/Programming Praxis
+- Programming/By Topic/Word Games
+comments: true
+
+---
+Okay, this one was just neat. Based on <a href="http://programmingpraxis.com/2011/05/03/squaring-the-bishop/" title="Programming Praxis: Word square">an older post</a> from Programming Praxis filed under <a href="http://programmingpraxis.com/contents/themes/#Word Games" title="Programming Praxis: Word Games">Word Games</a>, the idea is to find a set of words with very special properties:
+
+<pre><a href="http://dictionary.reference.com/browse/bishop" title="Dictionary.com: bishop">BISHOP</a>
+<a href="http://dictionary.reference.com/browse/impose" title="Dictionary.com: impose">IMPOSE</a>
+<a href="http://dictionary.reference.com/browse/spirits" title="Dictionary.com: spirits">SPIRTS</a>
+<a href="http://dictionary.reference.com/browse/hornet" title="Dictionary.com: hornet">HORNET</a>
+<a href="http://dictionary.reference.com/browse/osteal" title="Dictionary.com: osteal">OSTEAL</a>
+<a href="http://dictionary.reference.com/browse/pestle" title="Dictionary.com: pestle">PESTLE</a></pre>
+
+Essentially, the first row and column are the same word, the second row and column are the same word, and so on. So a matrix that is its own @wikipedia{transpose}. The fun comes in when you start with a dictionary and a word and try to construct all of the possible word squares. 
+
+<!--more-->
+
+If you would like to follow along, you can download the full source for this program here: <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/word-squares.rkt'>word-squares source</a> <a href='https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/dictionary.rkt'>dictionary source</a>. You'll also need the dictionary library from the <a href="http://blog.jverkamp.com/2012/10/11/dictionary-tries-in-racket/" title="Dictionary tries in Racket">previous post</a>. I know they run at least in <a href="http://racket-lang.org/" title="(((? Racket)))">Racket 5.3+</a>. 
+
+Now, onto the code!
+
+Long story short, using the library makes the whole thing a lot easier. The bulk of the post is actually <a href="http://blog.jverkamp.com/2012/10/11/dictionary-tries-in-racket/" title="Dictionary tries in Racket">over there</a>. :)
+
+@codeblock["scheme"]|{
+; given a dictionary and a word, create a word square
+; it should be len(word) words, each starting with a letter in word
+; example: 
+;   AURORA
+;   UNEVEN
+;   REFUND
+;   OVULAR
+;   RENAME
+;   ANDREW
+(define (word-squares dict word)
+  ; start with just the one word
+  (let loop ([words (list (string-upcase word))])
+    (if (= (length words) (string-length word))
+        (list words)
+        ; get a prefix for the new row
+        (let ([prefix (list->string 
+                       (for/list ([i (length words)])
+                         (string-ref (list-ref words i) 
+                                     (length words))))])
+          ; branch into each of those cases
+          ; filter the words based on length
+          (apply
+           append
+           (for/list ([next (filter 
+                             (lambda (each) (= (string-length each) 
+                                               (string-length word)))
+                             (words-by-prefix dict prefix))]
+                      #:when (not (null? next)))
+             (loop (snoc next words))))))))
+}|
+
+We do use `snoc` to append to the end of a list which isn't terribly effective, but it was easier than reversing the list back and forth whenever we needed a prefix. In any case, the code is pretty straight forward given all of the work that went into all of the previous functions. Perhaps the most interesting part is this code to determine the current prefix: 
+
+@codeblock["scheme"]|{
+(list->string
+ (for/list ([i (length words)])
+   (string-ref (list-ref words i) 
+               (length words))))
+}|
+
+So there you have it. Theoretically, calling `word-squares` with given dictionary and a root word should give us all of the valid word squares.
+
+@codeblock["scheme"]|{
+> (define dict (load-dictionary "wordsEn.txt"))
+> (word-squares dict "BISHOP")
+'(("BISHOP" "ILLUME" "SLIDES" "HUDDLE" "OMELET" "PESETA")
+  ("BISHOP" "ILLUME" "SLIMES" "HUMBLE" "OMELET" "PESETA")
+  ("BISHOP" "INHERE" "SHREWD" "HEELED" "ORWELL" "PEDDLE")
+  ("BISHOP" "INHERE" "SHREWD" "HEEDED" "ORWELL" "PEDDLE")
+  ("BISHOP" "INHUME" "SHIRES" "HURDLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHIRES" "HURTLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHORES" "HURDLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHORES" "HURTLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHADES" "HUDDLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHARES" "HURDLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHARES" "HURTLE" "OMELET" "PESETA")
+  ("BISHOP" "INHUME" "SHAMES" "HUMBLE" "OMELET" "PESETA")
+  ("BISHOP" "INCASE" "SCONCE" "HANGUP" "OSCULE" "PEEPED")
+  ("BISHOP" "INCASE" "SCONCE" "HANGUP" "OSCULE" "PEEPER")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOVER" "OSTEAL" "PEARLS")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOVER" "OSTEAL" "PEARLY")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOKER" "OSTEAL" "PEARLS")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOKER" "OSTEAL" "PEARLY")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOFER" "OSTEAL" "PEARLS")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOFER" "OSTEAL" "PEARLY")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOTER" "OSTEAL" "PEARLS")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOTER" "OSTEAL" "PEARLY")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOPER" "OSTEAL" "PEARLS")
+  ("BISHOP" "ISCOSE" "SCROTA" "HOOPER" "OSTEAL" "PEARLY")
+  ("BISHOP" "ISCOSE" "SCONCE" "HONOUR" "OSCULE" "PEERED")
+  ("BISHOP" "IMPOSE" "SPENCE" "HONOUR" "OSCULE" "PEERED")
+  ("BISHOP" "IMPOSE" "SPIRTS" "HORNET" "OSTEAL" "PESTLE")
+  ("BISHOP" "IMPOSE" "SPURTS" "HORNET" "OSTEAL" "PESTLE")
+  ("BISHOP" "IMPOSE" "SPORTS" "HORNET" "OSTEAL" "PESTLE")
+  ("BISHOP" "IMPOSE" "SPARTA" "HORNER" "OSTEAL" "PEARLS")
+  ("BISHOP" "IMPOSE" "SPARTA" "HORNER" "OSTEAL" "PEARLY"))
+}|
+
+There you have it. Although of course what words you get will depend on which dictionary you use. I used <a href="http://www.sil.org/linguistics/wordlists/english/" title="SIL International: wordsEn.txt">wordsEn.txt</a> from SIL international. Actually, it doesn't even matter what language you use. Since Racket supports Unicode strings by default and the nested trie structure doesn't specify a character set (as my original code using just a flat 26 element vector did), you can use any wordlist you want. 
+
+There's one last thing to consider though. A nice way to print out the word squares:
+
+@codeblock["scheme"]|{
+; print out a word square
+(define (print-word-square square)
+  (for-each
+   (lambda (word) (printf "~a\n" word))
+   square)
+  (newline))
+
+> (print-word-square (car (word-squares dict "BISHOP")))
+BISHOP
+ILLUME
+SLIDES
+HUDDLE
+OMELET
+PESETA
+}|
+
+And there you go. Hope you've enjoyed it, I had a lot of fun writing it. It's always neat
+
+You can download the full source for this program here: <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/word-squares.rkt'>word-squares source</a>. I've only tested it in <a href="http://racket-lang.org/" title="(((? Racket)))">Racket 5.3+</a>, but newer versions should work as well. Racket 5.2 won't work without some tweaking as (at the very least) it's missing a definition for `string-trim`.
