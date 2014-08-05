@@ -4,9 +4,6 @@
            [line (regexp-replace* #px">" line "\\&gt;")])
       line))
   
-  (when (equal? lang "scheme")
-    (set! lang "lisp"))
-  
   `(pre ((class ,lang))
         (code ,@(map html-encode body*))))
 
