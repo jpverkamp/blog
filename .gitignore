@@ -1,4 +1,9 @@
+# Backup files
 *~
 *.bak
 \#*
 ._*
+
+# Build directories
+_build/
+_cache/
