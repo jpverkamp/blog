@@ -21,17 +21,20 @@ To start out with, let's just brute force the problem. Generate all possible seq
 So we'll start with code that given a length and an alphabet will give us all possible strings. This is a perfect use of recursion and generators (in the Python version).
 
 Python:
-<pre>def combinations(N, A):
+@codeblock["python"]|{
+def combinations(N, A):
 	'''Generate all strings from A of length N.'''
 	if N == 0:
 		yield ''
 	else:
 		for c in A:
 			for s in combinations(N - 1, A):
-				yield c + s</pre>
+				yield c + s
+}|
 
 Racket:
-<pre>; generate all strings from A of length N
+@codeblock["scheme"]|{
+; generate all strings from A of length N
 (define (combinations n a)
   (map list->string
        (let loop ([n n])
@@ -40,14 +43,16 @@ Racket:
            [else
             (for*/list ([c (in-string a)]
                         [r (in-list (loop (- n 1)))])
-              (cons c r))]))))</pre>
+              (cons c r))]))))
+}|
 
 In the case of Racket, I nest the helper <em>loop</em> just so that I can map <em>list->string</em> at the end. If I were just looking for lists or if I had used <em>string-append</em> rather than <em>cons</em> that wouldn't have been necessary.
 
-Next, we want a function that can check if there are any duplicate substrings. As aforementioned, we'll generate each index in the string (ignoring the very first and last) and check each length substring before and after that index. 
+Next, we want a function that can check if there are any duplicate substrings. As aforementioned, we'll generate each index in the string (ignoring the very first and last) and check each length substring before and after that index.
 
-Python: 
-<pre>def has_repeat(s):
+Python:
+@codeblock["python"]|{
+def has_repeat(s):
 	'''Check if a string has a non-empty repeating substring.'''
 
 	N = len(s)
@@ -56,12 +61,14 @@ Python:
 			if s[i-j:i] == s[i:i+j]:
 				return True
 
-	return False</pre>
+	return False
+}|
 
 Racket:
-<pre>; check if a string has a non-empty repeating substring
+@codeblock["scheme"]|{
+; check if a string has a non-empty repeating substring
 (define (repeats? s)
-  (call/cc 
+  (call/cc
    (lambda (return)
      (define N (string-length s))
      (for* ([i (in-range 1 N)]
@@ -69,46 +76,55 @@ Racket:
        (when (equal? (substring s (- i j) i)
                      (substring s i (+ i j)))
          (return #t)))
-     (return #f))))</pre>
+     (return #f))))
+}|
 
 Using <em>call/cc</em> like this is a trick to bail out of the loop early. Otherwise, we could have used <em>andmap</em>, but I much prefer being able to use <em>for*</em>.
 
 And now that the hard part is out of the way, we can put it all together:
 
 Python:
-<pre>def non_repeating_direct(N, A):
+@codeblock["python"]|{
+def non_repeating_direct(N, A):
 	'''
 	Generate all strings of length N from the alphabet A
 	such that no adjacent substrings are repeated.
 	'''
 
-	return [s for s in combinations(N, A) if not has_repeat(s)]</pre>
+	return [s for s in combinations(N, A) if not has_repeat(s)]
+}|
 
 Racket:
-<pre>; generate all strings of length N from alphabet A with no repeating substrings
+@codeblock["scheme"]|{
+; generate all strings of length N from alphabet A with no repeating substrings
 (define (non-repeating-direct N A)
   (for/list ([s (in-list (combinations N A))]
              #:when (not (repeats? s)))
-    s))</pre>
+    s))
+}|
 
 So how does it work out?
 
-<pre>> (time (non-repeating-direct 5 "abc"))
+@codeblock["scheme"]|{
+> (time (non-repeating-direct 5 "abc"))
 cpu time: 0 real time: 2 gc time: 0
 '("abaca" "abacb" "abcab" "abcac" "abcba"
   "acaba" "acabc" "acbab" "acbac" "acbca"
   "babca" "babcb" "bacab" "bacba" "bacbc"
   "bcaba" "bcabc" "bcacb" "bcbab" "bcbac"
   "cabac" "cabca" "cabcb" "cacba" "cacbc"
-  "cbabc" "cbaca" "cbacb" "cbcab" "cbcac"))</pre>
+  "cbabc" "cbaca" "cbacb" "cbcab" "cbcac"))
+}|
 
-Looks good so far. 
+Looks good so far.
 
 As an interesting aside, <a href="http://gravatar.com/benmmurphy">Ben</a> over in the Programming Praxis comments pointed out that the number of such words corresponds with the number of <a href="http://oeis.org/A006156" title="OEIS Sequence number A006156">ternary squarefree words of length n</a>:
-<pre>> (for/list ([n (in-range 10)]) (length (non-repeating-direct n "abc")))
-'(1 3 6 12 18 30 42 60 78 108)</pre>
+@codeblock["scheme"]|{
+> (for/list ([n (in-range 10)]) (length (non-repeating-direct n "abc")))
+'(1 3 6 12 18 30 42 60 78 108)
+}|
 
-And actually once you parse through all of the jargon, it makes perfect sense. @wikipedia{Ternary} is base three (thus the alphabet <em>A = {a, b, c}</em>), words are what we are generating of length <em>n</em>, and a @wikipedia{squarefree word} is one without any adjacent subwords. 
+And actually once you parse through all of the jargon, it makes perfect sense. @wikipedia{Ternary} is base three (thus the alphabet <em>A = {a, b, c}</em>), words are what we are generating of length <em>n</em>, and a @wikipedia{squarefree word} is one without any adjacent subwords.
 
 The full source code (along with unit tests) is available here:
 - <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/non-repeating-strings.py" title="Python non-repeating strings source on GitHub">Python source</a>

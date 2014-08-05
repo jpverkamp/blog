@@ -22,12 +22,13 @@ Enough on discussion though, it's code time!
 
 (Only Racket today as I'm running a bit short on time for my writeup. If anyone would like a Python version as well, let me know in the comments and I'll write one up.)
 
-<pre>; find the largest prime such that each number produced by
+@codeblock["scheme"]|{
+; find the largest prime such that each number produced by
 ; removing digits from the left side is still prime
 ; #:root - the prime to start at, 0 for all primes
 ; #:limit - the largest prime to check
-(define (largest-nested-prime 
-         #:root [root 0] 
+(define (largest-nested-prime
+         #:root [root 0]
          #:limit [limit +inf.0])
   ; loop starting at the root
   (let loop ([n root])
@@ -42,27 +43,32 @@ Enough on discussion though, it's code time!
                  ([i (in-range 1 10)]
                   #:when (prime? (+ (* multiplier i) n)))
          ; return the best of the current and the nested
-         (max best (loop (+ (* multiplier i) n))))])))</pre>
+         (max best (loop (+ (* multiplier i) n))))])))
+}|
 
 That's a whopping 10 lines of code if you remove the comments and collapse the define back into a single line. Not too bad for what it's calculating.
 
 It takes rather a while to run, but eventually you'll get an answer:
 
-<pre>> (largest-nested-prime)
-357686312646216567629137</pre>
+@codeblock["scheme"]|{
+> (largest-nested-prime)
+357686312646216567629137
+}|
 
 What I'm curious about though, is there a better way to do this? I used the trial division method of determining if a number was prime, but I wonder if either a statistical method or perhaps a sieve would work better. Perhaps it'll be something to try one day if I get bored. :)
 
 One additional thing I did was to work out the nested tree structure that you get with something like this. The code is available at <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/nested-primes.rkt" title="GitHub: Nested primes source">GitHub</a>, but here's a sample run just to whet your appetite:
 
-<pre>> (nested-primes #:root 3 #:limit 1000)
+@codeblock["scheme"]|{
+> (nested-primes #:root 3 #:limit 1000)
 '(3
   (13 (113) (313) (613))
   (23 (223) (523) (823))
   (43 (443) (643) (743))
   (53 (353) (653) (853) (953))
   (73 (173) (373) (673) (773))
-  (83 (283) (383) (683) (883) (983)))</pre>
+  (83 (283) (383) (683) (883) (983)))
+}|
 
 Here's a nice chart of that:
 

@@ -9,11 +9,11 @@ categories:
 comments: true
 
 ---
-<pre>(- (- (+ 4 (* 2 7)) (* (- 1 6) 5)) 1)</pre>
+@codeblock[""]{(- (- (+ 4 (* 2 7)) (* (- 1 6) 5)) 1)}
 is the same as
-<pre>4 + 2 * 7 - (1 - 6) * 5 - 1</pre>
+@codeblock[""]{4 + 2 * 7 - (1 - 6) * 5 - 1}
 is the same as
-<pre>4 2 7 * + 1 6 - 5 * - 1 -</pre>
+@codeblock[""]{4 2 7 * + 1 6 - 5 * - 1 -}
 
 Madness right?
 
@@ -74,7 +74,7 @@ Let's start with the prefix / Scheme version:
 (define (car+cdr ls)
   (values (car ls) (cdr ls)))
 
-(define (prefix-calc main-expr)  
+(define (prefix-calc main-expr)
   (define (step expr)
     (cond
       [(number? (car expr))
@@ -88,7 +88,7 @@ Let's start with the prefix / Scheme version:
   (let-values ([(val rest) (step main-expr)])
     (if (null? rest)
         val
-        (error 'prefix-calc 
+        (error 'prefix-calc
           (format "malformed expression ~s: ~s left over" main-expr rest)))))
 
 ~ (prefix-calc '(+ * 5 8 + 5 - 1 4))
@@ -161,9 +161,9 @@ And finally, the glue that holds the parts together:
 
 (Yes, I had to distribute the 5 at one point. Without doing so, there's no way to force the subtraction to go first and the expression doesn't have the same meaning.)
 
-Whew. That was a fun one. Luckily, I've saved the easiest one for last. Here, we have the Reverse Polish Notation. As a side note, you have may have guessed that since the other two were prefix and infix notation, another name for RPN is postfix notation. 
+Whew. That was a fun one. Luckily, I've saved the easiest one for last. Here, we have the Reverse Polish Notation. As a side note, you have may have guessed that since the other two were prefix and infix notation, another name for RPN is postfix notation.
 
-The algorithm for this one is neat because all you need to keep track of the operation is a stack of values. Whenever you see a number, you push it onto the stack. When you see a function, you pop two values, apply the function, and push the result back onto the stack. Easy as pie. And as an added benefit, you can easily write it in an iterative / tail-recursive manner that avoids allocated stack frames so all the extra memory you need is in the value stack. 
+The algorithm for this one is neat because all you need to keep track of the operation is a stack of values. Whenever you see a number, you push it onto the stack. When you see a function, you pop two values, apply the function, and push the result back onto the stack. Easy as pie. And as an added benefit, you can easily write it in an iterative / tail-recursive manner that avoids allocated stack frames so all the extra memory you need is in the value stack.
 
 @codeblock["scheme"]|{
 (define (postfix-calc expr)
@@ -191,12 +191,12 @@ Pretty much the only thing you have to watch out for in this code is the actual 
 ((eval (car expr)) (cadr stack) (car stack))
 }|
 
-Because you pushed the first argument onto the stack first, you have to reverse them after popping them (thus `cadr` before `car`). This doesn't matter for + or *, so it's easy to miss, but it will really mess up your day when you're working with - or /. 
+Because you pushed the first argument onto the stack first, you have to reverse them after popping them (thus `cadr` before `car`). This doesn't matter for + or *, so it's easy to miss, but it will really mess up your day when you're working with - or /.
 
 So there you have it. Three ways to write expressions and at least one way a computer could deal with each of them.
 
 Before I go, I bet you were wondering why postfix notation is more commonly called Reverse Polish Notation. It's mostly because of J@wikipedia["an Łukasiewicz"]{Jan Łukasiewicz}, a Polish logician and philosopher from first half of the 1900s. Essentially, he described (prefix) Polish notation in the 1920s but for whatever reason it stuck on the postfix notation, ergo reverse. And now you know.
 
-The goal tomorrow is to create a web-based simulation of each of these three algorithms that shows the internal works, step by step. We'll see how that goes. 
+The goal tomorrow is to create a web-based simulation of each of these three algorithms that shows the internal works, step by step. We'll see how that goes.
 
 If you'd like to download today's source, you can do so here: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/evaluating-prefix-infix-postfix.rkt" title="Evaluating prefix/infix/postfix expressions in Racket">source code</a>

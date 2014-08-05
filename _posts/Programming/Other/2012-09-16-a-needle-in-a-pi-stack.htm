@@ -8,7 +8,7 @@ categories:
 comments: true
 
 ---
-Recently I've been watching a lot of <a href="http://www.youtube.com/user/vihart" title="YouTube: Vi Hart">Vi Hart's videos</a> on YouTube. If you haven't had a chance to check them out, you really should. She has a great way of explaining things (particularly mathematical things) in an easy to understand and amusing way. 
+Recently I've been watching a lot of <a href="http://www.youtube.com/user/vihart" title="YouTube: Vi Hart">Vi Hart's videos</a> on YouTube. If you haven't had a chance to check them out, you really should. She has a great way of explaining things (particularly mathematical things) in an easy to understand and amusing way.
 
 One video in particular struck my fancy: <a href="http://www.youtube.com/watch?v=uXoh6vi6J5U" title="YouTube: Vi Hart's Are Shakespeare's Plays Embedded in Pi?">Are Shakespeare's Plays Embedded in Pi?</a> The basic idea is a combination of the @wikipedia["Infinite Monkeys Theorem"]{Infinite monkeys} (the theory that an given an infinite number of monkeys and an infinite amount of time you will reproduce all of the works of Shakespeare) and the fact that Pi is infinitely long, every sequence of numbers will eventually be represented.
 
@@ -52,8 +52,8 @@ Simple enough to use, we can use Racket's @racket-doc{for} to generate a list of
     d))
 
 (define (pi->string n)
-  (string-append 
-   "3."                 
+  (string-append
+   "3."
    (apply
     string-append
     (map number->string (cdr (digits-of-pi n))))))
@@ -73,8 +73,8 @@ In any case, it seems to be working well enough so far, so let's write some code
     (pi) ; skip the 3
     (let loop ([i 1] [l* '()])
       (let* ([d (pi)]
-             [l* (map cdr (filter (lambda (ea) 
-                                    (and (not (null? ea)) 
+             [l* (map cdr (filter (lambda (ea)
+                                    (and (not (null? ea))
                                          (= d (car ea))))
                                   (cons ls l*)))])
         (if (any? null? l*) (- i (length ls)) (loop (+ i 1) l*))))))
@@ -101,12 +101,14 @@ Or the first time that longer sequences occur:
 }|
 
 Now, let's get crazy and see when @wikipedia["Jenny's number"]{867-5309/Jenny} shows up:
-<pre>┌ ☺ <span style="color: purple;">verkampj</span>@"@"<span style="color: #ffcc00;">minty</span> <span style="color: green;">~/Projects/SmallProjects</span>
+
+@codeblock["bash"]|{
+┌ ☺ verkampj@minty ~/Projects/SmallProjects
 └ time ./find-in-pi 8675309
 
 8675309 is 9202591 digits into pi
-</pre>
+}|
 
-I added a few more lines to the <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/find-in-pi.rkt'>full source</a> that lets it run from the command line and compiled it with `raco exe find-in-pi.rkt`. 
+I added a few more lines to the <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/find-in-pi.rkt'>full source</a> that lets it run from the command line and compiled it with `raco exe find-in-pi.rkt`.
 
 That took a while to run. :)
