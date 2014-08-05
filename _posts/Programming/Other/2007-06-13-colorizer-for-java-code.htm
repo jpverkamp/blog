@@ -1,0 +1,163 @@
+title: Colorizer for Java code
+date: 2007-06-13T04:55:28
+slug: colorizer-for-java-code
+layout: post
+categories:
+- Programming/By Language/Java
+comments: true
+
+---
+Another project we had during my first Winter quarter at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman</a> was to use a @wikipedia{finite state machine} to colorize / perform @wikipedia{syntax highlighting} on Java source code. It's easy enough as there are really 3 special cases that we are looking for (strings, comments, and keywords) and we only need 9 states to recognize them all (at least in my implementation).
+
+<!--more-->
+
+All together, we have the following states and transitions:
+<ul>
+	<li>If State = `NORMAL`
+<ul>
+	<li>If you read " then output buffer (as `keyword` or `normal`) and State = `STRING`</li>
+	<li>If you read / then output buffer (as `keyword` or `normal`) and State = `NORMAL_SAW_SLASH`</li>
+	<li>If you read ' then output buffer (as `keyword` or `normal`) and State = `NORMAL_CHAR`</li>
+	<li>Otherwise, buffer characters until we see a non-letter; on a non-letter:
+<ul>
+	<li>If the buffer contains a keyword, output as a `keyword`</li>
+	<li>Otherwise, output as `normal`</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `NORMAL_CHAR`
+<ul>
+	<li>If you read \ then State = `NORMAL_CHAR_ESCAPE`</li>
+	<li>If you read ' then output buffer as `normal` and State = `NORMAL` (yes, character literals can be more than one character long, we aren't validating the input)</li>
+	<li>Otherwise, add the character to the buffer</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `NORMAL_CHAR_ESCAPE`
+<ul>
+	<li>Add the character to the buffer and State = `NORMAL_CHAR`</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `STRING`
+<ul>
+	<li>If you read \ then State = `STRING_SAW_BACKSLASH`</li>
+	<li>If you read " then output buffer as `string` and State = `NORMAL`</li>
+	<li>Otherwise, add the character to the buffer</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `STRING_SAW_BACKSLASH`
+<ul>
+	<li>Add the character to the buffer and State = `STRING`</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `NORMAL_SAW_SLASH`
+<ul>
+	<li>If you read / then State = `COMMENT_LINE`</li>
+	<li>If you read * then State = `COMMENT_BLOCK`</li>
+	<li>Otherwise, State = `NORMAL`</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `COMMENT_LINE`
+<ul>
+	<li>If you read \n then output buffer as `comment` and State = `NORMAL`</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `COMMENT_BLOCK`
+<ul>
+	<li>If you read * then State = `COMMENT_BLOCK_SAW_STAR`</li>
+	<li>Otherwise, add the character to the buffer</li>
+</ul>
+</li>
+</ul>
+<ul>
+	<li>If State = `COMMENT_BLOCK_SAW_STAR`
+<ul>
+	<li>If you read / then output buffer as `comment` and State = `NORMAL`</li>
+	<li>If you read * then add the character to the buffer</li>
+	<li>Otherwise, add the character to the buffer and State = `COMMENT_BLOCK`</li>
+</ul>
+</li>
+</ul>
+
+Perhaps it's not perfect and it can definitely do some strange things on non-valid Java code, but it seems to work well enough. Here's an example on a short HelloWorld program:
+
+@codeblock[""]|{
+/**
+ * This HelloWorld program simply prints "Hello World!"
+ * to the console when it is run.
+ */
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello World!"); // Display the string.
+    }
+}
+}|
+
+@codeblock["html"]|{
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>HelloWorld.java</title>
+
+  </head>
+
+  <body>
+    <style type="text/css">
+        .string { color: red; }
+        .comment { color: green; }
+        .keyword { color: blue; }
+    </style>
+    <pre>
+<span class="comment">/**
+ * This HelloWorld program simply prints "Hello World!"
+ * to the console when it is run.
+ */</span><span class="keyword">
+class</span> HelloWorld {
+   <span class="keyword"> public</span><span class="keyword"> static</span><span class="keyword"> void</span> main(String[] args) {
+        System.out.println(<span class="string">"Hello World!"</span>); <span class="comment">// Display the string.</span>
+    }
+}
+    </pre>
+  </body>
+</html>
+}|
+
+All nice and rendered, that looks something like this:
+
+<div>
+<style type="text/css">
+		.string { color: red; }
+		.comment { color: green; }
+		.keyword { color: blue; }
+</style>
+<pre>
+<span class="comment">/**
+* This HelloWorld program simply prints "Hello World!"
+* to the console when it is run.
+*/</span><span class="keyword">
+class</span> HelloWorld {
+<span class="keyword">&nbsp;&nbsp;public</span><span class="keyword"> static</span><span class="keyword"> void</span> main(String[] args) {
+&nbsp;&nbsp;&nbsp;&nbsp;System.out.println(<span class="string">"Hello World!"</span>); <span class="comment">// Display the string.</span>
+&nbsp;&nbsp;}
+}
+</pre>
+</div>
+
+Well, that's all I've got. If you want to take the code for a spin, you can download it below. To run it, just type `java -jar colorize.jar HelloWorld` (for example, note the lack of an extension on the parameter). The source code is included in the JAR, so if you feel like modifying it, go for it.
+
+<strong>Download:</strong> <a title="Download link for colorize.jar" href="http://blog.jverkamp.com/wp-content/uploads/2007/06/colorize.jar">colorize.jar</a>
