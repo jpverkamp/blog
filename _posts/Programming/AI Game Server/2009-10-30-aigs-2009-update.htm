@@ -1,0 +1,70 @@
+title: AIGS 2009 Update
+date: 2009-10-30T09:05:41
+slug: aigs-2009-update-5
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Project/AI Game Server
+- Programming/By Topic/Artificial intelligence
+comments: true
+
+---
+Updated with almost everything necessary to play the tournament.  I still need to implement the game timer per side.  I will have the up before AI class meets Monday.
+
+All of the changes that are mentioned in the Tournament Rules document have been completed with the following notes:
+<ul>
+	<li>Always 3 players per team</li>
+	<li>Not guaranteed to be solvable (though I haven't seen an unsolvable one yet).</li>
+	<li>You can only capture flags on the other side of the board</li>
+	<li>Flags respawn at random locations on your side of the map</li>
+	<li>You can only see your flags when they have not been captured</li>
+	<li>Non-wall squares you cannot see will be sent as a '*'</li>
+	<li>Captured players will spawn adjacent to their home base</li>
+	<li> If no location is available, they will try further out in concentric circles</li>
+</ul>
+
+<!--more-->
+
+Behavior of respawning flags:
+<ul>
+	<li> If the original location is occupied by a player that can pick up the flag, they will immediately.</li>
+	<li> If the original location is occupied by a player that can not pick up the flag (wrong team or already holding a flag), the flag will spawn in a nearby available square.</li>
+	<li> This may change in class today, if so the server will be updated to match the requirements in class.</li>
+</ul>
+Also, the timer has been implemented.  Once you have used your 3 minutes, the server will not ask you to take another turn
+
+Finally, changes from today's class:
+<ul>
+	<li>Enable random seeds for tournaments (0 to use time)</li>
+	<li>Add flag spawn points</li>
+	<li> Players can move onto enemy spawns</li>
+	<li> Players cannot move onto their own spawns</li>
+	<li> Flag carrying players cannot move onto spawns.</li>
+	<li>Bases and flag spawns have vision of eight adjacent</li>
+	<li>Players have Manhattan vision of 4 (as opposed to old vision algorithm)</li>
+	<li>Display fog of war with non-constant players</li>
+	<li>Add board state to YourTurn</li>
+	<li>Add remaining time messages</li>
+</ul>
+New packets of interest:
+
+CreateTournament <seed>
+<ul>
+	<li>Creates a new tournament map with the given seed.</li>
+	<li>Use 0 to use the server's system time as a seed.</li>
+</ul>
+SetConstantPlayer
+<ul>
+	<li>For the server to always treat you as player 0.</li>
+	<li>Will flip the board so that you are on the left.</li>
+</ul>
+RequestScores
+<ul>
+	<li>Should return each teams current score.</li>
+	<li>Your teams score should be first followed by your opponents</li>
+</ul>
+<strong>Downloads</strong>
+<ul>
+	<li><strong><a href="http://blog.jverkamp.com/wp-content/uploads/2009/11/CTFServer_0_2_01.zip">CTFServer version 0.2.01</a></strong></li>
+	<li><a href="http://blog.jverkamp.com/wp-content/uploads/2009/11/CTFServer_0_2_01_src.zip"><strong>CTFServer version 0.2.01</strong> (Source)</a></li>
+</ul>

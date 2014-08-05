@@ -1,0 +1,44 @@
+title: AIGS 2008 Update
+date: 2008-10-15T09:05:48
+slug: aigs-2008-update-2
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Project/AI Game Server
+- Programming/By Topic/Artificial intelligence
+comments: true
+
+---
+The documentation has not changed for this version; however, a few relatively major updates have been made to the server code.
+
+First, the second player swap rule has been implemented to prevent either player from having an easily implemented perfect strategy. Now, after the first player has played, the second player can choose to either continue the game as normal or to switch places with the first player.
+
+Next, a 4th argument has been added to the JoinSuccess and GameState messages to tell the client if they are player 1 or player 2.
+
+<!--more-->
+
+Finally, two test clients have been added to the GUI in order to facilitate testing. To test your own client against either of these test clients:
+<ol>
+	<li>Run the server.</li>
+	<li>Connect your client.</li>
+	<li>Choose the menu option to add a test client to the game.</li>
+</ol>
+The two test clients are Random and LineMan. Random is, as the name suggests, a purely random player and is unlikely to offer much of a challenge. It's design is more to test if your client can play an entire game without errors.
+
+LineMan is similiar; however, it always plays in connect pieces (if possible). It's not terribly smart about how it chooses to expand this piece; however, it is a stronger opponent that Random.
+
+<strong>Added in this version:</strong>
+<ul>
+	<li> Added ability to spawn test clients.</li>
+	<li> Added menu.</li>
+</ul>
+<strong>Things to do for the next version:</strong>
+<ul>
+	<li> Fix JTree large box bug.</li>
+	<li> Fix cut off name bug.</li>
+</ul>
+<strong>Downloads</strong>
+<ul>
+	<li>AIGS 2008 version 0.02</li>
+</ul>
+<em>Edit: I cannot find the 2008 version of the server on moving to my new webhost.  I hope to find them and upload them at some point in the future.</em>

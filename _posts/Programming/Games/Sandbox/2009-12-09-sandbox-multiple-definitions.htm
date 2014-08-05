@@ -1,0 +1,60 @@
+title: Sandbox - Multiple definitions
+date: 2009-12-09T06:45:34
+slug: sandbox-multiple-definitions
+layout: post
+categories:
+- Programming/By Language/.NET
+- Programming/By Language/C#
+- Programming/By Project/Games/Sandbox
+- Programming/By Topic/Games
+comments: true
+
+---
+Added a few new features that I've been hoping to add for a bit now.
+
+<strong>Screenshots:</strong>
+
+@embed{Sandbox-0.1.6-Complex-wall-structure.png}
+
+<!--more-->
+
+First, we have a more complex wall structure.  I actually grew the walls in the center using Red Crystals in the Crystal definition file.  (See the new features).
+
+Another (definition) feature is the addition of soil.  Soil is a solid that, when watered, will grow plants.  So now the plants will keep coming back every time you burn them to the ground.  Great fun!
+
+@embed{Sandbox-0.1.6-Burn-it-all-down.png}
+
+Of course I had to light everything on fire at least once... I like how the fire is running through the maze of walls that I've placed.
+
+@embed{Sandbox-0.1.6-Growing-red-crystals.png}
+
+Here's a sneak peak at the Crystals definition.  The Red Crystals grow more or less like a circuit board, spreading out.  The Green Crystals grown in much more solid blocks.  The Blue Crystals?  You'll just have to try it and find out.  Remember, PgUp and PgDown will switch between definition files.
+
+<strong>New features:</strong>
+<ul>
+	<li>Use PgUp and PgDown to switch between definition files</li>
+	<li>Added Crystals definition file to grow different kinds of crystals</li>
+	<li>Expanded definition syntax (not backwards compatible, sorry)</li>
+	<li>Minimum and maximum concentrations possible</li>
+</ul>
+<strong>Downloads:</strong>
+<ul>
+	<li><strong><a href="../wp-content/uploads/2009/11/Sandbox-0.1.5.zip"><a href="http://blog.jverkamp.com/wp-content/uploads/2009/12/Sandbox-0.1.6.zip">Sandbox 0.1.6</a>
+</a></strong></li>
+	<li><strong><a href="../wp-content/uploads/2009/11/Sandbox-0.1.5-Source.zip"><a href="http://blog.jverkamp.com/wp-content/uploads/2009/12/Sandbox-0.1.6-Source.zip">Sandbox 0.1.6 (Source)</a>
+</a></strong></li>
+	<li>If you may not have .NET 3.5: <strong><a href="http://www.asoft.be/downloads/netver2007.zip">click here</a></strong></li>
+	<li>To install SDL.NET: <strong><a href="http://sourceforge.net/projects/cs-sdl/files/">click here</a></strong></li>
+</ul>
+<strong>Controls:</strong>
+<ul>
+	<li>Esc/Q – Quit the program</li>
+	<li>B – Toggle border behavior</li>
+	<li>P – Pause / Unpause</li>
+	<li>Space – Advance the simulation one step (when paused)</li>
+	<li>Left-click – Add a blob of the current kind of particle</li>
+	<li>Right-click – Remove a blob of any kind of particle</li>
+	<li>1-9 – Select the corresponding kind of particle</li>
+	<li>PgUp - Load the previous definition file (alphabetically)</li>
+	<li>PgDown - Load the next definition (alphabetically)</li>
+</ul>

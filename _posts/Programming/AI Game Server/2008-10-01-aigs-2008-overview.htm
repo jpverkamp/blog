@@ -1,0 +1,14 @@
+title: AIGS 2008 Overview
+date: 2008-10-01T09:05:30
+slug: aigs-2008-overview
+layout: post
+categories:
+- Programming/By Language/Java
+- Programming/By Project/AI Game Server
+- Programming/By Topic/Artificial intelligence
+comments: true
+
+---
+The AI Game Server started last winter when I was taking CSSE 413 (Artificial Intelligence). As part of the class, we were told to design an AI program capable of playing checkers. Rather than the entire class having to decide on and build in network communication routines, I decided to volunteer to build a server for the class. The first version of this server (which eventually became AIGS) was called PyCheck. It was written purely in Python, using the Twisted framework for networking and wxPython for the GUI. If I can find that original code, I'll post it here as well.
+
+This year, I acted as a TA for the same class and decided to rewrite the game server from scratch to more easily be adapted to other games. The new game server is written in Java using the built in socket classes for network communication. The first (and potentially only) game implemented for how is a version of Hex. I will be posting documentation soon on how to connect to the server along with the first version of the server.
