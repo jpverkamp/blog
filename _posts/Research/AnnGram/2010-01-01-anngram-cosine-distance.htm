@@ -1,0 +1,48 @@
+title: AnnGram - Cosine Distance
+date: 2010-01-01T05:05:00
+slug: anngram-cosine-distance
+layout: post
+categories:
+- Programming/By Language/.NET
+- Programming/By Language/C#
+- Programming/By Project/AnnGram
+- Programming/By Topic/Computational Linguistics
+- Programming/By Topic/Natural Language Processing
+- Programming/By Topic/Neural Networks
+- Programming/By Topic/Research
+- Research
+- Research/By Topic/Computational Linguistics
+comments: true
+
+---
+<strong>Overview</strong>
+
+The first algorithm that I've chosen to implement is a simple cosine difference between the n-gram vectors.  This was the first method used in multiple of the papers that I've read and it seems like a good benchmark.
+
+Essentially, this method gives the similarity of two n-gram documents (either Documents or Authors) as an angle ranging from 0 (identical documents) to @latex['inline]{\pi/2} (completely different documents).  Documents written by the same author should have the lowest values.
+
+<!--more-->
+
+<strong>Equation</strong>
+
+@latex|{ \theta = arccos \left ( \frac{a \cdot b}{|a||b|} \right ) }|
+
+<strong>Example values</strong>
+
+Comparing all of the works of Shakespeare with the Book of Genesis:
+<ul>
+	<li>n = 3, θ = 0.132</li>
+	<li>n = 4, θ = 0.387</li>
+	<li>n = 5, θ = 0.453</li>
+	<li>n = 6, θ = 0.527</li>
+	<li>average θ = 0.375</li>
+</ul>
+Comparing Shakespeare with one of his plays (As You Like It):
+<ul>
+	<li>n = 3, θ = 0.083</li>
+	<li>n = 4, θ = 0.095</li>
+	<li>n = 5, θ = 0.096</li>
+	<li>n = 6, θ = 0.083</li>
+	<li>average θ = 0.090</li>
+</ul>
+As you can see, the basic premise is valid.  Shakespeare is very similar to his own plays and much less so to the Book of Genesis.

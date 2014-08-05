@@ -1,0 +1,43 @@
+title: AnnGram - Initial GUI
+date: 2010-01-05T05:05:55
+slug: anngram-initial-gui
+layout: post
+categories:
+- Programming/By Language/.NET
+- Programming/By Language/C#
+- Programming/By Project/AnnGram
+- Programming/By Topic/Computational Linguistics
+- Programming/By Topic/Natural Language Processing
+- Programming/By Topic/Neural Networks
+- Programming/By Topic/Research
+- Research
+- Research/By Topic/Computational Linguistics
+comments: true
+
+---
+<strong>Overview</strong>
+
+Basically, I got tired of modifying the command line every time I wanted to test new values.  To that end, I spent a small bit of time coding up a GUI to make further experiments easier.
+
+<!--more-->
+
+Lessons learned:
+<ul>
+	<li>Windows Forms designer doesn't work well if you aren't using Visual Studio</li>
+	<li>GTK is rather powerful, but also rather complicated</li>
+	<li>GTK# doesn't hide enough of the underlying complexity of GTK</li>
+	<li>Windows Forms (without designer) are easy enough to use and cross platform (via Mono)</li>
+</ul>
+<strong>GUI</strong>
+
+<strong>@embed{AnnGram-examples-1.png}</strong>
+
+The left and right trees each show all of the documents that have been loaded into the system, sorted by author.  Right-click either tree to load additional documents.  Clicking an author or document selects it for comparison.  Once two items have been selected, the differences (right now only cosine difference) are displayed in the central area.  The previous results are not cleared to aid in comparison.  Above are three visible examples, marked A, B, and C:
+<ul>
+	<li>A: All of Shakespeare versus As You Like It</li>
+	<li>B: All of Shakespeare versus all of William Blake</li>
+	<li>C: All of Shakespeare versus the Book of Genesis</li>
+</ul>
+The values are the same one displayed last time from the command line version.
+
+For future versions, additional values will be displayed beneath the cosine similarity so that they can be compared.

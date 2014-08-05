@@ -1,0 +1,66 @@
+title: FOCI 2013
+date: 2013-08-14T00:00:30
+slug: foci-2013
+layout: post
+categories:
+- Research
+comments: true
+
+---
+Today was the <a href="https://www.usenix.org/conference/foci13">3rd USENIX Workshop on Free and Open Communications on the Internet</a> (FOCI '13) and the second I've personally been to. There were 9 invited talks, ranging through the now usual mix of censorship and privacy papers, including my own: <a title="Usenix/FOCI 2013 — Five incidents, one theme:  Twitter spam as a weapon to drown voices of protest" href="http://blog.jverkamp.com/2013/08/13/usenixfoci-2013-five-incidents-one-theme-twitter-spam-as-a-weapon-to-drown-voices-of-protest/">Five incidents, one theme</a>. Here are a few short summaries of the other papers that are particularly related to my own interests:<!--more-->
+<p style="text-align: center;">* * * * *``</p>
+
+<h2 title=""><a href="https://www.usenix.org/anatomy-web-censorship-pakistan">The Anatomy of Web Censorship in Pakistan</a></h2>
+Zubair Nabi, <em>Information Technology University, Pakistan
+</em>Presented by Mobin Javed, <em>University of California, Berkeley</em>
+
+As one might assume, this presentation was about the details of Pakistan's censorship. It is a far more focused paper than <a title="Usenix/FOCI 2012 — Inferring Mechanics of Web Censorship Around the World" href="http://blog.jverkamp.com/2012/08/06/usenixfoci-inferring-mechanics-of-web-censorship-around-the-world/">my own</a> or other works, but this lets them take a more detailed work. Essentially, they find a changing system((Which always seems to happen)), from an ISP-level censorship before April to a completely state owned, country wide system afterward. Over time, various sites have been blocked entirely (YouTube) or in part (specific videos). Overall, it's an in-depth look at the Pakistani case, which hasn't been done before, but there's nothing particularly unique in how Pakistani censorship works.
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/foci13/internet-censorship-iran-first-look">Internet Censorship in Iran: A First Look</a></h2>
+Simurgh Aryan and Homa Aryan, <em>Aryan Censorship Project; </em>J. Alex Halderman, <em>University of Michigan</em>
+
+Like the previous presentation, this paper talks about censorship in Iran. As an indicator of just how serious a problem this is, the paper was written pseudonymously with the exception of Alex Halderman. Given that though, Iran's censorship system is particularly interesting in it's scale. With the exception of the Great Firewall of China, it's one of the most complicated systems in the world. They perform HTTP Host filtering, DNS hijacking, port/protocol based throttling, and even keyword based filtering (which to my knowledge had only previously been confirmed in China). In addition, they make use of a private IP space (10.10.0.0/16) within the country, making study from outside difficult. Like others though, the system is constantly changing, making studies like this difficult.
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/foci13/towards-illuminating-censorship-monitors-model-facilitate-evasion">Towards Illuminating a Censorship Monitor's Model to Facilitate Evasion</a></h2>
+Sheharbano Khattak, <em>Independent Researcher; </em>Mobin Javed, <em>University of California, Berkeley;</em> Philip D. Anderson, <em>Independent Researcher; </em>Vern Paxson, <em>University of California, Berkeley, and International Computer Science Institute</em>
+
+This presentation aims to develop a system capable of analyzing a censorship system directly, determining its capabilities and then evading it using a custom built solution. In this case, they look into five key features:
+<ol>
+	<li>Creation -- What parts of the TCP handshake is the censor looking for?</li>
+	<li>TCP/IP reassembly -- What degree of fragmentation can the censor deal with?</li>
+	<li>State management -- How much state does a censor maintain and can that be overwhelmed?</li>
+	<li>Teardown -- When is state clear (RST / FIN)?</li>
+	<li>Protocol inspection -- Is the censor scanning for certain protocols / applications (Tor)?</li>
+</ol>
+While they only scanned China's Great Firewall so far, it seems like a promising method. I'd like to see it extended to other countries. There was also a rather interesting discussion both during and after the talk about the ethics of this sort of research. Is it ethical to DoS the Great Firewall?
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/foci13/towards-censorship-analyser-tor">Towards a Censorship Analyser for Tor</a></h2>
+Philipp Winter, <em>The Tor Project and Karlstad University</em>
+
+Being pretty much <em>the</em> name when it comes to anti-censorship tools (that and proxies), Tor is always well represented as censorship and privacy related conferences--FOCI being no exception. Essentially, this presentation talked about the problem of getting good measurements in countries where direct access is hard to come by. Essentially, they want to build a system that anyone can run and that can phone home anonymously--hopefully side stepping the issue that just running these tools is dangerous in some countries. It doesn't seem like they have a particularly wide selection of tools as of yet, but it does seem to be a good start.
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/foci13/lost-edge-finding-your-way-dnssec-signposts">Lost in the Edge: Finding Your Way with DNSSEC Signposts</a></h2>
+Charalampos Rotsos, Heidi Howard, and David Sheets, <em>University of Cambridge;</em> Richard Mortier, <em>University of Nottingham;</em> Anil Madhavapeddy, Amir Chaudhry, and Jon Crowcroft, <em>University of Cambridge</em>
+
+Given that this is a computer science conference with people particularly interested in privacy and anonymity, it's interesting the number of people that maintain their own servers. One problem with that though, is how do you connect everything? How can you talk to personally managed devices? Well, one problem is that NATs and other technologies have made it hard to directly connect to people. As you may be able to guess from the title, the authors' suggestion is to use DNS and domains directly. It seems like a neat idea--and really makes me want to run my own DNS server. It certainly makes me more interested in running my own server one day...
+
+As a side note, I found this quote particularly amusing:
+<blockquote>"DNS servers can play games. As long as they appear to deliver a syntactically correct response to every query, they can fiddle the semantics." --RFC3234</blockquote>
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/foci13/reducing-latency-tor-circuits-unordered-delivery">Reducing Latency in Tor Circuits with Unordered Delivery</a></h2>
+Michael F. Nowlan, David Wolinsky, and Bryan Ford, <em>Yale University</em>
+
+Here's the second expected Tor paper of the day. Essentially, they note that as more and more users in an area use Tor there will be bottlenecks because of how the TCP queue works--packets have to be delivered in order. They fix it using two of their own protocols: uTCP and uTLS (the u stands for un-ordered). Basically, they allow for consistency and ordering as TCP does but also allow packets to be delivered out of ordered, thus speeding up delivery in these instances.
+<p style="text-align: center;">* * * * *</p>
+At the end of the day, we had a rump session. Here are a few questions / comments / concerns:
+<ul>
+	<li>Countries share a lot of data; how does this interfere with projects like Tor?</li>
+	<li>Anonymity is great; but what about terrorists?</li>
+	<li>"Anonymity is when no one knows who you are talking to--even the person you are talking to. Privacy is communicating without being overheard."</li>
+	<li>There are a lot of badly worded restrictions on exports of exactly the kind of thing the FOCI community works on.</li>
+</ul>

@@ -1,0 +1,24 @@
+title: USENIX 2013 - Day 3
+date: 2013-08-17T00:00:14
+slug: usenix-2013-day-3
+layout: post
+categories:
+- Research
+comments: true
+
+---
+Today's the third and final day. Since I had to fly out in the afternoon, I didn't get a chance to go to as many talks today, but so it goes. There was really interesting talk that I'm sad to have missed (<a href="https://www.usenix.org/conference/usenixsecurity13/dismantling-megamos-crypto-wirelessly-lockpicking-vehicle-immobilizer">Dismantling Megamos Crypto: Wirelessly Lockpicking a Vehicle Immobilizer</a>) but it'll be nice to be home. Here are the talks that I did make it to and found particularly interesting though:<!--more-->
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/usenixsecurity13/measuring-practical-impact-dnssec-deployment">Measuring the Practical Impact of DNSSEC Deployment</a></h2>
+Wilson Lian, <em>University of California, San Diego; </em>Eric Rescorla, <em>RTFM, Inc.;</em> Hovav Shacham and Stefan Savage, <em>University of California, San Diego</em>
+
+DNSSEC is supposed to be an extension of DNS that will fix the security problems the original DNS authors just didn't think would be an issues all those decades ago when they first created the protocol. The problem is, DNSSEC is not particularly widely deployed as of yet. Worse yet, in some cases (they found only 0.22%, but still some) just turning on DNSSEC was enough to break pages--although interestingly the majority of those were in the Asia Pacific network. On top of that, they found that a further 1-2% of sites that did not actually validate incorrect DNSSEC entries, just trusting them implicitly. There is some good news though: apparently Comcast has actually correctly rolled out DNSSEC to their servers, correctly invalidating nearly 98% of the bad records. No matter your thoughts on Comcast, that's at least one thing that they've gotten right.
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/usenixsecurity13/zmap-fast-internet-wide-scanning-and-its-security-applications">ZMap: Fast Internet-wide Scanning and Its Security Applications</a></h2>
+Zakir Durumeric, Eric Wustrow, and J. Alex Halderman,<em>University of Michigan</em>
+
+This tool would have been rather useful to have when I was working on <a title="Scanning for DNS resolvers" href="http://blog.jverkamp.com/2013/01/31/scanning-for-dns-resolvers/">DNS scanning the Internet</a>. Granted, our tests have tiered scans based on previous results that wouldn't work as well with ZMap, but it's still a step in the right direction. Essentially, it's an improvement for nmap designed to scan the entire IPv4 address space. Traditionally, this would take months--they claim that ZMap can do it in hours. It's definitely something to keep in mind for future studies.
+<p style="text-align: center;">* * * * *</p>
+And that's it for USENIX. Hopefully, I'll be able to come back next year, but even more hopefully I'll have graduated by then. We'll see what my next employer thinks of the idea.

@@ -1,0 +1,36 @@
+title: USENIX 2013 - Day 2
+date: 2013-08-16T00:00:33
+slug: usenix-2013-day-2
+layout: post
+categories:
+- Research
+comments: true
+
+---
+Day 2/3. There's really not much more to say, so how about getting right to the interesting talks:<!--more-->
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/usenixsecurity13/you-are-how-you-click-clickstream-analysis-sybil-detection">You Are How You Click: Clickstream Analysis for Sybil Detection</a></h2>
+Gang Wang and Tristan Konolige, <em>University of California, Santa Barbara; </em>Christo Wilson, <em>Northeastern University; </em>Xiao Wang, <em>Renren Inc.; </em>Haitao Zheng and Ben Y. Zhao, <em>University of California, Santa Barbara</em>
+
+Sybils are apparently exactly what I found when I was studying <a title="Usenix/FOCI 2013 — Five incidents, one theme:  Twitter spam as a weapon to drown voices of protest" href="http://blog.jverkamp.com/2013/08/13/usenixfoci-2013-five-incidents-one-theme-twitter-spam-as-a-weapon-to-drown-voices-of-protest/">Twitter censorship</a>: automated accounts. In this instance, the presentation talked about finding Sybils not by what their accounts look like (they also note that accounts are getting more sophisticated), but rather by how they behave. In general, normal users aren't nearly as focused on a single type of activity and don't click things nearly as quickly as bots. They present a fairly standard clustering method based on this which they claim is extremely accurate. It could be beaten using more human-like behavior, but the idea is that would be prohibitively expensive for bots to maintain. We'll see...
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/usenixsecurity13/alice-warningland-large-scale-field-study-browser-security-warning">Alice in Warningland: A Large-Scale Field Study of Browser Security Warning Effectiveness</a></h2>
+Devdatta Akhawe, <em>University of California, Berkeley;</em>Adrienne Porter Felt, <em>Google, Inc.</em>
+
+Have you ever tried to visit a website and instead been greeted with a warning page saying the the page is hosting malware / has an invalid SSL certificate? This presentation goes fairly in depth with information from both Firefox and Chome, showing various behaviors of users when confronted with such warning pages. In their estimate, the goal is for 0% of people to skip these warnings, although in practice it's a bit higher than that--but interestingly lower than the expected. One particularly interesting point I found is that in general Firefox users are less likely than Chrome users to click through the warnings. Are Firefox users more paranoid? Are the Firefox warnings just harder to skip? It's an interesting study in any case.
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/usenixsecurity13/empirical-study-vulnerability-rewards-programs">An Empirical Study of Vulnerability Rewards Programs</a></h2>
+Matthew Finifter, Devdatta Akhawe, and David Wagner, <em>University of California, Berkeley</em>
+
+This presentation went something into depth talking about bug bounties used in both <a href="https://www.mozilla.org/security/bug-bounty.html">Firefox</a> and <a href="https://www.google.com/about/appsecurity/reward-program/">Chrome</a>. For security researchers (or anyone really), a high priority or critical bug can net several thousand dollars so it's a reasonable deal. Going through their analysis though, the total payout to date for either Mozilla or Google was less than it would cost to hire a dedicated security developer and found even more bugs. Also interesting is the difference in prize distribution: Chrome's prizes range from $500 to $10,000, with a median at $1000. Firefox on the other hand always awarded $3,000. Essentially, it's the lottery principal: Chrome will earn you less on average but there's the chance for so much more. Also, they found that it's not uncommon for people that find several of these bugs to get hired. Overall, it's a really interesting program. I should look into a bit more... :)
+<p style="text-align: center;">* * * * *</p>
+
+<h2 title=""><a href="https://www.usenix.org/conference/usenixsecurity13/security-picture-gesture-authentication">On the Security of Picture Gesture Authentication</a></h2>
+Ziming Zhao and Gail-Joon Ahn, <em>Arizona State University and GFS Technology, Inc.; </em>Jeong-Jin Seo, <em>Arizona State University;</em> Hongxin Hu, <em>Delaware State University</em>
+
+A new form of authentication used in Windows 8 is to allow the user to choose a picture and then set three gestures (from tap, circle, and line) in order to log in. It turns out that most people seem to choose people, although any one of these tends to lower the number of points that would actually be chosen for any particular set of gestures. Essentially: people are not much better at choosing secure gesture than they are secure passwords. It's theoretically harder for computers to break (there's the physical problem of entering them for one), but in practice not nearly variable enough.
+<p style="text-align: center;">* * * * *</p>
+ One more day to go!
