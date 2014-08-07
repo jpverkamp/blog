@@ -174,7 +174,7 @@
                       (h2 ((class "entry-title")) (a ((href ,(string-append (or (site "url") "") "/" (post "permalink")))) ,(post "title")))
                       (div ((class "entry-meta"))
                            ,(published-on (post "date"))))
-                     (div ((class "preview")) ,(post "more"))
+                     (div ((class "preview")) ,(or (post "more") (post "content")))
                      (hr))]
                [else
                 (define date-chunk (and (post "date") (format "~a ~a" (vector-ref '#(#f "Jan" "Feb" "Mar" "Apr" "May" "June" "July" "Aug" "Sept" "Oct" "Nov" "Dec") (date-month (post "date"))) (date-year (post "date")))))
