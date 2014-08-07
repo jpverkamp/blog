@@ -1,7 +1,3 @@
-title: A 'Tiny' virtual machine in Racket
-date: 2013-08-21T00:00:28
-slug: a-tiny-virtual-machine-in-racket
-layout: post
 categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
@@ -12,7 +8,9 @@ categories:
 - Programming/By Topic/Programming Languages
 - Programming/By Topic/Programming Languages/Virtual Machines
 comments: true
-
+date: 2013-08-21 00:00:28
+layout: post
+title: A 'Tiny' virtual machine in Racket
 ---
 <a href="http://www.reddit.com/r/dailyprogrammer/comments/1kqxz9/080813_challenge_132_intermediate_tiny_assembler/">Today's challenge</a> at /r/dailyprogrammer asks to implement an assembler for a small virtual machine. It has only 16 @wikipedia["mnemonics"]{Assembly language#Opcode mnemonics and extended mnemonics} which in unique @wikipedia["opcodes"]{Opcode} (each instruction can have multiple forms for if they're accessing memory or literals), so it's a simple virtual machine indeed. As a challenge, you're supposed to write an interesting program (I actually wrote a virtual machine as well to test them). As an even better challenge, we're supposed to prove that Tiny is @wikipedia{Turing complete}. Well, let's get to it!<!--more-->
 

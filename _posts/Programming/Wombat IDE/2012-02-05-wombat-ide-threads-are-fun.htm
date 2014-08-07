@@ -1,13 +1,11 @@
-title: Wombat IDE - Threads are *fun*
-date: 2012-02-05T04:55:57
-slug: wombat-ide-threads-are-fun
-layout: post
 categories:
 - Programming/By Language/Java
 - Programming/By Language/Scheme
 - Programming/By Project/Wombat IDE
 comments: true
-
+date: 2012-02-05 04:55:57
+layout: post
+title: Wombat IDE - Threads are *fun*
 ---
 Threads can get all sorts of interesting sometimes. And fun to debug. Essentially, whenever the user would restart the Petite process (using the Stop button) a new output thread would be spawned. There wasn't any problem with the output being duplicated or lost--I already had locking in place to prevent that--but what would happen is that the threads would interleave the output, scrambling output nicely.
 

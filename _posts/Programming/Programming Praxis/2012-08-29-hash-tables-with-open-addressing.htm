@@ -1,12 +1,10 @@
-title: Hash Tables With Open Addressing
-date: 2012-08-29T14:00:26
-slug: hash-tables-with-open-addressing
-layout: post
 categories:
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 comments: true
-
+date: 2012-08-29 14:00:26
+layout: post
+title: Hash Tables With Open Addressing
 ---
 Another day, another post from <a href="http://programmingpraxis.com/2012/08/24/hash-tables-with-open-addressing/" title="Hash Tables With Open Accessing">Programming Praxis</a>. This time, the goal is to write a hash table with @wikipedia["open addressing"]{Hash table#Open addressing}. Basically, whenever there is a collision with your hash function, advance to the next index and try to store it there. Continue until you either succeed or are out of keys. My solution isn't so different from the one that <a href="http://programmingpraxis.com/2012/08/24/hash-tables-with-open-addressing/2/" title="Hash Tables With Open Addressing: Solution">Programming Praxis posted</a> (that'd be the problem with using the same language). 
 

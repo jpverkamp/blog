@@ -1,14 +1,12 @@
-title: Pythagorean Triples
-date: 2012-10-27T14:00:44
-slug: pythagorean-triples
-layout: post
 categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 - Programming/By Topic/Mathematics
 comments: true
-
+date: 2012-10-27 14:00:44
+layout: post
+title: Pythagorean Triples
 ---
 When Programming Praxis mentioned that the <a href="http://programmingpraxis.com/2012/10/26/pythagorean-triples/" title="Programming Praxis: Pythagorean Triples">newest challenge</a> sounded like a <a href="http://projecteuler.net/" title="Project Euler">Project Euler</a> problem, they were't wrong. Basically, the idea is to count the number of @wikipedia{Pythagorean Triples} with perimeters (sum of the three numbers) under a given value. The necessary code to brute force the problem is really straight forward, but then they asked for the count up to one million. With the brute force @latex['inline]|{ O(n^2) }| algorithm (and a relatively high constant), that's not really feasible. So that's when we have to get a bit more creative.
 

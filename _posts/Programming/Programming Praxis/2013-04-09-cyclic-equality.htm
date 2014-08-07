@@ -1,14 +1,12 @@
-title: Cyclic equality
-date: 2013-04-09T14:00:15
-slug: cyclic-equality
-layout: post
 categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 - Programming/By Topic/Data Structures
 comments: true
-
+date: 2013-04-09 14:00:15
+layout: post
+title: Cyclic equality
 ---
 In <a title="Cyclic equality on Programming Praxis" href="http://programmingpraxis.com/2013/04/09/cyclic-equality/">today's post</a> from Programming Praxis, the goal is to check if two cyclic lists are equal. So if you have the cycles `↻(1 2 3 4 5)` and `↻(3 4 5 1 2)`, they're equal. Likewise, `↻(1 2 2 1)` and `↻(2 1 1 2)` are equal. But `↻(1 2 3 4)` and `↻(1 2 3 5)` are not since they have different elements while `↻(1 1 1)` and `↻(1 1 1 1)` aren't since they have different elements.
 

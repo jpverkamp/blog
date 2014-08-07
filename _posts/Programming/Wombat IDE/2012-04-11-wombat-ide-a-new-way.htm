@@ -1,13 +1,11 @@
-title: Wombat IDE - A new way
-date: 2012-04-11T04:55:36
-slug: wombat-ide-a-new-way
-layout: post
 categories:
 - Programming/By Language/Java
 - Programming/By Language/Scheme
 - Programming/By Project/Wombat IDE
 comments: true
-
+date: 2012-04-11 04:55:36
+layout: post
+title: Wombat IDE - A new way
 ---
 Up until now, the <a title="Wombat IDE – The first Petite versions" href="http://blog.jverkamp.com/2012/01/18/wombat-ide-the-first-petite-versions/">Petite bindings</a> have been built around a threaded model where one thread existed solely to send new commands to the Petite process and another solely to read responses back. Mostly, this would stop <a title="Five Common java.lang.Process pitfalls" href="http://kylecartmell.com/?p=9">the problem</a> with the Java <a title="Java Process API" href="http://docs.oracle.com/javase/1.4.2/docs/api/java/lang/Process.html">Process</a> model that would cause it to deadlock if the data was not actually being consumed--the reading thread could act as a buffer in this instance.
 

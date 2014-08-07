@@ -1,12 +1,10 @@
-title: Random Access Lists
-date: 2012-08-30T14:00:28
-slug: random-access-lists
-layout: post
 categories:
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 comments: true
-
+date: 2012-08-30 14:00:28
+layout: post
+title: Random Access Lists
 ---
 This time around, Programming Praxis <a href="http://programmingpraxis.com/2012/08/28/random-access-lists/" title="Programming Praxis: Random Access Lists">had a challenge</a> to take the algorithm presented in Chris Okasaki's 1995 paper <a href="http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.55.5156" title="Purely Function Random-Access Lists">Purely Functional Random-Access Lists</a> (<a href="http://www.westpoint.edu/eecs/SiteAssets/SitePages/Faculty%20Publication%20Documents/Okasaki/fpca95.pdf" title="Purely Functional Random-Access Lists">alternate link</a>). The basic idea is that in traditional lists, you have `O(1)` access to the head of the list, but `O(n)` to any particular item in the list. The algorithm in the paper challenges that with `O(log(n))` access to the list while preserving the ability to arbitrarily grow the list. 
 
