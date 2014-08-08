@@ -1,6 +1,6 @@
 title: "Wombat IDE - Upload button and λ‎"
 date: 2012-02-17T04:55:54
-slug: wombat-ide-upload-button-and-%ce%bb
+slug: wombat-ide-upload-button-and-lambda
 layout: post
 categories:
 - Programming/By Language/Java
@@ -18,7 +18,9 @@ Two new features that should prove to be pretty useful:
 <!--more-->
 
 The upload button shows up on the toolbar, right next to the new connect button:
-<div><a href="http://blog.jverkamp.com/2012/02/16/wombat-ide-upload-button-and-%ce%bb%e2%80%8e/connect-upload/" rel="attachment wp-att-667"><img class="alignnone size-full wp-image-667" title="Wombat IDE - Connect and Upload" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/connect-upload.png" alt="Buttons to connect to other machines and upload to Tire" width="62" height="33" /></a></div>
+
+@embed{connect-upload.png}
+
 (The screen sharing button is on the left, the upload button is on the right.)
 
 All that the upload button does is to connect to the upload server (the C211 software is called Tiro, but the button is not specific to that) by displaying a page in the user's default web browser. In addition, it will take the current file name and use that to set the URL, so for example having `a5.ss` open will open the submission page for `a5`, while `a6.ss` will submit to `a6`.
@@ -39,8 +41,8 @@ The second new feature is a λ character. Simple type Ctrl-L and the character 
 λ is completely identical to the more traditional lambda, defined by the following macro:
 
 @codeblock["scheme"]|{
-(define-syntax \u03BB 
-  (syntax-rules () 
+(define-syntax \u03BB
+  (syntax-rules ()
     [(\u03BB a ...) (lambda a ...)]))
 }|
 
