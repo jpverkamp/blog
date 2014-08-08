@@ -1,30 +1,19 @@
-(define (embed #:full-size [full-size #f] . args)
-  (define classes 
+(define (embed #:target [target #f] #:lightbox [lightbox #f] #:class [class #f] text)
+  (define (absolute-path src)
     (cond
-      [(> (length args) 1)
-       (string-join (map ~a (reverse (cdr (reverse args)))) " ")]
-      [else
-       #f]))
-  
-  (define src
-    (last args))
-  
-  (define absolute-path (~a (or (site "url") "/") "/" (or (post "permalink") ".") "/" src))
+      [(regexp-match #px"://" src) src]
+      [else (~a (or (site "url") "/") "/" (or (post "permalink") ".") "/" src)]))
 
   (cond
-    [(regexp-match #px"\\.(png|jpg|jpeg|gif)$" src)
-     `(a ((data-toggle "lightbox") 
-          (href ,(or full-size absolute-path))
-          ,@(if classes `((class ,classes)) `()))
-         (img ((src ,absolute-path))))]
-    [full-size
-     `(a ((data-toggle "lightbox") 
-          (href ,(or full-size absolute-path))
-          ,@(if classes `((class ,classes)) `()))
-         ,src)]
+    [(regexp-match #px"\\.(png|jpg|jpeg|gif)$" text)
+     `(a ((data-toggle "lightbox")
+          (href ,(absolute-path (or target text)))
+          ,@(if class `((class ,class)) `()))
+         (img ((src ,(absolute-path text)))))]
     [else
-     `(a ((href ,(or full-size absolute-path))
-          ,@(if classes `((class ,classes)) `()))
-         ,src)]))
+     `(a ((href ,(absolute-path (or target text)))
+          ,@(if lightbox `((data-toggle "lightbox")) '())
+          ,@(if class `((class ,class)) `()))
+         ,text)]))
    
 (register-plugin 'embed embed)
