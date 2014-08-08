@@ -7,7 +7,7 @@ date: 2012-04-13 04:55:26
 layout: post
 title: Wombat IDE - Turtle graphics
 ---
-As I mentioned in my last post, I've been adding a @wikipedia{turtle graphics} library to Wombat to use with the other C211 libraries (<a title="Wombat IDE – C211 Matrix Library" href="http://blog.jverkamp.com/2011/12/12/wombat-ide-c211-matrix-library/">matrix</a>, <a title="Wombat IDE – C211 tree and image libraries" href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/">image</a>, and <a title="Wombat IDE – C211 tree and image libraries" href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/">tree</a>).
+As I mentioned in my last post, I've been adding a @wikipedia{turtle graphics} library to Wombat to use with the other C211 libraries (@crosslink["wombat-ide-c211-matrix-library"]{matrix}, @crosslink["c211-tree-and-image-libraries"]{image}, and @crosslink["c211-tree-and-image-libraries"]{tree}).
 
 <!--more-->
 
@@ -79,7 +79,7 @@ To start out with, a simple box. This shows how to move, how to turn, and how to
 (draw-turtle (box))
 }|
 
-<a href="http://blog.jverkamp.com/2012/04/12/wombat-ide-turtle-graphics/box/" rel="attachment wp-att-723"><img class="alignnone size-full wp-image-723" title="Wombat IDE - Turtle - Box" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/box.png" alt="A simple box drawn using turtle graphics" width="120" height="120" /></a>
+@crosslink["wombat-ide-turtle-graphics"]{<img class="alignnone size-full wp-image-723" title="Wombat IDE - Turtle - Box" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/box.png" alt="A simple box drawn using turtle graphics" width="120" height="120" />}
 <h3>Sierpinski triangle:</h3>
 Next, the traditional @wikipedia{Sierpinski triangle}. This is based on the @wikipedia["L-systems Wikipedia"]{L-system} page, using function calls for the recursive generating function. The original two inverse calls have been combined into the single loop, using the sign of the variable `d` to control which way the rotation is currently going.
 
@@ -109,7 +109,7 @@ Next, the traditional @wikipedia{Sierpinski triangle}. This is based on the @wik
 (draw-turtle (sierpinski 5))
 }|
 
-<a href="http://blog.jverkamp.com/2012/04/12/wombat-ide-turtle-graphics/triangle/" rel="attachment wp-att-727"><img class="alignnone  wp-image-727" title="Wombat IDE - Turtle - Sierpinski triangle" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/triangle.png" alt="A Sierpinski triangle, drawn using turtle graphics" width="396" height="334" /></a>
+@crosslink["wombat-ide-turtle-graphics"]{<img class="alignnone  wp-image-727" title="Wombat IDE - Turtle - Sierpinski triangle" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/triangle.png" alt="A Sierpinski triangle, drawn using turtle graphics" width="396" height="334" />}
 <h3>Recursive tree:</h3>
 A simple tree that starts with a single turtle and `split`s into two additional turtles at each iteration. Using a proper rendering (which I haven't actually written yet), you could see all of the branches expanding outwards in parallel.
 
@@ -133,7 +133,7 @@ A simple tree that starts with a single turtle and `split`s into two additional 
 (draw-turtle (tree 5))
 }|
 
-<a href="http://blog.jverkamp.com/2012/04/12/wombat-ide-turtle-graphics/tree/" rel="attachment wp-att-726"><img class="alignnone  wp-image-726" title="Wombat IDE - Turtle - Tree" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/tree.png" alt="A recursively defined tree, drawn using turtle graphics" width="151" height="162" /></a>
+@crosslink["wombat-ide-turtle-graphics"]{<img class="alignnone  wp-image-726" title="Wombat IDE - Turtle - Tree" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/tree.png" alt="A recursively defined tree, drawn using turtle graphics" width="151" height="162" />}
 <h3>Recursive star:</h3>
 Rather than using `split` as the tree above does, this star uses a combination of `repeat` (to get the multiple arms) and `block` (to reset to the center for new extension).
 
@@ -154,7 +154,7 @@ Rather than using `split` as the tree above does, this star uses a combination o
 (draw-turtle (star 5 3))
 }|
 
-<a href="http://blog.jverkamp.com/2012/04/12/wombat-ide-turtle-graphics/star/" rel="attachment wp-att-725"><img class="alignnone  wp-image-725" title="Wombat IDE - Turtle - Star" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/star.png" alt="A recursive star pattern, drawn using turtle graphics" width="211" height="202" /></a>
+@crosslink["wombat-ide-turtle-graphics"]{<img class="alignnone  wp-image-725" title="Wombat IDE - Turtle - Star" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/star.png" alt="A recursive star pattern, drawn using turtle graphics" width="211" height="202" />}
 <h3>Dragon fractal:</h3>
 This is a pretty fractal translated almost directly from the @wikipedia{L-System} Wikipedia page. Each recursive level became a function directly this time. The coloring is randomly selected tones from yellow to red.
 
@@ -191,6 +191,6 @@ This is a pretty fractal translated almost directly from the @wikipedia{L-System
 (draw-turtle (dragon 12))
 }|
 
-<a href="http://blog.jverkamp.com/2012/04/12/wombat-ide-turtle-graphics/dragon/" rel="attachment wp-att-724"><img class="alignnone  wp-image-724" title="Wombat IDE - Turtle - Dragon" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/dragon-e1339825044657.png" alt="A dragon fractal drawn using turtle graphics" width="390" height="582" /></a>
+@crosslink["wombat-ide-turtle-graphics"]{<img class="alignnone  wp-image-724" title="Wombat IDE - Turtle - Dragon" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/dragon-e1339825044657.png" alt="A dragon fractal drawn using turtle graphics" width="390" height="582" />}
 
 &nbsp;

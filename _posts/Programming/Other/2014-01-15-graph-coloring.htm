@@ -16,7 +16,7 @@ Essentially, @wikipedia{graph coloring}.
 
 <!--more-->
 
-Of course we'll go ahead and use the <a href="https://github.com/stchang/graph/tree/master">same graph library</a>@footnote{Which actually solves this problem in two ways, but we'll go ahead and work on the problem anyways} as <a href="http://blog.jverkamp.com/2014/01/14/graph-radius/">yesterday's post</a>. The input format is a little different this time, where each line contains a node then all of the neighbors, but that shouldn't be an issue. We just need a slightly different `read-graph` function:
+Of course we'll go ahead and use the @crosslink["graph-radius"]{yesterday's post}. The input format is a little different this time, where each line contains a node then all of the neighbors, but that shouldn't be an issue. We just need a slightly different `read-graph` function:
 
 @codeblock["scheme"]|{
 ; Given a string or input port, read a graph

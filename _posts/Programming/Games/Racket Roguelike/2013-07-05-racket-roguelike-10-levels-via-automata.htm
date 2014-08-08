@@ -9,9 +9,9 @@ date: 2013-07-05 14:00:29
 layout: post
 title: 'Racket Roguelike 10: Levels via automata!'
 ---
-<a title="Racket Roguelike 9: Daedalus’ wrath!" href="http://blog.jverkamp.com/2013/06/28/racket-roguelike-9-daedalus-wrath/">Last week</a> we made mazes on a regular grid using the <a title="Perlin and simplex noise in Racket" href="http://blog.jverkamp.com/2013/04/11/perlin-and-simplex-noise-in-racket/">noise generators</a>. That was pretty neat, but it got me thinking. What other ways do we have to procedurally generate interesting level patterns? <!--more-->
+@crosslink["racket-roguelike-9-daedalus-wrath"]{Last week} we made mazes on a regular grid using the @crosslink["perlin-and-simplex-noise-in-racket"]{noise generators}. That was pretty neat, but it got me thinking. What other ways do we have to procedurally generate interesting level patterns? <!--more-->
 
-Well, one option would be to use @wikipedia{cellular automaton}. I've written about them <a title="Elementary cellular automaton" href="http://blog.jverkamp.com/2012/10/03/elementary-cellular-automaton/">before</a>, but in summary, they're basically applying a set of rules to a regular grid resulting in emergent features. In this case, our rule will be simple. Start with an empty grid seeded with a random central tile. From there, randomly generate new tiles, making them walkable if and only if there is 1-3 walkable tiles around them. This means that they have to be connected and they can't be too connected (allowing for branches but nothing more).
+Well, one option would be to use @wikipedia{cellular automaton}. I've written about them @crosslink["elementary-cellular-automaton"]{before}, but in summary, they're basically applying a set of rules to a regular grid resulting in emergent features. In this case, our rule will be simple. Start with an empty grid seeded with a random central tile. From there, randomly generate new tiles, making them walkable if and only if there is 1-3 walkable tiles around them. This means that they have to be connected and they can't be too connected (allowing for branches but nothing more).
 
 The first problem we have with that is that our current setup doesn't really allow for taking a tile's neighbors into account when generating content. So we'll have to directly access the level's tile hash. It's suboptimal (since we're breaking the abstraction), but it will work.
 
@@ -71,7 +71,7 @@ So how does it look?
 
 @embed{Cellular-growth-1.png}
 
-Basically, we have a nice warren of tightly curving caves. It really reminds me a fair bit of <a title="Sandbox – It’s Alive!" href="http://blog.jverkamp.com/2010/02/06/sandbox-its-alive/">Sandbox</a>. Some day I want to go back to that...
+Basically, we have a nice warren of tightly curving caves. It really reminds me a fair bit of @crosslink["sandbox-its-alive"]{Sandbox}. Some day I want to go back to that...
 
 So that's one non-noise based level generation script. What else can we do?
 

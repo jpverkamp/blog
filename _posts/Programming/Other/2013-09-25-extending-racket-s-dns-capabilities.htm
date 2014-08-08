@@ -12,7 +12,7 @@ date: 2013-09-25 14:00:35
 layout: post
 title: Extending Racket's DNS capabilities
 ---
-As I <a title="Extending Racket structs to bitfields" href="http://blog.jverkamp.com/2013/09/23/extending-racket-structs-to-bitfields/">mentioned</a> on Monday, I wrote my <a href="https://github.com/jpverkamp/bit-struct">bit-struct</a> library primarily because I needed it to continue with my research@footnote{Isn't that always the way? The libraries that get made are the ones the author needs or the ones they get paid to need.}. Specifically speaking, I'm working on finding <a title="ISMA 2013 AIMS-5 — DNS Based Censorship" href="http://blog.jverkamp.com/2013/02/09/isma-2013-aims-5-dns-based-censorship/">DNS-based censorship</a> around the world--and to do that, I need a fair bit of control over the DNS packets that I'm sending back and over parsing the ones that I get back.
+As I @crosslink["extending-racket-structs-to-bitfields"]{mentioned} on Monday, I wrote my @crosslink["isma-2013-aims-5-dns-based-censorship"]{DNS-based censorship} around the world--and to do that, I need a fair bit of control over the DNS packets that I'm sending back and over parsing the ones that I get back.
 
 <!--more-->
 
@@ -143,7 +143,7 @@ After that, we want to choose a random port and ID for the DNS request. The port
        ...
 }|
 
-After that, we'll use the <a title="Extending Racket structs to bitfields" href="http://blog.jverkamp.com/2013/09/23/extending-racket-structs-to-bitfields/">bit-struct</a> library to build the actual request.
+After that, we'll use the @crosslink["extending-racket-structs-to-bitfields"]{bit-struct} library to build the actual request.
 
 @codeblock["scheme"]|{
        ...

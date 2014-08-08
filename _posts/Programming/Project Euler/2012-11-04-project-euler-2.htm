@@ -67,7 +67,7 @@ In computing, memoization is an optimization technique used primarily to speed u
 -- <cite>@wikipedia["Wikipedia: Memoization"]{Memoization}</cite>
 </blockquote>
 
-Sounds like exactly what we want. I've already <a href="http://blog.jverkamp.com/2012/10/20/memoization-in-racket/" title="Memoization in Racket">written an article</a> about writing a memoized version of `define` in Racket, so go read that if you're more interested in the details. Otherwise, functionally it's just a matter of swapping `define` with `define-memoized`:
+Sounds like exactly what we want. I've already @crosslink["memoization-in-racket"]{written an article} about writing a memoized version of `define` in Racket, so go read that if you're more interested in the details. Otherwise, functionally it's just a matter of swapping `define` with `define-memoized`:
 
 @codeblock["scheme"]|{
 ; calculate the nth Fibonacci number

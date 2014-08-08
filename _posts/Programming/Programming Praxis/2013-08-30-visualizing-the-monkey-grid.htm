@@ -72,7 +72,7 @@ So how does it work? Well, let's write a quick function to visualize an infinite
         (mapping (infinite-grid-ref grid (+ x min-x) (+ y min-y) default)))))))
 }|
 
-This is basically the same technique that we used to draw noise in the <a title="Perlin and simplex noise in Racket" href="http://blog.jverkamp.com/2013/04/11/perlin-and-simplex-noise-in-racket/">Perlin/Simplex noise post</a> and the technique used in the Wombat <a title="(c211 image) API" href="http://blog.jverkamp.com/wombat-ide/c211-image-api/">(c211 image)</a> library. In this case, we pass a generating function to@racket-doc{build-flomap*}that returns the color at each point. Using a simple coloring where `#t` is red, `#f` is black, and `(void)` (the points we don't visit) is white, we get this:
+This is basically the same technique that we used to draw noise in the @crosslink["perlin-and-simplex-noise-in-racket"]{Perlin/Simplex noise post} and the technique used in the Wombat <a title="(c211 image) API" href="http://blog.jverkamp.com/wombat-ide/c211-image-api/">(c211 image)</a> library. In this case, we pass a generating function to@racket-doc{build-flomap*}that returns the color at each point. Using a simple coloring where `#t` is red, `#f` is black, and `(void)` (the points we don't visit) is white, we get this:
 
 @embed{131072.png}
 

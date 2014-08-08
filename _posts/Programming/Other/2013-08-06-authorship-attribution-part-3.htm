@@ -11,7 +11,7 @@ date: 2013-08-06 14:00:53
 layout: post
 title: 'Authorship attribution: Part 3'
 ---
-So far, we've had three different ideas for figuring out the author of an unknown paper (top n word ordering in <a title="Authorship attribution: Part 1" href="http://blog.jverkamp.com/2013/07/30/authorship-attribution-part-1/" rel="nofollow">Part 1</a> and stop word frequency / 4-grams in <a title="Authorship attribution: Part 2" href="http://blog.jverkamp.com/2013/08/02/authorship-attribution-part-2/" rel="nofollow">Part 2</a>). Here's something interesting though from the comments on the <a title="JK Rowling" href="http://programmingpraxis.com/2013/07/19/j-k-rowling/">Programming Praxis post</a>:
+So far, we've had three different ideas for figuring out the author of an unknown paper (top n word ordering in @crosslink["authorship-attribution-part-1"]{Part 1} and stop word frequency / 4-grams in @crosslink["authorship-attribution-part-2"]{Part 2}). Here's something interesting though from the comments on the <a title="JK Rowling" href="http://programmingpraxis.com/2013/07/19/j-k-rowling/">Programming Praxis post</a>:
 <blockquote><cite>Globules</cite> said
 <small>July 19, 2013 at 12:29 PM</small>
 Patrick Juola has a <a href="http://languagelog.ldc.upenn.edu/nll/?p=5315" rel="nofollow">guest post on Language Log</a> describing the approach he took.</blockquote>
@@ -22,7 +22,7 @@ Another change is that, rather than analyzing the entire document as a whole, th
 
 In any case, I still do have one more test to run based on their article (if you're read the <a title="authorship attribution source code" href="https://github.com/jpverkamp/small-projects/tree/master/authorship">source on GitHub</a> you've probably already seen this): word length. That's actually the most successful of their tests, with the 6/5 split, so theoretically it might work out better?
 
-At this point, the code is almost trivial to write. Basically, we'll take the <a title="Authorship attribution: Part 1" href="http://blog.jverkamp.com/2013/07/30/authorship-attribution-part-1/">previous top n word code</a> and cut out most of it:
+At this point, the code is almost trivial to write. Basically, we'll take the @crosslink["authorship-attribution-part-1"]{previous top n word code} and cut out most of it:
 
 @codeblock["scheme"]|{
 ; Calculate the relative frequencies of stop words in a text

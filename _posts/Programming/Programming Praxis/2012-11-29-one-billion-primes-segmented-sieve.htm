@@ -9,7 +9,7 @@ date: 2012-11-29 22:00:31
 layout: post
 title: One Billion Primes - Segmented Sieve
 ---
-After a <a title="The Sum of the First Billion Primes: Comments" href="http://blog.jverkamp.com/2012/11/01/the-sum-of-the-first-billion-primes/#comments">few comments</a> back and forth with Will over on the original <a title="The Sum Of The First Billion Primes" href="http://blog.jverkamp.com/2012/11/01/the-sum-of-the-first-billion-primes/">sum of the first billion primes</a> post (originally from <a title="Programming Praxis: The Sum Of The First Billion Primes" href="http://programmingpraxis.com/2012/09/11/the-sum-of-the-first-billion-primes/">Programming Praxis</a>), I decided to finally write a segmented version of the @wikipedia["Sieve of Eratosthenes"]{Sieve of Eratosthenes}.<!--more-->
+After a @crosslink["the-sum-of-the-first-billion-primes"]{sum of the first billion primes} post (originally from <a title="Programming Praxis: The Sum Of The First Billion Primes" href="http://programmingpraxis.com/2012/09/11/the-sum-of-the-first-billion-primes/">Programming Praxis</a>), I decided to finally write a segmented version of the @wikipedia["Sieve of Eratosthenes"]{Sieve of Eratosthenes}.<!--more-->
 
 Basically, the idea is not to make a sieve for the entire 23 billion numbers that you'll be summing, instead just make a sieve for the first square root of them. This is guaranteed to contain all of the primes you will need to divide by for the rest of the list. After that, just reuse that same vector over and over again until you've counted enough primes. This should definitely help with the memory issues I was having and should also be much faster (we can take better advantage of memory caches).
 

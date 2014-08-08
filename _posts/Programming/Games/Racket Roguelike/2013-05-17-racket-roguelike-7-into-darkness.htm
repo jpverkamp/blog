@@ -15,9 +15,9 @@ Let's fix that.
 
 <!--more-->
 
-(If you'd like to start at the beginning, click here: <a title="Racket Roguelike 1: A GUI, screens, I/O, and you!" href="http://blog.jverkamp.com/2013/04/04/racket-roguelike-1-a-gui-screens-io-and-you/">Racket Roguelike 1: A GUI, screens, I/O, and you!</a>)
+(If you'd like to start at the beginning, click here: @crosslink["racket-roguelike-1-a-gui-screens-io-and-you"]{Racket Roguelike 1: A GUI, screens, I/O, and you!})
 
-This week, we want to add a dynamic lighting system to the game. If we were using a pre-built framework (like Doryen's excellent <a href="http://doryen.eptalys.net/libtcod/">libtcod</a>), lighting would be done for us@footnote{Perhaps I'll add it to <a title="Writing a roguelike — in Racket! (Day 0)" href="http://blog.jverkamp.com/2013/03/28/writing-a-roguelike-in-racket-day-0/">AsciiPanel</a> some day}. But that's not the case. Luckily, the framework we've built already makes lighting relatively easy.
+This week, we want to add a dynamic lighting system to the game. If we were using a pre-built framework (like Doryen's excellent @crosslink["writing-a-roguelike-in-racket-day-0"]{AsciiPanel} some day}. But that's not the case. Luckily, the framework we've built already makes lighting relatively easy.
 
 First, we need some way of representing which tiles should be lit. Technically, we could calculate this on the fly every frame. This isn't actually a terrible way of doing things and might just be more efficient than what we're doing (don't even bother rendering tiles you can't see), but since we want to have a 'fog of war' type system--where you can see the terrain you've passed, just not what's there--that won't quite work.
 
@@ -264,6 +264,6 @@ git submodule update
 racket main.rkt
 }|
 
-For part 8, click here: <a href="http://blog.jverkamp.com/2013/06/21/racket-roguelike-8-a-million-words/" title="Racket Roguelike 8: A million words!">Racket Roguelike 8: A million words!</a>
+For part 8, click here: @crosslink{Racket Roguelike 8: A million words!}
 
 @ranking[7]{Racket Roguelike}

@@ -78,7 +78,7 @@ Easy enough. So what if we wanted to reverse that and check if a word is in the 
 
 `get-node` abstracts out the first part of that by handling the main part of the recursion for us. It will go down a tree until it gets the node that we want or `#f` if the specified `prefix`/`word` doesn't exist. All `contains?` has to do then is to make sure that we did actually get a hash and that it represents the end of a word. 
 
-After that, the next step is to write a function that will load a dictionary file into this trie structure. Basically, I can use <a href="http://blog.jverkamp.com/2012/10/10/two-word-games/" title="Two Word Games">yesterday's code</a> with only minor modifications:
+After that, the next step is to write a function that will load a dictionary file into this trie structure. Basically, I can use @crosslink["two-word-games"]{yesterday's code} with only minor modifications:
 
 @codeblock["scheme"]|{
 ; load a dictionary from a file

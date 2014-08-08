@@ -46,7 +46,7 @@ Unusually for an /r/dailyprogrammer challenge, there isn't an indication for how
   g)
 }|
 
-(We're using stchang's <a href="https://github.com/stchang/graph">graph</a> library, as we have in the past <a href="http://blog.jverkamp.com/2014/01/14/graph-radius/">[1]</a><a href="http://blog.jverkamp.com/2014/01/15/graph-coloring/">[2]</a>.)
+(We're using stchang's @crosslink["graph-radius"]{[1]}@crosslink["graph-coloring"]{[2]}.)
 
 After that, we'll have a series of calls to route: 
 
@@ -246,7 +246,7 @@ Next, display the networks:
                     (build-path output-directory (filename "png"))))))
 }|
 
-It's a bit complicated looking, but really there are four parts. First, we generate a coloring. A <a href="http://blog.jverkamp.com/2014/01/15/graph-coloring/">little while ago</a> I made the function that would successfully display a coloring, so for that we need to create a hash of vertex labels to integers. In this case, we'll have distinct colors for the source (green), path (purple), destination (cyan), and unrelated nodes (red). Something like this:
+It's a bit complicated looking, but really there are four parts. First, we generate a coloring. A @crosslink["graph-coloring"]{little while ago} I made the function that would successfully display a coloring, so for that we need to create a hash of vertex labels to integers. In this case, we'll have distinct colors for the source (green), path (purple), destination (cyan), and unrelated nodes (red). Something like this:
 
 @embed{01.png}
 <p></p>

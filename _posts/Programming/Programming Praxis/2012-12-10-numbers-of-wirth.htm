@@ -109,7 +109,7 @@ cpu time: 670 real time: 700 gc time: 63
 
 So why even bother doing better? Because we can!
 
-The next step would be to realize that we're redoing a lot of the work in `is_wirth` / `wirth?`. This should look like the perfect opportunity to use memorization, which I just so happen to have posted about both in <a href="http://blog.jverkamp.com/2012/09/29/pickles-and-memoization/" title="Pickles and memoization">Python</a> and <a href="http://blog.jverkamp.com/2012/10/20/memoization-in-racket/" title="Memoization in Racket">Racket</a>. 
+The next step would be to realize that we're redoing a lot of the work in `is_wirth` / `wirth?`. This should look like the perfect opportunity to use memorization, which I just so happen to have posted about both in @crosslink["pickles-and-memoization"]{Python} and @crosslink["memoization-in-racket"]{Racket}. 
 
 Make those changes and run it again:
 
@@ -183,7 +183,7 @@ def gen_n_wirth(n):
 
 I have to admit, I think that's the most nested generator I've ever written. In practice though, it's faster than either of the previous Racket versions, taking only 160ms to generate the first 10,000 numbers in the sequence.
 
-Two more options and I think I'll call it a day. The first is based pretty much directly on the sieves that I used in my original <a href="http://blog.jverkamp.com/2012/11/01/the-sum-of-the-first-billion-primes/" title="The Sum Of The First Billion Primes">billion primes post</a>. Basically, create a list of natural numbers. Starting at the bottom, we'll check off the Wirth numbers, returning them as we go. The only problem is that we don't have a solid upper bound (as we did with the primes). So we'll just ask the user to supply one. Here's the code:
+Two more options and I think I'll call it a day. The first is based pretty much directly on the sieves that I used in my original @crosslink["the-sum-of-the-first-billion-primes"]{billion primes post}. Basically, create a list of natural numbers. Starting at the bottom, we'll check off the Wirth numbers, returning them as we go. The only problem is that we don't have a solid upper bound (as we did with the primes). So we'll just ask the user to supply one. Here's the code:
 
 Racket:
 

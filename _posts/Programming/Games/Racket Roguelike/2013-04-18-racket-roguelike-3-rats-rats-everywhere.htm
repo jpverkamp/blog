@@ -9,11 +9,11 @@ date: 2013-04-18 14:00:47
 layout: post
 title: 'Racket Roguelike 3: Rats, rats, everywhere!'
 ---
-So far, we've <a title="Racket Roguelike 1: A GUI, screens, I/O, and you!" href="http://blog.jverkamp.com/2013/04/04/racket-roguelike-1-a-gui-screens-io-and-you/">worked out our GUI and I/O</a> and <a title="Racket Roguelike 2: Infinite caves!" href="http://blog.jverkamp.com/2013/04/11/racket-roguelike-2-infinite-caves/">created procedurally generated caves</a>. So what does that leave for today? Something to fight!<!--more-->
+So far, we've @crosslink["racket-roguelike-1-a-gui-screens-io-and-you"]{worked out our GUI and I/O} and @crosslink["racket-roguelike-2-infinite-caves"]{created procedurally generated caves}. So what does that leave for today? Something to fight!<!--more-->
 
-If you'd like to start at the beginning, click here: <a href="http://blog.jverkamp.com/2013/04/04/racket-roguelike-1-a-gui-screens-io-and-you/" title="Racket Roguelike 1: A GUI, screens, I/O, and you!">Racket Roguelike 1: A GUI, screens, I/O, and you!</a>
+If you'd like to start at the beginning, click here: @crosslink["racket-roguelike-1-a-gui-screens-io-and-you"]{Racket Roguelike 1: A GUI, screens, I/O, and you!}
 
-Today's changes are pretty substantial, so it might be worth it to grab the source and get it handy while we go. In particularly, I've added the <a title="A prototype object system for Racket" href="http://blog.jverkamp.com/2013/04/17/a-prototype-object-system-for-racket/">prototype "thing" code</a> from last night, refactored the point code into it's <a title="point source" href="https://github.com/jpverkamp/racket-roguelike/blob/master/src/point.rkt">own file</a>, and created a <a title="world source" href="https://github.com/jpverkamp/racket-roguelike/blob/master/src/world.rkt">'world' abstraction</a> to hold things like the player and tiles. I'll mention each of those in turn, but really not much changed in either, things just moved around.
+Today's changes are pretty substantial, so it might be worth it to grab the source and get it handy while we go. In particularly, I've added the @crosslink["a-prototype-object-system-for-racket"]{prototype "thing" code} from last night, refactored the point code into it's <a title="point source" href="https://github.com/jpverkamp/racket-roguelike/blob/master/src/point.rkt">own file</a>, and created a <a title="world source" href="https://github.com/jpverkamp/racket-roguelike/blob/master/src/world.rkt">'world' abstraction</a> to hold things like the player and tiles. I'll mention each of those in turn, but really not much changed in either, things just moved around.
 
 That being said, what do we need to get everything working?
 <ul>
@@ -26,7 +26,7 @@ That being said, what do we need to get everything working?
 </ul>
 So let's get to it, shall we?
 
-First, let's use the <a title="A prototype object system for Racket" href="http://blog.jverkamp.com/2013/04/17/a-prototype-object-system-for-racket/">'thing' framework</a> to create some enemies. If you haven't already read about the system, you probably should. But after that, it should be pretty straight forward. We'll start with basic entities. An entity is anything that has a location but isn't a tile in the map. So enemies and (in the future) items:
+First, let's use the @crosslink["a-prototype-object-system-for-racket"]{'thing' framework} to create some enemies. If you haven't already read about the system, you probably should. But after that, it should be pretty straight forward. We'll start with basic entities. An entity is anything that has a location but isn't a tile in the map. So enemies and (in the future) items:
 
 @codeblock["scheme"]|{
 ; entities.rkt
@@ -196,7 +196,7 @@ You may notice that the tiles returned aren't simple symbols anymore. Instead, t
   [color "green"])
 }|
 
-Other than that, the code should theoretically be straightforward. One neat part is that each critter is instantiated as it's generated simply by using `make-thing` to extend it (and override the location). This is that nice overlap with extending and instantiating classes that I noted in the <a title="A prototype object system for Racket" href="http://blog.jverkamp.com/2013/04/17/a-prototype-object-system-for-racket/">prototype post</a>.
+Other than that, the code should theoretically be straightforward. One neat part is that each critter is instantiated as it's generated simply by using `make-thing` to extend it (and override the location). This is that nice overlap with extending and instantiating classes that I noted in the @crosslink["a-prototype-object-system-for-racket"]{prototype post}.
 
 What about` try-move`? Originally, the player movement and the entity movement (in `wandering-enemy`'s `act` method) duplicated the code that checked for enemies. But this wasn't particularly helpful. Instead, we want a method that can handle the three possible cases when moving to a new tile:
 <ul>
@@ -391,6 +391,6 @@ racket main.rkt
 
 If you already have the code, you'll still have to `init` and `update` the submodules since I added a third one. Theoretically, I should be using <a href="http://planet.racket-lang.org/">PLaneT</a> for this instead, but that's something to put off for another day.
 
-For part 4, click here: <a href="http://blog.jverkamp.com/2013/04/25/racket-roguelike-4-slightly-smarter-critters/" title="Racket Roguelike 4: Slightly smarter critters!">Racket Roguelike 4: Slightly smarter critters!</a>
+For part 4, click here: @crosslink{Racket Roguelike 4: Slightly smarter critters!}
 
 @ranking[3]{Racket Roguelike}

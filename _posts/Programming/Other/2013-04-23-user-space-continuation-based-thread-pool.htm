@@ -205,7 +205,7 @@ cpu time: 9479 real time: 10969 gc time: 2489
 1000000 context switches (target: 1000000)
 }|
 
-Honestly, that's pretty terrible for a threading system. That works out to ~10 ms per context switch and we're not even doing any other work as of yet. As we found out in a <a href="http://blog.jverkamp.com/2013/04/16/adventures-in-optimization-re-typed-racket/" title="Adventures in optimization, re: Typed Racket">previous optimization post</a>, we can do a heck of a lot of relatively complex mathematics in 20 ms, so perhaps we can do better?
+Honestly, that's pretty terrible for a threading system. That works out to ~10 ms per context switch and we're not even doing any other work as of yet. As we found out in a @crosslink["adventures-in-optimization-re-typed-racket"]{previous optimization post}, we can do a heck of a lot of relatively complex mathematics in 20 ms, so perhaps we can do better?
 
 Well, the main problem is the overhead involved in continuations, so we really can't. Each time we use `call-with-current-continuation`, we have to copy the entire stack and any variables so that we can resume the state. Every time we use it, we have to make another copy, just in case we want to resume that same continuation more than once (it's really quite a powerful construct). There are forms of continuations that we could use instead, limiting either how much we have to remember or how often we can reset to that point, but that's beyond the scope of this post. Perhaps another day. 
 

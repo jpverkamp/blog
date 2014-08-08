@@ -21,7 +21,7 @@ Find the product abc.
 
 I like it. :)
 
-I've already done a <a href="http://blog.jverkamp.com/2012/10/27/pythagorean-triples/" title="Pythagorean Triples">much larger problem</a> on @wikipedia{Pythagorean Triples}, so this one should be pretty straight forward. Essentially, since we know that an answer exists, we need to just go through all of the triples in some sensible order until we find the one that we want.
+I've already done a @crosslink["pythagorean-triples"]{much larger problem} on @wikipedia{Pythagorean Triples}, so this one should be pretty straight forward. Essentially, since we know that an answer exists, we need to just go through all of the triples in some sensible order until we find the one that we want.
 
 Starting with Python this, time, we can represent that idea pretty directly with a generator (a function that when called multiple times returns a (potentially) different answer for each call):
 
@@ -108,7 +108,7 @@ Now that we've gotten the solution worked out in Python, let's work it out in Ra
          (return (* a b c)))))))
 }|
 
-There are two interesting points here. The first is the use of `call/cc` to bail out of the function whenever I find a solution, much as I did back in the solution to <a href="http://blog.jverkamp.com/2012/08/27/4sum/" title="4sum">4sum</a>. `call/cc` is a fascinating beast all it's own, but all you need to know at this point is that it will take whatever would be done 'next' where it's called (in this case, returning from the function) and pass it along as an argument. So in this case, `return` has the same meaning that it would in Python or the like, although I could have chosen anything for that name. 
+There are two interesting points here. The first is the use of `call/cc` to bail out of the function whenever I find a solution, much as I did back in the solution to @crosslink{4sum}. `call/cc` is a fascinating beast all it's own, but all you need to know at this point is that it will take whatever would be done 'next' where it's called (in this case, returning from the function) and pass it along as an argument. So in this case, `return` has the same meaning that it would in Python or the like, although I could have chosen anything for that name. 
 
 The second intersting thing is the `for*` macro. Rather than zipping the two variables as a normal `for` would, `for*` automatically nests them, so that you get the exact same nested looping structure that we had in the Python version, only in two lines rather than 4. 
 

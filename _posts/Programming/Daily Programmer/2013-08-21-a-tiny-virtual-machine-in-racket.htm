@@ -386,7 +386,7 @@ We still have one more step though. We want to be able to prove that Tiny is @wi
 
 <del>Okay, so it's not so simple. It's possible to get close, but I don't think the language as stated is actually Turing complete... I don't have a format proof, but so far as informal goes, there's a strictly finite address space. Once you've written a Tiny program, you know exactly how many memory address you will have (anything like this: `[a]`), which means simulating a Turing machine is out of the question so far as I can tell. I'd love to be proven wrong though; leave a comment if you can figure out how to do it.</del>
 
-<b>Update 22 August 2013</b>: You can also prove it by only allowing for unbounded integers in memory cells: <a href="http://blog.jverkamp.com/2013/08/22/tiny-turing-completeness-without-mmov/">‘Tiny’ Turing completeness without MMOV</a>
+<b>Update 22 August 2013</b>: You can also prove it by only allowing for unbounded integers in memory cells: @crosslink{‘Tiny’ Turing completeness without MMOV}
 
 Other than that, it seems like we need one more instruction. You could add a few to make it cleaner, but it can be done with just this:
 

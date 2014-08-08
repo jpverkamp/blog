@@ -174,7 +174,7 @@ out of memory
 
 Oops. It turns out that calling `make-vector` to make a billion element vector doesn't actually work so well on my machine... We're going to have to get a get a little sneakier.
 
-Perhaps if we used the bitvectors from <a href="http://blog.jverkamp.com/2012/10/29/bitvectors-in-racket/" title="Bitvectors in Racket">Monday's post</a>? (And now you know why I made that library :)). All we have to do is swap out each instance of `make-vector`, `vector-ref`, or `vector-set!` for `make-bitvector`, `bitvector-ref`, or `bitvector-set!`.
+Perhaps if we used the bitvectors from @crosslink["bitvectors-in-racket"]{Monday's post}? (And now you know why I made that library :)). All we have to do is swap out each instance of `make-vector`, `vector-ref`, or `vector-set!` for `make-bitvector`, `bitvector-ref`, or `bitvector-set!`.
 
 @codeblock["scheme"]|{
 > (time (sum-primes-sieve-eratosthenes-bitvector 1000000))
@@ -347,7 +347,7 @@ Well, that's enough for today I think. Here's a nice timing summary for the meth
   <tr><td>Atkin (bitvector)</td><td>20 ms</td><td>3.1 s</td><td>1 hr 28 min</td></tr>
   <tr><td>Atkin (multivector)</td><td>23 ms</td><td>4.4 s</td><td>&mdash;</td></tr>
   <tr><td>Sundaram</td><td>32.1 s</td><td>&mdash;</td><td>&mdash;</td></tr>
-  <tr><td><a href="http://blog.jverkamp.com/2012/11/29/one-billion-primes-segmented-sieve/" title="One Billion Primes – Segmented Sieve">Segmented Sieve</a></td><td>7 ms</td><td>0.9 s</td><td>25 min 12 sec</td></tr>
+  <tr><td>@crosslink["one-billion-primes-segmented-sieve"]{Segmented Sieve}</td><td>7 ms</td><td>0.9 s</td><td>25 min 12 sec</td></tr>
 </tbody>
 </table>
 
@@ -364,4 +364,4 @@ If you'd like to download the source code for today's post, you can do so here:
 - <a href="https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/bitvector.rkt" title="bitvector source">bitvector source</a>
 - <a href="https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/multivector.rkt" title="multivector source">multivector source</a>
 
-<b>Edit</b>: After Will's comments, I actually got around to writing a segmented version. It's pretty amazing the different it made too. It runs about 3x faster than even the Sieve of Atkin. Sometimes optimization is awesome. You can find that post <a href="http://blog.jverkamp.com/2012/11/29/one-billion-primes-segmented-sieve/" title="One Billion Primes – Segmented Sieve">here</a> and the source code <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/billion-primes-segmented.rkt" title="GitHub: Segmented billion primes source">here</a>.
+<b>Edit</b>: After Will's comments, I actually got around to writing a segmented version. It's pretty amazing the different it made too. It runs about 3x faster than even the Sieve of Atkin. Sometimes optimization is awesome. You can find that post @crosslink["one-billion-primes-segmented-sieve"]{here} and the source code <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/billion-primes-segmented.rkt" title="GitHub: Segmented billion primes source">here</a>.

@@ -14,13 +14,13 @@ Today was fairly productive, although even with that I managed to fall a bit beh
 
 <!--more-->
 
-The first thing that I did today was to rewrite the drawing code so that it loops across the rooms rather than the tiles (<a title="The House on the Hill – Day 3" href="http://blog.jverkamp.com/2013/03/14/the-house-on-the-hill-day-3/">as I mentioned yesterday</a>). The code is not only far more efficient, it actually wasn't as complicated as I feared. It also lets me draw the walls between rooms only on rooms that have already been generated. Here's a screen shots of that in action:
+The first thing that I did today was to rewrite the drawing code so that it loops across the rooms rather than the tiles (@crosslink["the-house-on-the-hill-day-3"]{as I mentioned yesterday}). The code is not only far more efficient, it actually wasn't as complicated as I feared. It also lets me draw the walls between rooms only on rooms that have already been generated. Here's a screen shots of that in action:
 
 @embed{3-a-few-more.png}
 
 This also shows a few of the new rooms that I've defined. The two in the top are ballrooms (that's supposed to be a piano in the top right...) and the one on the right is a garden with a stone table. In addition to those, we now have definitions for a coal chute, a dining room, and a graveyard.
 
-Another thing that I did was actually hook up the code for the player. Now that code I showed back on <a title="The House on the Hill – Day 1" href="http://blog.jverkamp.com/2013/03/12/the-house-on-the-hill-day-1/">Day 1</a> with the <em>on-walk</em> events actually works. Granted, I've changed the syntax from Racket's @racket-doc{keyword arguments} to their @racket-doc{object oriented model}, but it's the same idea. To see what it would look like now, here's the chasm definition:
+Another thing that I did was actually hook up the code for the player. Now that code I showed back on @crosslink["the-house-on-the-hill-day-1"]{Day 1} with the <em>on-walk</em> events actually works. Granted, I've changed the syntax from Racket's @racket-doc{keyword arguments} to their @racket-doc{object oriented model}, but it's the same idea. To see what it would look like now, here's the chasm definition:
 
 @codeblock["scheme"]|{
 (define-room

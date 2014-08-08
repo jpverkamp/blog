@@ -1,13 +1,12 @@
-title: "Wombat IDE - Assorted bug fixes (λ‎ mode fixed)"
-date: 2012-03-09T04:55:48
-slug: wombat-ide-assorted-bug-fixes-%ce%bb-mode-fixed
-layout: post
 categories:
 - Programming/By Language/Java
 - Programming/By Language/Scheme
 - Programming/By Project/Wombat IDE
 comments: true
-
+date: 2012-03-09 04:55:48
+layout: post
+slug: wombat-ide-assorted-bug-fixes-%ce%bb-mode-fixed
+title: "Wombat IDE - Assorted bug fixes (\u03BB\u200E mode fixed)"
 ---
 A few minor bug fixes first:
 <ul>
@@ -18,7 +17,7 @@ A few minor bug fixes first:
 
 <!--more-->
 
-Also, the λ mode that I'd talked about <a title="Wombat IDE – λ mode" href="http://blog.jverkamp.com/2012/02/23/wombat-ide-%ce%bb-mode/">before</a> has been fixed. Previously, it would work just fine if you stayed in either mode, but apparently changing from one to another with more than one λ/`lambda` in the document would break things.
+Also, the λ mode that I'd talked about @crosslink["wombat-ide-%ce%bb-mode"]{before} has been fixed. Previously, it would work just fine if you stayed in either mode, but apparently changing from one to another with more than one λ/`lambda` in the document would break things.
 
 Essentially, the code was calculating the position of all of the lambdas first and then replacing them. However, after the first, the shorter λ characters would through off the offset to the longer `lambda`, thus breaking the document.
 

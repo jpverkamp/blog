@@ -7,7 +7,7 @@ date: 2012-08-31 04:55:46
 layout: post
 title: Wombat IDE - The return of screen sharing
 ---
-I've been working the last few days to get screen sharing <a title="Wombat IDE – Pair programming" href="http://blog.jverkamp.com/2012/02/14/wombat-ide-pair-programming/">working again</a> and I think I have something. Again. Hopefully. The first idea was to use a UDP @wikipedia{multicast} network but when router configuration on campus got in the way, I moved back to a more direct TCP-based system. Still, I think it works pretty well.
+I've been working the last few days to get screen sharing @crosslink["wombat-ide-pair-programming"]{working again} and I think I have something. Again. Hopefully. The first idea was to use a UDP @wikipedia{multicast} network but when router configuration on campus got in the way, I moved back to a more direct TCP-based system. Still, I think it works pretty well.
 
 <!--more-->
 
@@ -38,7 +38,7 @@ In any case, it seems to be working well enough for me in testing, so go ahead a
 As one last bit of warning, there are a few gotchas that you might want to watch out for at the moment:
 <ul>
 	<li>Typing at the same time can do strange things; essentially it will stay in sync but your cursors might move while you're typing. Just try to avoid it for the time being.</li>
-	<li>Enabling <a title="Wombat IDE – Upload button and λ‎" href="http://blog.jverkamp.com/2012/02/16/wombat-ide-upload-button-and-%ce%bb%e2%80%8e/">lambda mode</a> on one machine but not another will cause oscillations in the document. For the moment, either should just have it enabled or not.</li>
+	<li>Enabling @crosslink["wombat-ide-upload-button-and-lambda"]{lambda mode} on one machine but not another will cause oscillations in the document. For the moment, either should just have it enabled or not.</li>
 	<li>Sending a lot of keystrokes in a very short period of time can freeze up the display. The server will continue to work, but the display might stop updating. At normal (or even pretty quick) typing speeds, this shouldn't be an issue, nor will it be an issue cutting/pasting large amounts of code as those are sent as a single packet.</li>
 </ul>
 With this new update, Wombat is now at version 2.243.15. As always, you can download the latest version <a title="Wombat IDE Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">here</a> or let the version you've already downloaded update itself.

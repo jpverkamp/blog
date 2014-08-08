@@ -1,13 +1,12 @@
-title: Wombat IDE - Stopping and syntax editing
-date: 2011-09-02T04:55:55
-slug: stopping-and-syntax-editing
-layout: post
 categories:
 - Programming/By Language/Java
 - Programming/By Language/Scheme
 - Programming/By Project/Wombat IDE
 comments: true
-
+date: 2011-09-02 04:55:55
+layout: post
+slug: stopping-and-syntax-editing
+title: Wombat IDE - Stopping and syntax editing
 ---
 A few new features today in <a title="Wombat IDE" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">r170</a>, a stop button and a dialog to select syntax options.
 
@@ -15,21 +14,21 @@ First, the stop button. There's one thing that I've been meaning to work on for 
 
 <!--more-->
 
-<a href="http://blog.jverkamp.com/2011/09/01/stopping-and-syntax-editing/stop-button/" rel="attachment wp-att-551"><img class="alignnone size-full wp-image-551" title="Wombat IDE: Stop button" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/stop-button.png" alt="A new button to stop running code" width="363" height="339" /></a>
+@crosslink["stopping-and-syntax-editing"]{<img class="alignnone size-full wp-image-551" title="Wombat IDE: Stop button" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/stop-button.png" alt="A new button to stop running code" width="363" height="339" />}
 
 Since I haven't done this yet, I'll go ahead and go through all of the buttons available. From left to right, the first block is New, Open, Save, and Close. The next set are Run (which will run the current file using `load`, shortcut defaults to F5), Stop, Format (which will auto-indent your code, shortcut defaults to F6), and Reset (which will reset the Scheme environment to the default one, for example if you accidently `(define + -)`). As a side note, the Icons are from a set available for free use (see below).
 
 Here's an example of the automatic formatting:
 
-<a href="http://blog.jverkamp.com/2011/09/01/stopping-and-syntax-editing/format-before/" rel="attachment wp-att-554"><img class="alignnone size-full wp-image-554" title="Wombat IDE: Format (Before)" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/format-before.png" alt="Before clicking the format button" width="319" height="260" /></a>
+@crosslink["stopping-and-syntax-editing"]{<img class="alignnone size-full wp-image-554" title="Wombat IDE: Format (Before)" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/format-before.png" alt="Before clicking the format button" width="319" height="260" />}
 
-<a href="http://blog.jverkamp.com/2011/09/01/stopping-and-syntax-editing/format-after/" rel="attachment wp-att-553"><img class="alignnone size-full wp-image-553" title="Wombat IDE: Format (After)" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/format-after.png" alt="After hitting the format button" width="319" height="260" /></a>
+@crosslink["stopping-and-syntax-editing"]{<img class="alignnone size-full wp-image-553" title="Wombat IDE: Format (After)" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/format-after.png" alt="After hitting the format button" width="319" height="260" />}
 
 Usually, this shouldn't be necessary. The same formatting will be applied just as you type. But if you copy/paste code (for example), this will fix the formatting for you to whatever indentation you have defined in the syntax dialog.
 
 Speaking of which, the syntax dialog:
 
-<a href="http://blog.jverkamp.com/2011/09/01/stopping-and-syntax-editing/syntax-dialog/" rel="attachment wp-att-552"><img class="alignnone size-full wp-image-552" title="Wombat IDE: Syntax Dialog" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/syntax-dialog.png" alt="A new dialog to edit keywords and indentation" width="400" height="400" /></a>
+@crosslink["stopping-and-syntax-editing"]{<img class="alignnone size-full wp-image-552" title="Wombat IDE: Syntax Dialog" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/syntax-dialog.png" alt="A new dialog to edit keywords and indentation" width="400" height="400" />}
 
 Essentially, it's just a list of keywords, each with an indentation value (the default is 2). The interesting part was working with the <a title="Java: JTable API" href="http://docs.oracle.com/javase/6/docs/api/javax/swing/JTable.html">Java Swing JTable API</a>, making it so that all changes to the table were automatically synchronized with the back-end data structure. It's not a style of coding that I'm particularly used to, but it seems like it will definitely be something interesting to have learned.
 

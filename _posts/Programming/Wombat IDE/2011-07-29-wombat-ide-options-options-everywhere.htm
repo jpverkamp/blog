@@ -1,13 +1,12 @@
-title: Wombat IDE - Options options everywhere
-date: 2011-07-29T05:05:14
-slug: options-options-everywhere
-layout: post
 categories:
 - Programming/By Language/Java
 - Programming/By Language/Scheme
 - Programming/By Project/Wombat IDE
 comments: true
-
+date: 2011-07-29 05:05:14
+layout: post
+slug: options-options-everywhere
+title: Wombat IDE - Options options everywhere
 ---
 From the beginning, I wanted Wombat to be configurable where it mattered, so I added a system that would be able to load and save options. This being a Scheme IDE, I wrote the options files in... what else? Scheme! Here's the default options.cfg file included with the current distribution of Wombat (r90). The code to read these options is defined using Scheme macros written partially in a hyrbid of Java and Scheme and can (at least theoretically) even be set during runtime by calling the cfg procedure in the REPL.
 
@@ -81,6 +80,6 @@ The colors can be either hex values or any name recognized by <a title="java.awt
 
 Finally, there are also menu options to automatically these configuration files into the editor and then to reload changes (such as new keywords) on the fly:
 
-<a href="http://blog.jverkamp.com/2011/07/29/options-options-everywhere/wombat-build-91/" rel="attachment wp-att-493"><img class="alignnone  wp-image-493" title="Wombat IDE r91" src="http://blog.jverkamp.com/wp-content/uploads/2011/07/Wombat-build-91.png" alt="Wombat IDE r91" width="358" height="222" /></a>
+@crosslink["options-options-everywhere"]{<img class="alignnone  wp-image-493" title="Wombat IDE r91" src="http://blog.jverkamp.com/wp-content/uploads/2011/07/Wombat-build-91.png" alt="Wombat IDE r91" width="358" height="222" />}
 
 You can get the new build r91 <a title="Wombat Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">here</a>.

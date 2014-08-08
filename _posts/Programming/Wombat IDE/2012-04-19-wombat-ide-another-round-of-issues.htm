@@ -9,7 +9,7 @@ title: Wombat IDE - Another round of issues
 ---
 I have a new chunk of issues this time, this time with screen shots.
 <h3>Updated turtle library with new names</h3>
-Essentially, I've changed a few of the names in the <a title="Wombat IDE – Turtle graphics" href="http://blog.jverkamp.com/2012/04/12/wombat-ide-turtle-graphics/">previous turtle API</a> and added a few new alias.
+Essentially, I've changed a few of the names in the @crosslink["wombat-ide-turtle-graphics"]{previous turtle API} and added a few new alias.
 <ul>
 	<li>`spawn` has been renamed to `hatch`</li>
 	<li>`split` has been been renamed to `clone`</li>
@@ -21,25 +21,25 @@ Essentially, I've changed a few of the names in the <a title="Wombat IDE – Tur
 <!--more-->
 
 <h3>Fixed <a title="Issue 176" href="http://code.google.com/p/wombat-ide/issues/detail?id=176">issue 176</a>: flush buffer on newlines so it can play nicely with live-display</h3>
-Previously, output from Petite was being buffered until whatever command was running finished; however, this had problems with things like `live-display`. If you wanted to print something out every frame of an animation (a progress indicator for example), then it would only print at the end. With the new <a title="Wombat IDE – A new way" href="http://blog.jverkamp.com/2012/04/10/wombat-ide-a-new-way/">event driven code</a>, it's possible to print after every newline.
+Previously, output from Petite was being buffered until whatever command was running finished; however, this had problems with things like `live-display`. If you wanted to print something out every frame of an animation (a progress indicator for example), then it would only print at the end. With the new @crosslink["wombat-ide-a-new-way"]{event driven code}, it's possible to print after every newline.
 <h3>Fixed <a title="Issue 172" href="http://code.google.com/p/wombat-ide/issues/detail?id=172">issue 172</a>: add a red border to the REPL when running long running code.</h3>
 There have been times when I wanted to be able to quickly tell if code was still running or if it had already finished. Technically, the Run and Stop buttons on the toolbar will tell you that, with the Run button only active if Petite is ready for a command and the Stop button only active if Petite is currently running:
 
-<a href="http://blog.jverkamp.com/2012/04/18/wombat-ide-another-round-of-issues/run-stop/" rel="attachment wp-att-744"><img class="alignnone size-full wp-image-744" title="Wombat IDE - Run and stop buttons" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/run-stop.png" alt="The Run button is active when nothing is running; otherwise Stop will be active" width="59" height="30" /></a>
+@crosslink["wombat-ide-another-round-of-issues"]{<img class="alignnone size-full wp-image-744" title="Wombat IDE - Run and stop buttons" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/run-stop.png" alt="The Run button is active when nothing is running; otherwise Stop will be active" width="59" height="30" />}
 
 However, since this is easy enough to miss, I've added an indicator to the REPL itself that will tell you when the program is running. On short running programs, you'll barely even notice it, but on longer ones, the border of the REPL will turn red when no further commands can be run:
 
-<a href="http://blog.jverkamp.com/2012/04/18/wombat-ide-another-round-of-issues/red-ring/" rel="attachment wp-att-743"><img class="alignnone  wp-image-743" title="Wombat IDE - REPL border" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/red-ring.png" alt="Red border on the REPL during long running code" width="394" height="94" /></a>
+@crosslink["wombat-ide-another-round-of-issues"]{<img class="alignnone  wp-image-743" title="Wombat IDE - REPL border" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/red-ring.png" alt="Red border on the REPL during long running code" width="394" height="94" />}
 
 Side note: that bit of code that's currently running is called omega. It's one of the shortest infinite loops to write--technically `(let x () (x))` is shorter--and thus useful for testing things like this. So useful in fact, that you can technically just type in `(omega)` to run it. Not that I suggest doing that in your day to day programming. :)
 <h3>Fix for <a title="Issue 168" href="http://code.google.com/p/wombat-ide/issues/detail?id=168">issue 168</a>, prevent manual resizing of the image window.</h3>
 At some point, I updated the `draw-image` window with a few new features:
 
-<a href="http://blog.jverkamp.com/2012/04/18/wombat-ide-another-round-of-issues/new-draw-image-2/" rel="attachment wp-att-745"><img class="alignnone size-full wp-image-745" title="Wombat IDE - New draw-image frame" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/new-draw-image1.png" alt="The new and improved draw-image frame has zoom buttons and the ability to save directly" width="352" height="373" /></a>
+@crosslink["wombat-ide-another-round-of-issues"]{<img class="alignnone size-full wp-image-745" title="Wombat IDE - New draw-image frame" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/new-draw-image1.png" alt="The new and improved draw-image frame has zoom buttons and the ability to save directly" width="352" height="373" />}
 
 Basically, the three buttons along the top are new. You can either zoom out or in using the `-` and `+` buttons or you can directly save the image being displayed (at the current zoom level) without having to go back into Scheme and save it. This window is also used for `draw-turtle` and the turtle `live-display` code, so you can zoom in on turtles the same as on images. The bug fix was to prevent the window from being resized (since the zoom will automatically resize it). While I was at it, the mouse will now follow the zoom button allowing you to click more than once to zoom in/out farther without losing the button.
 <h3>Fixed <a title="Issue 146" href="http://code.google.com/p/wombat-ide/issues/detail?id=146">issue 146</a>: progress bar on formatting.</h3>
 Automatic formatting of code on F6 has been a part of the program pretty much since the beginning, but one feature that I just now added was a progress bar to show you how much longer it will take to format your code:
 
-<a href="http://blog.jverkamp.com/2012/04/18/wombat-ide-another-round-of-issues/format-progress/" rel="attachment wp-att-746"><img class="alignnone size-full wp-image-746" title="Wombat IDE - Format progress bar" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/format-progress.png" alt="A progress bar that appears when formatting code (using F6)" width="150" height="49" /></a>
+@crosslink["wombat-ide-another-round-of-issues"]{<img class="alignnone size-full wp-image-746" title="Wombat IDE - Format progress bar" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/format-progress.png" alt="A progress bar that appears when formatting code (using F6)" width="150" height="49" />}
 <h3></h3>

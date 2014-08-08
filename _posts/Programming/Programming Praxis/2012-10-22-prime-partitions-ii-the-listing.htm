@@ -9,7 +9,7 @@ date: 2012-10-22 14:00:58
 layout: post
 title: 'Prime Partitions II: The Listing'
 ---
-As the continuation of <a href="http://blog.jverkamp.com/2012/10/20/prime-partitions/" title="Prime Partitions">Saturday's post</a> on counting the number of prime partitions of a number without actually determining what those partitions are, today we're going to work out the actual list of partitions.
+As the continuation of @crosslink["prime-partitions"]{Saturday's post} on counting the number of prime partitions of a number without actually determining what those partitions are, today we're going to work out the actual list of partitions.
 
 <!--more-->
 
@@ -41,7 +41,7 @@ There's one additional part to this code--the optional parameters `min` and `max
 
 The `in-producer` will take any function (like the one created by `primes`) and call it over and over again until a given value--`#f` in this case--is returned. 
 
-To make this work though, you need a way to determine if a number is prime, so that's the second part of today's post. To determine if a number is prime, we basically use the exact same code as the <a href="http://blog.jverkamp.com/2012/10/20/prime-partitions/" title="Prime Partitions">previous post</a>, except we return `#t` or `#f` instead of the factors:
+To make this work though, you need a way to determine if a number is prime, so that's the second part of today's post. To determine if a number is prime, we basically use the exact same code as the @crosslink["prime-partitions"]{previous post}, except we return `#t` or `#f` instead of the factors:
 
 @codeblock["scheme"]|{
 ; is n prime?

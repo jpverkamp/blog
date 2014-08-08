@@ -1,13 +1,12 @@
-title: Wombat IDE - C211 tree and image libraries
-date: 2011-08-27T05:05:33
-slug: c211-tree-and-image-libraries
-layout: post
 categories:
 - Programming/By Language/Java
 - Programming/By Language/Scheme
 - Programming/By Project/Wombat IDE
 comments: true
-
+date: 2011-08-27 05:05:33
+layout: post
+slug: c211-tree-and-image-libraries
+title: Wombat IDE - C211 tree and image libraries
 ---
 To start off, I have a small list of bug fixes / minor improvements before I get to the real meat of what I've got for the day:
 <ul>
@@ -62,7 +61,7 @@ As an example of what the image library is capable of, consider this code:
 
 Save this code as `make-gradient.ss` and hit F5 to run it. Here's what you get:
 
-<a href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/make-image/" rel="attachment wp-att-518"><img class="alignnone  wp-image-518" title="C211 Image API" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/make-image.png" alt="Example of C211 Image API: make-image" width="403" height="424" /></a>
+@crosslink["c211-tree-and-image-libraries"]{<img class="alignnone  wp-image-518" title="C211 Image API" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/make-image.png" alt="Example of C211 Image API: make-image" width="403" height="424" />}
 
 There are much more powerful things you can do with this that I'll probably post at some point, but for now I think you get the idea.
 <h2>Tree library</h2>
@@ -94,10 +93,10 @@ Here's an example of `draw-tree`:
     (empty-tree))))
 }|
 
-<a href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/draw-tree/" rel="attachment wp-att-516"><img class="alignnone size-full wp-image-516" title="C211 Tree API" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/draw-tree.png" alt="Example of the C211 tree API" width="400" height="400" /></a>
+@crosslink["c211-tree-and-image-libraries"]{<img class="alignnone size-full wp-image-516" title="C211 Tree API" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/draw-tree.png" alt="Example of the C211 tree API" width="400" height="400" />}
 
 One feature that I think turned out particularly well is how the tree will automatically scale with its window. This way you can shrink or grow the tree when you need to show certain properties or compare multiple trees:
 
-<a href="http://blog.jverkamp.com/2011/08/27/c211-tree-and-image-libraries/draw-tree-scaled/" rel="attachment wp-att-517"><img class="alignnone size-full wp-image-517" title="C211 Tree API - Scaled" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/draw-tree-scaled.png" alt="Scaled Example of C211 Tree API - Scaled" width="184" height="191" /></a>
+@crosslink["c211-tree-and-image-libraries"]{<img class="alignnone size-full wp-image-517" title="C211 Tree API - Scaled" src="http://blog.jverkamp.com/wp-content/uploads/2012/06/draw-tree-scaled.png" alt="Scaled Example of C211 Tree API - Scaled" width="184" height="191" />}
 
 The only change between the previous tree API in <a title="Scheme Widget Library" href="http://www.scheme.com/chezscheme.html">SWL</a> and the new version is that the left and right subtrees of a tree must actually be trees. Previously, they could be any value, but do to a design consideration in the Java back-end of the trees, the underlying data structure was restricted. This will actually theoretically make it harder to write incorrect tree code as you can no longer mix tree and non-tree code. We'll see this semester if this is actually the case.

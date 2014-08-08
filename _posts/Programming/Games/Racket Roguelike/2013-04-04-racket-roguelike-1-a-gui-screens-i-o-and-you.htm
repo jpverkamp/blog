@@ -1,7 +1,3 @@
-title: 'Racket Roguelike 1: A GUI, screens, I/O, and you!'
-date: 2013-04-04T14:00:49
-slug: racket-roguelike-1-a-gui-screens-io-and-you
-layout: post
 categories:
 - Programming/By Language/Racket
 - Programming/By Project/Games/Racket Roguelike
@@ -9,11 +5,14 @@ categories:
 - Programming/By Topic/Games
 - Programming/By Topic/Games/Roguelikes
 comments: true
-
+date: 2013-04-04 14:00:49
+layout: post
+slug: racket-roguelike-1-a-gui-screens-io-and-you
+title: 'Racket Roguelike 1: A GUI, screens, I/O, and you!'
 ---
-<a title="Writing a roguelike -- in Racket! (Day 0)" href="http://blog.jverkamp.com/2013/03/28/writing-a-roguelike-in-racket-day-0/">Last time</a>, we started with writing the ascii canvas we'll use as our GUI. Now we get to start the tutorial itself. Toady we have a four part goal:
+@crosslink["writing-a-roguelike-in-racket-day-0"]{Last time}, we started with writing the ascii canvas we'll use as our GUI. Now we get to start the tutorial itself. Toady we have a four part goal:
 <ul>
-	<li>Create the initial @wikipedia["GUI"]{Graphical user interface}, including an <a title="Writing a roguelike — in Racket! (Day 0)" href="http://blog.jverkamp.com/2013/03/28/writing-a-roguelike-in-racket-day-0/">ascii-canvas</a></li>
+	<li>Create the initial @wikipedia["GUI"]{Graphical user interface}, including an @crosslink["writing-a-roguelike-in-racket-day-0"]{ascii-canvas}</li>
 	<li>Create a 'screen' abstraction to handle the current game state (menus, inventory, and the game itself)</li>
 	<li>Deal with input from the user and changing between screens</li>
 	<li>Draw an @"@" on the screen that can move around (the Roguelike equivalent of @wikipedia{hello world})</li>
@@ -25,7 +24,7 @@ So let's get to it!
 <!--more-->
 
 <h3>Creating the GUI</h3>
-The first thing that we want to do is create a barebones GUI. The earlier we can get things up and visible, the easier it will be to debug. Theoretically (since we're writing a roguelike) we could write this to run directly in a terminal, but since I already have a custom <a title="Writing a roguelike — in Racket! (Day 0)" href="http://blog.jverkamp.com/2013/03/28/writing-a-roguelike-in-racket-day-0/">ascii canvas</a>, I might as well use it.
+The first thing that we want to do is create a barebones GUI. The earlier we can get things up and visible, the easier it will be to debug. Theoretically (since we're writing a roguelike) we could write this to run directly in a terminal, but since I already have a custom @crosslink["writing-a-roguelike-in-racket-day-0"]{ascii canvas}, I might as well use it.
 
 So the first thing to do is create a frame:
 
@@ -89,7 +88,7 @@ Next, we're going to take a bit of a break to set up a nice abstraction for a fo
 
 <ul>
 	<li>`(update @racket-doc{key-event})` - update the screen when user input is received, return the next screen</li>
-	<li>`(draw <a title="Writing a roguelike — in Racket! (Day 0)" href="http://blog.jverkamp.com/2013/03/28/writing-a-roguelike-in-racket-day-0/">ascii-canvas</a>)` - draw the screen when the GUI needs to refresh, given an ascii-canvas</li>
+	<li>`(draw @crosslink["writing-a-roguelike-in-racket-day-0"]{ascii-canvas})` - draw the screen when the GUI needs to refresh, given an ascii-canvas</li>
 </ul>
 
 In terms of code, we want this class:
@@ -343,6 +342,6 @@ racket main.rkt
 
 If you want the most up to date code instead of just today's, just remove the third line. Eventually I'll include pre-compiled binaries, but they just wouldn't be that interesting as of yet.
 
-For part 2, click here: <a href="http://blog.jverkamp.com/2013/04/11/racket-roguelike-2-infinite-caves/" title="Racket Roguelike 2: Infinite caves!">Racket Roguelike 2: Infinite caves!</a>
+For part 2, click here: @crosslink{Racket Roguelike 2: Infinite caves!}
 
 @ranking[1]{Racket Roguelike}

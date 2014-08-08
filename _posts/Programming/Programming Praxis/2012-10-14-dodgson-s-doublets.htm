@@ -1,14 +1,13 @@
-title: "Dodgson’s Doublets"
-date: 2012-10-14T14:00:20
-slug: dodgsons-doublets
-layout: post
 categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 - Programming/By Topic/Word Games
 comments: true
-
+date: 2012-10-14 14:00:20
+layout: post
+slug: dodgsons-doublets
+title: "Dodgson\u2019s Doublets"
 ---
 Today we have <a href="http://programmingpraxis.com/2009/03/20/dodgsons-doublets/" title="Programming Praxis: Dodgson's Doublets">another post</a> from Programming Praxis' <a href="http://programmingpraxis.com/contents/themes/#Word Games" title="Programming Praxis: Word Games">Word Games</a>. This time, it's a puzzle inspired by @wikipedia{Lewis Carroll} (author of @wikipedia{Alice in Wonderland}). The goal is, given a pair or words of the same length, find a path between the words, changing one letter at a time. Something like this:
 
@@ -23,7 +22,7 @@ T A I L</pre>
 
 If you'd like to follow along, the full source code is available here: <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/doublets.rkt'>doublets source code</a>, <a href='https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/dictionary.rkt'>dictionary source code</a>, <a href='https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/queue.rkt'>queue source code</a>.
 
-Using the same source code as the previous two posts (<a href="http://blog.jverkamp.com/2012/10/11/squaring-the-bishop/" title="Squaring the Bishop">here</a> and <a href="http://blog.jverkamp.com/2012/10/13/word-cubes/" title="Word cubes">here</a>, described originally <a href="http://blog.jverkamp.com/2012/10/11/dictionary-tries-in-racket/" title="Dictionary tries in Racket">here</a>) for the dictionary, the code is a pretty straight forward case of using @wikipedia{recursion} to do @wikipedia{backtracking}. Basically, try all of the possible next words one letter different. Whenever you find a dead end, back up and try a different path. Something like this:
+Using the same source code as the previous two posts (@crosslink["squaring-the-bishop"]{here} and @crosslink["word-cubes"]{here}, described originally @crosslink["dictionary-tries-in-racket"]{here}) for the dictionary, the code is a pretty straight forward case of using @wikipedia{recursion} to do @wikipedia{backtracking}. Basically, try all of the possible next words one letter different. Whenever you find a dead end, back up and try a different path. Something like this:
 
 @codeblock["scheme"]|{
 ; find the path between two words, changing one letters at a time
@@ -48,7 +47,7 @@ Using the same source code as the previous two posts (<a href="http://blog.jverk
      (exit #f))))
 }|
 
-Basically, I'm using a neat trick I last used on the post about <a href="http://blog.jverkamp.com/2012/08/27/4sum/" title="4sum">4SUM</a> where `call/cc` lets us bail out of the depths of the code as soon as we find a solution. Other than that, it's a simple matter of using `for*` to loop over each position and each character, generating all possible words. Whenever a word is valid (and not one we've seen before in this path), keep going. Eventually, we'll find a solution and can bail out. On the off chance that we don't, return `#f`.
+Basically, I'm using a neat trick I last used on the post about @crosslink{4SUM} where `call/cc` lets us bail out of the depths of the code as soon as we find a solution. Other than that, it's a simple matter of using `for*` to loop over each position and each character, generating all possible words. Whenever a word is valid (and not one we've seen before in this path), keep going. Eventually, we'll find a solution and can bail out. On the off chance that we don't, return `#f`.
 
 (Side note: `string-set` is a functional version of `string-set!` that returns a new string rather than mutating the previous one in place. It's easy enough to implement or can see a version of it in the <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/doublets.rkt'>full source</a>.)
 

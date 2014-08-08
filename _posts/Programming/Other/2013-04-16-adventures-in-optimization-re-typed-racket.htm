@@ -13,7 +13,7 @@ date: 2013-04-16 14:00:47
 layout: post
 title: 'Adventures in optimization, re: Typed Racket'
 ---
-Last Thursday I wrote a <a title="Perlin and simplex noise in Racket" href="http://blog.jverkamp.com/2013/04/11/perlin-and-simplex-noise-in-racket/">post about generating Perlin/simplex noise</a> in Racket. Later that day, I <a title="[racket] Perlin and simplex noise - optimizing Racket code" href="http://lists.racket-lang.org/users/archive/2013-April/057245.html">posted to the Racket mailing list</a> asking how I could make it faster. What resulted was a whole sequence of responses (primarily about Typed Racket) and a bit of a rabbit hole that I'm still trying to wrap my head around.<!--more-->
+Last Thursday I wrote a @crosslink["perlin-and-simplex-noise-in-racket"]{post about generating Perlin/simplex noise} in Racket. Later that day, I <a title="[racket] Perlin and simplex noise - optimizing Racket code" href="http://lists.racket-lang.org/users/archive/2013-April/057245.html">posted to the Racket mailing list</a> asking how I could make it faster. What resulted was a whole sequence of responses (primarily about Typed Racket) and a bit of a rabbit hole that I'm still trying to wrap my head around.<!--more-->
 
 The first version that I tried to run was the original untyped code which used the @racket-doc{picturing-programs} teachpack to generate an image. Running Racket 5.3.3 on an x86_64 Linux machine, here are the timing results (if you'd like to try it yourself, use <a href="https://github.com/jpverkamp/noise/tree/b2d12e4">git b2d12e4</a>):
 <pre> perlin: cpu time: 355 real time: 356 gc time: 40

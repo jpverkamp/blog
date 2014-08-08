@@ -18,7 +18,7 @@ So how does that work?
 
 <!--more-->
 
-The basic idea came from comment on a comment on <a title="A ‘Tiny’ virtual machine in Racket" href="http://blog.jverkamp.com/2013/08/20/a-tiny-virtual-machine-in-racket/">my previous post</a>. Essentially, we should be able to encode the Turing machine's tape in a single number. That way we don't have to use unlimited memory, we just have to have unbounded integers in each cell. Since that's actually how my implementation already works, it should be entirely doable.
+The basic idea came from comment on a comment on @crosslink["a-tiny-virtual-machine-in-racket"]{my previous post}. Essentially, we should be able to encode the Turing machine's tape in a single number. That way we don't have to use unlimited memory, we just have to have unbounded integers in each cell. Since that's actually how my implementation already works, it should be entirely doable.
 
 The full code is in the same place as yesterday (<a href="github.com/jpverkamp/tiny/">GitHub: jpverkamp/tiny</a>) and has much the same structure. We're just going to have to tweak the details.
 
