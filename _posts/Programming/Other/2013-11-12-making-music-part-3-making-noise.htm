@@ -36,8 +36,8 @@ The first thing we need is to make a sound. We can use the `network` and `sine-w
 If we want to play that back, we can do so with `signal->rsound` to make a note and `play` to play it back:
 
 @codeblock["scheme"]|{
-(play 
- (signal->rsound 
+(play
+ (signal->rsound
   44100
   (network ()
     [out (sine-wave 440)])))
@@ -124,23 +124,23 @@ So now we can turn a song into an rsound, but how about playing it back? Easy:
 (define (abc-play-file filename)
   (rs:play
    (abc->rsound
-    (abc-parse/playback 
+    (abc-parse/playback
      (call-with-input-file filename abc-lex)))))
 }|
 
 Here's a nice example:
 
-[audio mp3="http://blog.jverkamp.com/wp-content/uploads/2013/11/greensleeves.mp3"][/audio]
+@embed{http://blog.jverkamp.com/wp-content/uploads/2013/11/greensleeves.mp3}
 
 Yes, it's <del>a bit</del> really fuzzy. That's mostly because of the compression involved in making it an mp3. Also, the notes are pure sine waves. In reality, musical notes are a bit more complicated than that. We'll get to that soon, I hope.
 
-How did I generate the file? Glad you asked. The rsound library pretty much does this for us with the `rs-write` function: 
+How did I generate the file? Glad you asked. The rsound library pretty much does this for us with the `rs-write` function:
 
 @codeblock["scheme"]|{
 (define (abc->wav abc-filename wav-filename)
   (rs:rs-write
    (abc->rsound
-    (abc-parse/playback 
+    (abc-parse/playback
      (call-with-input-file abc-filename abc-lex)))
    wav-filename))
 }|
