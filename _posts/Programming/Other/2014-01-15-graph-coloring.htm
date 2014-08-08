@@ -187,7 +187,7 @@ How does that do on the previous problem?
 
 @embed{loop-brelaz.png}
 
-Much better, although either runs quickly enough that on my machine at least you can't even tell the difference. It will make a difference on much bigger graphs though. For example, let's try running the various scans on the actual original problem (a coloring of French regions, available <a href='http://blog.jverkamp.com/wp-content/uploads/2014/01/france.txt'>here</a>):
+Much better, although either runs quickly enough that on my machine at least you can't even tell the difference. It will make a difference on much bigger graphs though. For example, let's try running the various scans on the actual original problem (a coloring of French regions, available @embed[#:target "france.txt"]{here}):
 
 @codeblock["scheme"]|{
 > (define france (with-input-from-file "france.txt" read-graph))

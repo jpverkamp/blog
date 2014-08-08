@@ -13,9 +13,9 @@ Basically, the XML files have a specific structure to run before, during, and af
 
 At the moment, I have definitions that can do any of the following:
 <ul>
-	<li><a title="RHIJ Assembly Definition" href="blog.jverkamp.com/wp-content/uploads/2007/10/rhij-assemble.xml">assemble </a>the given code into bytecode</li>
-	<li><a title="RHIJ Binary Structure" href="blog.jverkamp.com/wp-content/uploads/2007/10/rhij-mif.xml">write out those bytes</a> in a structure we can load directly into the simulator</li>
-	<li><a title="RHIJ Virtual Machine" href="blog.jverkamp.com/wp-content/uploads/2007/10/rhij-run.xml">even run a virtual machine</a> over the given code.</li>
+	<li>@embed[#:target "rhij-assemble.xml"]{assemble }the given code into bytecode</li>
+	<li>@embed[#:target "rhij-mif.xml"]{write out those bytes} in a structure we can load directly into the simulator</li>
+	<li>@embed[#:target "rhij-run.xml"]{even run a virtual machine} over the given code.</li>
 </ul>
 As an example, consider the following implementation of a GCD algorithm in RHIJ:
 
@@ -194,4 +194,4 @@ I'm not sure if there's anyone out there that this would actually be useful for,
 
 Anyways, if you'd like to download and run the code, you can find a link below. You'll need <a title="Python" href="http://www.python.org/">Python </a>and <a title="wxPython" href="http://wxpython.org/">wxPython</a> for the GUI (side note: working with wxPython? Very straight forward.)
 
-<strong>Download</strong>: <a title="Download link for PyMint.zip" href="http://blog.jverkamp.com/wp-content/uploads/2007/10/PyMint.zip">PyMint.zip</a>
+<strong>Download</strong>: @embed{PyMint.zip}
