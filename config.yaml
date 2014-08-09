@@ -2,8 +2,8 @@ title: jverkamp.com
 author: John-Paul Verkamp
 url: http://localhost:8000
 
-deploy-url: http://blog-s3.jverkamp.com
-deploy-bucket: s3://blog-s3.jverkamp.com/
+deploy-url: http://blog.jverkamp.com
+deploy-bucket: s3://blog.jverkamp.com/
 
 permalink: "{year}/{month}/{day}/{slug}"
 
