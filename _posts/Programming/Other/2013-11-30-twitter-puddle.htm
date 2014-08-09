@@ -1,9 +1,10 @@
 categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
-- Programming/By Topic/Ceulluar Automata
+- Programming/By Topic/Cellular Automata
 - Programming/By Topic/Graphics
 - Programming/By Topic/Websites/Twitter
+- Programming/By Topic/Procedurally Generated Content
 comments: true
 date: 2013-11-30 04:55:28
 layout: post
@@ -72,7 +73,7 @@ From here, we have two options for our simulation. Either we want to step the en
 
 @codeblock["scheme"]|{
 ; Perform one step in puddle simulation
-; Try moving each water these directions in order: 
+; Try moving each water these directions in order:
 ; - down, down left, down right, left, right, no move (will always succeed)
 (define (step p)
   ; Create the new puddle (if you do it in place, water teleports)
@@ -116,7 +117,7 @@ Next, dripping. Essentially, we want to create new water along the top. Original
   ; Insert at a specified location or randomly
   (define r (sub1 (puddle-height p)))
   (cond
-    [column 
+    [column
      (puddle-set!? new-p r column 'water)]
     [else
      (let/ec break
@@ -143,7 +144,7 @@ Cool. So what do we need to make this actually run a simulation? Well, first you
     [record? "output"]
     [stop-when (λ (puddle) stop?)]
     [on-draw draw-puddle]
-    [on-tick 
+    [on-tick
      (λ (puddle)
        (let/ec return
          ; We've not seen the stepped case before, use that
@@ -156,7 +157,7 @@ Cool. So what do we need to make this actually run a simulation? Well, first you
          ; If we don't have any potential drips left, we've reached steady state
          ; Try inverting first
          (when (null? potential-drips)
-           (when (equal? stepped puddle) 
+           (when (equal? stepped puddle)
              (printf "steady state: ~a\n" (puddle-count puddle 'water))
              (set! stop? #t))
 
@@ -186,7 +187,7 @@ Within `on-tick` we have a series of checks. First, we try to step. If we can't,
 
 If both of those conditions are skipped, then we should try to drip. Here, I have a list of the columns (shuffled for appearance) that will each be tried in turn. Once that list is `null?`, we're probably null. Run one last time until steady state so that the water can settle and then count it up.
 
-Finally, if we get this far, try to drip. We know that a state is done if dripping ends up with the same state we've seen before because that means water is no longer settling and instead draining out of the world. 
+Finally, if we get this far, try to drip. We know that a state is done if dripping ends up with the same state we've seen before because that means water is no longer settling and instead draining out of the world.
 
 Well, that's that. The only thing we have left is the drawing function: Using the `2htdp/image` library, it's rather straight forward:
 
@@ -205,7 +206,7 @@ Well, that's that. The only thing we have left is the drawing function: Using th
                 [(water) "blue"])))))
 
   (apply above
-         (reverse 
+         (reverse
           (for/list ([row (in-vector (puddle-data p))])
             (make-row row)))))
 }|
