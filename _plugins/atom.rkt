@@ -55,8 +55,8 @@
          ,@(for/list ([post (in-list posts)])
              `(entry
                (title ,(post "title"))
-               (link ((href ,(string-append (site "url") (post "permalink")))))
-               (id ,(uuid (~a (site "url") "/" (post "permalink"))))
+               (link ((href ,(string-append (site "url") "/" (post "permalink")))))
+               (id ,(uuid (~a "uuid" (site "url") "/" (post "permalink"))))
                (updated ,(format-date (post "date")))
                (summary ((type "html")) ,(~a "<![CDATA[" (or (post "more") (post "content")) "]]>"))
                (content ((type "html")) ,(~a "<![CDATA[" (post "content") "]]>"))))))
