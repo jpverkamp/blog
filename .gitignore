@@ -7,3 +7,4 @@
 # Build directories
 _build/
 _cache/
+_deploy/
