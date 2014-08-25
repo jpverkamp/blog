@@ -1,4 +1,9 @@
-(define (embed #:target [target #f] #:lightbox [lightbox #f] #:class [class #f] text)
+(define (embed #:target [target #f] 
+               #:lightbox [lightbox #f]
+               #:class [class #f] 
+               #:width [width #f]
+               #:height [height #f]
+               text)
   (define (absolute-path src)
     (cond
       [(regexp-match #px"://" src) src]
@@ -9,7 +14,16 @@
      `(a ((data-toggle "lightbox")
           (href ,(absolute-path (or target text)))
           ,@(if class `((class ,class)) `()))
-         (img ((src ,(absolute-path text)))))]
+         (img (,@(if width `((width ,width)) `())
+               ,@(if height `((height ,height)) `())
+               (src ,(absolute-path text)))))]
+    [(regexp-match #px"\\.(html?)$" text)
+     `(iframe (,@(if width `((width ,width)) `())
+               ,@(if height `((height ,height)) `())
+               (frameBorder "0")
+               (scrolling "no")
+               (style "overflow: hidden")
+               (src ,(absolute-path text))))]
     [(regexp-match #px"\\.(mp3|wav|ogg)$" (absolute-path (or target text)))
      => (λ (match)
           `(audio ((controls "controls"))
