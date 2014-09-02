@@ -4,6 +4,10 @@
 \#*
 ._*
 
+# OSX files
+.DS_Store
+._*
+
 # Build directories
 _build/
 _cache/
