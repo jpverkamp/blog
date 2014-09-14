@@ -1,0 +1,100 @@
+title: Procedural Invaders
+date: 2014-09-14 09:00:00
+categories:
+- Programming/By Language/Racket
+- Programming/By Language/Scheme
+- Programming/By Topic/Graphics
+- Programming/By Topic/Games
+- Programming/By Topic/Procedurally Generated Content
+comments: true
+---
+Today's post comes from a long line of 'inspired by posts' all pretty much leading back (so far as I can tell) to this post by j.tarbell: <a href="http://www.complexification.net/gallery/machines/invaderfractal/">invader.fractal</a> from 2003.
+
+The basic idea is that we want to generate 'invaders' in the style of @wikipedia{space invaders}. Except we don't want 10 or 20, we want tens of thousands. So how do we do it? Well, take a look at this:
+
+@embed{fractal-invader-big.png}
+
+Despite the fact that it's scaled up, on the lowest level we actually have a 5x5 grid of pixels. In addition, it's mirrored to make it symmetrical, so (counting the non-mirrored center row), we actually only have 15 pixels:
+
+@codeblock["text"]|{
++----+----+----+----+----+
+|  1 |  6 | 11 |  6 |  1 |
++----+----+----+----+----+
+|  2 |  7 | 12 |  7 |  2 |
++----+----+----+----+----+
+|  3 |  8 | 13 |  8 |  3 |
++----+----+----+----+----+
+|  4 |  9 | 14 |  9 |  4 |
++----+----+----+----+----+
+|  5 | 10 | 15 | 10 |  5 |
++----+----+----+----+----+
+}|
+
+Represent those 15 pixels as a 15 bit number. For example, the above image, we have bits 2, 4, 6, 7, 8, 10, 13, and 15 set, so we have the number:
+
+@codeblock|{
+> #b010101110100101
+11173
+}|
+
+Given that there are over 32 thousand 15 bit numbers (@latex['inline]{2^15=@(expt 2 15)}), that's a lot of invaders. So how do we generate them?
+
+@codeblock["scheme"]|{
+; Create a symmetric 5x5 image similar to a space invader with this bit pattern
+; 0 5 10 5 0
+; 1 6 11 6 1
+; 2 7 12 7 2
+; 3 8 13 8 3
+; 4 9 14 9 4
+(define (procedural-invader i)
+  (define bits
+    (for/vector ([c (in-string (~a (number->string i 2) #:width 15 #:pad-string "0" #:align 'right))])
+      (eq? c #\1)))
+
+  (build-flomap*
+   1 5 5
+   (λ (x y)
+     (define i (+ y (* 5 (if (< x 3) x (- 4 x)))))
+     (if (vector-ref bits i) '#(1.0) '#(0.0)))))
+}|
+
+There are really two parts here. First we covert the given integer into a vector of `#t` / `#f`. There are certainly far faster ways to do this (`bitwise-and` with the correct bit for example), but given that the size is set and small, this is good enough for the time being.
+
+After that, we take those bits and use @racket-doc{build-flomap*} to create a 5x5 image where `#t` is white and `#f` is black. Shiny. Now unfortunately Dr. Racket will not display flomaps directly inline, but if we convert them to bitmaps it will:
+
+@codeblock["scheme"]|{
+> (flomap->bitmap (procedural-invader 11173))
+}|
+
+@embed{fractal-invader-tiny.png}
+
+Oof. Tiny. Let's make it bigger:
+
+@codeblock["scheme"]|{
+> (flomap->bitmap (flomap-resize (procedural-invader 11173) 50 50))
+}|
+
+Well that's not what I was looking for. The problem is that flomaps by default are designed for interpolated values. So that if you have a black pixel right next to a white pixel, you can actually ask for the 'pixel' halfway between the two, getting a gray value. But in this case, that's not what we want. We want sharp (@wikipedia{nearest neighbor}) scaling:
+
+@codeblock["scheme"]|{
+; Resize a flomap using nearest-neighbors to preserve sharp edges
+(define (flomap-resize/nn img new-width [new-height new-width])
+  (match-define (flomap _ components old-width old-height) img)
+
+  (build-flomap*
+   components new-width new-height
+   (λ (new-x new-y)
+     (flomap-ref* img
+                  (floor (* old-width (/ new-x new-width)))
+                  (floor (* old-height (/ new-y new-height)))))))
+}|
+
+Same as before, we are creating a new image. But this time, we covert the old coordinate system to the new and throw away any of the decimal part, getting an exact answer. That way we never interpolate:
+
+@codeblock["scheme"]|{
+> (flomap->bitmap (flomap-resize/nn (procedural-invader 11173) 50 50))
+}|
+
+@embed{fractal-invader-big.png}
+
+Nice and sharp. That's exactly what we were looking for. 
