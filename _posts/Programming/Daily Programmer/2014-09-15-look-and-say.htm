@@ -28,7 +28,7 @@ Originally, my interest in this came from a video on the excellent YouTube video
 
 @youtube{ea7lJkEhytA}
 
-Yes, that is @wikipedia{John Conway} of @wikipedia{Conway's Game of Life}. It's well worth the watch. 
+Yes, that is @wikipedia{John Conway} of @wikipedia{Conway's Game of Life}. It's well worth the watch.
 
 Then this morning, /r/dailyprogrammer has a post: <a href="https://www.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/">Challenge #180 [Easy] Look'n'Say</a>. Seems like it's about time. :)
 
@@ -152,3 +152,16 @@ That will encode each iteration into a line of the resulting image and each diff
 Neat how there's a nice line right down the center. Although that makes sense, given that there are always an even number of values. On thing that I want to check out is those divisions that the video was talking about where two parts of a sequence can diverge and never interact again. Those would be fairly straight forward to find even, just 'tag' each part of the sequence with where it came from. Perhaps another day.
 
 As always, code on GitHub: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/look-and-say.rkt">look-and-say.rkt</a>
+
+As a side note, here's a neat trick:
+
+@codeblock["scheme"]|{
+; Create a look and say sequence with regular expressions instead of lists
+(define (look-and-say/regex str)
+  (regexp-replace*
+   #px"(.)(\\1*)"
+   str
+   (λ (match block repeat) (~a (string-length match) block))))
+}|
+
+Regular expressions for the win! Of course, it's an order of magnitude slower than the list version, but it's still neat.
