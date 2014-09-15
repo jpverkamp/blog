@@ -1,10 +1,10 @@
 (define (latex . body*)
   (match body*
     [`(inline . ,body*)
-     `(span "\\(" ,(apply string-append body*) "\\)")]
+     `(span "\\(" ,(apply ~a body*) "\\)")]
     [`(block . ,body*)
-     `(div "$$" ,(apply string-append body*) "$$")]
+     `(div "$$" ,(apply ~a body*) "$$")]
     [any ; default to block mode
-     `(div "$$" ,(apply string-append body*) "$$")]))
+     `(div "$$" ,(apply ~a body*) "$$")]))
 
 (register-plugin 'latex latex)
