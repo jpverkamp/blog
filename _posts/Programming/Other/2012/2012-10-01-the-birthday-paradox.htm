@@ -16,7 +16,19 @@ Why? Math!
 
 If you have one person, it's guaranteed that you won't have duplicated birthdays. If you have two, there is a 1/365 chance (we're going to ignore @wikipedia["Leap Days"]{February 29} for the time being). You can think of it by randomly choosing the first birthday then finding the chance of matching that.
 
-The math starts getting a bit more interesting when you have three people. Rather than directly calculating the problem, consider the inverse. Start with the chance that the second person doesn't match the first and then add the chance that the third doesn't match either the first or second:@latex|{ (1 - 1/365) * (1 - 2/365) \approx 99.2\% }|One minus that is the chance that any of the three share a birthday:@latex|{ 1 - ((1 - 1/365) * (1 - 2/365)) \approx 0.8\% }|Then if you have four:@latex|{ 1 - ((1 - 1/365) * (1 - 2/365) * (1 - 3/365)) \approx 1.6\% }|Which generalizes pretty directly to any number of people <em>n</em>:@latex|{ B(n) = 1 - \prod_{i=1}^{(n-1)}(1-\frac{i}{365}) }|Working out several interesting values of <em>n</em>:
+The math starts getting a bit more interesting when you have three people. Rather than directly calculating the problem, consider the inverse. Start with the chance that the second person doesn't match the first and then add the chance that the third doesn't match either the first or second:
+@latex|{ (1 - 1/365) * (1 - 2/365) \approx 99.2\% }|
+
+One minus that is the chance that any of the three share a birthday:
+@latex|{ 1 - ((1 - 1/365) * (1 - 2/365)) \approx 0.8\% }|
+
+Then if you have four:
+@latex|{ 1 - ((1 - 1/365) * (1 - 2/365) * (1 - 3/365)) \approx 1.6\% }|
+
+Which generalizes pretty directly to any number of people <em>n</em>:
+@latex|{ B(n) = 1 - \prod_{i=1}^{(n-1)}(1-\frac{i}{365}) }|
+
+Working out several interesting values of <em>n</em>:
 
 <table class="table table-striped">
 <thead><tr><td>n</td><td>B(n)</td></tr></thead>
@@ -36,10 +48,10 @@ The math starts getting a bit more interesting when you have three people. Rathe
 </tbody>
 </table>
 
-So it turns out, you only need 23 people to get a 50/50 chance of two sharing the same birthday. That's about what you'd seen in the average classroom. 
+So it turns out, you only need 23 people to get a 50/50 chance of two sharing the same birthday. That's about what you'd seen in the average classroom.
 Not what you'd probably expect, but the math holds it out. There's also another interesting factor going on that once you have 367 people in a room (one more than the possible number of days in a year, then are guaranteed to have a match). That's from the @wikipedia{pigeonhole principle}, but hopefully it's more intuitive as well. If you have 366 people spread out all over the year, even on February 29, then when could the 367's birthday possibly be to <em>not</em> overlap? Exactly.
 
-But you don't have to take my word for it, the math should stand by itself. And if that's not enough, here's a quick script that might just help to convince you. Just click the button to generate a random room of 23 people. Run it enough times and you should see that 50/50 split. 
+But you don't have to take my word for it, the math should stand by itself. And if that's not enough, here's a quick script that might just help to convince you. Just click the button to generate a random room of 23 people. Run it enough times and you should see that 50/50 split.
 
 <table class="table table-striped">
 <tr>
@@ -64,8 +76,8 @@ But you don't have to take my word for it, the math should stand by itself. And 
 var results = {};
 
 function randomBirthday() {
-	var d = new Date((new Date().getTime()) + 
-		Math.floor(Math.random() * 365) * 
+	var d = new Date((new Date().getTime()) +
+		Math.floor(Math.random() * 365) *
 		24 * 60 * 60 * 1000);
 	d.setHours(0);
 	d.setMinutes(14);
@@ -99,7 +111,7 @@ function doRun(n) {
 		dates[i] = dates[i].toLocaleDateString();
 
 	for (var i = 0; i < n; i++) {
-		if ((i > 0 && dates[i] == dates[i - 1]) || 
+		if ((i > 0 && dates[i] == dates[i - 1]) ||
 				(i < n - 1 && dates[i] == dates[i + 1])) {
 			found = true;
 			break;
@@ -168,7 +180,7 @@ jQuery(function($) {
 			if ((i > 0 && dates[i] == dates[i - 1]) || (i < n - 1 && dates[i] == dates[i + 1])) {
 				if (!silent) result += '<b>' + dates[i] + '</b><br />\n';
 				found = true;
-			} else { 
+			} else {
 				if (!silent) result += dates[i] + '<br />\n';
 			}
 		}
@@ -179,10 +191,10 @@ jQuery(function($) {
 
 		if (!silent) {
 			result = '<hr />\n' + result;
-			result = 'So far for ' + n + ' birthday' + (n == 1 ? '' : 's') + ' there ' + (results[n].good == 1 ? 'has' : 'have') + ' been ' + 
-					results[n].good + ' matched birthday' + (results[n].good == 1 ? '' : 's') + ' from ' + 
-					results[n].runs + ' run' + (results[n].runs == 1 ? '' : 's') + ' for a ' + 
-					(Math.round(10000 * results[n].good / results[n].runs) / 100) + '% chance. ' + 
+			result = 'So far for ' + n + ' birthday' + (n == 1 ? '' : 's') + ' there ' + (results[n].good == 1 ? 'has' : 'have') + ' been ' +
+					results[n].good + ' matched birthday' + (results[n].good == 1 ? '' : 's') + ' from ' +
+					results[n].runs + ' run' + (results[n].runs == 1 ? '' : 's') + ' for a ' +
+					(Math.round(10000 * results[n].good / results[n].runs) / 100) + '% chance. ' +
 					'The expected chance for ' + n + ' birthday' + (n == 1 ? '' : 's') + ' is ' + b(n) + '%.<br />\n' + result;
 
 			$("#result").html(result);
