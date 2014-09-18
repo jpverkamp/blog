@@ -155,7 +155,17 @@ Because we reset the random seed at the beginning of the calculate and always ge
 
 :)
 
-Unfortunately, the lower levels aren't the same pattern, since we're generating the images using a @wikipedia{depth first search} rather than the @wikipedia{depth first search}. That would be necessary. There's another option though:
+Unfortunately, the lower levels aren't the same pattern, since we're generating the images using a @wikipedia{depth first search} rather than the @wikipedia{breadth first search}. More specifically, we're generating the invaders in this order:
+
+@embed{depth-first.png}
+
+In that case, the ordering is: generate the image for the given level, then the first subimage, then the first subimage of that. Generating the <em>depth first</em> as it were. What we want instead is to generate generate the top level, then all of the next level, then all of the next level, more like this:
+
+@embed{breadth-first.png}
+
+Unfortunately, that doesn't work out well in our specific code, since we're working recursively, working with a @wikipedia["Stack (computer science)"]{stack} (implicitly via function calls). To do a breadth first search, we would need instead to create a explicit @wikipedia["Stack (computer science)"]{queue}, which would require some fairly major refactoring.
+
+There's another option though:
 
 @codeblock["scheme"]|{
 ; An invader fractal is nested 5x5 2d vectors, each element is either
