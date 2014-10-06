@@ -302,6 +302,20 @@ git submodule update
 racket main.rkt
 }|
 
+<strong>Edit:</strong>
+
+It seems that the submodules wondered off at some point. Instead, you can install the three libraries this uses directly using @racket-doc{pkg}, and then run the code:
+
+@codeblock["bash"]|{
+raco pkg install github://github.com:jpverkamp/ascii-canvas/master
+raco pkg install github://github.com:jpverkamp/noise/master
+raco pkg install github://github.com:jpverkamp/thing/master
+git clone git://github.com/jpverkamp/racket-roguelike.git
+cd racket-roguelike
+git checkout day-6
+racket main.rkt
+}|
+
 (Note: Sorry I'm a day late this week. Life's been crazy between conference deadlines and getting married. One of these days I'll actually actually write one of these posts ahead of time... Or not.)
 
 For part 7, click here: <a href="http://blog.jverkmp.com/2013/05/17/racket-roguelike-7-into-darkness/" title="Racket Roguelike 7: Into darkness!">Racket Roguelike 7: Into darkness!</a>
