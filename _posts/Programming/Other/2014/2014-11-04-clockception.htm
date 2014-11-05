@@ -282,6 +282,8 @@ With that, we can make simple animations:
 > (run-movie 0.1 (tick-tock (time 7 59) (time 8 0) 56))
 }|
 
+@embed{animated.gif}
+
 I really wish that `fix` wasn't necessary, but for whatever reason, @racket-doc{big-bang} / @racket-doc{run-movie} / et al don't like @racket-doc{bitmap%}s. So it goes.
 
 On the other hand though, @racket-doc{run-movie} is really cool. I've been doing things like this with @racket-doc{big-bang} and the `stop-when` parameter, but this just needs a list of images and stops automatically. Another tool for my toolchest!
