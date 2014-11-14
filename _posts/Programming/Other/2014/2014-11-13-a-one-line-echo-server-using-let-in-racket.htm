@@ -3,8 +3,7 @@ date: 2014-11-13
 categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
-- Programming/By Topic/Graphics
-- Programming/By Topic/Mathematics/Fractals
+- Programming/By Topic/Networks
 comments: true
 ---
 A recent post on Reddit caught my attention: <a href="https://www.reddit.com/r/Python/comments/2m6d4z/a_one_line_echo_server_using_let_in_python/">A “One” Line Echo Server Using “let” in Python</a> (<a href="http://sigusr2.net/one-line-echo-server-using-let-python.html">original article</a>). The basic idea is that you can use Python's `lambda` with default arguments as a `let`, which in turn allows you to write a simple @wikipedia{echo server} in <del>one line</del> a nicely functional style.
@@ -60,5 +59,15 @@ If we broaden our definition of "one" line a little more to allow @racket-doc{fo
 }|
 
 This is especially nice, since @racket-doc{in-producer} and @racket-doc{for} work together to deal with the multiple values from @racket-doc{tcp-accept}. Very clean.
+
+Heck, if you want to get a little less clear about it, you can actually fold the `let` into the `for`:
+
+@codeblock["scheme"]|{
+(for* ([s (in-value (tcp-listen 9000))]
+       [(in out) (in-producer (thunk (tcp-accept s)))])
+  (thread (thunk (copy-port in out))))
+}|
+
+This works because `for*` is actually a nested loop. So in the outer loop, it runs over the single value of the open socket. The inner loop then runs forever, accepting new incoming connections.
 
 Actually, I may have to put this in my quick-scripts toolbox. There are a fair few times when writing networking clients that having a dead simple echo server could come in handy.
