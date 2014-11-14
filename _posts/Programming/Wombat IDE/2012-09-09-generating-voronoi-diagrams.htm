@@ -117,3 +117,69 @@ If you'd like to download the source code, you can do so here: <a href="https://
     <li>Using normalized coordinates:<br />
         @embed{voronoi-comment-normalized.png}</li>
 </ul>
+
+<strong>Update:</strong> For the second comment (working in degrees), I actually rewrote the code to work in Racket, since I'm far more familiar with that:
+
+@codeblock["scheme"]|{
+(require images/flomap)
+
+(struct pt (x y))
+(struct cpt pt (c))
+
+(define (voronoi width height distance seeds)
+  (flomap->bitmap
+   (build-flomap*
+    3 width height
+    (λ (x y)
+      (call-with-values
+       (thunk
+        (for/fold ([min-distance +inf.0] [min-color #f])
+                  ([seed (in-list seeds)])
+          (define new-distance (distance (pt x y) seed))
+          (if (< new-distance min-distance)
+              (values new-distance (cpt-c seed))
+              (values min-distance min-color))))
+       (λ (distance color) color))))))
+
+(define (random-seeds width height count)
+  (for/list ([i (in-range count)])
+    (cpt (random width) (random height)
+         (vector (random) (random) (random)))))
+}|
+
+That lets us translate your new function fairly easily (although the offsets are a little interesting):
+
+@codeblock["scheme"]|{
+(voronoi
+ 160 40
+ (λ (pt1 pt2)
+   ; Unpack points
+   (match-define (pt x1^ y1^) pt1)
+   (match-define (pt x2^ y2^) pt2)
+
+   ; Rescale to the range [20, 80] and [40, 80]
+   (define x1 (+ x1^ 20))
+   (define y1 (+ y1^ 40))
+   (define x2 (+ x2^ 20))
+   (define y2 (+ y2^ 40))
+
+   (sqrt (+ (sqr (- (* x1 (cos (degrees->radians y1)))
+                    (* x2 (cos (degrees->radians y2)))))
+            (sqr (- y1 y2)))))
+
+ (random-seeds 160 40 10))
+}|
+
+Here are a few examples:
+
+@embed{voronoi-comment-degree-1.png}
+
+@embed{voronoi-comment-degree-2.png}
+
+That's really cool. They sort of look like scales!
+
+If you relax the range and let it go a full circle (x and y both ranging from 0 to 360), you get this:
+
+@embed{voronoi-comment-degree-full.png}
+
+Not quite scales any more, but there is a lot of neat structure in there.
