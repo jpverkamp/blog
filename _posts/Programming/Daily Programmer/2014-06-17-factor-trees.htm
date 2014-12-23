@@ -3,7 +3,7 @@ categories:
 - Programming/By Language/Scheme
 - Programming/By Source/Daily Programmer
 - Programming/By Topic/Data Structures
-- Programming/By Topic/Data Structures/Trees
+- Programming/By Topic/Data Structures/Tree
 - Programming/By Topic/Mathematics/Prime Numbers
 comments: true
 date: 2014-06-17 14:00:59
@@ -22,7 +22,7 @@ But then, what if you have a bigger number, such as 24. You can break that into 
 
 That's the challenge this week. Generate that tree.
 
-Well, that's more than enough description. Let's get to it. 
+Well, that's more than enough description. Let's get to it.
 
 Basically, there's a quick (albeit not perfectly efficient) way to find factors: @wikipedia{trial division}. Basically, you loop through all of the numbers from 2 to the square root of the number (any larger and you'll find factors you've already found), trying to divide by each in turn. That though, generates this image rather than the previous:
 
@@ -35,7 +35,7 @@ Code:
 @codeblock["scheme"]|{
 ; Return a tree of the factors of n
 (define (factor-tree n)
-  (or 
+  (or
    ; Try to find the first pair of factors
    ; Start from sqrt(n) and work down to get the largest factors first
    (for/first ([i (in-range (integer-sqrt n) 1 -1)]
@@ -61,9 +61,9 @@ It's perhaps a bit odd to read, but look at the first of each triple. 24 has fac
 
 @codeblock["scheme"]|{
 > (factor-tree 1767150)
-'(1767150 (1309 17 
-                (77 7 11)) 
-          (1350 (30 5 (6 2 3)) 
+'(1767150 (1309 17
+                (77 7 11))
+          (1350 (30 5 (6 2 3))
                 (45 5 (9 3 3))))
 }|
 

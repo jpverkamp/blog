@@ -2,14 +2,14 @@ categories:
 - Programming/By Language/Racket
 - Programming/By Language/Scheme
 - Programming/By Source/Daily Programmer
-- Programming/By Topic/Data Structures/Dictionaries
+- Programming/By Topic/Data Structures/Dictionary
 - Programming/By Topic/Word Games
 comments: true
 date: 2013-02-06 23:00:10
 layout: post
 title: Numbers as words in arbitrary bases
 ---
-<a href="http://www.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_120_intermediate_base_conversion/" title="Challenge #120 [Intermediate] Base Conversion Words">Today's intermediate challenge</a> on Reddit's /r/dailyprogrammer intrigued me somewhat, so I decided to take a crack at it. The basic idea is if you are given a number, try converting it to all bases from 2 to 64 (with a special encoding). Print out any of those that are words. 
+<a href="http://www.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_120_intermediate_base_conversion/" title="Challenge #120 [Intermediate] Base Conversion Words">Today's intermediate challenge</a> on Reddit's /r/dailyprogrammer intrigued me somewhat, so I decided to take a crack at it. The basic idea is if you are given a number, try converting it to all bases from 2 to 64 (with a special encoding). Print out any of those that are words.
 
 For example, if you interpret the number 44,269 as a @wikipedia["base 16 (Hexadecimal)"]{Hexadecimal} number, you get the word "aced". So just how many of these words are there out there?
 
@@ -19,7 +19,7 @@ The first thing we want is the ability to associate a character with a given val
 
 @codeblock["scheme"]|{
 ; order of characters for the encoding
-(define encoding 
+(define encoding
   (string-append
    "0123456789"
    "abcdefghijklmnopqrstuvwxyz"
@@ -27,19 +27,19 @@ The first thing we want is the ability to associate a character with a given val
    "+/"))
 
 ; convert a number into a character
-(define n->c 
+(define n->c
   (for/hash ([i (in-naturals)]
              [c (in-string encoding)])
     (values i c)))
 
 ; convert a character into a number
-(define c->n 
+(define c->n
   (for/hash ([i (in-naturals)]
              [c (in-string encoding)])
     (values c i)))
 }|
 
-Here we create a @racket-doc{Racket hash table} associating each number with its character (`n->c`) and then each character to its numerical value (`c->n`). 
+Here we create a @racket-doc{Racket hash table} associating each number with its character (`n->c`) and then each character to its numerical value (`c->n`).
 
 Once that's been done, we want to be able to convert between lists of digits and strings of characters. For example if we have the string `"101"` that would be `'(1 0 1)`. Likewise `"abc"` would be `'(10 11 12)`.
 
@@ -102,7 +102,7 @@ So if you take @wikipedia["Jenny's number"]{867-5309/Jenny}:
   "x5/J")
 }|
 
-Then you can filter those using my @crosslink["dictionary-tries-in-racket"]{dictionary library}: 
+Then you can filter those using my @crosslink["dictionary-tries-in-racket"]{dictionary library}:
 
 @codeblock["scheme"]|{
 ; get a list of all bases that are also words
@@ -124,7 +124,7 @@ There aren't any in Jenny's number, but there are actually two in the example I 
 
 (The dictionary is case-insensitive while the words are case-sensitive, so you get some funny looking words like `"fEe"`.)
 
-Finally, as a bonus solution, here's a nice infinite stream of all possible words as a CSV file: 
+Finally, as a bonus solution, here's a nice infinite stream of all possible words as a CSV file:
 
 @codeblock["scheme"]|{
 ; scan for numbers that turn into words
