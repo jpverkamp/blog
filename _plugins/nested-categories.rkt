@@ -167,6 +167,7 @@
          ,@(for/list ([post (in-list final-post-list)]
                       [i (in-naturals)])
              (cond
+               ; Include the text of the post (either the pre-more section or the entire thing)
                [(or (eq? include-post #t)
                     (and (number? include-post)
                          (< i include-post)))
@@ -175,8 +176,11 @@
                       (h2 ((class "entry-title")) (a ((href ,(string-append (or (site "url") "") "/" (post "permalink")))) ,(post "title")))
                       (div ((class "entry-meta"))
                            ,(published-on (post "date"))))
-                     (div ((class "preview")) ,(or (post "more") (post "content")))
+                     (div ((class "preview")) ,@(if (post "more")
+                                                    (list (post "more") `(a ((href ,(string-append (or (site "url") "") "/" (post "permalink")))) ,"read more..."))
+                                                    (list (post "content"))))
                      (hr))]
+               ; Only the title along with month headers
                [else
                 (define date-chunk (and (post "date") (format "~a ~a" (vector-ref '#(#f "Jan" "Feb" "Mar" "Apr" "May" "June" "July" "Aug" "Sept" "Oct" "Nov" "Dec") (date-month (post "date"))) (date-year (post "date")))))
                 `(li ((class "post-listing"))
