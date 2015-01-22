@@ -19,6 +19,14 @@
     (set! lightbox #t))
   
   (cond
+    ; Embedding a youtube video
+    [(regexp-match #px"https?://www.youtube.com/watch\\?v=(.*)" text)
+     => (λ (match)
+          `(iframe ((width 560)
+                    (height 315)
+                    (src ,(~a "//www.youtube.com/embed/" (cadr match)))
+                    (frameborder 0)
+                    (allowfullscreen allowfullscreen))))]
     ; Embedding an image
     [(regexp-match #px"\\.(png|jpg|jpeg|gif)$" text)
      `(a ((href ,(absolute-path (or target text)))
