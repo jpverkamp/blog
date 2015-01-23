@@ -103,14 +103,16 @@
 
 ; Generate a listing of all posts in a given (potentially nested) category
 ; args:
-; 'limit {number} - return only this many posts
-; 'sort-by {date, title, shuffle} - sort the returned posts (before applying limit)
-; 'sort-(ascending/descending) - sort by key ascending, ignored in shuffle
-; 'include-post - include the post along with the content
-(define (post-list #:limit                 [limit #f]
-                   #:sort-by               [sort-by 'date] 
-                   #:sort-ascending        [sort-ascending? #f] 
-                   #:include-post          [include-post #f]
+; #:limit {number, #f} - return only this many posts
+; #:sort-by {date, title, shuffle} - sort the returned posts (before applying limit)
+; #:sort-ascending {#t, #t} - sort by key ascending, ignored in shuffle
+; #:include-post {#t, #t} - include the post along with the content
+; #:no-month-sections {#t, #f} - don't print the month sections in non include-post mode
+(define (post-list #:limit             [limit #f]
+                   #:sort-by           [sort-by 'date] 
+                   #:sort-ascending    [sort-ascending? #f] 
+                   #:include-post      [include-post #f]
+                   #:no-month-sections [no-month-sections #f]
                    . args)
   (define category 
     (let loop ([args args])
@@ -185,7 +187,10 @@
                 (define date-chunk (and (post "date") (format "~a ~a" (vector-ref '#(#f "Jan" "Feb" "Mar" "Apr" "May" "June" "July" "Aug" "Sept" "Oct" "Nov" "Dec") (date-month (post "date"))) (date-year (post "date")))))
                 `(li ((class "post-listing"))
                      ,@(cond
-                         [(or (not date-chunk) (equal? last-date-chunk date-chunk)) `()]
+                         [(or no-month-sections
+                              (not date-chunk) 
+                              (equal? last-date-chunk date-chunk)) 
+                          `()]
                          [else
                           (set! last-date-chunk date-chunk)
                           `((h3 ,date-chunk))])
