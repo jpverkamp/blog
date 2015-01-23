@@ -129,7 +129,7 @@ The format isn't particularly optimal, but we can massage it easily enough. What
              (list (string->number (string-trim ip-from "\""))
                    (string->number (string-trim ip-to "\""))
                    (string-trim
-                    (string-join 
+                    (string-join
                      (reverse (map (λ (x) (string-trim x "\"")) country)) " "))))
            (λ (a b)
              (< (first a) (first b)))))])
