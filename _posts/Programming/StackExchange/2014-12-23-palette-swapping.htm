@@ -56,7 +56,7 @@ The first algorithm sounds crazy until you try it. In psuedocode:
 And that's actually it. It turns out the code is just about as simple, with most of the length going into loading and saving the images and format juggling.
 First, we want a way of representing pixels which in this context are a color and a location:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; A color with a location
 (struct pixel (x y c) #:transparent)
 
@@ -70,7 +70,7 @@ We'll use `pixel&lt;?/grayscale` as a basic sorting function. It works well enou
 
 Next, the pièce de résistance:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Recolor an image by sorting the pixels in both images
 (define (recolor/sort original-src target-src
                       #:pixel<? [pixel<? pixel<?/grayscale])
@@ -143,7 +143,7 @@ Okay, that was straight forward. Let's see if we can do something different. Thi
 
 First, let's define an error function based on the distance between two colors in RGB space (again, there are better functions we could use here):
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Find the distance between two flvectors
 (define (fl-distance fl1 fl2)
   (sqrt (for/sum ([a (in-vector (flvector->vector fl1))]
@@ -159,7 +159,7 @@ First, let's define an error function based on the distance between two colors i
 
 Using that, we can  the algorithm fairly directly into Racket:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Recolor an image by randomly swapping pixels based on improving error
 (define (recolor/swap original-src target-src
                       #:threshold [threshold 100]
@@ -245,7 +245,7 @@ Also, it takes a lot longer. While sorting worked in seconds and 100 took about 
 
 Alternatively, you can try a different error function. For example, this one takes the weighted average of a 3x3 area rather than a single pixel (threshold = 1000).
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Slightly more complicated error function takes original image average into account
 (define (error/rgb-distance/average
          original-fm target-fm
@@ -292,7 +292,7 @@ As a @wikipedia{greedy algorithm}, it's theoretically fast but likely not optima
 
 One neat trick I did here was that I could have just run from the top of the image down. But that would have lost out on a lot of the detail from the center of the image. So instead, I used the @racket-doc{racket/generator} library to make this neat gem:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Spiral outwards from (0,0) in squares
 (define (in-spiral [radius +inf.0])
   (in-generator
@@ -313,7 +313,7 @@ That's much more Pythonic than Rackety, but it does work. Essentially, you get a
 
 Using that, we can  the psuedocode into Racket:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Recolor an image finding the best pixels from the center out
 (define (recolor/fill/slow original-src target-src)
   (define original (load-flomap original-src))
@@ -408,7 +408,7 @@ If we could get something like that working, we would only need @latex['inline]|
 
 In Racket, to build a splay tree, we need to set up a couple of things in the @racket-doc{data/order} and @racket-doc{data/splay-tree} modules:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Find the distance between two flvectors
 (define (fl-distance fl1 fl2)
   (sqrt (for/sum ([a (in-vector (flvector->vector fl1))]
@@ -432,7 +432,7 @@ In Racket, to build a splay tree, we need to set up a couple of things in the @r
 
 Then, when loading the colors instead of building a list, we can make the splay tree:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Generate a list of target colors
 (define colors
   (make-splay-tree
@@ -453,7 +453,7 @@ One thing we didn't have to do earlier was to keep track of counts for each pixe
 
 Then, in the `recolor/fill` method, we tweak the color choosing function (previously the `for/fold`):
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ...
 
 ; Get the source color at that point

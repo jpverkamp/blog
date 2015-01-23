@@ -62,14 +62,14 @@ But first, those last four files:
 
 Of those, we'll start with the first one. We want to be able to load that information into a basic structure to represent a backup:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Represents an iPhone backup on disk
 (struct backup (name hash date phone-number path) #:prefab)
 }|
 
 Cool. First thing first, let's find the backups on disk. We want to be able to support either Windows or OSX (I use both), so try both locations:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Load all backups on disk into a list
 (define list-backups
   (let* (; OS agnostic (I hope) way of finding the backup root
@@ -104,7 +104,7 @@ The function is a little strange looking, mostly because of caching. Rather than
 
 One thing missing though, we have to define the function `read-plist/jsexpr` yet. Luckily, we have the @racket-doc{xml/plist} library to handle the first part of this@footnote{Sort of. Turns out that library doesn't handle binary plists. We'll work around that when we handle applications.}, but personally I'd rather a more straight forward format (a @racket-doc{jsexpr} is basically a mix of hashes, lists, and atoms):
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Convert a plist into a JSON expression
 (define (plist->jsexpr data)
   (match data
@@ -130,7 +130,7 @@ I still haven't decided if special casing `data` and `date` elements is worthwhi
 
 The other interesting function is another utility function `normalize-contact`:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Process a phone number or email address into a common format
 (define (normalize-contact value)
   (define re #px"^\\+?1? ?[\\(\\.]?(\\d\\d\\d)[\\)\\.-]? ?(\\d\\d\\d)[ \\.-]?(\\d\\d\\d\\d)$")
@@ -155,7 +155,7 @@ Phone numbers in an iPhone backup are stored all sorts of odd ways. In particula
 
 But with that, we now have the ability to list all backups on the local system:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (list-backups)
 '(#s(backup
      "JP’s iPhone"
@@ -169,7 +169,7 @@ It's an older backup, but that's fine.
 
 Next, what if we have more than one backup on the system? It would be nice to have a function that could take that list of backups and load just one (that other parts of the library can access) based on name/hash/phone number:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Store the most recently used backup for other modules
 (define current-backup (make-parameter #f))
 
@@ -187,7 +187,7 @@ Fair enough. At the moment, you have to have an exact match, but that's fine. If
 
 So now I can find my own backup:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (read-backup "86b1...aa36")
 '#s(backup
     "JP’s iPhone"
@@ -199,7 +199,7 @@ So now I can find my own backup:
 
 One more utility macro:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Parameterize code with a current backup
 (define-syntax-rule (with-backup identifier body ...)
   (parameterize ([current-backup (read-backup identifier)])
@@ -208,7 +208,7 @@ One more utility macro:
 
 This will be nice, since it can let us do things like this:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (define contacts
     (with-backup "86b1...aa36"
       (list-contacts)))
