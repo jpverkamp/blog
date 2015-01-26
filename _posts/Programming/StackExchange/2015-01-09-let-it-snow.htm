@@ -34,7 +34,7 @@ Sounds worth doing. :)
 
 So then we just need a structure for snowflakes to start with:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (struct snowflake (radius arms points) #:prefab)
 
 ; Generate a new snowflake with the given number of arms
@@ -46,7 +46,7 @@ So then we just need a structure for snowflakes to start with:
 
 Next, we want the ability to add points to a snowflake, or to check if a point is currently in it:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Rotate a point so that the angle is in the range [θ, -θ)
 (define (clampθ p θmin θmax)
   (define θΔ (- θmax θmin))
@@ -90,7 +90,7 @@ Cool@footnote{Heh.}.
 
 Now, the meat and potatoes: The function that makes a snowflake grow:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Generate a new point on the snowflake by drifting a point inwards
 (define (snowflake-grow s [Δ (sqrt 2)])
   (match-define (snowflake radius arms points) s)
@@ -123,7 +123,7 @@ Specifically, the first of the two functions, will generate a new random point t
 
 So all we have to do to make a snowflake is to call this function a bunch of times in a row:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (render-snowflake
    (for/fold ([s (make-snowflake 50 6)])
              ([i (in-range 20)])
@@ -136,7 +136,7 @@ So all we have to do to make a snowflake is to call this function a bunch of tim
 
 Cool! We already have some nice flakey structure. Let's take it out to it's logical conclusion and keep growing until we hit the radius:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Generate an entire snowflake
 (define (generate-snowflake radius arms [Δ (sqrt 2)])
   (let loop ([s (make-snowflake radius arms)])
@@ -148,7 +148,7 @@ Cool! We already have some nice flakey structure. Let's take it out to it's logi
 
 Basically, we keep adding points. If, at any point, the newest point added was further out from the center than our radius, we're done. Bam.
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (render-snowflake (generate-snowflake 50 6 4))
 }|
 
@@ -156,7 +156,7 @@ Basically, we keep adding points. If, at any point, the newest point added was f
 
 Or we can generate a bunch of snowflakes with different numbers of arms:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (for/list ([arms (in-range 3 9)])
     (render-snowflake (generate-snowflake 50 arms 4)))
 }|
@@ -170,7 +170,7 @@ Or we can generate a bunch of snowflakes with different numbers of arms:
 
 Or we can experiment with different values for the packing radius:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (for/list ([Δ (in-list (list 1 (sqrt 2) 2 3 π 4))])
     (render-snowflake (generate-snowflake 50 6 Δ)))
 }|
@@ -184,7 +184,7 @@ Or we can experiment with different values for the packing radius:
 
 Okay, so how have I been rendering these things?
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Render a snowflake to a bitmap
 (define (render-snowflake s)
   (match-define (snowflake radius arms data) s)
@@ -202,7 +202,7 @@ Simple. That's the beauty of making that `snowflake-contains?` function as we di
 
 One neat trick that we can do though, since we have all of the points ordered by how they were added to the snowflake (albeit in reverse), we can render each step along the way as a single frame:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Render a snowflake being formed
 (define (render-snowflake/frames s)
   (match-define (snowflake radius arms data) s)
@@ -220,7 +220,7 @@ One neat trick that we can do though, since we have all of the points ordered by
 
 And turn that into a fun animation:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (require mrlib/gif)
 
 (write-animated-gif
@@ -236,7 +236,7 @@ I've not used the @racket-doc{mrlib/gif} library before (instead I've been using
 
 One step further, we can take that index from `snowflake-contains?` to colorize images. We just need to tweak `render-snowflake` a bit:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Render a snowflake to a bitmap
 (define (render-snowflake s #:colorize? [colorize? #f])
   (match-define (snowflake radius arms data) s)
@@ -259,7 +259,7 @@ One step further, we can take that index from `snowflake-contains?` to colorize 
 
 Trying it out:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 > (write-animated-gif
    (render-snowflake/frames (generate-snowflake 50 8 4) #:colorize? #t)
    5

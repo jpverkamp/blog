@@ -35,7 +35,7 @@ This way, I can make a new color producer and almost immediately see how it look
 
 To do that, I made a module each for colors and locations. For each then, I defined code something like this:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (provide list-rgb-producers
          get-rgb-producer
          in-rgb-producers)
@@ -69,7 +69,7 @@ Okay, let's get to the meat of the situation now. First, let's define a whole se
 
 First thought, let's just run directly through the RGB color space:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Move evenly through the RGB color space
 (define-rgb-producer (sequential-noskip count)
   (generator ()
@@ -91,7 +91,7 @@ Nice and simple. We're using a @racket-doc{generator} despite the performance pr
 
 Simple enough, but it has one major disadvantage. Because we're working in RGB, but only using 0.1% of the color space (20 thousand of the available 16 million colors), everything is blue. That's because since we're only changing the low bits, we change the blue value first (0-255). Green changes as well, but much slower, only getting up to around 80. Oops. So instead, let's skip enough colors each time so we go through the entire color space:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Move evenly through the RGB color space
 (define-rgb-producer (sequential count)
   (define increment (quotient 256^3 count))
@@ -104,7 +104,7 @@ Simple enough, but it has one major disadvantage. Because we're working in RGB, 
 
 Much better. This time we have a reasonable sampling of colors. Well... sort of. This time we have the opposite problem. Now instead of too much blue, we have less blue, more red and green. This time, the problem is that since we're changing the most in the low bits, we're skipping over a lot of the possible values for blue in each pixel, using all of the red values and still only some of the green. What we really want to do is iterate through each of the three channels, skipping the same amount for each:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Cascade through red, then green, then blue
 (define-rgb-producer (cascade count)
   (define increment (inexact->exact (floor (/ 256 (expt count 1/3)))))
@@ -121,7 +121,7 @@ One problem is that unless you have a specific power, this isn't quite going to 
 
 Another idea would be to make use of @wikipedia{gray codes}, rather than directly use the indicies. Also known as a reflected binary code, the idea of a gray code is that between any two values, you change only one bit. This has two advantages. First, gray codes avoid the sudden change we have in previous images where we go from the end of one iteration to the beginning of the next. Second, gray codes essentially form a @wikipedia{space filling curve}. If you have a power of 2, <em>n</em> gray codes will cover the same space as <em>n</em> sequential values, just in a different order. Let's see what that means for our color generation:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (define (->gray-code i)
   (bitwise-xor (arithmetic-shift i 1) i))
 
@@ -134,7 +134,7 @@ Another idea would be to make use of @wikipedia{gray codes}, rather than directl
 
 @embed{reading_gray-code-noskip_400x200.png}
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (define-rgb-producer (gray-code count)
   (define increment (quotient 256^3 count))
   (generator ()
@@ -148,7 +148,7 @@ As before, if you don't skip you get change mostly in the lowest/blue channel wi
 
 Last but not least, let's through all this nice theoretically color space stuff out the window. Random colors for the win!
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Randomly generate colors (regenerating on duplicates)
 (define-rgb-producer (randomly count)
   (define used (make-hasheq))
@@ -170,7 +170,7 @@ Also, this one has a major performance problem, especially with larger images. C
 
 Okay, enough with the color generation. That should be enough for the moment. Let's instead move on to location producers. First, we'll start with the simple one we've been actually using all along:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Left to right, top to bottom
 (define-order-producer (reading width height get-new-color get-color-at)
   (generator ()
@@ -186,7 +186,7 @@ This time, you may have noticed a few more parameters. Specifically, this time w
 
 How about next, we spiral from a central point outwards. This is similar to the `in-spiral` function I defined in the post on @crosslink{palette swapping}, only this time we'll use a @wikipedia["Queue_(abstract_data_type)"]{queue} rather than a generator:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Spiral from the center point outwards
 (require data/queue)
 
@@ -217,7 +217,7 @@ Not very functional code, but it certainly does work. The beauty of using a queu
 
 Neat. Okay, how about we take that code one step further. Rather than generating a single square, how about we generate a seed square randomly in the image, expanding it until we hit the edge. Once we do, generate another square, repeating over and over again with smaller and smaller seeds. Something like this:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Generate random squares each until they hit an edge or another square
 (define-order-producer (square-fill width height get-new-color get-color-at)
   (define q (make-queue))
@@ -265,7 +265,7 @@ Next, let's take a similar idea, but instead of squares, let's go back to someth
 
 Basically, start with a seed as before. This time though, randomly expand in one of the eight possible directions. If that doesn't work (either it's an edge or already set), try another direction until we fail at all eight. If that's the case (and we've walked ourselves into a corner), generate a new seed.
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Walk randomly, starting a new seed if there are no more options
 (define-order-producer (random-walk width height get-new-color get-color-at)
   (define current-point (pt (random width) (random height)))
@@ -323,7 +323,7 @@ Okay, and now the big one. This is honestly the response to the <a href="https:/
 
 That's a bit of a mouthful, but it's relatively straight forward to turn into code:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Organically grow outwards, finding the best match among border pixels
 
 ; combine is how distances of border pixels are combined
@@ -393,7 +393,7 @@ Specifically, with these three functions, we can define (at the very least), the
 
 We can use the `make-grower` function to define these as such:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Choose the border pixel closest to any one of its neighbors
 (define-order-producer (grow-minimum width height get-new-color get-color-at)
   ((make-grower #:combine min #:missing +inf.0)
@@ -404,7 +404,7 @@ We can use the `make-grower` function to define these as such:
 
 @embed{grow-minimum_cascade_400x200.png}
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Choose the border pixel closest to the furthest away neighbor
 (define-order-producer (grow-maximum width height get-new-color get-color-at)
   ((make-grower #:combine max #:missing -inf.0)
@@ -415,7 +415,7 @@ We can use the `make-grower` function to define these as such:
 
 @embed{grow-maximum_cascade_400x200.png}
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Choose the border pixel where the difference from the average of already placed pixels is minimal
 (define-order-producer (grow-average width height get-new-color get-color-at)
   ; Sneaky trick to track both sum (real) and count (imagionary)
@@ -437,7 +437,7 @@ Another interesting note is runtime. Because of how the border pixels are filled
 
 You may be asking yourself, so what about that `#:seeds` paramater? Well, with that, you can do something like this: growing in from the edges rather than from the center:
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 (define-order-producer (grow-maximum-corners width height get-new-color get-color-at)
   ((make-grower #:combine max #:missing -inf.0 #:seeds (corners width height))
    width height get-new-color get-color-at))
@@ -453,7 +453,7 @@ And... that's that. That's all of the different algorithms I've come up with thu
 
 Before we go though, I think it would be interesting to show how I've been putting these images all together. Given one of each producer, how do you render that into an image?
 
-@codeblock["scheme"]|{
+@codeblock["racket"]|{
 ; Given a color and order producer, make an image
 (define (render width height rgb-producer order-producer)
   ; Initialize the image to error pixels
