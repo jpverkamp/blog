@@ -56,19 +56,3 @@ $(function() {
         toggleAlternates($(event.target).attr('data-alternate-target'));
     });
 });
-
-/* Initialize emoji.js */
-$(function() {
-    emojify.setConfig({
-        img_dir : '/emojify.js/images/emoji',
-        ignored_tags : {
-            'STYLE'   : 1,
-            'SCRIPT'  : 1,
-            'TEXTAREA': 1,
-            'A'       : 1,
-            'PRE'     : 1,
-            'CODE'    : 1
-        }
-    });
-    emojify.run();
-});
