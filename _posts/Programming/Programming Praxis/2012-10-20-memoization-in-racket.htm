@@ -36,7 +36,7 @@ The basic macro isn't actually too bad. Basically, we want to create a function 
             args ...))))]))
 }|
 
-The code gets a bit strange on the inner part as I'm actually creating two functions only to immediately apply the inner one. Why? Because it's the only way that I could think of to capture both the names of the arguments and their values (which are the actual key to the hash). If you have a better solution, I'd love to hear it. :)
+The code gets a bit strange on the inner part as I'm actually creating two functions only to immediately apply the inner one. Why? Because it's the only way that I could think of to capture both the names of the arguments and their values (which are the actual key to the hash). If you have a better solution, I'd love to hear it. :smile:
 
 But with that, it's really straight forward to turn a normal function into a memoized one. Here's an example using that particularly poor way of writing Fibonacci: 
 

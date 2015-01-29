@@ -16,7 +16,7 @@ As I @crosslink["extending-racket-structs-to-bitfields"]{mentioned} on Monday, I
 
 <!--more-->
 
-Originally, I was writing this code in Python. Python doesn't have a built in DNS library, but <a href="http://www.dnspython.org/">dnspython</a> works is rather solid and does all that I want it to. On the other hand though, I'm starting to move more and more of my code over to Racket--I've found it to be more expressive in a lot of cases (particularly when creating @wikipedia{domain specific languages} for solving a problem@footnote{It's my programming languages background coming out. :)} and (in my experience) it performs a lot better on bigger, easily parallelizable tasks.
+Originally, I was writing this code in Python. Python doesn't have a built in DNS library, but <a href="http://www.dnspython.org/">dnspython</a> works is rather solid and does all that I want it to. On the other hand though, I'm starting to move more and more of my code over to Racket--I've found it to be more expressive in a lot of cases (particularly when creating @wikipedia{domain specific languages} for solving a problem@footnote{It's my programming languages background coming out. :smile:} and (in my experience) it performs a lot better on bigger, easily parallelizable tasks.
 
 So what does Racket have in terms of DNS? Well, unfortunately all I've been able to find is the built in @racket-doc{net/dns} module. It works well enough for simple queries (@racket-doc{dns-get-address} is certainly straight forward and far easier to direct towards arbitrary DNS servers than I found with dnspython. But unfortunately, that's about all it has. There's no way to control how long the method takes to timeout (without something like @racket-doc{sync/timeout}), there's no way to see the full set of addresses returned (it seems to just return the first @wikipedia["A record"]{A record (DNS)#A} in the response), and no support for asynchronous scans. Essentially, it just won't work on the scale that I'll be working with.
 
@@ -75,7 +75,7 @@ Now that we have that, how will `get-socket` work? Here's what I have, although 
               (apply values event))
 
             ; Send the results to any listeners for that port
-            ; Hope they can deal with anything else random to this port :)
+            ; Hope they can deal with anything else random to this port :smile:
             (for ([listener (in-set (hash-ref listeners port (set)))])
               (listener source-hostname
                         source-port
@@ -390,7 +390,7 @@ And that's all we need to get everything working. Let's try it out:
    (A 1 "74.125.225.70") (A 1 "74.125.225.65")))
 }|
 
-That's a fair few IP addresses. :) What if we try the asyncronous version:
+That's a fair few IP addresses. :smile: What if we try the asyncronous version:
 
 @codeblock["scheme"]|{
 > (define (callback host type query response)

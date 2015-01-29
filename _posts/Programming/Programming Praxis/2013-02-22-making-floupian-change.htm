@@ -38,7 +38,7 @@ Optimally, this will allow us to run this:
 
 So what do we need to write the internal `make-payment` function? 
 
-Well, my first thought was to start with the value we're trying to pay. Then, recursively try paying with each coin in turn until we've paid the entire bill. Unfortunately, in this original plan, I neglected to take into account the fact that we need to minimize both the number of coins in the payment and in the change. That's okay though, the code was already getting ugly. :)
+Well, my first thought was to start with the value we're trying to pay. Then, recursively try paying with each coin in turn until we've paid the entire bill. Unfortunately, in this original plan, I neglected to take into account the fact that we need to minimize both the number of coins in the payment and in the change. That's okay though, the code was already getting ugly. :smile:
 
 So for the second try, we're going to think about the problem the other way. Start by generating all possible combinations of <em>n</em> coins (starting with <em>(= n 1)</em>). For each combination, calculate each possible way to split the coins between the payment and change. For each split, check if the difference between the two is the target value. If so, the first solution we find is the minimal one (since we start with 1 coin and count up). It's terribly inefficient, but it's guaranteed to find a solution if one exists.
 
@@ -80,7 +80,7 @@ Now that we have that, we're ready to do the bulk of the problem:
            (return (list payment change))))))))
 }|
 
-It's a bit of a blog of code, but I think it all builds pretty naturally. The `call/cc` sets up a break points so we can return immediately when we find a solution. The outer loop counts upwards for the number of coins. The inner nested `for*` will try each coin list and for each list all possible splits. Then we pull apart the list and check if it's a valid solution. ((Challenge: Identify all of the relatively inefficient function calls in this code. There are at least half a dozen. :)))
+It's a bit of a blog of code, but I think it all builds pretty naturally. The `call/cc` sets up a break points so we can return immediately when we find a solution. The outer loop counts upwards for the number of coins. The inner nested `for*` will try each coin list and for each list all possible splits. Then we pull apart the list and check if it's a valid solution. ((Challenge: Identify all of the relatively inefficient function calls in this code. There are at least half a dozen. :smile:))
 
 Let's give it a few tries:
 
@@ -117,7 +117,7 @@ Heck, if you wanted, you could even use @wikipedia["Knuts, Sickles, and Galleons
 '((17 17 17 17 17 17) (1 1))
 }|
 
-So now you know, if you're every buying a 1000 Knut keepsake from a Floupian wizard, you should pay with 6 Sickles and expect 2 Knuts in return. :)
+So now you know, if you're every buying a 1000 Knut keepsake from a Floupian wizard, you should pay with 6 Sickles and expect 2 Knuts in return. :smile:
 
 That's all there is. This was a really fun problem to work through. It's interesting when a problem makes you think through a relatively common situation (making change) in an uncommon way. 
 

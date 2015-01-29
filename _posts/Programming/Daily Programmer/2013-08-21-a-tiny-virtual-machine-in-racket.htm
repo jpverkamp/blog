@@ -333,7 +333,7 @@ That would be the end of the actual challenge. But I already have all of these f
 
 Essentially, we turn the code into a vector (since we're going to be jumping around a bit). Then we use the `(current-opcodes)` hash to look up the function. `args` come from the code vector</code>. About the only sneaky part of this code is that we update the `pc` before we run the code. As the note mentions, this is so that the jumps will work correctly when they override it. Then, so long as we haven't called `HALT` we just keep looping.
 
-I did originally have a heck of a time getting this to work correctly since I wasn't updating the `pc` correctly. You need 1 for the opcode <strong>and</strong> 1 for each argument that you're consuming. Oops. :)
+I did originally have a heck of a time getting this to work correctly since I wasn't updating the `pc` correctly. You need 1 for the opcode <strong>and</strong> 1 for each argument that you're consuming. Oops. :smile:
 
 But now we can run our code:
 
@@ -342,7 +342,7 @@ But now we can run our code:
 12
 }|
 
-If you remember correctly, this function was supposed to add 5 and 7. Looks like a job well done. :) For something a little more complicated though, why don't we try multiplying two numbers (the example given in the original problem). I wrote a function `tiny` which parses, assembles, and then runs any code you give it, here is the results:
+If you remember correctly, this function was supposed to add 5 and 7. Looks like a job well done. :smile: For something a little more complicated though, why don't we try multiplying two numbers (the example given in the original problem). I wrote a function `tiny` which parses, assembles, and then runs any code you give it, here is the results:
 
 @codeblock["bash"]|{
 source:
@@ -380,7 +380,7 @@ running:
 
 Looks pretty good, eh?
 
-We still have one more step though. We want to be able to prove that Tiny is @wikipedia{Turing complete}. One way to do that is to be able to simulate a Turing machine. That sounds simple(ish), let's do that. :)
+We still have one more step though. We want to be able to prove that Tiny is @wikipedia{Turing complete}. One way to do that is to be able to simulate a Turing machine. That sounds simple(ish), let's do that. :smile:
 
 <b>A while later.</b>
 
@@ -473,7 +473,7 @@ HALT
 ...
 }|
 
-Finally, we need to encode the states. Essentially, we need to check two things: the current state and the symbol at the tape pointer. If they both match a given transition, use that. Otherwise, keep going. Here's where we need `MMOV`. We'll need it twice: first to copy the value from the tape pointer to `M[3]` so we can actually work with it then later to copy it back if we actually use this block. One particularly unfortunate bit about this code is the lack of relative offsets. There's a reason that compiler writers often seem just a bit mad... :)
+Finally, we need to encode the states. Essentially, we need to check two things: the current state and the symbol at the tape pointer. If they both match a given transition, use that. Otherwise, keep going. Here's where we need `MMOV`. We'll need it twice: first to copy the value from the tape pointer to `M[3]` so we can actually work with it then later to copy it back if we actually use this block. One particularly unfortunate bit about this code is the lack of relative offsets. There's a reason that compiler writers often seem just a bit mad... :smile:
 
 @codeblock["scheme"]|{
 ...
@@ -649,7 +649,7 @@ Result:
 (1 1 1 1 1 1)
 }|
 
-You can't ask for better than that. :) I wonder how long it takes to run on a hundred element list?
+You can't ask for better than that. :smile: I wonder how long it takes to run on a hundred element list?
 
 @codeblock["scheme"]|{
 > (time (length (double-list (map (λ (_) 1) (range 10)))))
@@ -677,7 +677,7 @@ Result:
 cpu time: 3947 real time: 3922 gc time: 139
 }|
 
-You can't really ask for better than that. :) 
+You can't really ask for better than that. :smile: 
 
 Well, that's it. If it I wanted to be more formal about it, I would have to prove that each possible Turning machine works, but we'll leave that as an exercise to the reader. 
 

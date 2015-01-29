@@ -154,7 +154,7 @@ Because we reset the random seed at the beginning of the calculate and always ge
 @embed[#:width 245 #:height 245]{invader-fractal-seeded-4.png}
 @footnote{Click to embiggen.}
 
-:)
+:smile:
 
 Unfortunately, the lower levels aren't the same pattern, since we're generating the images using a @wikipedia{depth first search} rather than the @wikipedia{breadth first search}. More specifically, we're generating the invaders in this order:
 
@@ -193,7 +193,7 @@ There's another option though:
   (render-invader-fractal (make-invader-fractal/seeded seed depth)))
 }|
 
-With the addition of `mod-random-seed!`, we can set the seed at each level. And we've got the amusing notion of non-random random seeds. :) But since they're generated as a function of the current `depth` and `x` and `y` coordinates of the parent image, we'll always get the same images at each level:
+With the addition of `mod-random-seed!`, we can set the seed at each level. And we've got the amusing notion of non-random random seeds. :smile: But since they're generated as a function of the current `depth` and `x` and `y` coordinates of the parent image, we'll always get the same images at each level:
 
 @codeblock["scheme"]|{
 > (for/list ([depth (in-range 1 5)])
@@ -205,8 +205,8 @@ With the addition of `mod-random-seed!`, we can set the seed at each level. And 
 @embed{invader-fractal-better-seeded-3.png}
 @embed[#:width 245 #:height 245]{invader-fractal-better-seeded-4.png}
 
-Now that's what I was looking for. :)
+Now that's what I was looking for. :smile:
 
 As always, today's code is available on GitHub. Check it out: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/invader-fractals.rkt">invader-fractals.rkt</a> (Requires <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/procedural-invaders.rkt">procedural-invaders.rkt</a> to run.)
 
-Challenge: Make fractal invaders from invader fractals. Maybe later... O:)
+Challenge: Make fractal invaders from invader fractals. Maybe later... :innocent:

@@ -164,7 +164,7 @@ Also, I wanted to make the printout a little nicer. Instead of printing out the 
 @codeblock["scheme"]|{
 
 ; custom writer for the hash
-(record-writer (type-descriptor :hash:)
+(record-writer (type-descriptor :hash:smile:
   (lambda (r p wr)
     (display "#[hash " p)
     (wr (hash->list r) p)

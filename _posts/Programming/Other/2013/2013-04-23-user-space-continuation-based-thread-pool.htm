@@ -175,7 +175,7 @@ In traditional threads, it wouldn't do anything, since threads don't generally r
 '(10 89)
 }|
 
-So essentially, we've implemented the `amb` operator first described back in a variation on McCarthy’s amb operator for ambiguous choice@footnote{John McCarthy. A Basis for a Mathematical Theory of Computation. In <em>Computer Programming And Formal Systems</em> by P. Braffort and D. Hirschberg (Ed.), 1963.}. It may not be exactly what you're looking for in a threading system, but if that's the case, you can always use a different one. :) More seriously, if you don't want the `thread-pool` to exit when the first thread has a value, just don't return.
+So essentially, we've implemented the `amb` operator first described back in a variation on McCarthy’s amb operator for ambiguous choice@footnote{John McCarthy. A Basis for a Mathematical Theory of Computation. In <em>Computer Programming And Formal Systems</em> by P. Braffort and D. Hirschberg (Ed.), 1963.}. It may not be exactly what you're looking for in a threading system, but if that's the case, you can always use a different one. :smile: More seriously, if you don't want the `thread-pool` to exit when the first thread has a value, just don't return.
 
 As our next test, let's figure out just how efficient it is@footnote{That was one of the original requirements after all.}. So we'll use the `switch-count` functionality we built in earlier:
 

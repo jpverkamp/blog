@@ -110,7 +110,7 @@ Here, we have three different colors for each of the pairs. The problem is, it's
 
 @embed{loop-random.png}
 
-So how should we do it? Well one interesting thing about the greedy coloring is that while the default node order doesn't give an optimal coloring, there does exist an ordering that does@footnote{Exercise for the reader: prove this :)}. So how about we try a bunch of random orderings and take the best? Something like this:
+So how should we do it? Well one interesting thing about the greedy coloring is that while the default node order doesn't give an optimal coloring, there does exist an ordering that does@footnote{Exercise for the reader: prove this :smile:}. So how about we try a bunch of random orderings and take the best? Something like this:
 
 @codeblock["scheme"]|{
 ; Try a bunch of random colorings, keeping the best
@@ -140,7 +140,7 @@ That's pretty shiny. With just a hundred random trials, we've found a two colori
 
 Still, we should be able to do better.
 
-<a href="http://www.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_challenge_130_hard_coloring_frances/ceb58ch">One interesting comment</a> from the original problem brings up some work from @wikipedia["Daniel Brélaz"]{Daniel Brélaz}. Essentially, you repeatedly pick the node that has the most already colored neighbors (those will be the hardest to color), breaking ties by the most uncolored neighbors (most likely to need a new color). The way I'll be implementing that is by assigning a 'brélaz-number' to each node:@latex|{ brelaz(n) = |G| coloredNeighbors(n) + uncoloredNeighbors(n) }|Basically, we have a two digit number, using the size of the graph as the base. If that doesn't make sense, we could certainly make a more direct two stage sorting function, but I think it's sort of elegant. :)
+<a href="http://www.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_challenge_130_hard_coloring_frances/ceb58ch">One interesting comment</a> from the original problem brings up some work from @wikipedia["Daniel Brélaz"]{Daniel Brélaz}. Essentially, you repeatedly pick the node that has the most already colored neighbors (those will be the hardest to color), breaking ties by the most uncolored neighbors (most likely to need a new color). The way I'll be implementing that is by assigning a 'brélaz-number' to each node:@latex|{ brelaz(n) = |G| coloredNeighbors(n) + uncoloredNeighbors(n) }|Basically, we have a two digit number, using the size of the graph as the base. If that doesn't make sense, we could certainly make a more direct two stage sorting function, but I think it's sort of elegant. :smile:
 
 Anyways, here's the entire function:
 
@@ -236,7 +236,7 @@ Hmm. Let's see if Brélaz can do better:
 
 That's much better! And given the @wikipedia{four color theorem}@footnote{And assuming that there aren't any discontinuous regions, which I don't think is actually the case...}, that should be an upper bound. Unfortunately, it doesn't seem that the random coloring is doing any better (at least with my random number generator). Even with 100,000 iterations, the best that it found was 5.
 
-But... what if we want to do it perfectly? Well, if we go through <em>every</em> coloring, we're guaranteed to find a correctly solution. Of course in @wikipedia["Big O notation"]{Big-oh}, that's @latex['inline]|{ O(n!) }| which basically is as good as forever... Still, we might as well write the code<footnote>Plus it gives me an excuse to play with Racket's @racket-doc{generators}!). :)
+But... what if we want to do it perfectly? Well, if we go through <em>every</em> coloring, we're guaranteed to find a correctly solution. Of course in @wikipedia["Big O notation"]{Big-oh}, that's @latex['inline]|{ O(n!) }| which basically is as good as forever... Still, we might as well write the code<footnote>Plus it gives me an excuse to play with Racket's @racket-doc{generators}!). :smile:
 
 @codeblock["scheme"]|{
 ; Try every possible coloring (this is crazy slow)

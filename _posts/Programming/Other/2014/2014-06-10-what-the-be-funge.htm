@@ -146,7 +146,7 @@ Now it's just a literal translation of the instructions into state transitions. 
            (push! (char->integer c))
            (loop)))]
       ; Duplicate value on top of the stack
-      [(#\:)
+      [(#\:smile:
        (define v (pop!))
        (push! v)
        (push! v)]

@@ -71,7 +71,7 @@ But how does that work? First we need the channels of communication. I used a sh
         (loop))))
 }|
 
-This way `pong` will block until it receives a message from another thread. there are some potential issues in that `pong` isn't actually atomic so you could have two threads receive the same ping or not, non-deterministically. But that's half the fun of a Turing Tarpit isn't it? :)
+This way `pong` will block until it receives a message from another thread. there are some potential issues in that `pong` isn't actually atomic so you could have two threads receive the same ping or not, non-deterministically. But that's half the fun of a Turing Tarpit isn't it? :smile:
 
 With that, the code for `!` and `?` is straight forward:
 

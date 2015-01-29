@@ -157,7 +157,7 @@ cpu time: 6 real time: 6 gc time: 0
 496165411
 }|
 
-Dang that's nice. :) Let's scale to a million:
+Dang that's nice. :smile: Let's scale to a million:
 
 @codeblock["scheme"]|{
 > (time (sum-primes-sieve-eratosthenes-vector 1000000))
@@ -174,7 +174,7 @@ out of memory
 
 Oops. It turns out that calling `make-vector` to make a billion element vector doesn't actually work so well on my machine... We're going to have to get a get a little sneakier.
 
-Perhaps if we used the bitvectors from @crosslink["bitvectors-in-racket"]{Monday's post}? (And now you know why I made that library :)). All we have to do is swap out each instance of `make-vector`, `vector-ref`, or `vector-set!` for `make-bitvector`, `bitvector-ref`, or `bitvector-set!`.
+Perhaps if we used the bitvectors from @crosslink["bitvectors-in-racket"]{Monday's post}? (And now you know why I made that library :smile:). All we have to do is swap out each instance of `make-vector`, `vector-ref`, or `vector-set!` for `make-bitvector`, `bitvector-ref`, or `bitvector-set!`.
 
 @codeblock["scheme"]|{
 > (time (sum-primes-sieve-eratosthenes-bitvector 1000000))

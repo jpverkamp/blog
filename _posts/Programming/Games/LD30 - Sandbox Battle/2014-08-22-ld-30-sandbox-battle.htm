@@ -28,7 +28,7 @@ Taking about an hour at the start of the compo to both work out and think, I end
 
 Of the two, the second has the advantages of 1) actually sounding like a game (that's always been my problem with falling sand style simulations) and 2) being much easier to code. I've worked on falling sand style games before (@crosslink{Sandbox}) and they take a lot of tuning to get reasonable performance. Certainly worth doing... but not the best idea for a 48 hour time window.
 
-So of course I'm going with option A. :)
+So of course I'm going with option A. :smile:
 
 About 6 hours in, and so far this is what I have:
 
@@ -331,7 +331,7 @@ var tick = function() {
 }
 }|
 
-So we start with pixels dumping in from the ceiling and we update the world. We have space for two more functions: copying between worlds (pretty much the core idea of the game :)) and rendering. Let's look at the latter first.
+So we start with pixels dumping in from the ceiling and we update the world. We have space for two more functions: copying between worlds (pretty much the core idea of the game :smile:) and rendering. Let's look at the latter first.
 
 In order to render quickly, I'm going to use the `canvas` element's context's `createImageData` and `putImageData` to write data directly into the image. That will be a lot faster than setting pixels individually, especially since we're going to be changing rather a lot of pixels at the indiviual level. So... rendering:
 

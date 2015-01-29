@@ -7,7 +7,7 @@ date: 2012-09-09 14:00:51
 layout: post
 title: Generating Voronoi diagrams
 ---
-I was playing with @crosslink["wombat-ide-updated-tree-and-image-libraries"]{image library} and started to think about more ways that I could generate images. One idea that came to mind was to generate a bunch of colored points on the image and then color every other pixel based on which seed point was closest. Turns out, that's exactly what a @wikipedia{Voronoi diagram}is... The Wikipedia article at least says that Voronoi diagrams can be traced back at least to @wikipedia{Descartes}in 1644, so I guess at least I'm in good company. :)
+I was playing with @crosslink["wombat-ide-updated-tree-and-image-libraries"]{image library} and started to think about more ways that I could generate images. One idea that came to mind was to generate a bunch of colored points on the image and then color every other pixel based on which seed point was closest. Turns out, that's exactly what a @wikipedia{Voronoi diagram}is... The Wikipedia article at least says that Voronoi diagrams can be traced back at least to @wikipedia{Descartes}in 1644, so I guess at least I'm in good company. :smile:
 
 <!--more-->
 
@@ -66,12 +66,12 @@ As another function, what if you take the standard distance function but rather 
 
 @embed{voronoi-quartic.png}
 
-Same sort of thing as the original distance function, but you get a little more bowing and curving than the straight distance allows. Mostly out of curiosity, I'll leave it as an exercise for why I jumped from 2nd powers to 4th. <span class="spoiler">It turns out that odd powers do strange things to signs. :)</span>
+Same sort of thing as the original distance function, but you get a little more bowing and curving than the straight distance allows. Mostly out of curiosity, I'll leave it as an exercise for why I jumped from 2nd powers to 4th. <span class="spoiler">It turns out that odd powers do strange things to signs. :smile:</span>
 
 Finally, what if you invert the distance function with a simple 1/n? Or perhaps you just negate the distance function, weighting points further rather than closer. You might get something like this (with the `/0` function designed to ignore dividing by 0):
 
 @codeblock["scheme"]|{
-; a very special division that can divide by 0 :)
+; a very special division that can divide by 0 :smile:
 (define (/0 a b) (if (= b 0) 1e9 (/ a b)))
 
 ; use some strange negative power

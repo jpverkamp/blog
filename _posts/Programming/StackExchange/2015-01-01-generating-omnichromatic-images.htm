@@ -375,7 +375,7 @@ That's a bit of a mouthful, but it's relatively straight forward to turn into co
       best-point)))
 }|
 
-I did say relatively. :) One thing to note is that we're doing something a little different here. Rather than directly defining a new ordering function, we're going to define several. That's the beauty of higher order functions is that we can make one function (like this one) and parameterize it over how exactly that error function is calculated. Specifically (as noted in the comments), we have 3 variables that determine how error is defined:
+I did say relatively. :smile: One thing to note is that we're doing something a little different here. Rather than directly defining a new ordering function, we're going to define several. That's the beauty of higher order functions is that we can make one function (like this one) and parameterize it over how exactly that error function is calculated. Specifically (as noted in the comments), we have 3 variables that determine how error is defined:
 
 <ul>
   <li>`combine` - how do you combine the error of multiple already set pixels adjacent to a border pixel `b`</li>

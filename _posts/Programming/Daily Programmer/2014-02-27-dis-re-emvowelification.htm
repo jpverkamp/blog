@@ -19,14 +19,14 @@ So far this week we've had a pair of related posts at the DailyProgrammer subred
   <li><a href="http://www.reddit.com/r/dailyprogrammer/comments/1yzlde/022614_challenge_150_intermediate_reemvoweler_1/">[02/26/14] Challenge #150 [Intermediate] Re-emvoweler 1</a></li>
 </ul>
 
-Basically, if you're given a string with vowels, take them out. If you're given one without vowels, put them back in. One of the two is certainly easier than the other@footnote{Exercise for the reader: which is which :)}. :)
+Basically, if you're given a string with vowels, take them out. If you're given one without vowels, put them back in. One of the two is certainly easier than the other@footnote{Exercise for the reader: which is which :smile:}. :)
 
 <!--more-->
 
 To start off, we need a definition for what exactly a vowel is. That's a bit of a question in and of itself, but we'll go with the easiest definition:
 
 @codeblock["scheme"]|{
-; For this case, y/w are not vowels. Also, latin characters only :)
+; For this case, y/w are not vowels. Also, latin characters only :smile:
 (define vowels '(#\a #\e #\i #\o #\u))
 (define (char-vowel? c) (member c vowels))
 }|

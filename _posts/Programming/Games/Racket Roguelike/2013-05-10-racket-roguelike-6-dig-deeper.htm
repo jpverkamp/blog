@@ -246,7 +246,7 @@ The more interesting challenge is getting to different levels. The traditional w
 
 `stairs-up` will be much the same. Essentially, when the player enters a tile (the `when` keeps those pesky rats from using the stairs for the time being), they will call `ascend` which just sets the `current-depth` variable we defined earlier to one higher, which is all we would need, since the next rendering step will call `get-tile` which in turn calls `get-level`. Since there is no level yet (unless we leave the level and come back), a new one will be generated. That's the beauty of the lazy tile generation setup we're using.
 
-The final chunk is particularly amusing. Basically, when you code up the stairs, it will generate the matching stairs on the next level. This isn't perfect, since if you go back to a level you've already been on, the stairs will appear from nowhere. For now, we'll consider this a 'feature'. Hidden stairs. :) Another problem is that there's nothing stopping the stairs from popping up in the middle of a wall. Since stairs on only triggered by entering them, that will be game over. Clearly sub-optmimal, but that's something we can save for later.
+The final chunk is particularly amusing. Basically, when you code up the stairs, it will generate the matching stairs on the next level. This isn't perfect, since if you go back to a level you've already been on, the stairs will appear from nowhere. For now, we'll consider this a 'feature'. Hidden stairs. :smile: Another problem is that there's nothing stopping the stairs from popping up in the middle of a wall. Since stairs on only triggered by entering them, that will be game over. Clearly sub-optmimal, but that's something we can save for later.
 
 Speaking of which, how do we implement `on-enter`? Well, that's where the `try-move` function in `world.rkt` comes in. Find the one place where the player can move (where the target is `walkable` and not otherwise occupied) and add this code:
 
@@ -285,7 +285,7 @@ Let's try heading back up. Remember that other set of stairs? What happens if we
 
 Oops. Yeah, I really should fix that. Now I'm in the middle of a wall and thus stuck. I really should add a way to manually trigger `on-enter` actions. We'll see how that goes.
 
-Well, that's it for today. It's really starting to look like a game now. :)
+Well, that's it for today. It's really starting to look like a game now. :smile:
 
 As always, if you'd like to see all of the code for this project, you can do so on GitHub:
 - <a title="Racket Roguelike on GitHub" href="https://github.com/jpverkamp/racket-roguelike/tree/day-6">Racket Roguelike - Day 6</a>

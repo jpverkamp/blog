@@ -20,7 +20,7 @@ The first version that I tried to run was the original untyped code which used t
 simplex: cpu time: 243 real time: 242 gc time: 4</pre>
 That's actually much better than I originally got on my 64-bit Windows 7 machine, despite a slightly faster CPU from the same year. I'm still not sure sure why that's the case.
 
-But that's not what I'm interested in at the moment. :) What's more interesting right now is when I started trying to optimize things.
+But that's not what I'm interested in at the moment. :smile: What's more interesting right now is when I started trying to optimize things.
 
 Based on the first few emails, the way to go seemed to convert my code to Typed Racket. So the first thing that I did was to swap out the `#lang` line from `#lang racket` to `#lang typed/racket`. Of course when I did that, all hell broke loose with page upon page of errors of the sort:
 <pre style="color: red;">Type Checker: Expected Real, but got Any in: x

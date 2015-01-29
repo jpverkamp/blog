@@ -89,7 +89,7 @@ This works because instead of recalculating each number, we're storing the resul
 
 But this all requires that we know about / rely on memoization. That's actually a reasonable requirement (it's a really useful technique and something every programmer should at least be familiar with), but can we do it without?
 
-Well, I wouldn't be asking the question if you couldn't. :)
+Well, I wouldn't be asking the question if you couldn't. :smile:
 
 To do this, think about the way you write a list of Fibonacci numbers. You start with the first two (1 and 2) then just repeatedly add the last two on the list. You're never looking at anything more than the last two numbers. We can turn that into code by keep track of two values in a loop: `this` and `next`, representing the current Fibonacci number and the next one. Then for each time through the loop, the `next` number becomes `this` one and the sum of the two become the new `next`. Add some functionality for only adding even numbers to the running sum:
 

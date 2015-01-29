@@ -313,7 +313,7 @@ That's the majorities of the changes for this week. What's left is checking if t
      this]))
 }|
 
-What this does is check for a game over and then run for one more update so that the player can read the game over message. Then it creates an entirely new game and throws you right back into the fun. The beauty of it all is that everything we had before should all be garbage collected now. That's the fun of not having to manually manage memory. :)
+What this does is check for a game over and then run for one more update so that the player can read the game over message. Then it creates an entirely new game and throws you right back into the fun. The beauty of it all is that everything we had before should all be garbage collected now. That's the fun of not having to manually manage memory. :smile:
 
 Finally, the logging functionality. Optimally, this should be in `game-screen%`, but a `world%` doesn't know about the `game-screen%` so this is non-trivial to hook up. So `world%` handles the logging and `game-screen%` asks it for new messages when it updates.
 
