@@ -59,7 +59,7 @@ hr, .ranking-title {
 }
 
 /* Probably shouldn't do this, but get it working first, fast second */
-img {
+img:not(.emoji) {
   max-width: 90%;
   margin: 4px;
   padding: 4px;
@@ -70,4 +70,13 @@ img {
 
 pre {
   margin: 1em 0;
+}
+
+/* https://hassankhan.github.io/emojify.js/ */
+
+.emoji {
+    width: 1.5em;
+    height: 1.5em;
+    display: inline-block;
+    margin-bottom: -0.25em;
 }
