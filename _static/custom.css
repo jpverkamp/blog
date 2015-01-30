@@ -80,3 +80,15 @@ pre {
     display: inline-block;
     margin-bottom: -0.25em;
 }
+
+/* Google fonts, cannot use body since Bootstrap does */
+
+/* TODO: body font
+header, article, footer {
+    font-family: Sanchez, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+*/
+
+header h1, header h2 {
+    font-family: Calligraffitti, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
