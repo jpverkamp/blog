@@ -9,7 +9,7 @@
      => (λ (path) 
           `(img ((alt ,(string-trim str ":"))
                  (class "emoji") 
-                 (src ,(path->string (build-path "/" "emoji" path))))))]
+                 (src ,(~a "/emoji/" path)))))]
     [else str]))
 
 (register-plugin 'emoji emoji)
