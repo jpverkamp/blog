@@ -6,13 +6,9 @@ categories:
 - Programming/By Topic/Web Development
 comments: true
 ---
-On 4 March 2014, YouTube deprecated the v2.0 API for YouTube (<a href="https://developers.google.com/youtube/2.0/developers_guide_protocol_deprecated">source</a>). One of the unfortunate side effects was that RSS feeds for user uploads are included in what was deprecated.
+On 4 March 2014, YouTube deprecated the v2.0 API for YouTube (<a href="https://developers.google.com/youtube/2.0/developers_guide_protocol_deprecated">source</a>). One of the unfortunate side effects was that RSS feeds for user uploads were included in what was deprecated.
 
-Previously, you could get an RSS feed with a link of the form:
-
-`https://gdata.youtube.com/feeds/base/users/{user}/uploads`
-
-For the longest time, even after the deprecation, those links still worked, but a couple weeks ago, more and more of the video feeds I was subscribed to started redirecting to <a href="https://www.youtube.com/channel/UCMDQxm7cUx3yXkfeHa5zJIQ/videos">YouTube Help account</a>. As thrilling as that channel is, it's not what I'm looking for.
+Previously, you could get an RSS feed with a link of the form: `https://gdata.youtube.com/feeds/base/users/{user}/uploads` For the longest time, even after the deprecation, those links still worked, but a couple weeks ago, more and more of the video feeds I was subscribed to started redirecting to <a href="https://www.youtube.com/channel/UCMDQxm7cUx3yXkfeHa5zJIQ/videos">YouTube Help account</a>. As thrilling as that channel is, it's not what I'm looking for.
 
 Let's fix it.
 
@@ -80,7 +76,7 @@ Some snippets from that output (it's rather large):
                         "channelTitle": "Vsauce",
                         "description": "Vsauce is nominated for a Webby "
                                        "in Science & Education! You can "
-                                       ...
+                                       ...,
                         "playlistId": "UU6nSFpj9HTCZ5t-N3Rm3-HA",
                         "position": 0,
                         "publishedAt": "2015-04-13T19:26:03.000Z",
@@ -148,6 +144,6 @@ def generatefeed(user):
     return feed.atom_str()
 }|
 
-That way, if you go to `http://myserver.com/vsauce.xml`, you would get an RSS feed for that user's most recent 20 videos. There are a few other considerations to keep in mind (For example, I have a cache that only re-queries the YouTube API once per hour and otherwise re-serves the same feed. And better error handling.)
+That way, if you go to `http://myserver.com/{user}.xml`, you would get an RSS feed for that user's most recent 20 videos. There are a few other considerations to keep in mind (For example, I have a cache that only re-queries the YouTube API once per hour and otherwise re-serves the same feed. And better error handling.)
 
-If you'd like to see the full source in all it's glory, it's available on GitHub: <a href="https://github.com/jpverkamp/yrss">jpverkamp/yrss</a>. You will have to supply an `API_KEY` as an environment variable to run it, but that should be relatively straight foweard.
+If you'd like to see the full source in all it's glory, it's available on GitHub: <a href="https://github.com/jpverkamp/yrss">jpverkamp/yrss</a>. You will have to supply an `API_KEY` as an environment variable to run it, but that should be relatively straight forward.
