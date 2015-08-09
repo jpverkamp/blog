@@ -37,21 +37,15 @@ So how do you actually implement it in practice?
 
 Given that I don't have any particular previous experience with mail servers, the answer involves a lot of Google. Here are the steps that worked for me.
 
-<ol>
-<li>
-Have a previously configured server correctly delivering mail via <a href="http://www.postfix.org/">Postfix</a>
-</li>
+<h4>@counter{dkim-steps} - Have a previously configured server correctly delivering mail via <a href="http://www.postfix.org/">Postfix</a></h4>
 
-<li>
-Install <a href="http://www.opendkim.org/">OpenDKIM</a>.
+<h4>@counter{dkim-steps} - Install <a href="http://www.opendkim.org/">OpenDKIM</a></h4>
 
 @codeblock["bash"]|{
 sudo apt-get install -y opendkim opendkim-tools
 }|
-</li>
 
-<li>
-First, let's generate a new keypair:
+<h4>@counter{dkim-steps} - Generate a new keypair</h4>
 
 @codeblock["bash"]|{
 sudo opendkim-genkey -s mail -d example.com
@@ -80,8 +74,7 @@ mail._domainkey.example.com. 599	IN TXT "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBA
 
 That's (almost) all we have to do to configure the public half of the key pair. (We still have to use the same selector later in the `KeyFile`, but that's it.)
 
-<li>
-Create an OpenDKIM configuration file (`/etc/opendkim.conf`):
+<h4>@counter{dkim-steps} - Create an OpenDKIM configuration file (`/etc/opendkim.conf`)</h4>
 
 @codeblock["bash"]|{
 Canonicalization        relaxed/relaxed
@@ -103,52 +96,24 @@ UserID                  opendkim:opendkim
 What in the world do those all mean? Well, (based somewhat on documentation and somewhat on expirimentation):
 
 <ul>
-    <li>
-`Canonicalization` - controls whether further mail servers can edit the message contents with destroying the signature. `relaxed` allows more modification, `simple` is more strict. `relaxed` seems to be the more common option.
-</li>
-    <li>
-`ExternalIgnoreList` - hosts that we trust to send us mail; do not validate their DKIM signatures (if present). Specifying `refile` means that we can use wildcards.
-</li>
-    <li>
-`InternalHosts` - hosts that will relay mail through us; if we see an unsigned message coming from one of them, sign it before forwarding it along (This is important! I'll get to why in a bit)
-</li>
-    <li>
-`KeyTable` - a list of private keys we can use to sign messages (included later)
-</li>
-    <li>
-`LogWhy` - log errors to `/var/log/mail.log` (useful for debugging)
-</li>
-    <li>
-`MinimumKeyBits` - flag an error if we try to specify a private key shorter (less secure) than this
-</li>
-    <li>
-`Mode` - various options, `sv` is fairly common and means `s`ign outgoing messages and `v`erify incoming ones
-</li>
-    <li>
-`PidFile` - where to store the @wikipedia{PID file}
-</li>
-    <li>
-`SigningTable` - specify which key from the `KeyTable` should be used for a given message
-</li>
-    <li>
-`Socket` - how Postfix and OpenDKIM communicate
-</li>
-    <li>
-`Syslog`, `SyslogSuccess` - log to @wikipedia{syslog} as well as `mail.log`; log successes as well as failures
-</li>
-    <li>
-`UMask` - allows other Linux users (such as Postfix's) to talk to OpenDKIM
-</li>
-    <li>
-`UserID` - the user that OpenDKIM runs as
-</li>
+    <li>`Canonicalization` - controls whether further mail servers can edit the message contents with destroying the signature. `relaxed` allows more modification, `simple` is more strict. `relaxed` seems to be the more common option.</li>
+    <li>`ExternalIgnoreList` - hosts that we trust to send us mail; do not validate their DKIM signatures (if present). Specifying `refile` means that we can use wildcards.</li>
+    <li>`InternalHosts` - hosts that will relay mail through us; if we see an unsigned message coming from one of them, sign it before forwarding it along (This is important! I'll get to why in a bit)</li>
+    <li>`KeyTable` - a list of private keys we can use to sign messages (included later)</li>
+    <li>`LogWhy` - log errors to `/var/log/mail.log` (useful for debugging)</li>
+    <li>`MinimumKeyBits` - flag an error if we try to specify a private key shorter (less secure) than this</li>
+    <li>`Mode` - various options, `sv` is fairly common and means `s`ign outgoing messages and `v`erify incoming ones</li>
+    <li>`PidFile` - where to store the @wikipedia{PID file}</li>
+    <li>`SigningTable` - specify which key from the `KeyTable` should be used for a given message</li>
+    <li>`Socket` - how Postfix and OpenDKIM communicate</li>
+    <li>`Syslog`, `SyslogSuccess` - log to @wikipedia{syslog} as well as `mail.log`; log successes as well as failures</li>
+    <li>`UMask` - allows other Linux users (such as Postfix's) to talk to OpenDKIM</li>
+    <li>`UserID` - the user that OpenDKIM runs as</li>
 </ul>
 
 Fairly straight forward.
-</li>
 
-<li>
-Next, another copy of the socket definition in `/etc/default/opendkim` (I'm actually not sure why this one is necessary):
+<h4>@counter{dkim-steps} - Next, another copy of the socket definition in `/etc/default/opendkim` (I'm actually not sure why this one is necessary)</h4>
 
 @codeblock["bash"]|{
 SOCKET="inet:8891@localhost"
@@ -173,10 +138,10 @@ And what emails to sign in `/etc/opendkim/SigningTable`:
 This one is a bit more complicated, since for my particular case, I had emails coming from two different domains, along with subdomains in both cases (the first field). They can (and in this case) all use the same key, since the second entry matches the value specified in `KeyTable`.
 
 Note again: Since we're using wildcards here, we have to specify `refile` up above in `opendkim.conf`.
-</li>
 
-<li>
-Next, `/etc/opendkim/TrustedHosts`. This file will be used to specify both incoming message we trust and outgoing message we will sign (although it doesn't have to do both).
+<h4>@counter{dkim-steps} - Next, `/etc/opendkim/TrustedHosts`</h4>
+
+This file will be used to specify both incoming message we trust and outgoing message we will sign (although it doesn't have to do both).
 
 @codeblock["bash"]|{
 127.0.0.1
@@ -189,8 +154,9 @@ example.com
 
 Entries here can be either IP addresses, @wikipedia{CIDR} style IP ranges, or hostnames (including wildcards, since this is a `refile`), all of which I use above. This actually took a bit to figure out, since originally I was signing email directly from the box (successfully), but when I attempted to actually send a signed email from the product, it didn't work (since the frontends relay mail to the mail servers).
 
-<li>
-Okay, that's enough to configure OpenDKIM. Next, we need to tell Postfix to talk to it. This one is relatively straight forward as well. Just add a few lines to the bottom of `/etc/postfix/main.cf`:
+<h4>@counter{dkim-steps} - Okay, that's enough to configure OpenDKIM. Next, we need to tell Postfix to talk to it</h4>
+
+This one is relatively straight forward as well. Just add a few lines to the bottom of `/etc/postfix/main.cf`:
 
 @codeblock["bash"]|{
 # DKIM
@@ -202,8 +168,7 @@ non_smtpd_milters = inet:localhost:8891
 
 Essentially, milter is a protocol Postfix uses for plugins. We want to configure all mail traffic (both from smptd and not) to go to OpenDKIM, via the port we specified (twice) earlier. Shiny.
 
-<li>
-Finally, restart both OpenDKIM and Postfix, so they can take advantage of their new settings:
+<h4>@counter{dkim-steps} - Finally, restart both OpenDKIM and Postfix, so they can take advantage of their new settings</h4>
 
 @codeblock["bash"]|{
 sudo service opendkim restart
@@ -236,3 +201,22 @@ Bam.
 <h2>A few caveats</h2>
 
 So, what is DKIM actually used for?
+
+The original claim is that it's an <em>email validation system designed to detect email spoofing</em>. Which is all well and good, but there's one big problem: adaptation.
+
+Numbers are a little hard to come by, but one site that I found is builtWith trends: <a href="https://trends.builtwith.com/mx/DKIM">DKIM Usage Statistics</a>. Their reported coverage notes:
+
+<ul>
+    <li>Quantcast Top 10k - 14 of 10,000</li>
+    <li>Quantcast Top 100k - 104 of 100,000</li>
+    <li>Quantcast Top Million - 585 of 865,105</li>
+    <li>Entire Internet - 24,064 of 328,844,222</li>
+</ul>
+
+That's less than 0.1% in any category. Not so great.
+
+This is a problem, not because it means that mail servers aren't using it, but rather because there is little reason for mail <em>clients</em> to support it. It's easy enough to verify a DKIM signature if present, but they're so rarely present, that most will not go through that effort.
+
+Furthmore, the header does not sign the message headers and (unless you are using SMTP over TLS), it is trivial to remove. If the DKIM header is not present, the message is trivial to modify with the recipient none the wiser. This could be offset--for some business models--by requiring messages to contain a DKIM header and rejecting those that don't.
+
+Still, it's an interesting technology and there's no particular harm (other than a small amount of extra CPU effort to do the signing) in implementing it.
