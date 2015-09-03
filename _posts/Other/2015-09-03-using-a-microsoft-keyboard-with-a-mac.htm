@@ -31,3 +31,17 @@ I user a drop down terminal (<a href="http://totalterminal.binaryage.com/">Total
 @embed{seil-settings.png}
 
 Change that one option (80 is F19, a key unlikely to be used by anything else; there's a list further down) and you're golden.
+
+Edit: Ah ha. What I really wanted was to map my terminal to Caps Lock + A (so that I can use other keys for other applications in the future). I can map Caps Lock to Control, Option, or Command, so I have a few options:
+
+<ul>
+    <li>Control-A: Suboptimal, since Control-A is already used to go to the beginning of the line</li>
+    <li>Option-A: Since I'm remapping Option/Command, this will behave differently on the internal and external keyboard</li>
+    <li>Command-A: Used to select all text, so that doesn't work</li>
+</ul>
+
+Not so great.
+
+Luckily, we do have an option. Remember how I was only mapping the <em>left</em> Control and Options earlier? We can use the right side! If we tell Seil to map Caps Lock to 61 (Right Option) and tell TotalTerminal to open on Option+A, that will do exactly what I expect on both the internal and external keyboard.
+
+Victory!
