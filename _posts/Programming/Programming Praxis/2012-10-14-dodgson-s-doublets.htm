@@ -3,6 +3,7 @@ categories:
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 - Programming/By Topic/Word Games
+- Programming/By Topic/Algorithms/Backtracking
 comments: true
 date: 2012-10-14 14:00:20
 layout: post
@@ -28,8 +29,8 @@ Using the same source code as the previous two posts (@crosslink["squaring-the-b
 ; find the path between two words, changing one letters at a time
 ; use call/cc to bail out when we find an answer
 (define (direct-doublet dict src dst)
-  (call/cc 
-   (λ (exit) 
+  (call/cc
+   (λ (exit)
      (let ([src (string-upcase src)]
            [dst (string-upcase dst)])
        ; loop down possible solutions
@@ -51,7 +52,7 @@ Basically, I'm using a neat trick I last used on the post about @crosslink{4SUM}
 
 (Side note: `string-set` is a functional version of `string-set!` that returns a new string rather than mutating the previous one in place. It's easy enough to implement or can see a version of it in the <a href='https://github.com/jpverkamp/small-projects/blob/master/blog/doublets.rkt'>full source</a>.)
 
-It works well enough, but there is one bit of an issue. This one performs a depth first search, following one path all of the way until it finds a solution or a dead end. Unfortunately, there are a *lot* of paths that we can take without getting close to a solution. Let's see if we can't do better. 
+It works well enough, but there is one bit of an issue. This one performs a depth first search, following one path all of the way until it finds a solution or a dead end. Unfortunately, there are a *lot* of paths that we can take without getting close to a solution. Let's see if we can't do better.
 
 This time, I'm going to use a simple greedy heuristic to control the solution. It's still depth first, but this time, we're going to try the words that are closest to the target first (with a small bit of random wiggle to break up equally likely solutions). Here's the differencing function:
 
@@ -59,7 +60,7 @@ This time, I'm going to use a simple greedy heuristic to control the solution. I
 ; calculate the difference between two strings
 (define (string-diff s1 s2)
   (+ (random)
-     (for/sum ([c1 s1] [c2 s2]) 
+     (for/sum ([c1 s1] [c2 s2])
        (abs (- (char->integer c1) (char->integer c2))))))
 }|
 
@@ -69,8 +70,8 @@ With that, we can work out the solution:
 ; find the path between two words, changing one letters at a time
 ; use call/cc to bail out when we find an answer
 (define (doublet dict src dst)
-  (call/cc 
-   (λ (exit) 
+  (call/cc
+   (λ (exit)
      (let ([src (string-upcase src)]
            [dst (string-upcase dst)])
        ; loop recursively
@@ -79,13 +80,13 @@ With that, we can work out the solution:
          (if (equal? current dst)
              (exit (reverse words))
              ; find all of the next steps
-             (let ([nexts 
+             (let ([nexts
                     (for*/list ([i (string-length src)]
                                 [c "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
-                                #:when 
+                                #:when
                                 (let ([next (string-set current i c)])
                                   (and (not (member next words))
-                                       (contains? dict next))))      
+                                       (contains? dict next))))
                       (string-set current i c))])
                ; sort by distance to the final solution, recur in that order
                (for ([next (sort nexts (λ (w1 w2) (< (string-diff w1 dst)
@@ -98,7 +99,7 @@ This time we use `for*/list` instead of `for*` as we actually want to return the
 
 Faster, but it's still not quite optimal. The paths returned are nowhere near the shortest they could be. So let's take a totally different track. What we need is a breadth first search. We're going to keep a queue of solutions, at each loop adding any new branches to the end and taking the next try from the beginning. This will guarantee that the found solution is as short as possible.
 
-Unfortunately, the code isn't nearly as functional as the previous solutions. To share a queue between the various branches, we need a mutable queue. Here's something that I wrote up quicklike to make it happen: 
+Unfortunately, the code isn't nearly as functional as the previous solutions. To share a queue between the various branches, we need a mutable queue. Here's something that I wrote up quicklike to make it happen:
 
 @codeblock["scheme"]|{
 ; opaque structure for the queue
@@ -130,8 +131,8 @@ Perhaps it's not the most efficient, but it does work well enough. You can get t
 ; find the path between two words, using a queue
 ; values in the queue are (current, path)
 (define (breadth-doublet dict src dst)
-  (call/cc 
-   (λ (exit) 
+  (call/cc
+   (λ (exit)
      (let ([src (string-upcase src)]
            [dst (string-upcase dst)]
            [q (make-queue)])
@@ -158,7 +159,7 @@ Perhaps it's not the most efficient, but it does work well enough. You can get t
      (exit #f))))
 }|
 
-Most of the structure looks about the same with the same internal loop generating next words. The difference this time is that the new solutions are added to the queue and the next solution is popped from the queue. 
+Most of the structure looks about the same with the same internal loop generating next words. The difference this time is that the new solutions are added to the queue and the next solution is popped from the queue.
 
 Let's see what sort of answers we get:
 
@@ -166,10 +167,10 @@ Let's see what sort of answers we get:
 > (time (doublet dict "head" "tail"))
 cpu time: 15 real time: 17 gc time: 0
 '("HEAD" "READ" "REAL" "REEL" "REEK" "SEEK"
-  "SEEM" "TEEM" "TEEN" "SEEN" "WEEN" "WEEK" 
-  "PEEK" "PEEL" "PEEN" "PEEP" "SEEP" "VEEP" 
-  "WEEP" "WEED" "TEED" "TEES" "TEDS" "TADS" 
-  "TAGS" "SAGS" "SAGO" "SAGE" "SAKE" "TAKE" 
+  "SEEM" "TEEM" "TEEN" "SEEN" "WEEN" "WEEK"
+  "PEEK" "PEEL" "PEEN" "PEEP" "SEEP" "VEEP"
+  "WEEP" "WEED" "TEED" "TEES" "TEDS" "TADS"
+  "TAGS" "SAGS" "SAGO" "SAGE" "SAKE" "TAKE"
   "TALE" "TALL" "TAIL")
 
 > (time (breadth-doublet dict "head" "tail"))
@@ -178,9 +179,9 @@ cpu time: 5070 real time: 5344 gc time: 1170
 
 > (time (doublet dict "black" "white"))
 cpu time: 15 real time: 9 gc time: 0
-'("BLACK" "SLACK" "SLICK" "SLINK" "SLING" "STING" 
-  "SUING" "RUING" "RUINS" "REINS" "VEINS" "ZEINS" 
-  "PEINS" "PAINS" "PAINE" "MAINE" "MAINS" "WAINS" 
+'("BLACK" "SLACK" "SLICK" "SLINK" "SLING" "STING"
+  "SUING" "RUING" "RUINS" "REINS" "VEINS" "ZEINS"
+  "PEINS" "PAINS" "PAINE" "MAINE" "MAINS" "WAINS"
   "WAITS" "WHITS" "WHITE")
 
 > (time (breadth-doublet dict "black" "white"))
@@ -189,7 +190,7 @@ cpu time: 58890 real time: 62141 gc time: 16380
 
 }|
 
-As one might expect, the depth first solution is much faster when it finds a solution but the solutions aren't optimal. The breadth first solution finds the shortest solution (or at least one tied for it, it actually found a better solution than the one given in the original description of the problem), but takes much longer. 
+As one might expect, the depth first solution is much faster when it finds a solution but the solutions aren't optimal. The breadth first solution finds the shortest solution (or at least one tied for it, it actually found a better solution than the one given in the original description of the problem), but takes much longer.
 
 The breadth first solution also eats up quite a lot more memory, possibly owning to my implementation of the queue. I had to up the memory allocated to Racket to get it to run, although only to 256 MB and only for the `BLACK`/`WHITE` case. Still, none too shabby.
 

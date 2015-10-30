@@ -5,6 +5,7 @@ categories:
 - Programming/By Topic/Mathematics
 - Programming/By Topic/Mathematics/Geometry
 - Programming/By Topic/Mathematics/Trigonometry
+- Programming/By Topic/Algorithms/Backtracking
 comments: true
 date: 2014-05-02 14:00:26
 layout: post
@@ -35,7 +36,7 @@ First, we need some structure to work with. Perhaps a structure that represents 
 (struct triangle (∠ɑ ∠β ∠γ a b c) #:transparent)
 }|
 
-Fair enough. 
+Fair enough.
 
 Next, how do we know when we're done? Since we're representing both angles and sides as numbers, we just need all six fields to be numeric. We could have a giant `and`, or we could play with a few neat functions. Specifically @racket-doc{struct->}:
 
@@ -47,7 +48,7 @@ Next, how do we know when we're done? Since we're representing both angles and s
 
 (If you'd like to follow along, the full code is here: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/triangle-trouble.rkt">triangle-trouble.rkt</a>)
 
-We need that extra `cdr` in there since the first field is struct id (`triangle`). 
+We need that extra `cdr` in there since the first field is struct id (`triangle`).
 
 Luckily though, that should be all of the framework we need for the moment. Next, we just need a solver.
 
@@ -86,7 +87,7 @@ We're using @racket-doc{match} because `match` is awesome. More specifically bec
 
 Here we're matching against the six values that make up a triangle. For the first two clauses, we have the form `(? number? ∠ɑ)`. The `?` signifies that we are matching against a predicate, `number?`. The last part is the name we're binding to that value. After that, we're matching a literal `#f` (an unspecified third angle). Finally, we have the three sides. As they are, they will match any values, either numeric or `#f`.
 
-So this case matches if and only if the first two angles are solved and the third is not, ignoring the sides for the moment. If this pattern doesn't match, we'll move on to the next (we'll deal with the case that it's ∠ɑ or ∠β that we're missing in a bit). Then, all we have to do is calculate the new value of ∠γ. Since Racket's trig functions work in radians@footnote{As do most sane languages}@footnote{Although I'm sure there are those that don't...}, we'll subtract from 180° = π. 
+So this case matches if and only if the first two angles are solved and the third is not, ignoring the sides for the moment. If this pattern doesn't match, we'll move on to the next (we'll deal with the case that it's ∠ɑ or ∠β that we're missing in a bit). Then, all we have to do is calculate the new value of ∠γ. Since Racket's trig functions work in radians@footnote{As do most sane languages}@footnote{Although I'm sure there are those that don't...}, we'll subtract from 180° = π.
 
 Straight forward. Now how about the sine rule. Well, it turns out that there are two cases we can use this for. Since we're relating matched sides and angles, we can take a matching side and angle along with <em>either</em> a second side or angle to solve for the other. More specifically, we can solve: ∠ɑ, a, ∠β → b or ∠ɑ, a, b → ∠β. In either case, we need to rearrange the equation slightly:
 
@@ -170,7 +171,7 @@ There are a few ways that we can deal with this. We could keep a counter. If we'
       ...)))
 }|
 
-We could have done without the explicit mutation, either using a @racket-doc{parameter} to make the dynamic scope more obvious or by passing the `tried` variable around in the loop. Personally though, I think this is probably the 'cleanest' solution. 
+We could have done without the explicit mutation, either using a @racket-doc{parameter} to make the dynamic scope more obvious or by passing the `tried` variable around in the loop. Personally though, I think this is probably the 'cleanest' solution.
 
 So plug in the rules from above and we're good to go, right?
 

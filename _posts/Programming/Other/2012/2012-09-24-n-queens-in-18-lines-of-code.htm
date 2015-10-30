@@ -1,6 +1,7 @@
 categories:
 - Programming/By Language/Scheme
 - Programming/By Topic/Mathematics
+- Programming/By Topic/Algorithms/Backtracking
 comments: true
 date: 2012-09-24 14:00:23
 layout: post
@@ -12,7 +13,7 @@ One of the rites of passage for computer scientists it seems is to solve the @wi
 
 The most boring obvious solution would be to simply try every possible solution. For an 8x8 board, that turns out to be @latex['inline]|{ \binom{8*8}{8} \approx 4.4e9 }| or 4.4 billion. That's a fair few, but still entirely doable without too much effort. You can do a little better by restricting the solutions to exactly one queen per row and column. That reduces the number of necessary combinations all of the way down to @latex['inline]|{ 8! = 40,320 }| combinations. Much better, but it still seems like we should be able to do better.
 
-Finally, we're at the solution hat I actually used: a simple backtracking model. Start by placing a queen in the first row and column. Then, for each row after that, place a queen in the first column that is available. If you ever get into a position where that just isn't possible, back up through the decisions you made, undoing them one at a time and trying the next column instead. Eventually, you might get all the way back to that original first row and column choice if it's not possible to place a queen in the corner and still solve the problem (that's not actually true, there are actually four such solutions for an 8x8 board). 
+Finally, we're at the solution hat I actually used: a simple backtracking model. Start by placing a queen in the first row and column. Then, for each row after that, place a queen in the first column that is available. If you ever get into a position where that just isn't possible, back up through the decisions you made, undoing them one at a time and trying the next column instead. Eventually, you might get all the way back to that original first row and column choice if it's not possible to place a queen in the corner and still solve the problem (that's not actually true, there are actually four such solutions for an 8x8 board).
 
 For this particular algorithm, Scheme is a natural choice as the backtracking algorithm is a direct analogue to recursion. You can use the nested function calls to keep track of how far you have to back up, which makes it rather nice. For this particular implementation, the goal is to return all valid solutions as a list of row,column points.
 
@@ -21,7 +22,7 @@ In any case, here's my code:
 @codeblock["scheme"]|{
 (define (queens n)
   (let loop ([queens '()] [row 0] [col 0])
-    (cond 
+    (cond
       [(= row n) (list queens)]
       [(= col n) '()]
       [else
@@ -29,11 +30,11 @@ In any case, here's my code:
          (if (any? (lambda (old-queen)
                      (or (= (car old-queen) (car new-queen))
                          (= (cadr old-queen) (cadr new-queen))
-                         (= 1 (abs (/ (- (cadr old-queen) (cadr new-queen)) 
+                         (= 1 (abs (/ (- (cadr old-queen) (cadr new-queen))
                                       (- (car old-queen) (car new-queen)))))))
                queens)
              (loop queens row (+ col 1))
-             (append 
+             (append
                (loop (cons new-queen queens) (+ row 1) 0)
                (loop queens row (+ col 1)))))])))
 
@@ -47,18 +48,18 @@ Simple enough, although there are a few potential gotchas:
 [(= col n) '()]
 }|
 
-The first two `cond` cases are for running off the edges. If you've run off the last row that means you've successfully placed a queen in every row of the board so you should return the list of queens thus far. It's wrapped in another call to `list` as the expected solution is a list of solutions, not just a single solution. The second case is for running off of a column. If you get here, that means that you've tried every solution in this particular row and either branched to look for more valid solutions or you're done and there aren't any. In either case, you just want an empty set of solutions for this branch. 
+The first two `cond` cases are for running off the edges. If you've run off the last row that means you've successfully placed a queen in every row of the board so you should return the list of queens thus far. It's wrapped in another call to `list` as the expected solution is a list of solutions, not just a single solution. The second case is for running off of a column. If you get here, that means that you've tried every solution in this particular row and either branched to look for more valid solutions or you're done and there aren't any. In either case, you just want an empty set of solutions for this branch.
 
 @codeblock["scheme"]|{
 (any? (lambda (old-queen)
         (or (= (car old-queen) (car new-queen))
             (= (cadr old-queen) (cadr new-queen))
-            (= 1 (abs (/ (- (cadr old-queen) (cadr new-queen)) 
+            (= 1 (abs (/ (- (cadr old-queen) (cadr new-queen))
                          (- (car old-queen) (car new-queen)))))))
   queens)
 }|
 
-The next interesting bit of code uses the `any?` function I've shown several times before to ask if there is any `old-queen` in `queens` that is in the same row, column, or diagonal (respectively) as the `new-queen` that we're trying to place. I'll admit that the code is a bit messy here and it was originally factored out into three helper functions, but since they're only used once, I went ahead and inlined them. 
+The next interesting bit of code uses the `any?` function I've shown several times before to ask if there is any `old-queen` in `queens` that is in the same row, column, or diagonal (respectively) as the `new-queen` that we're trying to place. I'll admit that the code is a bit messy here and it was originally factored out into three helper functions, but since they're only used once, I went ahead and inlined them.
 
 The rest is just the branching possibilities. If the `any?` returns `#t`, that means there is already a queen that can attack this square so just try the next column. If it doesn't return `#t` though, that means that we could place a queen here. So what we do is branch by first checking for any solutions starting in the next row that have the new queen in them and then checking for any solutions still in this row without the new queen. Stick the two lists together and we have our overall solution. Recursion is awesome.
 

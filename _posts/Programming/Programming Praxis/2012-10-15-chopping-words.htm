@@ -3,6 +3,7 @@ categories:
 - Programming/By Language/Scheme
 - Programming/By Source/Programming Praxis
 - Programming/By Topic/Word Games
+- Programming/By Topic/Algorithms/Backtracking
 comments: true
 date: 2012-10-15 14:00:13
 layout: post
@@ -21,7 +22,7 @@ First, we want to be able to cut a single character out of a string, leaving the
 @codeblock["scheme"]|{
 ; chop a given character from a string
 (define (chop s i)
-  (list->string 
+  (list->string
    (for/list ([n (string-length r)])
      (string-ref s (if (< n i) n (+ n 1))))))
 }|

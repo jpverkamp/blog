@@ -5,8 +5,10 @@ categories:
 - Programming/By Language/Scheme
 - Programming/By Topic/Graph Theory
 - Programming/By Topic/Games
+- Programming/By Topic/Algorithms/Backtracking
+- Programming/By Topic/Algorithms/Heuristics
 ---
-Ever been to <a href="http://www.crackerbarrel.com/">Cracker Barrel</a>? Remember that <a href="http://shop.crackerbarrel.com/Peg-Game/dp/B0050PMMQA">peg game</a>? It seems that rather a few people are interested in how to solve it: <a href="https://www.google.com/?q=cracker+barrel+peg+game">Google</a>. Let's do that. 
+Ever been to <a href="http://www.crackerbarrel.com/">Cracker Barrel</a>? Remember that <a href="http://shop.crackerbarrel.com/Peg-Game/dp/B0050PMMQA">peg game</a>? It seems that rather a few people are interested in how to solve it: <a href="https://www.google.com/?q=cracker+barrel+peg+game">Google</a>. Let's do that.
 
 <!--more-->
 
@@ -19,11 +21,11 @@ Let's start with a bit of ground work:
 (define (make-puzzle v)
   (cond
     [(and (integer? v) (<= 0 v 32767))
-     (puzzle (list->vector 
-              (map (curry eq? #\1) 
-                   (reverse (string->list (~a (number->string v 2) 
-                                              #:width 15 
-                                              #:align 'right 
+     (puzzle (list->vector
+              (map (curry eq? #\1)
+                   (reverse (string->list (~a (number->string v 2)
+                                              #:width 15
+                                              #:align 'right
                                               #:pad-string "0"))))))]
     [(and (vector? v) (= 15 (vector-length v)))
      (puzzle v)]
@@ -60,15 +62,15 @@ Next, we need to be able to visualize what we're working with. You can always se
     (newline)))
 }|
 
-@racket-doc{~a} is rather handy for formatting like this, making sure that each peg (at least the ones still visible) is exactly four characters wide. The formula in the line defining `i` should look familiar: it's the sum of the first i integers. Neat. 
+@racket-doc{~a} is rather handy for formatting like this, making sure that each peg (at least the ones still visible) is exactly four characters wide. The formula in the line defining `i` should look familiar: it's the sum of the first i integers. Neat.
 
 @codeblock["scheme"]|{
 > (render-text (make-puzzle (random (expt 2 15))))
 
-        2       
-          5   6   
-    7   8   9   10  
-      12  13      15  
+        2
+          5   6
+    7   8   9   10
+      12  13      15
 }|
 
 That's all well and good, but it's the 21st century. We should be able to make pretty pictures as well:
@@ -87,7 +89,7 @@ That's all well and good, but it's the 21st century. We should be able to make p
                       (htdp:circle 10 "outline" color)
                       (htdp:circle 12 "solid" "white")))))
 
-  (define rows (map (λ (row) (if (= 1 (length row)) 
+  (define rows (map (λ (row) (if (= 1 (length row))
                                  (first row)
                                  (apply htdp:beside row)))
                     imgs))
@@ -139,7 +141,7 @@ Next, we take this function and map it over a puzzle in order to generate all po
 ; Get a list of all next states from a given puzzles
 (define (next p)
   (filter identity
-          (for*/list ([from (in-range 1 16)] 
+          (for*/list ([from (in-range 1 16)]
                       [over (in-range 1 16)])
             (jump p from over))))
 }|
@@ -150,9 +152,9 @@ This one though, you should see a fairly easy way to optimize. Right now, no mat
 ; Get a list of all next states from a given puzzles
 (define (next p)
   (filter identity
-          (for*/list ([from (in-range 1 16)] 
+          (for*/list ([from (in-range 1 16)]
                       #:when (vector-ref (puzzle-data p) (- from 1))
-                      [over (in-range 1 16)] 
+                      [over (in-range 1 16)]
                       #:when (vector-ref (puzzle-data p) (- over 1)))
             (jump p from over))))
 }|
@@ -165,7 +167,7 @@ Believe it or not... That's it. That's all we need:
 ; Solve a puzzle using backtracking
 (define (solve p)
   (cond
-    [(= 1 (count p)) 
+    [(= 1 (count p))
      (list p)]
     [else
      (let ([n (ormap solve (next p))])
@@ -182,7 +184,7 @@ Believe it or not... That's it. That's all we need:
 
 That's it. Give it any peg puzzle and it will solve it. Quickly too. On my machine, it might as well be instantaneous. So how does it work?
 
-Two cases: Either we're done or we're not. If we're done, return the end state. Otherwise, we need to find a state we can move forward from. With `ormap`, we're going to try each in turn, returning the first thing that isn't `#f`. Since we're mapping `solve` (recurring) and almost making progress (`next` always has at least one less peg), we can rely on the recursion to do it's job. In this case, we'll either find a solution one step down (return that one) or not (check the next one). 
+Two cases: Either we're done or we're not. If we're done, return the end state. Otherwise, we need to find a state we can move forward from. With `ormap`, we're going to try each in turn, returning the first thing that isn't `#f`. Since we're mapping `solve` (recurring) and almost making progress (`next` always has at least one less peg), we can rely on the recursion to do it's job. In this case, we'll either find a solution one step down (return that one) or not (check the next one).
 
 Don't believe me? Let's check it out:
 
@@ -194,6 +196,6 @@ Don't believe me? Let's check it out:
 
 Flip the board over and it looks like we're genius. :smile: Sweet.
 
-That's all for today. I am working on a part two though. As a preview: If you take rotations and reflections into account, there are only four possible starting pegs (1, 2, 4, and 5). But it turns out that not all four are created equal--some are (relatively) easy to solve. Some are not. 
+That's all for today. I am working on a part two though. As a preview: If you take rotations and reflections into account, there are only four possible starting pegs (1, 2, 4, and 5). But it turns out that not all four are created equal--some are (relatively) easy to solve. Some are not.
 
 If you'd like to check out the full source code (and possibly a preview for next time), you can do so on GitHub: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/pegs.rkt">pegs.rkt</a>
