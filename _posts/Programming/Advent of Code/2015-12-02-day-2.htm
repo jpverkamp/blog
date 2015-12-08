@@ -1,0 +1,46 @@
+title: "Advent of Code: Day 2"
+date: 2015-12-02
+categories:
+- Programming/By Language/Python
+- Programming/By Source/Advent of Code
+layout: post
+comments: true
+---
+<a href="http://adventofcode.com/day/2">Source</a>
+
+<strong>Part 1:</strong> A gift requires enough wrapping paper to cover the surface plus an additional amount equal to the area smallest side. Calculate the total wrapping paper needed for a list of dimensions of the form `2x3x4`.
+
+<!--more-->
+
+@codeblock["python"]|{
+total_area = 0
+
+for line in sys.stdin:
+    l, w, h = list(sorted(map(int, line.strip().split('x'))))
+    area = 3 * l * w + 2 * w * h + 2 * h * l
+    total_area += area
+
+print(total_area)
+}|
+
+The only real trick here is the use of `list(sorted(...))`. This will guarantee that `l` and `w` are the smallest dimensions and thus represent the extra area to add.
+
+<strong>Part 2:</strong> Given the same input, calculate the amount of ribbon needed. You need the larger of either the shortest distance around the outside or the smallest perimeter of any one face. In addition, you need an additional amount equal to the volume in cubic feet. 
+
+@codeblock["python"]|{
+total_ribbon = 0
+
+for line in sys.stdin:
+    l, w, h = list(sorted(map(int, line.strip().split('x'))))
+
+    total_ribbon += max(
+        2 * (l + w), # smallest distance around sides
+        4 * l,       # smallest perimeter
+    )
+
+    total_ribbon += l * w * h
+
+print(total_ribbon)
+}|
+
+This one was a little stranger since the original description was unclear if you needed the larger or smaller of the first two measurements, but it was easy enough to calculate both. Turns out, they meant the larger of those two. 

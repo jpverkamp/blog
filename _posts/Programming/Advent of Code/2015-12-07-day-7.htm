@@ -1,0 +1,82 @@
+title: "Advent of Code: Day 7"
+date: 2015-12-07
+categories:
+- Programming/By Language/Python
+- Programming/By Source/Advent of Code
+layout: post
+comments: true
+---
+<a href="http://adventofcode.com/day/7">Source</a>
+
+<strong>Part 1:</strong> Given a list of definitions of the form `123 -> x`, `NOT e -> f`, and `x AND y -> z`, with possible operations `NOT`, `AND`, `OR`, `LSHIFT`, and `RSHIFT`, find the value of `a`. Assume all values are 16-bit integers.
+
+<!--more-->
+
+This one is actually really cool. It's basically a full @wikipedia{declarative programming language}. 
+
+@codeblock["python"]|{
+monops = {
+    'NOT': lambda x : ~x & 0xFFFF,
+}
+
+binops = {
+    'AND': operator.and_,
+    'OR': operator.or_,
+    'LSHIFT': operator.lshift,
+    'RSHIFT': operator.rshift,
+}
+
+machine = {}
+
+for line in sys.stdin:
+    line = line.strip()
+
+    m = (
+        re.match(r'(\w+) -> (\w+)', line)
+        or re.match(r'(\w+) (\w+) (\w+) -> (\w+)', line)
+        or re.match(r'(\w+) (\w+) -> (\w+)', line)
+    ).groups()
+
+    machine[m[-1]] = m[:-1]
+
+def evaluate(register_or_value):
+    try:
+        return int(register_or_value)
+    except:
+        return run(register_or_value)
+
+def run(register, state = {}):
+    if not register in state:
+        command = machine[register]
+
+        if len(command) == 1:
+            value, = command
+            state[register] = evaluate(value)
+
+        elif len(command) == 2:
+            monop, input = command
+            state[register] = monops[monop](evaluate(input))
+
+        elif len(command) == 3:
+            input_1, binop, input_2 = command
+            state[register] = binops[binop](evaluate(input_1), evaluate(input_2))
+
+    return state[register]
+
+
+print(run('a'))
+}|
+
+Basically, we have two interesting functions: `evaluate` and `run`. Each of those will be applied to any parameters. `evaulate` will check first if the parameter is an integer, if so return it directly. If not, fall back to `run`, which is a @wikipedia{memoized} virtual machine.
+
+If we have the values of any inputs (either because they are numeric or because we've already calculated them), it will directly calculate the value for that gate and cache it. If not, it will calculate any recursive outputs it needs (caching them as well), and then calculate it's own. Through the power of @wikipedia{dynamic programming}, this will naturally resolve the order the gates need to be run in while still running in `O(n)` time to the number of gates. Very cool, in my opinion@footnote{which would be why I have a blog}. 
+
+The only other oddity is the definition of `NOT`. Since Python integers are not 16-bits, doing a bitwise and with `0xFFFF` (the maximum 16-bit value) will lock the result into that range. 
+
+<strong>Part 2:</strong> Take the value of `a` after running part 1 and assign it to `b`. Run the simulation again. 
+
+Due to how I load in the instructions, this is as easy as adding a line of the form `14710 -> b` to the end of my input before running it. That will replace the previous command for `b`. You can do it in a <a href="http://www.zsh.org/">`zsh`</a> one liner@footnote{I'm sure other, inferior@footnote{Just kidding@footnote{Or am I?@footnote{Huh, nested footnotes end up in reverse order. Interesting.}}}} shells would work just as well}: 
+
+@codeblock["zsh"]|{
+{cat input.txt; (echo "\n" &#96;cat input.txt | python part-1.py&#96; "-> b")} | python3 part-1.py
+}|
