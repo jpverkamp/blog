@@ -1,0 +1,47 @@
+title: "Advent of Code: Day 12"
+date: 2015-12-12
+categories:
+- Programming/By Language/Python
+- Programming/By Source/Advent of Code
+layout: post
+comments: true
+---
+<a href="http://adventofcode.com/day/12">Source</a>
+
+<strong>Part 1:</strong> Sum all integer values in a @wikipedia{JSON} object.
+
+<!--more-->
+
+@codeblock["python"]|{
+def js_sum(js):
+    if isinstance(js, dict):
+        return sum(map(js_sum, js.values()))
+    elif isinstance(js, list):
+        return sum(map(js_sum, js))
+    elif isinstance(js, int):
+        return js
+    else:
+        return 0
+
+print(js_sum(json.load(sys.stdin)))
+}|
+
+Due to the nature of JSON, this is very much a recursive problem. There's really not much else to say. If you have a complex data structure (`dict` or `list`), recur into it. Otherwise, if it's a number add it, if not don't.
+
+<strong>Part 2:</strong> Do not recur into any `dict` that contains the value `"red"`.
+
+Given the structure we already had, the tweak for this is straight forward (if not terribly efficient):
+
+@codeblock["python"]|{
+def js_sum(js):
+    if isinstance(js, dict) and not 'red' in js.values():
+        return sum(map(js_sum, js.values()))
+    elif isinstance(js, list):
+        return sum(map(js_sum, js))
+    elif isinstance(js, int):
+        return js
+    else:
+        return 0
+
+print(js_sum(json.load(sys.stdin)))
+}|
