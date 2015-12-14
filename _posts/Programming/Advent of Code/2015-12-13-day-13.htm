@@ -43,7 +43,7 @@ print(best_score)
 
 I think I may have over functional'ed this one. :smile: Basically, we parse everything first into a nested dictionary of happiness scores. Since we always have to add both directions in, it doesn't matter which is which in the indicies so long as it's consistent.
 
-After that, we'll use the same trick as in @crosslink{Advent of Code: Day 9}: calculate pairs of scores and orderings and find the largest one. To specifically calculate the total score, we add the happiness in both directions for every pair of neighbors once again using `zip`. The only difference is that we add `(ordering[0],)` back onto the end so that we don't lose the first/last pairing of teh list.
+After that, we'll use the same trick as in @crosslink{Advent of Code: Day 9}: calculate pairs of scores and orderings and find the largest one. To specifically calculate the total score, we add the happiness in both directions for every pair of neighbors once again using `zip`. The only difference is that we add `(ordering[0],)` back onto the end so that we don't lose the first/last pairing of the list.
 
 <strong>Part 2:</strong> Add one more person `me`, who has a mutual happiness score of ±0 with every other person.
 
