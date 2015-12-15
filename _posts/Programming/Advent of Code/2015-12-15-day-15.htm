@@ -15,7 +15,7 @@ Frosting: capacity 4, durability -2, flavor 0, texture 0, calories 5
 Candy: capacity 0, durability 5, flavor -1, texture 0, calories 8
 }|
 
-A receipt score is a product of the positive quantity scores (ignoring calories), where each quantity score is the product of the quantity and that product for each product.
+A recipe score is a product of the positive quantity scores (ignoring calories), where each quantity score is the product of the quantity and that product for each product.
 
 For example, 4 Frosting and 2 Candy above, would have a score of of `-2 * 4 + 5 * 2 = 2` for durability and `0 * 4 + -1 * 2 = -2` (and thus ignored as we only accept positive scores) for a total thus far of 2.
 
