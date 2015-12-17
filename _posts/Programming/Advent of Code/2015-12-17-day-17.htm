@@ -1,0 +1,46 @@
+title: "Advent of Code: Day 17"
+date: 2015-12-17
+categories:
+- Programming/By Language/Python
+- Programming/By Source/Advent of Code
+layout: post
+comments: true
+---
+<a href="http://adventofcode.com/day/17">Source</a>
+
+<strong>Part 1:</strong> Given a list of containers of varying sizes and a total volume to contain, determine how many different combinations of containers match exactly the given volume.
+
+<!--more-->
+
+@codeblock["python"]|{
+containers = list(map(int, sys.stdin.readlines()))
+quantity = int(sys.argv[1])
+
+def fills(quantity, containers):
+    if quantity == 0:
+        yield []
+    else:
+        for index, container in enumerate(containers):
+            if container <= quantity:
+                for sub_fill in fills(quantity - container, containers[index+1:]):
+                    yield [container] + sub_fill
+
+print(len(list(fills(quantity, containers))))
+}|
+
+Basically, `fills` will recursively build a generator for a given amount and containers remaining. For each step, it will try each of the containers and recursively determine any solutions that use that container.
+
+On interesting aspect is the recursive call uses `containers[index+1:]`. That will guarantee that the containers used are always in the same order as the input list, rather than including all possible orderings for any set of containers.
+
+<strong>Part 2:</strong> How many of these combinations use the minimum number of containers?
+
+The `fills` function still does what we need; we just need to `filter` it so that it only includes orderings that are the proper minimum length:
+
+@codeblock["python"]|{
+smallest_fill = min(map(len, fills(quantity, containers)))
+
+print(len(list(filter(
+    lambda fill : len(fill) == smallest_fill,
+    fills(quantity, containers)
+))))
+}|
