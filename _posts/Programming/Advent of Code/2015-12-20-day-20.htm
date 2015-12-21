@@ -1,0 +1,49 @@
+title: "Advent of Code: Day 20"
+date: 2015-12-20
+categories:
+- Programming/By Language/Python
+- Programming/By Source/Advent of Code
+layout: post
+comments: true
+---
+<a href="http://adventofcode.com/day/20">Source</a>
+
+<strong>Part 1:</strong> <em>P(n)</em> is defined such that for each number <em>i</em>, add <em>10i</em> to any number divisible by <em>i</em>. Find the first value <em>n</em> such that <em>P(n)</em> is at least a given target number.
+
+<!--more-->
+
+Let's throw some memory (and <a href="http://www.numpy.org/">numpy</a>) at it:
+
+@codeblock["python"]|{
+target = int(sys.argv[1])
+
+presents = numpy.zeros(target)
+
+for i in range(1, target):
+    presents[i::i] += 10 * i
+
+for i in range(len(presents)):
+    if presents[i] >= target:
+        print(i)
+        sys.exit(0)
+}|
+
+It barely makes it in under a minute, but it does. You can speed it up even more if you guess on where the answer will be an initialize to only the first `numpy.zeros(target / 10)`. In only shaves off about 1/6 of the time on my run though, so I'm not sure it's worth it.
+
+<strong>Part 2:</strong> Do the same thing, only use <em>11i</em> instead of <em>10i</em> but only to the first 50 multiples.
+
+Nothing much changes:
+
+@codeblock["python"]|{
+target = int(sys.argv[1])
+
+presents = numpy.zeros(target / 10)
+
+for i in range(1, target):
+    presents[i:i*50:i] += 11 * i
+
+for i in range(len(presents)):
+    if presents[i] >= target:
+        print(i)
+        sys.exit(0)
+}|
