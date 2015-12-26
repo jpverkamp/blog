@@ -13,7 +13,7 @@ comments: true
 @latex|{
 F(n) = \left\{\begin{matrix}
 20151225 & \textrm{if}\ n = 1 \\
-252533n \mod 33554393 & \textrm{otherwise}
+252533F(n-1) \mod 33554393 & \textrm{otherwise}
 \end{matrix}\right.
 }|
 
