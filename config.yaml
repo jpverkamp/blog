@@ -9,3 +9,8 @@ permalink: "{year}/{month}/{day}/{slug}"
 atom-posts: 10
 
 disqus-shortname: jverkamp
+
+redirects:
+    2016/12/02/inlining-plaintext-attachments-in-gmail: /2016/01/02/inlining-plaintext-attachments-in-gmail/
+    2016/12/04/command-line-emoji-search: /2016/01/04/command-line-emoji-search/
+    2016/12/06/command-line-unicode-search/index.html: /2016/01/06/command-line-unicode-search/
