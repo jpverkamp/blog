@@ -69,7 +69,7 @@ First, create the new policy (assuming you have an environment variable `ELB_NAM
 aws elb create-load-balancer-policy \
     --load-balancer-name $ELB_NAME \
     --policy-name $ELB_NAME-proxy-protocol \
-    --policy-type-name ProxyProtocolPolicyType \\
+    --policy-type-name ProxyProtocolPolicyType \
     --policy-attributes AttributeName=ProxyProtocol,AttributeValue=True
 }|
 
