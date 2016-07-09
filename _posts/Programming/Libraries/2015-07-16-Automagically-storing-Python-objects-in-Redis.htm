@@ -166,6 +166,7 @@ class RedisDict(RedisObject):
         yield ('id', self.id.rsplit(':', 1)[-1])
 
         for key in self.fields:
+            yield (key, self[key])
 }|
 
 Basically, there are three interesting parts to this code: `__init__` stores the fields that this object has (and should be set by the constructors in subclasses) and can also be used as as a constructor for new objects. `__get/setitem__` will load/store items via Redis. Given the `encode/decode_value` functions in `RedisObject`, this is actually really straight forward.
