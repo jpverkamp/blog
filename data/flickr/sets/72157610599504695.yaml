@@ -1,0 +1,102 @@
+can_comment: 0
+count_comments: '0'
+count_views: '8'
+date_create: '1228272517'
+date_update: '1394944840'
+description: A set of pictures taken after my cousin's graduation party late at night,
+  mostly at or around the beach at Patoka Lake.
+farm: 4
+id: '72157610599504695'
+needs_interstitial: 0
+photos:
+- farm: 4
+  id: '3079088820'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3079088820/in/album-72157610599504695/
+  secret: fb75f04871
+  server: '3247'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3247/3079088820_fb75f04871_b.jpg
+    medium: https://farm4.staticflickr.com/3247/3079088820_fb75f04871_z.jpg
+    small: https://farm4.staticflickr.com/3247/3079088820_fb75f04871_m.jpg
+    square: https://farm4.staticflickr.com/3247/3079088820_fb75f04871_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3247/3079088820_fb75f04871_t.jpg
+  title: Midnight Chair
+  url: https://farm4.staticflickr.com/3247/3079088820_fb75f04871.jpg
+- farm: 4
+  id: '3078257367'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078257367/in/album-72157610599504695/
+  secret: b2d737c677
+  server: '3001'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3001/3078257367_b2d737c677_b.jpg
+    medium: https://farm4.staticflickr.com/3001/3078257367_b2d737c677_z.jpg
+    small: https://farm4.staticflickr.com/3001/3078257367_b2d737c677_m.jpg
+    square: https://farm4.staticflickr.com/3001/3078257367_b2d737c677_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3001/3078257367_b2d737c677_t.jpg
+  title: Dry as Dust
+  url: https://farm4.staticflickr.com/3001/3078257367_b2d737c677.jpg
+- farm: 4
+  id: '3079090276'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3079090276/in/album-72157610599504695/
+  secret: 3ffeaaaa29
+  server: '3229'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3229/3079090276_3ffeaaaa29_b.jpg
+    medium: https://farm4.staticflickr.com/3229/3079090276_3ffeaaaa29_z.jpg
+    small: https://farm4.staticflickr.com/3229/3079090276_3ffeaaaa29_m.jpg
+    square: https://farm4.staticflickr.com/3229/3079090276_3ffeaaaa29_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3229/3079090276_3ffeaaaa29_t.jpg
+  title: Signs
+  url: https://farm4.staticflickr.com/3229/3079090276_3ffeaaaa29.jpg
+- farm: 4
+  id: '3079090882'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3079090882/in/album-72157610599504695/
+  secret: fedfcc181c
+  server: '3176'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3176/3079090882_fedfcc181c_b.jpg
+    medium: https://farm4.staticflickr.com/3176/3079090882_fedfcc181c_z.jpg
+    small: https://farm4.staticflickr.com/3176/3079090882_fedfcc181c_m.jpg
+    square: https://farm4.staticflickr.com/3176/3079090882_fedfcc181c_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3176/3079090882_fedfcc181c_t.jpg
+  title: Moonlit Playground
+  url: https://farm4.staticflickr.com/3176/3079090882_fedfcc181c.jpg
+- farm: 4
+  id: '3078258889'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078258889/in/album-72157610599504695/
+  secret: d1441ec17f
+  server: '3015'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3015/3078258889_d1441ec17f_b.jpg
+    medium: https://farm4.staticflickr.com/3015/3078258889_d1441ec17f_z.jpg
+    small: https://farm4.staticflickr.com/3015/3078258889_d1441ec17f_m.jpg
+    square: https://farm4.staticflickr.com/3015/3078258889_d1441ec17f_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3015/3078258889_d1441ec17f_t.jpg
+  title: Self-Portrait
+  url: https://farm4.staticflickr.com/3015/3078258889_d1441ec17f.jpg
+primary: '3079088820'
+secret: fb75f04871
+server: '3247'
+title: Patoka Lake
+videos: 0
+visibility_can_see_set: 1

@@ -1,0 +1,411 @@
+can_comment: 0
+count_comments: '0'
+count_views: '29'
+date_create: '1313464908'
+date_update: '1394944840'
+description: "Several photosets from our family vacation on the west coast. We started\
+  \ in Phoenix, went to a few nearby things, then up the entire west coast to the\
+  \ Olympic Peninsula. \n\nThis is the third set, from the Hoover Dam (plus the rest\
+  \ stop before). A fair few fewer than the Grand Canyon, but I thing there are a\
+  \ few fine dam pictures."
+farm: 7
+id: '72157627319870791'
+needs_interstitial: 0
+photos:
+- farm: 7
+  id: '6047787667'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047787667/in/album-72157627319870791/
+  secret: 7d2303d2a3
+  server: '6195'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6195/6047787667_7d2303d2a3_b.jpg
+    medium: https://farm7.staticflickr.com/6195/6047787667_7d2303d2a3_z.jpg
+    small: https://farm7.staticflickr.com/6195/6047787667_7d2303d2a3_m.jpg
+    square: https://farm7.staticflickr.com/6195/6047787667_7d2303d2a3_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6195/6047787667_7d2303d2a3_t.jpg
+  title: World Famous Burgers
+  url: https://farm7.staticflickr.com/6195/6047787667_7d2303d2a3.jpg
+- farm: 7
+  id: '6047788495'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047788495/in/album-72157627319870791/
+  secret: 4663bb0eec
+  server: '6068'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6068/6047788495_4663bb0eec_b.jpg
+    medium: https://farm7.staticflickr.com/6068/6047788495_4663bb0eec_z.jpg
+    small: https://farm7.staticflickr.com/6068/6047788495_4663bb0eec_m.jpg
+    square: https://farm7.staticflickr.com/6068/6047788495_4663bb0eec_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6068/6047788495_4663bb0eec_t.jpg
+  title: Bathroom Art
+  url: https://farm7.staticflickr.com/6068/6047788495_4663bb0eec.jpg
+- farm: 7
+  id: '6047791925'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047791925/in/album-72157627319870791/
+  secret: 186f64c079
+  server: '6072'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6072/6047791925_186f64c079_b.jpg
+    medium: https://farm7.staticflickr.com/6072/6047791925_186f64c079_z.jpg
+    small: https://farm7.staticflickr.com/6072/6047791925_186f64c079_m.jpg
+    square: https://farm7.staticflickr.com/6072/6047791925_186f64c079_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6072/6047791925_186f64c079_t.jpg
+  title: First Dam Shot
+  url: https://farm7.staticflickr.com/6072/6047791925_186f64c079.jpg
+- farm: 7
+  id: '6048346312'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048346312/in/album-72157627319870791/
+  secret: d5ab8a3a7d
+  server: '6184'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6184/6048346312_d5ab8a3a7d_b.jpg
+    medium: https://farm7.staticflickr.com/6184/6048346312_d5ab8a3a7d_z.jpg
+    small: https://farm7.staticflickr.com/6184/6048346312_d5ab8a3a7d_m.jpg
+    square: https://farm7.staticflickr.com/6184/6048346312_d5ab8a3a7d_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6184/6048346312_d5ab8a3a7d_t.jpg
+  title: Power Power Everywhere I
+  url: https://farm7.staticflickr.com/6184/6048346312_d5ab8a3a7d.jpg
+- farm: 7
+  id: '6048347336'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048347336/in/album-72157627319870791/
+  secret: a06fbec5a4
+  server: '6189'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6189/6048347336_a06fbec5a4_b.jpg
+    medium: https://farm7.staticflickr.com/6189/6048347336_a06fbec5a4_z.jpg
+    small: https://farm7.staticflickr.com/6189/6048347336_a06fbec5a4_m.jpg
+    square: https://farm7.staticflickr.com/6189/6048347336_a06fbec5a4_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6189/6048347336_a06fbec5a4_t.jpg
+  title: Power Power Everywhere II
+  url: https://farm7.staticflickr.com/6189/6048347336_a06fbec5a4.jpg
+- farm: 7
+  id: '6048348430'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048348430/in/album-72157627319870791/
+  secret: 18c6cbcf15
+  server: '6210'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6210/6048348430_18c6cbcf15_b.jpg
+    medium: https://farm7.staticflickr.com/6210/6048348430_18c6cbcf15_z.jpg
+    small: https://farm7.staticflickr.com/6210/6048348430_18c6cbcf15_m.jpg
+    square: https://farm7.staticflickr.com/6210/6048348430_18c6cbcf15_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6210/6048348430_18c6cbcf15_t.jpg
+  title: That's a Dam Wall
+  url: https://farm7.staticflickr.com/6210/6048348430_18c6cbcf15.jpg
+- farm: 7
+  id: '6047796377'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047796377/in/album-72157627319870791/
+  secret: cdd4542c9a
+  server: '6190'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6190/6047796377_cdd4542c9a_b.jpg
+    medium: https://farm7.staticflickr.com/6190/6047796377_cdd4542c9a_z.jpg
+    small: https://farm7.staticflickr.com/6190/6047796377_cdd4542c9a_m.jpg
+    square: https://farm7.staticflickr.com/6190/6047796377_cdd4542c9a_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6190/6047796377_cdd4542c9a_t.jpg
+  title: Over Dam
+  url: https://farm7.staticflickr.com/6190/6047796377_cdd4542c9a.jpg
+- farm: 7
+  id: '6047799245'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047799245/in/album-72157627319870791/
+  secret: ca4e4f8ba7
+  server: '6210'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6210/6047799245_ca4e4f8ba7_b.jpg
+    medium: https://farm7.staticflickr.com/6210/6047799245_ca4e4f8ba7_z.jpg
+    small: https://farm7.staticflickr.com/6210/6047799245_ca4e4f8ba7_m.jpg
+    square: https://farm7.staticflickr.com/6210/6047799245_ca4e4f8ba7_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6210/6047799245_ca4e4f8ba7_t.jpg
+  title: Sense of Scale
+  url: https://farm7.staticflickr.com/6210/6047799245_ca4e4f8ba7.jpg
+- farm: 7
+  id: '6047801397'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047801397/in/album-72157627319870791/
+  secret: bd34f246af
+  server: '6071'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6071/6047801397_bd34f246af_b.jpg
+    medium: https://farm7.staticflickr.com/6071/6047801397_bd34f246af_z.jpg
+    small: https://farm7.staticflickr.com/6071/6047801397_bd34f246af_m.jpg
+    square: https://farm7.staticflickr.com/6071/6047801397_bd34f246af_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6071/6047801397_bd34f246af_t.jpg
+  title: Down I
+  url: https://farm7.staticflickr.com/6071/6047801397_bd34f246af.jpg
+- farm: 7
+  id: '6047803589'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047803589/in/album-72157627319870791/
+  secret: a6ba1b2de7
+  server: '6207'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6207/6047803589_a6ba1b2de7_b.jpg
+    medium: https://farm7.staticflickr.com/6207/6047803589_a6ba1b2de7_z.jpg
+    small: https://farm7.staticflickr.com/6207/6047803589_a6ba1b2de7_m.jpg
+    square: https://farm7.staticflickr.com/6207/6047803589_a6ba1b2de7_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6207/6047803589_a6ba1b2de7_t.jpg
+  title: Down II
+  url: https://farm7.staticflickr.com/6207/6047803589_a6ba1b2de7.jpg
+- farm: 7
+  id: '6047805157'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047805157/in/album-72157627319870791/
+  secret: f0097336cf
+  server: '6190'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6190/6047805157_f0097336cf_b.jpg
+    medium: https://farm7.staticflickr.com/6190/6047805157_f0097336cf_z.jpg
+    small: https://farm7.staticflickr.com/6190/6047805157_f0097336cf_m.jpg
+    square: https://farm7.staticflickr.com/6190/6047805157_f0097336cf_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6190/6047805157_f0097336cf_t.jpg
+  title: Bridge
+  url: https://farm7.staticflickr.com/6190/6047805157_f0097336cf.jpg
+- farm: 7
+  id: '6048358926'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048358926/in/album-72157627319870791/
+  secret: 44f0b49e5b
+  server: '6081'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6081/6048358926_44f0b49e5b_b.jpg
+    medium: https://farm7.staticflickr.com/6081/6048358926_44f0b49e5b_z.jpg
+    small: https://farm7.staticflickr.com/6081/6048358926_44f0b49e5b_m.jpg
+    square: https://farm7.staticflickr.com/6081/6048358926_44f0b49e5b_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6081/6048358926_44f0b49e5b_t.jpg
+  title: Time Issues
+  url: https://farm7.staticflickr.com/6081/6048358926_44f0b49e5b.jpg
+- farm: 7
+  id: '6047806339'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047806339/in/album-72157627319870791/
+  secret: fda6a7e6f6
+  server: '6065'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6065/6047806339_fda6a7e6f6_b.jpg
+    medium: https://farm7.staticflickr.com/6065/6047806339_fda6a7e6f6_z.jpg
+    small: https://farm7.staticflickr.com/6065/6047806339_fda6a7e6f6_m.jpg
+    square: https://farm7.staticflickr.com/6065/6047806339_fda6a7e6f6_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6065/6047806339_fda6a7e6f6_t.jpg
+  title: Brass
+  url: https://farm7.staticflickr.com/6065/6047806339_fda6a7e6f6.jpg
+- farm: 7
+  id: '6048360692'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048360692/in/album-72157627319870791/
+  secret: 014bff56f8
+  server: '6208'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6208/6048360692_014bff56f8_b.jpg
+    medium: https://farm7.staticflickr.com/6208/6048360692_014bff56f8_z.jpg
+    small: https://farm7.staticflickr.com/6208/6048360692_014bff56f8_m.jpg
+    square: https://farm7.staticflickr.com/6208/6048360692_014bff56f8_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6208/6048360692_014bff56f8_t.jpg
+  title: Power Power Everywhere III
+  url: https://farm7.staticflickr.com/6208/6048360692_014bff56f8.jpg
+- farm: 7
+  id: '6048361840'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048361840/in/album-72157627319870791/
+  secret: 77171ce3fa
+  server: '6083'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6083/6048361840_77171ce3fa_b.jpg
+    medium: https://farm7.staticflickr.com/6083/6048361840_77171ce3fa_z.jpg
+    small: https://farm7.staticflickr.com/6083/6048361840_77171ce3fa_m.jpg
+    square: https://farm7.staticflickr.com/6083/6048361840_77171ce3fa_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6083/6048361840_77171ce3fa_t.jpg
+  title: Wall-E
+  url: https://farm7.staticflickr.com/6083/6048361840_77171ce3fa.jpg
+- farm: 7
+  id: '6047809719'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047809719/in/album-72157627319870791/
+  secret: 2347cb2d79
+  server: '6074'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6074/6047809719_2347cb2d79_b.jpg
+    medium: https://farm7.staticflickr.com/6074/6047809719_2347cb2d79_z.jpg
+    small: https://farm7.staticflickr.com/6074/6047809719_2347cb2d79_m.jpg
+    square: https://farm7.staticflickr.com/6074/6047809719_2347cb2d79_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6074/6047809719_2347cb2d79_t.jpg
+  title: Power Power Everywhere IV
+  url: https://farm7.staticflickr.com/6074/6047809719_2347cb2d79.jpg
+- farm: 7
+  id: '6048364090'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048364090/in/album-72157627319870791/
+  secret: 22c4ce71e2
+  server: '6188'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6188/6048364090_22c4ce71e2_b.jpg
+    medium: https://farm7.staticflickr.com/6188/6048364090_22c4ce71e2_z.jpg
+    small: https://farm7.staticflickr.com/6188/6048364090_22c4ce71e2_m.jpg
+    square: https://farm7.staticflickr.com/6188/6048364090_22c4ce71e2_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6188/6048364090_22c4ce71e2_t.jpg
+  title: Power Power Everywhere V
+  url: https://farm7.staticflickr.com/6188/6048364090_22c4ce71e2.jpg
+- farm: 7
+  id: '6047812273'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047812273/in/album-72157627319870791/
+  secret: 334a41ea3e
+  server: '6067'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6067/6047812273_334a41ea3e_b.jpg
+    medium: https://farm7.staticflickr.com/6067/6047812273_334a41ea3e_z.jpg
+    small: https://farm7.staticflickr.com/6067/6047812273_334a41ea3e_m.jpg
+    square: https://farm7.staticflickr.com/6067/6047812273_334a41ea3e_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6067/6047812273_334a41ea3e_t.jpg
+  title: Base
+  url: https://farm7.staticflickr.com/6067/6047812273_334a41ea3e.jpg
+- farm: 7
+  id: '6047813745'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047813745/in/album-72157627319870791/
+  secret: aa2b569db3
+  server: '6190'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6190/6047813745_aa2b569db3_b.jpg
+    medium: https://farm7.staticflickr.com/6190/6047813745_aa2b569db3_z.jpg
+    small: https://farm7.staticflickr.com/6190/6047813745_aa2b569db3_m.jpg
+    square: https://farm7.staticflickr.com/6190/6047813745_aa2b569db3_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6190/6047813745_aa2b569db3_t.jpg
+  title: Holey
+  url: https://farm7.staticflickr.com/6190/6047813745_aa2b569db3.jpg
+- farm: 7
+  id: '6047814795'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047814795/in/album-72157627319870791/
+  secret: 053150e3f2
+  server: '6083'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6083/6047814795_053150e3f2_b.jpg
+    medium: https://farm7.staticflickr.com/6083/6047814795_053150e3f2_z.jpg
+    small: https://farm7.staticflickr.com/6083/6047814795_053150e3f2_m.jpg
+    square: https://farm7.staticflickr.com/6083/6047814795_053150e3f2_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6083/6047814795_053150e3f2_t.jpg
+  title: Restricted Area
+  url: https://farm7.staticflickr.com/6083/6047814795_053150e3f2.jpg
+- farm: 7
+  id: '6048370002'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048370002/in/album-72157627319870791/
+  secret: 79746bb2c1
+  server: '6186'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6186/6048370002_79746bb2c1_b.jpg
+    medium: https://farm7.staticflickr.com/6186/6048370002_79746bb2c1_z.jpg
+    small: https://farm7.staticflickr.com/6186/6048370002_79746bb2c1_m.jpg
+    square: https://farm7.staticflickr.com/6186/6048370002_79746bb2c1_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6186/6048370002_79746bb2c1_t.jpg
+  title: Dam Lake
+  url: https://farm7.staticflickr.com/6186/6048370002_79746bb2c1.jpg
+- farm: 7
+  id: '6047817723'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047817723/in/album-72157627319870791/
+  secret: fab6f01c98
+  server: '6067'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6067/6047817723_fab6f01c98_b.jpg
+    medium: https://farm7.staticflickr.com/6067/6047817723_fab6f01c98_z.jpg
+    small: https://farm7.staticflickr.com/6067/6047817723_fab6f01c98_m.jpg
+    square: https://farm7.staticflickr.com/6067/6047817723_fab6f01c98_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6067/6047817723_fab6f01c98_t.jpg
+  title: Pink
+  url: https://farm7.staticflickr.com/6067/6047817723_fab6f01c98.jpg
+- farm: 7
+  id: '6048371876'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048371876/in/album-72157627319870791/
+  secret: 5edbefbe5f
+  server: '6079'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6079/6048371876_5edbefbe5f_b.jpg
+    medium: https://farm7.staticflickr.com/6079/6048371876_5edbefbe5f_z.jpg
+    small: https://farm7.staticflickr.com/6079/6048371876_5edbefbe5f_m.jpg
+    square: https://farm7.staticflickr.com/6079/6048371876_5edbefbe5f_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6079/6048371876_5edbefbe5f_t.jpg
+  title: Final Dam Shot
+  url: https://farm7.staticflickr.com/6079/6048371876_5edbefbe5f.jpg
+primary: '6047787667'
+secret: 7d2303d2a3
+server: '6195'
+title: Go West III - Hoover Dam
+videos: 0
+visibility_can_see_set: 1

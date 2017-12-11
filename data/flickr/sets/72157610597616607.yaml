@@ -1,0 +1,102 @@
+can_comment: 0
+count_comments: '0'
+count_views: '4'
+date_create: '1228269105'
+date_update: '1394944840'
+description: An early morning drive up to school to make a meeting.  I ran into a
+  lot of fog just after sunrise, making for some interesting pictures.
+farm: 4
+id: '72157610597616607'
+needs_interstitial: 0
+photos:
+- farm: 4
+  id: '3078137129'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078137129/in/album-72157610597616607/
+  secret: bea6d8e8b0
+  server: '3023'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3023/3078137129_bea6d8e8b0_b.jpg
+    medium: https://farm4.staticflickr.com/3023/3078137129_bea6d8e8b0_z.jpg
+    small: https://farm4.staticflickr.com/3023/3078137129_bea6d8e8b0_m.jpg
+    square: https://farm4.staticflickr.com/3023/3078137129_bea6d8e8b0_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3023/3078137129_bea6d8e8b0_t.jpg
+  title: Red Sunrise
+  url: https://farm4.staticflickr.com/3023/3078137129_bea6d8e8b0.jpg
+- farm: 4
+  id: '3078969572'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078969572/in/album-72157610597616607/
+  secret: c4d983b17d
+  server: '3162'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3162/3078969572_c4d983b17d_b.jpg
+    medium: https://farm4.staticflickr.com/3162/3078969572_c4d983b17d_z.jpg
+    small: https://farm4.staticflickr.com/3162/3078969572_c4d983b17d_m.jpg
+    square: https://farm4.staticflickr.com/3162/3078969572_c4d983b17d_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3162/3078969572_c4d983b17d_t.jpg
+  title: Fog Bound Playground
+  url: https://farm4.staticflickr.com/3162/3078969572_c4d983b17d.jpg
+- farm: 4
+  id: '3078138075'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078138075/in/album-72157610597616607/
+  secret: 1e081fd76a
+  server: '3057'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3057/3078138075_1e081fd76a_b.jpg
+    medium: https://farm4.staticflickr.com/3057/3078138075_1e081fd76a_z.jpg
+    small: https://farm4.staticflickr.com/3057/3078138075_1e081fd76a_m.jpg
+    square: https://farm4.staticflickr.com/3057/3078138075_1e081fd76a_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3057/3078138075_1e081fd76a_t.jpg
+  title: Into the Fog
+  url: https://farm4.staticflickr.com/3057/3078138075_1e081fd76a.jpg
+- farm: 4
+  id: '3078970726'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078970726/in/album-72157610597616607/
+  secret: ff8a1fa97d
+  server: '3241'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3241/3078970726_ff8a1fa97d_b.jpg
+    medium: https://farm4.staticflickr.com/3241/3078970726_ff8a1fa97d_z.jpg
+    small: https://farm4.staticflickr.com/3241/3078970726_ff8a1fa97d_m.jpg
+    square: https://farm4.staticflickr.com/3241/3078970726_ff8a1fa97d_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3241/3078970726_ff8a1fa97d_t.jpg
+  title: Blue Sunrise
+  url: https://farm4.staticflickr.com/3241/3078970726_ff8a1fa97d.jpg
+- farm: 4
+  id: '3078139335'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078139335/in/album-72157610597616607/
+  secret: 1492cc4acc
+  server: '3026'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3026/3078139335_1492cc4acc_b.jpg
+    medium: https://farm4.staticflickr.com/3026/3078139335_1492cc4acc_z.jpg
+    small: https://farm4.staticflickr.com/3026/3078139335_1492cc4acc_m.jpg
+    square: https://farm4.staticflickr.com/3026/3078139335_1492cc4acc_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3026/3078139335_1492cc4acc_t.jpg
+  title: Early Morning Fog
+  url: https://farm4.staticflickr.com/3026/3078139335_1492cc4acc.jpg
+primary: '3078137129'
+secret: bea6d8e8b0
+server: '3023'
+title: Early Drive
+videos: 0
+visibility_can_see_set: 1

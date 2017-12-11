@@ -1,0 +1,118 @@
+can_comment: 0
+count_comments: '0'
+count_views: '8'
+date_create: '1372911242'
+date_update: '1394944840'
+description: "A few pictures from West Baden on New Year\u2019s Eve"
+farm: 8
+id: '72157634475893660'
+needs_interstitial: 0
+photos:
+- farm: 8
+  id: '6873628922'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6873628922/in/album-72157634475893660/
+  secret: 2838dd710d
+  server: '7275'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7275/6873628922_2838dd710d_b.jpg
+    medium: https://farm8.staticflickr.com/7275/6873628922_2838dd710d_z.jpg
+    small: https://farm8.staticflickr.com/7275/6873628922_2838dd710d_m.jpg
+    square: https://farm8.staticflickr.com/7275/6873628922_2838dd710d_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7275/6873628922_2838dd710d_t.jpg
+  title: Lines
+  url: https://farm8.staticflickr.com/7275/6873628922_2838dd710d.jpg
+- farm: 8
+  id: '6873626946'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6873626946/in/album-72157634475893660/
+  secret: 3378f44c8a
+  server: '7066'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7066/6873626946_3378f44c8a_b.jpg
+    medium: https://farm8.staticflickr.com/7066/6873626946_3378f44c8a_z.jpg
+    small: https://farm8.staticflickr.com/7066/6873626946_3378f44c8a_m.jpg
+    square: https://farm8.staticflickr.com/7066/6873626946_3378f44c8a_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7066/6873626946_3378f44c8a_t.jpg
+  title: Lights
+  url: https://farm8.staticflickr.com/7066/6873626946_3378f44c8a.jpg
+- farm: 8
+  id: '6873608206'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6873608206/in/album-72157634475893660/
+  secret: 072a44531d
+  server: '7260'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7260/6873608206_072a44531d_b.jpg
+    medium: https://farm8.staticflickr.com/7260/6873608206_072a44531d_z.jpg
+    small: https://farm8.staticflickr.com/7260/6873608206_072a44531d_m.jpg
+    square: https://farm8.staticflickr.com/7260/6873608206_072a44531d_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7260/6873608206_072a44531d_t.jpg
+  title: Chess and Aurora II
+  url: https://farm8.staticflickr.com/7260/6873608206_072a44531d.jpg
+- farm: 8
+  id: '7019712993'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/7019712993/in/album-72157634475893660/
+  secret: da4bfd21e3
+  server: '7210'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7210/7019712993_da4bfd21e3_b.jpg
+    medium: https://farm8.staticflickr.com/7210/7019712993_da4bfd21e3_z.jpg
+    small: https://farm8.staticflickr.com/7210/7019712993_da4bfd21e3_m.jpg
+    square: https://farm8.staticflickr.com/7210/7019712993_da4bfd21e3_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7210/7019712993_da4bfd21e3_t.jpg
+  title: Chess and Aurora I
+  url: https://farm8.staticflickr.com/7210/7019712993_da4bfd21e3.jpg
+- farm: 8
+  id: '7019711853'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/7019711853/in/album-72157634475893660/
+  secret: 1783d638b5
+  server: '7179'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7179/7019711853_1783d638b5_b.jpg
+    medium: https://farm8.staticflickr.com/7179/7019711853_1783d638b5_z.jpg
+    small: https://farm8.staticflickr.com/7179/7019711853_1783d638b5_m.jpg
+    square: https://farm8.staticflickr.com/7179/7019711853_1783d638b5_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7179/7019711853_1783d638b5_t.jpg
+  title: Chess II
+  url: https://farm8.staticflickr.com/7179/7019711853_1783d638b5.jpg
+- farm: 8
+  id: '7019710487'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/7019710487/in/album-72157634475893660/
+  secret: 40532ee8e5
+  server: '7104'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7104/7019710487_40532ee8e5_b.jpg
+    medium: https://farm8.staticflickr.com/7104/7019710487_40532ee8e5_z.jpg
+    small: https://farm8.staticflickr.com/7104/7019710487_40532ee8e5_m.jpg
+    square: https://farm8.staticflickr.com/7104/7019710487_40532ee8e5_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7104/7019710487_40532ee8e5_t.jpg
+  title: Chess I
+  url: https://farm8.staticflickr.com/7104/7019710487_40532ee8e5.jpg
+primary: '6873628922'
+secret: 2838dd710d
+server: '7275'
+title: New Year's
+videos: 0
+visibility_can_see_set: 1

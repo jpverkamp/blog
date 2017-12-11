@@ -1,0 +1,204 @@
+can_comment: 0
+count_comments: '0'
+count_views: '6'
+date_create: '1287347159'
+date_update: '1446051077'
+description: Rose-Hulman's homecoming bonfire.  Quite a spectacle, check it out if
+  you ever have a chance!
+farm: 5
+id: '72157625184608536'
+needs_interstitial: 0
+photos:
+- farm: 5
+  id: '5090892654'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090892654/in/album-72157625184608536/
+  secret: 64db0f431b
+  server: '4103'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4103/5090892654_64db0f431b_b.jpg
+    medium: https://farm5.staticflickr.com/4103/5090892654_64db0f431b_z.jpg
+    small: https://farm5.staticflickr.com/4103/5090892654_64db0f431b_m.jpg
+    square: https://farm5.staticflickr.com/4103/5090892654_64db0f431b_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4103/5090892654_64db0f431b_t.jpg
+  title: Fire Blur
+  url: https://farm5.staticflickr.com/4103/5090892654_64db0f431b.jpg
+- farm: 5
+  id: '5090296841'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090296841/in/album-72157625184608536/
+  secret: 5b0c4a237a
+  server: '4083'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4083/5090296841_5b0c4a237a_b.jpg
+    medium: https://farm5.staticflickr.com/4083/5090296841_5b0c4a237a_z.jpg
+    small: https://farm5.staticflickr.com/4083/5090296841_5b0c4a237a_m.jpg
+    square: https://farm5.staticflickr.com/4083/5090296841_5b0c4a237a_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4083/5090296841_5b0c4a237a_t.jpg
+  title: Getting Closer
+  url: https://farm5.staticflickr.com/4083/5090296841_5b0c4a237a.jpg
+- farm: 5
+  id: '5090297651'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090297651/in/album-72157625184608536/
+  secret: 39a601ddb8
+  server: '4103'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4103/5090297651_39a601ddb8_b.jpg
+    medium: https://farm5.staticflickr.com/4103/5090297651_39a601ddb8_z.jpg
+    small: https://farm5.staticflickr.com/4103/5090297651_39a601ddb8_m.jpg
+    square: https://farm5.staticflickr.com/4103/5090297651_39a601ddb8_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4103/5090297651_39a601ddb8_t.jpg
+  title: Burning
+  url: https://farm5.staticflickr.com/4103/5090297651_39a601ddb8.jpg
+- farm: 5
+  id: '5090298593'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090298593/in/album-72157625184608536/
+  secret: 4878e164aa
+  server: '4108'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4108/5090298593_4878e164aa_b.jpg
+    medium: https://farm5.staticflickr.com/4108/5090298593_4878e164aa_z.jpg
+    small: https://farm5.staticflickr.com/4108/5090298593_4878e164aa_m.jpg
+    square: https://farm5.staticflickr.com/4108/5090298593_4878e164aa_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4108/5090298593_4878e164aa_t.jpg
+  title: Growing
+  url: https://farm5.staticflickr.com/4108/5090298593_4878e164aa.jpg
+- farm: 5
+  id: '5090897320'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090897320/in/album-72157625184608536/
+  secret: 04b4013dae
+  server: '4149'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4149/5090897320_04b4013dae_b.jpg
+    medium: https://farm5.staticflickr.com/4149/5090897320_04b4013dae_z.jpg
+    small: https://farm5.staticflickr.com/4149/5090897320_04b4013dae_m.jpg
+    square: https://farm5.staticflickr.com/4149/5090897320_04b4013dae_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4149/5090897320_04b4013dae_t.jpg
+  title: Burn
+  url: https://farm5.staticflickr.com/4149/5090897320_04b4013dae.jpg
+- farm: 5
+  id: '5090898512'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090898512/in/album-72157625184608536/
+  secret: b8f7a2faa9
+  server: '4131'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4131/5090898512_b8f7a2faa9_b.jpg
+    medium: https://farm5.staticflickr.com/4131/5090898512_b8f7a2faa9_z.jpg
+    small: https://farm5.staticflickr.com/4131/5090898512_b8f7a2faa9_m.jpg
+    square: https://farm5.staticflickr.com/4131/5090898512_b8f7a2faa9_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4131/5090898512_b8f7a2faa9_t.jpg
+  title: Reach
+  url: https://farm5.staticflickr.com/4131/5090898512_b8f7a2faa9.jpg
+- farm: 5
+  id: '5090301707'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090301707/in/album-72157625184608536/
+  secret: acc699c5e4
+  server: '4108'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4108/5090301707_acc699c5e4_b.jpg
+    medium: https://farm5.staticflickr.com/4108/5090301707_acc699c5e4_z.jpg
+    small: https://farm5.staticflickr.com/4108/5090301707_acc699c5e4_m.jpg
+    square: https://farm5.staticflickr.com/4108/5090301707_acc699c5e4_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4108/5090301707_acc699c5e4_t.jpg
+  title: Elemental
+  url: https://farm5.staticflickr.com/4108/5090301707_acc699c5e4.jpg
+- farm: 5
+  id: '5090302985'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090302985/in/album-72157625184608536/
+  secret: 27428dee1b
+  server: '4130'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4130/5090302985_27428dee1b_b.jpg
+    medium: https://farm5.staticflickr.com/4130/5090302985_27428dee1b_z.jpg
+    small: https://farm5.staticflickr.com/4130/5090302985_27428dee1b_m.jpg
+    square: https://farm5.staticflickr.com/4130/5090302985_27428dee1b_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4130/5090302985_27428dee1b_t.jpg
+  title: Spots of Flame
+  url: https://farm5.staticflickr.com/4130/5090302985_27428dee1b.jpg
+- farm: 5
+  id: '5090902076'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090902076/in/album-72157625184608536/
+  secret: 4c1266a4d6
+  server: '4091'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4091/5090902076_4c1266a4d6_b.jpg
+    medium: https://farm5.staticflickr.com/4091/5090902076_4c1266a4d6_z.jpg
+    small: https://farm5.staticflickr.com/4091/5090902076_4c1266a4d6_m.jpg
+    square: https://farm5.staticflickr.com/4091/5090902076_4c1266a4d6_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4091/5090902076_4c1266a4d6_t.jpg
+  title: Closer
+  url: https://farm5.staticflickr.com/4091/5090902076_4c1266a4d6.jpg
+- farm: 5
+  id: '5090902748'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090902748/in/album-72157625184608536/
+  secret: 39eb9e179d
+  server: '4145'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4145/5090902748_39eb9e179d_b.jpg
+    medium: https://farm5.staticflickr.com/4145/5090902748_39eb9e179d_z.jpg
+    small: https://farm5.staticflickr.com/4145/5090902748_39eb9e179d_m.jpg
+    square: https://farm5.staticflickr.com/4145/5090902748_39eb9e179d_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4145/5090902748_39eb9e179d_t.jpg
+  title: Inferno
+  url: https://farm5.staticflickr.com/4145/5090902748_39eb9e179d.jpg
+- farm: 5
+  id: '5090904174'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090904174/in/album-72157625184608536/
+  secret: 9693a3cd0e
+  server: '4129'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4129/5090904174_9693a3cd0e_b.jpg
+    medium: https://farm5.staticflickr.com/4129/5090904174_9693a3cd0e_z.jpg
+    small: https://farm5.staticflickr.com/4129/5090904174_9693a3cd0e_m.jpg
+    square: https://farm5.staticflickr.com/4129/5090904174_9693a3cd0e_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4129/5090904174_9693a3cd0e_t.jpg
+  title: Towering
+  url: https://farm5.staticflickr.com/4129/5090904174_9693a3cd0e.jpg
+primary: '5090892654'
+secret: 64db0f431b
+server: '4103'
+title: Bonfire Fun
+videos: 0
+visibility_can_see_set: 1

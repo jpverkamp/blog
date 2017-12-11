@@ -1,0 +1,34 @@
+<!-- more -->
+{{ if .Get "set" }}
+    <div>
+        <div class="flickr-gallery" data-set-id="{{ .Get "set" }}" data-per-page="30">
+            <noscript>
+                Flickr Galleries require JavaScript to view
+            </noscript>
+        </div>
+        <p><a href="https://flickr.com/photos/jpverkamp/sets/{{ .Get "set" }}">View on Flickr</a></p>
+    </div>
+{{ else if .Get "image" }}
+    {{/* This won't work for any photos not in a photoset, but that's not how I organize images so (shrug) */}}
+    {{ $.Scratch.Set "found-image" false }}
+    {{ range $photosetId, $photoset := $.Site.Data.flickr }}
+        {{ range $photo := $photoset.photos }}
+            {{ if and (eq $photo.id ($.Get "image")) (not ($.Scratch.Get "found-image")) }}
+                {{ $.Scratch.Set "found-image" true }}
+                <figure>
+                    <a href="{{ $photo.page }}">
+                        <img src="{{ $photo.url }}" alt="{{ $photo.title }}" />
+                    </a>
+                    <figcaption>
+                        <strong>{{ $photo.title }}</strong> - <a href="{{ $photo.page }}">View on Flickr</a>
+                    </figcaption>
+                </figure>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+    {{ if not ($.Scratch.Get "found-image") }}
+        WARNING IMAGE {{ .Get "image" }} COULD NOT BE FOUND
+    {{ end }}
+{{ else }}
+WARNING UNKNOWN FLICKR TYPE
+{{ end }}

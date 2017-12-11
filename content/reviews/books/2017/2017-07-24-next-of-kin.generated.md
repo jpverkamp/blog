@@ -1,0 +1,26 @@
+---
+title: Next of Kin
+date: 2017-07-24
+generated: true
+reviews/lists: 2017 Book Reviews
+reviews/series: John Cleaver
+---
+{{< goodreads book="Next of Kin" cover="true" >}}
+
+> I died again last night.
+
+Well. That's a way to start a story.  
+
+<!--more-->
+
+Next of Kin basically acts as glue between the first John Cleaver series--set around 15-16 year old John Cleaver in his hometown of Clayton--and the second --which I haven't read yet, but from the summary appears to be set a year or two later with John hunting down the demons.  
+
+This time around, we actually get into the head of one of the demons, a hearse driver currently going by the name of Elijah Sexton who steals memories. It's an interesting point of view and gives us all the more backstory I'd been wanting through the first three John Cleaver books.  
+
+I like Elijah, which isn't something I expected to say about one of the demons. Glad to say it though.  
+
+I look forward to what this hints at for the next trilogy.  
+
+Edit to add: If you get the chance, read _Next of Kin_ after _The Devil's Only Friend_. I think finding out the events shared between the two would go better in the novel first.
+
+

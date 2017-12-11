@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+
+    {{ partial "includes-css.html" . }}
+
+    <!-- This is intentionally loaded in the header for posts that use jQuery for dynamic content -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+</head>
+<body>
+    <div id="wrapper">
+        {{ partial "header.html" . }}
+
+        <div id="page-content-wrapper">
+            <div id="page-content">
+            {{ block "main" . }}{{ end }}
+            </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+
+    {{ partial "includes-js.html" . }}
+</body>
+</html>

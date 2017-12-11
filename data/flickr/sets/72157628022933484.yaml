@@ -1,0 +1,885 @@
+can_comment: 0
+count_comments: '0'
+count_views: '17'
+date_create: '1320098224'
+date_update: '1449466368'
+description: I went to the ACM CCS conference in Chicago and took a bunch of pictures
+  while I was there. There are several experiments with long exposures and HDR shots;
+  they were fun to edit.
+farm: 7
+id: '72157628022933484'
+needs_interstitial: 0
+photos:
+- farm: 7
+  id: '6299801137'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299801137/in/album-72157628022933484/
+  secret: c477a838a6
+  server: '6218'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6218/6299801137_c477a838a6_b.jpg
+    medium: https://farm7.staticflickr.com/6218/6299801137_c477a838a6_z.jpg
+    small: https://farm7.staticflickr.com/6218/6299801137_c477a838a6_m.jpg
+    square: https://farm7.staticflickr.com/6218/6299801137_c477a838a6_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6218/6299801137_c477a838a6_t.jpg
+  title: Train
+  url: https://farm7.staticflickr.com/6218/6299801137_c477a838a6.jpg
+- farm: 7
+  id: '6299802451'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299802451/in/album-72157628022933484/
+  secret: a8e224dbac
+  server: '6219'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6219/6299802451_a8e224dbac_b.jpg
+    medium: https://farm7.staticflickr.com/6219/6299802451_a8e224dbac_z.jpg
+    small: https://farm7.staticflickr.com/6219/6299802451_a8e224dbac_m.jpg
+    square: https://farm7.staticflickr.com/6219/6299802451_a8e224dbac_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6219/6299802451_a8e224dbac_t.jpg
+  title: Blue
+  url: https://farm7.staticflickr.com/6219/6299802451_a8e224dbac.jpg
+- farm: 7
+  id: '6300337552'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300337552/in/album-72157628022933484/
+  secret: 183cc3c5f8
+  server: '6042'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6042/6300337552_183cc3c5f8_b.jpg
+    medium: https://farm7.staticflickr.com/6042/6300337552_183cc3c5f8_z.jpg
+    small: https://farm7.staticflickr.com/6042/6300337552_183cc3c5f8_m.jpg
+    square: https://farm7.staticflickr.com/6042/6300337552_183cc3c5f8_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6042/6300337552_183cc3c5f8_t.jpg
+  title: Not a Subway
+  url: https://farm7.staticflickr.com/6042/6300337552_183cc3c5f8.jpg
+- farm: 7
+  id: '6299805585'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299805585/in/album-72157628022933484/
+  secret: 27db449bf3
+  server: '6223'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6223/6299805585_27db449bf3_b.jpg
+    medium: https://farm7.staticflickr.com/6223/6299805585_27db449bf3_z.jpg
+    small: https://farm7.staticflickr.com/6223/6299805585_27db449bf3_m.jpg
+    square: https://farm7.staticflickr.com/6223/6299805585_27db449bf3_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6223/6299805585_27db449bf3_t.jpg
+  title: Halo
+  url: https://farm7.staticflickr.com/6223/6299805585_27db449bf3.jpg
+- farm: 7
+  id: '6300340212'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300340212/in/album-72157628022933484/
+  secret: b698ab5723
+  server: '6115'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6115/6300340212_b698ab5723_b.jpg
+    medium: https://farm7.staticflickr.com/6115/6300340212_b698ab5723_z.jpg
+    small: https://farm7.staticflickr.com/6115/6300340212_b698ab5723_m.jpg
+    square: https://farm7.staticflickr.com/6115/6300340212_b698ab5723_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6115/6300340212_b698ab5723_t.jpg
+  title: Reflection
+  url: https://farm7.staticflickr.com/6115/6300340212_b698ab5723.jpg
+- farm: 7
+  id: '6299808529'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299808529/in/album-72157628022933484/
+  secret: d128bcecc4
+  server: '6237'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6237/6299808529_d128bcecc4_b.jpg
+    medium: https://farm7.staticflickr.com/6237/6299808529_d128bcecc4_z.jpg
+    small: https://farm7.staticflickr.com/6237/6299808529_d128bcecc4_m.jpg
+    square: https://farm7.staticflickr.com/6237/6299808529_d128bcecc4_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6237/6299808529_d128bcecc4_t.jpg
+  title: Park
+  url: https://farm7.staticflickr.com/6237/6299808529_d128bcecc4.jpg
+- farm: 7
+  id: '6299810363'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299810363/in/album-72157628022933484/
+  secret: 2a9e0d64de
+  server: '6110'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6110/6299810363_2a9e0d64de_b.jpg
+    medium: https://farm7.staticflickr.com/6110/6299810363_2a9e0d64de_z.jpg
+    small: https://farm7.staticflickr.com/6110/6299810363_2a9e0d64de_m.jpg
+    square: https://farm7.staticflickr.com/6110/6299810363_2a9e0d64de_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6110/6299810363_2a9e0d64de_t.jpg
+  title: Waterfall I
+  url: https://farm7.staticflickr.com/6110/6299810363_2a9e0d64de.jpg
+- farm: 7
+  id: '6300345956'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300345956/in/album-72157628022933484/
+  secret: 8c4c72f2d8
+  server: '6052'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6052/6300345956_8c4c72f2d8_b.jpg
+    medium: https://farm7.staticflickr.com/6052/6300345956_8c4c72f2d8_z.jpg
+    small: https://farm7.staticflickr.com/6052/6300345956_8c4c72f2d8_m.jpg
+    square: https://farm7.staticflickr.com/6052/6300345956_8c4c72f2d8_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6052/6300345956_8c4c72f2d8_t.jpg
+  title: Waterfall II
+  url: https://farm7.staticflickr.com/6052/6300345956_8c4c72f2d8.jpg
+- farm: 7
+  id: '6300347482'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300347482/in/album-72157628022933484/
+  secret: f2c2c6b029
+  server: '6099'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6099/6300347482_f2c2c6b029_b.jpg
+    medium: https://farm7.staticflickr.com/6099/6300347482_f2c2c6b029_z.jpg
+    small: https://farm7.staticflickr.com/6099/6300347482_f2c2c6b029_m.jpg
+    square: https://farm7.staticflickr.com/6099/6300347482_f2c2c6b029_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6099/6300347482_f2c2c6b029_t.jpg
+  title: No Golf
+  url: https://farm7.staticflickr.com/6099/6300347482_f2c2c6b029.jpg
+- farm: 7
+  id: '6299815069'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299815069/in/album-72157628022933484/
+  secret: cac3da5fc1
+  server: '6113'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6113/6299815069_cac3da5fc1_b.jpg
+    medium: https://farm7.staticflickr.com/6113/6299815069_cac3da5fc1_z.jpg
+    small: https://farm7.staticflickr.com/6113/6299815069_cac3da5fc1_m.jpg
+    square: https://farm7.staticflickr.com/6113/6299815069_cac3da5fc1_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6113/6299815069_cac3da5fc1_t.jpg
+  title: Segway I
+  url: https://farm7.staticflickr.com/6113/6299815069_cac3da5fc1.jpg
+- farm: 7
+  id: '6300351122'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300351122/in/album-72157628022933484/
+  secret: f0678470d9
+  server: '6095'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6095/6300351122_f0678470d9_b.jpg
+    medium: https://farm7.staticflickr.com/6095/6300351122_f0678470d9_z.jpg
+    small: https://farm7.staticflickr.com/6095/6300351122_f0678470d9_m.jpg
+    square: https://farm7.staticflickr.com/6095/6300351122_f0678470d9_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6095/6300351122_f0678470d9_t.jpg
+  title: Segway II
+  url: https://farm7.staticflickr.com/6095/6300351122_f0678470d9.jpg
+- farm: 7
+  id: '6300353714'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300353714/in/album-72157628022933484/
+  secret: e6f903a248
+  server: '6226'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6226/6300353714_e6f903a248_b.jpg
+    medium: https://farm7.staticflickr.com/6226/6300353714_e6f903a248_z.jpg
+    small: https://farm7.staticflickr.com/6226/6300353714_e6f903a248_m.jpg
+    square: https://farm7.staticflickr.com/6226/6300353714_e6f903a248_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6226/6300353714_e6f903a248_t.jpg
+  title: Grassland
+  url: https://farm7.staticflickr.com/6226/6300353714_e6f903a248.jpg
+- farm: 7
+  id: '6300356914'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300356914/in/album-72157628022933484/
+  secret: 7dd4878494
+  server: '6094'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6094/6300356914_7dd4878494_b.jpg
+    medium: https://farm7.staticflickr.com/6094/6300356914_7dd4878494_z.jpg
+    small: https://farm7.staticflickr.com/6094/6300356914_7dd4878494_m.jpg
+    square: https://farm7.staticflickr.com/6094/6300356914_7dd4878494_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6094/6300356914_7dd4878494_t.jpg
+  title: Twisted Branches
+  url: https://farm7.staticflickr.com/6094/6300356914_7dd4878494.jpg
+- farm: 7
+  id: '6300360314'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300360314/in/album-72157628022933484/
+  secret: ce93472d41
+  server: '6103'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6103/6300360314_ce93472d41_b.jpg
+    medium: https://farm7.staticflickr.com/6103/6300360314_ce93472d41_z.jpg
+    small: https://farm7.staticflickr.com/6103/6300360314_ce93472d41_m.jpg
+    square: https://farm7.staticflickr.com/6103/6300360314_ce93472d41_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6103/6300360314_ce93472d41_t.jpg
+  title: Park Again
+  url: https://farm7.staticflickr.com/6103/6300360314_ce93472d41.jpg
+- farm: 7
+  id: '6300362208'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300362208/in/album-72157628022933484/
+  secret: 42ab1fae37
+  server: '6118'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6118/6300362208_42ab1fae37_b.jpg
+    medium: https://farm7.staticflickr.com/6118/6300362208_42ab1fae37_z.jpg
+    small: https://farm7.staticflickr.com/6118/6300362208_42ab1fae37_m.jpg
+    square: https://farm7.staticflickr.com/6118/6300362208_42ab1fae37_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6118/6300362208_42ab1fae37_t.jpg
+  title: Caution
+  url: https://farm7.staticflickr.com/6118/6300362208_42ab1fae37.jpg
+- farm: 7
+  id: '6300363106'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300363106/in/album-72157628022933484/
+  secret: a40bd4d81d
+  server: '6019'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6019/6300363106_a40bd4d81d_b.jpg
+    medium: https://farm7.staticflickr.com/6019/6300363106_a40bd4d81d_z.jpg
+    small: https://farm7.staticflickr.com/6019/6300363106_a40bd4d81d_m.jpg
+    square: https://farm7.staticflickr.com/6019/6300363106_a40bd4d81d_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6019/6300363106_a40bd4d81d_t.jpg
+  title: Borg Warner
+  url: https://farm7.staticflickr.com/6019/6300363106_a40bd4d81d.jpg
+- farm: 7
+  id: '6299830827'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299830827/in/album-72157628022933484/
+  secret: 3e34fe16b6
+  server: '6054'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6054/6299830827_3e34fe16b6_b.jpg
+    medium: https://farm7.staticflickr.com/6054/6299830827_3e34fe16b6_z.jpg
+    small: https://farm7.staticflickr.com/6054/6299830827_3e34fe16b6_m.jpg
+    square: https://farm7.staticflickr.com/6054/6299830827_3e34fe16b6_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6054/6299830827_3e34fe16b6_t.jpg
+  title: Segway III
+  url: https://farm7.staticflickr.com/6054/6299830827_3e34fe16b6.jpg
+- farm: 7
+  id: '6299832989'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299832989/in/album-72157628022933484/
+  secret: e00d8bae1f
+  server: '6044'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6044/6299832989_e00d8bae1f_b.jpg
+    medium: https://farm7.staticflickr.com/6044/6299832989_e00d8bae1f_z.jpg
+    small: https://farm7.staticflickr.com/6044/6299832989_e00d8bae1f_m.jpg
+    square: https://farm7.staticflickr.com/6044/6299832989_e00d8bae1f_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6044/6299832989_e00d8bae1f_t.jpg
+  title: Fountain
+  url: https://farm7.staticflickr.com/6044/6299832989_e00d8bae1f.jpg
+- farm: 7
+  id: '6299834617'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299834617/in/album-72157628022933484/
+  secret: aa5453de20
+  server: '6109'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6109/6299834617_aa5453de20_b.jpg
+    medium: https://farm7.staticflickr.com/6109/6299834617_aa5453de20_z.jpg
+    small: https://farm7.staticflickr.com/6109/6299834617_aa5453de20_m.jpg
+    square: https://farm7.staticflickr.com/6109/6299834617_aa5453de20_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6109/6299834617_aa5453de20_t.jpg
+  title: Bricks
+  url: https://farm7.staticflickr.com/6109/6299834617_aa5453de20.jpg
+- farm: 7
+  id: '6299835675'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299835675/in/album-72157628022933484/
+  secret: 8ccbe51396
+  server: '6047'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6047/6299835675_8ccbe51396_b.jpg
+    medium: https://farm7.staticflickr.com/6047/6299835675_8ccbe51396_z.jpg
+    small: https://farm7.staticflickr.com/6047/6299835675_8ccbe51396_m.jpg
+    square: https://farm7.staticflickr.com/6047/6299835675_8ccbe51396_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6047/6299835675_8ccbe51396_t.jpg
+  title: Glow
+  url: https://farm7.staticflickr.com/6047/6299835675_8ccbe51396.jpg
+- farm: 7
+  id: '6299836659'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299836659/in/album-72157628022933484/
+  secret: 142ef81359
+  server: '6091'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6091/6299836659_142ef81359_b.jpg
+    medium: https://farm7.staticflickr.com/6091/6299836659_142ef81359_z.jpg
+    small: https://farm7.staticflickr.com/6091/6299836659_142ef81359_m.jpg
+    square: https://farm7.staticflickr.com/6091/6299836659_142ef81359_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6091/6299836659_142ef81359_t.jpg
+  title: Yoga
+  url: https://farm7.staticflickr.com/6091/6299836659_142ef81359.jpg
+- farm: 7
+  id: '6300371742'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300371742/in/album-72157628022933484/
+  secret: 53cb61c223
+  server: '6053'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6053/6300371742_53cb61c223_b.jpg
+    medium: https://farm7.staticflickr.com/6053/6300371742_53cb61c223_z.jpg
+    small: https://farm7.staticflickr.com/6053/6300371742_53cb61c223_m.jpg
+    square: https://farm7.staticflickr.com/6053/6300371742_53cb61c223_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6053/6300371742_53cb61c223_t.jpg
+  title: Purple
+  url: https://farm7.staticflickr.com/6053/6300371742_53cb61c223.jpg
+- farm: 7
+  id: '6299839261'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299839261/in/album-72157628022933484/
+  secret: 48a08298f5
+  server: '6218'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6218/6299839261_48a08298f5_b.jpg
+    medium: https://farm7.staticflickr.com/6218/6299839261_48a08298f5_z.jpg
+    small: https://farm7.staticflickr.com/6218/6299839261_48a08298f5_m.jpg
+    square: https://farm7.staticflickr.com/6218/6299839261_48a08298f5_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6218/6299839261_48a08298f5_t.jpg
+  title: Glowlines
+  url: https://farm7.staticflickr.com/6218/6299839261_48a08298f5.jpg
+- farm: 7
+  id: '6299840957'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299840957/in/album-72157628022933484/
+  secret: 2c3e59acdf
+  server: '6221'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6221/6299840957_2c3e59acdf_b.jpg
+    medium: https://farm7.staticflickr.com/6221/6299840957_2c3e59acdf_z.jpg
+    small: https://farm7.staticflickr.com/6221/6299840957_2c3e59acdf_m.jpg
+    square: https://farm7.staticflickr.com/6221/6299840957_2c3e59acdf_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6221/6299840957_2c3e59acdf_t.jpg
+  title: Red and Gold
+  url: https://farm7.staticflickr.com/6221/6299840957_2c3e59acdf.jpg
+- farm: 7
+  id: '6300375826'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300375826/in/album-72157628022933484/
+  secret: a4339aeea9
+  server: '6097'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6097/6300375826_a4339aeea9_b.jpg
+    medium: https://farm7.staticflickr.com/6097/6300375826_a4339aeea9_z.jpg
+    small: https://farm7.staticflickr.com/6097/6300375826_a4339aeea9_m.jpg
+    square: https://farm7.staticflickr.com/6097/6300375826_a4339aeea9_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6097/6300375826_a4339aeea9_t.jpg
+  title: Crane
+  url: https://farm7.staticflickr.com/6097/6300375826_a4339aeea9.jpg
+- farm: 7
+  id: '6300377816'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300377816/in/album-72157628022933484/
+  secret: 7cc45610d5
+  server: '6041'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6041/6300377816_7cc45610d5_b.jpg
+    medium: https://farm7.staticflickr.com/6041/6300377816_7cc45610d5_z.jpg
+    small: https://farm7.staticflickr.com/6041/6300377816_7cc45610d5_m.jpg
+    square: https://farm7.staticflickr.com/6041/6300377816_7cc45610d5_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6041/6300377816_7cc45610d5_t.jpg
+  title: Two Cranes
+  url: https://farm7.staticflickr.com/6041/6300377816_7cc45610d5.jpg
+- farm: 7
+  id: '6300379110'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300379110/in/album-72157628022933484/
+  secret: 53c86f68fc
+  server: '6214'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6214/6300379110_53c86f68fc_b.jpg
+    medium: https://farm7.staticflickr.com/6214/6300379110_53c86f68fc_z.jpg
+    small: https://farm7.staticflickr.com/6214/6300379110_53c86f68fc_m.jpg
+    square: https://farm7.staticflickr.com/6214/6300379110_53c86f68fc_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6214/6300379110_53c86f68fc_t.jpg
+  title: Organic
+  url: https://farm7.staticflickr.com/6214/6300379110_53c86f68fc.jpg
+- farm: 7
+  id: '6299846081'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299846081/in/album-72157628022933484/
+  secret: b578cf8523
+  server: '6031'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6031/6299846081_b578cf8523_b.jpg
+    medium: https://farm7.staticflickr.com/6031/6299846081_b578cf8523_z.jpg
+    small: https://farm7.staticflickr.com/6031/6299846081_b578cf8523_m.jpg
+    square: https://farm7.staticflickr.com/6031/6299846081_b578cf8523_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6031/6299846081_b578cf8523_t.jpg
+  title: Seating
+  url: https://farm7.staticflickr.com/6031/6299846081_b578cf8523.jpg
+- farm: 7
+  id: '6300381284'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300381284/in/album-72157628022933484/
+  secret: 734057e3d0
+  server: '6233'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6233/6300381284_734057e3d0_b.jpg
+    medium: https://farm7.staticflickr.com/6233/6300381284_734057e3d0_z.jpg
+    small: https://farm7.staticflickr.com/6233/6300381284_734057e3d0_m.jpg
+    square: https://farm7.staticflickr.com/6233/6300381284_734057e3d0_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6233/6300381284_734057e3d0_t.jpg
+  title: Bars
+  url: https://farm7.staticflickr.com/6233/6300381284_734057e3d0.jpg
+- farm: 7
+  id: '6300381902'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300381902/in/album-72157628022933484/
+  secret: a250d57e68
+  server: '6054'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6054/6300381902_a250d57e68_b.jpg
+    medium: https://farm7.staticflickr.com/6054/6300381902_a250d57e68_z.jpg
+    small: https://farm7.staticflickr.com/6054/6300381902_a250d57e68_m.jpg
+    square: https://farm7.staticflickr.com/6054/6300381902_a250d57e68_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6054/6300381902_a250d57e68_t.jpg
+  title: Old and New
+  url: https://farm7.staticflickr.com/6054/6300381902_a250d57e68.jpg
+- farm: 7
+  id: '6300383428'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300383428/in/album-72157628022933484/
+  secret: '6557380226'
+  server: '6102'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6102/6300383428_6557380226_b.jpg
+    medium: https://farm7.staticflickr.com/6102/6300383428_6557380226_z.jpg
+    small: https://farm7.staticflickr.com/6102/6300383428_6557380226_m.jpg
+    square: https://farm7.staticflickr.com/6102/6300383428_6557380226_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6102/6300383428_6557380226_t.jpg
+  title: Congress Hotel
+  url: https://farm7.staticflickr.com/6102/6300383428_6557380226.jpg
+- farm: 7
+  id: '6299850411'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299850411/in/album-72157628022933484/
+  secret: 8fbfdb69b5
+  server: '6032'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6032/6299850411_8fbfdb69b5_b.jpg
+    medium: https://farm7.staticflickr.com/6032/6299850411_8fbfdb69b5_z.jpg
+    small: https://farm7.staticflickr.com/6032/6299850411_8fbfdb69b5_m.jpg
+    square: https://farm7.staticflickr.com/6032/6299850411_8fbfdb69b5_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6032/6299850411_8fbfdb69b5_t.jpg
+  title: Skyline by Night I
+  url: https://farm7.staticflickr.com/6032/6299850411_8fbfdb69b5.jpg
+- farm: 7
+  id: '6299851497'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299851497/in/album-72157628022933484/
+  secret: 318aed3471
+  server: '6104'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6104/6299851497_318aed3471_b.jpg
+    medium: https://farm7.staticflickr.com/6104/6299851497_318aed3471_z.jpg
+    small: https://farm7.staticflickr.com/6104/6299851497_318aed3471_m.jpg
+    square: https://farm7.staticflickr.com/6104/6299851497_318aed3471_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6104/6299851497_318aed3471_t.jpg
+  title: Skyline by Night II
+  url: https://farm7.staticflickr.com/6104/6299851497_318aed3471.jpg
+- farm: 7
+  id: '6300386856'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300386856/in/album-72157628022933484/
+  secret: 59d10892d2
+  server: '6222'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6222/6300386856_59d10892d2_b.jpg
+    medium: https://farm7.staticflickr.com/6222/6300386856_59d10892d2_z.jpg
+    small: https://farm7.staticflickr.com/6222/6300386856_59d10892d2_m.jpg
+    square: https://farm7.staticflickr.com/6222/6300386856_59d10892d2_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6222/6300386856_59d10892d2_t.jpg
+  title: Skyline by Night III
+  url: https://farm7.staticflickr.com/6222/6300386856_59d10892d2.jpg
+- farm: 7
+  id: '6299853621'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299853621/in/album-72157628022933484/
+  secret: 4fa297c93c
+  server: '6213'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6213/6299853621_4fa297c93c_b.jpg
+    medium: https://farm7.staticflickr.com/6213/6299853621_4fa297c93c_z.jpg
+    small: https://farm7.staticflickr.com/6213/6299853621_4fa297c93c_m.jpg
+    square: https://farm7.staticflickr.com/6213/6299853621_4fa297c93c_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6213/6299853621_4fa297c93c_t.jpg
+  title: Skyline by Night IV
+  url: https://farm7.staticflickr.com/6213/6299853621_4fa297c93c.jpg
+- farm: 7
+  id: '6299854453'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299854453/in/album-72157628022933484/
+  secret: 8d25fe6c83
+  server: '6050'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6050/6299854453_8d25fe6c83_b.jpg
+    medium: https://farm7.staticflickr.com/6050/6299854453_8d25fe6c83_z.jpg
+    small: https://farm7.staticflickr.com/6050/6299854453_8d25fe6c83_m.jpg
+    square: https://farm7.staticflickr.com/6050/6299854453_8d25fe6c83_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6050/6299854453_8d25fe6c83_t.jpg
+  title: Skyline by Night V
+  url: https://farm7.staticflickr.com/6050/6299854453_8d25fe6c83.jpg
+- farm: 7
+  id: '6299855723'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299855723/in/album-72157628022933484/
+  secret: dea3a4118c
+  server: '6238'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6238/6299855723_dea3a4118c_b.jpg
+    medium: https://farm7.staticflickr.com/6238/6299855723_dea3a4118c_z.jpg
+    small: https://farm7.staticflickr.com/6238/6299855723_dea3a4118c_m.jpg
+    square: https://farm7.staticflickr.com/6238/6299855723_dea3a4118c_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6238/6299855723_dea3a4118c_t.jpg
+  title: Skyline by Night VI
+  url: https://farm7.staticflickr.com/6238/6299855723_dea3a4118c.jpg
+- farm: 7
+  id: '6300390618'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300390618/in/album-72157628022933484/
+  secret: e7e6a1dea6
+  server: '6103'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6103/6300390618_e7e6a1dea6_b.jpg
+    medium: https://farm7.staticflickr.com/6103/6300390618_e7e6a1dea6_z.jpg
+    small: https://farm7.staticflickr.com/6103/6300390618_e7e6a1dea6_m.jpg
+    square: https://farm7.staticflickr.com/6103/6300390618_e7e6a1dea6_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6103/6300390618_e7e6a1dea6_t.jpg
+  title: Skyline by Night VII
+  url: https://farm7.staticflickr.com/6103/6300390618_e7e6a1dea6.jpg
+- farm: 7
+  id: '6300392396'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300392396/in/album-72157628022933484/
+  secret: 43a47695da
+  server: '6214'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6214/6300392396_43a47695da_b.jpg
+    medium: https://farm7.staticflickr.com/6214/6300392396_43a47695da_z.jpg
+    small: https://farm7.staticflickr.com/6214/6300392396_43a47695da_m.jpg
+    square: https://farm7.staticflickr.com/6214/6300392396_43a47695da_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6214/6300392396_43a47695da_t.jpg
+  title: Contemplation
+  url: https://farm7.staticflickr.com/6214/6300392396_43a47695da.jpg
+- farm: 7
+  id: '6299859631'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299859631/in/album-72157628022933484/
+  secret: ff5756157a
+  server: '6095'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6095/6299859631_ff5756157a_b.jpg
+    medium: https://farm7.staticflickr.com/6095/6299859631_ff5756157a_z.jpg
+    small: https://farm7.staticflickr.com/6095/6299859631_ff5756157a_m.jpg
+    square: https://farm7.staticflickr.com/6095/6299859631_ff5756157a_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6095/6299859631_ff5756157a_t.jpg
+  title: I Spy
+  url: https://farm7.staticflickr.com/6095/6299859631_ff5756157a.jpg
+- farm: 7
+  id: '6299860439'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299860439/in/album-72157628022933484/
+  secret: 1dd8a24c7d
+  server: '6235'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6235/6299860439_1dd8a24c7d_b.jpg
+    medium: https://farm7.staticflickr.com/6235/6299860439_1dd8a24c7d_z.jpg
+    small: https://farm7.staticflickr.com/6235/6299860439_1dd8a24c7d_m.jpg
+    square: https://farm7.staticflickr.com/6235/6299860439_1dd8a24c7d_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6235/6299860439_1dd8a24c7d_t.jpg
+  title: Skyline by Night VIII
+  url: https://farm7.staticflickr.com/6235/6299860439_1dd8a24c7d.jpg
+- farm: 7
+  id: '6299861633'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299861633/in/album-72157628022933484/
+  secret: 62e52b77cb
+  server: '6104'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6104/6299861633_62e52b77cb_b.jpg
+    medium: https://farm7.staticflickr.com/6104/6299861633_62e52b77cb_z.jpg
+    small: https://farm7.staticflickr.com/6104/6299861633_62e52b77cb_m.jpg
+    square: https://farm7.staticflickr.com/6104/6299861633_62e52b77cb_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6104/6299861633_62e52b77cb_t.jpg
+  title: Portal
+  url: https://farm7.staticflickr.com/6104/6299861633_62e52b77cb.jpg
+- farm: 7
+  id: '6299862709'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299862709/in/album-72157628022933484/
+  secret: 02ecbd62cf
+  server: '6040'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6040/6299862709_02ecbd62cf_b.jpg
+    medium: https://farm7.staticflickr.com/6040/6299862709_02ecbd62cf_z.jpg
+    small: https://farm7.staticflickr.com/6040/6299862709_02ecbd62cf_m.jpg
+    square: https://farm7.staticflickr.com/6040/6299862709_02ecbd62cf_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6040/6299862709_02ecbd62cf_t.jpg
+  title: Rainy Day Lights
+  url: https://farm7.staticflickr.com/6040/6299862709_02ecbd62cf.jpg
+- farm: 7
+  id: '6300398464'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300398464/in/album-72157628022933484/
+  secret: 50f8538814
+  server: '6229'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6229/6300398464_50f8538814_b.jpg
+    medium: https://farm7.staticflickr.com/6229/6300398464_50f8538814_z.jpg
+    small: https://farm7.staticflickr.com/6229/6300398464_50f8538814_m.jpg
+    square: https://farm7.staticflickr.com/6229/6300398464_50f8538814_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6229/6300398464_50f8538814_t.jpg
+  title: Park
+  url: https://farm7.staticflickr.com/6229/6300398464_50f8538814.jpg
+- farm: 7
+  id: '6299866963'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299866963/in/album-72157628022933484/
+  secret: 6a98e7f95a
+  server: '6053'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6053/6299866963_6a98e7f95a_b.jpg
+    medium: https://farm7.staticflickr.com/6053/6299866963_6a98e7f95a_z.jpg
+    small: https://farm7.staticflickr.com/6053/6299866963_6a98e7f95a_m.jpg
+    square: https://farm7.staticflickr.com/6053/6299866963_6a98e7f95a_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6053/6299866963_6a98e7f95a_t.jpg
+  title: Wide Angle
+  url: https://farm7.staticflickr.com/6053/6299866963_6a98e7f95a.jpg
+- farm: 7
+  id: '6300402968'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300402968/in/album-72157628022933484/
+  secret: 84a4c8f0e3
+  server: '6053'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6053/6300402968_84a4c8f0e3_b.jpg
+    medium: https://farm7.staticflickr.com/6053/6300402968_84a4c8f0e3_z.jpg
+    small: https://farm7.staticflickr.com/6053/6300402968_84a4c8f0e3_m.jpg
+    square: https://farm7.staticflickr.com/6053/6300402968_84a4c8f0e3_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6053/6300402968_84a4c8f0e3_t.jpg
+  title: Bendy
+  url: https://farm7.staticflickr.com/6053/6300402968_84a4c8f0e3.jpg
+- farm: 7
+  id: '6300404106'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300404106/in/album-72157628022933484/
+  secret: 8e076591be
+  server: '6225'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6225/6300404106_8e076591be_b.jpg
+    medium: https://farm7.staticflickr.com/6225/6300404106_8e076591be_z.jpg
+    small: https://farm7.staticflickr.com/6225/6300404106_8e076591be_m.jpg
+    square: https://farm7.staticflickr.com/6225/6300404106_8e076591be_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6225/6300404106_8e076591be_t.jpg
+  title: Blur Organic
+  url: https://farm7.staticflickr.com/6225/6300404106_8e076591be.jpg
+- farm: 7
+  id: '6299871011'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6299871011/in/album-72157628022933484/
+  secret: d06dbc0654
+  server: '6048'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6048/6299871011_d06dbc0654_b.jpg
+    medium: https://farm7.staticflickr.com/6048/6299871011_d06dbc0654_z.jpg
+    small: https://farm7.staticflickr.com/6048/6299871011_d06dbc0654_m.jpg
+    square: https://farm7.staticflickr.com/6048/6299871011_d06dbc0654_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6048/6299871011_d06dbc0654_t.jpg
+  title: Mist
+  url: https://farm7.staticflickr.com/6048/6299871011_d06dbc0654.jpg
+- farm: 7
+  id: '6300406896'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300406896/in/album-72157628022933484/
+  secret: 65250552ab
+  server: '6099'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6099/6300406896_65250552ab_b.jpg
+    medium: https://farm7.staticflickr.com/6099/6300406896_65250552ab_z.jpg
+    small: https://farm7.staticflickr.com/6099/6300406896_65250552ab_m.jpg
+    square: https://farm7.staticflickr.com/6099/6300406896_65250552ab_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6099/6300406896_65250552ab_t.jpg
+  title: Reflections and Glass I
+  url: https://farm7.staticflickr.com/6099/6300406896_65250552ab.jpg
+- farm: 7
+  id: '6300408472'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300408472/in/album-72157628022933484/
+  secret: 4b86bdd469
+  server: '6220'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6220/6300408472_4b86bdd469_b.jpg
+    medium: https://farm7.staticflickr.com/6220/6300408472_4b86bdd469_z.jpg
+    small: https://farm7.staticflickr.com/6220/6300408472_4b86bdd469_m.jpg
+    square: https://farm7.staticflickr.com/6220/6300408472_4b86bdd469_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6220/6300408472_4b86bdd469_t.jpg
+  title: Reflections and Glass II
+  url: https://farm7.staticflickr.com/6220/6300408472_4b86bdd469.jpg
+- farm: 7
+  id: '6300410058'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6300410058/in/album-72157628022933484/
+  secret: 8ed2504e18
+  server: '6105'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6105/6300410058_8ed2504e18_b.jpg
+    medium: https://farm7.staticflickr.com/6105/6300410058_8ed2504e18_z.jpg
+    small: https://farm7.staticflickr.com/6105/6300410058_8ed2504e18_m.jpg
+    square: https://farm7.staticflickr.com/6105/6300410058_8ed2504e18_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6105/6300410058_8ed2504e18_t.jpg
+  title: Final Glow
+  url: https://farm7.staticflickr.com/6105/6300410058_8ed2504e18.jpg
+primary: '6299801137'
+secret: c477a838a6
+server: '6218'
+title: Chicago
+videos: 0
+visibility_can_see_set: 1

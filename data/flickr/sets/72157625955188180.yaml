@@ -1,0 +1,118 @@
+can_comment: 0
+count_comments: '0'
+count_views: '6'
+date_create: '1296586343'
+date_update: '1446856032'
+description: A set taking just as Fall fell on the IU campus.
+farm: 6
+id: '72157625955188180'
+needs_interstitial: 0
+photos:
+- farm: 6
+  id: '5407800073'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5407800073/in/album-72157625955188180/
+  secret: 657d06ff11
+  server: '5054'
+  thumbnails:
+    large: https://farm6.staticflickr.com/5054/5407800073_657d06ff11_b.jpg
+    medium: https://farm6.staticflickr.com/5054/5407800073_657d06ff11_z.jpg
+    small: https://farm6.staticflickr.com/5054/5407800073_657d06ff11_m.jpg
+    square: https://farm6.staticflickr.com/5054/5407800073_657d06ff11_s.jpg
+    thumbnail: https://farm6.staticflickr.com/5054/5407800073_657d06ff11_t.jpg
+  title: Colors of Fall
+  url: https://farm6.staticflickr.com/5054/5407800073_657d06ff11.jpg
+- farm: 6
+  id: '5408411426'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5408411426/in/album-72157625955188180/
+  secret: 5fdeb6e5c8
+  server: '5094'
+  thumbnails:
+    large: https://farm6.staticflickr.com/5094/5408411426_5fdeb6e5c8_b.jpg
+    medium: https://farm6.staticflickr.com/5094/5408411426_5fdeb6e5c8_z.jpg
+    small: https://farm6.staticflickr.com/5094/5408411426_5fdeb6e5c8_m.jpg
+    square: https://farm6.staticflickr.com/5094/5408411426_5fdeb6e5c8_s.jpg
+    thumbnail: https://farm6.staticflickr.com/5094/5408411426_5fdeb6e5c8_t.jpg
+  title: Silhouette, A Dream
+  url: https://farm6.staticflickr.com/5094/5408411426_5fdeb6e5c8.jpg
+- farm: 6
+  id: '5407803493'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5407803493/in/album-72157625955188180/
+  secret: 47a0c981b6
+  server: '5220'
+  thumbnails:
+    large: https://farm6.staticflickr.com/5220/5407803493_47a0c981b6_b.jpg
+    medium: https://farm6.staticflickr.com/5220/5407803493_47a0c981b6_z.jpg
+    small: https://farm6.staticflickr.com/5220/5407803493_47a0c981b6_m.jpg
+    square: https://farm6.staticflickr.com/5220/5407803493_47a0c981b6_s.jpg
+    thumbnail: https://farm6.staticflickr.com/5220/5407803493_47a0c981b6_t.jpg
+  title: Into the Woods
+  url: https://farm6.staticflickr.com/5220/5407803493_47a0c981b6.jpg
+- farm: 6
+  id: '5407805263'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5407805263/in/album-72157625955188180/
+  secret: 12207e686b
+  server: '5255'
+  thumbnails:
+    large: https://farm6.staticflickr.com/5255/5407805263_12207e686b_b.jpg
+    medium: https://farm6.staticflickr.com/5255/5407805263_12207e686b_z.jpg
+    small: https://farm6.staticflickr.com/5255/5407805263_12207e686b_m.jpg
+    square: https://farm6.staticflickr.com/5255/5407805263_12207e686b_s.jpg
+    thumbnail: https://farm6.staticflickr.com/5255/5407805263_12207e686b_t.jpg
+  title: Fallen I
+  url: https://farm6.staticflickr.com/5255/5407805263_12207e686b.jpg
+- farm: 6
+  id: '5408416932'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5408416932/in/album-72157625955188180/
+  secret: 0a90fc85d0
+  server: '5252'
+  thumbnails:
+    large: https://farm6.staticflickr.com/5252/5408416932_0a90fc85d0_b.jpg
+    medium: https://farm6.staticflickr.com/5252/5408416932_0a90fc85d0_z.jpg
+    small: https://farm6.staticflickr.com/5252/5408416932_0a90fc85d0_m.jpg
+    square: https://farm6.staticflickr.com/5252/5408416932_0a90fc85d0_s.jpg
+    thumbnail: https://farm6.staticflickr.com/5252/5408416932_0a90fc85d0_t.jpg
+  title: Fallen II
+  url: https://farm6.staticflickr.com/5252/5408416932_0a90fc85d0.jpg
+- farm: 6
+  id: '5408417902'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5408417902/in/album-72157625955188180/
+  secret: cc81132e67
+  server: '5012'
+  thumbnails:
+    large: https://farm6.staticflickr.com/5012/5408417902_cc81132e67_b.jpg
+    medium: https://farm6.staticflickr.com/5012/5408417902_cc81132e67_z.jpg
+    small: https://farm6.staticflickr.com/5012/5408417902_cc81132e67_m.jpg
+    square: https://farm6.staticflickr.com/5012/5408417902_cc81132e67_s.jpg
+    thumbnail: https://farm6.staticflickr.com/5012/5408417902_cc81132e67_t.jpg
+  title: Path of Gold
+  url: https://farm6.staticflickr.com/5012/5408417902_cc81132e67.jpg
+primary: '5407800073'
+secret: 657d06ff11
+server: '5054'
+title: Colors of Fall
+videos: 0
+visibility_can_see_set: 1
