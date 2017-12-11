@@ -5,6 +5,7 @@ programming/languages:
 - Python
 programming/topics:
 - Backups
+- Email
 ---
 A little while ago, I decided to finally get around to backing up everything. I'm pulling all of my files from both my website and the servers on campus to my desktop at home, backing my desktop up to an external hard drive, and pushing those backups to an offsite location.
 

@@ -8,7 +8,7 @@ programming/sources:
 - Programming Praxis
 programming/topics:
 - Sorting
-- Tree
+- Trees
 ---
 <a href="http://programmingpraxis.com/2013/02/12/binary-search-tree-in-order-predecessor-and-successor/" title="Binary Search Tree: In-Order Predecessor And Successor">Yesterday's post</a> from Programming Praxis has us trying to find the predecessor and successor to a given value in a binary search tree. There are actually two general algorithms for doing this, depending on if you have parent pointers or not--but they're asking for the algorithm without.
 

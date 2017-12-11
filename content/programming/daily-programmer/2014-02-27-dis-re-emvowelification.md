@@ -8,7 +8,7 @@ programming/sources:
 - Daily Programmer
 programming/topics:
 - Dictionary
-- Tree
+- Trees
 - Trie
 - Word Games
 slug: disre-emvowelification

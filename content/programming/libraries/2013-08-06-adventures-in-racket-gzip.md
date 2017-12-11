@@ -5,6 +5,7 @@ programming/languages:
 - Racket
 - Scheme
 programming/topics:
+- Compression
 - Gzip
 ---
 In my research, I work with a lot of rather large text files--on the order of gigabytes if not terabytes per file. Since they're plain text, they're generally rather compressible though, so it makes sense to `gzip` them while they're on disk. The drawback though comes when you're working with them. There are a few options though.
@@ -63,14 +64,14 @@ It took me a while to find what I was looking for, but finally I came across{{< 
  (thunk))
 ```
 
-Parameterize will allow us to redirect the `current-input-port` and automatically set it back when we're done, even if we bail out with an error. 
+Parameterize will allow us to redirect the `current-input-port` and automatically set it back when we're done, even if we bail out with an error.
 
 To use it, we would write code like this:
 
 ```scheme
 (with-input-from-file "data.txt.gz"
   (λ ()
-    (with-gunzip 
+    (with-gunzip
       (λ ()
         (for ([i (in-naturals)]
               [line (in-lines)])
@@ -88,7 +89,7 @@ It actually works pretty well, but unfortunately it doesn't work entirely. There
 
 Let's take each one in order.
 
-First, we have termination. Based on <a href="http://lists.racket-lang.org/users/archive/2013-August/058852.html">a response from Ryan Culpepper</a> on the Racket mailing list, the problem is that `gunzip-through-ports` doesn't actually close the port. This means that an `eof-object?` is never sent through the `pipe` to `in-lines`. 
+First, we have termination. Based on <a href="http://lists.racket-lang.org/users/archive/2013-August/058852.html">a response from Ryan Culpepper</a> on the Racket mailing list, the problem is that `gunzip-through-ports` doesn't actually close the port. This means that an `eof-object?` is never sent through the `pipe` to `in-lines`.
 
 So at some point we need to close the port. The problem is: when? If we close it at the end as one might expect, it won't work. Since the code hangs in the `for`, we'll never get to it. So we have to have it before that at least. Let's true putting it right after the `gunzip-through-ports` line[^4]:
 
@@ -104,7 +105,7 @@ So at some point we need to close the port. The problem is: when? If we close it
 
 It turns out, this actually works perfectly. It was counter intuitive to me at first, but then I ran some timing tests. It turns out that the `pipe` and `gunzip-through-ports` aren't actually buffering anything. On the latter call, everything that was on `current-input-port` is gunzipped and written through `pipe-to` to `pipe-from`. So we can go ahead and close `pipe-to` right then. Better yet, we've actually finished the second point as well. Everything should now be closed by the time `with-gunzip` exits.
 
-This leads us directly to the third problem though. What do we do if we have an error? Since control bails out, the ports will never be closed. Let's check out Racket's {{< doc racket "exception model" >}}. 
+This leads us directly to the third problem though. What do we do if we have an error? Since control bails out, the ports will never be closed. Let's check out Racket's {{< doc racket "exception model" >}}.
 
 Theoretically, we're looking for `with-handlers` looking specifically for a `exn:fail?` condition (the one raised internally by `error`). Something like this should do what we need:
 
@@ -130,7 +131,7 @@ Theoretically, we're looking for `with-handlers` looking specifically for a `exn
 ```scheme
 (with-input-from-file "not-gzipped.txt"
   (λ ()
-    (with-gunzip 
+    (with-gunzip
       (λ ()
         ...))))
 ```
@@ -141,9 +142,9 @@ We'll get this error:
 <span style="color: red;">with-gunzip: gnu-unzip: bad header</span>
 ```
 
-It looks a bit strange with the nested colons, but it gives us exactly what we want. Better yet, the ports are correctly being closed. 
+It looks a bit strange with the nested colons, but it gives us exactly what we want. Better yet, the ports are correctly being closed.
 
-All that leaves us is buffering. Originally, my biggest problem with this code was that it read the entire file into memory at once. With files in the tens of gigabytes, that could be a problem... So how do we fix it? <a href="http://lists.racket-lang.org/users/archive/2013-August/058852.html">Mailing list</a> to the rescue once again! Essentially, I missed an optional argument to `make-pipe`. If you pass `#f` (the default), there's no buffer. But instead, you can pass an `exact-positive-integer?` which will be the buffer size in bytes. 
+All that leaves us is buffering. Originally, my biggest problem with this code was that it read the entire file into memory at once. With files in the tens of gigabytes, that could be a problem... So how do we fix it? <a href="http://lists.racket-lang.org/users/archive/2013-August/058852.html">Mailing list</a> to the rescue once again! Essentially, I missed an optional argument to `make-pipe`. If you pass `#f` (the default), there's no buffer. But instead, you can pass an `exact-positive-integer?` which will be the buffer size in bytes.
 
 We don't necessary want to assume that the user either wants buffering or wants a certain size, so we'll make it configurable. Quick and easy:
 
@@ -167,7 +168,7 @@ It's starting to get a bit more complicated, but it works great. If we want a bu
 ```scheme
 (with-input-from-file "data.txt.gz"
   (λ ()
-    (with-gunzip 
+    (with-gunzip
       (λ ()
         (for ([i (in-naturals)]
               [line (in-lines)])
@@ -178,8 +179,8 @@ It's starting to get a bit more complicated, but it works great. If we want a bu
 There is one problem though, the user can pass absolutely anything to `#:buffer-size`. Let's use a Racket feature I probably don't take as much advantage of as I probably should: {{< doc racket "contracts" >}}. Essentially, they work like {{< wikipedia page="Type signature" text="type signatures" >}}. It looks a little ugly, but they're fairly easy to work with:
 
 ```scheme
-(provide/contract 
- (with-gunzip 
+(provide/contract
+ (with-gunzip
    (->* ((-> any))
         (#:buffer-size (or/c false? exact-positive-integer?))
         any)))
@@ -202,7 +203,7 @@ Exactly what we wanted!
 Well, that's almost it. One thing we can still do is write a parallel `with-gzip` function. We'll use `#f` to ignore the filename and the current system time for timestamp (since gzipped files require those), but other than that, everything is pretty much exactly the same:
 
 ```scheme
-(provide/contract 
+(provide/contract
  (with-gzip
   (-> (-> any) #:buffer-size [or/c false? exact-positive-integer?] any)))
 
@@ -227,7 +228,7 @@ We can test it by using both in sequence:
 
 (printf "input: ~s\n" input)
 
-(define gzipped 
+(define gzipped
   (with-output-to-bytes
    (λ ()
      (with-input-from-string input
@@ -270,7 +271,7 @@ Eventually, I'll put it on PLaneT, but for now it's available on GitHub: <a href
   (dynamic-wind
    void
    (λ ()
-     (thread 
+     (thread
       (λ ()
         (gunzip-through-ports (current-input-port) pipe-to)
         (close-output-port pipe-to)))

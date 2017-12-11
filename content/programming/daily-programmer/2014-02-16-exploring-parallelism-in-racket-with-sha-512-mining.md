@@ -8,7 +8,6 @@ programming/topics:
 - Bitcoin
 - Concurrency
 - Dictionary
-- Hash
 - Hashes
 - Mathematics
 - Parallelism

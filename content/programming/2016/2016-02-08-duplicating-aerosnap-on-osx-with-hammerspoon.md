@@ -2,8 +2,9 @@
 title: Duplicating AeroSnap on OSX with Hammerspoon
 date: 2016-02-08
 programming/languages:
-- Dotfiles
 - Lua
+programming/topics:
+- Dotfiles
 ---
 Relatively recently, I switched my last Windows machine over to OSX. For the most part, it's been great. One bit of functionality that I've been missing though is AeroSnap. Specifically the ability to use a keyboard shortcut to move windows to the left/right half of a monitor.
 

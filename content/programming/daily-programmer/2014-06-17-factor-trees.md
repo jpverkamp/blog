@@ -9,7 +9,7 @@ programming/sources:
 programming/topics:
 - Data Structures
 - Prime Numbers
-- Tree
+- Trees
 ---
 Another five minute challenge[^1], this time from <a href="http://www.reddit.com/r/dailyprogrammer/comments/284uhh/6142014_challenge_166b_intermediate_prime_factor/">/r/dailyprogrammer</a>: given any positive integer, create and render a factor tree.
 

@@ -8,7 +8,13 @@
     	<header>
     		<h1 class="entry-title">
                 <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
+                {{ if eq (len .Data.Pages) 1 }}
+                    (1 post)
+                {{ else }}
+                    ({{ len .Data.Pages }} posts)
+                {{ end }}
             </h1>
+
 
     		<div class="entry-meta">
                 {{ if .Date }}

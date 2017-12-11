@@ -6,6 +6,7 @@ aliases:
 programming/languages:
 - JavaScript
 programming/topics:
+- Email
 - Gmail
 - Userscripts
 ---

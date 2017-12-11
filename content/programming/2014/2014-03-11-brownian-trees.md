@@ -8,7 +8,7 @@ programming/topics:
 - Cellular Automata
 - Graphics
 - Procedural Content
-- Tree
+- Trees
 ---
 Pretty pretty picture time[^1]:
 
