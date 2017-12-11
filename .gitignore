@@ -1,17 +1,3 @@
-# Backup files
-*~
-*.bak
-\#*
-._*
-
-# Windows files
-Thumbs.db
-
-# OSX files
-.DS_Store
-._*
-
-# Build directories
-_build/
-_cache/
-_deploy/
+_copy_content/
+public/
+secrets.yaml

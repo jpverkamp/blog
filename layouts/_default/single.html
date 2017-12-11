@@ -1,0 +1,32 @@
+{{ define "title" }}
+    {{ .Title }} – {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<article>
+	<header>
+		<h1 class="entry-title">{{ .Title }}</h1>
+
+        <div class="entry-meta">
+            {{ if not .Date.IsZero }}
+            <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
+            <!--
+            <span class="entry-date" data-posted-on="{{ .Date.Format "2006-01-02" }}">
+                <span class="month">{{ .Date.Month }}</span>
+                <span class="day">{{ .Date.Day }}</span><span class="sep">, </span>
+                <span class="year">{{ .Date.Year }}</span>
+            </span>
+            -->
+            {{ end }}
+        </div>
+
+        {{ partial "taxonomy-list.html" . }}
+    </header>
+
+	<div class="entry-content">
+		{{ .Content }}
+	</div>
+
+    {{ partial "disqus.html" . }}
+</article>
+{{ end }}

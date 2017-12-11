@@ -1,0 +1,204 @@
+can_comment: 0
+count_comments: '0'
+count_views: '9'
+date_create: '1287349249'
+date_update: '1449439049'
+description: Our family's 70-something RV is in action again.  We went camping near
+  Lake Monroe, near Bloomington, IN.
+farm: 5
+id: '72157625060047915'
+needs_interstitial: 0
+photos:
+- farm: 5
+  id: '5090420829'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090420829/in/album-72157625060047915/
+  secret: d55cbb03cd
+  server: '4112'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4112/5090420829_d55cbb03cd_b.jpg
+    medium: https://farm5.staticflickr.com/4112/5090420829_d55cbb03cd_z.jpg
+    small: https://farm5.staticflickr.com/4112/5090420829_d55cbb03cd_m.jpg
+    square: https://farm5.staticflickr.com/4112/5090420829_d55cbb03cd_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4112/5090420829_d55cbb03cd_t.jpg
+  title: Skylight
+  url: https://farm5.staticflickr.com/4112/5090420829_d55cbb03cd.jpg
+- farm: 5
+  id: '5090423175'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090423175/in/album-72157625060047915/
+  secret: 56a530b297
+  server: '4152'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4152/5090423175_56a530b297_b.jpg
+    medium: https://farm5.staticflickr.com/4152/5090423175_56a530b297_z.jpg
+    small: https://farm5.staticflickr.com/4152/5090423175_56a530b297_m.jpg
+    square: https://farm5.staticflickr.com/4152/5090423175_56a530b297_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4152/5090423175_56a530b297_t.jpg
+  title: Watch Dog
+  url: https://farm5.staticflickr.com/4152/5090423175_56a530b297.jpg
+- farm: 5
+  id: '5091022804'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5091022804/in/album-72157625060047915/
+  secret: 89c932fa8c
+  server: '4132'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4132/5091022804_89c932fa8c_b.jpg
+    medium: https://farm5.staticflickr.com/4132/5091022804_89c932fa8c_z.jpg
+    small: https://farm5.staticflickr.com/4132/5091022804_89c932fa8c_m.jpg
+    square: https://farm5.staticflickr.com/4132/5091022804_89c932fa8c_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4132/5091022804_89c932fa8c_t.jpg
+  title: Colors of Autumn
+  url: https://farm5.staticflickr.com/4132/5091022804_89c932fa8c.jpg
+- farm: 5
+  id: '5091025284'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5091025284/in/album-72157625060047915/
+  secret: bcdab7ece1
+  server: '4148'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4148/5091025284_bcdab7ece1_b.jpg
+    medium: https://farm5.staticflickr.com/4148/5091025284_bcdab7ece1_z.jpg
+    small: https://farm5.staticflickr.com/4148/5091025284_bcdab7ece1_m.jpg
+    square: https://farm5.staticflickr.com/4148/5091025284_bcdab7ece1_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4148/5091025284_bcdab7ece1_t.jpg
+  title: Glowing
+  url: https://farm5.staticflickr.com/4148/5091025284_bcdab7ece1.jpg
+- farm: 5
+  id: '5090430595'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090430595/in/album-72157625060047915/
+  secret: 8a3552bab1
+  server: '4151'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4151/5090430595_8a3552bab1_b.jpg
+    medium: https://farm5.staticflickr.com/4151/5090430595_8a3552bab1_z.jpg
+    small: https://farm5.staticflickr.com/4151/5090430595_8a3552bab1_m.jpg
+    square: https://farm5.staticflickr.com/4151/5090430595_8a3552bab1_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4151/5090430595_8a3552bab1_t.jpg
+  title: Two Trees I
+  url: https://farm5.staticflickr.com/4151/5090430595_8a3552bab1.jpg
+- farm: 5
+  id: '5091030130'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5091030130/in/album-72157625060047915/
+  secret: 3426867fc8
+  server: '4125'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4125/5091030130_3426867fc8_b.jpg
+    medium: https://farm5.staticflickr.com/4125/5091030130_3426867fc8_z.jpg
+    small: https://farm5.staticflickr.com/4125/5091030130_3426867fc8_m.jpg
+    square: https://farm5.staticflickr.com/4125/5091030130_3426867fc8_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4125/5091030130_3426867fc8_t.jpg
+  title: Two Trees II
+  url: https://farm5.staticflickr.com/4125/5091030130_3426867fc8.jpg
+- farm: 5
+  id: '5090434741'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090434741/in/album-72157625060047915/
+  secret: 7f4078c8c0
+  server: '4104'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4104/5090434741_7f4078c8c0_b.jpg
+    medium: https://farm5.staticflickr.com/4104/5090434741_7f4078c8c0_z.jpg
+    small: https://farm5.staticflickr.com/4104/5090434741_7f4078c8c0_m.jpg
+    square: https://farm5.staticflickr.com/4104/5090434741_7f4078c8c0_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4104/5090434741_7f4078c8c0_t.jpg
+  title: Two Trees III
+  url: https://farm5.staticflickr.com/4104/5090434741_7f4078c8c0.jpg
+- farm: 5
+  id: '5091033836'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5091033836/in/album-72157625060047915/
+  secret: d159fa44b6
+  server: '4107'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4107/5091033836_d159fa44b6_b.jpg
+    medium: https://farm5.staticflickr.com/4107/5091033836_d159fa44b6_z.jpg
+    small: https://farm5.staticflickr.com/4107/5091033836_d159fa44b6_m.jpg
+    square: https://farm5.staticflickr.com/4107/5091033836_d159fa44b6_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4107/5091033836_d159fa44b6_t.jpg
+  title: Leaves
+  url: https://farm5.staticflickr.com/4107/5091033836_d159fa44b6.jpg
+- farm: 5
+  id: '5091035284'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5091035284/in/album-72157625060047915/
+  secret: b440129279
+  server: '4103'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4103/5091035284_b440129279_b.jpg
+    medium: https://farm5.staticflickr.com/4103/5091035284_b440129279_z.jpg
+    small: https://farm5.staticflickr.com/4103/5091035284_b440129279_m.jpg
+    square: https://farm5.staticflickr.com/4103/5091035284_b440129279_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4103/5091035284_b440129279_t.jpg
+  title: Underground Power
+  url: https://farm5.staticflickr.com/4103/5091035284_b440129279.jpg
+- farm: 5
+  id: '5090440341'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090440341/in/album-72157625060047915/
+  secret: d9b3bdedc1
+  server: '4149'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4149/5090440341_d9b3bdedc1_b.jpg
+    medium: https://farm5.staticflickr.com/4149/5090440341_d9b3bdedc1_z.jpg
+    small: https://farm5.staticflickr.com/4149/5090440341_d9b3bdedc1_m.jpg
+    square: https://farm5.staticflickr.com/4149/5090440341_d9b3bdedc1_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4149/5090440341_d9b3bdedc1_t.jpg
+  title: Shagbark
+  url: https://farm5.staticflickr.com/4149/5090440341_d9b3bdedc1.jpg
+- farm: 5
+  id: '5090442275'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/5090442275/in/album-72157625060047915/
+  secret: f6e4ae6652
+  server: '4086'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4086/5090442275_f6e4ae6652_b.jpg
+    medium: https://farm5.staticflickr.com/4086/5090442275_f6e4ae6652_z.jpg
+    small: https://farm5.staticflickr.com/4086/5090442275_f6e4ae6652_m.jpg
+    square: https://farm5.staticflickr.com/4086/5090442275_f6e4ae6652_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4086/5090442275_f6e4ae6652_t.jpg
+  title: Colors of Autumn II
+  url: https://farm5.staticflickr.com/4086/5090442275_f6e4ae6652.jpg
+primary: '5090420829'
+secret: d55cbb03cd
+server: '4112'
+title: Return of the RV
+videos: 0
+visibility_can_see_set: 1

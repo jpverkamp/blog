@@ -1,0 +1,203 @@
+can_comment: 0
+count_comments: '0'
+count_views: '14'
+date_create: '1360264841'
+date_update: '1394944840'
+description: 'A collection of photosynths I''ve taken from other sets. '
+farm: 9
+id: '72157632708334517'
+needs_interstitial: 0
+photos:
+- farm: 9
+  id: '8454232214'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8454232214/in/album-72157632708334517/
+  secret: f1f739da6e
+  server: '8112'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8112/8454232214_f1f739da6e_b.jpg
+    medium: https://farm9.staticflickr.com/8112/8454232214_f1f739da6e_z.jpg
+    small: https://farm9.staticflickr.com/8112/8454232214_f1f739da6e_m.jpg
+    square: https://farm9.staticflickr.com/8112/8454232214_f1f739da6e_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8112/8454232214_f1f739da6e_t.jpg
+  title: UCSD Photosynth
+  url: https://farm9.staticflickr.com/8112/8454232214_f1f739da6e.jpg
+- farm: 9
+  id: '8012642880'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8012642880/in/album-72157632708334517/
+  secret: 7712550e66
+  server: '8450'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8450/8012642880_7712550e66_b.jpg
+    medium: https://farm9.staticflickr.com/8450/8012642880_7712550e66_z.jpg
+    small: https://farm9.staticflickr.com/8450/8012642880_7712550e66_m.jpg
+    square: https://farm9.staticflickr.com/8450/8012642880_7712550e66_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8450/8012642880_7712550e66_t.jpg
+  title: Storm Front III
+  url: https://farm9.staticflickr.com/8450/8012642880_7712550e66.jpg
+- farm: 9
+  id: '8012639272'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8012639272/in/album-72157632708334517/
+  secret: 4f78a230d4
+  server: '8173'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8173/8012639272_4f78a230d4_b.jpg
+    medium: https://farm9.staticflickr.com/8173/8012639272_4f78a230d4_z.jpg
+    small: https://farm9.staticflickr.com/8173/8012639272_4f78a230d4_m.jpg
+    square: https://farm9.staticflickr.com/8173/8012639272_4f78a230d4_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8173/8012639272_4f78a230d4_t.jpg
+  title: Storm Front II
+  url: https://farm9.staticflickr.com/8173/8012639272_4f78a230d4.jpg
+- farm: 9
+  id: '8012709501'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8012709501/in/album-72157632708334517/
+  secret: 9985900a11
+  server: '8444'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8444/8012709501_9985900a11_b.jpg
+    medium: https://farm9.staticflickr.com/8444/8012709501_9985900a11_z.jpg
+    small: https://farm9.staticflickr.com/8444/8012709501_9985900a11_m.jpg
+    square: https://farm9.staticflickr.com/8444/8012709501_9985900a11_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8444/8012709501_9985900a11_t.jpg
+  title: Reception
+  url: https://farm9.staticflickr.com/8444/8012709501_9985900a11.jpg
+- farm: 9
+  id: '8012708499'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8012708499/in/album-72157632708334517/
+  secret: a827fca6f4
+  server: '8459'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8459/8012708499_a827fca6f4_b.jpg
+    medium: https://farm9.staticflickr.com/8459/8012708499_a827fca6f4_z.jpg
+    small: https://farm9.staticflickr.com/8459/8012708499_a827fca6f4_m.jpg
+    square: https://farm9.staticflickr.com/8459/8012708499_a827fca6f4_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8459/8012708499_a827fca6f4_t.jpg
+  title: Loyola
+  url: https://farm9.staticflickr.com/8459/8012708499_a827fca6f4.jpg
+- farm: 9
+  id: '8030524206'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8030524206/in/album-72157632708334517/
+  secret: f3378b84e6
+  server: '8460'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8460/8030524206_f3378b84e6_b.jpg
+    medium: https://farm9.staticflickr.com/8460/8030524206_f3378b84e6_z.jpg
+    small: https://farm9.staticflickr.com/8460/8030524206_f3378b84e6_m.jpg
+    square: https://farm9.staticflickr.com/8460/8030524206_f3378b84e6_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8460/8030524206_f3378b84e6_t.jpg
+  title: Stained Glass
+  url: https://farm9.staticflickr.com/8460/8030524206_f3378b84e6.jpg
+- farm: 9
+  id: '8114310181'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8114310181/in/album-72157632708334517/
+  secret: c3f6f4c387
+  server: '8323'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8323/8114310181_c3f6f4c387_b.jpg
+    medium: https://farm9.staticflickr.com/8323/8114310181_c3f6f4c387_z.jpg
+    small: https://farm9.staticflickr.com/8323/8114310181_c3f6f4c387_m.jpg
+    square: https://farm9.staticflickr.com/8323/8114310181_c3f6f4c387_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8323/8114310181_c3f6f4c387_t.jpg
+  title: Light rail - Linthicum Station
+  url: https://farm9.staticflickr.com/8323/8114310181_c3f6f4c387.jpg
+- farm: 9
+  id: '8114265427'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8114265427/in/album-72157632708334517/
+  secret: c20d91ec7e
+  server: '8050'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8050/8114265427_c20d91ec7e_b.jpg
+    medium: https://farm9.staticflickr.com/8050/8114265427_c20d91ec7e_z.jpg
+    small: https://farm9.staticflickr.com/8050/8114265427_c20d91ec7e_m.jpg
+    square: https://farm9.staticflickr.com/8050/8114265427_c20d91ec7e_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8050/8114265427_c20d91ec7e_t.jpg
+  title: Last chance Photosynth
+  url: https://farm9.staticflickr.com/8050/8114265427_c20d91ec7e.jpg
+- farm: 9
+  id: '8456482931'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/8456482931/in/album-72157632708334517/
+  secret: 3a0e4462d6
+  server: '8371'
+  thumbnails:
+    large: https://farm9.staticflickr.com/8371/8456482931_3a0e4462d6_b.jpg
+    medium: https://farm9.staticflickr.com/8371/8456482931_3a0e4462d6_z.jpg
+    small: https://farm9.staticflickr.com/8371/8456482931_3a0e4462d6_m.jpg
+    square: https://farm9.staticflickr.com/8371/8456482931_3a0e4462d6_s.jpg
+    thumbnail: https://farm9.staticflickr.com/8371/8456482931_3a0e4462d6_t.jpg
+  title: Estancia
+  url: https://farm9.staticflickr.com/8371/8456482931_3a0e4462d6.jpg
+- farm: 8
+  id: '9206527270'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/9206527270/in/album-72157632708334517/
+  secret: fb4e5740b5
+  server: '7449'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7449/9206527270_fb4e5740b5_b.jpg
+    medium: https://farm8.staticflickr.com/7449/9206527270_fb4e5740b5_z.jpg
+    small: https://farm8.staticflickr.com/7449/9206527270_fb4e5740b5_m.jpg
+    square: https://farm8.staticflickr.com/7449/9206527270_fb4e5740b5_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7449/9206527270_fb4e5740b5_t.jpg
+  title: Monument at Night
+  url: https://farm8.staticflickr.com/7449/9206527270_fb4e5740b5.jpg
+- farm: 8
+  id: '9203732047'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/9203732047/in/album-72157632708334517/
+  secret: c4ed21129a
+  server: '7345'
+  thumbnails:
+    large: https://farm8.staticflickr.com/7345/9203732047_c4ed21129a_b.jpg
+    medium: https://farm8.staticflickr.com/7345/9203732047_c4ed21129a_z.jpg
+    small: https://farm8.staticflickr.com/7345/9203732047_c4ed21129a_m.jpg
+    square: https://farm8.staticflickr.com/7345/9203732047_c4ed21129a_s.jpg
+    thumbnail: https://farm8.staticflickr.com/7345/9203732047_c4ed21129a_t.jpg
+  title: City Center
+  url: https://farm8.staticflickr.com/7345/9203732047_c4ed21129a.jpg
+primary: '8454232214'
+secret: f1f739da6e
+server: '8112'
+title: Photosynths
+videos: 0
+visibility_can_see_set: 1

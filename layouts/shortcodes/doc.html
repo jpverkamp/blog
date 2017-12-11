@@ -1,0 +1,8 @@
+{{- if eq (.Get 0) "racket"}}
+    {{- $.Scratch.Add "docurl" "http://docs.racket-lang.org/search/index.html?q=%s" -}}
+{{- else if eq (.Get 0) "go" -}}
+    {{- $.Scratch.Add "docurl" "https://godoc.org/?q=%s" -}}
+{{- else if eq (.Get 0) "python" -}}
+    {{- $.Scratch.Add "docurl" "https://docs.python.org/3/search.html?q=cmd" -}}
+{{- end -}}
+<code><a href="{{- replace ($.Scratch.Get "docurl") "%s" (.Get 1) -}}">{{- .Get 1 -}}</a></code>

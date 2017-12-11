@@ -1,0 +1,43 @@
+{{ define "main" }}
+    <div class="entry-content">
+        {{ .Content }}
+    </div>
+
+    {{/* partial "taxonomy-list.html" . */}}
+
+    {{ $last := add (len .Paginator.Pages) -1 }}
+    {{ range $i, $page := .Paginator.Pages }}
+    {{ with $page }}
+    <article class="li">
+    	<header>
+    		<h1 class="entry-title">
+                <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
+            </h1>
+
+    		<div class="entry-meta">
+                {{ if .Date }}
+                <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
+                <!--
+                <span class="entry-date" data-posted-on="{{ .Date.Format "2006-01-02" }}">
+                    <span class="month">{{ .Date.Month }}</span>
+                    <span class="day">{{ .Date.Day }}</span><span class="sep">, </span>
+                    <span class="year">{{ .Date.Year }}</span>
+                </span>
+                -->
+                {{ end }}
+    		</div>
+    	</header>
+    	<div class="entry-content">
+            {{ .Summary }}
+    	</div>
+
+        {{/* Add the HR to all but the last element and the last one only if we have more than one page */}}
+        {{ if or (not (eq $i $last)) (gt $.Paginator.TotalPages 1) }}<hr />{{ end }}
+    </article>
+    {{ end }}
+    {{ end }}
+
+    <nav id="pagination-navigation" role="navigation">
+        {{ template "_internal/pagination.html" . }}
+    </nav>
+{{ end }}

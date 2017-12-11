@@ -1,0 +1,54 @@
+{{- if eq (.Get 0) "date" -}}
+    <div class="post-list">
+        <ul>
+        {{- $.Scratch.Set "current-year" false -}}
+        {{- $.Scratch.Set "current-month" false -}}
+
+        {{- range $.Site.Pages.ByDate -}}
+            {{- if and .IsPage (not (eq .Type "page")) -}}
+                {{/* If we're switching years, start a new list level; if we finished one, close that */}}
+                {{- if not (eq .Date.Year ($.Scratch.Get "current-year")) -}}
+                    {{- if $.Scratch.Get "current-month" -}}</ul></li>{{- end -}}
+                    {{- if $.Scratch.Get "current-year" -}}</ul></li>{{- end -}}
+                    <li>{{- .Date.Year -}}<ul>
+                    {{- $.Scratch.Set "current-year" .Date.Year -}}
+                    {{- $.Scratch.Set "current-month" false -}}
+                {{- end -}}
+
+                {{/* Same as above but for months instead of years */}}
+                {{- if not (eq .Date.Month ($.Scratch.Get "current-month")) -}}
+                    {{- if $.Scratch.Get "current-month" -}}</ul></li>{{- end -}}
+                    <li>{{- .Date.Format "January" -}}<ul>
+                    {{- $.Scratch.Set "current-month" .Date.Month -}}
+                {{- end -}}
+
+                <li><a href="{{- .Permalink -}}">{{- .Title -}}</a> ({{- .Date.Format "2006-01-02" -}})</li>
+            {{- end -}}
+        {{- end -}}
+        {{- if $.Scratch.Get "current-month" -}}</ul></li>{{- end -}}
+        {{- if $.Scratch.Get "current-year" -}}</ul></li>{{- end -}}
+        </ul>
+    </div>
+{{- else if eq (.Get 0) "taxonomy" -}}
+<div class="post-list">
+    <ul id="all-taxonomies">
+    {{- range $taxonomyname, $taxonomy := .Site.Taxonomies -}}
+        <li>
+            <a href="{{- "/" | relLangURL}}{{- $taxonomyname | urlize -}}">{{- $taxonomyname -}}</a>
+            <ul>
+            {{- range $key, $value := $taxonomy -}}
+                <li> {{- $key -}} </li>
+                <ul>
+                {{- range $value.Pages.ByDate -}}
+                    <li><a href="{{- .Permalink -}}">{{- .Title -}}</a> ({{- .Date.Format "2006-01-02" -}})</li>
+                {{- end -}}
+                </ul>
+            {{- end -}}
+            </ul>
+        </li>
+    {{- end -}}
+    </ul>
+</div>
+{{- else -}}
+UNKNOWN ARCHIVE PAGE
+{{- end -}}

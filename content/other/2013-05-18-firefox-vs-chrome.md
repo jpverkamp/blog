@@ -1,0 +1,22 @@
+---
+title: Firefox vs Chrome
+date: 2013-05-18 14:00:49
+---
+Deciding which browser to use has been a bit of a challenge for me. Many years ago, I was something of an Opera fan, but when Firefox rose to dominance, I moved on and never really looked back. For a while after the release of Chrome, I resisted the change, but eventually Chrome's rolling release cycle and just sheer speed convinced me to switch. More recently (about two weeks ago), I've tried switching back to Firefox. Here's what I found:
+
+<!--more-->
+
+
+|          |                                                                                                                                                                     **Firefox**                                                                                                                                                                     |                                                                                                                                                                                                                                                             **Chrome**                                                                                                                                                                                                                                                             |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Pros** |                                                                         * *** **Completely {{< wikipedia "Open Source" >}} * [Zotero](https://www.zotero.org/ "Zotero") integration is much better * Better multiple profile support * More 'under the hood' options accessible                                                                         |                                                                                                                                     * *** **Faster to start * Integration with Google accounts * Better syncing with iOS * Single process per tab [^1] * *** **Just feels faster, particularly in JavaScript heavy pages                                                                                                                                      |
+| **Cons** | * ***** Formatting issues, particularly with Google Docs, Gawker media sites [^2], and [Wordpress](http://wordpress.com/ "Wordpress") * Extensions seem to come to Chrome first now * Video acceleration doesn't work for Flash (green screen) | * *** **Run by Google [^3] * Less support for more powerful plugins [^4] * [KeePass ](http://keepass.info/ "KeePass Password Safe")autotype is sluggish |
+
+<span style="font-size: smaller;">***** - Particularly important issues, purely in my opinion.</span>
+
+In the end, I stayed with Firefox for about two weeks. Right now, I'm back to Chrome. It just seems to work more smoothly. Given that the majority of my day is spent either on the command line or in a web browser, I need one that will work well and not crash. Firefox just doesn't quite work for me right now. Perhaps I'll try again in a few months.
+
+[^1]: Which can also be a con when trying to figure out total useage
+[^2]: [Lifehacker ](http://lifehacker.com "Lifehacker")and [io9](http://io9.com "io9") in particular
+[^3]: Yes, I'm still bitter about [Google Reader](https://www.google.com/reader/view/ "R.I.P. Google Reader :\(")...
+[^4]: [DownThemAll](https://addons.mozilla.org/en-US/firefox/addon/downthemall/ "DownThemAll for Firefox") / [NoScript](https://addons.mozilla.org/en-us/firefox/addon/noscript/ "NoScript for Firefox") / [Zotero](https://www.zotero.org/ "Zotero")

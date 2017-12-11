@@ -1,16 +1,45 @@
 title: jverkamp.com
-author: John-Paul Verkamp
-url: http://localhost:8000
-deploy-url: //blog.jverkamp.com
-deploy-repo: git@github.com:jpverkamp/jpverkamp.github.io.git
+languageCode: en-us
+baseURL: https://blog.jverkamp.com/
+pygmentsCodeFences: true
+pluralizelisttitles: false
+preserveTaxonomyNames: true
+enableEmoji: true
 
-permalink: "{year}/{month}/{day}/{slug}"
+params:
+    listTermsPerTaxonomy: 10
+    disqusShortname: jverkamp
+    disqusBaseURL: https://blog.jverkamp.com
 
-atom-posts: 10
+rssLimit: 10
+outputFormats:
+  RSS:
+    mediatype: "application/rss"
+    baseName: "atom"
 
-disqus-shortname: jverkamp
+permalinks:
+    photography: /:year/:month/:day/:title/
+    programming: /:year/:month/:day/:title/
+    research: /:year/:month/:day/:title/
+    writing: /:year/:month/:day/:title/
+    reviews: /:year/:month/:day/:title/
+    other: /:year/:month/:day/:title/
+    page: /:title/
 
-redirects:
-    2016/12/02/inlining-plaintext-attachments-in-gmail: /2016/01/02/inlining-plaintext-attachments-in-gmail/
-    2016/12/04/command-line-emoji-search: /2016/01/04/command-line-emoji-search/
-    2016/12/06/command-line-unicode-search/index.html: /2016/01/06/command-line-unicode-search/
+taxonomies:
+    series: series
+
+    reviews/list: reviews/lists
+    reviews/series: reviews/series
+
+    photography/type: photography/types
+
+    programming/language: programming/languages
+    programming/source: programming/sources
+    programming/topic: programming/topics
+
+    writing/genre: writing/genres
+    writing/type: writing/types
+    writing/novel: writing/novels
+
+# disqusShortname: "yourdiscussshortname"

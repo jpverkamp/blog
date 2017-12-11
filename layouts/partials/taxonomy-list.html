@@ -1,0 +1,83 @@
+<div class="entry-tags">
+    {{ $params := $.Params }}
+    {{ $listTermsPerTaxonomy := $.Site.Params.listTermsPerTaxonomy }}
+
+    <ul class="taxonomy-keys">
+    {{ range $taxonomy_name, $taxonomy := $.Site.Taxonomies }}
+        {{ $taxonomy_name_parts := split $taxonomy_name "/" }}
+        {{ $last_part := add (len $taxonomy_name_parts) -1 }}
+
+        {{ $renderTaxonomyIfPage := index $params $taxonomy_name }}
+        {{ $renderTaxonomyIfList := and (hasPrefix $taxonomy_name $.Section) $taxonomy }}
+
+        {{ if or (and $.IsPage $renderTaxonomyIfPage) (and (not $.IsPage) $renderTaxonomyIfList) }}
+        <li>
+            <a class="taxonomy-key" href="/{{ $taxonomy_name | urlize }}/">{{ index $taxonomy_name_parts $last_part | title }}</a>
+            <ul class="taxonomy-values">
+            {{ $.Scratch.Set "counter" 0 }}
+            {{ range $term, $pages := $taxonomy }}
+                {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+
+                {{ $renderTermIfPage := in (index $params $taxonomy_name) $term }}
+                {{ $renderTermIfList := le ($.Scratch.Get "counter") $listTermsPerTaxonomy }}
+
+                {{ if or (and $.IsPage $renderTermIfPage) (and (not $.IsPage) $renderTermIfList) }}
+                    {{/* Get the current index of this page with the taxonomy for next/previous links */}}
+                    {{ $.Scratch.Set "page-index" -10 }}
+                    {{ range $index, $page := $pages }}
+                        {{ if eq $page.Permalink $.Permalink }}
+                            {{ $.Scratch.Set "page-index" $index }}
+                        {{ end }}
+                    {{ end }}
+
+                    {{ $prevPage := index $pages (add ($.Scratch.Get "page-index") 1) }}
+                    {{ $nextPage := index $pages (add ($.Scratch.Get "page-index") -1) }}
+
+                    <li>
+                        {{ if $prevPage }}<a href="{{ $prevPage.Permalink }}" class="previous-link"></a>{{ end }}
+                        <a class="taxonomy-value" href="/{{ $taxonomy_name | urlize }}/{{ $term | urlize }}">{{ $term }}</a>
+                        {{ if $nextPage }}<a href="{{ $nextPage.Permalink }}" class="next-link"></a>{{ end }}
+                    </li>
+                {{ end }}
+            {{ end }}
+            {{ if and (not $.IsPage) (gt ($.Scratch.Get "counter") $listTermsPerTaxonomy) }}
+                <li><a class="taxonomy-value" href="/{{ $taxonomy_name | urlize }}/">...</a></li>
+            {{ end }}
+            </ul>
+        </li>
+        {{ end }}
+    {{ end }}
+
+    {{ if $.IsPage }}
+        {{ if $.Section }}
+        <li><a class="taxonomy-key" href="/{{ $.Section | urlize }}">{{ $.Section }}</a>
+            <ul>
+                <li>
+                {{ if .Page.Position.PrevInSection }}
+                <a href="{{ .Page.Position.PrevInSection.Permalink }}" class="previous-link">Prev</a>
+                {{ end }}
+
+                {{ if .Page.Position.NextInSection }}
+                <a href="{{ .Page.Position.NextInSection.Permalink }}" class="next-link">Next</a>
+                {{ end }}
+            </ul>
+        </li>
+        {{ end }}
+
+        {{ if not (eq $.Type "page") }}
+        <li><a class="taxonomy-key" href="/">All Posts</a>
+            <ul>
+                <li>
+                {{ if .Page.Position.Next }}
+                <a href="{{ .Page.Position.Next.Permalink }}" class="previous-link">Prev</a>
+                {{ end }}
+
+                {{ if .Page.Position.Prev }}
+                <a href="{{ .Page.Position.Prev.Permalink }}" class="next-link">Next</a>
+                {{ end }}
+            </ul>
+        </li>
+        {{ end }}
+    {{ end }}
+    </ul>
+</div>

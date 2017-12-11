@@ -1,0 +1,137 @@
+can_comment: 0
+count_comments: '0'
+count_views: '5'
+date_create: '1228271356'
+date_update: '1394944840'
+description: I couldn't sleep and there was a full moon so I decided to go out and
+  take some pictures.  Some are at the church in Ferdinand, IN and the rest are at
+  the Bretzville intersection.
+farm: 4
+id: '72157610598857849'
+needs_interstitial: 0
+photos:
+- farm: 4
+  id: '3078215815'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078215815/in/album-72157610598857849/
+  secret: 239798ff7d
+  server: '3006'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3006/3078215815_239798ff7d_b.jpg
+    medium: https://farm4.staticflickr.com/3006/3078215815_239798ff7d_z.jpg
+    small: https://farm4.staticflickr.com/3006/3078215815_239798ff7d_m.jpg
+    square: https://farm4.staticflickr.com/3006/3078215815_239798ff7d_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3006/3078215815_239798ff7d_t.jpg
+  title: Church Doors
+  url: https://farm4.staticflickr.com/3006/3078215815_239798ff7d.jpg
+- farm: 4
+  id: '3078216159'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078216159/in/album-72157610598857849/
+  secret: 91e659c6e4
+  server: '3150'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3150/3078216159_91e659c6e4_b.jpg
+    medium: https://farm4.staticflickr.com/3150/3078216159_91e659c6e4_z.jpg
+    small: https://farm4.staticflickr.com/3150/3078216159_91e659c6e4_m.jpg
+    square: https://farm4.staticflickr.com/3150/3078216159_91e659c6e4_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3150/3078216159_91e659c6e4_t.jpg
+  title: _
+  url: https://farm4.staticflickr.com/3150/3078216159_91e659c6e4.jpg
+- farm: 4
+  id: '3078217045'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078217045/in/album-72157610598857849/
+  secret: f82bb6bcb6
+  server: '3023'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3023/3078217045_f82bb6bcb6_b.jpg
+    medium: https://farm4.staticflickr.com/3023/3078217045_f82bb6bcb6_z.jpg
+    small: https://farm4.staticflickr.com/3023/3078217045_f82bb6bcb6_m.jpg
+    square: https://farm4.staticflickr.com/3023/3078217045_f82bb6bcb6_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3023/3078217045_f82bb6bcb6_t.jpg
+  title: Moonlit Cross in Green
+  url: https://farm4.staticflickr.com/3023/3078217045_f82bb6bcb6.jpg
+- farm: 4
+  id: '3078218223'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078218223/in/album-72157610598857849/
+  secret: 51d4722d70
+  server: '3069'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3069/3078218223_51d4722d70_b.jpg
+    medium: https://farm4.staticflickr.com/3069/3078218223_51d4722d70_z.jpg
+    small: https://farm4.staticflickr.com/3069/3078218223_51d4722d70_m.jpg
+    square: https://farm4.staticflickr.com/3069/3078218223_51d4722d70_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3069/3078218223_51d4722d70_t.jpg
+  title: Moonlit Cross in Orange
+  url: https://farm4.staticflickr.com/3069/3078218223_51d4722d70.jpg
+- farm: 4
+  id: '3078219567'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078219567/in/album-72157610598857849/
+  secret: 3181d15cf4
+  server: '3041'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3041/3078219567_3181d15cf4_b.jpg
+    medium: https://farm4.staticflickr.com/3041/3078219567_3181d15cf4_z.jpg
+    small: https://farm4.staticflickr.com/3041/3078219567_3181d15cf4_m.jpg
+    square: https://farm4.staticflickr.com/3041/3078219567_3181d15cf4_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3041/3078219567_3181d15cf4_t.jpg
+  title: Shadow Cross
+  url: https://farm4.staticflickr.com/3041/3078219567_3181d15cf4.jpg
+- farm: 4
+  id: '3079051966'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3079051966/in/album-72157610598857849/
+  secret: 2822d0209e
+  server: '3280'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3280/3079051966_2822d0209e_b.jpg
+    medium: https://farm4.staticflickr.com/3280/3079051966_2822d0209e_z.jpg
+    small: https://farm4.staticflickr.com/3280/3079051966_2822d0209e_m.jpg
+    square: https://farm4.staticflickr.com/3280/3079051966_2822d0209e_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3280/3079051966_2822d0209e_t.jpg
+  title: Midnight Glare
+  url: https://farm4.staticflickr.com/3280/3079051966_2822d0209e.jpg
+- farm: 4
+  id: '3078220963'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/3078220963/in/album-72157610598857849/
+  secret: c96cc97527
+  server: '3182'
+  thumbnails:
+    large: https://farm4.staticflickr.com/3182/3078220963_c96cc97527_b.jpg
+    medium: https://farm4.staticflickr.com/3182/3078220963_c96cc97527_z.jpg
+    small: https://farm4.staticflickr.com/3182/3078220963_c96cc97527_m.jpg
+    square: https://farm4.staticflickr.com/3182/3078220963_c96cc97527_s.jpg
+    thumbnail: https://farm4.staticflickr.com/3182/3078220963_c96cc97527_t.jpg
+  title: Red Intersection
+  url: https://farm4.staticflickr.com/3182/3078220963_c96cc97527.jpg
+primary: '3078215815'
+secret: 239798ff7d
+server: '3006'
+title: Midnight Walk
+videos: 0
+visibility_can_see_set: 1

@@ -1,0 +1,24 @@
+{{ define "main" }}
+    <div class="entry-content">
+        {{ .Content }}
+    </div>
+
+    {{ range .Pages }}
+    <article class="li">
+    	<header>
+    		<h1 class="entry-title">
+                <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
+            </h1>
+
+    		<div class="entry-meta">
+                {{ if .Date }}
+                <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
+                {{ end }}
+    		</div>
+    	</header>
+
+    	<div class="entry-content">
+    	</div>
+    </article>
+    {{ end }}
+{{ end }}

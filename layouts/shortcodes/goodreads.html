@@ -1,0 +1,28 @@
+{{- if .Get "author" -}}
+    {{- with index $.Site.Data.goodreads.authors (.Get "author") -}}
+    <a data-goodreads-type="author" data-goodreads-id="{{ .id }}" href="https://www.goodreads.com{{ .url }}">{{ or ($.Get "text") .name }}</a>
+    {{- end -}}
+{{- else if .Get "book" -}}
+    {{- with index $.Site.Data.goodreads.books (.Get "book") -}}
+        {{- if $.Get "cover" -}}
+            <figure class="cover-image">
+                <a data-goodreads-type="book" data-goodreads-id="{{ .id }}" href="https://www.goodreads.com{{ .url }}">
+                    {{- if or .localCover .cover -}}
+                    <img src="{{ or .localCover .cover }}">
+                    {{- else -}}
+                    <div class="missing-cover">
+                        <img class="missing-cover" src="/missing-cover.jpg" alt="{{ .name }}">
+                        <div class="overlay">{{ .name }}<br><br>{{ .author }}</div>
+                    </div>
+                    {{ end }}
+                </a>
+            </figure>
+        {{- else -}}
+            <a data-goodreads-type="book" data-goodreads-id="{{ .id }}" href="https://www.goodreads.com{{ .url }}">{{ or ($.Get "text") .name }}</a>
+        {{- end -}}
+    {{- end -}}
+{{- else if .Get "series" -}}
+    {{- with index $.Site.Data.goodreads.series (.Get "series") -}}
+    <a data-goodreads-type="series" data-goodreads-id="{{ .id }}" href="https://www.goodreads.com{{ .url }}">{{ or ($.Get "text") .name }}</a>
+    {{- end -}}
+{{- end -}}

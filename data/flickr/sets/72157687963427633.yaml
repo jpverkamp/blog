@@ -1,0 +1,169 @@
+can_comment: 0
+count_comments: '0'
+count_views: '0'
+date_create: '1507925673'
+date_update: '1512928170'
+description: Took a vacation to Chicago. Not too many pictures, but a few.
+farm: 5
+id: '72157687963427633'
+needs_interstitial: 0
+photos:
+- farm: 5
+  id: '37007537793'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37007537793/in/album-72157687963427633/
+  secret: 0e30757c48
+  server: '4484'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4484/37007537793_0e30757c48_b.jpg
+    medium: https://farm5.staticflickr.com/4484/37007537793_0e30757c48_z.jpg
+    small: https://farm5.staticflickr.com/4484/37007537793_0e30757c48_m.jpg
+    square: https://farm5.staticflickr.com/4484/37007537793_0e30757c48_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4484/37007537793_0e30757c48_t.jpg
+  title: Modern Life
+  url: https://farm5.staticflickr.com/4484/37007537793_0e30757c48.jpg
+- farm: 5
+  id: '37420423870'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37420423870/in/album-72157687963427633/
+  secret: 53a4191158
+  server: '4470'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4470/37420423870_53a4191158_b.jpg
+    medium: https://farm5.staticflickr.com/4470/37420423870_53a4191158_z.jpg
+    small: https://farm5.staticflickr.com/4470/37420423870_53a4191158_m.jpg
+    square: https://farm5.staticflickr.com/4470/37420423870_53a4191158_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4470/37420423870_53a4191158_t.jpg
+  title: Skyline
+  url: https://farm5.staticflickr.com/4470/37420423870_53a4191158.jpg
+- farm: 5
+  id: '37420427840'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37420427840/in/album-72157687963427633/
+  secret: bf9b1155da
+  server: '4445'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4445/37420427840_bf9b1155da_b.jpg
+    medium: https://farm5.staticflickr.com/4445/37420427840_bf9b1155da_z.jpg
+    small: https://farm5.staticflickr.com/4445/37420427840_bf9b1155da_m.jpg
+    square: https://farm5.staticflickr.com/4445/37420427840_bf9b1155da_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4445/37420427840_bf9b1155da_t.jpg
+  title: Photo Op
+  url: https://farm5.staticflickr.com/4445/37420427840_bf9b1155da.jpg
+- farm: 5
+  id: '37678647421'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37678647421/in/album-72157687963427633/
+  secret: 7e0961821a
+  server: '4466'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4466/37678647421_7e0961821a_b.jpg
+    medium: https://farm5.staticflickr.com/4466/37678647421_7e0961821a_z.jpg
+    small: https://farm5.staticflickr.com/4466/37678647421_7e0961821a_m.jpg
+    square: https://farm5.staticflickr.com/4466/37678647421_7e0961821a_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4466/37678647421_7e0961821a_t.jpg
+  title: FO328
+  url: https://farm5.staticflickr.com/4466/37678647421_7e0961821a.jpg
+- farm: 5
+  id: '37420436270'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37420436270/in/album-72157687963427633/
+  secret: 7cec3aa367
+  server: '4470'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4470/37420436270_7cec3aa367_b.jpg
+    medium: https://farm5.staticflickr.com/4470/37420436270_7cec3aa367_z.jpg
+    small: https://farm5.staticflickr.com/4470/37420436270_7cec3aa367_m.jpg
+    square: https://farm5.staticflickr.com/4470/37420436270_7cec3aa367_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4470/37420436270_7cec3aa367_t.jpg
+  title: Overgrown
+  url: https://farm5.staticflickr.com/4470/37420436270_7cec3aa367.jpg
+- farm: 5
+  id: '36968342854'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/36968342854/in/album-72157687963427633/
+  secret: f714ae36b5
+  server: '4507'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4507/36968342854_f714ae36b5_b.jpg
+    medium: https://farm5.staticflickr.com/4507/36968342854_f714ae36b5_z.jpg
+    small: https://farm5.staticflickr.com/4507/36968342854_f714ae36b5_m.jpg
+    square: https://farm5.staticflickr.com/4507/36968342854_f714ae36b5_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4507/36968342854_f714ae36b5_t.jpg
+  title: Flowerlight
+  url: https://farm5.staticflickr.com/4507/36968342854_f714ae36b5.jpg
+- farm: 5
+  id: '37678604641'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37678604641/in/album-72157687963427633/
+  secret: 0b85f60523
+  server: '4490'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4490/37678604641_0b85f60523_b.jpg
+    medium: https://farm5.staticflickr.com/4490/37678604641_0b85f60523_z.jpg
+    small: https://farm5.staticflickr.com/4490/37678604641_0b85f60523_m.jpg
+    square: https://farm5.staticflickr.com/4490/37678604641_0b85f60523_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4490/37678604641_0b85f60523_t.jpg
+  title: Fish!
+  url: https://farm5.staticflickr.com/4490/37678604641_0b85f60523.jpg
+- farm: 5
+  id: '37645672542'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/37645672542/in/album-72157687963427633/
+  secret: f2d878f2f9
+  server: '4469'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4469/37645672542_f2d878f2f9_b.jpg
+    medium: https://farm5.staticflickr.com/4469/37645672542_f2d878f2f9_z.jpg
+    small: https://farm5.staticflickr.com/4469/37645672542_f2d878f2f9_m.jpg
+    square: https://farm5.staticflickr.com/4469/37645672542_f2d878f2f9_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4469/37645672542_f2d878f2f9_t.jpg
+  title: Lighthouse Slide
+  url: https://farm5.staticflickr.com/4469/37645672542_f2d878f2f9.jpg
+- farm: 5
+  id: '23848270938'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/23848270938/in/album-72157687963427633/
+  secret: 2139197a6a
+  server: '4476'
+  thumbnails:
+    large: https://farm5.staticflickr.com/4476/23848270938_2139197a6a_b.jpg
+    medium: https://farm5.staticflickr.com/4476/23848270938_2139197a6a_z.jpg
+    small: https://farm5.staticflickr.com/4476/23848270938_2139197a6a_m.jpg
+    square: https://farm5.staticflickr.com/4476/23848270938_2139197a6a_s.jpg
+    thumbnail: https://farm5.staticflickr.com/4476/23848270938_2139197a6a_t.jpg
+  title: Saint Mary of the Angels
+  url: https://farm5.staticflickr.com/4476/23848270938_2139197a6a.jpg
+primary: '37007537793'
+secret: 0e30757c48
+server: '4484'
+title: Chicago 2017
+videos: 0
+visibility_can_see_set: 1

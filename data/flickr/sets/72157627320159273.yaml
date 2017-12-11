@@ -1,0 +1,326 @@
+can_comment: 0
+count_comments: '0'
+count_views: '32'
+date_create: '1313468206'
+date_update: '1454227014'
+description: "Several photosets from our family vacation on the west coast. We started\
+  \ in Phoenix, went to a few nearby things, then up the entire west coast to the\
+  \ Olympic Peninsula. \n\nThis is the fourth set, from Amboy Crater. It wasn't on\
+  \ our schedule and we didn't even know it was there, but when we saw a sign saying\
+  \ 'Crater' we had to stop. Turns out it's a volcano. Who'da thunk?"
+farm: 7
+id: '72157627320159273'
+needs_interstitial: 0
+photos:
+- farm: 7
+  id: '6048472974'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048472974/in/album-72157627320159273/
+  secret: eb1d11db7a
+  server: '6182'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6182/6048472974_eb1d11db7a_b.jpg
+    medium: https://farm7.staticflickr.com/6182/6048472974_eb1d11db7a_z.jpg
+    small: https://farm7.staticflickr.com/6182/6048472974_eb1d11db7a_m.jpg
+    square: https://farm7.staticflickr.com/6182/6048472974_eb1d11db7a_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6182/6048472974_eb1d11db7a_t.jpg
+  title: Clouds I
+  url: https://farm7.staticflickr.com/6182/6048472974_eb1d11db7a.jpg
+- farm: 7
+  id: '6048473658'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048473658/in/album-72157627320159273/
+  secret: 7060084fc7
+  server: '6081'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6081/6048473658_7060084fc7_b.jpg
+    medium: https://farm7.staticflickr.com/6081/6048473658_7060084fc7_z.jpg
+    small: https://farm7.staticflickr.com/6081/6048473658_7060084fc7_m.jpg
+    square: https://farm7.staticflickr.com/6081/6048473658_7060084fc7_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6081/6048473658_7060084fc7_t.jpg
+  title: Clouds II
+  url: https://farm7.staticflickr.com/6081/6048473658_7060084fc7.jpg
+- farm: 7
+  id: '6048474416'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048474416/in/album-72157627320159273/
+  secret: 1a32609b3d
+  server: '6077'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6077/6048474416_1a32609b3d_b.jpg
+    medium: https://farm7.staticflickr.com/6077/6048474416_1a32609b3d_z.jpg
+    small: https://farm7.staticflickr.com/6077/6048474416_1a32609b3d_m.jpg
+    square: https://farm7.staticflickr.com/6077/6048474416_1a32609b3d_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6077/6048474416_1a32609b3d_t.jpg
+  title: Spiny Trees
+  url: https://farm7.staticflickr.com/6077/6048474416_1a32609b3d.jpg
+- farm: 7
+  id: '6047922241'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047922241/in/album-72157627320159273/
+  secret: 0ff467a5e7
+  server: '6193'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6193/6047922241_0ff467a5e7_b.jpg
+    medium: https://farm7.staticflickr.com/6193/6047922241_0ff467a5e7_z.jpg
+    small: https://farm7.staticflickr.com/6193/6047922241_0ff467a5e7_m.jpg
+    square: https://farm7.staticflickr.com/6193/6047922241_0ff467a5e7_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6193/6047922241_0ff467a5e7_t.jpg
+  title: Town & Country Store
+  url: https://farm7.staticflickr.com/6193/6047922241_0ff467a5e7.jpg
+- farm: 7
+  id: '6047922969'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047922969/in/album-72157627320159273/
+  secret: 1dd0acf9d6
+  server: '6186'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6186/6047922969_1dd0acf9d6_b.jpg
+    medium: https://farm7.staticflickr.com/6186/6047922969_1dd0acf9d6_z.jpg
+    small: https://farm7.staticflickr.com/6186/6047922969_1dd0acf9d6_m.jpg
+    square: https://farm7.staticflickr.com/6186/6047922969_1dd0acf9d6_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6186/6047922969_1dd0acf9d6_t.jpg
+  title: Desert I
+  url: https://farm7.staticflickr.com/6186/6047922969_1dd0acf9d6.jpg
+- farm: 7
+  id: '6047924311'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047924311/in/album-72157627320159273/
+  secret: 5ba737bb60
+  server: '6064'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6064/6047924311_5ba737bb60_b.jpg
+    medium: https://farm7.staticflickr.com/6064/6047924311_5ba737bb60_z.jpg
+    small: https://farm7.staticflickr.com/6064/6047924311_5ba737bb60_m.jpg
+    square: https://farm7.staticflickr.com/6064/6047924311_5ba737bb60_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6064/6047924311_5ba737bb60_t.jpg
+  title: Desert II
+  url: https://farm7.staticflickr.com/6064/6047924311_5ba737bb60.jpg
+- farm: 7
+  id: '6048478630'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048478630/in/album-72157627320159273/
+  secret: 54cbfe2a7e
+  server: '6063'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6063/6048478630_54cbfe2a7e_b.jpg
+    medium: https://farm7.staticflickr.com/6063/6048478630_54cbfe2a7e_z.jpg
+    small: https://farm7.staticflickr.com/6063/6048478630_54cbfe2a7e_m.jpg
+    square: https://farm7.staticflickr.com/6063/6048478630_54cbfe2a7e_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6063/6048478630_54cbfe2a7e_t.jpg
+  title: Amboy Crater
+  url: https://farm7.staticflickr.com/6063/6048478630_54cbfe2a7e.jpg
+- farm: 7
+  id: '6047926683'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047926683/in/album-72157627320159273/
+  secret: ce77f9f0de
+  server: '6088'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6088/6047926683_ce77f9f0de_b.jpg
+    medium: https://farm7.staticflickr.com/6088/6047926683_ce77f9f0de_z.jpg
+    small: https://farm7.staticflickr.com/6088/6047926683_ce77f9f0de_m.jpg
+    square: https://farm7.staticflickr.com/6088/6047926683_ce77f9f0de_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6088/6047926683_ce77f9f0de_t.jpg
+  title: Reflection
+  url: https://farm7.staticflickr.com/6088/6047926683_ce77f9f0de.jpg
+- farm: 7
+  id: '6048481216'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048481216/in/album-72157627320159273/
+  secret: d8df3867e3
+  server: '6190'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6190/6048481216_d8df3867e3_b.jpg
+    medium: https://farm7.staticflickr.com/6190/6048481216_d8df3867e3_z.jpg
+    small: https://farm7.staticflickr.com/6190/6048481216_d8df3867e3_m.jpg
+    square: https://farm7.staticflickr.com/6190/6048481216_d8df3867e3_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6190/6048481216_d8df3867e3_t.jpg
+  title: Black Rock I
+  url: https://farm7.staticflickr.com/6190/6048481216_d8df3867e3.jpg
+- farm: 7
+  id: '6047929053'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047929053/in/album-72157627320159273/
+  secret: b63cc3e67b
+  server: '6208'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6208/6047929053_b63cc3e67b_b.jpg
+    medium: https://farm7.staticflickr.com/6208/6047929053_b63cc3e67b_z.jpg
+    small: https://farm7.staticflickr.com/6208/6047929053_b63cc3e67b_m.jpg
+    square: https://farm7.staticflickr.com/6208/6047929053_b63cc3e67b_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6208/6047929053_b63cc3e67b_t.jpg
+  title: Black Rock II
+  url: https://farm7.staticflickr.com/6208/6047929053_b63cc3e67b.jpg
+- farm: 7
+  id: '6048484278'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048484278/in/album-72157627320159273/
+  secret: 6fdc7203f6
+  server: '6079'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6079/6048484278_6fdc7203f6_b.jpg
+    medium: https://farm7.staticflickr.com/6079/6048484278_6fdc7203f6_z.jpg
+    small: https://farm7.staticflickr.com/6079/6048484278_6fdc7203f6_m.jpg
+    square: https://farm7.staticflickr.com/6079/6048484278_6fdc7203f6_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6079/6048484278_6fdc7203f6_t.jpg
+  title: Amboy I
+  url: https://farm7.staticflickr.com/6079/6048484278_6fdc7203f6.jpg
+- farm: 7
+  id: '6048485376'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048485376/in/album-72157627320159273/
+  secret: 075218e29c
+  server: '6210'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6210/6048485376_075218e29c_b.jpg
+    medium: https://farm7.staticflickr.com/6210/6048485376_075218e29c_z.jpg
+    small: https://farm7.staticflickr.com/6210/6048485376_075218e29c_m.jpg
+    square: https://farm7.staticflickr.com/6210/6048485376_075218e29c_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6210/6048485376_075218e29c_t.jpg
+  title: Amboy II
+  url: https://farm7.staticflickr.com/6210/6048485376_075218e29c.jpg
+- farm: 7
+  id: '6047933241'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047933241/in/album-72157627320159273/
+  secret: '7992487558'
+  server: '6090'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6090/6047933241_7992487558_b.jpg
+    medium: https://farm7.staticflickr.com/6090/6047933241_7992487558_z.jpg
+    small: https://farm7.staticflickr.com/6090/6047933241_7992487558_m.jpg
+    square: https://farm7.staticflickr.com/6090/6047933241_7992487558_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6090/6047933241_7992487558_t.jpg
+  title: Path
+  url: https://farm7.staticflickr.com/6090/6047933241_7992487558.jpg
+- farm: 7
+  id: '6048487176'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048487176/in/album-72157627320159273/
+  secret: 567e53cd66
+  server: '6078'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6078/6048487176_567e53cd66_b.jpg
+    medium: https://farm7.staticflickr.com/6078/6048487176_567e53cd66_z.jpg
+    small: https://farm7.staticflickr.com/6078/6048487176_567e53cd66_m.jpg
+    square: https://farm7.staticflickr.com/6078/6048487176_567e53cd66_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6078/6048487176_567e53cd66_t.jpg
+  title: Handicapped
+  url: https://farm7.staticflickr.com/6078/6048487176_567e53cd66.jpg
+- farm: 7
+  id: '6048488068'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048488068/in/album-72157627320159273/
+  secret: 626f96f3dd
+  server: '6085'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6085/6048488068_626f96f3dd_b.jpg
+    medium: https://farm7.staticflickr.com/6085/6048488068_626f96f3dd_z.jpg
+    small: https://farm7.staticflickr.com/6085/6048488068_626f96f3dd_m.jpg
+    square: https://farm7.staticflickr.com/6085/6048488068_626f96f3dd_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6085/6048488068_626f96f3dd_t.jpg
+  title: No Campfires
+  url: https://farm7.staticflickr.com/6085/6048488068_626f96f3dd.jpg
+- farm: 7
+  id: '6048489222'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048489222/in/album-72157627320159273/
+  secret: b7dacd5981
+  server: '6188'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6188/6048489222_b7dacd5981_b.jpg
+    medium: https://farm7.staticflickr.com/6188/6048489222_b7dacd5981_z.jpg
+    small: https://farm7.staticflickr.com/6188/6048489222_b7dacd5981_m.jpg
+    square: https://farm7.staticflickr.com/6188/6048489222_b7dacd5981_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6188/6048489222_b7dacd5981_t.jpg
+  title: Rocks
+  url: https://farm7.staticflickr.com/6188/6048489222_b7dacd5981.jpg
+- farm: 7
+  id: '6047937299'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6047937299/in/album-72157627320159273/
+  secret: 143e494ab9
+  server: '6194'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6194/6047937299_143e494ab9_b.jpg
+    medium: https://farm7.staticflickr.com/6194/6047937299_143e494ab9_z.jpg
+    small: https://farm7.staticflickr.com/6194/6047937299_143e494ab9_m.jpg
+    square: https://farm7.staticflickr.com/6194/6047937299_143e494ab9_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6194/6047937299_143e494ab9_t.jpg
+  title: Amboy Sign
+  url: https://farm7.staticflickr.com/6194/6047937299_143e494ab9.jpg
+- farm: 7
+  id: '6048491048'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/6048491048/in/album-72157627320159273/
+  secret: a2826cd7eb
+  server: '6204'
+  thumbnails:
+    large: https://farm7.staticflickr.com/6204/6048491048_a2826cd7eb_b.jpg
+    medium: https://farm7.staticflickr.com/6204/6048491048_a2826cd7eb_z.jpg
+    small: https://farm7.staticflickr.com/6204/6048491048_a2826cd7eb_m.jpg
+    square: https://farm7.staticflickr.com/6204/6048491048_a2826cd7eb_s.jpg
+    thumbnail: https://farm7.staticflickr.com/6204/6048491048_a2826cd7eb_t.jpg
+  title: Clouds III
+  url: https://farm7.staticflickr.com/6204/6048491048_a2826cd7eb.jpg
+primary: '6048472974'
+secret: eb1d11db7a
+server: '6182'
+title: Go West IV - Amboy Crater
+videos: 0
+visibility_can_see_set: 1
