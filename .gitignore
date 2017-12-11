@@ -1,3 +1,4 @@
 secrets.yaml
 *.pyc
 __pycache__
+public/
