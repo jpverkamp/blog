@@ -16,4 +16,9 @@ run:
 	hugo server
 
 build:
+	rm -rf public/*
 	hugo
+	cd public; git status
+
+deploy: build
+	cd public; git add .; git commit -m "Automatic deployment"; git push origin HEAD
