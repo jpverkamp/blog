@@ -1,3 +1,5 @@
+last_commit = $(shell git log -1 --pretty=%B | head -n 1)
+
 import:
 	# Import all my photosets from flickr and generate a page for each of them
 	python3 scripts/import-flickr.py --generate
@@ -15,5 +17,10 @@ build:
 	hugo
 	cd public; git status
 
+test:
+	echo ${last_commit}
+
 deploy: build
-	cd public; git add .; git commit -m "Automatic deployment"; git push origin master
+	cd public; git add .
+	cd public; git commit -m "Automatic deployment (${last_commit})"
+	cd public; git push origin master
