@@ -13,8 +13,10 @@ run:
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
+	cd public; git wipe; git up
 	rm -rf public/*
 	hugo
+	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html 
 	cd public; git status
 
 test:
