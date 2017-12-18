@@ -9,6 +9,7 @@ import:
 	python3 scripts/import-goodreads.py --reviews --validate
 
 run:
+	sleep 5 && open http://localhost:1313/ &
 	hugo server
 
 build:
@@ -16,7 +17,7 @@ build:
 	cd public; git wipe; git up
 	rm -rf public/*
 	hugo
-	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html 
+	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
 
 test:
