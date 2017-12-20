@@ -1,6 +1,9 @@
 last_commit = $(shell git log -1 --pretty=%B | head -n 1)
 
 import:
+	# Require that the secrets file exists
+	[ -f secrets.yaml ]
+
 	# Import all my photosets from flickr and generate a page for each of them
 	python3 scripts/import-flickr.py --generate
 
