@@ -2,8 +2,10 @@
 title: The Arctic Incident
 date: 2017-03-31
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Artemis Fowl
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Artemis Fowl
 ---
 {{< goodreads book="The Arctic Incident" cover="true" >}}
 

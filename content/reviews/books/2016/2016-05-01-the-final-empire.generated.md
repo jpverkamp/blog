@@ -2,8 +2,10 @@
 title: The Final Empire
 date: 2016-05-01
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mistborn
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mistborn
 ---
 {{< goodreads book="The Final Empire" cover="true" >}}
 

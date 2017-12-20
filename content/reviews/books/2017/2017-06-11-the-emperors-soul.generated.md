@@ -2,8 +2,10 @@
 title: The Emperor's Soul
 date: 2017-06-11
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Elantris
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Elantris
 ---
 {{< goodreads book="The Emperor's Soul" cover="true" >}}
 

@@ -2,8 +2,11 @@
 title: The Color of Magic
 date: 2016-12-22
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Rincewind)
 ---
 {{< goodreads book="The Color of Magic" cover="true" >}}
 

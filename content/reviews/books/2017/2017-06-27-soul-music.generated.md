@@ -2,8 +2,11 @@
 title: Soul Music
 date: 2017-06-27
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Death)
 ---
 {{< goodreads book="Soul Music" cover="true" >}}
 

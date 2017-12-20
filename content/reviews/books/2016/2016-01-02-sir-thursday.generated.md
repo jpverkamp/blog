@@ -2,8 +2,10 @@
 title: Sir Thursday
 date: 2016-01-02
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Keys to the Kingdom
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Keys to the Kingdom
 ---
 {{< goodreads book="Sir Thursday" cover="true" >}}
 

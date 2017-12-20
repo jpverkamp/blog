@@ -2,8 +2,10 @@
 title: Red Prophet
 date: 2017-02-28
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Tales of Alvin Maker
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Tales of Alvin Maker
 ---
 {{< goodreads book="Red Prophet" cover="true" >}}
 

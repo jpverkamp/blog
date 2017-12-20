@@ -2,8 +2,10 @@
 title: Promise of Blood
 date: 2015-10-30
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Powder Mage
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Powder Mage
 ---
 {{< goodreads book="Promise of Blood" cover="true" >}}
 

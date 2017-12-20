@@ -2,8 +2,10 @@
 title: Babylon's Ashes
 date: 2017-11-19
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Expanse
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Expanse
 ---
 {{< goodreads book="Babylon's Ashes" cover="true" >}}
 

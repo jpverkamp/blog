@@ -2,8 +2,10 @@
 title: Harry Potter and the Goblet of Fire
 date: 2016-11-15
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Harry Potter
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Harry Potter
 ---
 {{< goodreads book="Harry Potter and the Goblet of Fire" cover="true" >}}
 

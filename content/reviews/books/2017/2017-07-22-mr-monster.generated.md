@@ -2,8 +2,10 @@
 title: Mr. Monster
 date: 2017-07-22
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: John Cleaver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- John Cleaver
 ---
 {{< goodreads book="Mr. Monster" cover="true" >}}
 

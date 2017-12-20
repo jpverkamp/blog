@@ -2,8 +2,10 @@
 title: Sixth of the Dusk
 date: 2017-06-24
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Cosmere
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Cosmere
 ---
 {{< goodreads book="Sixth of the Dusk" cover="true" >}}
 

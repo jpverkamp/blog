@@ -2,8 +2,10 @@
 title: Isolation
 date: 2015-09-05
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Partials Sequence
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Partials Sequence
 ---
 {{< goodreads book="Isolation" cover="true" >}}
 

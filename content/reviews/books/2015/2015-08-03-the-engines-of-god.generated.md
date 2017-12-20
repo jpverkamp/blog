@@ -2,8 +2,10 @@
 title: The Engines of God
 date: 2015-08-03
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Academy
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Academy
 ---
 {{< goodreads book="The Engines of God" cover="true" >}}
 

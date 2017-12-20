@@ -2,8 +2,10 @@
 title: His Majesty's Dragon
 date: 2015-01-25
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Temeraire
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Temeraire
 ---
 {{< goodreads book="His Majesty's Dragon" cover="true" >}}
 

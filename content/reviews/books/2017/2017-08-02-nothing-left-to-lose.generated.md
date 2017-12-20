@@ -2,8 +2,10 @@
 title: Nothing Left To Lose
 date: 2017-08-02
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: John Cleaver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- John Cleaver
 ---
 {{< goodreads book="Nothing Left To Lose" cover="true" >}}
 

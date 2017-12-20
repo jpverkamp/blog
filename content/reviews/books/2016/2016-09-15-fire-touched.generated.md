@@ -2,8 +2,10 @@
 title: Fire Touched
 date: 2016-09-15
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mercy Thompson
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mercy Thompson
 ---
 {{< goodreads book="Fire Touched" cover="true" >}}
 

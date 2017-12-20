@@ -2,8 +2,10 @@
 title: The Rhesus Chart
 date: 2015-07-23
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Laundry Files
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Laundry Files
 ---
 {{< goodreads book="The Rhesus Chart" cover="true" >}}
 

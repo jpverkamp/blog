@@ -2,8 +2,10 @@
 title: The Golem and the Jinni
 date: 2015-12-09
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Golem and the Jinni
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Golem and the Jinni
 ---
 {{< goodreads book="The Golem and the Jinni" cover="true" >}}
 

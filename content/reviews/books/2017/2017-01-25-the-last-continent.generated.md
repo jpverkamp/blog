@@ -2,8 +2,11 @@
 title: The Last Continent
 date: 2017-01-25
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Rincewind)
 ---
 {{< goodreads book="The Last Continent" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Fifth Season
 date: 2016-07-07
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Broken Earth
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Broken Earth
 ---
 {{< goodreads book="The Fifth Season" cover="true" >}}
 

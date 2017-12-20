@@ -2,8 +2,11 @@
 title: Equal Rites
 date: 2017-02-13
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Witches)
 ---
 {{< goodreads book="Equal Rites" cover="true" >}}
 

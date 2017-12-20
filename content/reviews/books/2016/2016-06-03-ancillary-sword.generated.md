@@ -2,8 +2,10 @@
 title: Ancillary Sword
 date: 2016-06-03
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Imperial Radch
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Imperial Radch
 ---
 {{< goodreads book="Ancillary Sword" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Blood of Olympus
 date: 2015-01-18
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Heroes of Olympus
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Heroes of Olympus
 ---
 {{< goodreads book="The Blood of Olympus" cover="true" >}}
 

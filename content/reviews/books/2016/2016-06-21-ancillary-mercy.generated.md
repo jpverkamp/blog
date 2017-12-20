@@ -2,8 +2,10 @@
 title: Ancillary Mercy
 date: 2016-06-21
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Imperial Radch
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Imperial Radch
 ---
 {{< goodreads book="Ancillary Mercy" cover="true" >}}
 

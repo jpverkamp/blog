@@ -2,8 +2,10 @@
 title: Alvin Journeyman
 date: 2017-03-22
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Tales of Alvin Maker
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Tales of Alvin Maker
 ---
 {{< goodreads book="Alvin Journeyman" cover="true" >}}
 

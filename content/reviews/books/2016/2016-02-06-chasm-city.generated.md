@@ -2,8 +2,10 @@
 title: Chasm City
 date: 2016-02-06
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Revelation Space
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Revelation Space
 ---
 {{< goodreads book="Chasm City" cover="true" >}}
 

@@ -2,7 +2,8 @@
 title: At the Mountains of Madness
 date: 2016-08-18
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="At the Mountains of Madness" cover="true" >}}
 

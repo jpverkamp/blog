@@ -2,8 +2,10 @@
 title: Leviathan Wakes
 date: 2017-08-05
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Expanse
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Expanse
 ---
 {{< goodreads book="Leviathan Wakes" cover="true" >}}
 

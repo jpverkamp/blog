@@ -2,8 +2,10 @@
 title: Rendezvous with Rama
 date: 2015-06-03
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Rama
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Rama
 ---
 {{< goodreads book="Rendezvous with Rama" cover="true" >}}
 

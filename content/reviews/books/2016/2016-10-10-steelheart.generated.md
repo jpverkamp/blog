@@ -2,8 +2,10 @@
 title: Steelheart
 date: 2016-10-10
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Reckoners
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Reckoners
 ---
 {{< goodreads book="Steelheart" cover="true" >}}
 

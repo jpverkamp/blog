@@ -2,8 +2,10 @@
 title: I Am Not A Serial Killer
 date: 2017-07-16
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: John Cleaver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- John Cleaver
 ---
 {{< goodreads book="I Am Not A Serial Killer" cover="true" >}}
 

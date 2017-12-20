@@ -2,7 +2,8 @@
 title: The Time Machine
 date: 2016-12-27
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="The Time Machine" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Unnaturalists
 date: 2015-05-09
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Unnaturalists
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Unnaturalists
 ---
 {{< goodreads book="The Unnaturalists" cover="true" >}}
 

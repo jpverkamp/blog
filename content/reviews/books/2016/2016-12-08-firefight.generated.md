@@ -2,8 +2,10 @@
 title: Firefight
 date: 2016-12-08
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Reckoners
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Reckoners
 ---
 {{< goodreads book="Firefight" cover="true" >}}
 

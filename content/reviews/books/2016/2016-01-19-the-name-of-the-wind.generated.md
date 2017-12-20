@@ -2,8 +2,10 @@
 title: The Name of the Wind
 date: 2016-01-19
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Kingkiller Chronicle
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Kingkiller Chronicle
 ---
 {{< goodreads book="The Name of the Wind" cover="true" >}}
 

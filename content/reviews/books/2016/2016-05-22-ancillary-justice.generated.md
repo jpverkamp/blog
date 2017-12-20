@@ -2,8 +2,10 @@
 title: Ancillary Justice
 date: 2016-05-22
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Imperial Radch
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Imperial Radch
 ---
 {{< goodreads book="Ancillary Justice" cover="true" >}}
 

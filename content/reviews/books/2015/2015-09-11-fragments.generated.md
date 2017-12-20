@@ -2,8 +2,10 @@
 title: Fragments
 date: 2015-09-11
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Partials Sequence
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Partials Sequence
 ---
 {{< goodreads book="Fragments" cover="true" >}}
 

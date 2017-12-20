@@ -2,8 +2,10 @@
 title: Caliban's War
 date: 2017-08-22
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Expanse
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Expanse
 ---
 {{< goodreads book="Caliban's War" cover="true" >}}
 

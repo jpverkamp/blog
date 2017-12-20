@@ -2,8 +2,11 @@
 title: Thief of Time
 date: 2017-08-31
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Death)
 ---
 {{< goodreads book="Thief of Time" cover="true" >}}
 

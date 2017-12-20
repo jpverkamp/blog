@@ -2,8 +2,10 @@
 title: Orbital Decay
 date: 2017-06-12
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Near Space
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Near Space
 ---
 {{< goodreads book="Orbital Decay" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Morning Star
 date: 2016-10-26
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Red Rising Saga
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Red Rising Saga
 ---
 {{< goodreads book="Morning Star" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Shadow's Edge
 date: 2017-06-23
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Night Angel
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Night Angel
 ---
 {{< goodreads book="Shadow's Edge" cover="true" >}}
 

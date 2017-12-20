@@ -2,8 +2,10 @@
 title: Ghost Story
 date: 2016-04-09
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Ghost Story" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Revelation Space
 date: 2016-01-21
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Revelation Space
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Revelation Space
 ---
 {{< goodreads book="Revelation Space" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Welcome to Night Vale
 date: 2016-12-16
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Welcome to Night Vale
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Welcome to Night Vale
 ---
 {{< goodreads book="Welcome to Night Vale" cover="true" >}}
 

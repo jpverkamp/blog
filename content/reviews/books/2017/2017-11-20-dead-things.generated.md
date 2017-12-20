@@ -2,8 +2,10 @@
 title: Dead Things
 date: 2017-11-20
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Eric Carter
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Eric Carter
 ---
 {{< goodreads book="Dead Things" cover="true" >}}
 

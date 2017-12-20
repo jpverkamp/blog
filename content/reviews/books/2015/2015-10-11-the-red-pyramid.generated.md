@@ -2,8 +2,10 @@
 title: The Red Pyramid
 date: 2015-10-11
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Kane Chronicles
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Kane Chronicles
 ---
 {{< goodreads book="The Red Pyramid" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Girl Who Played with Fire
 date: 2015-10-31
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Millennium
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Millennium
 ---
 {{< goodreads book="The Girl Who Played with Fire" cover="true" >}}
 

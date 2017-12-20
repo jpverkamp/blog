@@ -2,8 +2,11 @@
 title: Guards! Guards!
 date: 2017-09-12
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (City Watch)
 ---
 {{< goodreads book="Guards! Guards!" cover="true" >}}
 

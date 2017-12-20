@@ -2,8 +2,10 @@
 title: Hungry Ghosts
 date: 2017-11-26
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Eric Carter
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Eric Carter
 ---
 {{< goodreads book="Hungry Ghosts" cover="true" >}}
 

@@ -2,7 +2,8 @@
 title: A Short Stay in Hell
 date: 2016-08-04
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="A Short Stay in Hell" cover="true" >}}
 

@@ -2,7 +2,8 @@
 title: The Dunwich Horror
 date: 2016-07-17
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="The Dunwich Horror" cover="true" >}}
 

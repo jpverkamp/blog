@@ -2,8 +2,10 @@
 title: The Last Guardian
 date: 2017-05-01
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Artemis Fowl
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Artemis Fowl
 ---
 {{< goodreads book="The Last Guardian" cover="true" >}}
 

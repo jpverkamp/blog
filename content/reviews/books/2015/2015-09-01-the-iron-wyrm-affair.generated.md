@@ -2,8 +2,10 @@
 title: The Iron Wyrm Affair
 date: 2015-09-01
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Bannon & Clare
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Bannon & Clare
 ---
 {{< goodreads book="The Iron Wyrm Affair" cover="true" >}}
 

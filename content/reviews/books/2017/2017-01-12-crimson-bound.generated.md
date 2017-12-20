@@ -2,7 +2,8 @@
 title: Crimson Bound
 date: 2017-01-12
 generated: true
-reviews/lists: 2017 Book Reviews
+reviews/lists:
+- 2017 Book Reviews
 ---
 {{< goodreads book="Crimson Bound" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Edgedancer
 date: 2017-06-25
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Stormlight Archive
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Stormlight Archive
 ---
 {{< goodreads book="Edgedancer" cover="true" >}}
 

@@ -2,8 +2,11 @@
 title: Unseen Academicals
 date: 2017-02-03
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Rincewind)
 ---
 {{< goodreads book="Unseen Academicals" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Libriomancer
 date: 2017-09-07
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Magic Ex Libris
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Magic Ex Libris
 ---
 {{< goodreads book="Libriomancer" cover="true" >}}
 

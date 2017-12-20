@@ -2,8 +2,10 @@
 title: The Concrete Jungle
 date: 2015-06-23
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Laundry Files
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Laundry Files
 ---
 {{< goodreads book="The Concrete Jungle" cover="true" >}}
 

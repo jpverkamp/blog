@@ -2,8 +2,10 @@
 title: "Necroscope IV: Deadspeak"
 date: 2015-12-26
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Necroscope
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Necroscope
 ---
 {{< goodreads book="Necroscope IV: Deadspeak" cover="true" >}}
 

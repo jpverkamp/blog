@@ -2,8 +2,10 @@
 title: Bright Smoke, Cold Fire
 date: 2017-01-29
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Bright Smoke, Cold Fire
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Bright Smoke, Cold Fire
 ---
 {{< goodreads book="Bright Smoke, Cold Fire" cover="true" >}}
 

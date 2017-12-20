@@ -2,8 +2,10 @@
 title: The Eternity Code
 date: 2017-04-01
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Artemis Fowl
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Artemis Fowl
 ---
 {{< goodreads book="The Eternity Code" cover="true" >}}
 

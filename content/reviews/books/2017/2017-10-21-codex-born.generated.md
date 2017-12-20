@@ -2,8 +2,10 @@
 title: Codex Born
 date: 2017-10-21
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Magic Ex Libris
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Magic Ex Libris
 ---
 {{< goodreads book="Codex Born" cover="true" >}}
 

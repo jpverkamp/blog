@@ -2,8 +2,10 @@
 title: The Wise Man's Fear
 date: 2016-03-04
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Kingkiller Chronicle
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Kingkiller Chronicle
 ---
 {{< goodreads book="The Wise Man's Fear" cover="true" >}}
 

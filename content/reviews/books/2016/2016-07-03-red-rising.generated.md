@@ -2,8 +2,10 @@
 title: Red Rising
 date: 2016-07-03
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Red Rising Saga
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Red Rising Saga
 ---
 {{< goodreads book="Red Rising" cover="true" >}}
 

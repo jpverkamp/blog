@@ -2,8 +2,10 @@
 title: The Girl Who Kicked the Hornet's Nest
 date: 2015-11-10
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Millennium
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Millennium
 ---
 {{< goodreads book="The Girl Who Kicked the Hornet's Nest" cover="true" >}}
 

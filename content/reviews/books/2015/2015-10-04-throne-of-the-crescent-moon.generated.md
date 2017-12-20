@@ -2,8 +2,10 @@
 title: Throne of the Crescent Moon
 date: 2015-10-04
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Crescent Moon Kingdoms
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Crescent Moon Kingdoms
 ---
 {{< goodreads book="Throne of the Crescent Moon" cover="true" >}}
 

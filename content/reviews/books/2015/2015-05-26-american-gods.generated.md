@@ -2,8 +2,10 @@
 title: American Gods
 date: 2015-05-26
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: American Gods
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- American Gods
 ---
 {{< goodreads book="American Gods" cover="true" >}}
 

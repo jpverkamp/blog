@@ -2,8 +2,10 @@
 title: The Jennifer Morgue
 date: 2015-06-30
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Laundry Files
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Laundry Files
 ---
 {{< goodreads book="The Jennifer Morgue" cover="true" >}}
 

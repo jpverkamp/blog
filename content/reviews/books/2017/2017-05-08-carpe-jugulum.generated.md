@@ -2,16 +2,21 @@
 title: Carpe Jugulum
 date: 2017-05-08
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Witches)
 ---
 {{< goodreads book="Carpe Jugulum" cover="true" >}}
 
->   > “Carpe Jugulum," read Agnes aloud. "That's... well, Carpe Diem is 'Sieze the Day,' so this means-"   >   > "Go for the throat”   >
+> “Carpe Jugulum," read Agnes aloud. "That's... well, Carpe Diem is 'Sieze the Day,' so this means-"  
 
-Close enough.  
+> "Go for the throat”  
 
 <!--more-->
+
+Close enough.  
 
 Short version: Vampires have come to visit and they've decided to stick around for a while. What's more, they seem to have overcome most of those troublesome weaknesses that vampires usually have. It's up to a the witches to save the day!  
 
@@ -27,6 +32,19 @@ A solid story. Not quite up to the level of Maskerade, but still well worth the 
 
 Quote for thought:  
 
->   > “There are so mane shades of gray."   >   > "Nope."   >   > "Pardon?"   >   > "There's no greys, only white that's got grubby. I'm surprised you don't know that. And sin, young man, is when you treat people as things. Including yourself. That's what sin is."   >   > "It's a lot more complicated than that-"   >   > "No. It ain't. When people say things are a lot more complicated than that, they means they're getting worried that they won't like the truth. People as things, that's where it starts."   >   > "Oh, I'm sure there are worse crimes-"   >   > "But they starts with thinking about people as things..."   >
+> “There are so mane shades of gray."  
 
+> "Nope."  
+
+> "Pardon?"  
+
+> "There's no greys, only white that's got grubby. I'm surprised you don't know that. And sin, young man, is when you treat people as things. Including yourself. That's what sin is."  
+
+> "It's a lot more complicated than that-"  
+
+> "No. It ain't. When people say things are a lot more complicated than that, they means they're getting worried that they won't like the truth. People as things, that's where it starts."  
+
+> "Oh, I'm sure there are worse crimes-"  
+
+> "But they starts with thinking about people as things..."  
 

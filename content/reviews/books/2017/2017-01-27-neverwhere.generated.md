@@ -2,8 +2,10 @@
 title: Neverwhere
 date: 2017-01-27
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: London Below, The World of Neverwhere
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- London Below, The World of Neverwhere
 ---
 {{< goodreads book="Neverwhere" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Harry Potter and the Prisoner of Azkaban
 date: 2016-11-02
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Harry Potter
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Harry Potter
 ---
 {{< goodreads book="Harry Potter and the Prisoner of Azkaban" cover="true" >}}
 

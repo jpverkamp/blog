@@ -2,8 +2,10 @@
 title: Warbreaker
 date: 2016-05-08
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Warbreaker
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Warbreaker
 ---
 {{< goodreads book="Warbreaker" cover="true" >}}
 

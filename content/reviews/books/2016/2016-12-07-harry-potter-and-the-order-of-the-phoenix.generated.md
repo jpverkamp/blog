@@ -2,8 +2,10 @@
 title: Harry Potter and the Order of the Phoenix
 date: 2016-12-07
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Harry Potter
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Harry Potter
 ---
 {{< goodreads book="Harry Potter and the Order of the Phoenix" cover="true" >}}
 

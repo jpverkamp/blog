@@ -2,8 +2,10 @@
 title: The Alloy of Law
 date: 2016-06-11
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mistborn - Alloy Era
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mistborn - Alloy Era
 ---
 {{< goodreads book="The Alloy of Law" cover="true" >}}
 

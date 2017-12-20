@@ -2,7 +2,8 @@
 title: The Shadow Out Of Time
 date: 2016-08-04
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="The Shadow Out Of Time" cover="true" >}}
 

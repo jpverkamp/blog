@@ -2,8 +2,10 @@
 title: Proven Guilty
 date: 2016-03-16
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Proven Guilty" cover="true" >}}
 

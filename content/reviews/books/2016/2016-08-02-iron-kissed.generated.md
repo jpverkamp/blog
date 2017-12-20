@@ -2,8 +2,10 @@
 title: Iron Kissed
 date: 2016-08-02
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mercy Thompson
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mercy Thompson
 ---
 {{< goodreads book="Iron Kissed" cover="true" >}}
 

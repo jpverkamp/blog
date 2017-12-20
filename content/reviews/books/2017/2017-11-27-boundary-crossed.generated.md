@@ -2,8 +2,10 @@
 title: Boundary Crossed
 date: 2017-11-27
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Boundary Magic
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Boundary Magic
 ---
 {{< goodreads book="Boundary Crossed" cover="true" >}}
 

@@ -2,8 +2,11 @@
 title: Witches Abroad
 date: 2017-03-03
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Witches)
 ---
 {{< goodreads book="Witches Abroad" cover="true" >}}
 

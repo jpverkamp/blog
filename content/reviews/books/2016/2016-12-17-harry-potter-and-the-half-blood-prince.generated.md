@@ -2,8 +2,10 @@
 title: Harry Potter and the Half-Blood Prince
 date: 2016-12-17
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Harry Potter
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Harry Potter
 ---
 {{< goodreads book="Harry Potter and the Half-Blood Prince" cover="true" >}}
 

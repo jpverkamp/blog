@@ -2,8 +2,10 @@
 title: The Source
 date: 2015-12-23
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Necroscope
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Necroscope
 ---
 {{< goodreads book="The Source" cover="true" >}}
 

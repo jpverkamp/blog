@@ -2,8 +2,11 @@
 title: The Light Fantastic
 date: 2016-12-30
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Rincewind)
 ---
 {{< goodreads book="The Light Fantastic" cover="true" >}}
 

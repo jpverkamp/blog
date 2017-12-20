@@ -2,8 +2,10 @@
 title: Storm Front
 date: 2016-02-16
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Storm Front" cover="true" >}}
 

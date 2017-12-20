@@ -2,8 +2,10 @@
 title: Secret History
 date: 2017-06-23
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Mistborn
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Mistborn
 ---
 {{< goodreads book="Secret History" cover="true" >}}
 

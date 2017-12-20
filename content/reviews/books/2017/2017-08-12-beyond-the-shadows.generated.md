@@ -2,8 +2,10 @@
 title: Beyond the Shadows
 date: 2017-08-12
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Night Angel
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Night Angel
 ---
 {{< goodreads book="Beyond the Shadows" cover="true" >}}
 

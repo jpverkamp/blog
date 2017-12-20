@@ -2,8 +2,10 @@
 title: Hunting Ground
 date: 2016-09-23
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Alpha & Omega
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Alpha & Omega
 ---
 {{< goodreads book="Hunting Ground" cover="true" >}}
 

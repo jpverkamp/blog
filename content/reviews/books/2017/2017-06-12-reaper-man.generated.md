@@ -2,8 +2,11 @@
 title: Reaper Man
 date: 2017-06-12
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Death)
 ---
 {{< goodreads book="Reaper Man" cover="true" >}}
 

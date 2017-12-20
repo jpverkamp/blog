@@ -2,7 +2,8 @@
 title: Whitechapel Gods
 date: 2015-05-29
 generated: true
-reviews/lists: 2015 Book Reviews
+reviews/lists:
+- 2015 Book Reviews
 ---
 {{< goodreads book="Whitechapel Gods" cover="true" >}}
 

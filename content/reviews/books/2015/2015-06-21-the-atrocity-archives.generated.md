@@ -2,8 +2,10 @@
 title: The Atrocity Archives
 date: 2015-06-21
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Laundry Files
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Laundry Files
 ---
 {{< goodreads book="The Atrocity Archives" cover="true" >}}
 

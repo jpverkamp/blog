@@ -2,8 +2,10 @@
 title: Prentice Alvin
 date: 2017-03-09
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Tales of Alvin Maker
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Tales of Alvin Maker
 ---
 {{< goodreads book="Prentice Alvin" cover="true" >}}
 

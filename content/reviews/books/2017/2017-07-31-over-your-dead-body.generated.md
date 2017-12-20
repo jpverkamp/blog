@@ -2,8 +2,10 @@
 title: Over Your Dead Body
 date: 2017-07-31
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: John Cleaver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- John Cleaver
 ---
 {{< goodreads book="Over Your Dead Body" cover="true" >}}
 

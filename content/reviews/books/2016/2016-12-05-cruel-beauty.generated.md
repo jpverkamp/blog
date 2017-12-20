@@ -2,8 +2,10 @@
 title: Cruel Beauty
 date: 2016-12-05
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Cruel Beauty Universe
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Cruel Beauty Universe
 ---
 {{< goodreads book="Cruel Beauty" cover="true" >}}
 

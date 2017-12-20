@@ -2,8 +2,10 @@
 title: Small Favor
 date: 2016-03-27
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Small Favor" cover="true" >}}
 

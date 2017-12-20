@@ -2,8 +2,10 @@
 title: The Time Paradox
 date: 2017-04-19
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Artemis Fowl
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Artemis Fowl
 ---
 {{< goodreads book="The Time Paradox" cover="true" >}}
 

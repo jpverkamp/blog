@@ -2,8 +2,10 @@
 title: Grave Peril
 date: 2016-02-22
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Grave Peril" cover="true" >}}
 

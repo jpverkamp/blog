@@ -2,8 +2,10 @@
 title: The Way of Shadows
 date: 2017-05-18
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Night Angel
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Night Angel
 ---
 {{< goodreads book="The Way of Shadows" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Mister Monday
 date: 2015-12-30
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Keys to the Kingdom
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Keys to the Kingdom
 ---
 {{< goodreads book="Mister Monday" cover="true" >}}
 

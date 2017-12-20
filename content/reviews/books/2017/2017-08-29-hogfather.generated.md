@@ -2,8 +2,11 @@
 title: Hogfather
 date: 2017-08-29
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Death)
 ---
 {{< goodreads book="Hogfather" cover="true" >}}
 

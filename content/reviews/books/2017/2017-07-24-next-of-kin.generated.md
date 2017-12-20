@@ -2,8 +2,10 @@
 title: Next of Kin
 date: 2017-07-24
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: John Cleaver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- John Cleaver
 ---
 {{< goodreads book="Next of Kin" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Serpent's Shadow
 date: 2015-10-23
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Kane Chronicles
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Kane Chronicles
 ---
 {{< goodreads book="The Serpent's Shadow" cover="true" >}}
 

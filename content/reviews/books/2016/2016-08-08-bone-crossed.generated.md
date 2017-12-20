@@ -2,8 +2,10 @@
 title: Bone Crossed
 date: 2016-08-08
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mercy Thompson
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mercy Thompson
 ---
 {{< goodreads book="Bone Crossed" cover="true" >}}
 

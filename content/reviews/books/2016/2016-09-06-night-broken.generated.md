@@ -2,8 +2,10 @@
 title: Night Broken
 date: 2016-09-06
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mercy Thompson
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mercy Thompson
 ---
 {{< goodreads book="Night Broken" cover="true" >}}
 

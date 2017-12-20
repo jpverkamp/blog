@@ -2,8 +2,10 @@
 title: The Devil's Only Friend
 date: 2017-07-25
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: John Cleaver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- John Cleaver
 ---
 {{< goodreads book="The Devil's Only Friend" cover="true" >}}
 

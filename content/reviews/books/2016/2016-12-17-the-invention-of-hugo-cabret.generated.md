@@ -2,7 +2,8 @@
 title: The Invention of Hugo Cabret
 date: 2016-12-17
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="The Invention of Hugo Cabret" cover="true" >}}
 

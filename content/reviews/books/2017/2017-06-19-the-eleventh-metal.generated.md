@@ -2,8 +2,10 @@
 title: The Eleventh Metal
 date: 2017-06-19
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Mistborn
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Mistborn
 ---
 {{< goodreads book="The Eleventh Metal" cover="true" >}}
 

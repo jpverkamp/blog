@@ -2,8 +2,10 @@
 title: "Necroscope V: Deadspawn"
 date: 2015-12-29
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Necroscope
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Necroscope
 ---
 {{< goodreads book="Necroscope V: Deadspawn" cover="true" >}}
 

@@ -16,6 +16,20 @@ import time
 import xml.etree.ElementTree
 import yaml
 
+if __name__ == '__main__':
+    import argparse
+    arg_parser = argparse.ArgumentParser('Import data from goodreads')
+    arg_parser.add_argument('--insert', nargs = '+', help = 'Url(s) to add to the database')
+    arg_parser.add_argument('--delete', nargs = '+', help = 'Name(s) to remove from the database, will be removed from all types')
+    arg_parser.add_argument('--validate', action = 'store_true', help = 'Check if there are any missing entires')
+    arg_parser.add_argument('--reviews', nargs = '?', default = False, const = '20', help = 'Import the newest REVIEWS reviews, use ALL to import all reviews')
+    arg_parser.add_argument('--overwrite', action = 'store_true', help = 'Use with --reviews, if this is not set, existing posts will not be overwritten')
+    arg_parser.add_argument('--debug', action = 'store_true', help = 'Run in verbose/debug mode')
+    args = arg_parser.parse_args()
+
+    if args.debug:
+        logging.basicConfig(level = logging.INFO)
+
 markdowner = html2text.HTML2Text()
 
 config = {}
@@ -23,26 +37,33 @@ for filename in ['config.yaml', 'secrets.yaml']:
     with open(filename, 'r') as fin:
         config.update(yaml.load(fin))
 
-data_file = os.path.join('data', 'goodreads.yaml')
 fields = { # singular: plural
     'book': 'books',
     'author': 'authors',
     'series': 'series',
 }
 
-if os.path.exists(data_file):
-    with open(data_file, 'r') as fin:
-        global_data = yaml.load(fin) or {}
-else:
-    global_data = {}
+global_data = {}
+
+for filename in os.listdir(os.path.join('data', 'goodreads')):
+    path = os.path.join('data', 'goodreads', filename)
+    name = filename.rsplit('.', )[0]
+
+    logging.info('Loading data from {} into global_data[{}]'.format(path, name))
+    with open(path, 'r') as fin:
+        global_data[name] = yaml.load(fin)
 
 for singular, plural in fields.items():
     if plural not in global_data:
         global_data[plural] = {}
 
 def save():
-    with open(data_file, 'w') as fout:
-        yaml.dump(global_data, fout, default_flow_style = False)
+    for name in global_data:
+        path = os.path.join('data', 'goodreads', name + '.yaml')
+
+        logging.info('Saving data from global_data[{}] into {}'.format(name, path))
+        with open(path, 'w') as fout:
+            yaml.dump(global_data[name], fout, default_flow_style = False)
 
 def api(url, params = None):
     '''Make a goodreads web request.'''
@@ -177,9 +198,9 @@ def get(type, query, search_function, update_function):
         name = query
 
     # If we're querying by an ID we've already seen, get the title from that
-    if id and id in global_data[type].get('by_id', {}):
-        logging.info('get({}, {}), got name by id: {} = {}'.format(type, query, id, global_data[type]['by_id'][id]))
-        name = global_data[type]['by_id'][id]
+    if id and id in global_data.get(type + '-index', {}):
+        logging.info('get({}, {}), got name by id: {} = {}'.format(type, query, id, global_data[type + '-index'][id]))
+        name = global_data[type + '-index'][id]
 
     # If the title is already cached, load from there
     if name in global_data[type]:
@@ -214,7 +235,7 @@ def get(type, query, search_function, update_function):
 
     logging.info('get({}, {}), result: {}'.format(type, query, data))
     global_data[type][data['name']] = data
-    global_data[type].setdefault('by_id', {})[data['id']] = data['name']
+    global_data.setdefault(type + '-index', {})[data['id']] = data['name']
     save()
 
     return data
@@ -411,6 +432,9 @@ def reviews(per_page = 20, do_all = False):
                 # Add the cover on the front
                 text = '{{{{< goodreads book="{title}" cover="true" >}}}}\n\n'.format(title = data['name']) + text
 
+                # Fix multiline blockquotes
+                text = re.sub(r'^>\s*$', '', text, flags = re.MULTILINE)
+
                 # Fix spacing
                 text = re.sub(r'\n\s*\n+', '\n\n', text)
                 text = re.sub(r'([^\n])\n([^\n])', r'\1 \2', text)
@@ -454,19 +478,6 @@ def reviews(per_page = 20, do_all = False):
             break
 
 if __name__ == '__main__':
-    import argparse
-    arg_parser = argparse.ArgumentParser('Import data from goodreads')
-    arg_parser.add_argument('--insert', nargs = '+', help = 'Url(s) to add to the database')
-    arg_parser.add_argument('--delete', nargs = '+', help = 'Name(s) to remove from the database, will be removed from all types')
-    arg_parser.add_argument('--validate', action = 'store_true', help = 'Check if there are any missing entires')
-    arg_parser.add_argument('--reviews', nargs = '?', default = False, const = '20', help = 'Import the newest REVIEWS reviews, use ALL to import all reviews')
-    arg_parser.add_argument('--overwrite', action = 'store_true', help = 'Use with --reviews, if this is not set, existing posts will not be overwritten')
-    arg_parser.add_argument('--debug', action = 'store_true', help = 'Run in verbose/debug mode')
-    args = arg_parser.parse_args()
-
-    if args.debug:
-        logging.basicConfig(level = logging.INFO)
-
     exit_code = 0
 
     if args.insert:
@@ -485,7 +496,7 @@ if __name__ == '__main__':
                 if name in global_data[fields[type]]:
                     id = global_data[fields[type]][name]['id']
                     del global_data[fields[type]][name]
-                    del global_data[fields[type]]['by_id'][id]
+                    del global_data[fields[type] + '-index'][id]
                     print('Delete {} ({}) from {}'.format(name, id, type))
                     save()
         print()
@@ -508,12 +519,17 @@ if __name__ == '__main__':
             date = review['read_at']
 
             headers = {
-                'reviews/lists': '{year} Book Reviews'.format(year = date.year),
+                'reviews/lists': ['{year} Book Reviews'.format(year = date.year)],
                 'generated': True,
             }
 
             if data.get('series'):
-                headers['reviews/series'] = data['series']
+                headers['reviews/series'] = [data['series']]
+
+            # If we have custom series, add those as well
+            for series_name in global_data.get('series-custom', {}):
+                if review['title'] in global_data['series-custom'][series_name]:
+                    headers['reviews/series'].append(series_name)
 
             content = '''\
 ---

@@ -2,8 +2,10 @@
 title: The Slow Regard of Silent Things
 date: 2016-03-10
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Kingkiller Chronicle
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Kingkiller Chronicle
 ---
 {{< goodreads book="The Slow Regard of Silent Things" cover="true" >}}
 

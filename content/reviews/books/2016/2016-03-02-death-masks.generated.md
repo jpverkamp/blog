@@ -2,8 +2,10 @@
 title: Death Masks
 date: 2016-03-02
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Death Masks" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Garden of Rama
 date: 2015-06-17
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Rama
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Rama
 ---
 {{< goodreads book="The Garden of Rama" cover="true" >}}
 

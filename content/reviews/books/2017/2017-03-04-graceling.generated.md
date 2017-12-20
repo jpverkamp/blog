@@ -2,8 +2,10 @@
 title: Graceling
 date: 2017-03-04
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Graceling Realm
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Graceling Realm
 ---
 {{< goodreads book="Graceling" cover="true" >}}
 

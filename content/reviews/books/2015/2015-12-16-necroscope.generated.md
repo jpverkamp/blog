@@ -2,8 +2,10 @@
 title: Necroscope
 date: 2015-12-16
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Necroscope
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Necroscope
 ---
 {{< goodreads book="Necroscope" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Aeronaut's Windlass
 date: 2016-02-09
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Cinder Spires
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Cinder Spires
 ---
 {{< goodreads book="The Aeronaut's Windlass" cover="true" >}}
 

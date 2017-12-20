@@ -2,8 +2,10 @@
 title: Lord Sunday
 date: 2016-01-05
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Keys to the Kingdom
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Keys to the Kingdom
 ---
 {{< goodreads book="Lord Sunday" cover="true" >}}
 

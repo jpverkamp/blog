@@ -2,8 +2,10 @@
 title: The Well of Ascension
 date: 2016-05-16
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mistborn
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mistborn
 ---
 {{< goodreads book="The Well of Ascension" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Girl with the Dragon Tattoo
 date: 2015-10-23
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Millennium
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Millennium
 ---
 {{< goodreads book="The Girl with the Dragon Tattoo" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Drowned Wednesday
 date: 2015-12-31
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: The Keys to the Kingdom
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- The Keys to the Kingdom
 ---
 {{< goodreads book="Drowned Wednesday" cover="true" >}}
 

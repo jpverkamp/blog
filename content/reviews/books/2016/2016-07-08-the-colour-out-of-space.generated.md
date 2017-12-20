@@ -2,7 +2,8 @@
 title: The Colour Out of Space
 date: 2016-07-08
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="The Colour Out of Space" cover="true" >}}
 

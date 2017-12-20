@@ -2,8 +2,11 @@
 title: Maskerade
 date: 2017-05-09
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Witches)
 ---
 {{< goodreads book="Maskerade" cover="true" >}}
 
@@ -19,12 +22,25 @@ I never really cared overmuch for Magrat. Anges is a wonderful addition to the t
 
 As an aside, we also get a sprinkling of how the publishing industry works on the Discworld. Nanny Ogg has published a cookbook, the Joye of Snacks. Even if it's not super relevant to the main, opera storyline, it's still pretty hilarious:  
 
->   > What about this one? Maids of Honor?   >   > Weeelll, they starts OUT as Maids of Honor...but they ends up Tarts.”   >
+> What about this one? Maids of Honor?  
+
+> Weeelll, they starts OUT as Maids of Honor...but they ends up Tarts.”  
 
 Overall, it's probably actually my favorite witches book since the first and among my favorite Discworld books thus far. It's just a really fun read.  
 
 Amusing--and yet entirely sensible--quote of the book:  
 
->   > “Walter Plinge said: "You know she asked me a very silly question Mrs Ogg! It was a silly question any fool knows the answer!"   >   > "Oh, yes," said Nanny. "About houses on fire, I expect..."   >   > "Yes! What would I take out of our house if it was on fire!"   >   > "I expect you were a good boy and said you'd take your mum," said Nanny.   >   > "No! My mum would take herself!"   >   > "What would you take out then, Walter?" Nanny said.   >   > "The fire!”   >
+> “Walter Plinge said: "You know she asked me a very silly question Mrs Ogg! It was a silly question any fool knows the answer!"  
 
+> "Oh, yes," said Nanny. "About houses on fire, I expect..."  
+
+> "Yes! What would I take out of our house if it was on fire!"  
+
+> "I expect you were a good boy and said you'd take your mum," said Nanny.  
+
+> "No! My mum would take herself!"  
+
+> "What would you take out then, Walter?" Nanny said.  
+
+> "The fire!”  
 

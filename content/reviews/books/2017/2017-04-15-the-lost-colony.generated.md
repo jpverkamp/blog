@@ -2,8 +2,10 @@
 title: The Lost Colony
 date: 2017-04-15
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Artemis Fowl
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Artemis Fowl
 ---
 {{< goodreads book="The Lost Colony" cover="true" >}}
 

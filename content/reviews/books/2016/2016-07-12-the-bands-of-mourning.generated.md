@@ -2,8 +2,10 @@
 title: The Bands of Mourning
 date: 2016-07-12
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mistborn
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mistborn
 ---
 {{< goodreads book="The Bands of Mourning" cover="true" >}}
 

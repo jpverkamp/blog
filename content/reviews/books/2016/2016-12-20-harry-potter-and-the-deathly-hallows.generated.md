@@ -2,8 +2,10 @@
 title: Harry Potter and the Deathly Hallows
 date: 2016-12-20
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Harry Potter
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Harry Potter
 ---
 {{< goodreads book="Harry Potter and the Deathly Hallows" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Golden Son
 date: 2016-08-14
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Red Rising Saga
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Red Rising Saga
 ---
 {{< goodreads book="Golden Son" cover="true" >}}
 

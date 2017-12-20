@@ -2,7 +2,8 @@
 title: The Call of Cthulhu
 date: 2016-07-11
 generated: true
-reviews/lists: 2016 Book Reviews
+reviews/lists:
+- 2016 Book Reviews
 ---
 {{< goodreads book="The Call of Cthulhu" cover="true" >}}
 

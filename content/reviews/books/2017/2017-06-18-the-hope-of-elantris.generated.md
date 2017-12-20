@@ -2,8 +2,10 @@
 title: The Hope of Elantris
 date: 2017-06-18
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Elantris
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Elantris
 ---
 {{< goodreads book="The Hope of Elantris" cover="true" >}}
 

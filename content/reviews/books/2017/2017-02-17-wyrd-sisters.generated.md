@@ -2,8 +2,11 @@
 title: Wyrd Sisters
 date: 2017-02-17
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Witches)
 ---
 {{< goodreads book="Wyrd Sisters" cover="true" >}}
 

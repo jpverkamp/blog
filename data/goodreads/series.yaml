@@ -1,0 +1,1302 @@
+A Song of Ice and Fire:
+  books:
+    1: A Game of Thrones
+    2: A Clash of Kings
+    3: A Storm of Swords
+    4: A Feast for Crows
+    5: A Dance with Dragons
+    6: The Winds of Winter
+    7: A Dream of Spring
+    8: Untitled
+    0.5: Arms of the Kraken
+    1-2: A Game of Thrones / A Clash of Kings
+    1-4: A Song of Ice and Fire
+    1-5: A Song of Ice and Fire
+    4-5: A Ball of Beasts
+  id: 43790
+  name: A Song of Ice and Fire
+  url: /series/43790.a-song-of-ice-and-fire
+Abhorsen:
+  books:
+    1: Sabriel
+    2: Lirael
+    3: Abhorsen
+    3.5: The Creature in the Case
+    4: Clariel
+    5: Goldenhand
+    1-3: The Abhorsen Trilogy Box Set
+  id: 44888
+  name: Abhorsen
+  url: /series/44888.abhorsen
+Alpha & Omega:
+  books:
+    0.5: On the Prowl
+    1: Cry Wolf
+    2: Hunting Ground
+    3: Fair Game
+    4: Dead Heat
+    0.5-3: 'Alpha & Omega: Call of the Hunt'
+  id: 45135
+  name: Alpha & Omega
+  url: /series/45135.alpha-omega
+American Gods:
+  books: {}
+  id: 114135
+  name: American Gods
+  url: /series/114135.american-gods
+Angelology:
+  books:
+    1: Angelology
+    2: Angelopolis
+    3: Untitled
+  id: 53250
+  name: Angelology
+  url: /series/53250.angelology
+Anita Blake, Vampire Hunter:
+  books:
+    0.5: Strange Candy
+    1: Guilty Pleasures
+    2: The Laughing Corpse
+    3: Circus of the Damned
+    4: The Lunatic Cafe
+    5: Bloody Bones
+    6: The Killing Dance
+    7: Burnt Offerings
+    8: Blue Moon
+    9: Obsidian Butterfly
+    10: Narcissus in Chains
+    11: Cerulean Sins
+    12: Incubus Dreams
+    13: Micah
+    14: Danse Macabre
+    15: The Harlequin
+    16: Blood Noir
+    17: Skin Trade
+    18: Flirt
+    19: Bullet
+    20: Hit List
+    20.5: Beauty
+    21: Kiss the Dead
+    1-3: Club Vampyre
+    21.5: Dancing
+    4-6: The Midnight Cafe
+    21.75: Shutdown
+    7-8: Black Moon Inn
+    22: Affliction
+    9-10: Nightshade Tavern
+    23: Jason
+    24: Dead Ice
+    24.5: Wounded
+    25: Crimson Death
+    26: Untitled
+  id: 49083
+  name: Anita Blake, Vampire Hunter
+  url: /series/49083.anita-blake-vampire-hunter
+Artemis Fowl:
+  books:
+    1: Artemis Fowl
+    1.5: The Seventh Dwarf
+    2: The Arctic Incident
+    3: The Eternity Code
+    4: The Opal Deception
+    5: The Lost Colony
+    6: The Time Paradox
+    7: The Atlantis Complex
+    8: The Last Guardian
+    1-2: Artemis Fowl Boxed Set
+    1-3: The Criminal Mastermind Collection, Bks 1-3
+    1-5: Artemis Fowl Boxed Set, Bks 1-5
+    1-7: Artemis Fowl Collection
+  id: 42742
+  name: Artemis Fowl
+  url: /series/42742.artemis-fowl
+Bannon & Clare:
+  books:
+    1: The Iron Wyrm Affair
+    1.5: The Damnation Affair
+    2: The Red Plague Affair
+    3: The Ripper Affair
+  id: 67387
+  name: Bannon & Clare
+  url: /series/67387.bannon-clare
+Boundary Magic:
+  books:
+    1: Boundary Crossed
+    1.5: Malediction
+    2: Boundary Lines
+    3: Boundary Born
+  id: 150191
+  name: Boundary Magic
+  url: /series/150191.boundary-magic
+Bright Smoke, Cold Fire:
+  books:
+    1: Bright Smoke, Cold Fire
+    2: Endless Water, Starless Sky
+  id: 125633
+  name: Bright Smoke, Cold Fire
+  url: /series/125633.bright-smoke-cold-fire
+Codex Alera:
+  books:
+    1: Furies of Calderon
+    2: Academ's Fury
+    3: Cursor's Fury
+    4: Captain's Fury
+    5: Princeps' Fury
+    6: First Lord's Fury
+    1-6: The Codex Alera
+  id: 45545
+  name: Codex Alera
+  url: /series/45545.codex-alera
+Coyote Chronicles:
+  books:
+    1: Coyote Horizon
+    2: Coyote Destiny
+  id: 94621
+  name: Coyote Chronicles
+  url: /series/94621.coyote-chronicles
+Coyote Trilogy:
+  books:
+    1: Coyote
+    2: Coyote Rising
+    3: Coyote Frontier
+  id: 94620
+  name: Coyote Trilogy
+  url: /series/94620.coyote-trilogy
+Coyote Universe:
+  books:
+    4: Spindrift
+    5: Galaxy Blues
+    8: Hex
+  id: 94623
+  name: Coyote Universe
+  url: /series/94623.coyote-universe
+Cruel Beauty Universe:
+  books:
+    1: Cruel Beauty
+    1.5: Gilded Ashes
+  id: 149349
+  name: Cruel Beauty Universe
+  url: /series/149349.cruel-beauty-universe
+Dean Koontz's Frankenstein:
+  books:
+    1: Prodigal Son
+    2: City of Night
+    3: Dead and Alive
+    4: Lost Souls
+    5: The Dead Town
+  id: 40542
+  name: Dean Koontz's Frankenstein
+  url: /series/40542.dean-koontzs-frankenstein
+Dirk Pitt:
+  books:
+    1: Pacific Vortex!
+    2: The Mediterranean Caper
+    3: Iceberg
+    4: Raise the Titanic!
+    5: Vixen 03
+    6: Night Probe!
+    7: Deep Six
+    8: Cyclops
+    9: Treasure
+    10: Dragon
+    11: Sahara
+    12: Inca Gold
+    13: Shock Wave
+    14: Flood Tide
+    15: Atlantis Found
+    16: Valhalla Rising
+    17: Trojan Odyssey
+    18: Black Wind
+    19: Treasure of Khan
+    20: Arctic Drift
+    22: Poseidon's Arrow
+    23: Havana Storm
+    24: Odessa Sea
+  id: 40653
+  name: Dirk Pitt
+  url: /series/40653.dirk-pitt
+Discworld:
+  books:
+    7: Pyramids
+    8: Guards! Guards!
+    13: Small Gods
+    16.5: Troll Bridge
+    28: The Amazing Maurice and His Educated Rodents
+    34.5: Where's My Cow?
+    37.5: A Collegiate Casting-Out of Devilish Devices
+    39.5: The World of Poo
+  id: 40650
+  name: Discworld
+  url: /series/40650.discworld
+Divergent:
+  books:
+    0.1: The Transfer
+    0.2: The Initiate
+    0.3: The Son
+    0.4: The Traitor
+    1: Divergent
+    1.5: 'Free Four: Tobias Tells the Divergent Knife-Throwing Scene'
+    2: Insurgent
+    2.5: 'The World of Divergent: The Path to Allegiant'
+    3: Allegiant
+    3.5: We Can Be Mended
+    1-2: The Divergent Series 2-Book Collection
+    1-3: Divergent Series Complete Box Set
+  id: 57530
+  name: Divergent
+  url: /series/57530.divergent
+Dune:
+  books: {}
+  id: 45935
+  name: Dune
+  url: /series/45935.dune
+Elantris:
+  books:
+    1: Elantris, Part 1 of 3
+    1.5: The Hope of Elantris
+    2: Elantris, Part 2 of 3
+    3: Elantris, Part 3 of 3
+  id: 87970
+  name: Elantris
+  url: /series/87970.elantris
+Empire:
+  books:
+    1: Empire
+    2: Hidden Empire
+  id: 53864
+  name: Empire
+  url: /series/53864.empire
+Ender's Shadow:
+  books:
+    1: Ender's Shadow
+    2: Shadow of the Hegemon
+    3: Shadow Puppets
+    4: Shadow of the Giant
+    5: Shadows in Flight
+    6: Shadows Alive
+    1-2: Shadow Two-Book Set
+    1-3: 'Ender''s Shadow Three-Book Set: Ender''s Shadow, Shadow of the Hegemon,
+      and Shadow Puppets'
+  id: 40409
+  name: Ender's Shadow
+  url: /series/40409.enders-shadow
+'Enderverse:  Publication Order':
+  books: {}
+  id: 65565
+  name: 'Enderverse:  Publication Order'
+  url: /series/65565.enderverse-publication-order
+Eric Carter:
+  books:
+    1: Dead Things
+    2: Broken Souls
+    3: Hungry Ghosts
+  id: 101877
+  name: Eric Carter
+  url: /series/101877.eric-carter
+Fifth Millenium:
+  books: {}
+  id: 51904
+  name: Fifth Millenium
+  url: /series/51904.fifth-millenium
+Formic Wars:
+  books: {}
+  id: 90130
+  name: Formic Wars
+  url: /series/90130.formic-wars
+Foundation:
+  books:
+    1: Foundation
+    2: Foundation and Empire
+    3: Second Foundation
+    4: Foundation's Edge
+    5: Foundation and Earth
+    1-3: The Foundation Trilogy
+  id: 59386
+  name: Foundation
+  url: /series/59386.foundation
+Frozen Sky:
+  books:
+    1: The Frozen Sky
+    2: Betrayed
+    3: Blindsided
+  id: 153852
+  name: Frozen Sky
+  url: /series/153852.frozen-sky
+Graceling Realm:
+  books:
+    1: Graceling
+    2: Fire
+    3: Bitterblue
+  id: 57592
+  name: Graceling Realm
+  url: /series/57592.graceling-realm
+Harry Potter:
+  books:
+    0.5: 'Harry Potter: The Prequel'
+    1: Harry Potter and the Sorcerer's Stone
+    2: Harry Potter and the Chamber of Secrets
+    3: Harry Potter and the Prisoner of Azkaban
+    4: Harry Potter and the Goblet of Fire
+    5: Harry Potter and the Order of the Phoenix
+    6: Harry Potter and the Half-Blood Prince
+    7: Harry Potter and the Deathly Hallows
+    8: Harry Potter and the Cursed Child - Parts One and Two
+    1-3: The Harry Potter trilogy
+    1-4: The Harry Potter Collection 1-4
+    1-6: Harry Potter Collection
+    1-7: Harry Potter Boxset
+  id: 45175
+  name: Harry Potter
+  url: /series/45175.harry-potter
+His Dark Materials:
+  books:
+    0.5: Once Upon a Time in the North
+    0.6: The Collectors
+    1: The Golden Compass
+    2: The Subtle Knife
+    3: The Amber Spyglass
+    3.5: Lyra's Oxford
+    1-3: His Dark Materials
+  id: 44427
+  name: His Dark Materials
+  url: /series/44427.his-dark-materials
+Hitchhiker's Guide to the Galaxy:
+  books:
+    0.5: Young Zaphod Plays It Safe
+  id: 40957
+  name: Hitchhiker's Guide to the Galaxy
+  url: /series/40957.hitchhikers-guide-to-the-galaxy
+Holes:
+  books:
+    1.5: Stanley Yelnats' Survival Guide to Camp Green Lake
+  id: 60765
+  name: Holes
+  url: /series/60765.holes
+Imperial Radch:
+  books:
+    0.5: Night's Slow Poison
+    0.6: She Commands Me and I Obey
+    1: Ancillary Justice
+    2: Ancillary Sword
+    3: Ancillary Mercy
+  id: 113751
+  name: Imperial Radch
+  url: /series/113751.imperial-radch
+John Cleaver:
+  books:
+    1: I Am Not A Serial Killer
+    2: Mr. Monster
+    3: I Don't Want to Kill You
+    3.5: Next of Kin
+    4: The Devil's Only Friend
+    5: Over Your Dead Body
+    6: Nothing Left To Lose
+  id: 49883
+  name: John Cleaver
+  url: /series/49883.john-cleaver
+Kane Chronicles:
+  books:
+    1: The Red Pyramid
+    2: The Throne of Fire
+    3: The Serpent's Shadow
+  id: 49971
+  name: Kane Chronicles
+  url: /series/49971.kane-chronicles
+Laundry Files:
+  books:
+    1: The Atrocity Archives
+    1.5: The Concrete Jungle
+    2: The Jennifer Morgue
+    2.5: Down on the Farm
+    2.9: Equoid
+    3: The Fuller Memorandum
+    3.5: Overtime
+    4: The Apocalypse Codex
+    5: The Rhesus Chart
+    6: The Annihilation Score
+    7: The Nightmare Stacks
+    8: The Delirium Brief
+    1-2: On Her Majesty's Occult Service
+  id: 50764
+  name: Laundry Files
+  url: /series/50764.laundry-files
+Legion:
+  books:
+    1: Legion
+    2: Skin Deep
+    1-2: Legion
+  id: 123080
+  name: Legion
+  url: /series/123080.legion
+London Below,  The World of Neverwhere:
+  books: {}
+  id: 130921
+  name: London Below,  The World of Neverwhere
+  url: /series/130921.london-below-the-world-of-neverwhere
+Mad Science Institute:
+  books: {}
+  id: 130613
+  name: Mad Science Institute
+  url: /series/130613.mad-science-institute
+Magic Ex Libris:
+  books:
+    1: Libriomancer
+    2: Codex Born
+    3: Unbound
+    4: Revisionary
+    4.5: Imprinted
+  id: 67567
+  name: Magic Ex Libris
+  url: /series/67567.magic-ex-libris
+Maus:
+  books:
+    1: 'Maus I: A Survivor''s Tale: My Father Bleeds History'
+    2: 'Maus II: A Survivor''s Tale: And Here My Troubles Began'
+    1-2: The Complete Maus
+  id: 50145
+  name: Maus
+  url: /series/50145.maus
+Mercury:
+  books:
+    0.5: Mercury Begins
+    0.6: Mercury Swings
+    1: Mercury Falls
+    2: Mercury Rises
+    3: Mercury Rests
+    4: Mercury Revolts
+    5: Mercury Shrugs
+  id: 68304
+  name: Mercury
+  url: /series/68304.mercury
+Mercy Thompson:
+  books:
+    1: Moon Called
+    2: Blood Bound
+    3: Iron Kissed
+    4: Bone Crossed
+    5: Silver Borne
+    6: River Marked
+    7: Frost Burned
+    8: Night Broken
+    9: Fire Touched
+    10: Silence Fallen
+    11: Untitled
+    1-3: Preying For Mercy
+    1-5: The Mercy Thompson Collection Books
+    1-6: Mercy Thompson Series Collection
+  id: 40932
+  name: Mercy Thompson
+  url: /series/40932.mercy-thompson
+Millennium:
+  books:
+    1: The Girl with the Dragon Tattoo
+    2: The Girl Who Played with Fire
+    3: The Girl Who Kicked the Hornet's Nest
+    4: The Girl in the Spider's Web
+    5: The Girl Who Takes an Eye for an Eye
+    2-1: La ragazza che giocava con il fuoco 1
+  id: 44598
+  name: Millennium
+  url: /series/44598.millennium
+Mistborn:
+  books:
+    0.5: The Eleventh Metal
+    1: The Final Empire
+    2: The Well of Ascension
+    3: The Hero of Ages
+    3.5: Secret History
+    4: The Alloy of Law
+    5: Shadows of Self
+    6: The Bands of Mourning
+    7: The Lost Metal
+    1-3: Mistborn Trilogy Boxed Set
+  id: 40910
+  name: Mistborn
+  url: /series/40910.mistborn
+Mistborn - Alloy Era:
+  books: {}
+  id: 123082
+  name: Mistborn - Alloy Era
+  url: /series/123082.mistborn---alloy-era
+NUMA Files:
+  books:
+    1: Serpent
+    2: Blue Gold
+    3: Fire Ice
+    4: White Death
+    5: Lost City
+    6: Polar Shift
+    7: The Navigator
+    8: Medusa
+    9: Devil's Gate
+    10: The Storm
+    11: Zero Hour
+    12: Ghost Ship
+    13: The Pharaoh's Secret
+    14: Nighthawk
+    15: The Rising Sea
+  id: 42640
+  name: NUMA Files
+  url: /series/42640.numa-files
+Near Space:
+  books:
+    1: Orbital Decay
+    2: Clarke County, Space
+    3: Lunar Descent
+    4: Labyrinth of Night
+    5: A King of Infinite Space
+  id: 114128
+  name: Near Space
+  url: /series/114128.near-space
+Necroscope:
+  books:
+    1: Necroscope
+    2: Vamphyri!
+    3: The Source
+    4: 'Necroscope IV: Deadspeak'
+    5: 'Necroscope V: Deadspawn'
+    6: 'Vampire World I: Blood Brothers'
+    8: 'Vampire World III: Bloodwars'
+    9: 'Necroscope: The Lost Years Volume I'
+    10: 'Necroscope: Resurgence, The Lost Years Volume II'
+    11: 'Necroscope: Invaders'
+    12: 'Necroscope: Defilers'
+    13: 'Necroscope: Avengers'
+    14: 'Necroscope: The Touch'
+    15: 'Necroscope: The Plague-Bearer'
+    16: 'Necroscope: The Mobius Murders'
+  id: 40853
+  name: Necroscope
+  url: /series/40853.necroscope
+Newsflesh:
+  books:
+    0.75: All the Pretty Little Horses
+    4: Feedback
+  id: 47749
+  name: Newsflesh
+  url: /series/47749.newsflesh
+Nexus:
+  books:
+    1: Nexus
+    2: Crux
+    3: Apex
+  id: 86731
+  name: Nexus
+  url: /series/86731.nexus
+Night Angel:
+  books:
+    0.5: Perfect Shadow
+    1: The Way of Shadows
+    2: Shadow's Edge
+    3: Beyond the Shadows
+    3.5: I, Night Angel
+    1-3: The Night Angel Trilogy
+  id: 45765
+  name: Night Angel
+  url: /series/45765.night-angel
+Odd Thomas:
+  books:
+    1: Odd Thomas
+    2: Forever Odd
+    3: Brother Odd
+    4: Odd Hours
+    4.1: 'Odd Interlude #1'
+    4.2: 'Odd Interlude #2'
+    4.3: 'Odd Interlude #3'
+    5: Odd Apocalypse
+    6: Deeply Odd
+    7: Saint Odd
+  id: 43672
+  name: Odd Thomas
+  url: /series/43672.odd-thomas
+Odyssey One:
+  books:
+    1: Odyssey One
+    2: The Heart of Matter
+    3: Homeworld
+    4: Out of the Black
+    5: Warrior King
+    6: Odysseus Awakening
+  id: 79684
+  name: Odyssey One
+  url: /series/79684.odyssey-one
+Partials Sequence:
+  books:
+    0.5: Isolation
+    1: Partials
+    2: Fragments
+    3: Ruins
+  id: 70323
+  name: Partials Sequence
+  url: /series/70323.partials-sequence
+Pendragon:
+  books:
+    1: The Merchant of Death
+    2: The Lost City of Faar
+    3: The Never War
+    4: The Reality Bug
+    5: Black Water
+    6: The Rivers of Zadaa
+    7: The Quillan Games
+    8: The Pilgrims of Rayne
+    9: Raven Rise
+    10: The Soldiers of Halla
+    3-4: The Never War / The Reality Bug
+  id: 42782
+  name: Pendragon
+  url: /series/42782.pendragon
+Percy Jackson and the Olympians:
+  books:
+    1: The Lightning Thief
+    2: The Sea of Monsters
+    3: The Titan's Curse
+    4: The Battle of the Labyrinth
+    4.5: Percy Jackson and the Sword of Hades
+    4.6: Percy Jackson and the Stolen Chariot
+    4.7: Percy Jackson and the Bronze Dragon
+    5: The Last Olympian
+    5.5: Percy Jackson and the Singer of Apollo
+    1-3: Percy Jackson and the Olympians
+    1-4: Percy Jackson and the Olympians Boxed Set
+    1-5: Percy Jackson and the Olympians Boxed Set
+  id: 40736
+  name: Percy Jackson and the Olympians
+  url: /series/40736.percy-jackson-and-the-olympians
+Powder Mage:
+  books:
+    0.1: Forsworn
+    0.2: Servant of the Crown
+    0.3: Murder at the Kinnen Hotel
+    0.4: Hope's End
+    0.5: The Girl of Hrusch Avenue
+    0.6: Green-Eyed Vipers
+    0.7: The Face in the Window
+    0.8: Ghosts of the Tristan Basin
+    1: Promise of Blood
+    1.5: Return to Honor
+    2: The Crimson Campaign
+    3: The Autumn Republic
+  id: 99602
+  name: Powder Mage
+  url: /series/99602.powder-mage
+Rama:
+  books:
+    1: Rendezvous with Rama
+    1.5: Bright Messengers
+    1.75: Double Full Moon Night
+    2: Rama II
+    3: The Garden of Rama
+    4: Rama Revealed
+    4.5: The Tranquility Wars
+    3-4: "Rama : l'int\xE9grale, Tome 2"
+  id: 49121
+  name: Rama
+  url: /series/49121.rama
+Red Rising Saga:
+  books:
+    4: Iron Gold
+    5: Untitled
+    6: Untitled
+  id: 117100
+  name: Red Rising Saga
+  url: /series/117100.red-rising-saga
+Redwall:
+  books:
+    1: Redwall
+    2: Mossflower
+    3: Mattimeo
+    4: Mariel of Redwall
+    5: Salamandastron
+    6: Martin the Warrior
+    7: The Bellmaker
+    8: Outcast of Redwall
+    9: Pearls of Lutra
+    10: The Long Patrol
+    11: Marlfox
+    12: The Legend of Luke
+    13: Lord Brocktree
+    14: Taggerung
+    15: Triss
+    16: Loamhedge
+    17: Rakkety Tam
+    18: High Rhulain
+    19: Eulalia!
+    20: Doomwyte
+    21: The Sable Quean
+    22: The Rogue Crew
+  id: 40340
+  name: Redwall
+  url: /series/40340.redwall
+Remembrance of Earth's Past:
+  books: {}
+  id: 189931
+  name: Remembrance of Earth's Past
+  url: /series/189931.remembrance-of-earths-past
+Revelation Space:
+  books:
+    1: Revelation Space
+  id: 56392
+  name: Revelation Space
+  url: /series/56392.revelation-space
+Ringworld:
+  books:
+    1: Ringworld
+    2: The Ringworld Engineers
+    3: The Ringworld Throne
+    4: Ringworld's Children
+    5: 'Fate of Worlds: Return from the Ringworld'
+    2-3: "\u0418\u043D\u0436\u0435\u043D\u0435\u0440\u044B \u041A\u043E\u043B\u044C\
+      \u0446\u0430. \u0422\u0440\u043E\u043D \u041A\u043E\u043B\u044C\u0446\u0430"
+  id: 50225
+  name: Ringworld
+  url: /series/50225.ringworld
+Rithmatist:
+  books:
+    2: The Aztlanian
+  id: 102179
+  name: Rithmatist
+  url: /series/102179.rithmatist
+Robert Langdon:
+  books:
+    1: Angels & Demons
+    2: The Da Vinci Code
+    3: The Lost Symbol
+    4: Inferno
+    5: Origin
+    1-2: Angels and Demons / The Da Vinci Code
+  id: 92467
+  name: Robert Langdon
+  url: /series/92467.robert-langdon
+Safehold:
+  books:
+    1: Off Armageddon Reef
+    2: By Schism Rent Asunder
+    3: By Heresies Distressed
+    4: A Mighty Fortress
+    5: How Firm a Foundation
+    6: Midst Toil and Tribulation
+    7: Like a Mighty Army
+    8: Hell's Foundations Quiver
+    9: At the Sign of Triumph
+  id: 58713
+  name: Safehold
+  url: /series/58713.safehold
+Silo:
+  books:
+    1: Wool Omnibus
+    3: Dust
+    1-3: The Wool Trilogy
+  id: 70647
+  name: Silo
+  url: /series/70647.silo
+Spin Saga:
+  books: {}
+  id: 52279
+  name: Spin Saga
+  url: /series/52279.spin-saga
+Tales of Alvin Maker:
+  books:
+    1: Seventh Son
+    2: Red Prophet
+    3: Prentice Alvin
+    4: Alvin Journeyman
+    5: Heartfire
+    6: The Crystal City
+    1-3: Hatrack River
+    4-5: Alvin Wandering
+  id: 40411
+  name: Tales of Alvin Maker
+  url: /series/40411.tales-of-alvin-maker
+Tales of MU:
+  books: {}
+  id: 161577
+  name: Tales of MU
+  url: /series/161577.tales-of-mu
+Temeraire:
+  books:
+    0.5: Vici
+    1: His Majesty's Dragon
+    1.5: Feast or Famine
+    2: Throne of Jade
+    3: Black Powder War
+    4: Empire of Ivory
+    5: Victory of Eagles
+    6: Tongues of Serpents
+    7: Crucible of Gold
+    8: Blood of Tyrants
+    9: League of Dragons
+    1-3: 'Temeraire: In the Service of the King'
+  id: 43272
+  name: Temeraire
+  url: /series/43272.temeraire
+The Academy:
+  books:
+    1: The Engines of God
+    2: Deepsix
+    3: Chindi
+    4: Omega
+    5: Odyssey
+    6: Cauldron
+    7: Starhawk
+  id: 42777
+  name: The Academy
+  url: /series/42777.the-academy
+The Broken Earth:
+  books:
+    1: The Fifth Season
+    2: The Obelisk Gate
+    3: The Stone Sky
+  id: 112296
+  name: The Broken Earth
+  url: /series/112296.the-broken-earth
+The Chronicles of Amber:
+  books:
+    1: Nine Princes in Amber
+    2: The Guns of Avalon
+    3: Sign of the Unicorn
+    4: The Hand of Oberon
+    5: The Courts of Chaos
+    6: Trumps of Doom
+    7: Blood of Amber
+    8: Sign of Chaos
+    9: Knight of Shadows
+    10: Prince of Chaos
+    1-10: The Great Book of Amber
+  id: 40859
+  name: The Chronicles of Amber
+  url: /series/40859.the-chronicles-of-amber
+The Chronicles of Narnia:
+  books: {}
+  id: 49073
+  name: The Chronicles of Narnia
+  url: /series/49073.the-chronicles-of-narnia
+The Cinder Spires:
+  books:
+    1: The Aeronaut's Windlass
+    2: The Olympian Affair
+  id: 98053
+  name: The Cinder Spires
+  url: /series/98053.the-cinder-spires
+The Clockwork Century:
+  books:
+    1: Boneshaker
+    1.1: Clementine
+    1.2: Tanglefoot
+    2: Dreadnought
+    3: Ganymede
+    4: The Inexplicables
+    5: Fiddlehead
+    6: Jacaranda
+  id: 43930
+  name: The Clockwork Century
+  url: /series/43930.the-clockwork-century
+The Cosmere:
+  books: {}
+  id: 135117
+  name: The Cosmere
+  url: /series/135117.the-cosmere
+The Crescent Moon Kingdoms:
+  books:
+    1: Throne of the Crescent Moon
+    2: The Thousand and One
+    3: Untitled
+  id: 53826
+  name: The Crescent Moon Kingdoms
+  url: /series/53826.the-crescent-moon-kingdoms
+The Dark Tower:
+  books:
+    0.5: The Little Sisters of Eluria
+    1: The Gunslinger
+    2: The Drawing of the Three
+    3: The Waste Lands
+    4: Wizard and Glass
+    5: Wolves of the Calla
+    6: Song of Susannah
+    7: The Dark Tower
+    8: The Wind Through the Keyhole
+  id: 40750
+  name: The Dark Tower
+  url: /series/40750.the-dark-tower
+The Dresden Files:
+  books:
+    0.2: Restoration of Faith
+    1: Storm Front
+    2: Fool Moon
+    3: Grave Peril
+    4: Summer Knight
+    5: Death Masks
+    5.5: Vignette
+    6: Blood Rites
+    7: Dead Beat
+    8: Proven Guilty
+    9: White Night
+    10: Small Favor
+    10.4: Backup
+    11: Turn Coat
+    11.5: Love Hurts
+    12: Changes
+    12.5: 'Side Jobs: Stories from the Dresden Files'
+    13: Ghost Story
+    14: Cold Days
+    15: Skin Game
+    15.1: Brief Cases
+    15.5: Working for Bigfoot
+    16: Peace Talks
+    17: Mirror, Mirror
+  id: 40346
+  name: The Dresden Files
+  url: /series/40346.the-dresden-files
+The Dresden Files Graphic Novels:
+  books: {}
+  id: 59341
+  name: The Dresden Files Graphic Novels
+  url: /series/59341.the-dresden-files-graphic-novels
+The Ender Quintet:
+  books:
+    0.5: First Meetings in Ender's Universe
+  id: 43963
+  name: The Ender Quintet
+  url: /series/43963.the-ender-quintet
+The Expanse:
+  books:
+    0.1: Drive
+    0.2: The Churn
+    0.5: The Butcher of Anderson Station
+    1: Leviathan Wakes
+    2: Caliban's War
+    2.5: Gods of Risk
+    3: Abaddon's Gate
+    4: Cibola Burn
+    5: Nemesis Games
+    5.5: The Vital Abyss
+    6: Babylon's Ashes
+    6.5: Strange Dogs
+    7: Persepolis Rising
+    8: Untitled
+    9: Untitled
+  id: 56399
+  name: The Expanse
+  url: /series/56399.the-expanse
+The First Formic War:
+  books:
+    1: Earth Unaware
+    2: Earth Afire
+    3: Earth Awakens
+  id: 72732
+  name: The First Formic War
+  url: /series/72732.the-first-formic-war
+The Giver:
+  books:
+    1: The Giver
+    2: Gathering Blue
+    3: Messenger
+    4: Son
+    1-4: The Giver Quartet
+  id: 43606
+  name: The Giver
+  url: /series/43606.the-giver
+The Golem and the Jinni:
+  books:
+    1: The Golem and the Jinni
+  id: 164849
+  name: The Golem and the Jinni
+  url: /series/164849.the-golem-and-the-jinni
+The Grand Tour:
+  books:
+    1: Powersat
+    4: Mars
+    7: Return to Mars
+    9: Jupiter
+    13: Saturn
+    14: Leviathans of Jupiter
+    15: Titan
+    16: Mercury
+    17: Mars Life
+    18: Venus
+    20: Farside
+    21: New Earth
+  id: 51185
+  name: The Grand Tour
+  url: /series/51185.the-grand-tour
+The Heroes of Olympus:
+  books:
+    1: The Lost Hero
+    2: The Son of Neptune
+    3: The Mark of Athena
+    4: The House of Hades
+    5: The Blood of Olympus
+    2.5: The Demigod Diaries
+    1-3: The Heroes of Olympus
+    1-5: The Heroes of Olympus Boxed Set
+  id: 51379
+  name: The Heroes of Olympus
+  url: /series/51379.the-heroes-of-olympus
+The Hobbit:
+  books: {}
+  id: 203438
+  name: The Hobbit
+  url: /series/203438.the-hobbit
+The Hunger Games:
+  books:
+    1: The Hunger Games
+    2: Catching Fire
+    3: Mockingjay
+    1-3: The Hunger Games Trilogy Boxset
+  id: 73758
+  name: The Hunger Games
+  url: /series/73758.the-hunger-games
+The Hungry City Chronicles:
+  books:
+    1: Mortal Engines
+    2: Predator's Gold
+    3: Infernal Devices
+    4: A Darkling Plain
+  id: 43859
+  name: The Hungry City Chronicles
+  url: /series/43859.the-hungry-city-chronicles
+The Inheritance Cycle:
+  books:
+    1: Eragon
+    2: Eldest
+    3: Brisingr
+    4: Inheritance
+    5: Untitled
+  id: 44866
+  name: The Inheritance Cycle
+  url: /series/44866.the-inheritance-cycle
+The Iron Druid Chronicles:
+  books:
+    0.4: The Grimoire of the Lamb
+    0.5: Clan Rathskeller
+    1: Hounded
+    2: Hexed
+    3: Hammered
+    3.5: A Test of Mettle
+    4: Tricked
+    4.5: Two Ravens and One Crow
+    4.6: The Chapel Perilous
+    4.7: 'Carniepunk: The Demon Barker of Wheat Street'
+    5: Trapped
+    6: Hunted
+    7: Shattered
+    8: Staked
+    8.5: The Purloined Poodle
+    9: Scourged
+    1-3: Hounded, Hexed, Hammered - The Iron Druid Chronicles Bundle
+    0.3: A Fantasy Medley 3
+  id: 52837
+  name: The Iron Druid Chronicles
+  url: /series/52837.the-iron-druid-chronicles
+The Keys to the Kingdom:
+  books:
+    1: Mister Monday
+    2: Grim Tuesday
+    3: Drowned Wednesday
+    4: Sir Thursday
+    5: Lady Friday
+    6: Superior Saturday
+    7: Lord Sunday
+    1-4: Mister Monday, Grim Tuesday, Drowned Wednesday, and Sir Thursday
+  id: 42967
+  name: The Keys to the Kingdom
+  url: /series/42967.the-keys-to-the-kingdom
+The Kingkiller Chronicle:
+  books:
+    1: The Name of the Wind
+    2: The Wise Man's Fear
+    2.5: The Slow Regard of Silent Things
+    3: Doors of Stone
+  id: 45262
+  name: The Kingkiller Chronicle
+  url: /series/45262.the-kingkiller-chronicle
+The Lord of the Rings:
+  books:
+    1: The Fellowship of the Ring
+    2: The Two Towers
+    3: The Return of the King
+    1-3: The Lord of the Rings
+  id: 66175
+  name: The Lord of the Rings
+  url: /series/66175.the-lord-of-the-rings
+The Martian:
+  books:
+    0.5: 'Diary of an AssCan: A Mark Watney Short Story'
+  id: 176319
+  name: The Martian
+  url: /series/176319.the-martian
+The Mortal Instruments:
+  books:
+    1: City of Bones
+    2: City of Ashes
+    3: City of Glass
+    4: City of Fallen Angels
+    5: City of Lost Souls
+    6: City of Heavenly Fire
+    1-3: 'The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of
+      Glass'
+    1-4: The Mortal Instruments
+    1-5: City of Bones / City of Ashes / City of Glass / City of Fallen Angels / City
+      of Lost Souls
+  id: 44457
+  name: The Mortal Instruments
+  url: /series/44457.the-mortal-instruments
+The Reckoners:
+  books:
+    1: Steelheart
+    1.5: Mitosis
+    2: Firefight
+    3: Calamity
+  id: 93010
+  name: The Reckoners
+  url: /series/93010.the-reckoners
+The Runelords:
+  books: {}
+  id: 41322
+  name: The Runelords
+  url: /series/41322.the-runelords
+The Stormlight Archive:
+  books:
+    1: The Way of Kings
+    2: Words of Radiance
+    2.5: Edgedancer
+    3: Oathbringer
+    4: Untitled
+    5: Highprince of War
+    6: Untitled
+    7: Untitled
+    8: Untitled
+    9: Untitled
+    10: Untitled
+  id: 49075
+  name: The Stormlight Archive
+  url: /series/49075.the-stormlight-archive
+The Unnaturalists:
+  books:
+    1: The Unnaturalists
+    1.5: A Stranger in the Garden
+    2: The Tinker King
+  id: 85425
+  name: The Unnaturalists
+  url: /series/85425.the-unnaturalists
+The Wheel of Time:
+  books: {}
+  id: 41526
+  name: The Wheel of Time
+  url: /series/41526.the-wheel-of-time
+The Wicked Years:
+  books:
+    0.5: Tales Told in Oz
+    1: 'Wicked: The Life and Times of the Wicked Witch of the West'
+    2: Son of a Witch
+    3: A Lion Among Men
+    4: Out of Oz
+    1-2: Wicked / Son of a Witch
+  id: 43509
+  name: The Wicked Years
+  url: /series/43509.the-wicked-years
+Time Quintet:
+  books: {}
+  id: 49403
+  name: Time Quintet
+  url: /series/49403.time-quintet
+To Kill a Mockingbird:
+  books: {}
+  id: 146340
+  name: To Kill a Mockingbird
+  url: /series/146340.to-kill-a-mockingbird
+Twilight:
+  books:
+    1: Twilight
+    1.5: Midnight Sun
+    1.75: "\xC0 la vie, \xE0 la mort: Twilight r\xE9invent\xE9"
+    2: New Moon
+    3: Eclipse
+    3.5: The Short Second Life of Bree Tanner
+    4: Breaking Dawn
+    4.5: 'The Twilight Saga: The Official Illustrated Guide'
+    1-3: The Twilight Collection
+    1-4: The Twilight Saga
+  id: 45363
+  name: Twilight
+  url: /series/45363.twilight
+Unspeakable Things:
+  books:
+    1: Technomancer
+    2: The Bone Triangle
+    3: The Elixir
+  id: 81281
+  name: Unspeakable Things
+  url: /series/81281.unspeakable-things
+Warbreaker:
+  books:
+    1: Warbreaker, Part 1 of 3
+    2: Warbreaker, Part 2 of 3
+    3: Warbreaker, Part 3 of 3
+  id: 108715
+  name: Warbreaker
+  url: /series/108715.warbreaker
+Welcome to Night Vale:
+  books: {}
+  id: 190615
+  name: Welcome to Night Vale
+  url: /series/190615.welcome-to-night-vale
+White Trash Zombie:
+  books:
+    1: My Life as a White Trash Zombie
+    2: Even White Trash Zombies Get the Blues
+    3: White Trash Zombie Apocalypse
+    4: How the White Trash Zombie Got Her Groove Back
+    5: White Trash Zombie Gone Wild
+    6: White Trash Zombie Unchained
+  id: 54966
+  name: White Trash Zombie
+  url: /series/54966.white-trash-zombie
+Wild Cards:
+  books:
+    1: Wild Cards
+    2: Aces High
+    3: Jokers Wild
+    4: Aces Abroad
+    5: Down and Dirty
+    6: Ace in the Hole
+    7: Dead Man's Hand
+    8: One-Eyed Jacks
+    9: Jokertown Shuffle
+    10: Double Solitaire
+    11: Dealer's Choice
+    12: Turn of the Cards
+    13: Card Sharks
+    14: Marked Cards
+    15: Black Trump
+    16: Deuces Down
+    17: Death Draws Five
+    18: Inside Straight
+    19: Busted Flush
+    20: Suicide Kings
+    21: Fort Freak
+    22: Lowball
+    23: High Stakes
+    24: Mississippi Roll
+    25: Low Chicago
+  id: 40686
+  name: Wild Cards
+  url: /series/40686.wild-cards
+Wool:
+  books:
+    1: Wool
+    2: Proper Gauge
+    3: Casting Off
+    4: The Unraveling
+    5: The Stranded
+  id: 106702
+  name: Wool
+  url: /series/106702.wool
+Worthing:
+  books:
+    1: Capitol
+    2: Hot Sleep
+    3: The Worthing Chronicle
+    1-3: The Worthing Saga
+  id: 53869
+  name: Worthing
+  url: /series/53869.worthing

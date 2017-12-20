@@ -2,8 +2,10 @@
 title: Nemesis Games
 date: 2017-10-30
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Expanse
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Expanse
 ---
 {{< goodreads book="Nemesis Games" cover="true" >}}
 

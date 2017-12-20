@@ -2,8 +2,10 @@
 title: Summer Knight
 date: 2016-02-26
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Summer Knight" cover="true" >}}
 

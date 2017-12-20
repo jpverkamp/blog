@@ -2,8 +2,10 @@
 title: Broken Souls
 date: 2017-11-25
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Eric Carter
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Eric Carter
 ---
 {{< goodreads book="Broken Souls" cover="true" >}}
 
@@ -19,7 +21,11 @@ Aztecwise, it's a culture that I know the basics about, but that's about it (and
 
 Characterwise, Eric is still a surprisingly excellent protagonist. He's certainly damaged and not particularly likeable, but he's well written and there's a certain sense of 'can't look away'. You just have to see what's going to happen to him next.  
 
-> “Not every mage is an asshole, you know.”   >   > “Really?” I say. “That your experience? Sure as hell isn’t mine.”   >   > “Has it occurred to you that it’s because you’re one of the assholes?”
+> “Not every mage is an asshole, you know.”  
+
+> “Really?” I say. “That your experience? Sure as hell isn’t mine.”  
+
+> “Has it occurred to you that it’s because you’re one of the assholes?”
 
 Santa Muerte is still fascinating as well. Especially seeing more of her older alter ego. It's always risky to include gods in an urban fantasy, but it seems done well to me.  
 

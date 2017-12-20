@@ -2,8 +2,11 @@
 title: Lords and Ladies
 date: 2017-03-29
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Discworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Discworld
+- Discworld (Witches)
 ---
 {{< goodreads book="Lords and Ladies" cover="true" >}}
 

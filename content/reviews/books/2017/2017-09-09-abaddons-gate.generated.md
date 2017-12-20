@@ -2,8 +2,10 @@
 title: Abaddon's Gate
 date: 2017-09-09
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Expanse
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Expanse
 ---
 {{< goodreads book="Abaddon's Gate" cover="true" >}}
 

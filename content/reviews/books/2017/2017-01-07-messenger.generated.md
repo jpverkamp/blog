@@ -2,8 +2,10 @@
 title: Messenger
 date: 2017-01-07
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Giver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Giver
 ---
 {{< goodreads book="Messenger" cover="true" >}}
 

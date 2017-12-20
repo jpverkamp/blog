@@ -2,8 +2,10 @@
 title: The Three-Body Problem
 date: 2016-09-26
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Remembrance of Earth's Past
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Remembrance of Earth's Past
 ---
 {{< goodreads book="The Three-Body Problem" cover="true" >}}
 

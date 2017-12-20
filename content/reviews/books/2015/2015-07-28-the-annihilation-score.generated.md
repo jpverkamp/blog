@@ -2,8 +2,10 @@
 title: The Annihilation Score
 date: 2015-07-28
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Laundry Files
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Laundry Files
 ---
 {{< goodreads book="The Annihilation Score" cover="true" >}}
 

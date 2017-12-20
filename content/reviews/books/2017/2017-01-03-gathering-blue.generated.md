@@ -2,8 +2,10 @@
 title: Gathering Blue
 date: 2017-01-03
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: The Giver
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- The Giver
 ---
 {{< goodreads book="Gathering Blue" cover="true" >}}
 

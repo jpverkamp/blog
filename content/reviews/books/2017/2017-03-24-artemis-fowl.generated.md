@@ -2,8 +2,10 @@
 title: Artemis Fowl
 date: 2017-03-24
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Artemis Fowl
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Artemis Fowl
 ---
 {{< goodreads book="Artemis Fowl" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: Ringworld
 date: 2017-05-02
 generated: true
-reviews/lists: 2017 Book Reviews
-reviews/series: Ringworld
+reviews/lists:
+- 2017 Book Reviews
+reviews/series:
+- Ringworld
 ---
 {{< goodreads book="Ringworld" cover="true" >}}
 
@@ -27,47 +29,15 @@ Speaker-to-Animals is the other alien, from some sort of warrior race which trie
 
 Teela Brown is the other human crewmemeber. She's a twenty-something that's lucky (that's actually a weirdly large plot point, see below) and woefully inexperienced for something like this. Other than the luck, the only reason she seems to be about is to have someone for Louis to have sex with? Towards the end of the book (when Louis has found a new sex target), this happens:  
 
->   >
-
->
-
 > "He got very uncomfortable and stopped sleeping with me. He thinks you own me, Louis."
-
->
-
->   >
-
->
 
 > "Slavery?"
 
->
-
->   >
-
->
-
 > "Slavery for women, I think. You'll tell him you don't own me, won't you?
-
->
-
->   >
-
->
 
 > Louis felt pain in his throat. "It might save explanations if I just sold you to him. If that's what you want."
 
->
-
->   >
-
->
-
 > "You're right. And it is."
-
->
-
->   >
 
 So... yeah.  
 

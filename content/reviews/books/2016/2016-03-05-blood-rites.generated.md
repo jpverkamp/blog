@@ -2,8 +2,10 @@
 title: Blood Rites
 date: 2016-03-05
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="Blood Rites" cover="true" >}}
 

@@ -2,8 +2,10 @@
 title: The Crimson Campaign
 date: 2015-12-02
 generated: true
-reviews/lists: 2015 Book Reviews
-reviews/series: Powder Mage
+reviews/lists:
+- 2015 Book Reviews
+reviews/series:
+- Powder Mage
 ---
 {{< goodreads book="The Crimson Campaign" cover="true" >}}
 

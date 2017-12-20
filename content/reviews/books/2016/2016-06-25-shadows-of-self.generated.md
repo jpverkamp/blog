@@ -2,8 +2,10 @@
 title: Shadows of Self
 date: 2016-06-25
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mistborn - Alloy Era
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mistborn - Alloy Era
 ---
 {{< goodreads book="Shadows of Self" cover="true" >}}
 

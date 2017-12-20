@@ -2,8 +2,10 @@
 title: The Hero of Ages
 date: 2016-06-05
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Mistborn
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Mistborn
 ---
 {{< goodreads book="The Hero of Ages" cover="true" >}}
 

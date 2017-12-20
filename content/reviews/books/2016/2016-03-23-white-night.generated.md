@@ -2,8 +2,10 @@
 title: White Night
 date: 2016-03-23
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: The Dresden Files
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- The Dresden Files
 ---
 {{< goodreads book="White Night" cover="true" >}}
 

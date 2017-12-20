@@ -2,8 +2,10 @@
 title: Harry Potter and the Chamber of Secrets
 date: 2016-10-27
 generated: true
-reviews/lists: 2016 Book Reviews
-reviews/series: Harry Potter
+reviews/lists:
+- 2016 Book Reviews
+reviews/series:
+- Harry Potter
 ---
 {{< goodreads book="Harry Potter and the Chamber of Secrets" cover="true" >}}
 
