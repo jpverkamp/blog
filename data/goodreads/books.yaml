@@ -862,6 +862,15 @@ Feed:
   series: Newsflesh
   series_index: 1
   url: /book/show/7094569.feed
+Feet of Clay:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1320490628l/34527.jpg
+  id: 34527
+  localCover: /embeds/books/feet-of-clay.jpg
+  name: Feet of Clay
+  series: Discworld
+  series_index: 19
+  url: /book/show/34527.feet-of-clay
 Fire:
   author: Kristin Cashore
   cover: https://images.gr-assets.com/books/1331535456l/6137154.jpg
