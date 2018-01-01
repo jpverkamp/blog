@@ -1,3 +1,12 @@
+A Darker Shade of Magic:
+  author: V.E. Schwab
+  cover: https://images.gr-assets.com/books/1400322851l/22055262.jpg
+  id: 22055262
+  localCover: /embeds/books/a-darker-shade-of-magic.jpg
+  name: A Darker Shade of Magic
+  series: Shades of Magic
+  series_index: 1
+  url: /book/show/22055262.a-darker-shade-of-magic
 A Game of Thrones:
   author: George R.R. Martin
   cover: https://images.gr-assets.com/books/1436732693l/13496.jpg
@@ -200,6 +209,15 @@ Aurora:
   localCover: /embeds/books/aurora.jpg
   name: Aurora
   url: /book/show/23197269.aurora
+'Aurora: CV-01':
+  author: Ryk Brown
+  cover: https://images.gr-assets.com/books/1334812795l/13504505.jpg
+  id: 13504505
+  localCover: /embeds/books/aurora-cv-01.jpg
+  name: 'Aurora: CV-01'
+  series: The Frontiers Saga (Part 1)
+  series_index: 1
+  url: /book/show/13504505.aurora-cv-01
 Axis:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1312044997l/116410.jpg
@@ -925,6 +943,15 @@ First Lord's Fury:
   series: Codex Alera
   series_index: 6
   url: /book/show/6316821.first-lords-fury
+'First Shift: Legacy':
+  author: Hugh Howey
+  cover: https://images.gr-assets.com/books/1334528415l/13603717.jpg
+  id: 13603717
+  localCover: /embeds/books/first-shift-legacy.jpg
+  name: 'First Shift: Legacy'
+  series: 'Silo #2A'
+  series_index: null
+  url: /book/show/13603717.first-shift-legacy
 Fool Moon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1507307616l/91477.jpg
@@ -1096,6 +1123,15 @@ Hammered:
   series: The Iron Druid Chronicles
   series_index: 3
   url: /book/show/9595620.hammered
+Hard Magic:
+  author: Larry Correia
+  cover: https://images.gr-assets.com/books/1327951330l/8643407.jpg
+  id: 8643407
+  localCover: /embeds/books/hard-magic.jpg
+  name: Hard Magic
+  series: Grimnoir Chronicles
+  series_index: 1
+  url: /book/show/8643407.hard-magic
 Harry Potter and the Chamber of Secrets:
   author: J.K. Rowling
   cover: https://images.gr-assets.com/books/1474169725l/15881.jpg
@@ -1308,6 +1344,15 @@ Interesting Times:
   series: Discworld
   series_index: 17
   url: /book/show/884288.interesting-times
+Into the Drowning Deep:
+  author: Mira Grant
+  cover: https://images.gr-assets.com/books/1489176444l/34523174.jpg
+  id: 34523174
+  localCover: /embeds/books/into-the-drowning-deep.jpg
+  name: Into the Drowning Deep
+  series: Rolling in the Deep
+  series_index: 1
+  url: /book/show/34523174.into-the-drowning-deep
 Iron Kissed:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1358229529l/1412138.jpg
@@ -1419,6 +1464,15 @@ Lightning:
   localCover: /embeds/books/lightning.jpg
   name: Lightning
   url: /book/show/32424.lightning
+Lilith's Brood:
+  author: Octavia E. Butler
+  cover: https://images.gr-assets.com/books/1439247785l/60926.jpg
+  id: 60926
+  localCover: /embeds/books/liliths-brood.jpg
+  name: Lilith's Brood
+  series: Xenogenesis
+  series_index: 1-3
+  url: /book/show/60926.liliths-brood
 Lirael:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1266458951l/47624.jpg
@@ -1471,6 +1525,15 @@ Mad Science Institute:
   series: Mad Science Institute
   series_index: 1
   url: /book/show/13580067.mad-science-institute
+Magic Bites:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1331612872l/38619.jpg
+  id: 38619
+  localCover: /embeds/books/magic-bites.jpg
+  name: Magic Bites
+  series: Kate Daniels
+  series_index: 1
+  url: /book/show/38619.magic-bites
 Many Waters:
   author: Madeleine L'Engle
   cover: https://images.gr-assets.com/books/1330360643l/151370.jpg
@@ -2143,6 +2206,15 @@ Silver Borne:
   series: Mercy Thompson
   series_index: 5
   url: /book/show/6587387.silver-borne
+Sins of Empire:
+  author: Brian  McClellan
+  cover: https://images.gr-assets.com/books/1472056794l/28811016.jpg
+  id: 28811016
+  localCover: /embeds/books/sins-of-empire.jpg
+  name: Sins of Empire
+  series: Gods of Blood and Powder
+  series_index: 1
+  url: /book/show/28811016.sins-of-empire
 Sir Thursday:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1304528609l/47618.jpg
@@ -2385,6 +2457,15 @@ The Amber Spyglass:
   series: His Dark Materials
   series_index: 3
   url: /book/show/18122.the-amber-spyglass
+The Amulet of Samarkand:
+  author: Jonathan Stroud
+  cover: https://images.gr-assets.com/books/1327877926l/334123.jpg
+  id: 334123
+  localCover: /embeds/books/the-amulet-of-samarkand.jpg
+  name: The Amulet of Samarkand
+  series: Bartimaeus Sequence
+  series_index: 1
+  url: /book/show/334123.the-amulet-of-samarkand
 The Andromeda Strain:
   author: Michael Crichton
   cover: https://images.gr-assets.com/books/1388889327l/7670.jpg
@@ -2464,6 +2545,15 @@ The Battle of the Labyrinth:
   series: Percy Jackson and the Olympians
   series_index: 4
   url: /book/show/2120932.the-battle-of-the-labyrinth
+The Black Prism:
+  author: Brent Weeks
+  cover: https://images.gr-assets.com/books/1327921884l/7165300.jpg
+  id: 7165300
+  localCover: /embeds/books/the-black-prism.jpg
+  name: The Black Prism
+  series: Lightbringer
+  series_index: 1
+  url: /book/show/7165300.the-black-prism
 The Blood of Olympus:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1464201441l/18705209.jpg
@@ -2662,6 +2752,13 @@ The Final Empire:
   series: Mistborn
   series_index: 1
   url: /book/show/68428.the-final-empire
+The Forest:
+  author: Justin Groot
+  cover: https://images.gr-assets.com/books/1448698046l/28001090.jpg
+  id: 28001090
+  localCover: /embeds/books/the-forest.jpg
+  name: The Forest
+  url: /book/show/28001090.the-forest
 The Frozen Sky:
   author: Jeff  Carlson
   cover: https://images.gr-assets.com/books/1355447431l/16048083.jpg
@@ -2741,6 +2838,15 @@ The Giver:
   series: The Giver
   series_index: 1
   url: /book/show/3636.the-giver
+The Golden Compass:
+  author: Philip Pullman
+  cover: https://images.gr-assets.com/books/1505766203l/119322.jpg
+  id: 119322
+  localCover: /embeds/books/the-golden-compass.jpg
+  name: The Golden Compass
+  series: His Dark Materials
+  series_index: 1
+  url: /book/show/119322.the-golden-compass
 The Golem and the Jinni:
   author: Helene Wecker
   cover: https://images.gr-assets.com/books/1349205573l/15819028.jpg
@@ -2786,6 +2892,15 @@ The Hero of Ages:
   series: Mistborn
   series_index: 3
   url: /book/show/2767793.the-hero-of-ages
+The Hidden Oracle:
+  author: Rick Riordan
+  cover: https://images.gr-assets.com/books/1449765273l/26252859.jpg
+  id: 26252859
+  localCover: /embeds/books/the-hidden-oracle.jpg
+  name: The Hidden Oracle
+  series: The Trials of Apollo
+  series_index: 1
+  url: /book/show/26252859.the-hidden-oracle
 The Hitchhiker's Guide to the Galaxy:
   author: Douglas Adams
   cover: https://images.gr-assets.com/books/1327656754l/11.jpg
@@ -3010,6 +3125,15 @@ The Martian:
   series: The Martian
   series_index: 1
   url: /book/show/18007564.the-martian
+The Merchant of Death:
+  author: D.J. MacHale
+  cover: https://images.gr-assets.com/books/1351196725l/833710.jpg
+  id: 833710
+  localCover: /embeds/books/the-merchant-of-death.jpg
+  name: The Merchant of Death
+  series: Pendragon
+  series_index: 1
+  url: /book/show/833710.the-merchant-of-death
 The Name of the Wind:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1472068073l/186074.jpg
@@ -3078,6 +3202,15 @@ The Rithmatist:
   series: Rithmatist
   series_index: 1
   url: /book/show/10137823.the-rithmatist
+The Rook:
+  author: Daniel O'Malley
+  cover: https://images.gr-assets.com/books/1327619585l/10836728.jpg
+  id: 10836728
+  localCover: /embeds/books/the-rook.jpg
+  name: The Rook
+  series: The Checquy Files
+  series_index: 1
+  url: /book/show/10836728.the-rook
 The Sea of Monsters:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1400602661l/28186.jpg
@@ -3487,6 +3620,15 @@ Watchmen:
   localCover: /embeds/books/watchmen.jpg
   name: Watchmen
   url: /book/show/472331.watchmen
+We Are Legion (We Are Bob):
+  author: Dennis E. Taylor
+  cover: https://images.gr-assets.com/books/1474344826l/32109569.jpg
+  id: 32109569
+  localCover: /embeds/books/we-are-legion.jpg
+  name: We Are Legion (We Are Bob)
+  series: Bobiverse
+  series_index: 1
+  url: /book/show/32109569.we-are-legion
 We Had Stars Once:
   author: Constella Espj
   cover: https://images.gr-assets.com/books/1385513974l/18987418.jpg

@@ -119,6 +119,18 @@ Bannon & Clare:
   id: 67387
   name: Bannon & Clare
   url: /series/67387.bannon-clare
+Bartimaeus Sequence:
+  books: {}
+  id: 40838
+  name: Bartimaeus Sequence
+  url: /series/40838.bartimaeus-sequence
+Bobiverse:
+  books:
+    2: For We Are Many
+    3: All These Worlds
+  id: 192752
+  name: Bobiverse
+  url: /series/192752.bobiverse
 Boundary Magic:
   books:
     1: Boundary Crossed
@@ -322,6 +334,14 @@ Frozen Sky:
   id: 153852
   name: Frozen Sky
   url: /series/153852.frozen-sky
+Gods of Blood and Powder:
+  books:
+    1: Sins of Empire
+    2: Wrath of Empire
+    3: Untitled
+  id: 172832
+  name: Gods of Blood and Powder
+  url: /series/172832.gods-of-blood-and-powder
 Graceling Realm:
   books:
     1: Graceling
@@ -330,6 +350,17 @@ Graceling Realm:
   id: 57592
   name: Graceling Realm
   url: /series/57592.graceling-realm
+Grimnoir Chronicles:
+  books:
+    0.5: Detroit Christmas
+    1: Hard Magic
+    2: Spellbound
+    3: Warbound
+    3.5: Murder on the Orient Elite
+    3.6: 'Tokyo Raider: A Tale of the Grimnoir Chronicles'
+  id: 49861
+  name: Grimnoir Chronicles
+  url: /series/49861.grimnoir-chronicles
 Harry Potter:
   books:
     0.5: 'Harry Potter: The Prequel'
@@ -402,6 +433,29 @@ Kane Chronicles:
   id: 49971
   name: Kane Chronicles
   url: /series/49971.kane-chronicles
+Kate Daniels:
+  books:
+    0.5: A Questionable Client
+    1: Magic Bites
+    2: Magic Burns
+    3: Magic Strikes
+    3.5: Magic Mourns
+    4: Magic Bleeds
+    4.5: Magic Dreams
+    5: Magic Slays
+    5.4: Magic Gifts
+    5.5: Gunmetal Magic
+    6: Magic Rises
+    6.5: Magic Steals
+    7: Magic Breaks
+    8: Magic Shifts
+    9: Magic Binds
+    9.5: Iron and Magic
+    10: Magic Triumphs
+    1-5: A Kate Daniels Magic Series Collection
+  id: 40691
+  name: Kate Daniels
+  url: /series/40691.kate-daniels
 Laundry Files:
   books:
     1: The Atrocity Archives
@@ -428,6 +482,17 @@ Legion:
   id: 123080
   name: Legion
   url: /series/123080.legion
+Lightbringer:
+  books:
+    1: The Black Prism
+    2: The Blinding Knife
+    2.5: Gunner's Apprentice
+    3: The Broken Eye
+    4: The Blood Mirror
+    5: The Burning White
+  id: 49673
+  name: Lightbringer
+  url: /series/49673.lightbringer
 London Below,  The World of Neverwhere:
   books: {}
   id: 130921
@@ -767,6 +832,12 @@ Robert Langdon:
   id: 92467
   name: Robert Langdon
   url: /series/92467.robert-langdon
+Rolling in the Deep:
+  books:
+    0.5: Rolling in the Deep
+  id: 202951
+  name: Rolling in the Deep
+  url: /series/202951.rolling-in-the-deep
 Safehold:
   books:
     1: Off Armageddon Reef
@@ -791,6 +862,14 @@ Scarlett Bernard:
   id: 93791
   name: Scarlett Bernard
   url: /series/93791.scarlett-bernard
+Shades of Magic:
+  books:
+    1: A Darker Shade of Magic
+    2: A Gathering of Shadows
+    3: A Conjuring of Light
+  id: 122142
+  name: Shades of Magic
+  url: /series/122142.shades-of-magic
 Silo:
   books:
     1: Wool Omnibus
@@ -859,6 +938,13 @@ The Broken Earth:
   id: 112296
   name: The Broken Earth
   url: /series/112296.the-broken-earth
+The Checquy Files:
+  books:
+    1: The Rook
+    2: Stiletto
+  id: 89879
+  name: The Checquy Files
+  url: /series/89879.the-checquy-files
 The Chronicles of Amber:
   books:
     1: Nine Princes in Amber
@@ -995,6 +1081,25 @@ The First Formic War:
   id: 72732
   name: The First Formic War
   url: /series/72732.the-first-formic-war
+The Frontiers Saga:
+  books:
+    1: 'Aurora: CV-01'
+    2: The Rings of Haven
+    3: The Legend of Corinair
+    4: Freedom's Dawn
+    5: Rise of the Corinari
+    6: Head of the Dragon
+    7: The Expanse
+    8: Celestia CV-02
+    9: Resistance
+    10: Liberation
+    11: Born of the Ashes
+    13: A Show of Force
+    14: The Weak and the Innocent
+    15: That Which Other Men Cannot Do
+  id: 82725
+  name: The Frontiers Saga
+  url: /series/82725.the-frontiers-saga
 The Giver:
   books:
     1: The Giver
@@ -1180,6 +1285,17 @@ The Stormlight Archive:
   id: 49075
   name: The Stormlight Archive
   url: /series/49075.the-stormlight-archive
+The Trials of Apollo:
+  books:
+    1: The Hidden Oracle
+    2: The Dark Prophecy
+    2.5: Camp Half-Blood Confidential
+    3: The Burning Maze
+    4: Untitled
+    5: Untitled
+  id: 162088
+  name: The Trials of Apollo
+  url: /series/162088.the-trials-of-apollo
 The Unnaturalists:
   books:
     1: The Unnaturalists
@@ -1310,3 +1426,12 @@ Worthing:
   id: 53869
   name: Worthing
   url: /series/53869.worthing
+Xenogenesis:
+  books:
+    1: Dawn
+    2: Adulthood Rites
+    3: Imago
+    1-3: Lilith's Brood
+  id: 41747
+  name: Xenogenesis
+  url: /series/41747.xenogenesis
