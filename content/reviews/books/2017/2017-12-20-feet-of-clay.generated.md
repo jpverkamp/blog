@@ -34,7 +34,7 @@ On top of that, we also get an interesting comment about the nature of athiesm i
 
 > A bolt of lightning lanced down through the clouds and hit Dorfl's helmet. There was a sheet of flame and then a trickling noise. Dorfl's molten armour formed puddles around his white-hot feet.  
 
-> "I Don't Call That Much Of An Argument," said Dorfl calmly, from somewhere in the clouds of smoke. 
+> "I Don't Call That Much Of An Argument," said Dorfl calmly, from somewhere in the clouds of smoke.  
 
 It's not a huge part of the novel, but it's an interesting thought. I hope to see more of that later.  
 
@@ -67,3 +67,4 @@ Random amusing quote:
 > "Oh? How did you leave the guild?"  
 
 > "Through the roof, sir. But I'm pretty certain I know what I did wrong.”  
+

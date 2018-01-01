@@ -6,6 +6,8 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/series:
 - Mistborn
+- Arcanum Unbounded
+- The Cosmere
 ---
 {{< goodreads book="The Eleventh Metal" cover="true" >}}
 

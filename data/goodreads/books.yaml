@@ -299,6 +299,15 @@ Boneshaker:
   series: The Clockwork Century
   series_index: 1
   url: /book/show/1137215.boneshaker
+Boundary Born:
+  author: Melissa F. Olson
+  cover: https://images.gr-assets.com/books/1457960765l/28496524.jpg
+  id: 28496524
+  localCover: /embeds/books/boundary-born.jpg
+  name: Boundary Born
+  series: Boundary Magic
+  series_index: 3
+  url: /book/show/28496524.boundary-born
 Boundary Crossed:
   author: Melissa F. Olson
   cover: https://images.gr-assets.com/books/1427135597l/24369122.jpg
@@ -1326,6 +1335,15 @@ Jim Butcher's Dresden Files Welcome to the Jungle:
   series: The Dresden Files Graphic Novels
   series_index: 0.5
   url: /book/show/2637138.jim-butchers-dresden-files-welcome-to-the-jungle
+Jingo:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1327921813l/47990.jpg
+  id: 47990
+  localCover: /embeds/books/jingo.jpg
+  name: Jingo
+  series: Discworld
+  series_index: 21
+  url: /book/show/47990.jingo
 Kaibab Unbound:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1323225105l/11950840.jpg

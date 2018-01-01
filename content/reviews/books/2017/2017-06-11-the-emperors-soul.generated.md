@@ -6,6 +6,8 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/series:
 - Elantris
+- Arcanum Unbounded
+- The Cosmere
 ---
 {{< goodreads book="The Emperor's Soul" cover="true" >}}
 

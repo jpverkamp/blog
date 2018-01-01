@@ -781,6 +781,16 @@ Safehold:
   id: 58713
   name: Safehold
   url: /series/58713.safehold
+Scarlett Bernard:
+  books:
+    0.1: Bloodsick
+    0.5: Sell-By Date
+    1: Dead Spots
+    2: Trail of Dead
+    3: Hunter's Trail
+  id: 93791
+  name: Scarlett Bernard
+  url: /series/93791.scarlett-bernard
 Silo:
   books:
     1: Wool Omnibus

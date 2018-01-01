@@ -6,6 +6,8 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/series:
 - Mistborn
+- The Cosmere
+- Mistborn Era 1
 ---
 {{< goodreads book="The Hero of Ages" cover="true" >}}
 

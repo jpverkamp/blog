@@ -529,7 +529,7 @@ if __name__ == '__main__':
             # If we have custom series, add those as well
             for series_name in global_data.get('series-custom', {}):
                 if review['title'] in global_data['series-custom'][series_name]:
-                    headers['reviews/series'].append(series_name)
+                    headers.setdefault('reviews/series', []).append(series_name)
 
             content = '''\
 ---

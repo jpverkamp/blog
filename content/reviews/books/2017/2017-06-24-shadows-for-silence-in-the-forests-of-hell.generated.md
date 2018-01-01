@@ -6,6 +6,8 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/series:
 - The Cosmere
+- Arcanum Unbounded
+- The Cosmere
 ---
 {{< goodreads book="Shadows for Silence in the Forests of Hell" cover="true" >}}
 

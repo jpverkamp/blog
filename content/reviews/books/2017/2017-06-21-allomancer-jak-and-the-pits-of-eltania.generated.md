@@ -4,6 +4,9 @@ date: 2017-06-21
 generated: true
 reviews/lists:
 - 2017 Book Reviews
+reviews/series:
+- Arcanum Unbounded
+- The Cosmere
 ---
 {{< goodreads book="Allomancer Jak and the Pits of Eltania" cover="true" >}}
 
