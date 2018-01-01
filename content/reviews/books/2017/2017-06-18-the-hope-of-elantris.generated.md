@@ -5,8 +5,8 @@ generated: true
 reviews/lists:
 - 2017 Book Reviews
 reviews/series:
-- Elantris
 - Arcanum Unbounded
+- Elantris
 - The Cosmere
 ---
 {{< goodreads book="The Hope of Elantris" cover="true" >}}

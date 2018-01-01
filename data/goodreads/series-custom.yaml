@@ -82,3 +82,5 @@ Discworld (Witches):
 - Maskerade
 - Carpe Jugulum
 _comment: Additional series data for specific books; used by goodreads import
+_to_remove:
+- Mistborn - Alloy Era

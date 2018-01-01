@@ -531,6 +531,15 @@ if __name__ == '__main__':
                 if review['title'] in global_data['series-custom'][series_name]:
                     headers.setdefault('reviews/series', []).append(series_name)
 
+            # Make sure the series list is unique
+            # Remove any series that we've potentially renamed
+            if 'reviews/series' in headers:
+                for series_name in global_data.get('series-custom', {}).get('_to_remove', []):
+                    if series_name in headers['reviews/series']:
+                        headers['reviews/series'].remove(series_name)
+
+                headers['reviews/series'] = list(sorted(set(headers['reviews/series'])))
+
             content = '''\
 ---
 title: {title}

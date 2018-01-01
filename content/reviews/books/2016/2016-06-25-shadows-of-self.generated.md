@@ -5,9 +5,8 @@ generated: true
 reviews/lists:
 - 2016 Book Reviews
 reviews/series:
-- Mistborn - Alloy Era
-- The Cosmere
 - Mistborn Era 2
+- The Cosmere
 ---
 {{< goodreads book="Shadows of Self" cover="true" >}}
 

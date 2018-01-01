@@ -5,8 +5,8 @@ generated: true
 reviews/lists:
 - 2017 Book Reviews
 reviews/series:
-- Mistborn
 - Arcanum Unbounded
+- Mistborn
 - The Cosmere
 ---
 {{< goodreads book="Secret History" cover="true" >}}

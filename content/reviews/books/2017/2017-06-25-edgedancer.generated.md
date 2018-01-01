@@ -5,9 +5,9 @@ generated: true
 reviews/lists:
 - 2017 Book Reviews
 reviews/series:
-- The Stormlight Archive
 - Arcanum Unbounded
 - The Cosmere
+- The Stormlight Archive
 ---
 {{< goodreads book="Edgedancer" cover="true" >}}
 

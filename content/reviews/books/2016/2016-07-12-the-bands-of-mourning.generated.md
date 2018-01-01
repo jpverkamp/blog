@@ -6,8 +6,8 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/series:
 - Mistborn
-- The Cosmere
 - Mistborn Era 2
+- The Cosmere
 ---
 {{< goodreads book="The Bands of Mourning" cover="true" >}}
 
