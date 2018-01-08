@@ -5,6 +5,9 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Noise
+- Procedural Content
 series:
 - Advent of Code 2016
 ---

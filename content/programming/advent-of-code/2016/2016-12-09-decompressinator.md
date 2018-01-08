@@ -5,6 +5,8 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Compression
 series:
 - Advent of Code 2016
 ---

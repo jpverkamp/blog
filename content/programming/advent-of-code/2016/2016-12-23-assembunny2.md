@@ -5,6 +5,9 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Assemblers
+- Virtual Machines
 series:
 - Advent of Code 2016
 ---
@@ -128,7 +131,7 @@ Apply this before the additions above (since the first half of that is addition 
 
 Now we can run `a = 12` in a matter of seconds.
 
-It's a bit ugly to use regular expressions for this, but for just what we're solving, it works well enough. One of these days, I want to try to write a 'real' optimizing compiler for something. I'm just the special sort of crazy that is fascinated by things like that. 
+It's a bit ugly to use regular expressions for this, but for just what we're solving, it works well enough. One of these days, I want to try to write a 'real' optimizing compiler for something. I'm just the special sort of crazy that is fascinated by things like that.
 
 [^bunnies]: Because bunnies are known for having lots of children. Get it?[^jokes]
 [^jokes]: It's funny when you explain the joke.[^jokes2][^jokes3]

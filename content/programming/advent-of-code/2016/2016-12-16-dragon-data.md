@@ -5,6 +5,8 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Procedural Content
 series:
 - Advent of Code 2016
 ---
@@ -66,4 +68,4 @@ Fin.
 
 The same code works for this solution. Even though it's quite a bit slower, it still runs without crashing and quickly enough, so no need to optimize.
 
-If you wanted to optimize this, the likely solution would be to realize that you can split the problem in half and solve each half fairly easily. You only have to deal with some weirdness if the length at any point expanding is odd. 
+If you wanted to optimize this, the likely solution would be to realize that you can split the problem in half and solve each half fairly easily. You only have to deal with some weirdness if the length at any point expanding is odd.

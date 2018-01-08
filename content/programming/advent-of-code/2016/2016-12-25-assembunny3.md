@@ -5,6 +5,9 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Assemblers
+- Virtual Machines
 series:
 - Advent of Code 2016
 ---
@@ -201,4 +204,4 @@ Bingo.
 
 And that's it. Only one part on Day 25.
 
-I had a lot of fun doing these, I hope you had as much fun reading them. If you'd like to see the entire list, you can do so [here]({{< ref "2016-12-01-advent-of-code-year-2.md" >}}). 
+I had a lot of fun doing these, I hope you had as much fun reading them. If you'd like to see the entire list, you can do so [here]({{< ref "2016-12-01-advent-of-code-year-2.md" >}}).

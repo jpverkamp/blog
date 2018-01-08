@@ -5,6 +5,8 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Data Structures
 series:
 - Advent of Code 2016
 ---
@@ -139,4 +141,4 @@ We already solved this with the `__len__` method of `IntRange`:
 print('Number of allowed IPs: {}'.format(len(ips)))
 ```
 
-Interesting aside: You could probably do this with Python's built in {{< doc python ipaddress >}} module, specifically using a list of {{< doc python "ipaddress.IPv4Network" >}}. I thought it was interesting to work out myself though. 
+Interesting aside: You could probably do this with Python's built in {{< doc python ipaddress >}} module, specifically using a list of {{< doc python "ipaddress.IPv4Network" >}}. I thought it was interesting to work out myself though.

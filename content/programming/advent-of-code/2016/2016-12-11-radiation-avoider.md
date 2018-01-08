@@ -5,6 +5,10 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Backtracking
+- Data Structures
+- Optimization
 series:
 - Advent of Code 2016
 ---

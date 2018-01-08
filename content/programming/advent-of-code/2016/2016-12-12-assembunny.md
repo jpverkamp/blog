@@ -5,6 +5,9 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Assemblers
+- Virtual Machines
 series:
 - Advent of Code 2016
 ---

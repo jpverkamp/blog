@@ -5,6 +5,8 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Assemblers
 series:
 - Advent of Code 2016
 ---
@@ -191,6 +193,6 @@ for command in commands:
 print(''.join(value))
 ```
 
-Fun times. 
+Fun times.
 
 [^arbitrary]: Missing this arbitrary little detail cost me more time than I care to admit...

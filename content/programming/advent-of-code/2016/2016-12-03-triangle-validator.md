@@ -5,6 +5,8 @@ programming/languages:
 - Python
 programming/sources:
 - Advent of Code
+programming/topics:
+- Geometry
 series:
 - Advent of Code 2016
 ---
@@ -68,4 +70,4 @@ with open(args.input_file, 'r') as fin:
 print('part 2:', possible_triangles)
 ```
 
-An interesting problem in reading input files. To some extent, that's a lot of programming in real life: figuring out how to turn real world data into something you can actually analyze. 
+An interesting problem in reading input files. To some extent, that's a lot of programming in real life: figuring out how to turn real world data into something you can actually analyze.
