@@ -13,7 +13,7 @@ import:
 
 run:
 	sleep 5 && open http://localhost:1313/ &
-	hugo server
+	hugo server --buildFuture
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
