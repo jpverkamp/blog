@@ -1784,6 +1784,24 @@ Night Broken:
   series: Mercy Thompson
   series_index: 8
   url: /book/show/17562900.night-broken
+Night Watch:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1320518310l/47989.jpg
+  id: 47989
+  localCover: /embeds/books/night-watch.jpg
+  name: Night Watch
+  series: Discworld
+  series_index: 29
+  url: /book/show/47989.night-watch
+Nine Princes in Amber:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1416090973l/92121.jpg
+  id: 92121
+  localCover: /embeds/books/nine-princes-in-amber.jpg
+  name: Nine Princes in Amber
+  series: The Chronicles of Amber
+  series_index: 1
+  url: /book/show/92121.nine-princes-in-amber
 Nothing Left To Lose:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1483389403l/23629844.jpg
@@ -2197,6 +2215,15 @@ Shattered:
   series: The Dresden Files
   series_index: 12.5
   url: /book/show/7779059.side-jobs-stories-from-the-dresden-files
+Sign of the Unicorn:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1368213756l/239917.jpg
+  id: 239917
+  localCover: /embeds/books/sign-of-the-unicorn.jpg
+  name: Sign of the Unicorn
+  series: The Chronicles of Amber
+  series_index: 3
+  url: /book/show/239917.sign-of-the-unicorn
 Silver Borne:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1258762890l/6587387.jpg
@@ -2267,6 +2294,15 @@ Snapshot:
   localCover: /embeds/books/snapshot.jpg
   name: Snapshot
   url: /book/show/31176804.snapshot
+Snuff:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1302694636l/8785374.jpg
+  id: 8785374
+  localCover: /embeds/books/snuff.jpg
+  name: Snuff
+  series: Discworld
+  series_index: 39
+  url: /book/show/8785374.snuff
 Sole Survivor:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1308459581l/16431.jpg
@@ -2570,6 +2606,15 @@ The Call of Cthulhu:
   localCover: /embeds/books/the-call-of-cthulhu.jpg
   name: The Call of Cthulhu
   url: /book/show/15730101.the-call-of-cthulhu
+The Chronicles of Amber:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1415558522l/316876.jpg
+  id: 316876
+  localCover: /embeds/books/the-chronicles-of-amber.jpg
+  name: The Chronicles of Amber
+  series: 'The Chronicles of Amber #1-5 '
+  series_index: null
+  url: /book/show/316876.the-chronicles-of-amber
 The Color of Magic:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1407111017l/34497.jpg
@@ -2734,6 +2779,15 @@ The Festival:
   localCover: /embeds/books/the-festival.jpg
   name: The Festival
   url: /book/show/6505016.the-festival
+The Fifth Elephant:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1327961702l/63720.jpg
+  id: 63720
+  localCover: /embeds/books/the-fifth-elephant.jpg
+  name: The Fifth Elephant
+  series: Discworld
+  series_index: 24
+  url: /book/show/63720.the-fifth-elephant
 The Fifth Season:
   author: N.K. Jemisin
   cover: https://images.gr-assets.com/books/1386803701l/19161852.jpg
@@ -2874,6 +2928,24 @@ The Great Hunt:
   series: The Wheel of Time
   series_index: 2
   url: /book/show/233649.the-great-hunt
+The Guns of Avalon:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1368213721l/62012.jpg
+  id: 62012
+  localCover: /embeds/books/the-guns-of-avalon.jpg
+  name: The Guns of Avalon
+  series: The Chronicles of Amber
+  series_index: 2
+  url: /book/show/62012.the-guns-of-avalon
+The Hand of Oberon:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1417644788l/116982.jpg
+  id: 116982
+  localCover: /embeds/books/the-hand-of-oberon.jpg
+  name: The Hand of Oberon
+  series: The Chronicles of Amber
+  series_index: 4
+  url: /book/show/116982.the-hand-of-oberon
 The Heart of Matter:
   author: Evan Currie
   cover: https://images.gr-assets.com/books/1346990708l/13645835.jpg
@@ -3475,6 +3547,15 @@ Throne of the Crescent Moon:
   series: The Crescent Moon Kingdoms
   series_index: 1
   url: /book/show/11487807.throne-of-the-crescent-moon
+Thud!:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1320495268l/62530.jpg
+  id: 62530
+  localCover: /embeds/books/thud.jpg
+  name: Thud!
+  series: Discworld
+  series_index: 34
+  url: /book/show/62530.thud
 Tick Tock:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1310582919l/281433.jpg
