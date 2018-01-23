@@ -1,5 +1,5 @@
 ---
-title: "Pigrimage I - England"
+title: "Pilgrimage I: England"
 date: 2009-06-07 00:00:00
 photography/types:
 - Flickr Album

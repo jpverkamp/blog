@@ -1,5 +1,5 @@
 ---
-title: "Pilgrimage II - Spain"
+title: "Pilgrimage II: Spain"
 date: 2009-06-16 00:00:00
 photography/types:
 - Flickr Album
