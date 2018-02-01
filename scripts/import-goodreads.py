@@ -576,6 +576,9 @@ date: {date}
 
         for path, _, filenames in os.walk('content'):
             for filename in filenames:
+                if not filename.endswith('.md'):
+                    continue
+
                 with open(os.path.join(path, filename), 'r') as fin:
                     for raw_params in re.findall('{{<\s*goodreads\s+(.*?)\s*>}}', fin.read()):
                         params = {

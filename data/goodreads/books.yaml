@@ -2583,13 +2583,22 @@ The Battle of the Labyrinth:
   url: /book/show/2120932.the-battle-of-the-labyrinth
 The Black Prism:
   author: Brent Weeks
-  cover: https://images.gr-assets.com/books/1327921884l/7165300.jpg
-  id: 7165300
+  cover: https://images.gr-assets.com/books/1330777467l/8517437.jpg
+  id: 8517437
   localCover: /embeds/books/the-black-prism.jpg
   name: The Black Prism
   series: Lightbringer
   series_index: 1
-  url: /book/show/7165300.the-black-prism
+  url: /book/show/8517437.the-black-prism
+The Blinding Knife:
+  author: Brent Weeks
+  cover: https://images.gr-assets.com/books/1338432693l/12499290.jpg
+  id: 12499290
+  localCover: /embeds/books/the-blinding-knife.jpg
+  name: The Blinding Knife
+  series: Lightbringer
+  series_index: 2
+  url: /book/show/12499290.the-blinding-knife
 The Blood of Olympus:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1464201441l/18705209.jpg
@@ -2638,6 +2647,15 @@ The Concrete Jungle:
   series: Laundry Files
   series_index: 1.5
   url: /book/show/8488439.the-concrete-jungle
+The Courts of Chaos:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1417786728l/359581.jpg
+  id: 359581
+  localCover: /embeds/books/the-courts-of-chaos.jpg
+  name: The Courts of Chaos
+  series: The Chronicles of Amber
+  series_index: 5
+  url: /book/show/359581.the-courts-of-chaos
 The Crimson Campaign:
   author: Brian  McClellan
   cover: https://images.gr-assets.com/books/1363102695l/17608111.jpg
@@ -3487,13 +3505,13 @@ The Way of Kings:
   url: /book/show/7235533.the-way-of-kings
 The Way of Shadows:
   author: Brent Weeks
-  cover: https://images.gr-assets.com/books/1360557547l/6070107.jpg
-  id: 6070107
+  cover: https://images.gr-assets.com/books/1327881551l/3227063.jpg
+  id: 3227063
   localCover: /embeds/books/the-way-of-shadows.jpg
   name: The Way of Shadows
   series: Night Angel
   series_index: 1
-  url: /book/show/6070107.the-way-of-shadows
+  url: /book/show/3227063.the-way-of-shadows
 The Well of Ascension:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1480717596l/68429.jpg
@@ -3608,6 +3626,15 @@ Tricked:
   series: The Iron Druid Chronicles
   series_index: 4
   url: /book/show/12700306.tricked
+Trumps of Doom:
+  author: Roger Zelazny
+  cover: https://images.gr-assets.com/books/1418027077l/536790.jpg
+  id: 536790
+  localCover: /embeds/books/trumps-of-doom.jpg
+  name: Trumps of Doom
+  series: The Chronicles of Amber
+  series_index: 6
+  url: /book/show/536790.trumps-of-doom
 Turn Coat:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1304027128l/3475161.jpg
