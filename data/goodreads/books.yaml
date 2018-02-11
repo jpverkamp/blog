@@ -1685,6 +1685,15 @@ Mossflower:
   series: Redwall
   series_index: 2
   url: /book/show/201341.mossflower
+Moving Pictures:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1320456553l/34510.jpg
+  id: 34510
+  localCover: /embeds/books/moving-pictures.jpg
+  name: Moving Pictures
+  series: Discworld
+  series_index: 10
+  url: /book/show/34510.moving-pictures
 Mr. Monster:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1291075456l/7167271.jpg
