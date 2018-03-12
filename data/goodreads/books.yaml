@@ -1125,13 +1125,13 @@ Hammered:
   url: /book/show/9595620.hammered
 Hard Magic:
   author: Larry Correia
-  cover: https://images.gr-assets.com/books/1327951330l/8643407.jpg
-  id: 8643407
+  cover: https://images.gr-assets.com/books/1373862448l/18195033.jpg
+  id: 18195033
   localCover: /embeds/books/hard-magic.jpg
   name: Hard Magic
   series: Grimnoir Chronicles
   series_index: 1
-  url: /book/show/8643407.hard-magic
+  url: /book/show/18195033.hard-magic
 Harry Potter and the Chamber of Secrets:
   author: J.K. Rowling
   cover: https://images.gr-assets.com/books/1474169725l/15881.jpg
@@ -1820,6 +1820,15 @@ Nothing Left To Lose:
   series: John Cleaver
   series_index: 6
   url: /book/show/23629844.nothing-left-to-lose
+Oathbringer:
+  author: Brandon Sanderson
+  cover: https://images.gr-assets.com/books/1489673871l/34039808.jpg
+  id: 34039808
+  localCover: /embeds/books/oathbringer.jpg
+  name: Oathbringer
+  series: The Stormlight Archive
+  series_index: 3
+  url: /book/show/34039808.oathbringer
 Odd Hours:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1388204532l/2029927.jpg
@@ -3467,6 +3476,15 @@ The Titan's Curse:
   series: Percy Jackson and the Olympians
   series_index: 3
   url: /book/show/561456.the-titans-curse
+The Truth:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1347487127l/34498.jpg
+  id: 34498
+  localCover: /embeds/books/the-truth.jpg
+  name: The Truth
+  series: Discworld
+  series_index: 25
+  url: /book/show/34498.the-truth
 The Unnaturalists:
   author: Tiffany Trent
   cover: https://images.gr-assets.com/books/1344391555l/12988074.jpg
