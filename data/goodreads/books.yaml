@@ -1640,6 +1640,15 @@ Mockingjay:
   series: The Hunger Games
   series_index: 3
   url: /book/show/7260188.mockingjay
+Monstrous Regiment:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1375908503l/34511.jpg
+  id: 34511
+  localCover: /embeds/books/monstrous-regiment.jpg
+  name: Monstrous Regiment
+  series: Discworld
+  series_index: 31
+  url: /book/show/34511.monstrous-regiment
 Moon Called:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1272070347l/71811.jpg
@@ -2387,6 +2396,15 @@ Speaker for the Dead:
   series: The Ender Quintet
   series_index: 2
   url: /book/show/7967.speaker-for-the-dead
+Spellbound:
+  author: Larry Correia
+  cover: https://images.gr-assets.com/books/1385191227l/18899915.jpg
+  id: 18899915
+  localCover: /embeds/books/spellbound.jpg
+  name: Spellbound
+  series: Grimnoir Chronicles
+  series_index: 2
+  url: /book/show/18899915.spellbound
 Spin:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1406383726l/910863.jpg
@@ -3732,6 +3750,15 @@ Vortex:
   series: Spin Saga
   series_index: 3
   url: /book/show/9359796.vortex
+Warbound:
+  author: Larry Correia
+  cover: https://images.gr-assets.com/books/1359402972l/16130317.jpg
+  id: 16130317
+  localCover: /embeds/books/warbound.jpg
+  name: Warbound
+  series: Grimnoir Chronicles
+  series_index: 3
+  url: /book/show/16130317.warbound
 Warbreaker:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1240256182l/1268479.jpg
