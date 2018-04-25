@@ -1060,6 +1060,15 @@ Ghost Story:
   series: The Dresden Files
   series_index: 13
   url: /book/show/8058301.ghost-story
+Going Postal:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1388236899l/64222.jpg
+  id: 64222
+  localCover: /embeds/books/going-postal.jpg
+  name: Going Postal
+  series: Discworld
+  series_index: 33
+  url: /book/show/64222.going-postal
 Golden Son:
   author: Pierce Brown
   cover: https://images.gr-assets.com/books/1394684475l/18966819.jpg
@@ -1534,6 +1543,15 @@ Magic Bites:
   series: Kate Daniels
   series_index: 1
   url: /book/show/38619.magic-bites
+Making Money:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1440503111l/116296.jpg
+  id: 116296
+  localCover: /embeds/books/making-money.jpg
+  name: Making Money
+  series: Discworld
+  series_index: 36
+  url: /book/show/116296.making-money
 Many Waters:
   author: Madeleine L'Engle
   cover: https://images.gr-assets.com/books/1330360643l/151370.jpg
