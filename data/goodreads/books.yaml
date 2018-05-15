@@ -16,6 +16,15 @@ A Game of Thrones:
   series: A Song of Ice and Fire
   series_index: 1
   url: /book/show/13496.a-game-of-thrones
+A Hat Full of Sky:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1388177601l/618145.jpg
+  id: 618145
+  localCover: /embeds/books/a-hat-full-of-sky.jpg
+  name: A Hat Full of Sky
+  series: Discworld
+  series_index: 32
+  url: /book/show/618145.a-hat-full-of-sky
 A Memory of Light:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1336055749l/7743175.jpg
@@ -2037,6 +2046,15 @@ Pyramids:
   series: Discworld
   series_index: 7
   url: /book/show/64217.pyramids
+Raising Steam:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1375882313l/11275323.jpg
+  id: 11275323
+  localCover: /embeds/books/raising-steam.jpg
+  name: Raising Steam
+  series: Discworld
+  series_index: 40
+  url: /book/show/11275323.raising-steam
 Rama II:
   author: Arthur C. Clarke
   cover: https://images.gr-assets.com/books/1375814981l/112520.jpg
@@ -2332,6 +2350,15 @@ Small Favor:
   series: The Dresden Files
   series_index: 10
   url: /book/show/927979.small-favor
+Small Gods:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1390899426l/34484.jpg
+  id: 34484
+  localCover: /embeds/books/small-gods.jpg
+  name: Small Gods
+  series: Discworld
+  series_index: 13
+  url: /book/show/34484.small-gods
 Snapshot:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1481918792l/31176804.jpg
@@ -2538,6 +2565,15 @@ The Alloy of Law:
   series: Mistborn - Alloy Era
   series_index: 1
   url: /book/show/10803121.the-alloy-of-law
+The Amazing Maurice and His Educated Rodents:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1168566225l/34534.jpg
+  id: 34534
+  localCover: /embeds/books/the-amazing-maurice-and-his-educated-rodents.jpg
+  name: The Amazing Maurice and His Educated Rodents
+  series: Discworld
+  series_index: 28
+  url: /book/show/34534.the-amazing-maurice-and-his-educated-rodents
 The Amber Spyglass:
   author: Philip Pullman
   cover: https://images.gr-assets.com/books/1329189152l/18122.jpg
@@ -3294,6 +3330,15 @@ The Nameless City:
   localCover: /embeds/books/the-nameless-city.jpg
   name: The Nameless City
   url: /book/show/6505012.the-nameless-city
+The Never War:
+  author: D.J. MacHale
+  cover: https://images.gr-assets.com/books/1347748833l/536982.jpg
+  id: 536982
+  localCover: /embeds/books/the-never-war.jpg
+  name: The Never War
+  series: Pendragon
+  series_index: 3
+  url: /book/show/536982.the-never-war
 The Opal Deception:
   author: Eoin Colfer
   cover: https://images.gr-assets.com/books/1266475201l/114954.jpg
@@ -3575,6 +3620,15 @@ The Way of Shadows:
   series: Night Angel
   series_index: 1
   url: /book/show/3227063.the-way-of-shadows
+The Wee Free Men:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1443764106l/34494.jpg
+  id: 34494
+  localCover: /embeds/books/the-wee-free-men.jpg
+  name: The Wee Free Men
+  series: Discworld
+  series_index: 30
+  url: /book/show/34494.the-wee-free-men
 The Well of Ascension:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1480717596l/68429.jpg

@@ -9,7 +9,7 @@ reviews/series:
 ---
 {{< goodreads book="The Merchant of Death" cover="true" >}}
 
-I know I've read {{< goodreads book="The Merchant of Death" >}} / the Pendragon books before, but it's been long enough that I couldn't even say for sure when. It might have even been back when I was the same age as the eponymous protagonist Bobby Pendragon rather than more than twice that. I think I enjoyed it quite a bit though, so when it came time to  
+I know I've read {{< goodreads book="The Merchant of Death" >}} / the Pendragon books before, but it's been long enough that I couldn't even say for sure when. It might have even been back when I was the same age as the eponymous protagonist Bobby Pendragon rather than more than twice that. I think I enjoyed it quite a bit though, so worth giving it a chance to reread.  
 
 On the plus side, the main characters were well enough done for the most part. They all felt distinct and for the most part felt real. The main counterpoints to that is the 'big bad' of the book Saint Dane--you can almost hear the mustache twirling and mwahahaing--and the 'little* bad'--an overweight caricature of the 'corrupt queen', constantly eating and laughing at the slaughter  
 
