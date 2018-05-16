@@ -3364,6 +3364,15 @@ The Phantom Tollbooth:
   localCover: /embeds/books/the-phantom-tollbooth.jpg
   name: The Phantom Tollbooth
   url: /book/show/378.the-phantom-tollbooth
+The Reality Bug:
+  author: D.J. MacHale
+  cover: https://images.gr-assets.com/books/1431402995l/215541.jpg
+  id: 215541
+  localCover: /embeds/books/the-reality-bug.jpg
+  name: The Reality Bug
+  series: Pendragon
+  series_index: 4
+  url: /book/show/215541.the-reality-bug
 The Red Pyramid:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1366227978l/7090447.jpg
@@ -3936,6 +3945,15 @@ Wild Cards:
   series: Wild Cards
   series_index: 1
   url: /book/show/147908.wild-cards
+Wintersmith:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1290229201l/34492.jpg
+  id: 34492
+  localCover: /embeds/books/wintersmith.jpg
+  name: Wintersmith
+  series: Discworld
+  series_index: 35
+  url: /book/show/34492.wintersmith
 Witches Abroad:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1403326937l/2442.jpg
