@@ -1344,6 +1344,15 @@ I Don't Want to Kill You:
   series: John Cleaver
   series_index: 3
   url: /book/show/8872180.i-dont-want-to-kill-you
+I Shall Wear Midnight:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1328232764l/7576115.jpg
+  id: 7576115
+  localCover: /embeds/books/i-shall-wear-midnight.jpg
+  name: I Shall Wear Midnight
+  series: Discworld
+  series_index: 38
+  url: /book/show/7576115.i-shall-wear-midnight
 Iceberg:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1439683898l/41710.jpg
@@ -1847,6 +1856,13 @@ Nine Princes in Amber:
   series: The Chronicles of Amber
   series_index: 1
   url: /book/show/92121.nine-princes-in-amber
+'No Bad Kids: Toddler Discipline Without Shame':
+  author: Janet Lansbury
+  cover: https://images.gr-assets.com/books/1426016542l/23275206.jpg
+  id: 23275206
+  localCover: /embeds/books/no-bad-kids-toddler-discipline-without-shame.jpg
+  name: 'No Bad Kids: Toddler Discipline Without Shame'
+  url: /book/show/23275206.no-bad-kids-toddler-discipline-without-shame
 Nothing Left To Lose:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1483389403l/23629844.jpg
@@ -2698,6 +2714,15 @@ The Blood of Olympus:
   series: The Heroes of Olympus
   series_index: 5
   url: /book/show/18705209.the-blood-of-olympus
+The Broken Eye:
+  author: Brent Weeks
+  cover: https://images.gr-assets.com/books/1376583941l/12652457.jpg
+  id: 12652457
+  localCover: /embeds/books/the-broken-eye.jpg
+  name: The Broken Eye
+  series: Lightbringer
+  series_index: 3
+  url: /book/show/12652457.the-broken-eye
 The Call of Cthulhu:
   author: H.P. Lovecraft
   cover: https://images.gr-assets.com/books/1377787655l/15730101.jpg
@@ -3457,6 +3482,15 @@ The Shadow Rising:
   series: The Wheel of Time
   series_index: 4
   url: /book/show/9539.the-shadow-rising
+The Shepherd's Crown:
+  author: Terry Pratchett
+  cover: https://images.gr-assets.com/books/1433600285l/22886868.jpg
+  id: 22886868
+  localCover: /embeds/books/the-shepherds-crown.jpg
+  name: The Shepherd's Crown
+  series: Discworld
+  series_index: 41
+  url: /book/show/22886868.the-shepherds-crown
 The Slow Regard of Silent Things:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1398466695l/21535271.jpg
