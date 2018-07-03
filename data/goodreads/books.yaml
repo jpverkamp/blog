@@ -263,6 +263,15 @@ Bitterblue:
   series: Graceling Realm
   series_index: 3
   url: /book/show/12680907.bitterblue
+Black Water:
+  author: D.J. MacHale
+  cover: https://images.gr-assets.com/books/1431981444l/147801.jpg
+  id: 147801
+  localCover: /embeds/books/black-water.jpg
+  name: Black Water
+  series: Pendragon
+  series_index: 5
+  url: /book/show/147801.black-water
 Black Wind:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1334317756l/41696.jpg
@@ -1969,6 +1978,13 @@ Overtime:
   series: Laundry Files
   series_index: 3.5
   url: /book/show/8420932.overtime
+'Pale Green Dot: Sequel to The Forest':
+  author: Justin Groot
+  cover: https://images.gr-assets.com/books/1510023183l/36549857.jpg
+  id: 36549857
+  localCover: /embeds/books/pale-green-dot-sequel-to-the-forest.jpg
+  name: 'Pale Green Dot: Sequel to The Forest'
+  url: /book/show/36549857.pale-green-dot-sequel-to-the-forest
 Partials:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1337468746l/12476820.jpg
@@ -2705,6 +2721,15 @@ The Blinding Knife:
   series: Lightbringer
   series_index: 2
   url: /book/show/12499290.the-blinding-knife
+The Blood Mirror:
+  author: Brent Weeks
+  cover: https://images.gr-assets.com/books/1458662967l/29467232.jpg
+  id: 29467232
+  localCover: /embeds/books/the-blood-mirror.jpg
+  name: The Blood Mirror
+  series: Lightbringer
+  series_index: 4
+  url: /book/show/29467232.the-blood-mirror
 The Blood of Olympus:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1464201441l/18705209.jpg
@@ -2821,6 +2846,15 @@ The Door to December:
   localCover: /embeds/books/the-door-to-december.jpg
   name: The Door to December
   url: /book/show/32446.the-door-to-december
+The Dragon Reborn:
+  author: Robert Jordan
+  cover: https://images.gr-assets.com/books/1480096580l/34897.jpg
+  id: 34897
+  localCover: /embeds/books/the-dragon-reborn.jpg
+  name: The Dragon Reborn
+  series: The Wheel of Time
+  series_index: 3
+  url: /book/show/34897.the-dragon-reborn
 The Drawing of the Three:
   author: Stephen King
   cover: https://images.gr-assets.com/books/1370918050l/5094.jpg
