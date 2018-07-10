@@ -43,6 +43,19 @@ First, we want to be able to fetch the pages from Wikipedia. We really want to {
   (string->jsexpr (file->string path)))
 ```
 
+> `UPDATE 2018-07-08`
+
+> When fixing the below issue, I also found that I sometimes found pages that contained characters in the names that caused issues. Specifically `:` which doesn't work on Mac OS and `/` which doesn't work ever (since it's trying to create a subfolder). To fix it, we just strip out non-alphanumeric characters:
+
+```scheme
+; Fetch pages from Wikipedia, caching them to disk
+(define (get-page title [skip-cache #f])
+  ; If the file isn't cached, fetch it
+  (define clean-title (regexp-replace* #rx"[^a-zA-Z0-9._-]+" title "-"))
+  (define path (build-path cache (format "~a.json" clean-title)))
+  ...
+```
+
 Basically, where ever your code is running from, it will create / use a subdirectory called *cache* into which it will dump one file per page, each with the *{{< wikipedia "json" >}}* extension duplicating whatever content that Wikipedia has returned. Technically, it has the ability to force a refresh, but in practice I just deleted the entire cache folder when I wanted to reset it ((Yes, I know. That kind of defeats the purpose of having a cache in the first place...)).
 
 Unfortunately, once you have that, it's still in a nice nested structure. So we need to be able to pull out the actual page content. If you use <a title="Racket API: JSON" href="http://pre.racket-lang.org/docs/html/json/index.html">Racket's JSON library</a>, you'll have a nested series of {{< doc racket "hashes " >}}and {{< doc racket "lists" >}} that you have to navigate through. It's not quite as nice as <a title="Python JSON" href="http://docs.python.org/2/library/json.html">Python's model</a> ((Which I've used extensively <a title="Github: jsonq source" href="https://github.com/jpverkamp/jsonq">before</a>. How haven't I written a blog post about that yet?)) but it's not bad. Basically, I figured out the structure by hand and write a function to just ignore anything I didn't care about:
@@ -53,6 +66,23 @@ Unfortunately, once you have that, it's still in a nice nested structure. So we 
   (define page-keys (hash-keys (hash-ref (hash-ref page 'query) 'pages)))
   (define content (hash-ref (hash-ref (hash-ref page 'query) 'pages) (car page-keys)))
   (hash-ref (car (hash-ref content 'revisions)) '*))
+```
+
+> `UPDATE 2018-07-08`
+
+> This actually needs a fix. It seems the Wikipedia API will occasionally return 'missing pages'. To fix that, we need to detect those and return empty content for those pages. The backtracking we implement later will take care of skipping those pages.
+
+```scheme
+; Extract the first page content from a JSON encoded Wikipedia API response
+(define (get-first-page-content page)
+  (define page-keys (hash-keys (hash-ref (hash-ref page 'query) 'pages)))
+  (define content (hash-ref (hash-ref (hash-ref page 'query) 'pages) (car page-keys)))
+  (cond
+    [(hash-has-key? content 'missing)
+     (debug-printf "[DEBUG] missing content detected, skipping\n")
+     ""]
+    [else
+     (hash-ref (car (hash-ref content 'revisions)) '*)]))
 ```
 
 Now we have the actual content of the page in the original <a title="MediaWiki Syntax" href="http://www.mediawiki.org/wiki/Help:Formatting">MediaWiki syntax</a>. Links will look like this `[[target|text]]`, so we should just be able to write a simple {{< wikipedia "regular expression" >}} and we'll be golden, right? Well, not so much. There are a number of additional rules that we're supposed to follow:
