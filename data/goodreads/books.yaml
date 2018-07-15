@@ -2973,6 +2973,15 @@ The Final Empire:
   series: Mistborn
   series_index: 1
   url: /book/show/68428.the-final-empire
+The Fires of Heaven:
+  author: Robert Jordan
+  cover: https://images.gr-assets.com/books/1327866286l/13895.jpg
+  id: 13895
+  localCover: /embeds/books/the-fires-of-heaven.jpg
+  name: The Fires of Heaven
+  series: The Wheel of Time
+  series_index: 5
+  url: /book/show/13895.the-fires-of-heaven
 The Forest:
   author: Justin Groot
   cover: https://images.gr-assets.com/books/1448698046l/28001090.jpg
