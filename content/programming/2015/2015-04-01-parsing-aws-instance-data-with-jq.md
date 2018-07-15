@@ -6,6 +6,7 @@ programming/languages:
 - JSON
 programming/topics:
 - AWS
+- AWS EC2
 - Unix
 ---
 Semi-random amusing code snippet of the day:

@@ -5,6 +5,8 @@ programming/languages:
 - Python
 programming/topics:
 - AWS
+- AWS EC2
+- AWS ELB
 - Docker
 - Flask
 - Networks

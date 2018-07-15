@@ -3,6 +3,7 @@ title: Clock drift in Docker containers
 date: 2017-11-15
 programming/topics:
 - AWS
+- AWS EC2
 - Docker
 ---
 I was working on a docker container which uses the aws cli to mess around with some autoscaling groups when I got a somewhat strange error:

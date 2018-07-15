@@ -3,6 +3,7 @@ title: SSH Config ProxyCommand Tricks
 date: 2017-12-18
 programming/topics:
 - AWS
+- AWS EC2
 - Command line
 - Dotfiles
 - Proxies
@@ -72,4 +73,4 @@ In this case, logging into a remote machine using the `superuser` user and key i
 
 And... that's it. There are a handful of other tricks I use to stay organized (like keeping my various SSH keys in folders), but those three tips save me the lion's share of time.
 
-Along the way, I came across an interesting alternative: [advanced-ssh-config](https://github.com/moul/advanced-ssh-config). Basically, it's a 'smarter' system that can handle automatically proxying and some dynamic configuration for you. The one downside I've found is that I couldn't figure out how to quickly use the SSH tunnel when I need to but not when I don't. It has the ability to have fallback gateways, but the failover takes a long time. This just works. 
+Along the way, I came across an interesting alternative: [advanced-ssh-config](https://github.com/moul/advanced-ssh-config). Basically, it's a 'smarter' system that can handle automatically proxying and some dynamic configuration for you. The one downside I've found is that I couldn't figure out how to quickly use the SSH tunnel when I need to but not when I don't. It has the ability to have fallback gateways, but the failover takes a long time. This just works.

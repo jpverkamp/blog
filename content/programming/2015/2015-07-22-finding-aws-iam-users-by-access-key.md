@@ -5,6 +5,7 @@ programming/languages:
 - Python
 programming/topics:
 - AWS
+- AWS IAM
 ---
 Every once in a while[^1], I find myself with an <a href="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSGettingStartedGuide/AWSCredentials.html">AWS access key</a> and need to figure out who in the world it belongs to. Unfortunately, so far as I've been able to find, there's no way to directly do this in either the <a href="https://aws.amazon.com/console/">AWS console</a> or with the <a href="https://aws.amazon.com/cli/">AWS api</a>.
 

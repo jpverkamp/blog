@@ -5,6 +5,7 @@ programming/languages:
 - Python
 programming/topics:
 - AWS
+- AWS EC2
 ---
 Another script similar to my previous post about [Finding AWS IAM users by access key]({{< ref "2015-07-22-finding-aws-iam-users-by-access-key.md" >}}). This time, we want to do much the same thing for EC2 instances by tag.
 

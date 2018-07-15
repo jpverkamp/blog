@@ -5,6 +5,7 @@ programming/languages:
 - Python
 programming/topics:
 - AWS
+- AWS Route53
 - Boto3
 - DNS
 ---
