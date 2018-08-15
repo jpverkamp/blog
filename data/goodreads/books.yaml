@@ -1,3 +1,12 @@
+A Crown of Swords:
+  author: Robert Jordan
+  cover: https://images.gr-assets.com/books/1358542379l/13890.jpg
+  id: 13890
+  localCover: /embeds/books/a-crown-of-swords.jpg
+  name: A Crown of Swords
+  series: The Wheel of Time
+  series_index: 7
+  url: /book/show/13890.a-crown-of-swords
 A Darker Shade of Magic:
   author: V.E. Schwab
   cover: https://images.gr-assets.com/books/1400322851l/22055262.jpg
@@ -602,6 +611,15 @@ Crimson Bound:
   localCover: /embeds/books/crimson-bound.jpg
   name: Crimson Bound
   url: /book/show/21570318.crimson-bound
+Crossroads of Twilight:
+  author: Robert Jordan
+  cover: https://images.gr-assets.com/books/1408325146l/113435.jpg
+  id: 113435
+  localCover: /embeds/books/crossroads-of-twilight.jpg
+  name: Crossroads of Twilight
+  series: The Wheel of Time
+  series_index: 10
+  url: /book/show/113435.crossroads-of-twilight
 Cruel Beauty:
   author: Rosamund Hodge
   cover: https://images.gr-assets.com/books/1371652590l/15839984.jpg
@@ -1527,6 +1545,15 @@ Lord Sunday:
   series: The Keys to the Kingdom
   series_index: 7
   url: /book/show/6657648.lord-sunday
+Lord of Chaos:
+  author: Robert Jordan
+  cover: https://images.gr-assets.com/books/1480096417l/35231.jpg
+  id: 35231
+  localCover: /embeds/books/lord-of-chaos.jpg
+  name: Lord of Chaos
+  series: The Wheel of Time
+  series_index: 6
+  url: /book/show/35231.lord-of-chaos
 Lord of the Flies:
   author: William Golding
   cover: https://images.gr-assets.com/books/1327869409l/7624.jpg
@@ -4022,6 +4049,15 @@ Wild Cards:
   series: Wild Cards
   series_index: 1
   url: /book/show/147908.wild-cards
+Winter's Heart:
+  author: Robert Jordan
+  cover: https://images.gr-assets.com/books/1480096268l/13891.jpg
+  id: 13891
+  localCover: /embeds/books/winters-heart.jpg
+  name: Winter's Heart
+  series: The Wheel of Time
+  series_index: 9
+  url: /book/show/13891.winters-heart
 Wintersmith:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1290229201l/34492.jpg
