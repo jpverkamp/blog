@@ -278,6 +278,10 @@ Jim C. Hines:
   id: 172490
   name: Jim C. Hines
   url: /author/show/172490.jim-c-hines
+John Scalzi:
+  id: 4763
+  name: John Scalzi
+  url: /author/show/4763.john-scalzi
 Jonathan Stroud:
   id: 33467
   name: Jonathan Stroud
@@ -310,6 +314,10 @@ Larry Niven:
   id: 12534
   name: Larry Niven
   url: /author/show/12534.larry-niven
+Laura Ingalls Wilder:
+  id: 5300
+  name: Laura Ingalls Wilder
+  url: /author/show/5300.laura-ingalls-wilder
 Laurell K. Hamilton:
   id: 9550
   name: Laurell K. Hamilton
@@ -486,6 +494,10 @@ Stephen Blackmoore:
   id: 4449940
   name: Stephen Blackmoore
   url: /author/show/4449940.stephen-blackmoore
+Stephen Hawking:
+  id: 1401
+  name: Stephen Hawking
+  url: /author/show/1401.stephen-hawking
 Stephen King:
   id: 3389
   name: Stephen King

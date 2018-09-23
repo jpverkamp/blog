@@ -1,3 +1,10 @@
+A Brief History of Time:
+  author: Stephen Hawking
+  cover: https://images.gr-assets.com/books/1333578746l/3869.jpg
+  id: 3869
+  localCover: /embeds/books/a-brief-history-of-time.jpg
+  name: A Brief History of Time
+  url: /book/show/3869.a-brief-history-of-time
 A Crown of Swords:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1358542379l/13890.jpg
@@ -398,6 +405,13 @@ Brotherhood of the Wolf:
   series: The Runelords
   series_index: 2
   url: /book/show/144112.brotherhood-of-the-wolf
+By the Shores of Silver Lake:
+  author: Laura Ingalls Wilder
+  cover: https://images.gr-assets.com/books/1266449666l/8248.jpg
+  id: 8248
+  localCover: /embeds/books/by-the-shores-of-silver-lake.jpg
+  name: By the Shores of Silver Lake
+  url: /book/show/8248.by-the-shores-of-silver-lake
 Calamity:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1437098338l/15704486.jpg
@@ -1536,6 +1550,20 @@ Lirael:
   series: Abhorsen
   series_index: 2
   url: /book/show/47624.lirael
+Little House on the Prairie:
+  author: Laura Ingalls Wilder
+  cover: https://images.gr-assets.com/books/1441903581l/77767.jpg
+  id: 77767
+  localCover: /embeds/books/little-house-on-the-prairie.jpg
+  name: Little House on the Prairie
+  url: /book/show/77767.little-house-on-the-prairie
+Little Town on the Prairie:
+  author: Laura Ingalls Wilder
+  cover: https://images.gr-assets.com/books/1266449674l/8253.jpg
+  id: 8253
+  localCover: /embeds/books/little-town-on-the-prairie.jpg
+  name: Little Town on the Prairie
+  url: /book/show/8253.little-town-on-the-prairie
 Lord Sunday:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1304529231l/6657648.jpg
@@ -1962,6 +1990,13 @@ Off Armageddon Reef:
   series: Safehold
   series_index: 1
   url: /book/show/72199.off-armageddon-reef
+Old Man's War:
+  author: John Scalzi
+  cover: https://images.gr-assets.com/books/1487044882l/51964.jpg
+  id: 51964
+  localCover: /embeds/books/old-mans-war.jpg
+  name: Old Man's War
+  url: /book/show/51964.old-mans-war
 Omega:
   author: Jack McDevitt
   cover: https://images.gr-assets.com/books/1428280518l/352781.jpg
@@ -2096,6 +2131,13 @@ Proven Guilty:
   series: The Dresden Files
   series_index: 8
   url: /book/show/91474.proven-guilty
+Ptolemy's Gate:
+  author: Jonathan Stroud
+  cover: https://images.gr-assets.com/books/1528705796l/59264.jpg
+  id: 59264
+  localCover: /embeds/books/ptolemys-gate.jpg
+  name: Ptolemy's Gate
+  url: /book/show/59264.ptolemys-gate
 Pyramids:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1439098306l/64217.jpg
@@ -3059,6 +3101,13 @@ The Gathering Storm:
   series: The Wheel of Time
   series_index: 12
   url: /book/show/1166599.the-gathering-storm
+The Ghost Brigades:
+  author: John Scalzi
+  cover: https://images.gr-assets.com/books/1403295928l/239399.jpg
+  id: 239399
+  localCover: /embeds/books/the-ghost-brigades.jpg
+  name: The Ghost Brigades
+  url: /book/show/239399.the-ghost-brigades
 The Girl Who Kicked the Hornet's Nest:
   author: Stieg Larsson
   cover: https://images.gr-assets.com/books/1327708260l/6892870.jpg
@@ -3113,6 +3162,13 @@ The Golem and the Jinni:
   series: The Golem and the Jinni
   series_index: 1
   url: /book/show/15819028.the-golem-and-the-jinni
+The Golem's Eye:
+  author: Jonathan Stroud
+  cover: https://images.gr-assets.com/books/1441130242l/59263.jpg
+  id: 59263
+  localCover: /embeds/books/the-golems-eye.jpg
+  name: The Golem's Eye
+  url: /book/show/59263.the-golems-eye
 The Great Book of Amber:
   author: Roger Zelazny
   cover: https://images.gr-assets.com/books/1165519096l/5367.jpg
@@ -3337,6 +3393,13 @@ The Lion, the Witch, and the Wardrobe:
   series: The Chronicles of Narnia (Publication Order)
   series_index: 1
   url: /book/show/100915.the-lion-the-witch-and-the-wardrobe
+The Long Winter:
+  author: Laura Ingalls Wilder
+  cover: https://images.gr-assets.com/books/1266449683l/8282.jpg
+  id: 8282
+  localCover: /embeds/books/the-long-winter.jpg
+  name: The Long Winter
+  url: /book/show/8282.the-long-winter
 The Lord of the Rings:
   author: J.R.R. Tolkien
   cover: https://images.gr-assets.com/books/1411114164l/33.jpg
@@ -3606,13 +3669,11 @@ The Stranded:
   url: /book/show/13425846.the-stranded
 The Subtle Knife:
   author: Philip Pullman
-  cover: https://images.gr-assets.com/books/1505766360l/119324.jpg
-  id: 119324
+  cover: https://images.gr-assets.com/books/1535965085l/41637836.jpg
+  id: 41637836
   localCover: /embeds/books/the-subtle-knife.jpg
   name: The Subtle Knife
-  series: His Dark Materials
-  series_index: 2
-  url: /book/show/119324.the-subtle-knife
+  url: /book/show/41637836.the-subtle-knife
 The Summer Prince:
   author: Alaya Dawn Johnson
   cover: https://images.gr-assets.com/books/1347724491l/13453104.jpg
