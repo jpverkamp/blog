@@ -3323,6 +3323,13 @@ The Jennifer Morgue:
   series: Laundry Files
   series_index: 2
   url: /book/show/14150.the-jennifer-morgue
+The Last Colony:
+  author: John Scalzi
+  cover: https://images.gr-assets.com/books/1328313843l/8180987.jpg
+  id: 8180987
+  localCover: /embeds/books/the-last-colony.jpg
+  name: The Last Colony
+  url: /book/show/8180987.the-last-colony
 The Last Continent:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1332672492l/47994.jpg
@@ -4196,6 +4203,13 @@ Year Zero:
   localCover: /embeds/books/year-zero.jpg
   name: Year Zero
   url: /book/show/12953520.year-zero
+Zoe's Tale:
+  author: John Scalzi
+  cover: https://images.gr-assets.com/books/1301108028l/2102600.jpg
+  id: 2102600
+  localCover: /embeds/books/zoes-tale.jpg
+  name: Zoe's Tale
+  url: /book/show/2102600.zoes-tale
 Zoo City:
   author: Lauren Beukes
   cover: https://images.gr-assets.com/books/1303632588l/7163862.jpg
