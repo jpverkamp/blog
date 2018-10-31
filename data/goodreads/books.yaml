@@ -552,6 +552,13 @@ Clan Rathskeller:
   series: The Iron Druid Chronicles
   series_index: 0.5
   url: /book/show/10324651.clan-rathskeller
+Clariel:
+  author: Garth Nix
+  cover: https://images.gr-assets.com/books/1393877442l/20662728.jpg
+  id: 20662728
+  localCover: /embeds/books/clariel.jpg
+  name: Clariel
+  url: /book/show/20662728.clariel
 Codex Born:
   author: Jim C. Hines
   cover: https://images.gr-assets.com/books/1348840241l/15824178.jpg
@@ -930,6 +937,13 @@ False Memory:
   localCover: /embeds/books/false-memory.jpg
   name: False Memory
   url: /book/show/182425.false-memory
+Farmer Boy:
+  author: Laura Ingalls Wilder
+  cover: https://images.gr-assets.com/books/1388446891l/8252.jpg
+  id: 8252
+  localCover: /embeds/books/farmer-boy.jpg
+  name: Farmer Boy
+  url: /book/show/8252.farmer-boy
 Feed:
   author: Mira Grant
   cover: https://images.gr-assets.com/books/1408500437l/7094569.jpg
@@ -1128,6 +1142,13 @@ Golden Son:
   series: Red Rising Saga
   series_index: 2
   url: /book/show/18966819.golden-son
+Goldenhand:
+  author: Garth Nix
+  cover: https://images.gr-assets.com/books/1464522152l/29414640.jpg
+  id: 29414640
+  localCover: /embeds/books/goldenhand.jpg
+  name: Goldenhand
+  url: /book/show/29414640.goldenhand
 Graceling:
   author: Kristin Cashore
   cover: https://images.gr-assets.com/books/1331548394l/3236307.jpg
@@ -2883,6 +2904,13 @@ The Da Vinci Code:
   series: Robert Langdon
   series_index: 2
   url: /book/show/968.the-da-vinci-code
+The Dark Prophecy:
+  author: Rick Riordan
+  cover: https://images.gr-assets.com/books/1482720638l/30145666.jpg
+  id: 30145666
+  localCover: /embeds/books/the-dark-prophecy.jpg
+  name: The Dark Prophecy
+  url: /book/show/30145666.the-dark-prophecy
 The Dark Tower:
   author: Stephen King
   cover: https://images.gr-assets.com/books/1372296329l/5091.jpg
@@ -3845,6 +3873,13 @@ The Worthing Saga:
   name: 'Then Comes Baby: The Catholic Guide to Surviving and Thriving in the First
     Three Years of Parenthood'
   url: /book/show/21971451.then-comes-baby-the-catholic-guide-to-surviving-and-thriving-in-the-first-three-years-of-parenthood
+These Happy Golden Years:
+  author: Laura Ingalls Wilder
+  cover: https://images.gr-assets.com/books/1389579632l/77770.jpg
+  id: 77770
+  localCover: /embeds/books/these-happy-golden-years.jpg
+  name: These Happy Golden Years
+  url: /book/show/77770.these-happy-golden-years
 Thief of Time:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1388177603l/48002.jpg
