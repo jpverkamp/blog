@@ -2838,6 +2838,13 @@ The Broken Eye:
   series: Lightbringer
   series_index: 3
   url: /book/show/12652457.the-broken-eye
+The Burning Maze:
+  author: Rick Riordan
+  cover: https://images.gr-assets.com/books/1516363168l/28006096.jpg
+  id: 28006096
+  localCover: /embeds/books/the-burning-maze.jpg
+  name: The Burning Maze
+  url: /book/show/28006096.the-burning-maze
 The Call of Cthulhu:
   author: H.P. Lovecraft
   cover: https://images.gr-assets.com/books/1377787655l/15730101.jpg
