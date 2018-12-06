@@ -13,6 +13,8 @@ Let's do it again! I'm starting a day late, but much better than [last year]({{<
 
 This time around, I'm hoping to solve each problem in both Python and Racket, both to show an example of how the languages differ and ... well, because I can :innocent:.
 
+*EDIT 2018-12-05*: Yeah... I'm not actually going to do these in both Racket and Python. The solutions are ending up being near direct translations. Since there are probably fewer people solving these in Racket, I'll do that first and Python eventually™.
+
 As always, these problems are wonderful to try to solve yourself. If you agree, *stop reading now*. This post isn't going anywhere.
 
 If you'd like to see the full form of any particular solution, you can do so on GitHub (including previous years and possibly some I haven't written up yet): <a href="https://github.com/jpverkamp/advent-of-code">jpverkamp/advent-of-code</a>
