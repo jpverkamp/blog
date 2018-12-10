@@ -95,3 +95,51 @@ Well within a minute (my baseline for 'efficient enough' for these sort of probl
 I do wonder though if there's a faster way to solve this part? I bet there is. Probably something to do with {{< wikipedia "graph theory" >}}. It's always graph theory.
 
 A problem for another day.
+
+> **Update 2018-12-10:** Got a command (below): Can you use a stack to solve this problem?
+
+Why yes. Yes you can! Let's do it.
+
+All we actually have to change is the `collapse` function. What we're going to do is move elements from an `input` list to an `output` list. Whenever the top element of each list/stack reacts, remove them both. This will allow reactions to cascade natively:
+
+```racket
+; Collapse an alchemical polymer removing matching units of opposite polarity
+(define (collapse polymer)
+  (let loop ([input polymer]
+             [output '()])
+    (cond
+      ; End condition, output the stack
+      [(null? input) (reverse output)]
+      ; Initial state, nothing on the output stack to compare
+      [(null? output)
+       (loop (rest input) (list (first input)))]
+      ; Top of stack and next of input match, remove both
+      ; This will allow chain reactions since it exposes a new top of stack to react
+      [(react? (first input) (first output))
+       (loop (rest input) (rest output))]
+      ; Don't react, move to output
+      [else
+       (loop (rest input) (list* (first input) output))])))
+```
+
+And that's it; the rest of the code remains the same. We don't even need a wrapper function to collapse multiple time, this just does it.
+
+And the crazy thing is just how much faster it is:
+
+```bash
+$ cat input.txt | time racket alchemical-collapser.rkt
+
+[part 1] output length: 9078
+[part 2] removing u gives a length of: 5698
+       33.44 real        32.64 user         0.68 sys
+
+$ cat input.txt | time racket alchemical-stacker.rkt
+
+[part 1] output length: 9078
+[part 2] removing u gives a length of: 5698
+        0.54 real         0.45 user         0.08 sys
+```
+
+Now that's a speedup... Most of which comes from not having to process the entire list over and over again, instead just doing it all at once. It really does show just how much difference you can get by coming at a problem from an algorithmically different direction. 
+
+Thanks!
