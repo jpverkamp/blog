@@ -3,3 +3,4 @@ secrets.yaml
 __pycache__
 public/
 .DS_Store
+_cache
