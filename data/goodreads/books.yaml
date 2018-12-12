@@ -1435,13 +1435,11 @@ Interesting Times:
   url: /book/show/884288.interesting-times
 Into the Drowning Deep:
   author: Mira Grant
-  cover: https://images.gr-assets.com/books/1489176444l/34523174.jpg
-  id: 34523174
+  cover: https://images.gr-assets.com/books/1492727548l/34913896.jpg
+  id: 34913896
   localCover: /embeds/books/into-the-drowning-deep.jpg
   name: Into the Drowning Deep
-  series: Rolling in the Deep
-  series_index: 1
-  url: /book/show/34523174.into-the-drowning-deep
+  url: /book/show/34913896.into-the-drowning-deep
 Iron Kissed:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1358229529l/1412138.jpg
@@ -2098,6 +2096,13 @@ Precinct 13:
   localCover: /embeds/books/precinct-13.jpg
   name: Precinct 13
   url: /book/show/12779838.precinct-13
+Predator's Gold:
+  author: Philip Reeve
+  cover: https://images.gr-assets.com/books/1390103686l/48722.jpg
+  id: 48722
+  localCover: /embeds/books/predators-gold.jpg
+  name: Predator's Gold
+  url: /book/show/48722.predators-gold
 Prentice Alvin:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1386745612l/31357.jpg
