@@ -23,6 +23,13 @@ A Darker Shade of Magic:
   series: Shades of Magic
   series_index: 1
   url: /book/show/22055262.a-darker-shade-of-magic
+A Darkling Plain:
+  author: Philip Reeve
+  cover: https://images.gr-assets.com/books/1172801990l/219110.jpg
+  id: 219110
+  localCover: /embeds/books/a-darkling-plain.jpg
+  name: A Darkling Plain
+  url: /book/show/219110.a-darkling-plain
 A Game of Thrones:
   author: George R.R. Martin
   cover: https://images.gr-assets.com/books/1436732693l/13496.jpg
@@ -405,6 +412,13 @@ Brotherhood of the Wolf:
   series: The Runelords
   series_index: 2
   url: /book/show/144112.brotherhood-of-the-wolf
+Burn Bright:
+  author: Patricia Briggs
+  cover: https://images.gr-assets.com/books/1504578632l/35839437.jpg
+  id: 35839437
+  localCover: /embeds/books/burn-bright.jpg
+  name: Burn Bright
+  url: /book/show/35839437.burn-bright
 By the Shores of Silver Lake:
   author: Laura Ingalls Wilder
   cover: https://images.gr-assets.com/books/1266449666l/8248.jpg
@@ -516,6 +530,13 @@ Children of the Mind:
   series: The Ender Quintet
   series_index: 4
   url: /book/show/31360.children-of-the-mind
+Children of the Nameless:
+  author: Brandon Sanderson
+  cover: https://images.gr-assets.com/books/1544636345l/43205859.jpg
+  id: 43205859
+  localCover: /embeds/books/children-of-the-nameless.jpg
+  name: Children of the Nameless
+  url: /book/show/43205859.children-of-the-nameless
 Chindi:
   author: Jack McDevitt
   cover: https://images.gr-assets.com/books/1298783780l/382161.jpg
@@ -543,6 +564,13 @@ City of Bones:
   series: The Mortal Instruments
   series_index: 1
   url: /book/show/256683.city-of-bones
+City of Stairs:
+  author: Robert Jackson Bennett
+  cover: https://images.gr-assets.com/books/1394545220l/20174424.jpg
+  id: 20174424
+  localCover: /embeds/books/city-of-stairs.jpg
+  name: City of Stairs
+  url: /book/show/20174424.city-of-stairs
 Clan Rathskeller:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1323223194l/10324651.jpg
@@ -1424,6 +1452,13 @@ Iceberg:
   series: Dirk Pitt
   series_index: 3
   url: /book/show/41710.iceberg
+Infernal Devices:
+  author: Philip Reeve
+  cover: https://images.gr-assets.com/books/1334003040l/585261.jpg
+  id: 585261
+  localCover: /embeds/books/infernal-devices.jpg
+  name: Infernal Devices
+  url: /book/show/585261.infernal-devices
 Interesting Times:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1430881376l/884288.jpg
@@ -1741,6 +1776,13 @@ Messenger:
   series: The Giver
   series_index: 3
   url: /book/show/9834117.messenger
+Midnight Curse:
+  author: Melissa F. Olson
+  cover: https://images.gr-assets.com/books/1480540192l/31352753.jpg
+  id: 31352753
+  localCover: /embeds/books/midnight-curse.jpg
+  name: Midnight Curse
+  url: /book/show/31352753.midnight-curse
 Mister Monday:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1298425074l/47613.jpg
@@ -2414,6 +2456,13 @@ Sign of the Unicorn:
   series: The Chronicles of Amber
   series_index: 3
   url: /book/show/239917.sign-of-the-unicorn
+Silence Fallen:
+  author: Patricia Briggs
+  cover: https://images.gr-assets.com/books/1468500884l/30687916.jpg
+  id: 30687916
+  localCover: /embeds/books/silence-fallen.jpg
+  name: Silence Fallen
+  url: /book/show/30687916.silence-fallen
 Silver Borne:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1258762890l/6587387.jpg
@@ -2468,6 +2517,13 @@ Skin Game:
   series: The Dresden Files
   series_index: 15
   url: /book/show/19486421.skin-game
+Skyward:
+  author: Brandon Sanderson
+  cover: https://images.gr-assets.com/books/1531845177l/36642458.jpg
+  id: 36642458
+  localCover: /embeds/books/skyward.jpg
+  name: Skyward
+  url: /book/show/36642458.skyward
 Small Favor:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1298085176l/927979.jpg
@@ -2629,6 +2685,13 @@ Storm Front:
   series: The Dresden Files
   series_index: 1
   url: /book/show/47212.storm-front
+Sufficiently Advanced Magic:
+  author: Andrew Rowe
+  cover: https://images.gr-assets.com/books/1488182235l/34403860.jpg
+  id: 34403860
+  localCover: /embeds/books/sufficiently-advanced-magic.jpg
+  name: Sufficiently Advanced Magic
+  url: /book/show/34403860.sufficiently-advanced-magic
 Summer Knight:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1345557469l/91478.jpg
@@ -3032,6 +3095,13 @@ The Face:
   localCover: /embeds/books/the-face.jpg
   name: The Face
   url: /book/show/32437.the-face
+The Fallen:
+  author: Lee French
+  cover: https://images.gr-assets.com/books/1390778530l/20639269.jpg
+  id: 20639269
+  localCover: /embeds/books/the-fallen.jpg
+  name: The Fallen
+  url: /book/show/20639269.the-fallen
 The Fantasy Fiction Formula:
   author: Deborah Chester
   cover: https://images.gr-assets.com/books/1479513601l/26265753.jpg
