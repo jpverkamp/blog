@@ -1679,6 +1679,27 @@ Magic Bites:
   series: Kate Daniels
   series_index: 1
   url: /book/show/38619.magic-bites
+Magic Bleeds:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1407110429l/6479550.jpg
+  id: 6479550
+  localCover: /embeds/books/magic-bleeds.jpg
+  name: Magic Bleeds
+  url: /book/show/6479550.magic-bleeds
+Magic Burns:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1311280284l/1811543.jpg
+  id: 1811543
+  localCover: /embeds/books/magic-burns.jpg
+  name: Magic Burns
+  url: /book/show/1811543.magic-burns
+Magic Strikes:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1507378423l/4345498.jpg
+  id: 4345498
+  localCover: /embeds/books/magic-strikes.jpg
+  name: Magic Strikes
+  url: /book/show/4345498.magic-strikes
 Making Money:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1440503111l/116296.jpg
