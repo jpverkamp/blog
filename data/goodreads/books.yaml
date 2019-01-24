@@ -3819,6 +3819,13 @@ The Summer Prince:
   localCover: /embeds/books/the-summer-prince.jpg
   name: The Summer Prince
   url: /book/show/13453104.the-summer-prince
+'The Tangled Web: A Guide to Securing Modern Web Applications':
+  author: Michal Zalewski
+  cover: https://images.gr-assets.com/books/1344675366l/11553604.jpg
+  id: 11553604
+  localCover: /embeds/books/the-tangled-web-a-guide-to-securing-modern-web-applications.jpg
+  name: 'The Tangled Web: A Guide to Securing Modern Web Applications'
+  url: /book/show/11553604.the-tangled-web-a-guide-to-securing-modern-web-applications
 The Three-Body Problem:
   author: Liu Cixin
   cover: https://images.gr-assets.com/books/1415428227l/20518872.jpg
