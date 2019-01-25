@@ -2697,6 +2697,13 @@ Steelheart:
   series: The Reckoners
   series_index: 1
   url: /book/show/17182126.steelheart
+Stiletto:
+  author: Daniel O'Malley
+  cover: https://images.gr-assets.com/books/1433883952l/25695756.jpg
+  id: 25695756
+  localCover: /embeds/books/stiletto.jpg
+  name: Stiletto
+  url: /book/show/25695756.stiletto
 Storm Front:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1419456275l/47212.jpg
@@ -2941,6 +2948,13 @@ The Call of Cthulhu:
   localCover: /embeds/books/the-call-of-cthulhu.jpg
   name: The Call of Cthulhu
   url: /book/show/15730101.the-call-of-cthulhu
+'The Car Hacker''s Handbook: A Guide for the Penetration Tester':
+  author: Craig Smith
+  cover: https://images.gr-assets.com/books/1457292866l/26526472.jpg
+  id: 26526472
+  localCover: /embeds/books/the-car-hackers-handbook-a-guide-for-the-penetration-tester.jpg
+  name: 'The Car Hacker''s Handbook: A Guide for the Penetration Tester'
+  url: /book/show/26526472.the-car-hackers-handbook-a-guide-for-the-penetration-tester
 The Chronicles of Amber:
   author: Roger Zelazny
   cover: https://images.gr-assets.com/books/1415558522l/316876.jpg
