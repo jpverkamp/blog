@@ -1686,6 +1686,13 @@ Magic Bleeds:
   localCover: /embeds/books/magic-bleeds.jpg
   name: Magic Bleeds
   url: /book/show/6479550.magic-bleeds
+Magic Breaks:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1383236969l/12119529.jpg
+  id: 12119529
+  localCover: /embeds/books/magic-breaks.jpg
+  name: Magic Breaks
+  url: /book/show/12119529.magic-breaks
 Magic Burns:
   author: Ilona Andrews
   cover: https://images.gr-assets.com/books/1311280284l/1811543.jpg
@@ -1693,6 +1700,20 @@ Magic Burns:
   localCover: /embeds/books/magic-burns.jpg
   name: Magic Burns
   url: /book/show/1811543.magic-burns
+Magic Rises:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1359571572l/11544421.jpg
+  id: 11544421
+  localCover: /embeds/books/magic-rises.jpg
+  name: Magic Rises
+  url: /book/show/11544421.magic-rises
+Magic Slays:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1288727226l/8559047.jpg
+  id: 8559047
+  localCover: /embeds/books/magic-slays.jpg
+  name: Magic Slays
+  url: /book/show/8559047.magic-slays
 Magic Strikes:
   author: Ilona Andrews
   cover: https://images.gr-assets.com/books/1507378423l/4345498.jpg
