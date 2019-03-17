@@ -68,12 +68,12 @@
         <li><a class="taxonomy-key" href="/">All Posts</a>
             <ul>
                 <li>
-                {{ if .Page.Position.Next }}
-                <a href="{{ .Page.Position.Next.Permalink }}" class="previous-link">Prev</a>
+                {{ if .Page.Position.PrevPage }}
+                <a href="{{ .Page.Position.PrevPage.Permalink }}" class="previous-link">Prev</a>
                 {{ end }}
 
-                {{ if .Page.Position.Prev }}
-                <a href="{{ .Page.Position.Prev.Permalink }}" class="next-link">Next</a>
+                {{ if .Page.Position.NextPage }}
+                <a href="{{ .Page.Position.NextPage.Permalink }}" class="next-link">Next</a>
                 {{ end }}
             </ul>
         </li>
