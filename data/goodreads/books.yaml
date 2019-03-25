@@ -1677,6 +1677,13 @@ Mad Science Institute:
   series: Mad Science Institute
   series_index: 1
   url: /book/show/13580067.mad-science-institute
+Magic Binds:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1454609590l/17333174.jpg
+  id: 17333174
+  localCover: /embeds/books/magic-binds.jpg
+  name: Magic Binds
+  url: /book/show/17333174.magic-binds
 Magic Bites:
   author: Ilona Andrews
   cover: https://images.gr-assets.com/books/1331612872l/38619.jpg
@@ -3546,6 +3553,13 @@ The Last Olympian:
   series: Percy Jackson and the Olympians
   series_index: 5
   url: /book/show/4502507.the-last-olympian
+The Lies of Locke Lamora:
+  author: Scott Lynch
+  cover: https://images.gr-assets.com/books/1386924569l/127455.jpg
+  id: 127455
+  localCover: /embeds/books/the-lies-of-locke-lamora.jpg
+  name: The Lies of Locke Lamora
+  url: /book/show/127455.the-lies-of-locke-lamora
 The Lifecycle of Software Objects:
   author: Ted Chiang
   cover: https://images.gr-assets.com/books/1367177716l/7886338.jpg
