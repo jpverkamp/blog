@@ -1742,6 +1742,13 @@ Magic Strikes:
   localCover: /embeds/books/magic-strikes.jpg
   name: Magic Strikes
   url: /book/show/4345498.magic-strikes
+Magic Triumphs:
+  author: Ilona Andrews
+  cover: https://images.gr-assets.com/books/1502893641l/17333180.jpg
+  id: 17333180
+  localCover: /embeds/books/magic-triumphs.jpg
+  name: Magic Triumphs
+  url: /book/show/17333180.magic-triumphs
 Making Money:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1440503111l/116296.jpg
@@ -4243,6 +4250,15 @@ Watchmen:
   localCover: /embeds/books/watchmen.jpg
   name: Watchmen
   url: /book/show/472331.watchmen
+We Are Legion:
+  author: Dennis E. Taylor
+  cover: https://images.gr-assets.com/books/1474344826l/32109569.jpg
+  id: 32109569
+  localCover: /embeds/books/we-are-legion.jpg
+  name: We Are Legion
+  series: We Are Bob
+  series_index: null
+  url: /book/show/32109569.we-are-legion
 We Are Legion (We Are Bob):
   author: Dennis E. Taylor
   cover: https://images.gr-assets.com/books/1474344826l/32109569.jpg
