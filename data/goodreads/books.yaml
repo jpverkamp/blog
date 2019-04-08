@@ -2215,6 +2215,13 @@ Polar Shift:
   series: NUMA Files
   series_index: 6
   url: /book/show/41699.polar-shift
+'Practical Forensic Imaging: Securing Digital Evidence with Linux Tools':
+  author: Bruce Nikkel
+  cover: https://images.gr-assets.com/books/1473401154l/30278746.jpg
+  id: 30278746
+  localCover: /embeds/books/practical-forensic-imaging-securing-digital-evidence-with-linux-tools.jpg
+  name: 'Practical Forensic Imaging: Securing Digital Evidence with Linux Tools'
+  url: /book/show/30278746.practical-forensic-imaging-securing-digital-evidence-with-linux-tools
 Precinct 13:
   author: Tate Hallaway
   cover: https://images.gr-assets.com/books/1317596530l/12779838.jpg
