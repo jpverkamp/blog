@@ -19,10 +19,10 @@ Speaking of, I really do like seeing just how much power the witches wield in th
 
 Plotwise, I really liked how the story deals with Leah. She's certainly been dealt a rough hand with Bran--not that she hasn't brought a good amount of hate upon herself. There's a reason that when a potential traitor is revealed among the pack that she's suspect number one...  
 
-Overall, with one little caveat{{< goodreads book="Dead Heat" text="^addendum], it's a solid book. I enjoyed it more than [ Dead Heat " >}} . I'm curious just where we'll go from here.  
+Overall, with one little caveat[^addendum], it's a solid book. I enjoyed it more than {{< goodreads book="Dead Heat" >}}. I'm curious just where we'll go from here.  
 
 > You cannot look at a person, and say, ‘If I could change this or that, if I could pick what I want and discard other things, I could love this one.’ Such a love is pale and weak—and doomed to failure.
 
-{{< goodreads book="Burn Bright" text="^addendum]: In the first chapter of [ Burn Bright " >}} , there is a conversation between Anna and Charles hinting at possible romantic attraction from  {{< spoiler >}}Bran towards Mercy{{< /spoiler >}}  , which was later apparently confirmed by Briggs in a public post. With no real hints of it in more than a dozen books otherwise, for the moment, I'm just going to ignore the whole mess. If it stays as minor a part of future books (or less) as it was of this, so it goes. If this is going to be core to future story... well, we'll have to see then.
+[^addendum]: In the first chapter of [ Burn Bright " >}} , there is a conversation between Anna and Charles hinting at possible romantic attraction from  {{< spoiler >}}Bran towards Mercy{{< /spoiler >}}  , which was later apparently confirmed by Briggs in a public post. With no real hints of it in more than a dozen books otherwise, for the moment, I'm just going to ignore the whole mess. If it stays as minor a part of future books (or less) as it was of this, so it goes. If this is going to be core to future story... well, we'll have to see then.
 
 
