@@ -1593,6 +1593,13 @@ Libriomancer:
   series: Magic Ex Libris
   series_index: 1
   url: /book/show/15733416.libriomancer
+Lies of the Beholder:
+  author: Brandon Sanderson
+  cover: https://images.gr-assets.com/books/1522700684l/37640636.jpg
+  id: 37640636
+  localCover: /embeds/books/lies-of-the-beholder.jpg
+  name: Lies of the Beholder
+  url: /book/show/37640636.lies-of-the-beholder
 Life Expectancy:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1308458308l/16435.jpg
