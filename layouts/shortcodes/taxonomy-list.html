@@ -2,7 +2,7 @@
     <h3 class="title">Posts in <a href="/{{ .Get 0 | urlize }}/{{ .Get 1 | urlize }}/">{{ .Get 1 }}</a>:</h3>
     <div class="content">
         <ul>
-        {{ $data := index (index $.Site.Taxonomies (.Get 0)) (.Get 1) }}
+        {{ $data := or (index (index $.Site.Taxonomies (.Get 0)) (.Get 1)) (index (index $.Site.Taxonomies (.Get 0)) ((.Get 1) | urlize)) }}
         {{ range $page := $data.Pages.ByDate }}
             <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
         {{ end }}
