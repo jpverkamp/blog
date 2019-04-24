@@ -4,6 +4,8 @@ date: 2018-12-05
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Rolling in the Deep
 ---
 {{< goodreads book="Into the Drowning Deep" cover="true" >}}
 

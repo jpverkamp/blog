@@ -18,7 +18,7 @@
             {{ range $term, $pages := $taxonomy }}
                 {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
 
-                {{ $renderTermIfPage := in (index $params $taxonomy_name) $term }}
+                {{ $renderTermIfPage := in (index $params $taxonomy_name) $pages.Page.Title }}
                 {{ $renderTermIfList := le ($.Scratch.Get "counter") $listTermsPerTaxonomy }}
 
                 {{ if or (and $.IsPage $renderTermIfPage) (and (not $.IsPage) $renderTermIfList) }}
@@ -35,7 +35,7 @@
 
                     <li>
                         {{ if $prevPage }}<a href="{{ $prevPage.Permalink }}" class="previous-link"></a>{{ end }}
-                        <a class="taxonomy-value" href="/{{ $taxonomy_name | urlize }}/{{ $term | urlize }}">{{ $term }}</a>
+                        <a class="taxonomy-value" href="/{{ $taxonomy_name | urlize }}/{{ $term | urlize }}">{{ $pages.Page.Title }}</a>
                         {{ if $nextPage }}<a href="{{ $nextPage.Permalink }}" class="next-link"></a>{{ end }}
                     </li>
                 {{ end }}

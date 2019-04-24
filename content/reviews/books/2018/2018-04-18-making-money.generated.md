@@ -10,7 +10,7 @@ reviews/series:
 ---
 {{< goodreads book="Making Money" cover="true" >}}
 
-> It was sad, like those businessmen who came to work in serious clothes but wore colorful ties in a mad, desperate attempt to show there was a free spirit in there somewhere.  
+>  It was sad, like those businessmen who came to work in serious clothes but wore colorful ties in a mad, desperate attempt to show there was a free spirit in there somewhere.  
 
 In {{< goodreads book="Going Postal" >}}, 'former' conman Moist von Lipwig rebuilt Ankh-Morpork post from the ground up... but now he's bored. Everything is running as it should; there's nothing left to fix. So when Vetinari offers him the chance to do the same to the bank... of course he runs the other way. One thing leads to another though and eventually the Moist ends up with a new dog who just so happens to own the majority share in the bank. Good times.  
 

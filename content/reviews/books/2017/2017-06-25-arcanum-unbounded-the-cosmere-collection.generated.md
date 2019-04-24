@@ -15,6 +15,6 @@ Individual reviews:
 
 <!--more-->
 
-\- {{< goodreads book="Edgedancer" text="The Hope of Elantris](https://www.goodreads.com/book/show/10852065-the- hope-of-elantris)   \- [The Eleventh Metal](https://www.goodreads.com/book/show/22823333-the- eleventh-metal)   \- [Allomancer Jak and the Pits of Elantris](https://www.goodreads.com/book/show/33357675-allomancer-jak-and-the- pits-of-- eltania)   \- [Secret History](https://www.goodreads.com/book/show/28698036-secret- history)   \- [Shadows for Silence in the Forest of Hell](https://www.goodreads.com/book/show/21411388-shadows-for-silence-in-the- forests-of-hell)   \- [Sixth of the Dusk](https://www.goodreads.com/book/show/23397921-sixth-of- the-dusk)   \- [Edgedancer" >}}
+\- [The Hope of Elantris](https://www.goodreads.com/book/show/10852065-the- hope-of-elantris)   \- [The Eleventh Metal](https://www.goodreads.com/book/show/22823333-the- eleventh-metal)   \- [Allomancer Jak and the Pits of Elantris](https://www.goodreads.com/book/show/33357675-allomancer-jak-and-the- pits-of-- eltania)   \- [Secret History](https://www.goodreads.com/book/show/28698036-secret- history)   \- [Shadows for Silence in the Forest of Hell](https://www.goodreads.com/book/show/21411388-shadows-for-silence-in-the- forests-of-hell)   \- [Sixth of the Dusk](https://www.goodreads.com/book/show/23397921-sixth-of- the-dusk)   \- {{< goodreads book="Edgedancer" >}}
 
 

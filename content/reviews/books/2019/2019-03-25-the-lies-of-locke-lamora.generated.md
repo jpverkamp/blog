@@ -4,6 +4,8 @@ date: 2019-03-25
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Gentleman Bastard
 ---
 {{< goodreads book="The Lies of Locke Lamora" cover="true" >}}
 

@@ -4,6 +4,8 @@ date: 2018-11-17
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- The Trials of Apollo
 ---
 {{< goodreads book="The Burning Maze" cover="true" >}}
 

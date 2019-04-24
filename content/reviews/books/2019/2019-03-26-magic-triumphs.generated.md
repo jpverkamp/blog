@@ -4,6 +4,8 @@ date: 2019-03-26
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Kate Daniels
 ---
 {{< goodreads book="Magic Triumphs" cover="true" >}}
 

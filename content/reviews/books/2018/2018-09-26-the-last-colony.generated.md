@@ -4,6 +4,8 @@ date: 2018-09-26
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Old Man's War
 ---
 {{< goodreads book="The Last Colony" cover="true" >}}
 

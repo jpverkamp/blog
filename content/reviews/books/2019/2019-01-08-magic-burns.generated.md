@@ -4,6 +4,8 @@ date: 2019-01-08
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Kate Daniels
 ---
 {{< goodreads book="Magic Burns" cover="true" >}}
 
@@ -29,5 +31,6 @@ Characterwise, the new street kids Julie (yay) and Red (boo) really steal the sh
 
 Plotwise, things are fairly straight forward but get absolutely insane. It's interesting to see how the rules of this work and to realize that magic has not been back in the world for *that* long. The characters don't know much more about it than we did.  
 
-After {{< goodreads book="Magic Bites" text=" Magic Bites " >}} , I thought the series was a decent enough plot wrapped around some world building with one heck of a lot of potential. After {{< goodreads book="Magic Burns" text=" Magic Burns " >}} , this series has the potential to be among my favorite urban fantasy series I've read (right up there with {{< goodreads series="Mercy Thompson" text=" The Dresden Files ](https://www.goodreads.com/series/40346-the- dresden-files) and [ Mercy Thompson " >}} ). It really is that good. Worth a try.
+After {{< goodreads book="Magic Bites" text=" Magic Bites " >}} , I thought the series was a decent enough plot wrapped around some world building with one heck of a lot of potential. After {{< goodreads book="Magic Burns" text=" Magic Burns " >}} , this series has the potential to be among my favorite urban fantasy series I've read (right up there with [ The Dresden Files ](https://www.goodreads.com/series/40346-the- dresden-files) and {{< goodreads series="Mercy Thompson" text=" Mercy Thompson " >}} ). It really is that good. Worth a try.
+
 

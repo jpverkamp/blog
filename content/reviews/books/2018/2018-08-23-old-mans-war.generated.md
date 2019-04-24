@@ -4,6 +4,8 @@ date: 2018-08-23
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Old Man's War
 ---
 {{< goodreads book="Old Man's War" cover="true" >}}
 

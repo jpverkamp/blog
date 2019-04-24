@@ -4,6 +4,8 @@ date: 2018-10-23
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Abhorsen
 ---
 {{< goodreads book="Goldenhand" cover="true" >}}
 
@@ -11,9 +13,9 @@ reviews/lists:
 
 > “When they must,” said Lirael. “The Library is very old, and deep, and contains many things that have been put away for good reason. Creatures, dangerous knowledge, artifacts made not wisely, but too well . . . books that should not be opened without proper preparation, some books that should never be opened at all.”  
 
-<!--more-->
-
 > “Creatures?”  
+
+<!--more-->
 
 Goldenhand continues the story of the Abhorsens in the time of Sabriel, Lireal, et al, dealing with some of the fall out of the battle with Orannis the Destroyer: specifically, Chlorr. It focuses primarily on Lireal and Nick along with newcomer from the North Ferin.  
 

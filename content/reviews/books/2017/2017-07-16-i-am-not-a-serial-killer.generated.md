@@ -1,5 +1,5 @@
 ---
-title: I Am Not A Serial Killer
+title: I Am Not a Serial Killer
 date: 2017-07-16
 generated: true
 reviews/lists:

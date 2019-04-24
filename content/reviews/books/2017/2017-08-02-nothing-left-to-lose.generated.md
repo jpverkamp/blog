@@ -1,5 +1,5 @@
 ---
-title: Nothing Left To Lose
+title: Nothing Left to Lose
 date: 2017-08-02
 generated: true
 reviews/lists:

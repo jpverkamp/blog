@@ -29,6 +29,11 @@
     	</header>
     	<div class="entry-content">
             {{ .Summary }}
+            {{ if .Truncated }}
+            <div>
+                <a href="{{ .RelPermalink }}">read more...</a>
+            </div>
+            {{ end }}
     	</div>
 
         {{/* Add the HR to all but the last element and the last one only if we have more than one page */}}

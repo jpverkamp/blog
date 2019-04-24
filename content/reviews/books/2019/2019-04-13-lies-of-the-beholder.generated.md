@@ -4,6 +4,8 @@ date: 2019-04-13
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Legion
 ---
 {{< goodreads book="Lies of the Beholder" cover="true" >}}
 

@@ -4,6 +4,8 @@ date: 2018-12-09
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Mortal Engines Quartet
 ---
 {{< goodreads book="Predator's Gold" cover="true" >}}
 

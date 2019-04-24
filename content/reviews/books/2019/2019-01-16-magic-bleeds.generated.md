@@ -4,6 +4,8 @@ date: 2019-01-16
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Kate Daniels
 ---
 {{< goodreads book="Magic Bleeds" cover="true" >}}
 

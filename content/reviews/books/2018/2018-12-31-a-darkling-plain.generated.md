@@ -4,6 +4,8 @@ date: 2018-12-31
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Mortal Engines Quartet
 ---
 {{< goodreads book="A Darkling Plain" cover="true" >}}
 

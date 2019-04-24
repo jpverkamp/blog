@@ -24,3 +24,5 @@ Characterwise, I never really feel much for any of the main characters, other th
 Overall, I enjoyed the book well enough to read the sequels. Perhaps not immediately though? I am curious where in the world it can go from here...  
 
 > “You aren't a hero and I'm not beautiful and we probably won't live happily ever after " she said. "But we're alive and together and we're going to be all right.”
+
+

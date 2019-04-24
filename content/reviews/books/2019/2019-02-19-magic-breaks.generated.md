@@ -4,6 +4,8 @@ date: 2019-02-19
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Kate Daniels
 ---
 {{< goodreads book="Magic Breaks" cover="true" >}}
 

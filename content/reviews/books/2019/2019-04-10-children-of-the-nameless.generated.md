@@ -4,6 +4,8 @@ date: 2019-04-10
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- 'Magic: The Gathering'
 ---
 {{< goodreads book="Children of the Nameless" cover="true" >}}
 

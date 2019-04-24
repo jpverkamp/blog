@@ -4,6 +4,8 @@ date: 2018-09-20
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- Bartimaeus
 ---
 {{< goodreads book="Ptolemy's Gate" cover="true" >}}
 

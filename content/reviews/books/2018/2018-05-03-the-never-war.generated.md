@@ -13,9 +13,9 @@ reviews/series:
 
 > I looked up into a pair of wise eyes that had seen far more than mine.  
 
-<!--more-->
-
 > "Because there's nobody else," he said.  
+
+<!--more-->
 
 Well, now we know why 'our' Earth is called Second Earth. Turns out there is also a First Earth, which seems to be quite literally the past: specifically in the 1930s. Since we've been told a number of times that a traveler (somehow) always arrives when they need to, I'm not sure why these would be separate worlds at all, but so it goes.  
 

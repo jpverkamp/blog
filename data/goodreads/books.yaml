@@ -29,6 +29,8 @@ A Darkling Plain:
   id: 219110
   localCover: /embeds/books/a-darkling-plain.jpg
   name: A Darkling Plain
+  series: Mortal Engines Quartet
+  series_index: 4
   url: /book/show/219110.a-darkling-plain
 A Game of Thrones:
   author: George R.R. Martin
@@ -120,7 +122,9 @@ Academ's Fury:
   url: /book/show/133664.academs-fury
 Aether of Night:
   author: Brandon Sanderson
+  cover: https://images.gr-assets.com/books/1513286726l/33833355.jpg
   id: 33833355
+  localCover: /embeds/books/aether-of-night.jpg
   name: Aether of Night
   url: /book/show/33833355.aether-of-night
 All These Worlds:
@@ -129,6 +133,8 @@ All These Worlds:
   id: 35506021
   localCover: /embeds/books/all-these-worlds.jpg
   name: All These Worlds
+  series: Bobiverse
+  series_index: 3
   url: /book/show/35506021.all-these-worlds
 Allomancer Jak and the Pits of Eltania:
   author: Brandon Sanderson
@@ -136,6 +142,8 @@ Allomancer Jak and the Pits of Eltania:
   id: 33357675
   localCover: /embeds/books/allomancer-jak-and-the-pits-of-eltania.jpg
   name: Allomancer Jak and the Pits of Eltania
+  series: The Cosmere
+  series_index: null
   url: /book/show/33357675.allomancer-jak-and-the-pits-of-eltania
 Alvin Journeyman:
   author: Orson Scott Card
@@ -392,6 +400,15 @@ Boundary Lines:
   series: Boundary Magic
   series_index: 2
   url: /book/show/25283833.boundary-lines
+Bqylon's Ashes:
+  author: James S.A. Corey
+  cover: https://images.gr-assets.com/books/1459605268l/28053798.jpg
+  id: 28053798
+  localCover: /embeds/books/babylons-ashes.jpg
+  name: Babylon's Ashes
+  series: The Expanse
+  series_index: 6
+  url: /book/show/28053798.babylons-ashes
 Bright Smoke, Cold Fire:
   author: Rosamund Hodge
   cover: https://images.gr-assets.com/books/1455542433l/28448239.jpg
@@ -425,6 +442,8 @@ Burn Bright:
   id: 35839437
   localCover: /embeds/books/burn-bright.jpg
   name: Burn Bright
+  series: Alpha & Omega
+  series_index: 5
   url: /book/show/35839437.burn-bright
 By the Shores of Silver Lake:
   author: Laura Ingalls Wilder
@@ -432,6 +451,8 @@ By the Shores of Silver Lake:
   id: 8248
   localCover: /embeds/books/by-the-shores-of-silver-lake.jpg
   name: By the Shores of Silver Lake
+  series: Little House
+  series_index: 5
   url: /book/show/8248.by-the-shores-of-silver-lake
 Calamity:
   author: Brandon Sanderson
@@ -543,6 +564,8 @@ Children of the Nameless:
   id: 43205859
   localCover: /embeds/books/children-of-the-nameless.jpg
   name: Children of the Nameless
+  series: 'Magic: The Gathering'
+  series_index: null
   url: /book/show/43205859.children-of-the-nameless
 Chindi:
   author: Jack McDevitt
@@ -577,6 +600,8 @@ City of Stairs:
   id: 20174424
   localCover: /embeds/books/city-of-stairs.jpg
   name: City of Stairs
+  series: The Divine Cities
+  series_index: 1
   url: /book/show/20174424.city-of-stairs
 Clan Rathskeller:
   author: Kevin Hearne
@@ -593,6 +618,8 @@ Clariel:
   id: 20662728
   localCover: /embeds/books/clariel.jpg
   name: Clariel
+  series: Abhorsen
+  series_index: 4
   url: /book/show/20662728.clariel
 Codex Born:
   author: Jim C. Hines
@@ -666,6 +693,8 @@ Crimson Bound:
   id: 21570318
   localCover: /embeds/books/crimson-bound.jpg
   name: Crimson Bound
+  series: Myth Crossover
+  series_index: null
   url: /book/show/21570318.crimson-bound
 Crossroads of Twilight:
   author: Robert Jordan
@@ -773,7 +802,7 @@ Death Masks:
   url: /book/show/91479.death-masks
 Deception Point:
   author: Dan Brown
-  cover: https://images.gr-assets.com/books/1386924347l/976.jpg
+  cover: https://images.gr-assets.com/books/1551277487l/976.jpg
   id: 976
   localCover: /embeds/books/deception-point.jpg
   name: Deception Point
@@ -978,6 +1007,8 @@ Farmer Boy:
   id: 8252
   localCover: /embeds/books/farmer-boy.jpg
   name: Farmer Boy
+  series: Little House
+  series_index: 3
   url: /book/show/8252.farmer-boy
 Feed:
   author: Mira Grant
@@ -1066,6 +1097,8 @@ For We Are Many:
   id: 33395557
   localCover: /embeds/books/for-we-are-many.jpg
   name: For We Are Many
+  series: Bobiverse
+  series_index: 2
   url: /book/show/33395557.for-we-are-many
 Forever Odd:
   author: Dean Koontz
@@ -1190,6 +1223,8 @@ Goldenhand:
   id: 29414640
   localCover: /embeds/books/goldenhand.jpg
   name: Goldenhand
+  series: Abhorsen
+  series_index: 5
   url: /book/show/29414640.goldenhand
 Graceling:
   author: Kristin Cashore
@@ -1479,6 +1514,8 @@ Infernal Devices:
   id: 585261
   localCover: /embeds/books/infernal-devices.jpg
   name: Infernal Devices
+  series: Mortal Engines Quartet
+  series_index: 3
   url: /book/show/585261.infernal-devices
 Interesting Times:
   author: Terry Pratchett
@@ -1495,6 +1532,8 @@ Into the Drowning Deep:
   id: 34913896
   localCover: /embeds/books/into-the-drowning-deep.jpg
   name: Into the Drowning Deep
+  series: Rolling in the Deep
+  series_index: 1
   url: /book/show/34913896.into-the-drowning-deep
 Iron Kissed:
   author: Patricia Briggs
@@ -1599,6 +1638,8 @@ Lies of the Beholder:
   id: 37640636
   localCover: /embeds/books/lies-of-the-beholder.jpg
   name: Lies of the Beholder
+  series: Legion
+  series_index: 3
   url: /book/show/37640636.lies-of-the-beholder
 Life Expectancy:
   author: Dean Koontz
@@ -1638,6 +1679,8 @@ Little House on the Prairie:
   id: 77767
   localCover: /embeds/books/little-house-on-the-prairie.jpg
   name: Little House on the Prairie
+  series: Little House
+  series_index: 2
   url: /book/show/77767.little-house-on-the-prairie
 Little Town on the Prairie:
   author: Laura Ingalls Wilder
@@ -1645,6 +1688,8 @@ Little Town on the Prairie:
   id: 8253
   localCover: /embeds/books/little-town-on-the-prairie.jpg
   name: Little Town on the Prairie
+  series: Little House
+  series_index: 7
   url: /book/show/8253.little-town-on-the-prairie
 Lord Sunday:
   author: Garth Nix
@@ -1704,6 +1749,8 @@ Magic Binds:
   id: 17333174
   localCover: /embeds/books/magic-binds.jpg
   name: Magic Binds
+  series: Kate Daniels
+  series_index: 9
   url: /book/show/17333174.magic-binds
 Magic Bites:
   author: Ilona Andrews
@@ -1720,6 +1767,8 @@ Magic Bleeds:
   id: 6479550
   localCover: /embeds/books/magic-bleeds.jpg
   name: Magic Bleeds
+  series: Kate Daniels
+  series_index: 4
   url: /book/show/6479550.magic-bleeds
 Magic Breaks:
   author: Ilona Andrews
@@ -1727,6 +1776,8 @@ Magic Breaks:
   id: 12119529
   localCover: /embeds/books/magic-breaks.jpg
   name: Magic Breaks
+  series: Kate Daniels
+  series_index: 7
   url: /book/show/12119529.magic-breaks
 Magic Burns:
   author: Ilona Andrews
@@ -1734,6 +1785,8 @@ Magic Burns:
   id: 1811543
   localCover: /embeds/books/magic-burns.jpg
   name: Magic Burns
+  series: Kate Daniels
+  series_index: 2
   url: /book/show/1811543.magic-burns
 Magic Rises:
   author: Ilona Andrews
@@ -1741,6 +1794,8 @@ Magic Rises:
   id: 11544421
   localCover: /embeds/books/magic-rises.jpg
   name: Magic Rises
+  series: Kate Daniels
+  series_index: 6
   url: /book/show/11544421.magic-rises
 Magic Shifts:
   author: Ilona Andrews
@@ -1748,6 +1803,8 @@ Magic Shifts:
   id: 17333171
   localCover: /embeds/books/magic-shifts.jpg
   name: Magic Shifts
+  series: Kate Daniels
+  series_index: 8
   url: /book/show/17333171.magic-shifts
 Magic Slays:
   author: Ilona Andrews
@@ -1755,6 +1812,8 @@ Magic Slays:
   id: 8559047
   localCover: /embeds/books/magic-slays.jpg
   name: Magic Slays
+  series: Kate Daniels
+  series_index: 5
   url: /book/show/8559047.magic-slays
 Magic Strikes:
   author: Ilona Andrews
@@ -1762,6 +1821,8 @@ Magic Strikes:
   id: 4345498
   localCover: /embeds/books/magic-strikes.jpg
   name: Magic Strikes
+  series: Kate Daniels
+  series_index: 3
   url: /book/show/4345498.magic-strikes
 Magic Triumphs:
   author: Ilona Andrews
@@ -1769,6 +1830,8 @@ Magic Triumphs:
   id: 17333180
   localCover: /embeds/books/magic-triumphs.jpg
   name: Magic Triumphs
+  series: Kate Daniels
+  series_index: 10
   url: /book/show/17333180.magic-triumphs
 Making Money:
   author: Terry Pratchett
@@ -1873,6 +1936,8 @@ Midnight Curse:
   id: 31352753
   localCover: /embeds/books/midnight-curse.jpg
   name: Midnight Curse
+  series: Disrupted Magic
+  series_index: 1
   url: /book/show/31352753.midnight-curse
 Mister Monday:
   author: Garth Nix
@@ -2148,6 +2213,8 @@ Old Man's War:
   id: 51964
   localCover: /embeds/books/old-mans-war.jpg
   name: Old Man's War
+  series: Old Man's War
+  series_index: 1
   url: /book/show/51964.old-mans-war
 Omega:
   author: Jack McDevitt
@@ -2222,6 +2289,14 @@ Polar Shift:
   series: NUMA Files
   series_index: 6
   url: /book/show/41699.polar-shift
+Powersat:
+  author: Ben Bova
+  id: 267291
+  name: Powersat
+  series: The Grand Tour
+  series_index: 1
+  url: /book/show/267291.powersat
+  localCover: /embeds/books/powersat.jpg
 'Practical Forensic Imaging: Securing Digital Evidence with Linux Tools':
   author: Bruce Nikkel
   cover: https://images.gr-assets.com/books/1473401154l/30278746.jpg
@@ -2242,6 +2317,8 @@ Predator's Gold:
   id: 48722
   localCover: /embeds/books/predators-gold.jpg
   name: Predator's Gold
+  series: Mortal Engines Quartet
+  series_index: 2
   url: /book/show/48722.predators-gold
 Prentice Alvin:
   author: Orson Scott Card
@@ -2303,6 +2380,8 @@ Ptolemy's Gate:
   id: 59264
   localCover: /embeds/books/ptolemys-gate.jpg
   name: Ptolemy's Gate
+  series: Bartimaeus
+  series_index: 3
   url: /book/show/59264.ptolemys-gate
 Pyramids:
   author: Terry Pratchett
@@ -2367,6 +2446,15 @@ Red Rising:
   series: Red Rising Saga
   series_index: 1
   url: /book/show/15839976.red-rising
+Red Seas Under Red Skies:
+  author: Scott Lynch
+  cover: https://images.gr-assets.com/books/1529603335l/40604556.jpg
+  id: 40604556
+  localCover: /embeds/books/red-seas-under-red-skies.jpg
+  name: Red Seas Under Red Skies
+  series: Gentleman Bastard
+  series_index: 2
+  url: /book/show/40604556.red-seas-under-red-skies
 Redemption Ark:
   author: Alastair Reynolds
   cover: https://images.gr-assets.com/books/1309206851l/89190.jpg
@@ -2560,6 +2648,8 @@ Silence Fallen:
   id: 30687916
   localCover: /embeds/books/silence-fallen.jpg
   name: Silence Fallen
+  series: Mercy Thompson
+  series_index: 10
   url: /book/show/30687916.silence-fallen
 Silver Borne:
   author: Patricia Briggs
@@ -2621,6 +2711,8 @@ Skyward:
   id: 36642458
   localCover: /embeds/books/skyward.jpg
   name: Skyward
+  series: Skyward
+  series_index: 1
   url: /book/show/36642458.skyward
 Small Favor:
   author: Jim Butcher
@@ -2780,6 +2872,8 @@ Stiletto:
   id: 25695756
   localCover: /embeds/books/stiletto.jpg
   name: Stiletto
+  series: The Checquy Files
+  series_index: 2
   url: /book/show/25695756.stiletto
 Storm Front:
   author: Jim Butcher
@@ -2796,6 +2890,8 @@ Sufficiently Advanced Magic:
   id: 34403860
   localCover: /embeds/books/sufficiently-advanced-magic.jpg
   name: Sufficiently Advanced Magic
+  series: Arcane Ascension
+  series_index: 1
   url: /book/show/34403860.sufficiently-advanced-magic
 Summer Knight:
   author: Jim Butcher
@@ -2893,6 +2989,8 @@ The Andromeda Strain:
   id: 7670
   localCover: /embeds/books/the-andromeda-strain.jpg
   name: The Andromeda Strain
+  series: Andromeda
+  series_index: 1
   url: /book/show/7670.the-andromeda-strain
 The Annihilation Score:
   author: Charles Stross
@@ -3017,6 +3115,8 @@ The Burning Maze:
   id: 28006096
   localCover: /embeds/books/the-burning-maze.jpg
   name: The Burning Maze
+  series: The Trials of Apollo
+  series_index: 3
   url: /book/show/28006096.the-burning-maze
 The Call of Cthulhu:
   author: H.P. Lovecraft
@@ -3097,6 +3197,8 @@ The Dark Prophecy:
   id: 30145666
   localCover: /embeds/books/the-dark-prophecy.jpg
   name: The Dark Prophecy
+  series: The Trials of Apollo
+  series_index: 2
   url: /book/show/30145666.the-dark-prophecy
 The Dark Tower:
   author: Stephen King
@@ -3209,10 +3311,12 @@ The Face:
   url: /book/show/32437.the-face
 The Fallen:
   author: Lee French
-  cover: https://images.gr-assets.com/books/1390778530l/20639269.jpg
+  cover: https://images.gr-assets.com/books/1390778530m/20639269.jpg
   id: 20639269
   localCover: /embeds/books/the-fallen.jpg
   name: The Fallen
+  series: The Greatest Sin
+  series_index: 1
   url: /book/show/20639269.the-fallen
 The Fantasy Fiction Formula:
   author: Deborah Chester
@@ -3329,6 +3433,8 @@ The Ghost Brigades:
   id: 239399
   localCover: /embeds/books/the-ghost-brigades.jpg
   name: The Ghost Brigades
+  series: Old Man's War
+  series_index: 2
   url: /book/show/239399.the-ghost-brigades
 The Girl Who Kicked the Hornet's Nest:
   author: Stieg Larsson
@@ -3390,6 +3496,8 @@ The Golem's Eye:
   id: 59263
   localCover: /embeds/books/the-golems-eye.jpg
   name: The Golem's Eye
+  series: Bartimaeus
+  series_index: 2
   url: /book/show/59263.the-golems-eye
 The Great Book of Amber:
   author: Roger Zelazny
@@ -3551,6 +3659,8 @@ The Last Colony:
   id: 8180987
   localCover: /embeds/books/the-last-colony.jpg
   name: The Last Colony
+  series: Old Man's War
+  series_index: 3
   url: /book/show/8180987.the-last-colony
 The Last Continent:
   author: Terry Pratchett
@@ -3594,6 +3704,8 @@ The Lies of Locke Lamora:
   id: 127455
   localCover: /embeds/books/the-lies-of-locke-lamora.jpg
   name: The Lies of Locke Lamora
+  series: Gentleman Bastard
+  series_index: 1
   url: /book/show/127455.the-lies-of-locke-lamora
 The Lifecycle of Software Objects:
   author: Ted Chiang
@@ -3622,11 +3734,11 @@ The Lightning Thief:
   url: /book/show/28187.the-lightning-thief
 The Lion, the Witch, and the Wardrobe:
   author: C.S. Lewis
-  cover: https://images.gr-assets.com/books/1353029077l/100915.jpg
+  cover: https://images.gr-assets.com/books/1353029077m/100915.jpg
   id: 100915
   localCover: /embeds/books/the-lion-the-witch-and-the-wardrobe.jpg
   name: The Lion, the Witch, and the Wardrobe
-  series: The Chronicles of Narnia (Publication Order)
+  series: Chronicles of Narnia
   series_index: 1
   url: /book/show/100915.the-lion-the-witch-and-the-wardrobe
 The Long Winter:
@@ -3635,6 +3747,8 @@ The Long Winter:
   id: 8282
   localCover: /embeds/books/the-long-winter.jpg
   name: The Long Winter
+  series: Little House
+  series_index: 6
   url: /book/show/8282.the-long-winter
 The Lord of the Rings:
   author: J.R.R. Tolkien
@@ -3893,6 +4007,8 @@ The Stand:
   id: 149267
   localCover: /embeds/books/the-stand.jpg
   name: The Stand
+  series: Complete and Uncut
+  series_index: null
   url: /book/show/149267.the-stand
 The Stranded:
   author: Hugh Howey
@@ -3905,10 +4021,12 @@ The Stranded:
   url: /book/show/13425846.the-stranded
 The Subtle Knife:
   author: Philip Pullman
-  cover: https://images.gr-assets.com/books/1535965085l/41637836.jpg
+  cover: https://images.gr-assets.com/books/1535965085m/41637836.jpg
   id: 41637836
   localCover: /embeds/books/the-subtle-knife.jpg
   name: The Subtle Knife
+  series: His Dark Materials
+  series_index: 2
   url: /book/show/41637836.the-subtle-knife
 The Summer Prince:
   author: Alaya Dawn Johnson
@@ -4087,6 +4205,8 @@ These Happy Golden Years:
   id: 77770
   localCover: /embeds/books/these-happy-golden-years.jpg
   name: These Happy Golden Years
+  series: Little House
+  series_index: 8
   url: /book/show/77770.these-happy-golden-years
 Thief of Time:
   author: Terry Pratchett
@@ -4277,6 +4397,8 @@ Watchmen:
   id: 472331
   localCover: /embeds/books/watchmen.jpg
   name: Watchmen
+  series: Watchmen
+  series_index: 1-12
   url: /book/show/472331.watchmen
 We Are Legion:
   author: Dennis E. Taylor
@@ -4461,6 +4583,8 @@ Zoe's Tale:
   id: 2102600
   localCover: /embeds/books/zoes-tale.jpg
   name: Zoe's Tale
+  series: Old Man's War
+  series_index: 4
   url: /book/show/2102600.zoes-tale
 Zoo City:
   author: Lauren Beukes

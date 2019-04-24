@@ -4,6 +4,8 @@ date: 2019-04-02
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Bobiverse
 ---
 {{< goodreads book="For We Are Many" cover="true" >}}
 

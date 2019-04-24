@@ -3,7 +3,6 @@ languageCode: en-us
 baseURL: https://blog.jverkamp.com/
 pygmentsCodeFences: true
 pluralizelisttitles: false
-preserveTaxonomyNames: true
 enableEmoji: true
 
 params:

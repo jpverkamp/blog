@@ -9,19 +9,19 @@ reviews/series:
 ---
 {{< goodreads book="The Dragon Reborn" cover="true" >}}
 
-> Til shade is gone,
+> Til shade is gone,  
 
-> til water is gone
+> til water is gone  
 
-> Into the shadow with teeth bared
+> Into the shadow with teeth bared  
 
-> Screaming defiance with the last breath
+> Screaming defiance with the last breath  
 
 > To spit in Sightblinder’s eye on the Last Day.  
 
-As {{< goodreads book="The Great Hunt" >}} was a step up from {{< goodreads book="The Eye of the World" >}}, {{< goodreads book="The Dragon Reborn" >}} is a step up from the Great Hunt. Things are really moving now.  
-
 <!--more-->
+
+As {{< goodreads book="The Great Hunt" >}} was a step up from {{< goodreads book="The Eye of the World" >}}, {{< goodreads book="The Dragon Reborn" >}} is a step up from the Great Hunt. Things are really moving now.  
 
 Throughout most of the series, Perrin is my favorite character. There are a few of his parts that could have been trimmed dramatically in latter books, but he's still the one I personally identify with most. While Rand is bound by duty and already cracking under the strain / the taint on Saidin and Matt seems to stumble into doing the right thing no matter what he tries, Perrin is, at heart, a good man. He's won't do the right thing at all costs (we see more than enough of that in the series), but he knows he cannot run from his fate. So he does what needs to be done.  
 
@@ -31,6 +31,6 @@ It's also interesting to see more of the Aes Sedai. They're turning from mysteri
 
 > The way back will come but once. Be steadfast.
 
-And then, that ending... A third battle with Ba’alzamon with something of a twist that turns this from what could have been a trilogy into the true epic it became. Rand fulfilling even more prophecies making it obvious to those in the know that he is the true Dragon Reborn. Quite the escalation of stakes!  
+And then, that ending... A third battle with Ba’alzamon with something of a twist that turns this from what could have been a trilogy into the true epic it became. Rand fulfilling even more prophecies making it obvious to those in the know that he is the true Dragon Reborn. Quite the escalation of stakes!
 
 

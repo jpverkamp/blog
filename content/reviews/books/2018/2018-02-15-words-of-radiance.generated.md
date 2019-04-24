@@ -36,9 +36,9 @@ reviews/series:
 
 >  The soldier glanced to his companions, looking confused. Drat, Shallan thought. Good puns are lost on men with poor vocabulary.  
 
-Words of Radiance takes {{< goodreads book="The Way of Kings" text=" The Way of Kings " >}} and builds it up in all the right ways... only to tear everything down once again.  
-
 <!--more-->
+
+Words of Radiance takes {{< goodreads book="The Way of Kings" text=" The Way of Kings " >}} and builds it up in all the right ways... only to tear everything down once again.  
 
 Kadadin saves the day... and then royally screws things up. His time among the bridgemen is something special and we really get to see him fighting through depression and becoming the best of what he can be.  
 
@@ -67,3 +67,4 @@ Random side note... Syl's a lot of fun:
 >  He looked at her, raising an eyebrow.  
 
 >  “We have to be consistent,” she said, leaning in conspiratorially. “Or we’ll break your brains.”  
+

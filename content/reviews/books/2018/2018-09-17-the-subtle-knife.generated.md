@@ -4,6 +4,8 @@ date: 2018-09-17
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- His Dark Materials
 ---
 {{< goodreads book="The Subtle Knife" cover="true" >}}
 

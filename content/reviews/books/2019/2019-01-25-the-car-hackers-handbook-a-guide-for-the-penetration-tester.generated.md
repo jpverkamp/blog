@@ -21,8 +21,6 @@ And then you lean a few neat things. For example:
 
 > The California Air Resources Board (CARB) began testing roadside readers for OBD-III in 1994 and is capable of reading vehicle data from eight lanes of traffic traveling at 100 miles per hour.
 
-> ...
-
 > DSRC data rates depend on the number of users accessing the local system at the same time. A single user on the system would typically see data rates of 6 to 12Mbps, while users in a high-traffic area—say, an eight-lane freeway—would likely see 100 to 500Kbps. A typical DSRC system can handle almost 100 users in high-traffic conditions, but if the vehicles are traveling around 60 km/h, or 37 mph, it’ll usually support around only 32 users.
 
 These are both talking about wirelessly talking to the car and getting various information out of it. Heck, they even talked about the idea of software updates being delivered over a peer-2-peer (vehicle-2-vehicle!) network, which is neat.  

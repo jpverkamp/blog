@@ -21,21 +21,23 @@ Abhorsen:
     1: Sabriel
     2: Lirael
     3: Abhorsen
-    3.5: The Creature in the Case
     4: Clariel
     5: Goldenhand
-    1-3: The Abhorsen Trilogy Box Set
   id: 44888
   name: Abhorsen
   url: /series/44888.abhorsen
 Alpha & Omega:
   books:
-    0.5: On the Prowl
+    0.1,: Shifting Shadows
+    '0.5': On the Prowl
+    0.5-3: 'Alpha & Omega: Call of the Hunt'
     1: Cry Wolf
+    '1.5': Strange Brew
     2: Hunting Ground
     3: Fair Game
+    '3.5': 'A Fantastic Holiday Season: The Gift of Stories'
     4: Dead Heat
-    0.5-3: 'Alpha & Omega: Call of the Hunt'
+    5: Burn Bright
   id: 45135
   name: Alpha & Omega
   url: /series/45135.alpha-omega
@@ -44,6 +46,13 @@ American Gods:
   id: 114135
   name: American Gods
   url: /series/114135.american-gods
+Andromeda:
+  books:
+    1: The Andromeda Strain
+    2: The Andromeda Evolution
+  id: 258295
+  name: Andromeda
+  url: /series/258295.andromeda
 Angelology:
   books:
     1: Angelology
@@ -92,6 +101,13 @@ Anita Blake, Vampire Hunter:
   id: 49083
   name: Anita Blake, Vampire Hunter
   url: /series/49083.anita-blake-vampire-hunter
+Arcane Ascension:
+  books:
+    1: Sufficiently Advanced Magic
+    2: On the Shoulders of Titans
+  id: 201441
+  name: Arcane Ascension
+  url: /series/201441.arcane-ascension
 Artemis Fowl:
   books:
     1: Artemis Fowl
@@ -119,6 +135,17 @@ Bannon & Clare:
   id: 67387
   name: Bannon & Clare
   url: /series/67387.bannon-clare
+Bartimaeus:
+  books:
+    0.5: The Ring of Solomon
+    1: The Amulet of Samarkand
+    2: The Golem's Eye
+    3: Ptolemy's Gate
+    1-3: The Bartimaeus Trilogy Boxed Set
+    0.5-3: 'La tetralogia di Bartimeus: Il ciclo di Bartimeus'
+  id: 40838
+  name: Bartimaeus
+  url: /series/40838.bartimaeus
 Bartimaeus Sequence:
   books: {}
   id: 40838
@@ -126,6 +153,7 @@ Bartimaeus Sequence:
   url: /series/40838.bartimaeus-sequence
 Bobiverse:
   books:
+    1: We Are Legion (We Are Bob)
     2: For We Are Many
     3: All These Worlds
   id: 192752
@@ -240,6 +268,14 @@ Discworld:
   id: 40650
   name: Discworld
   url: /series/40650.discworld
+Disrupted Magic:
+  books:
+    1: Midnight Curse
+    2: Blood Gamble
+    3: Shadow Hunt
+  id: 193634
+  name: Disrupted Magic
+  url: /series/193634.disrupted-magic
 Divergent:
   books:
     0.1: The Transfer
@@ -293,7 +329,24 @@ Ender's Shadow:
   name: Ender's Shadow
   url: /series/40409.enders-shadow
 'Enderverse:  Publication Order':
-  books: {}
+  books:
+    1: Ender's Game
+    2: Speaker for the Dead
+    3: Xenocide
+    4: Children of the Mind
+    5: Ender's Shadow
+    6: Shadow of the Hegemon
+    7: Shadow Puppets
+    8: First Meetings in Ender's Universe
+    9: Shadow of the Giant
+    10: A War of Gifts
+    11: Ender in Exile
+    12: Shadows in Flight
+    13: Shadows Alive
+    14: Earth Unaware
+    15: Earth Afire
+    16: Earth Awakens
+    17: The Swarm
   id: 65565
   name: 'Enderverse:  Publication Order'
   url: /series/65565.enderverse-publication-order
@@ -311,7 +364,9 @@ Fifth Millenium:
   name: Fifth Millenium
   url: /series/51904.fifth-millenium
 Formic Wars:
-  books: {}
+  books:
+    1: 'Formic Wars: Burning Earth'
+    2: 'Formic Wars: Silent Strike'
   id: 90130
   name: Formic Wars
   url: /series/90130.formic-wars
@@ -334,6 +389,18 @@ Frozen Sky:
   id: 153852
   name: Frozen Sky
   url: /series/153852.frozen-sky
+Gentleman Bastard:
+  books:
+    1: The Lies of Locke Lamora
+    2: Red Seas Under Red Skies
+    3: The Republic of Thieves
+    4: The Thorn of Emberlain
+    5: The Ministry of Necessity
+    6: The Mage and the Master Spy
+    7: Inherit the Night
+  id: 43531
+  name: Gentleman Bastard
+  url: /series/43531.gentleman-bastard
 Gods of Blood and Powder:
   books:
     1: Sins of Empire
@@ -435,23 +502,31 @@ Kane Chronicles:
   url: /series/49971.kane-chronicles
 Kate Daniels:
   books:
-    0.5: A Questionable Client
+    0.5: Magic Graves
     1: Magic Bites
     2: Magic Burns
     3: Magic Strikes
-    3.5: Magic Mourns
+    3.5: Must Love Hellhounds
     4: Magic Bleeds
-    4.5: Magic Dreams
+    4.5: Hexed
     5: Magic Slays
+    5.3: An Apple for the Creature
     5.4: Magic Gifts
     5.5: Gunmetal Magic
+    5.6: Hex Appeal
+    5.7: Curran Twitter, The Wilson Building
     6: Magic Rises
-    6.5: Magic Steals
+    6.5: Night Shift
     7: Magic Breaks
+    7.5: Prequel to Magic Shifts
+    7.6: Dabwaha, Curran Twitter
     8: Magic Shifts
+    8.5: Magic Stars
     9: Magic Binds
     9.5: Iron and Magic
     10: Magic Triumphs
+    0.5;: Small Magics
+    1-4: "Kate Daniels - Offre d\xE9couverte"
     1-5: A Kate Daniels Magic Series Collection
   id: 40691
   name: Kate Daniels
@@ -478,7 +553,9 @@ Legion:
   books:
     1: Legion
     2: Skin Deep
+    3: Lies of the Beholder
     1-2: Legion
+    1-3: 'Legion: The Many Lives of Stephen Leeds'
   id: 123080
   name: Legion
   url: /series/123080.legion
@@ -493,13 +570,43 @@ Lightbringer:
   id: 49673
   name: Lightbringer
   url: /series/49673.lightbringer
+Little House:
+  books:
+    1: Little House in the Big Woods
+    2: Little House on the Prairie
+    3: Farmer Boy
+    4: On the Banks of Plum Creek
+    5: By the Shores of Silver Lake
+    6: The Long Winter
+    7: Little Town on the Prairie
+    8: These Happy Golden Years
+    9: The First Four Years
+    10: 'On the Way Home: The Diary of a Trip from South Dakota to Mansfield, Missouri,
+      in 1894'
+    11: 'West from Home: Letters of Laura Ingalls Wilder, San Francisco, 1915'
+    1-2,: Laura's Early Years Collection
+    1-3: Little House in the Big Woods, Farmer Boy, and Little House on the Prairie
+    1-4: Little House in the Big Woods, Farmer Boy, Little House on the Prairie, On
+      the Banks of Plum Creek
+    1-5: The Little House Collection
+    1-9: The Little House Collection
+  id: 40412
+  name: Little House
+  url: /series/40412.little-house
 London Below,  The World of Neverwhere:
-  books: {}
+  books:
+    1: Neverwhere
+    '1.5': Rogues
+    2: The Seven Sisters
   id: 130921
   name: London Below,  The World of Neverwhere
   url: /series/130921.london-below-the-world-of-neverwhere
 Mad Science Institute:
-  books: {}
+  books:
+    '0.5': Three Weeks Before Doomsday
+    1: Mad Science Institute
+    2: The Non-Zombie Apocalypse
+    3: Ghost Storm
   id: 130613
   name: Mad Science Institute
   url: /series/130613.mad-science-institute
@@ -513,6 +620,11 @@ Magic Ex Libris:
   id: 67567
   name: Magic Ex Libris
   url: /series/67567.magic-ex-libris
+'Magic: The Gathering':
+  books: {}
+  id: 54345
+  name: 'Magic: The Gathering'
+  url: /series/54345.magic-the-gathering
 Maus:
   books:
     1: 'Maus I: A Survivor''s Tale: My Father Bleeds History'
@@ -535,20 +647,30 @@ Mercury:
   url: /series/68304.mercury
 Mercy Thompson:
   books:
+    0.1: 'Naked City: Tales of Urban Fantasy'
+    0.4: The Urban Fantasy Anthology
+    0.5: 'Home Improvement: Undead Edition'
     1: Moon Called
+    1.1: 'Ghouls, Ghosts, and Ninja Rats: Paranormal Crime Stories That Just Might
+      Kill You'
     2: Blood Bound
     3: Iron Kissed
     4: Bone Crossed
     5: Silver Borne
+    5.5: Down These Strange Streets
     6: River Marked
     7: Frost Burned
+    7.5: 'A Fantastic Holiday Season: The Gift of Stories'
     8: Night Broken
     9: Fire Touched
     10: Silence Fallen
-    11: Untitled
+    11: Storm Cursed
+    12: Smoke Bitten
     1-3: Preying For Mercy
     1-5: The Mercy Thompson Collection Books
     1-6: Mercy Thompson Series Collection
+    8-9: Night Broken / Fire Touched / Shifting Shadows
+    Shorts: Shifting Shadows
   id: 40932
   name: Mercy Thompson
   url: /series/40932.mercy-thompson
@@ -583,6 +705,21 @@ Mistborn - Alloy Era:
   id: 123082
   name: Mistborn - Alloy Era
   url: /series/123082.mistborn---alloy-era
+Mortal Engines Quartet:
+  books:
+    0.5: Night Flights
+    1: Mortal Engines
+    2: Predator's Gold
+    3: Infernal Devices
+    4: A Darkling Plain
+  id: 212609
+  name: Mortal Engines Quartet
+  url: /series/212609.mortal-engines-quartet
+Myth Crossover:
+  books: {}
+  id: 260732
+  name: Myth Crossover
+  url: /series/260732.myth-crossover
 NUMA Files:
   books:
     1: Serpent
@@ -685,6 +822,42 @@ Odyssey One:
   id: 79684
   name: Odyssey One
   url: /series/79684.odyssey-one
+Old Man's War:
+  books:
+    1: Old Man's War
+    1.5: Questions for a Soldier
+    2: The Ghost Brigades
+    2.5: The Sagan Diary
+    3: The Last Colony
+    3.5: The Best of Subterranean
+    4: Zoe's Tale
+    4.5: After the Coup
+    5: The Human Division
+    5.01: The B-Team
+    5.02: Walk the Plank
+    5.03: We Only Need the Heads
+    5.04: A Voice in the Wilderness
+    5.05: Tales From the Clarke
+    5.06: The Back Channel
+    5.07: The Dog King
+    5.08: The Sound of Rebellion
+    5.09: The Observers
+    5.1: This Must Be the Place
+    5.11: A Problem of Proportion
+    5.12: The Gentle Art of Cracking Heads
+    5.13: Earth Below, Sky Above
+    5.14: The Human Division Extras
+    6: The End of All Things
+    6.1: The Life of the Mind
+    6.2: This Hollow Union
+    6.3: Can Long Endure
+    6.4: To Stand or Fall
+    1-2: "V\xE9nek \u200Bt\xF6rt\xE9netei \xE9s m\xE1s \xEDr\xE1sok"
+    1-3: 'Old Man''s War Boxed Set #1'
+    1-6: Old Man's War Series 1-6
+  id: 40789
+  name: Old Man's War
+  url: /series/40789.old-mans-war
 Partials Sequence:
   books:
     0.5: Isolation
@@ -835,6 +1008,7 @@ Robert Langdon:
 Rolling in the Deep:
   books:
     0.5: Rolling in the Deep
+    1: Into the Drowning Deep
   id: 202951
   name: Rolling in the Deep
   url: /series/202951.rolling-in-the-deep
@@ -878,8 +1052,21 @@ Silo:
   id: 70647
   name: Silo
   url: /series/70647.silo
+Skyward:
+  books:
+    1: Skyward
+    2: Starsight
+    3: Untitled
+    4: Untitled
+  id: 247635
+  name: Skyward
+  url: /series/247635.skyward
 Spin Saga:
-  books: {}
+  books:
+    1: Spin
+    1-3: Spin - Die Trilogie
+    2: Axis
+    3: Vortex
   id: 52279
   name: Spin Saga
   url: /series/52279.spin-saga
@@ -966,6 +1153,17 @@ The Chronicles of Narnia:
   id: 49073
   name: The Chronicles of Narnia
   url: /series/49073.the-chronicles-of-narnia
+The Chronicles of Narnia (Publication Order):
+  books:
+    1: The Lion, the Witch and the Wardrobe
+    3: The Voyage of the Dawn Treader
+    4: The Silver Chair
+    5: The Horse and His Boy
+    6: The Magician's Nephew
+    7: The Last Battle
+  id: 49073
+  name: The Chronicles of Narnia (Publication Order)
+  url: /series/49073.the-chronicles-of-narnia-publication-order
 The Cinder Spires:
   books:
     1: The Aeronaut's Windlass
@@ -1013,6 +1211,15 @@ The Dark Tower:
   id: 40750
   name: The Dark Tower
   url: /series/40750.the-dark-tower
+The Divine Cities:
+  books:
+    1: City of Stairs
+    1-3: The Divine Cities Trilogy
+    2: City of Blades
+    3: City of Miracles
+  id: 159695
+  name: The Divine Cities
+  url: /series/159695.the-divine-cities
 The Dresden Files:
   books:
     0.2: Restoration of Faith
@@ -1043,7 +1250,20 @@ The Dresden Files:
   name: The Dresden Files
   url: /series/40346.the-dresden-files
 The Dresden Files Graphic Novels:
-  books: {}
+  books:
+    '0.5': Welcome to the Jungle
+    0.5-2.2: Jim Butcher's the Dresden Files Omnibus Volume 1
+    '1.1': 'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering
+      Storm'
+    '1.2': 'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom'
+    '2.1': 'The Dresden Files: Fool Moon, Volume 1'
+    '2.2': 'The Dresden Files: Fool Moon, Volume 2'
+    3: 'Jim Butcher''s Dresden Files: Ghoul Goblin'
+    3-5: Jim Butcher's the Dresden Files Omnibus Volume 2
+    4: 'Jim Butcher''s The Dresden Files: War Cry'
+    5: 'Jim Butcher''s The Dresden Files: Down Town'
+    6: 'Jim Butcher''s The Dresden Files: Wild Card'
+    7: 'Jim Butcher''s The Dresden Files: Dog Men'
   id: 59341
   name: The Dresden Files Graphic Novels
   url: /series/59341.the-dresden-files-graphic-novels
@@ -1119,20 +1339,40 @@ The Golem and the Jinni:
 The Grand Tour:
   books:
     1: Powersat
+    2: Privateers
+    3: Empire Builders
     4: Mars
+    5: Moonrise
+    6: Moonwar
     7: Return to Mars
+    8: The Precipice
     9: Jupiter
+    10: The Rock Rats
+    11: The Silent War
+    12: The Aftermath
     13: Saturn
     14: Leviathans of Jupiter
     15: Titan
     16: Mercury
     17: Mars Life
     18: Venus
+    19: The Return
     20: Farside
     21: New Earth
+    22: Tales of the Grand Tour
+    23: Earth
   id: 51185
   name: The Grand Tour
   url: /series/51185.the-grand-tour
+The Greatest Sin:
+  books:
+    1: The Fallen
+    2: Harbinger
+    3: Moon Shades
+    4: Illusive Echoes
+  id: 155026
+  name: The Greatest Sin
+  url: /series/155026.the-greatest-sin
 The Heroes of Olympus:
   books:
     1: The Lost Hero
@@ -1147,7 +1387,9 @@ The Heroes of Olympus:
   name: The Heroes of Olympus
   url: /series/51379.the-heroes-of-olympus
 The Hobbit:
-  books: {}
+  books:
+    1: The Hobbit, Part One
+    2: The Hobbit, Part 2 of 2
   id: 203438
   name: The Hobbit
   url: /series/203438.the-hobbit
@@ -1265,7 +1507,18 @@ The Reckoners:
   name: The Reckoners
   url: /series/93010.the-reckoners
 The Runelords:
-  books: {}
+  books:
+    '0.5': Barbarians
+    '0.6': Ashes and Starlight
+    1: The Runelords
+    2: Brotherhood of the Wolf
+    3: Wizardborn
+    4: The Lair of Bones
+    5: Sons of the Oak
+    6: Worldbinder
+    7: The Wyrmling Horde
+    8: Chaosbound
+    9: A Tale of Tales
   id: 41322
   name: The Runelords
   url: /series/41322.the-runelords
@@ -1291,7 +1544,7 @@ The Trials of Apollo:
     2: The Dark Prophecy
     2.5: Camp Half-Blood Confidential
     3: The Burning Maze
-    4: Untitled
+    4: The Tyrant's Tomb
     5: Untitled
   id: 162088
   name: The Trials of Apollo
@@ -1305,7 +1558,22 @@ The Unnaturalists:
   name: The Unnaturalists
   url: /series/85425.the-unnaturalists
 The Wheel of Time:
-  books: {}
+  books:
+    0: New Spring
+    1: The Eye of the World
+    2: The Great Hunt
+    3: The Dragon Reborn
+    4: The Dragon Reborn
+    5: The Fires of Heaven
+    6: Lord of Chaos
+    7: A Crown of Swords
+    8: The Path of Daggers
+    9: Winter's Heart
+    10: Crossroads of Twilight
+    11: Knife of Dreams
+    12: The Gathering Storm
+    13: Towers of Midnight
+    14: A Memory of Light
   id: 41526
   name: The Wheel of Time
   url: /series/41526.the-wheel-of-time
@@ -1316,12 +1584,17 @@ The Wicked Years:
     2: Son of a Witch
     3: A Lion Among Men
     4: Out of Oz
-    1-2: Wicked / Son of a Witch
   id: 43509
   name: The Wicked Years
   url: /series/43509.the-wicked-years
 Time Quintet:
-  books: {}
+  books:
+    1: A Wrinkle in Time
+    2: A Wind in the Door
+    3: A Swiftly Tilting Planet
+    4: Many Waters
+    5: An Acceptable Time
+    6: 'Intergalactic P.S. 3: A Wrinkle in Time Story'
   id: 49403
   name: Time Quintet
   url: /series/49403.time-quintet
@@ -1334,14 +1607,10 @@ Twilight:
   books:
     1: Twilight
     1.5: Midnight Sun
-    1.75: "\xC0 la vie, \xE0 la mort: Twilight r\xE9invent\xE9"
     2: New Moon
     3: Eclipse
     3.5: The Short Second Life of Bree Tanner
     4: Breaking Dawn
-    4.5: 'The Twilight Saga: The Official Illustrated Guide'
-    1-3: The Twilight Collection
-    1-4: The Twilight Saga
   id: 45363
   name: Twilight
   url: /series/45363.twilight
@@ -1362,7 +1631,10 @@ Warbreaker:
   name: Warbreaker
   url: /series/108715.warbreaker
 Welcome to Night Vale:
-  books: {}
+  books:
+    1: Welcome to Night Vale
+    2: It Devours!
+    3: 'Welcome to Night Vale #3'
   id: 190615
   name: Welcome to Night Vale
   url: /series/190615.welcome-to-night-vale
@@ -1405,8 +1677,6 @@ Wild Cards:
     24: Mississippi Roll
     25: Low Chicago
   id: 40686
-  name: Wild Cards
-  url: /series/40686.wild-cards
 Wool:
   books:
     1: Wool
@@ -1414,6 +1684,8 @@ Wool:
     3: Casting Off
     4: The Unraveling
     5: The Stranded
+    1-5: Wool Omnibus
+    omnibus,: Silmapete, Teine osa
   id: 106702
   name: Wool
   url: /series/106702.wool

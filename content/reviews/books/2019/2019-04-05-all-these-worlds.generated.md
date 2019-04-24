@@ -4,6 +4,8 @@ date: 2019-04-05
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Bobiverse
 ---
 {{< goodreads book="All These Worlds" cover="true" >}}
 

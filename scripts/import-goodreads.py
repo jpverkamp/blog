@@ -13,7 +13,7 @@ import shutil
 import subprocess
 import sys
 import time
-import xml.etree.ElementTree
+import xml.etree.ElementTree 
 import yaml
 
 if __name__ == '__main__':
@@ -25,6 +25,7 @@ if __name__ == '__main__':
     arg_parser.add_argument('--reviews', nargs = '?', default = False, const = '20', help = 'Import the newest REVIEWS reviews, use ALL to import all reviews')
     arg_parser.add_argument('--overwrite', action = 'store_true', help = 'Use with --reviews, if this is not set, existing posts will not be overwritten')
     arg_parser.add_argument('--debug', action = 'store_true', help = 'Run in verbose/debug mode')
+    arg_parser.add_argument('--nocache', action = 'store_true', help = 'Disable loading from cache')
     args = arg_parser.parse_args()
 
     if args.debug:
@@ -65,7 +66,7 @@ def save():
         with open(path, 'w') as fout:
             yaml.dump(global_data[name], fout, default_flow_style = False)
 
-def api(url, params = None):
+def api(url, params = None, mode = 'soup'):
     '''Make a goodreads web request.'''
 
     url = url.lstrip('/')
@@ -75,7 +76,14 @@ def api(url, params = None):
     logging.info('api({}, {})'.format(url, params))
 
     response = requests.get(url, params = params)
-    return bs4.BeautifulSoup(response.text, 'html5lib')
+
+    if mode == 'soup':
+        return bs4.BeautifulSoup(response.text, 'html5lib')
+    elif mode == 'xml':
+        return xml.etree.ElementTree.fromstring(response.text)
+    else:
+        raise Exception('Unkonwn API mode: {}'.format(mode))
+
 
 def split_title(text):
     '''
@@ -203,13 +211,14 @@ def get(type, query, search_function, update_function):
         name = global_data[type + '-index'][id]
 
     # If the title is already cached, load from there
-    if name in global_data[type]:
-        logging.info('get({}, {}), loaded {} from cache'.format(type, query, name))
-        return global_data[type][name]
-
-    #input('why isn\'t ID {} (type: {}), cached?'.format(id, type))
-
-    logging.info('get({}, {}), name {} is not in cache, using api'.format(type, query, name))
+    if args.nocache:
+        logging.info('get({}, {}), caching disabled, loading {} directly'.format(type, query, name))
+    else:
+        if name in global_data[type]:
+            logging.info('get({}, {}), loaded {} from cache'.format(type, query, name))
+            return global_data[type][name]
+        else:
+            logging.info('get({}, {}), name {} is not in cache, using api'.format(type, query, name))
 
     # Otherwise, load the data from goodreads
     data = {}
@@ -253,16 +262,21 @@ def get_book(query):
             return el_book.find('a').attrs['href'].split('?')[0]
 
     def update(data):
-        soup = api(data['url'])
+        api_data = api('/book/show.xml', mode = 'xml', params = {
+            'id': data['id'],
+            'key': config['goodreads']['key'],
+        })
 
-        title, series, index = split_title(soup.select('#bookTitle')[0].text.strip())
+        title, series, index = split_title(api_data.find('book/title').text.strip())
         if not data.get('name'):
             data['name'] = title
 
         # Try to automatically link the series and automatically cache that
         try:
-            series_url = soup.select('#bookTitle a')[0].attrs['href']
-            get_series(series_url)
+            series_id = api_data.find('book/series_works//series/id')
+            if series_id:
+                series_url = '/series/{}'.format(series_id)
+                get_series(series_url)
         except IndexError:
             pass
 
@@ -271,38 +285,40 @@ def get_book(query):
             data['series_index'] = index
 
         # Look up author and automatically cache them
-        el_author = soup.select('a.authorName')[0]
-        data['author'] = el_author.text.strip()
-        get_author(el_author.attrs['href'])
+        data['author'] = api_data.find('book/authors/author/name').text.strip()
+        get_author(api_data.find('book/authors/author/link').text.strip())
 
         # Get the cover if one is set
-        try:
-            data['cover'] = soup.select('img#coverImage')[0].attrs['src']
-            response = requests.get(data['cover'], stream = True)
-            response.raw.decode_content = True
-
-            if response:
-                filename = '{}.{}'.format(
-                    slugify(data['name']),
-                    data['cover'].split('.')[-1].lower()
-                )
-                path = os.path.join('static', 'embeds', 'books', filename)
-
-                if os.path.exists(path):
-                    logging.info('Cover already downloaded for {}'.format(data['name']))
-                else:
-                    logging.info('Downloading cover for {}'.format(data['name']))
-                    os.makedirs(os.path.dirname(path), exist_ok = True)
-                    with open(path, 'wb') as fout:
-                        shutil.copyfileobj(response.raw, fout)
-                        subprocess.check_output('mogrify -resize 100x160\! "{}"'.format(path), shell = True)
-
-                data['localCover'] = path.replace('static', '')
+        image_url = api_data.find('book/image_url')
+        if image_url != None:
+            image_url = image_url.text.strip()
+            if 'nophoto' in image_url:
+                logging.warning('Missing cover for: {}'.format(title))
             else:
-                logging.warning('Failed to download cover for {}'.format(data['name']))
+                logging.info('Attempting to download cover: {}'.format(image_url))
+                data['cover'] = image_url
+                response = requests.get(data['cover'], stream = True)
+                response.raw.decode_content = True
 
-        except IndexError:
-            pass
+                if response:
+                    filename = '{}.{}'.format(
+                        slugify(data['name']),
+                        data['cover'].split('.')[-1].lower()
+                    )
+                    path = os.path.join('static', 'embeds', 'books', filename)
+
+                    if os.path.exists(path):
+                        logging.info('Cover already downloaded for {}'.format(data['name']))
+                    else:
+                        logging.info('Downloading cover for {}'.format(data['name']))
+                        os.makedirs(os.path.dirname(path), exist_ok = True)
+                        with open(path, 'wb') as fout:
+                            shutil.copyfileobj(response.raw, fout)
+                            subprocess.check_output('mogrify -resize 100x160\! "{}"'.format(path), shell = True)
+
+                    data['localCover'] = path.replace('static', '')
+                else:
+                    logging.warning('Failed to download cover for {}'.format(data['name']))
 
         return data
 
@@ -326,22 +342,31 @@ def get_series(name):
                 return el_series.attrs['href']
 
     def update(data):
-        soup = api(data['url'])
+        api_data = api(data['url'], mode = 'xml', params = {
+            'format': 'xml',
+            'key': config['goodreads']['key'],
+        })
+
+        data['name'] = api_data.find('series/title').text.strip()
+
         data['books'] = {}
+        for book_data in api_data.findall('series/series_works/series_work'):
+            title, _, index = split_title(book_data.find('work/best_book/title').text.strip())
 
-        name = soup.select('h1')[0].text.split('(')[0].strip()
-        if name.endswith('Series') or name.endswith('series'):
-            name = name.rsplit(None, 1)[0]
-        data['name'] = name
+            try:
+                index = book_data.find('user_position').text.split()[0]
+            except:
+                pass
 
-        for el_book in soup.select('tr[itemscope]'):
-            title, series, index = split_title(el_book.select('.bookTitle')[0].text.strip())
+            if index:
+                if index.isdigit():
+                    index = int(index)
+                elif re.match('^[\d.]+$', index):
+                    index = float(index)
 
-            if series == data['name']:
-                if title and index:
-                    data['books'][index] = title
-            else:
-                logging.info('Skipping ismatched series: {} =/= {}'.format(series, data['name']))
+            if title and index:
+                data['books'][index] = title
+
 
         return data
 
@@ -448,14 +473,20 @@ def reviews(per_page = 20, do_all = False):
 
                 # Replace goodreads links with shortcodes
                 text = re.sub(
-                    r'\[(.*?)\]\(https://www.goodreads.com([^\s]*)(?: ".*?")?\)',
+                    r'\[([^\]]*?)\]\(https://www.goodreads.com([^\s]*)(?: ".*?")?\)',
                     replace_goodreads_links,
                     text,
                 )
 
                 # Add in a <!--more-->
+                # Skip past opening block quotes
                 parts = text.split('\n\n')
-                parts.insert(3, '<!--more-->')
+                
+                more_offset = 3
+                while more_offset < len(parts) - 1 and parts[more_offset - 1].startswith('>') and parts[more_offset].startswith('>'):
+                    more_offset += 1                    
+
+                parts.insert(more_offset, '<!--more-->')
                 text = '\n\n'.join(parts)
 
                 yield {

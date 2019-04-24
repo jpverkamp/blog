@@ -4,6 +4,8 @@ date: 2018-10-27
 generated: true
 reviews/lists:
 - 2018 Book Reviews
+reviews/series:
+- The Trials of Apollo
 ---
 {{< goodreads book="The Dark Prophecy" cover="true" >}}
 

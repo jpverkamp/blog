@@ -4,6 +4,8 @@ date: 2019-03-20
 generated: true
 reviews/lists:
 - 2019 Book Reviews
+reviews/series:
+- Mercy Thompson
 ---
 {{< goodreads book="Silence Fallen" cover="true" >}}
 
