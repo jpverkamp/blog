@@ -12,7 +12,7 @@ import:
 	python3 scripts/import-goodreads.py --reviews --validate
 
 run:
-	sleep 5 && open http://localhost:1313/ &
+	sleep 10 && open http://localhost:1313/ &
 	hugo server --buildFuture
 
 build:

@@ -28,11 +28,11 @@
     		</div>
     	</header>
     	<div class="entry-content">
-            {{ .Summary }}
-            {{ if .Truncated }}
-            <div>
-                <a href="{{ .RelPermalink }}">read more...</a>
-            </div>
+        {{ if .Truncated }}
+                {{ .Summary }}
+                <p><a href="{{ .RelPermalink }}">read more...</a></p>
+            {{ else }}
+                {{ .Content }}
             {{ end }}
     	</div>
 
