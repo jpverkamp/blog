@@ -10,7 +10,6 @@ programming/languages:
 - Python
 - SQL
 ---
-
 Quite often, I'll find myself wanting to query and manipulate MySQL data entirely on the command line. I could be building up a pipeline or working on a task that I'm going to eventually automate but haven't quite gotten to yet. Whenver I have to do something like that, I have a small pile of scripts I've written over time that help out:
 
 - `skiphead`: Skip the first line of output, used to skip over headers in a query response
