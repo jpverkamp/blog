@@ -1287,6 +1287,15 @@ Hammered:
   series: The Iron Druid Chronicles
   series_index: 3
   url: /book/show/9595620.hammered
+Harbinger:
+  author: Lee French
+  cover: https://images.gr-assets.com/books/1414289983m/23448889.jpg
+  id: 23448889
+  localCover: /embeds/books/harbinger.jpg
+  name: Harbinger
+  series: The Greatest Sin
+  series_index: 2
+  url: /book/show/23448889.harbinger
 Hard Magic:
   author: Larry Correia
   cover: https://images.gr-assets.com/books/1373862448l/18195033.jpg
@@ -2292,11 +2301,11 @@ Polar Shift:
 Powersat:
   author: Ben Bova
   id: 267291
+  localCover: /embeds/books/powersat.jpg
   name: Powersat
   series: The Grand Tour
   series_index: 1
   url: /book/show/267291.powersat
-  localCover: /embeds/books/powersat.jpg
 'Practical Forensic Imaging: Securing Digital Evidence with Linux Tools':
   author: Bruce Nikkel
   cover: https://images.gr-assets.com/books/1473401154l/30278746.jpg
@@ -2338,6 +2347,15 @@ Princeps' Fury:
   series: Codex Alera
   series_index: 5
   url: /book/show/2903736.princeps-fury
+Privateers:
+  author: Ben Bova
+  cover: https://images.gr-assets.com/books/1299514897m/267332.jpg
+  id: 267332
+  localCover: /embeds/books/privateers.jpg
+  name: Privateers
+  series: 'The Grand Tour, #2; Privateers'
+  series_index: 1
+  url: /book/show/267332.privateers
 Prodigal Son:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1167321609l/21337.jpg
