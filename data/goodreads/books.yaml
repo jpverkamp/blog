@@ -913,6 +913,14 @@ Empire:
   series: Empire
   series_index: 1
   url: /book/show/7955.empire
+Empire Builders:
+  author: Ben Bova
+  id: 267284
+  name: Empire Builders
+  series: 'The Grand Tour, #3; Privateers'
+  series_index: 2
+  url: /book/show/267284.empire-builders
+  localCover: /embeds/books/empire-builders.jpg
 Ender in Exile:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1442883678l/3220405.jpg
@@ -3293,6 +3301,15 @@ The Emperor's Soul:
   series: Elantris
   series_index: null
   url: /book/show/13578175.the-emperors-soul
+The Empire Builders:
+  author: William Stuart Long
+  cover: https://images.gr-assets.com/books/1333824480m/1907799.jpg
+  id: 1907799
+  localCover: /embeds/books/the-empire-builders.jpg
+  name: The Empire Builders
+  series: The Australians
+  series_index: 9
+  url: /book/show/1907799.the-empire-builders
 The Engines of God:
   author: Jack McDevitt
   cover: https://images.gr-assets.com/books/1334436065l/337048.jpg
