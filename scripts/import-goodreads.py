@@ -13,7 +13,7 @@ import shutil
 import subprocess
 import sys
 import time
-import xml.etree.ElementTree 
+import xml.etree.ElementTree
 import yaml
 
 if __name__ == '__main__':
@@ -26,6 +26,7 @@ if __name__ == '__main__':
     arg_parser.add_argument('--overwrite', action = 'store_true', help = 'Use with --reviews, if this is not set, existing posts will not be overwritten')
     arg_parser.add_argument('--debug', action = 'store_true', help = 'Run in verbose/debug mode')
     arg_parser.add_argument('--nocache', action = 'store_true', help = 'Disable loading from cache')
+    arg_parser.add_argument('--add-cover', nargs = 2, help = 'Download a cover, specify a URL and the book title')
     args = arg_parser.parse_args()
 
     if args.debug:
@@ -249,6 +250,36 @@ def get(type, query, search_function, update_function):
 
     return data
 
+def download_cover(data, image_url):
+    '''
+    Download and resize a cover to a specific path.
+    '''
+
+    logging.info('Attempting to download cover: {}'.format(image_url))
+    data['cover'] = image_url
+    response = requests.get(data['cover'], stream = True)
+    response.raw.decode_content = True
+
+    if response:
+        filename = '{}.{}'.format(
+            slugify(data['name']),
+            data['cover'].split('.')[-1].lower()
+        )
+        path = os.path.join('static', 'embeds', 'books', filename)
+
+        if os.path.exists(path):
+            logging.info('Cover already downloaded for {}'.format(data['name']))
+        else:
+            logging.info('Downloading cover for {}'.format(data['name']))
+            os.makedirs(os.path.dirname(path), exist_ok = True)
+            with open(path, 'wb') as fout:
+                shutil.copyfileobj(response.raw, fout)
+                subprocess.check_output('mogrify -resize 100x160\! "{}"'.format(path), shell = True)
+
+        data['localCover'] = path.replace('static', '')
+    else:
+        logging.warning('Failed to download cover for {}'.format(data['name']))
+
 def get_book(query):
     '''
     Get a book. If we're provided a title and the book isn't in the cache, search.
@@ -295,30 +326,7 @@ def get_book(query):
             if 'nophoto' in image_url:
                 logging.warning('Missing cover for: {}'.format(title))
             else:
-                logging.info('Attempting to download cover: {}'.format(image_url))
-                data['cover'] = image_url
-                response = requests.get(data['cover'], stream = True)
-                response.raw.decode_content = True
-
-                if response:
-                    filename = '{}.{}'.format(
-                        slugify(data['name']),
-                        data['cover'].split('.')[-1].lower()
-                    )
-                    path = os.path.join('static', 'embeds', 'books', filename)
-
-                    if os.path.exists(path):
-                        logging.info('Cover already downloaded for {}'.format(data['name']))
-                    else:
-                        logging.info('Downloading cover for {}'.format(data['name']))
-                        os.makedirs(os.path.dirname(path), exist_ok = True)
-                        with open(path, 'wb') as fout:
-                            shutil.copyfileobj(response.raw, fout)
-                            subprocess.check_output('mogrify -resize 100x160\! "{}"'.format(path), shell = True)
-
-                    data['localCover'] = path.replace('static', '')
-                else:
-                    logging.warning('Failed to download cover for {}'.format(data['name']))
+                download_cover(data, image_url)
 
         return data
 
@@ -481,10 +489,10 @@ def reviews(per_page = 20, do_all = False):
                 # Add in a <!--more-->
                 # Skip past opening block quotes
                 parts = text.split('\n\n')
-                
+
                 more_offset = 3
                 while more_offset < len(parts) - 1 and parts[more_offset - 1].startswith('>') and parts[more_offset].startswith('>'):
-                    more_offset += 1                    
+                    more_offset += 1
 
                 parts.insert(more_offset, '<!--more-->')
                 text = '\n\n'.join(parts)
@@ -590,7 +598,6 @@ date: {date}
             )
             path = os.path.join('content', 'reviews', 'books', str(date.year), filename)
 
-
             if os.path.exists(path) and not args.overwrite:
                 print('skipping {}, already exists'.format(path))
             else:
@@ -600,6 +607,14 @@ date: {date}
                     fout.write(content)
 
         print()
+
+    if args.add_cover:
+        url, title = args.add_cover
+        print(f'Downloading cover for {title}: {url}')
+
+        book = get_book(title)
+        download_cover(book, url)
+        save()
 
     if args.validate:
         print('[Goodreads] Detecting missing entries...')
