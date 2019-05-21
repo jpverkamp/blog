@@ -741,6 +741,13 @@ Cursor's Fury:
   series: Codex Alera
   series_index: 3
   url: /book/show/29394.cursors-fury
+Dark Matter:
+  author: Blake Crouch
+  cover: https://images.gr-assets.com/books/1472119680m/27833670.jpg
+  id: 27833670
+  localCover: /embeds/books/dark-matter.jpg
+  name: Dark Matter
+  url: /book/show/27833670.dark-matter
 Darkfall:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1308458183l/32456.jpg
@@ -916,11 +923,11 @@ Empire:
 Empire Builders:
   author: Ben Bova
   id: 267284
+  localCover: /embeds/books/empire-builders.jpg
   name: Empire Builders
   series: 'The Grand Tour, #3; Privateers'
   series_index: 2
   url: /book/show/267284.empire-builders
-  localCover: /embeds/books/empire-builders.jpg
 Ender in Exile:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1442883678l/3220405.jpg
@@ -1992,6 +1999,24 @@ Moon Called:
   series: Mercy Thompson
   series_index: 1
   url: /book/show/71811.moon-called
+Moon Shades:
+  author: Lee French
+  cover: https://images.gr-assets.com/books/1430510393m/25464248.jpg
+  id: 25464248
+  localCover: /embeds/books/moon-shades.jpg
+  name: Moon Shades
+  series: The Greatest Sin
+  series_index: 3
+  url: /book/show/25464248.moon-shades
+Moonrise:
+  author: Ben Bova
+  cover: https://images-na.ssl-images-amazon.com/images/I/51DBAY0AKZL._SX315_BO1,204,203,200_.jpg
+  id: 267287
+  localCover: /embeds/books/moonrise.jpg
+  name: Moonrise
+  series: 'The Grand Tour, #5; Moonbase Saga'
+  series_index: 1
+  url: /book/show/267287.moonrise
 Morning Star:
   author: Pierce Brown
   cover: https://images.gr-assets.com/books/1461354277l/18966806.jpg
@@ -2499,6 +2524,15 @@ Rendezvous with Rama:
   series: Rama
   series_index: 1
   url: /book/show/112537.rendezvous-with-rama
+Return to Mars:
+  author: Ben Bova
+  cover: https://www.sfsite.com/~silverag/return.jpg
+  id: 267310
+  localCover: /embeds/books/return-to-mars.jpg
+  name: Return to Mars
+  series: The Grand Tour
+  series_index: 7
+  url: /book/show/267310.return-to-mars
 Revelation Space:
   author: Alastair Reynolds
   cover: https://images.gr-assets.com/books/1405532042l/89187.jpg
