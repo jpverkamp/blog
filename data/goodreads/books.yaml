@@ -1532,6 +1532,15 @@ Iceberg:
   series: Dirk Pitt
   series_index: 3
   url: /book/show/41710.iceberg
+Illusive Echoes:
+  author: Erik Kort
+  cover: https://images.gr-assets.com/books/1466590596m/30685918.jpg
+  id: 30685918
+  localCover: /embeds/books/illusive-echoes.jpg
+  name: Illusive Echoes
+  series: The Greatest Sin
+  series_index: 4
+  url: /book/show/30685918.illusive-echoes
 Infernal Devices:
   author: Philip Reeve
   cover: https://images.gr-assets.com/books/1334003040l/585261.jpg
@@ -1595,6 +1604,13 @@ Jingo:
   series: Discworld
   series_index: 21
   url: /book/show/47990.jingo
+Jupiter:
+  author: Ben Bova
+  id: 267334
+  name: Jupiter
+  series: The Grand Tour
+  series_index: 9
+  url: /book/show/267334.jupiter
 Kaibab Unbound:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1323225105l/11950840.jpg
@@ -2017,6 +2033,15 @@ Moonrise:
   series: 'The Grand Tour, #5; Moonbase Saga'
   series_index: 1
   url: /book/show/267287.moonrise
+Moonwar:
+  author: Ben Bova
+  cover: https://images-na.ssl-images-amazon.com/images/I/51YojfZyv7L._SX354_BO1,204,203,200_.jpg
+  id: 267298
+  localCover: /embeds/books/moonwar.jpg
+  name: Moonwar
+  series: 'The Grand Tour, #6; Moonbase Saga'
+  series_index: 2
+  url: /book/show/267298.moonwar
 Morning Star:
   author: Pierce Brown
   cover: https://images.gr-assets.com/books/1461354277l/18966806.jpg
@@ -2249,6 +2274,12 @@ Off Armageddon Reef:
   series: Safehold
   series_index: 1
   url: /book/show/72199.off-armageddon-reef
+'Oh Crap! Potty Training: Everything Modern Parents Need to Know to Do It Once and Do It Right':
+  author: Jamie Glowacki
+  id: 25735495
+  name: 'Oh Crap! Potty Training: Everything Modern Parents Need to Know to Do It
+    Once and Do It Right'
+  url: /book/show/25735495.oh-crap-potty-training-everything-modern-parents-need-to-know-to-do-it-once-and-do-it-right
 Old Man's War:
   author: John Scalzi
   cover: https://images.gr-assets.com/books/1487044882l/51964.jpg
@@ -3941,6 +3972,15 @@ The Phantom Tollbooth:
   localCover: /embeds/books/the-phantom-tollbooth.jpg
   name: The Phantom Tollbooth
   url: /book/show/378.the-phantom-tollbooth
+The Precipice:
+  author: Ben Bova
+  cover: https://images.gr-assets.com/books/1386919746l/267302.jpg
+  id: 267302
+  localCover: /embeds/books/the-precipice.jpg
+  name: The Precipice
+  series: 'The Grand Tour, #8; The Asteroid Wars'
+  series_index: 1
+  url: /book/show/267302.the-precipice
 The Reality Bug:
   author: D.J. MacHale
   cover: https://images.gr-assets.com/books/1431402995l/215541.jpg
@@ -4329,6 +4369,11 @@ Towers of Midnight:
   series: The Wheel of Time
   series_index: 13
   url: /book/show/8253920.towers-of-midnight
+Transient Extreme Ultraviolet Spectrosctopy of Semiconductors:
+  author: Max Andrew Verkamp
+  id: 46034098
+  name: Transient Extreme Ultraviolet Spectrosctopy of Semiconductors
+  url: /book/show/46034098.transient-extreme-ultraviolet-spectrosctopy-of-semiconductors
 Trapped:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1346092123l/13536649.jpg

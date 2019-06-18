@@ -61,6 +61,17 @@ Mistborn Era 2:
 - Shadows of Self
 - The Bands of Mourning
 - The Lost Metal
+Moonbase Saga:
+- Moonrise
+- Moonwar
+Privateers:
+- Privateers
+- Empire Builders
+The Asteroid Wars:
+- The Precipice
+- The Rock Rats
+- The Silent War
+- The Aftermath
 The Cosmere:
 - The Hope of Elantris
 - The Emperor's Soul
@@ -81,9 +92,6 @@ The Cosmere:
 - Shadows of Self
 - The Bands of Mourning
 - Oathbringer
-_comment: Additional series data for specific books; used by goodreads import
-_to_remove:
-- Mistborn - Alloy Era
 The Grand Tour:
 - Powersat
 - Privateers
@@ -106,14 +114,6 @@ The Grand Tour:
 - The Return
 - Farside
 - New Earth
-Privateers:
-- Privateers
-- Empire Builders
-Moonbase Saga:
-- Moonrise
-- Moonwar
-The Asteroid Wars:
-- The Precipice
-- The Rock Rats
-- The Silent War
-- The Aftermath
+_comment: Additional series data for specific books; used by goodreads import
+_to_remove:
+- Mistborn - Alloy Era
