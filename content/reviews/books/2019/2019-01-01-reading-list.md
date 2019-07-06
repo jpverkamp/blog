@@ -38,7 +38,7 @@ Series to re-read because there's a new entry:
 {{< goodreads book="Burn Bright" cover="true" >}}
 {{< goodreads book="Silence Fallen" cover="true" >}}
 
-Haven't even counted this time around. If I run out of books, I can always add more. If I overestimated, I can always push them to next year. 
+Haven't even counted this time around. If I run out of books, I can always add more. If I overestimated, I can always push them to next year.
 
 Here will be my list of reviews (it will update as each one is added):
 
@@ -49,4 +49,4 @@ Previous years, if you're interested:
 - [2015 Reading List]({{< ref "2015-01-01-reading-list.md" >}})
 - [2016 Reading List]({{< ref "2016-01-01-reading-list.md" >}})
 - [2017 Reading List]({{< ref "2017-01-01-reading-list.md" >}})
-- [2017 Reading List]({{< ref "2018-01-01-reading-list.md" >}})
+- [2018 Reading List]({{< ref "2018-01-01-reading-list.md" >}})
