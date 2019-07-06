@@ -10,7 +10,7 @@ reviews/series:
 ---
 {{< goodreads book="The Precipice" cover="true" >}}
 
-{{< goodreads book="The Precipice" text=" The Precipice " >}} does two things rather well: it introduces technology that will change the Grand Tour universe and it makes me actually ... kind of like Dan Randolph.
+{{< goodreads book="The Precipice" text=" The Precipice" >}} does two things rather well: it introduces technology that will change the Grand Tour universe and it makes me actually ... kind of like Dan Randolph.
 
 For the former, we finally have one possible solution to the fundamental problem of near future science fiction:
 
