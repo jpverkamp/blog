@@ -5,6 +5,15 @@ A Brief History of Time:
   localCover: /embeds/books/a-brief-history-of-time.jpg
   name: A Brief History of Time
   url: /book/show/3869.a-brief-history-of-time
+A Conjuring of Light:
+  author: V.E. Schwab
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464017758l/29939230.jpg
+  id: 29939230
+  localCover: /embeds/books/a-conjuring-of-light.jpg
+  name: A Conjuring of Light
+  series: Shades of Magic
+  series_index: 3
+  url: /book/show/29939230.a-conjuring-of-light
 A Crown of Swords:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1358542379l/13890.jpg
@@ -25,7 +34,7 @@ A Curse of Memories:
   url: /book/show/35609536.a-curse-of-memories
 A Darker Shade of Magic:
   author: V.E. Schwab
-  cover: https://images.gr-assets.com/books/1400322851l/22055262.jpg
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400322851l/22055262.jpg
   id: 22055262
   localCover: /embeds/books/a-darker-shade-of-magic.jpg
   name: A Darker Shade of Magic
@@ -50,6 +59,15 @@ A Game of Thrones:
   series: A Song of Ice and Fire
   series_index: 1
   url: /book/show/13496.a-game-of-thrones
+A Gathering of Shadows:
+  author: V.E. Schwab
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429627728l/20764879.jpg
+  id: 20764879
+  localCover: /embeds/books/a-gathering-of-shadows.jpg
+  name: A Gathering of Shadows
+  series: Shades of Magic
+  series_index: 2
+  url: /book/show/20764879.a-gathering-of-shadows
 A Hat Full of Sky:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1388177601l/618145.jpg
@@ -3067,6 +3085,15 @@ The Aeronaut's Windlass:
   series: The Cinder Spires
   series_index: 1
   url: /book/show/24876258.the-aeronauts-windlass
+The Aftermath:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442426245l/768917._SY475_.jpg
+  id: 768917
+  localCover: /embeds/books/the-aftermath.jpg
+  name: The Aftermath
+  series: 'The Grand Tour, #12; The Asteroid Wars'
+  series_index: 4
+  url: /book/show/768917.the-aftermath
 The Alloy of Law:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1442889632l/10803121.jpg
@@ -4130,6 +4157,15 @@ The Shepherd's Crown:
   series: Discworld
   series_index: 41
   url: /book/show/22886868.the-shepherds-crown
+The Silent War:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386919740l/267285.jpg
+  id: 267285
+  localCover: /embeds/books/the-silent-war.jpg
+  name: The Silent War
+  series: 'The Grand Tour #11; The Asteroid Wars'
+  series_index: 3
+  url: /book/show/267285.the-silent-war
 The Slow Regard of Silent Things:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1398466695l/21535271.jpg
