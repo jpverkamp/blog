@@ -2674,6 +2674,24 @@ Sahara:
   series: Dirk Pitt
   series_index: 11
   url: /book/show/41716.sahara
+Saturn:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316130751l/64703._SX98_.jpg
+  id: 64703
+  localCover: /embeds/books/saturn.jpg
+  name: Saturn
+  series: The Grand Tour
+  series_index: 13
+  url: /book/show/64703.saturn
+'Second Shift: Order':
+  author: Hugh Howey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352920738l/16148938._SX98_.jpg
+  id: 16148938
+  localCover: /embeds/books/second-shift-order.jpg
+  name: 'Second Shift: Order'
+  series: Shift
+  series_index: 2
+  url: /book/show/16148938.second-shift-order
 Secret History:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1453756231l/28698036.jpg
@@ -4418,6 +4436,15 @@ Thief of Time:
   series: Discworld
   series_index: 26
   url: /book/show/48002.thief-of-time
+'Third Shift: Pact':
+  author: Hugh Howey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359195368l/16183060._SX98_.jpg
+  id: 16183060
+  localCover: /embeds/books/third-shift-pact.jpg
+  name: 'Third Shift: Pact'
+  series: Shift
+  series_index: 3
+  url: /book/show/16183060.third-shift-pact
 Throne of the Crescent Moon:
   author: Saladin Ahmed
   cover: https://images.gr-assets.com/books/1344256189l/11487807.jpg
@@ -4443,6 +4470,15 @@ Tick Tock:
   localCover: /embeds/books/tick-tock.jpg
   name: Tick Tock
   url: /book/show/281433.tick-tock
+Titan:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316727959l/267281._SX98_.jpg
+  id: 267281
+  localCover: /embeds/books/titan.jpg
+  name: Titan
+  series: The Grand Tour
+  series_index: 15
+  url: /book/show/267281.titan
 To Kill a Mockingbird:
   author: Harper Lee
   cover: https://images.gr-assets.com/books/1361975680l/2657.jpg
