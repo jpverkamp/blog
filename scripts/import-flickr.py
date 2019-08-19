@@ -27,12 +27,12 @@ generated: true
 config = {}
 for filename in ['config.yaml', 'secrets.yaml']:
     with open(filename, 'r') as fin:
-        config.update(yaml.load(fin))
+        config.update(yaml.load(fin, Loader = yaml.Loader))
 
 post_date_path = os.path.join('data', 'flickr', 'post-dates.yaml')
 if os.path.exists(post_date_path):
     with open(post_date_path, 'r') as fin:
-        post_dates = yaml.load(fin)
+        post_dates = yaml.load(fin, Loader = yaml.Loader)
 else:
     post_dates = {}
 
@@ -91,7 +91,7 @@ for photoset in sorted(raw_photosets['photosets']['photoset'], key = lambda ps: 
     # Check if we've cached this photoset
     if os.path.exists(photoset_path):
         with open(photoset_path, 'r') as fin:
-            cached_photoset = yaml.load(fin)
+            cached_photoset = yaml.load(fin, Loader = yaml.Loader)
 
         if int(cached_photoset['date_update']) < int(photoset['date_update']):
             print(photoset['id'], photoset['title'], 'already exists but out of date')
@@ -131,7 +131,7 @@ if args.generate:
     print('[Flickr] Generating posts...')
     for filename in os.listdir(os.path.join('data', 'flickr', 'sets')):
         with open(os.path.join('data', 'flickr', 'sets', filename), 'r') as fin:
-            photoset = yaml.load(fin)
+            photoset = yaml.load(fin, Loader = yaml.Loader)
 
         photoset_id = int(photoset['id'])
 

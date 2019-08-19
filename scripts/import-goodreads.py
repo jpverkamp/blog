@@ -37,7 +37,7 @@ markdowner = html2text.HTML2Text()
 config = {}
 for filename in ['config.yaml', 'secrets.yaml']:
     with open(filename, 'r') as fin:
-        config.update(yaml.load(fin))
+        config.update(yaml.load(fin, Loader = yaml.Loader))
 
 fields = { # singular: plural
     'book': 'books',
@@ -53,7 +53,7 @@ for filename in os.listdir(os.path.join('data', 'goodreads')):
 
     logging.info('Loading data from {} into global_data[{}]'.format(path, name))
     with open(path, 'r') as fin:
-        global_data[name] = yaml.load(fin)
+        global_data[name] = yaml.load(fin, Loader = yaml.Loader)
 
 for singular, plural in fields.items():
     if plural not in global_data:

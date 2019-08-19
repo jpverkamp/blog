@@ -268,7 +268,7 @@ def process_post(old_path):
         new_path = new_path.replace(old, new)
 
     header, content = content.split('\n---\n', 1)
-    header = yaml.load(header)
+    header = yaml.load(header, Loader = yaml.Loader)
 
     for key in remove_header_keys:
         if key in header:
@@ -559,7 +559,7 @@ def process_attachment(old_path):
     post_path = os.path.dirname(old_path) + '.htm'
     with open(post_path, 'r') as fin:
         header, _ = fin.read().split('---', 1)
-        header = yaml.load(header)
+        header = yaml.load(header, Loader = yaml.Loader)
 
         year = str(header['date'].year)
         new_path = os.path.join('.', 'static', 'embeds', year, filename)
