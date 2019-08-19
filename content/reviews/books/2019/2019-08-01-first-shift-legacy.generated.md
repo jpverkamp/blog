@@ -5,7 +5,8 @@ generated: true
 reviews/lists:
 - 2019 Book Reviews
 reviews/series:
-- 'Silo #2A'
+- Silo
+- Shift
 ---
 {{< goodreads book="First Shift: Legacy" cover="true" >}}
 

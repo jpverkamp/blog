@@ -147,6 +147,15 @@ Academ's Fury:
   series: Codex Alera
   series_index: 2
   url: /book/show/133664.academs-fury
+Adulthood Rites:
+  author: Octavia E. Butler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390116834l/116249.jpg
+  id: 116249
+  localCover: /embeds/books/adulthood-rites.jpg
+  name: Adulthood Rites
+  series: Xenogenesis
+  series_index: 2
+  url: /book/show/116249.adulthood-rites
 Aether of Night:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1513286726l/33833355.jpg
@@ -791,6 +800,15 @@ Darkfall:
   localCover: /embeds/books/darkfall.jpg
   name: Darkfall
   url: /book/show/32456.darkfall
+Dawn:
+  author: Octavia E. Butler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388290339l/60929.jpg
+  id: 60929
+  localCover: /embeds/books/dawn.jpg
+  name: Dawn
+  series: Xenogenesis
+  series_index: 1
+  url: /book/show/60929.dawn
 Dead Beat:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1345667776l/17683.jpg
@@ -902,6 +920,15 @@ Dune:
   series: Dune
   series_index: 1
   url: /book/show/234225.dune
+Dust:
+  author: Hugh Howey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369522849l/17855756._SX98_.jpg
+  id: 17855756
+  localCover: /embeds/books/dust.jpg
+  name: Dust
+  series: Silo
+  series_index: 3
+  url: /book/show/17855756.dust
 Earth Afire:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1355974443l/16059350.jpg
@@ -1577,6 +1604,15 @@ Illusive Echoes:
   series: The Greatest Sin
   series_index: 4
   url: /book/show/30685918.illusive-echoes
+Imago:
+  author: Octavia E. Butler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389478182l/60934.jpg
+  id: 60934
+  localCover: /embeds/books/imago.jpg
+  name: Imago
+  series: Xenogenesis
+  series_index: 3
+  url: /book/show/60934.imago
 Infernal Devices:
   author: Philip Reeve
   cover: https://images.gr-assets.com/books/1334003040l/585261.jpg
@@ -1974,6 +2010,15 @@ Men at Arms:
   series: Discworld
   series_index: 15
   url: /book/show/400354.men-at-arms
+Mercury:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317791365l/768916._SX98_.jpg
+  id: 768916
+  localCover: /embeds/books/mercury.jpg
+  name: Mercury
+  series: The Grand Tour
+  series_index: 16
+  url: /book/show/768916.mercury
 Mercury Falls:
   author: Robert Kroese
   cover: https://images.gr-assets.com/books/1368753041l/6931171.jpg
