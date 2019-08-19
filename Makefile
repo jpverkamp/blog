@@ -1,4 +1,5 @@
-last_commit = $(shell git log -1 --pretty=%B | head -n 1)
+HUGO_VERSION = 0.55
+LAST_COMMIT = $(shell git log -1 --pretty=%B | head -n 1)
 
 import:
 	# Require that the secrets file exists
@@ -12,21 +13,18 @@ import:
 	python3 scripts/import-goodreads.py --reviews --validate
 
 run:
-	sleep 10 && open http://localhost:1313/ &
-	hugo server --buildFuture
+	sleep 30 && open http://localhost/ &
+	docker run --rm -it -p 80:80 -v $(shell pwd):/src jguyomard/hugo-builder:${HUGO_VERSION} hugo server --buildFuture --bind 0.0.0.0 --port 80
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
 	cd public; git wipe; git up
 	rm -rf public/*
-	hugo
+	docker run --rm -it -v $(shell pwd):/src jguyomard/hugo-builder:${HUGO_VERSION} hugo
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
 
-test:
-	echo ${last_commit}
-
 deploy: build
 	cd public; git add .
-	cd public; git commit -m "Automatic deployment (${last_commit})"
+	cd public; git commit -m "Automatic deployment (${LAST_COMMIT})"
 	cd public; git push origin master
