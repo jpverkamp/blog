@@ -1,7 +1,7 @@
 <iframe
-    {{ if .Get "width" }}width="{{ .Get "width" }}"{{ end }}
-    {{ if .Get "height" }}height="{{ .Get "height" }}"{{ end }}
+    {{- if .Get "width" }}width="{{ .Get "width" }}"{{ end -}}
+    {{- if .Get "height" }}height="{{ .Get "height" }}"{{ end -}}
     frameBorder="no"
-    {{ if or (.Get "width") (.Get "height") }}scrolling="yes"{{ end }}
+    {{- if or (.Get "width") (.Get "height") }}scrolling="yes"{{ end -}}
     src="{{ .Get "src" }}">
 </iframe>

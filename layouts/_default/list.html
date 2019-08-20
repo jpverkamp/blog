@@ -1,18 +1,18 @@
 {{ define "main" }}
     <div class="entry-content">
-        {{ .Content }}
+        {{- .Content -}}
     </div>
 
     {{/* Render taxonomies with a matching prefix, but not on the home page */}}
-    {{ if $.Section }}
-    {{ partial "taxonomy-list.html" . }}
-    {{ end }}
+    {{- if $.Section -}}
+    {{- partial "taxonomy-list.html" . -}}
+    {{- end -}}
 
     {{/* Render posts on this list, but paginate (so many posts) */}}
     <div class="post-list">
-    {{ $last := add (len .Paginator.Pages) -1 }}
-    {{ range $i, $page := .Paginator.Pages }}
-    {{ with $page }}
+    {{- $last := add (len .Paginator.Pages) -1 -}}
+    {{- range $i, $page := .Paginator.Pages -}}
+    {{- with $page -}}
         <article class="li">
         	<header>
         		<h1 class="entry-title">
@@ -20,7 +20,7 @@
                 </h1>
 
         		<div class="entry-meta">
-                    {{ if .Date }}
+                    {{- if .Date -}}
                     <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
                     <!--
                     <span class="entry-date" data-posted-on="{{ .Date.Format "2006-01-02" }}">
@@ -29,26 +29,26 @@
                         <span class="year">{{ .Date.Year }}</span>
                     </span>
                     -->
-                    {{ end }}
+                    {{- end -}}
         		</div>
         	</header>
             <div class="entry-content">
-                {{ if .Truncated }}
-                    {{ .Summary }}
+                {{- if .Truncated -}}
+                    {{- .Summary -}}
                     <p><a href="{{ .RelPermalink }}">read more...</a></p>
-                {{ else }}
-                    {{ .Content }}
-                {{ end }}
+                {{- else -}}
+                    {{- .Content -}}
+                {{- end -}}
         	</div>
 
             {{/* Add the HR to all but the last element and the last one only if we have more than one page */}}
-            {{ if or (not (eq $i $last)) (gt $.Paginator.TotalPages 1) }}<hr />{{ end }}
+            {{- if or (not (eq $i $last)) (gt $.Paginator.TotalPages 1) }}<hr />{{ end -}}
         </article>
-    {{ end }}
-    {{ end }}
+    {{- end -}}
+    {{- end -}}
     </div>
 
     <nav id="pagination-navigation" role="navigation">
-        {{ template "_internal/pagination.html" . }}
+        {{- template "_internal/pagination.html" . -}}
     </nav>
-{{ end }}
+{{- end -}}

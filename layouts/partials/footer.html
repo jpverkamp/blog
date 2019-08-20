@@ -10,13 +10,13 @@
                 </a>
             </li>
 
-            {{ if $.Section }}
+            {{- if $.Section -}}
             <li>
                 <a href="/{{ $.Section | urlize }}/atom.xml">
                     RSS: {{ $.Section }}<sup>{{ partial "rss-icon.html" (dict "size" 8 "color" "white") }}</sup>
                 </a>
             </li>
-            {{ end }}
+            {{- end -}}
         </ul>
     </nav>
 

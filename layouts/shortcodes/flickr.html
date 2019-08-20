@@ -1,5 +1,5 @@
 <!-- more -->
-{{ if .Get "set" }}
+{{- if .Get "set" -}}
     {{- $photoset := index $.Site.Data.flickr.sets (.Get "set") -}}
     {{- $photos := $photoset.photos -}}
     {{- $photoCount := $photos | len -}}
@@ -21,7 +21,7 @@
                         </a>
                         <!--
                         <figcaption>
-                            {{ $photo.title }}
+                            {{- $photo.title -}}
                         </figcaption>
                         -->
                     </figure>
@@ -33,13 +33,13 @@
     <div class="viewOnFlicker">
         <a href="https://flickr.com/photos/jpverkamp/sets/{{ .Get "set" }}">View on Flickr</a>
     </div>
-{{ else if .Get "image" }}
+{{- else if .Get "image" -}}
     {{/* This won't work for any photos not in a photoset, but that's not how I organize images so (shrug) */}}
-    {{ $.Scratch.Set "found-image" false }}
-    {{ range $photosetId, $photoset := $.Site.Data.flickr }}
-        {{ range $photo := $photoset.photos }}
-            {{ if and (eq $photo.id ($.Get "image")) (not ($.Scratch.Get "found-image")) }}
-                {{ $.Scratch.Set "found-image" true }}
+    {{- $.Scratch.Set "found-image" false -}}
+    {{- range $photosetId, $photoset := $.Site.Data.flickr -}}
+        {{- range $photo := $photoset.photos -}}
+            {{- if and (eq $photo.id ($.Get "image")) (not ($.Scratch.Get "found-image")) -}}
+                {{- $.Scratch.Set "found-image" true -}}
                 <figure>
                     <a href="{{ $photo.page }}">
                         <img src="{{ $photo.url }}" alt="{{ $photo.title }}" />
@@ -48,12 +48,12 @@
                         <strong>{{ $photo.title }}</strong> - <a href="{{ $photo.page }}">View on Flickr</a>
                     </figcaption>
                 </figure>
-            {{ end }}
-        {{ end }}
-    {{ end }}
-    {{ if not ($.Scratch.Get "found-image") }}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+    {{- if not ($.Scratch.Get "found-image") -}}
         WARNING IMAGE {{ .Get "image" }} COULD NOT BE FOUND
-    {{ end }}
+    {{- end -}}
 {{ else }}
 WARNING UNKNOWN FLICKR TYPE
-{{ end }}
+{{- end -}}

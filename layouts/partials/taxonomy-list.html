@@ -1,83 +1,83 @@
 <div class="entry-tags">
-    {{ $params := $.Params }}
-    {{ $listTermsPerTaxonomy := $.Site.Params.listTermsPerTaxonomy }}
+    {{- $params := $.Params -}}
+    {{- $listTermsPerTaxonomy := $.Site.Params.listTermsPerTaxonomy -}}
 
     <ul class="taxonomy-keys">
-    {{ range $taxonomy_name, $taxonomy := $.Site.Taxonomies }}
-        {{ $taxonomy_name_parts := split $taxonomy_name "/" }}
-        {{ $last_part := add (len $taxonomy_name_parts) -1 }}
+    {{- range $taxonomy_name, $taxonomy := $.Site.Taxonomies -}}
+        {{- $taxonomy_name_parts := split $taxonomy_name "/" -}}
+        {{- $last_part := add (len $taxonomy_name_parts) -1 -}}
 
-        {{ $renderTaxonomyIfPage := index $params $taxonomy_name }}
-        {{ $renderTaxonomyIfList := and (hasPrefix $taxonomy_name $.Section) $taxonomy }}
+        {{- $renderTaxonomyIfPage := index $params $taxonomy_name -}}
+        {{- $renderTaxonomyIfList := and (hasPrefix $taxonomy_name $.Section) $taxonomy -}}
 
-        {{ if or (and $.IsPage $renderTaxonomyIfPage) (and (not $.IsPage) $renderTaxonomyIfList) }}
+        {{- if or (and $.IsPage $renderTaxonomyIfPage) (and (not $.IsPage) $renderTaxonomyIfList) -}}
         <li>
             <a class="taxonomy-key" href="/{{ $taxonomy_name | urlize }}/">{{ index $taxonomy_name_parts $last_part | title }}</a>
             <ul class="taxonomy-values">
-            {{ $.Scratch.Set "counter" 0 }}
-            {{ range $term, $pages := $taxonomy }}
-                {{ $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) }}
+            {{- $.Scratch.Set "counter" 0 -}}
+            {{- range $term, $pages := $taxonomy -}}
+                {{- $.Scratch.Set "counter" (add ($.Scratch.Get "counter") 1) -}}
 
-                {{ $renderTermIfPage := in (index $params $taxonomy_name) $pages.Page.Title }}
-                {{ $renderTermIfList := le ($.Scratch.Get "counter") $listTermsPerTaxonomy }}
+                {{- $renderTermIfPage := in (index $params $taxonomy_name) $pages.Page.Title -}}
+                {{- $renderTermIfList := le ($.Scratch.Get "counter") $listTermsPerTaxonomy -}}
 
-                {{ if or (and $.IsPage $renderTermIfPage) (and (not $.IsPage) $renderTermIfList) }}
+                {{- if or (and $.IsPage $renderTermIfPage) (and (not $.IsPage) $renderTermIfList) -}}
                     {{/* Get the current index of this page with the taxonomy for next/previous links */}}
-                    {{ $.Scratch.Set "page-index" -10 }}
-                    {{ range $index, $page := $pages }}
-                        {{ if eq $page.Permalink $.Permalink }}
-                            {{ $.Scratch.Set "page-index" $index }}
-                        {{ end }}
-                    {{ end }}
+                    {{- $.Scratch.Set "page-index" -10 -}}
+                    {{- range $index, $page := $pages -}}
+                        {{- if eq $page.Permalink $.Permalink -}}
+                            {{- $.Scratch.Set "page-index" $index -}}
+                        {{- end -}}
+                    {{- end -}}
 
-                    {{ $prevPage := index $pages (add ($.Scratch.Get "page-index") 1) }}
-                    {{ $nextPage := index $pages (add ($.Scratch.Get "page-index") -1) }}
+                    {{- $prevPage := index $pages (add ($.Scratch.Get "page-index") 1) -}}
+                    {{- $nextPage := index $pages (add ($.Scratch.Get "page-index") -1) -}}
 
                     <li>
-                        {{ if $prevPage }}<a href="{{ $prevPage.Permalink }}" class="previous-link"></a>{{ end }}
+                        {{- if $prevPage }}<a href="{{ $prevPage.Permalink }}" class="previous-link"></a>{{ end -}}
                         <a class="taxonomy-value" href="/{{ $taxonomy_name | urlize }}/{{ $term | urlize }}">{{ $pages.Page.Title }}</a>
-                        {{ if $nextPage }}<a href="{{ $nextPage.Permalink }}" class="next-link"></a>{{ end }}
+                        {{- if $nextPage }}<a href="{{ $nextPage.Permalink }}" class="next-link"></a>{{ end -}}
                     </li>
-                {{ end }}
-            {{ end }}
-            {{ if and (not $.IsPage) (gt ($.Scratch.Get "counter") $listTermsPerTaxonomy) }}
+                {{- end -}}
+            {{- end -}}
+            {{- if and (not $.IsPage) (gt ($.Scratch.Get "counter") $listTermsPerTaxonomy) -}}
                 <li><a class="taxonomy-value" href="/{{ $taxonomy_name | urlize }}/">...</a></li>
-            {{ end }}
+            {{- end -}}
             </ul>
         </li>
-        {{ end }}
-    {{ end }}
+        {{- end -}}
+    {{- end -}}
 
-    {{ if $.IsPage }}
-        {{ if $.Section }}
+    {{- if $.IsPage -}}
+        {{- if $.Section -}}
         <li><a class="taxonomy-key" href="/{{ $.Section | urlize }}">{{ $.Section }}</a>
             <ul>
                 <li>
-                {{ if .Page.PrevInSection }}
+                {{- if .Page.PrevInSection -}}
                 <a href="{{ .Page.PrevInSection.Permalink }}" class="previous-link">Prev</a>
-                {{ end }}
+                {{- end -}}
 
-                {{ if .Page.NextInSection }}
+                {{- if .Page.NextInSection -}}
                 <a href="{{ .Page.NextInSection.Permalink }}" class="next-link">Next</a>
-                {{ end }}
+                {{- end -}}
             </ul>
         </li>
-        {{ end }}
+        {{- end -}}
 
-        {{ if not (eq $.Type "page") }}
+        {{- if not (eq $.Type "page") -}}
         <li><a class="taxonomy-key" href="/">All Posts</a>
             <ul>
                 <li>
-                {{ if .Page.PrevPage }}
+                {{- if .Page.PrevPage -}}
                 <a href="{{ .Page.PrevPage.Permalink }}" class="previous-link">Prev</a>
-                {{ end }}
+                {{- end -}}
 
-                {{ if .Page.NextPage }}
+                {{- if .Page.NextPage -}}
                 <a href="{{ .Page.NextPage.Permalink }}" class="next-link">Next</a>
-                {{ end }}
+                {{- end -}}
             </ul>
         </li>
-        {{ end }}
-    {{ end }}
+        {{- end -}}
+    {{- end -}}
     </ul>
 </div>
