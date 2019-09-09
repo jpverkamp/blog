@@ -55,7 +55,7 @@
                 <li>
                 {{- if .Page.PrevInSection -}}
                 <a href="{{ .Page.PrevInSection.Permalink }}" class="previous-link">Prev</a>
-                {{- end -}}
+                {{ end }}
 
                 {{- if .Page.NextInSection -}}
                 <a href="{{ .Page.NextInSection.Permalink }}" class="next-link">Next</a>
@@ -70,7 +70,7 @@
                 <li>
                 {{- if .Page.PrevPage -}}
                 <a href="{{ .Page.PrevPage.Permalink }}" class="previous-link">Prev</a>
-                {{- end -}}
+                {{ end }}
 
                 {{- if .Page.NextPage -}}
                 <a href="{{ .Page.NextPage.Permalink }}" class="next-link">Next</a>

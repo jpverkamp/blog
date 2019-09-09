@@ -913,13 +913,11 @@ Drowned Wednesday:
   url: /book/show/47619.drowned-wednesday
 Dune:
   author: Frank Herbert
-  cover: https://images.gr-assets.com/books/1434908555l/234225.jpg
-  id: 234225
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546269682l/43419431._SY160_.jpg
+  id: 43419431
   localCover: /embeds/books/dune.jpg
   name: Dune
-  series: Dune
-  series_index: 1
-  url: /book/show/234225.dune
+  url: /book/show/43419431.dune
 Dust:
   author: Hugh Howey
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369522849l/17855756._SX98_.jpg
@@ -1983,6 +1981,15 @@ Mars:
   series: The Grand Tour
   series_index: 4
   url: /book/show/267282.mars
+Mars Life:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316130595l/908284._SX98_.jpg
+  id: 908284
+  localCover: /embeds/books/mars-life.jpg
+  name: Mars Life
+  series: The Grand Tour
+  series_index: 17
+  url: /book/show/908284.mars-life
 Maskerade:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1170961678l/78876.jpg
@@ -4644,6 +4651,15 @@ Velocity:
   localCover: /embeds/books/velocity.jpg
   name: Velocity
   url: /book/show/32421.velocity
+Venus:
+  author: Ben Bova
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316129566l/768918._SX98_.jpg
+  id: 768918
+  localCover: /embeds/books/venus.jpg
+  name: Venus
+  series: The Grand Tour
+  series_index: 18
+  url: /book/show/768918.venus
 Vortex:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1312034516l/9359796.jpg
