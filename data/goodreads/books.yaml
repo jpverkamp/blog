@@ -147,6 +147,15 @@ Academ's Fury:
   series: Codex Alera
   series_index: 2
   url: /book/show/133664.academs-fury
+Aces High:
+  author: George R.R. Martin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859546l/67961._SX98_.jpg
+  id: 67961
+  localCover: /embeds/books/aces-high.jpg
+  name: Aces High
+  series: Wild Cards
+  series_index: 2
+  url: /book/show/67961.aces-high
 Adulthood Rites:
   author: Octavia E. Butler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390116834l/116249.jpg
@@ -3049,6 +3058,13 @@ Spindrift:
   series: Coyote Universe
   series_index: 4
   url: /book/show/319209.spindrift
+Spinning Silver:
+  author: Naomi Novik
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513872748l/36896898._SX98_.jpg
+  id: 36896898
+  localCover: /embeds/books/spinning-silver.jpg
+  name: Spinning Silver
+  url: /book/show/36896898.spinning-silver
 Staked:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1434745650l/16280689.jpg
@@ -3137,6 +3153,13 @@ Superior Saturday:
   series: Tales of MU
   series_index: null
   url: /book/show/12749017.tales-of-mu-vol-2-love-in-the-time-of-magic
+'Teaching from Rest: A Homeschooler''s Guide to Unshakable Peace':
+  author: Sarah Mackenzie
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415110560l/22306757._SX98_.jpg
+  id: 22306757
+  localCover: /embeds/books/teaching-from-rest-a-homeschoolers-guide-to-unshakable-peace.jpg
+  name: 'Teaching from Rest: A Homeschooler''s Guide to Unshakable Peace'
+  url: /book/show/22306757.teaching-from-rest-a-homeschoolers-guide-to-unshakable-peace
 Technomancer:
   author: B.V. Larson
   cover: https://images.gr-assets.com/books/1339268348l/12853155.jpg
@@ -3924,6 +3947,15 @@ The Last Olympian:
   series: Percy Jackson and the Olympians
   series_index: 5
   url: /book/show/4502507.the-last-olympian
+The Legend of Corinair:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334471592l/13575890._SX98_.jpg
+  id: 13575890
+  localCover: /embeds/books/the-legend-of-corinair.jpg
+  name: The Legend of Corinair
+  series: The Frontiers Saga
+  series_index: 3
+  url: /book/show/13575890.the-legend-of-corinair
 The Lies of Locke Lamora:
   author: Scott Lynch
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458646334i/29588376._SY160_.jpg
@@ -4143,6 +4175,15 @@ The Rhesus Chart:
   series: Laundry Files
   series_index: 5
   url: /book/show/18211295.the-rhesus-chart
+The Rings of Haven:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334469925l/13516287._SX98_.jpg
+  id: 13516287
+  localCover: /embeds/books/the-rings-of-haven.jpg
+  name: The Rings of Haven
+  series: The Frontiers Saga
+  series_index: 2
+  url: /book/show/13516287.the-rings-of-haven
 The Rithmatist:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1348506712l/10137823.jpg
@@ -4635,6 +4676,13 @@ Unseen Academicals:
   series: Discworld
   series_index: 37
   url: /book/show/6250169.unseen-academicals
+Uprooted:
+  author: Naomi Novik
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418l/22544764._SX98_.jpg
+  id: 22544764
+  localCover: /embeds/books/uprooted.jpg
+  name: Uprooted
+  url: /book/show/22544764.uprooted
 Vamphyri!:
   author: Brian Lumley
   cover: https://images.gr-assets.com/books/1403544253l/60836.jpg
