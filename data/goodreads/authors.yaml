@@ -38,6 +38,10 @@ Anonymous:
   id: 5158478
   name: Anonymous
   url: /author/show/5158478.anonymous
+Arnold Lobel:
+  id: 12447
+  name: Arnold Lobel
+  url: /author/show/12447.arnold-lobel
 Art Spiegelman:
   id: 5117
   name: Art Spiegelman
@@ -610,3 +614,7 @@ William Stuart Long:
   id: 315157
   name: William Stuart Long
   url: /author/show/315157.william-stuart-long
+Zach Barth:
+  id: 19234528
+  name: Zach Barth
+  url: /author/show/19234528.zach-barth

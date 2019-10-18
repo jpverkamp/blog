@@ -147,6 +147,15 @@ Academ's Fury:
   series: Codex Alera
   series_index: 2
   url: /book/show/133664.academs-fury
+Aces Abroad:
+  author: George R.R. Martin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859628l/984792._SX98_.jpg
+  id: 984792
+  localCover: /embeds/books/aces-abroad.jpg
+  name: Aces Abroad
+  series: Wild Cards
+  series_index: 4
+  url: /book/show/984792.aces-abroad
 Aces High:
   author: George R.R. Martin
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859546l/67961._SX98_.jpg
@@ -1239,6 +1248,24 @@ Fragments:
   series: Partials Sequence
   series_index: 2
   url: /book/show/13170596.fragments
+Freedom's Dawn:
+  author: Ryk Brown
+  cover: https://images-na.ssl-images-amazon.com/images/I/4134XHzgRNL.jpg
+  id: 15737118
+  localCover: /embeds/books/freedoms-dawn.jpg
+  name: Freedom's Dawn
+  series: The Frontiers Saga
+  series_index: 4
+  url: /book/show/15737118.freedoms-dawn
+Frog and Toad Are Friends:
+  author: Arnold Lobel
+  cover: https://images-na.ssl-images-amazon.com/images/I/51oOSe0AvsL.jpg
+  id: 537296
+  localCover: /embeds/books/frog-and-toad-are-friends.jpg
+  name: Frog and Toad Are Friends
+  series: Frog and Toad
+  series_index: 1
+  url: /book/show/537296.frog-and-toad-are-friends
 Frost Burned:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1344299919l/13413589.jpg
@@ -1683,6 +1710,15 @@ Jingo:
   series: Discworld
   series_index: 21
   url: /book/show/47990.jingo
+Jokers Wild:
+  author: George R.R. Martin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1304286902l/67955._SX98_.jpg
+  id: 67955
+  localCover: /embeds/books/jokers-wild.jpg
+  name: Jokers Wild
+  series: Wild Cards
+  series_index: 3
+  url: /book/show/67955.jokers-wild
 Jupiter:
   author: Ben Bova
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442052818i/267334._SY475_.jpg
@@ -2699,6 +2735,15 @@ Ringworld:
   series: Ringworld
   series_index: 1
   url: /book/show/61179.ringworld
+Rise of the Corinari:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350021452l/16081718._SX98_.jpg
+  id: 16081718
+  localCover: /embeds/books/rise-of-the-corinari.jpg
+  name: Rise of the Corinari
+  series: The Frontiers Saga
+  series_index: 5
+  url: /book/show/16081718.rise-of-the-corinari
 River Marked:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1305738320l/8087906.jpg
@@ -4928,6 +4973,13 @@ Year Zero:
   localCover: /embeds/books/year-zero.jpg
   name: Year Zero
   url: /book/show/12953520.year-zero
+ZACH-LIKE, A Game Design History:
+  author: Zach Barth
+  cover: https://pcgamingwiki.ams3.digitaloceanspaces.com/f/fb/ZACH-LIKE_cover.jpg
+  id: 46158812
+  localCover: /embeds/books/zach-like-a-game-design-history.jpg
+  name: ZACH-LIKE, A Game Design History
+  url: /book/show/46158812.zach-like-a-game-design-history
 Zoe's Tale:
   author: John Scalzi
   cover: https://images.gr-assets.com/books/1301108028l/2102600.jpg
