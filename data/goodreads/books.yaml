@@ -1487,6 +1487,15 @@ Harry Potter and the Sorcerer's Stone:
   series: Harry Potter
   series_index: 1
   url: /book/show/3.harry-potter-and-the-sorcerers-stone
+Head of the Dragon:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360218200l/17336361._SX98_.jpg
+  id: 17336361
+  localCover: /embeds/books/head-of-the-dragon.jpg
+  name: Head of the Dragon
+  series: The Frontiers Saga
+  series_index: 6
+  url: /book/show/17336361.head-of-the-dragon
 Hex:
   author: Allen Steele
   cover: https://images.gr-assets.com/books/1311280340l/10472902.jpg
@@ -3587,6 +3596,15 @@ The Eternity Code:
   series: Artemis Fowl
   series_index: 3
   url: /book/show/227865.the-eternity-code
+The Expanse:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371545090l/18085924._SX98_.jpg
+  id: 18085924
+  localCover: /embeds/books/the-expanse.jpg
+  name: The Expanse
+  series: The Frontiers Saga
+  series_index: 7
+  url: /book/show/18085924.the-expanse
 The Eye of the World:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1337818095l/228665.jpg
