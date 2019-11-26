@@ -147,6 +147,15 @@ Academ's Fury:
   series: Codex Alera
   series_index: 2
   url: /book/show/133664.academs-fury
+Ace in the Hole:
+  author: George R.R. Martin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328368345l/1281216._SY160_.jpg
+  id: 1281216
+  localCover: /embeds/books/ace-in-the-hole.jpg
+  name: Ace in the Hole
+  series: Wild Cards
+  series_index: 6
+  url: /book/show/1281216.ace-in-the-hole
 Aces Abroad:
   author: George R.R. Martin
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859628l/984792._SX98_.jpg
@@ -578,6 +587,15 @@ Cauldron:
   series: The Academy
   series_index: 6
   url: /book/show/535318.cauldron
+Celestia CV-02:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376665243l/18335627._SX98_.jpg
+  id: 18335627
+  localCover: /embeds/books/celestia-cv-02.jpg
+  name: Celestia CV-02
+  series: The Frontiers Saga
+  series_index: 8
+  url: /book/show/18335627.celestia-cv-02
 Cell:
   author: Stephen King
   cover: https://images.gr-assets.com/books/1432828013l/10567.jpg
@@ -845,6 +863,15 @@ Dead Heat:
   series: Alpha & Omega
   series_index: 4
   url: /book/show/18941694.dead-heat
+Dead Man's Hand:
+  author: George R.R. Martin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391680749l/147912._SX98_.jpg
+  id: 147912
+  localCover: /embeds/books/dead-mans-hand.jpg
+  name: Dead Man's Hand
+  series: Wild Cards
+  series_index: 7
+  url: /book/show/147912.dead-mans-hand
 Dead Things:
   author: Stephen Blackmoore
   cover: https://images.gr-assets.com/books/1366306674l/15784263.jpg
@@ -904,6 +931,15 @@ Divergent:
   series: Divergent
   series_index: 1
   url: /book/show/13335037.divergent
+Down and Dirty:
+  author: George R.R. Martin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859712l/67959._SY160_.jpg
+  id: 67959
+  localCover: /embeds/books/down-and-dirty.jpg
+  name: Down and Dirty
+  series: Wild Cards
+  series_index: 5
+  url: /book/show/67959.down-and-dirty
 Dragon:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1316996422l/41694.jpg
@@ -2715,6 +2751,15 @@ Rendezvous with Rama:
   series: Rama
   series_index: 1
   url: /book/show/112537.rendezvous-with-rama
+Resistance:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382265600l/18690610._SX98_.jpg
+  id: 18690610
+  localCover: /embeds/books/resistance.jpg
+  name: Resistance
+  series: The Frontiers Saga
+  series_index: 9
+  url: /book/show/18690610.resistance
 Return to Mars:
   author: Ben Bova
   cover: https://www.sfsite.com/~silverag/return.jpg
@@ -4008,6 +4053,13 @@ The Last Hero:
   series: Discworld
   series_index: 27
   url: /book/show/34503.the-last-hero
+The Last Lecture:
+  author: Randy Pausch
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529682044l/40611510._SX98_.jpg
+  id: 40611510
+  localCover: /embeds/books/the-last-lecture.jpg
+  name: The Last Lecture
+  url: /book/show/40611510.the-last-lecture
 The Last Olympian:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1327924597l/4502507.jpg
@@ -4200,6 +4252,15 @@ The Phantom Tollbooth:
   localCover: /embeds/books/the-phantom-tollbooth.jpg
   name: The Phantom Tollbooth
   url: /book/show/378.the-phantom-tollbooth
+The Pillars of the Earth:
+  author: Ken Follett
+  cover: https://images3.penguinrandomhouse.com/cover/9781429586764
+  id: 5043
+  localCover: /embeds/books/the-pillars-of-the-earth.com/cover/9781429586764
+  name: The Pillars of the Earth
+  series: Kingsbridge
+  series_index: 1
+  url: /book/show/5043.the-pillars-of-the-earth
 The Precipice:
   author: Ben Bova
   cover: https://images.gr-assets.com/books/1386919746l/267302.jpg
