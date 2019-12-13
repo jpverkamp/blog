@@ -436,6 +436,15 @@ Boneshaker:
   series: The Clockwork Century
   series_index: 1
   url: /book/show/1137215.boneshaker
+Born of the Ashes:
+  author: Ryk Brown
+  cover: https://images-na.ssl-images-amazon.com/images/I/51LQCwZ7ZNL.jpg
+  id: 22300522
+  localCover: /embeds/books/born-of-the-ashes.jpg
+  name: Born of the Ashes
+  series: The Frontiers Saga
+  series_index: 11
+  url: /book/show/22300522.born-of-the-ashes
 Boundary Born:
   author: Melissa F. Olson
   cover: https://images.gr-assets.com/books/1457960765l/28496524.jpg
@@ -1834,6 +1843,15 @@ Leviathans of Jupiter:
   series: The Grand Tour
   series_index: 14
   url: /book/show/8730311.leviathans-of-jupiter
+Liberation:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389410150l/20508635.jpg
+  id: 20508635
+  localCover: /embeds/books/liberation.jpg
+  name: Liberation
+  series: The Frontiers Saga
+  series_index: 10
+  url: /book/show/20508635.liberation
 Libriomancer:
   author: Jim C. Hines
   cover: https://images.gr-assets.com/books/1341278512l/15733416.jpg
@@ -2521,6 +2539,15 @@ Overtime:
   series: Laundry Files
   series_index: 3.5
   url: /book/show/8420932.overtime
+Pacific Vortex!:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1269478239l/361081._SX98_.jpg
+  id: 361081
+  localCover: /embeds/books/pacific-vortex.jpg
+  name: Pacific Vortex!
+  series: Dirk Pitt
+  series_index: 1
+  url: /book/show/361081.pacific-vortex
 'Pale Green Dot: Sequel to The Forest':
   author: Justin Groot
   cover: https://images.gr-assets.com/books/1510023183l/36549857.jpg
