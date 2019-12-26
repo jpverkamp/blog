@@ -2697,6 +2697,15 @@ Pyramids:
   series: Discworld
   series_index: 7
   url: /book/show/64217.pyramids
+Raise the Titanic!:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439783780l/41706._SY475_.jpg
+  id: 41706
+  localCover: /embeds/books/raise-the-titanic.jpg
+  name: Raise the Titanic!
+  series: Dirk Pitt
+  series_index: 4
+  url: /book/show/41706.raise-the-titanic
 Raising Steam:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1375882313l/11275323.jpg
@@ -2823,6 +2832,15 @@ Ringworld:
   series: Ringworld
   series_index: 1
   url: /book/show/61179.ringworld
+Rise of the Alliance:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1422366831l/23363485.jpg
+  id: 23363485
+  localCover: /embeds/books/rise-of-the-alliance.jpg
+  name: Rise of the Alliance
+  series: The Frontiers Saga
+  series_index: 12
+  url: /book/show/23363485.rise-of-the-alliance
 Rise of the Corinari:
   author: Ryk Brown
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350021452l/16081718._SX98_.jpg
@@ -4220,6 +4238,15 @@ The Martian:
   series: The Martian
   series_index: 1
   url: /book/show/18007564.the-martian
+The Mediterranean Caper:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726835l/41701._SY475_.jpg
+  id: 41701
+  localCover: /embeds/books/the-mediterranean-caper.jpg
+  name: The Mediterranean Caper
+  series: Dirk Pitt
+  series_index: 2
+  url: /book/show/41701.the-mediterranean-caper
 The Merchant of Death:
   author: D.J. MacHale
   cover: https://images.gr-assets.com/books/1351196725l/833710.jpg
