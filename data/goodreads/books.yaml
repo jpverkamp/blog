@@ -1356,6 +1356,15 @@ Ghost Story:
   series: The Dresden Files
   series_index: 13
   url: /book/show/8058301.ghost-story
+Gideon the Ninth:
+  author: Tamsyn Muir
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg
+  id: 42036538
+  localCover: /embeds/books/gideon-the-ninth.jpg
+  name: Gideon the Ninth
+  series: The Locked Tomb
+  series_index: 1
+  url: /book/show/42036538.gideon-the-ninth
 Going Postal:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1388236899l/64222.jpg
@@ -1602,6 +1611,13 @@ Hounded:
   series: The Iron Druid Chronicles
   series_index: 1
   url: /book/show/9533378.hounded
+'How To: Absurd Scientific Advice for Common Real-World Problems':
+  author: Randall Munroe
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549394628l/42086897._SX98_.jpg
+  id: 42086897
+  localCover: /embeds/books/how-to-absurd-scientific-advice-for-common-real-world-problems.jpg
+  name: 'How To: Absurd Scientific Advice for Common Real-World Problems'
+  url: /book/show/42086897.how-to-absurd-scientific-advice-for-common-real-world-problems
 How the White Trash Zombie Got Her Groove Back:
   author: Diana Rowland
   cover: https://images.gr-assets.com/books/1394237804l/19486406.jpg
@@ -1638,6 +1654,14 @@ Hunting Ground:
   series: Alpha & Omega
   series_index: 2
   url: /book/show/5292853.hunting-ground
+'Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened':
+  author: Allie Brosh
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409522492l/17571564._SX98_.jpg
+  id: 17571564
+  localCover: /embeds/books/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened.jpg
+  name: 'Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem,
+    and Other Things That Happened'
+  url: /book/show/17571564.hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened
 I Am Not A Serial Killer:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1442065592l/7617119.jpg
@@ -1737,6 +1761,15 @@ Iron Kissed:
   series: Mercy Thompson
   series_index: 3
   url: /book/show/1412138.iron-kissed
+Iron and Magic:
+  author: Ilona Andrews
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525921420l/35126152._SY160_.jpg
+  id: 35126152
+  localCover: /embeds/books/iron-and-magic.jpg
+  name: Iron and Magic
+  series: The Iron Covenant
+  series_index: 1
+  url: /book/show/35126152.iron-and-magic
 Isolation:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1344024064l/13645264.jpg
@@ -1816,6 +1849,13 @@ Lady Friday:
   series: The Keys to the Kingdom
   series_index: 5
   url: /book/show/17206.lady-friday
+Learn You a Haskell for Great Good!:
+  author: "Miran Lipova\u010Da"
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1294497489l/6593810.jpg
+  id: 6593810
+  localCover: /embeds/books/learn-you-a-haskell-for-great-good.jpg
+  name: Learn You a Haskell for Great Good!
+  url: /book/show/6593810.learn-you-a-haskell-for-great-good
 Legion:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1338512017l/13452375.jpg
@@ -2505,6 +2545,13 @@ Omega:
   series: The Academy
   series_index: 4
   url: /book/show/352781.omega
+On Writing and Worldbuilding, Volume I:
+  author: Timothy Hickson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558288350l/44562151._SX98_.jpg
+  id: 44562151
+  localCover: /embeds/books/on-writing-and-worldbuilding-volume-i.jpg
+  name: On Writing and Worldbuilding, Volume I
+  url: /book/show/44562151.on-writing-and-worldbuilding-volume-i
 One Door Away from Heaven:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1308459846l/15746.jpg
@@ -2913,6 +2960,15 @@ Secret History:
   series: Mistborn
   series_index: 3.5
   url: /book/show/28698036.secret-history
+Senlin Ascends:
+  author: Josiah Bancroft
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502224161l/35271523._SX98_.jpg
+  id: 35271523
+  localCover: /embeds/books/senlin-ascends.jpg
+  name: Senlin Ascends
+  series: The Books of Babel
+  series_index: 1
+  url: /book/show/35271523.senlin-ascends
 Seventh Son:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1327295457l/40290.jpg
@@ -4523,6 +4579,15 @@ The Summer Prince:
   localCover: /embeds/books/the-summer-prince.jpg
   name: The Summer Prince
   url: /book/show/13453104.the-summer-prince
+The Sword of Summer:
+  author: Rick Riordan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434701340l/15724396._SX98_.jpg
+  id: 15724396
+  localCover: /embeds/books/the-sword-of-summer.jpg
+  name: The Sword of Summer
+  series: Magnus Chase and the Gods of Asgard
+  series_index: 1
+  url: /book/show/15724396.the-sword-of-summer
 'The Tangled Web: A Guide to Securing Modern Web Applications':
   author: Michal Zalewski
   cover: https://images.gr-assets.com/books/1344675366l/11553604.jpg
@@ -4861,6 +4926,15 @@ Unseen Academicals:
   series: Discworld
   series_index: 37
   url: /book/show/6250169.unseen-academicals
+Unsouled:
+  author: Will Wight
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465881128l/30558257._SY475_.jpg
+  id: 30558257
+  localCover: /embeds/books/unsouled.jpg
+  name: Unsouled
+  series: Cradle
+  series_index: 1
+  url: /book/show/30558257.unsouled
 Uprooted:
   author: Naomi Novik
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550135418l/22544764._SX98_.jpg

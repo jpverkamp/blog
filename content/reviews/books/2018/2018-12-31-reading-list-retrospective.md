@@ -92,7 +92,7 @@ A few stats:
 
 92 books in a year is right about a book every 4 days. I think next year, I can get that down to 3 days. Among books with page counts, I read 43,221 pages for an average of just under 120 pages per day (which is actually higher than previous years. I can probably get that up a bit too.
 
-I read three books with 100-200 books each, all from the Chronicles of Amber: The Hand of Oberon, The Courts of Chaos, and Sign of the Unicorn. Conversely, I read 5 books with over 1000 pages, The Shadow Rising and Lord of Chaos from Wheel of Time and all three books of the Stormlight Archive (Oathbringer is over 1200...). The average page count was just shy of 500 pages per book. No short stories this year (at least not counted individually).
+I read three books with 100-200 pages each, all from the Chronicles of Amber: The Hand of Oberon, The Courts of Chaos, and Sign of the Unicorn. Conversely, I read 5 books with over 1000 pages, The Shadow Rising and Lord of Chaos from Wheel of Time and all three books of the Stormlight Archive (Oathbringer is over 1200...). The average page count was just shy of 500 pages per book. No short stories this year (at least not counted individually).
 
 Formatwise, I listened to 38 books this year (around half of my total)[^listened-to]:
 
