@@ -93,6 +93,15 @@ A Short Stay in Hell:
   localCover: /embeds/books/a-short-stay-in-hell.jpg
   name: A Short Stay in Hell
   url: /book/show/13456414.a-short-stay-in-hell
+A Show of Force:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428736640l/25271140.jpg
+  id: 25271140
+  localCover: /embeds/books/a-show-of-force.jpg
+  name: A Show of Force
+  series: The Frontiers Saga
+  series_index: 13
+  url: /book/show/25271140.a-show-of-force
 A Swiftly Tilting Planet:
   author: Madeleine L'Engle
   cover: https://images.gr-assets.com/books/1327465278l/77276.jpg
@@ -2888,6 +2897,11 @@ Rise of the Alliance:
   series: The Frontiers Saga
   series_index: 12
   url: /book/show/23363485.rise-of-the-alliance
+'Rise of the Alliance(The Frontiers Saga, #12)':
+  author: Ryk Brown
+  id: 23363485
+  name: 'Rise of the Alliance(The Frontiers Saga, #12)'
+  url: /book/show/23363485.rise-of-the-alliancethe-frontiers-saga-12
 Rise of the Corinari:
   author: Ryk Brown
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350021452l/16081718._SX98_.jpg
