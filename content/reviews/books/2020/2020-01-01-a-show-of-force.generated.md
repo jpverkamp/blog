@@ -1,9 +1,9 @@
 ---
 title: A Show of Force
-date: 2019-12-31
+date: 2020-01-01 00:00:05
 generated: true
 reviews/lists:
-- 2019 Book Reviews
+- 2020 Book Reviews
 reviews/series:
 - The Frontiers Saga
 ---

@@ -1874,6 +1874,13 @@ Legion:
   series: Legion
   series_index: 1
   url: /book/show/13452375.legion
+'Letter to a Suffering Church: A Bishop Speaks on the Sexual Abuse Crisis':
+  author: Robert Barron
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557751800l/45731096._SY475_.jpg
+  id: 45731096
+  localCover: /embeds/books/letter-to-a-suffering-church-a-bishop-speaks-on-the-sexual-abuse-crisis.jpg
+  name: 'Letter to a Suffering Church: A Bishop Speaks on the Sexual Abuse Crisis'
+  url: /book/show/45731096.letter-to-a-suffering-church-a-bishop-speaks-on-the-sexual-abuse-crisis
 Leviathan Wakes:
   author: James S.A. Corey
   cover: https://images.gr-assets.com/books/1481811236l/33391886.jpg
@@ -4981,6 +4988,15 @@ Venus:
   series: The Grand Tour
   series_index: 18
   url: /book/show/768918.venus
+Vixen 03:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904695l/41700._SY160_.jpg
+  id: 41700
+  localCover: /embeds/books/vixen-03.jpg
+  name: Vixen 03
+  series: Dirk Pitt
+  series_index: 5
+  url: /book/show/41700.vixen-03
 Vortex:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1312034516l/9359796.jpg
