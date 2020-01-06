@@ -1,6 +1,6 @@
 ---
 title: A Show of Force
-date: 2020-01-01 00:00:05
+date: 2020-01-02
 generated: true
 reviews/lists:
 - 2020 Book Reviews
