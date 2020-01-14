@@ -1070,6 +1070,16 @@ Spin Saga:
   id: 52279
   name: Spin Saga
   url: /series/52279.spin-saga
+Tales from Deckawoo Drive:
+  books:
+    1: Leroy Ninker Saddles Up
+    2: Francine Poulet Meets the Ghost Raccoon
+    3: Where Are You Going, Baby Lincoln?
+    4: Eugenia Lincoln and the Unexpected Package
+    5: Stella Endicott and the Anything-Is-Possible Poem
+  id: 122218
+  name: Tales from Deckawoo Drive
+  url: /series/122218.tales-from-deckawoo-drive
 Tales of Alvin Maker:
   books:
     1: Seventh Son

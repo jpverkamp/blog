@@ -840,6 +840,15 @@ Cursor's Fury:
   series: Codex Alera
   series_index: 3
   url: /book/show/29394.cursors-fury
+Cyclops:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314485970l/41697._SY160_.jpg
+  id: 41697
+  localCover: /embeds/books/cyclops.jpg
+  name: Cyclops
+  series: Dirk Pitt
+  series_index: 8
+  url: /book/show/41697.cyclops
 Dark Matter:
   author: Blake Crouch
   cover: https://images.gr-assets.com/books/1472119680m/27833670.jpg
@@ -931,6 +940,15 @@ Deception Point:
   localCover: /embeds/books/deception-point.jpg
   name: Deception Point
   url: /book/show/976.deception-point
+Deep Six:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400897211l/41698._SY160_.jpg
+  id: 41698
+  localCover: /embeds/books/deep-six.jpg
+  name: Deep Six
+  series: Dirk Pitt
+  series_index: 7
+  url: /book/show/41698.deep-six
 Deepsix:
   author: Jack McDevitt
   cover: https://images.gr-assets.com/books/1322689032l/352780.jpg
@@ -1302,6 +1320,13 @@ Fragments:
   series: Partials Sequence
   series_index: 2
   url: /book/show/13170596.fragments
+Francine Poulet Meets the Ghost Raccoon:
+  author: Kate DiCamillo
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429033424l/24727081._SX98_.jpg
+  id: 24727081
+  localCover: /embeds/books/francine-poulet-meets-the-ghost-raccoon.jpg
+  name: Francine Poulet Meets the Ghost Raccoon
+  url: /book/show/24727081.francine-poulet-meets-the-ghost-raccoon
 Freedom's Dawn:
   author: Ryk Brown
   cover: https://images-na.ssl-images-amazon.com/images/I/4134XHzgRNL.jpg
@@ -3406,6 +3431,15 @@ Technomancer:
   series: Unspeakable Things
   series_index: 1
   url: /book/show/12853155.technomancer
+That Which Other Men Cannot Do:
+  author: Ryk Brown
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450575805l/28248264._SY475_.jpg
+  id: 28248264
+  localCover: /embeds/books/that-which-other-men-cannot-do.jpg
+  name: That Which Other Men Cannot Do
+  series: The Frontiers Saga
+  series_index: 15
+  url: /book/show/28248264.that-which-other-men-cannot-do
 The Aeronaut's Windlass:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1425415066l/24876258.jpg
@@ -5092,6 +5126,13 @@ Welcome to Night Vale:
   series: Welcome to Night Vale
   series_index: 1
   url: /book/show/23129410.welcome-to-night-vale
+Where Are You Going, Baby Lincoln?:
+  author: Kate DiCamillo
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458679553l/28588031._SX98_.jpg
+  id: 28588031
+  localCover: /embeds/books/where-are-you-going-baby-lincoln.jpg
+  name: Where Are You Going, Baby Lincoln?
+  url: /book/show/28588031.where-are-you-going-baby-lincoln
 White Death:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1415585941l/85736.jpg
