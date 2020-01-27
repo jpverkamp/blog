@@ -1831,6 +1831,14 @@ Isolation:
   series: Partials Sequence
   series_index: 0.5
   url: /book/show/13645264.isolation
+'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
+  author: James Herriot
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg
+  id: 38735
+  localCover: /embeds/books/james-herriots-treasury-for-children-warm-and-joyful-tales-by-the-author-of-all-creatures-great-and-small.jpg
+  name: 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author
+    of All Creatures Great and Small'
+  url: /book/show/38735.james-herriots-treasury-for-children-warm-and-joyful-tales-by-the-author-of-all-creatures-great-and-small
 Jim Butcher's Dresden Files Welcome to the Jungle:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1320418408l/2637138.jpg
@@ -3051,6 +3059,15 @@ Seventh Son:
   series: Tales of Alvin Maker
   series_index: 1
   url: /book/show/40290.seventh-son
+Shadow Hunt:
+  author: Melissa F. Olson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507889698l/36225306._SX98_.jpg
+  id: 36225306
+  localCover: /embeds/books/shadow-hunt.jpg
+  name: Shadow Hunt
+  series: Disrupted Magic
+  series_index: 3
+  url: /book/show/36225306.shadow-hunt
 Shadow Puppets:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1405003131l/234724.jpg
