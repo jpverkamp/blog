@@ -77,6 +77,13 @@ A Hat Full of Sky:
   series: Discworld
   series_index: 32
   url: /book/show/618145.a-hat-full-of-sky
+'A Little House Picture Book Treasury: Six Stories of Life on the Prairie':
+  author: Laura Ingalls Wilder
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493218789l/33640501._SX98_.jpg
+  id: 33640501
+  localCover: /embeds/books/a-little-house-picture-book-treasury-six-stories-of-life-on-the-prairie.jpg
+  name: 'A Little House Picture Book Treasury: Six Stories of Life on the Prairie'
+  url: /book/show/33640501.a-little-house-picture-book-treasury-six-stories-of-life-on-the-prairie
 A Memory of Light:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1336055749l/7743175.jpg
@@ -2424,6 +2431,13 @@ Mr. Monster:
   series: John Cleaver
   series_index: 2
   url: /book/show/7167271.mr-monster
+My Father's Dragon:
+  author: Ruth Stiles Gannett
+  id: 34898
+  name: My Father's Dragon
+  series: My Father's Dragon
+  series_index: 1
+  url: /book/show/34898.my-fathers-dragon
 My Life as a White Trash Zombie:
   author: Diana Rowland
   cover: https://images.gr-assets.com/books/1326145463l/9640626.jpg
