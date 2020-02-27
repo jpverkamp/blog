@@ -5,6 +5,15 @@ A Brief History of Time:
   localCover: /embeds/books/a-brief-history-of-time.jpg
   name: A Brief History of Time
   url: /book/show/3869.a-brief-history-of-time
+A Column of Fire:
+  author: Ken Follett
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498850103l/33571713._SX98_.jpg
+  id: 33571713
+  localCover: /embeds/books/a-column-of-fire.jpg
+  name: A Column of Fire
+  series: Kingsbridge
+  series_index: 3
+  url: /book/show/33571713.a-column-of-fire
 A Conjuring of Light:
   author: V.E. Schwab
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464017758l/29939230.jpg
@@ -707,6 +716,15 @@ Cibola Burn:
   series: The Expanse
   series_index: 4
   url: /book/show/18886975.cibola-burn
+City of Blades:
+  author: Robert Jackson Bennett
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426255519l/23909755.jpg
+  id: 23909755
+  localCover: /embeds/books/city-of-blades.jpg
+  name: City of Blades
+  series: The Divine Cities
+  series_index: 2
+  url: /book/show/23909755.city-of-blades
 City of Bones:
   author: Cassandra Clare
   cover: https://images.gr-assets.com/books/1432730315l/256683.jpg
@@ -716,6 +734,15 @@ City of Bones:
   series: The Mortal Instruments
   series_index: 1
   url: /book/show/256683.city-of-bones
+City of Miracles:
+  author: Robert Jackson Bennett
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479836869l/31522139._SX98_.jpg
+  id: 31522139
+  localCover: /embeds/books/city-of-miracles.jpg
+  name: City of Miracles
+  series: The Divine Cities
+  series_index: 3
+  url: /book/show/31522139.city-of-miracles
 City of Stairs:
   author: Robert Jackson Bennett
   cover: https://images.gr-assets.com/books/1394545220l/20174424.jpg
@@ -1826,6 +1853,15 @@ Imago:
   series: Xenogenesis
   series_index: 3
   url: /book/show/60934.imago
+Inca Gold:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172611303l/198332.jpg
+  id: 198332
+  localCover: /embeds/books/inca-gold.jpg
+  name: Inca Gold
+  series: Dirk Pitt
+  series_index: 12
+  url: /book/show/198332.inca-gold
 Infernal Devices:
   author: Philip Reeve
   cover: https://images.gr-assets.com/books/1334003040l/585261.jpg
@@ -3210,6 +3246,15 @@ Shattered:
   series: The Iron Druid Chronicles
   series_index: 7
   url: /book/show/16280678.shattered
+Shock Wave:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349053006l/41704.jpg
+  id: 41704
+  localCover: /embeds/books/shock-wave.jpg
+  name: Shock Wave
+  series: Dirk Pitt
+  series_index: 13
+  url: /book/show/41704.shock-wave
 'Side Jobs: Stories from the Dresden Files':
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1269115846l/7779059.jpg
@@ -3434,6 +3479,13 @@ Spinning Silver:
   localCover: /embeds/books/spinning-silver.jpg
   name: Spinning Silver
   url: /book/show/36896898.spinning-silver
+Spoon River Anthology:
+  author: Edgar Lee Masters
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578170993l/50275062._SY475_.jpg
+  id: 10974854
+  localCover: /embeds/books/spoon-river-anthology.jpg
+  name: Spoon River Anthology
+  url: /book/show/10974854.spoon-river-anthology
 Staked:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1434745650l/16280689.jpg
@@ -3504,6 +3556,15 @@ Superior Saturday:
   series: The Keys to the Kingdom
   series_index: 6
   url: /book/show/2049823.superior-saturday
+Surprise Island:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264372l/156809._SX98_.jpg
+  id: 156809
+  localCover: /embeds/books/surprise-island.jpg
+  name: Surprise Island
+  series: The Boxcar Children
+  series_index: 2
+  url: /book/show/156809.surprise-island
 'Tales of MU vol. 1: "Welcome Weekend" In Which... It All Begins':
   author: Alexandra Erin
   cover: https://images.gr-assets.com/books/1317271139l/12749018.jpg
@@ -3936,6 +3997,13 @@ The Eternity Code:
   series: Artemis Fowl
   series_index: 3
   url: /book/show/227865.the-eternity-code
+The Evening and the Morning:
+  author: Ken Follett
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580527286l/48503963._SX98_.jpg
+  id: 48503963
+  localCover: /embeds/books/the-evening-and-the-morning.jpg
+  name: The Evening and the Morning
+  url: /book/show/48503963.the-evening-and-the-morning
 The Expanse:
   author: Ryk Brown
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371545090l/18085924._SX98_.jpg
@@ -4963,6 +5031,15 @@ The Worthing Saga:
   series: Worthing
   series_index: 1-3
   url: /book/show/40304.the-worthing-saga
+The Yellow House Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264544l/156865.jpg
+  id: 156865
+  localCover: /embeds/books/the-yellow-house-mystery.jpg
+  name: The Yellow House Mystery
+  series: The Boxcar Children
+  series_index: 3
+  url: /book/show/156865.the-yellow-house-mystery
 'Then Comes Baby: The Catholic Guide to Surviving and Thriving in the First Three Years of Parenthood':
   author: Gregory K. Popcak
   cover: https://images.gr-assets.com/books/1400872367l/21971451.jpg
@@ -5381,6 +5458,15 @@ Words of Radiance:
   series: The Stormlight Archive
   series_index: 2
   url: /book/show/17332218.words-of-radiance
+World Without End:
+  author: Ken Follett
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509545511l/5064._SX98_.jpg
+  id: 5064
+  localCover: /embeds/books/world-without-end.jpg
+  name: World Without End
+  series: Kingsbridge
+  series_index: 2
+  url: /book/show/5064.world-without-end
 Worm:
   author: Wildbow
   cover: https://images.gr-assets.com/books/1388586402l/18713259.jpg
