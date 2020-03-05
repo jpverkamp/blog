@@ -736,13 +736,13 @@ City of Bones:
   url: /book/show/256683.city-of-bones
 City of Miracles:
   author: Robert Jackson Bennett
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479836869l/31522139._SX98_.jpg
-  id: 31522139
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479836903l/31557062._SX98_.jpg
+  id: 31557062
   localCover: /embeds/books/city-of-miracles.jpg
   name: City of Miracles
   series: The Divine Cities
   series_index: 3
-  url: /book/show/31522139.city-of-miracles
+  url: /book/show/31557062.city-of-miracles
 City of Stairs:
   author: Robert Jackson Bennett
   cover: https://images.gr-assets.com/books/1394545220l/20174424.jpg
@@ -1321,6 +1321,15 @@ First Lord's Fury:
   series: 'Silo #2A'
   series_index: null
   url: /book/show/13603717.first-shift-legacy
+Flood Tide:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328033231l/559889.jpg
+  id: 559889
+  localCover: /embeds/books/flood-tide.jpg
+  name: Flood Tide
+  series: Dirk Pitt
+  series_index: 14
+  url: /book/show/559889.flood-tide
 Fool Moon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1507307616l/91477.jpg
@@ -1495,6 +1504,15 @@ Going Postal:
   series: Discworld
   series_index: 33
   url: /book/show/64222.going-postal
+Golden Buddha:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338482352l/41703._SX98_.jpg
+  id: 41703
+  localCover: /embeds/books/golden-buddha.jpg
+  name: Golden Buddha
+  series: Oregon Files
+  series_index: 1
+  url: /book/show/41703.golden-buddha
 Golden Son:
   author: Pierce Brown
   cover: https://images.gr-assets.com/books/1394684475l/18966819.jpg
@@ -1889,6 +1907,14 @@ Into the Drowning Deep:
   series: Rolling in the Deep
   series_index: 1
   url: /book/show/34913896.into-the-drowning-deep
+'Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing Blockchain Evidence':
+  author: Nick Furneaux
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526198517l/38364996._SX98_.jpg
+  id: 38364996
+  localCover: /embeds/books/investigating-cryptocurrencies-understanding-extracting-and-analyzing-blockchain-evidence.jpg
+  name: 'Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing
+    Blockchain Evidence'
+  url: /book/show/38364996.investigating-cryptocurrencies-understanding-extracting-and-analyzing-blockchain-evidence
 Iron Kissed:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1358229529l/1412138.jpg
@@ -2518,6 +2544,15 @@ My Life as a White Trash Zombie:
   series: White Trash Zombie
   series_index: 1
   url: /book/show/9640626.my-life-as-a-white-trash-zombie
+Mystery Ranch:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264374l/156813._SX98_.jpg
+  id: 156813
+  localCover: /embeds/books/mystery-ranch.jpg
+  name: Mystery Ranch
+  series: The Boxcar Children
+  series_index: 4
+  url: /book/show/156813.mystery-ranch
 Necroscope:
   author: Brian Lumley
   cover: https://images.gr-assets.com/books/1170652860l/66655.jpg

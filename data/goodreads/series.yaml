@@ -858,6 +858,26 @@ Old Man's War:
   id: 40789
   name: Old Man's War
   url: /series/40789.old-mans-war
+Oregon Files:
+  books:
+    1: Golden Buddha
+    2: Sacred Stone
+    3: Dark Watch
+    4: Skeleton Coast
+    5: Plague Ship
+    6: Corsair
+    7: The Silent Sea
+    8: The Jungle
+    9: Mirage
+    10: Piranha
+    11: The Emperor's Revenge
+    12: Typhoon Fury
+    13: Shadow Tyrants
+    14: Final Option
+    15: Untitled
+  id: 40715
+  name: Oregon Files
+  url: /series/40715.oregon-files
 Partials Sequence:
   books:
     0.5: Isolation
