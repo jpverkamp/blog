@@ -264,7 +264,7 @@ def download_cover(data, image_url):
             os.makedirs(os.path.dirname(path), exist_ok = True)
             with open(path, 'wb') as fout:
                 shutil.copyfileobj(response.raw, fout)
-                subprocess.check_output(['mogrify', '-resize', '100x160\!', path])
+                subprocess.check_output(['mogrify', '-resize', '100x160!', path])
 
         data['localCover'] = path.replace('static', '')
     else:
@@ -632,14 +632,29 @@ date: {date}
                 fout.write(content)
 
 @goodreads.command()
-@click.option('--url', prompt = True)
-@click.option('--title', prompt = True)
-def cover(url, title):
-    click.echo(f'Downloading cover for {title}: {url}')
+@click.option('--url', default = None)
+@click.option('--title', default = None)
+@click.option('-i', '--interactive', is_flag = True)
+def cover(url, title, interactive):
+    '''Download new covers that Goodreads couldn't find.'''
 
-    book = get_book(title)
-    download_cover(book, url)
-    save()
+    while True:
+        if not url: 
+            url = click.prompt('Cover image URL')
+
+        if not title:
+            title = click.prompt('Book title')
+
+        book = get_book(title)
+        logging.info(f'Downloading cover for {title}: {url}')
+        download_cover(book, url)
+        save()
+
+        if interactive and click.confirm('Add another cover?'):
+            url = title = None
+            continue
+        else:
+            break   
 
 @goodreads.command()
 def validate():
