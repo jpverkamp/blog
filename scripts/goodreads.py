@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import bs4
+import click
 import datetime
 import email.utils
 import html2text
@@ -16,21 +17,9 @@ import time
 import xml.etree.ElementTree
 import yaml
 
-if __name__ == '__main__':
-    import argparse
-    arg_parser = argparse.ArgumentParser('Import data from goodreads')
-    arg_parser.add_argument('--insert', nargs = '+', help = 'Url(s) to add to the database')
-    arg_parser.add_argument('--delete', nargs = '+', help = 'Name(s) to remove from the database, will be removed from all types')
-    arg_parser.add_argument('--validate', action = 'store_true', help = 'Check if there are any missing entires')
-    arg_parser.add_argument('--reviews', nargs = '?', default = False, const = '20', help = 'Import the newest REVIEWS reviews, use ALL to import all reviews')
-    arg_parser.add_argument('--overwrite', action = 'store_true', help = 'Use with --reviews, if this is not set, existing posts will not be overwritten')
-    arg_parser.add_argument('--debug', action = 'store_true', help = 'Run in verbose/debug mode')
-    arg_parser.add_argument('--nocache', action = 'store_true', help = 'Disable loading from cache')
-    arg_parser.add_argument('--add-cover', nargs = 2, help = 'Download a cover, specify a URL and the book title')
-    args = arg_parser.parse_args()
+import coloredlogs
 
-    if args.debug:
-        logging.basicConfig(level = logging.INFO)
+BYPASS_CACHE = False
 
 markdowner = html2text.HTML2Text()
 
@@ -47,23 +36,24 @@ fields = { # singular: plural
 
 global_data = {}
 
-for filename in os.listdir(os.path.join('data', 'goodreads')):
-    path = os.path.join('data', 'goodreads', filename)
-    name = filename.rsplit('.', )[0]
+def load():
+    for filename in os.listdir(os.path.join('data', 'goodreads')):
+        path = os.path.join('data', 'goodreads', filename)
+        name = filename.rsplit('.', )[0]
 
-    logging.info('Loading data from {} into global_data[{}]'.format(path, name))
-    with open(path, 'r') as fin:
-        global_data[name] = yaml.load(fin, Loader = yaml.Loader)
+        logging.debug(f'Loading data from {path} into global_data[{name}]')
+        with open(path, 'r') as fin:
+            global_data[name] = yaml.load(fin, Loader = yaml.Loader)
 
-for singular, plural in fields.items():
-    if plural not in global_data:
-        global_data[plural] = {}
+    for _, plural in fields.items():
+        if plural not in global_data:
+            global_data[plural] = {}
 
 def save():
     for name in global_data:
         path = os.path.join('data', 'goodreads', name + '.yaml')
 
-        logging.info('Saving data from global_data[{}] into {}'.format(name, path))
+        logging.debug(f'Saving data from global_data[{name}] into {path}')
         with open(path, 'w') as fout:
             yaml.dump(global_data[name], fout, default_flow_style = False)
 
@@ -74,7 +64,7 @@ def api(url, params = None, mode = 'soup'):
     if not url.startswith('http'):
         url = 'https://www.goodreads.com/' + url
 
-    logging.info('api({}, {})'.format(url, params))
+    logging.debug(f'api({url}, {params})')
 
     response = requests.get(url, params = params)
 
@@ -83,7 +73,7 @@ def api(url, params = None, mode = 'soup'):
     elif mode == 'xml':
         return xml.etree.ElementTree.fromstring(response.text)
     else:
-        raise Exception('Unkonwn API mode: {}'.format(mode))
+        raise Exception(f'Unkonwn API mode: {mode}')
 
 
 def split_title(text):
@@ -100,7 +90,7 @@ def split_title(text):
     '''
 
     text = re.sub(r'\s+', ' ', text).strip()
-    logging.info('split_title({})'.format(text))
+    logging.debug(f'split_title({text})')
 
     # Fallback, no series
     title, series, index = text, None, None
@@ -111,17 +101,17 @@ def split_title(text):
 
     # Syntax with part m of n
     if m_part:
-        logging.info('split_title({}), matching part'.format(text))
+        logging.debug(f'split_title({text}), matching part')
         series, index, _ = m_part.groups()
 
     # Syntax with paran'ed series and and index
     elif m_series_index:
-        logging.info('split_title({}), matching paran and index'.format(text))
+        logging.debug(f'split_title({text}), matching paran and index')
         title, series, index = m_series_index.groups()
 
     # Paran'ed series but no index
     elif m_series_no_index:
-        logging.info('split_title({}), matching paran with no index'.format(text))
+        logging.debug(f'split_title({text}), matching paran with no index')
         title, series = m_series_no_index.groups()
 
     # If the index looks like a int/float, convert to that
@@ -131,7 +121,7 @@ def split_title(text):
         elif re.match('^[\d.]+$', index):
             index = float(index)
 
-    logging.info('split_title({}) -> {}, {}, {}'.format(text, title, series, index))
+    logging.debug(f'split_title({text}) -> {title}, {series}, {index}')
     return title, series, index
 
 def slugify(text):
@@ -153,7 +143,7 @@ def clean_url(url):
 
     clean_url = clean_url.split('?')[0]
 
-    logging.info('clean_url({}) -> {}'.format(url, clean_url))
+    logging.debug(f'clean_url({url}) -> {clean_url}')
     return clean_url
 
 def id_to_url(type, id, name = None):
@@ -166,18 +156,18 @@ def id_to_url(type, id, name = None):
     clean_name = slugify(name) if name else type
 
     if type == 'series':
-        url = '/{type}/{id}.{name}'.format(type = type, id = id, name = clean_name)
+        url = f'/{type}/{id}.{clean_name}'
     else:
-        url = '/{type}/show/{id}.{name}'.format(type = type, id = id, name = clean_name)
+        url = f'/{type}/show/{id}.{clean_name}'
 
-    logging.info('id_to_url({}, {}, {}) -> {}'.format(type, id, name, url))
+    logging.debug(f'id_to_url({type}, {id}, {name}) -> {url}')
     return url
 
 def url_to_id(url):
     '''Pull an ID out of a url.'''
 
     id = int(re.search(r'/(\d+)(?:[^/]*)$', url).group(1))
-    logging.info('url_to_id({}) -> {}'.format(url, id))
+    logging.debug(f'url_to_id({url}) -> {id}')
     return id
 
 def get(type, query, search_function, update_function):
@@ -192,7 +182,7 @@ def get(type, query, search_function, update_function):
     if type in fields:
         type = fields[type]
 
-    logging.info('get({}, {})'.format(type, query))
+    logging.debug(f'get({type}, {query})')
 
     # Figure out what we're querying by: id, url, or title
     if isinstance(query, int) or query.isdigit():
@@ -208,29 +198,29 @@ def get(type, query, search_function, update_function):
 
     # If we're querying by an ID we've already seen, get the title from that
     if id and id in global_data.get(type + '-index', {}):
-        logging.info('get({}, {}), got name by id: {} = {}'.format(type, query, id, global_data[type + '-index'][id]))
         name = global_data[type + '-index'][id]
-
+        logging.debug(f'get({type}, {query}), got name by id: {id} = {name}')
+        
     # If the title is already cached, load from there
-    if args.nocache:
-        logging.info('get({}, {}), caching disabled, loading {} directly'.format(type, query, name))
+    if BYPASS_CACHE:
+        logging.debug(f'get({type}, {query}), caching disabled, loading {name} directly')
     else:
         if name in global_data[type]:
-            logging.info('get({}, {}), loaded {} from cache'.format(type, query, name))
+            logging.debug(f'get({type}, {query}), loaded {name} from cache')
             return global_data[type][name]
         else:
-            logging.info('get({}, {}), name {} is not in cache, using api'.format(type, query, name))
+            logging.debug(f'get({type}, {query}), name {name} is not in cache, using api')
 
     # Otherwise, load the data from goodreads
     data = {}
 
     if name and not url:
-        logging.info('get({}, {}), finding by name: {}'.format(type, query, name))
+        logging.debug(f'get({type}, {query}), finding by name: {name}')
         url = search_function(name)
         if url:
-            logging.info('get({}, {}), url is {}'.format(type, query, url))
+            logging.debug(f'get({type}, {query}), url is {url}')
         else:
-            raise Exception('No results found when searching for {}: {}'.format(type, name))
+            raise Exception(f'No results found when searching for {type}: {name}')
 
     url = clean_url(url)
     id = url_to_id(url)
@@ -243,7 +233,7 @@ def get(type, query, search_function, update_function):
 
     data['url'] = id_to_url(type, data['id'], data['name'])
 
-    logging.info('get({}, {}), result: {}'.format(type, query, data))
+    logging.debug(f'get({type}, {query}), result: {data}')
     global_data[type][data['name']] = data
     global_data.setdefault(type + '-index', {})[data['id']] = data['name']
     save()
@@ -255,37 +245,37 @@ def download_cover(data, image_url):
     Download and resize a cover to a specific path.
     '''
 
-    logging.info('Attempting to download cover: {}'.format(image_url))
+    logging.debug(f'Attempting to download cover: {image_url}')
     data['cover'] = image_url
     response = requests.get(data['cover'], stream = True)
     response.raw.decode_content = True
 
     if response:
-        filename = '{}.{}'.format(
-            slugify(data['name']),
-            data['cover'].split('.')[-1].lower()
-        )
+        slug = slugify(data["name"])
+        extension = data["cover"].split(".")[-1].lower()
+
+        filename = f'{slug}.{extension}'
         path = os.path.join('static', 'embeds', 'books', filename)
 
         if os.path.exists(path):
-            logging.info('Cover already downloaded for {}'.format(data['name']))
+            logging.debug(f'Cover already downloaded for {data["name"]}')
         else:
-            logging.info('Downloading cover for {}'.format(data['name']))
+            logging.debug(f'Downloading cover for {data["name"]}')
             os.makedirs(os.path.dirname(path), exist_ok = True)
             with open(path, 'wb') as fout:
                 shutil.copyfileobj(response.raw, fout)
-                subprocess.check_output('mogrify -resize 100x160\! "{}"'.format(path), shell = True)
+                subprocess.check_output(['mogrify', '-resize', '100x160\!', path])
 
         data['localCover'] = path.replace('static', '')
     else:
-        logging.warning('Failed to download cover for {}'.format(data['name']))
+        logging.warning(f'Failed to download cover for {data["name"]}')
 
 def get_book(query):
     '''
     Get a book. If we're provided a title and the book isn't in the cache, search.
     '''
 
-    logging.info('get_book({})'.format(query))
+    logging.debug(f'get_book({query})')
 
     def search(title):
         search_soup = api('search', params = {'q': title, 'search_type': 'books', 'search[field]': 'title'})
@@ -306,7 +296,7 @@ def get_book(query):
         try:
             series_id = api_data.find('book/series_works//series/id')
             if series_id:
-                series_url = '/series/{}'.format(series_id)
+                series_url = f'/series/{series_id}'
                 get_series(series_url)
         except IndexError:
             pass
@@ -324,7 +314,7 @@ def get_book(query):
         if image_url != None:
             image_url = image_url.text.strip()
             if 'nophoto' in image_url:
-                logging.warning('Missing cover for: {}'.format(title))
+                logging.warning(f'Missing cover for: {title}')
             else:
                 download_cover(data, image_url)
 
@@ -339,7 +329,7 @@ def get_series(name):
     TODO: Search by title if the series isn't cached and the url isn't provided.
     '''
 
-    logging.info('get_series({})'.format(name))
+    logging.debug(f'get_series({name})')
 
     def search(name):
         search_soup = api('search', params = {'q': name, 'search_type': 'books', 'search[field]': 'title'})
@@ -385,7 +375,7 @@ def get_author(name, url = None):
     Get an author by name
     '''
 
-    logging.info('get_author({})'.format(name))
+    logging.debug(f'get_author({name})')
 
     def search(name):
         search_soup = api('search', params = {'q': name, 'search_type': 'books', 'search[field]': 'author'})
@@ -419,14 +409,14 @@ def reviews(per_page = 20, do_all = False):
                 f = globals()['get_' + type]
                 obj = f(url)
                 if text == obj['name']:
-                    return '{{{{< goodreads {type}="{name}" >}}}}'.format(type = type, name = obj['name'])
+                    return f'{{{{< goodreads {type}="{obj["name"]}" >}}}}'
                 else:
-                    return '{{{{< goodreads {type}="{name}" text="{text}" >}}}}'.format(type = type, name = obj['name'], text = text)
+                    return f'{{{{< goodreads {type}="{obj["name"]}" text="{text}" >}}}}'
 
     while True:
-        print('[Goodreads] Fetching reviews, page {}'.format(params['page']))
+        logging.info(f'[Goodreads] Fetching reviews, page {params["page"]}')
 
-        response = requests.get('https://www.goodreads.com/review/list/{}.xml'.format(config['goodreads']['user_id']), params = params)
+        response = requests.get(f'https://www.goodreads.com/review/list/{config["goodreads"]["user_id"]}.xml', params = params)
         tree = xml.etree.ElementTree.fromstring(response.text)
 
         for review in tree.iter('review'):
@@ -443,7 +433,7 @@ def reviews(per_page = 20, do_all = False):
                 read_at = time.mktime(read_at)
                 read_at = datetime.datetime.fromtimestamp(read_at)
             except Exception as ex:
-                print('[Goodreads] Failed to parse read at for {}\nException: {}\nread_at: {} (raw: {})'.format(title, ex, read_at, raw_read_at))
+                logging.warning(f'[Goodreads] Failed to parse read at for {title}\nException: {ex}\nread_at: {read_at} (raw: {raw_read_at})')
 
             # We started writing reviews in 2015; stop looking for reviews older than that
             if read_at < datetime.datetime(2015, 1, 1):
@@ -454,8 +444,8 @@ def reviews(per_page = 20, do_all = False):
             if text:
                 # If there were spoilers in the original review, we have to fall back to the web version
                 if '[spoilers removed]' in text:
-                    logging.info('Review for {} contains spoilers, falling back to web scraper'.format(title))
-                    response = requests.get('https://www.goodreads.com/review/show/{}'.format(review_id))
+                    logging.debug(f'Review for {title} contains spoilers, falling back to web scraper')
+                    response = requests.get(f'https://www.goodreads.com/review/show/{review_id}')
                     soup = bs4.BeautifulSoup(response.text, 'html5lib')
                     text = soup.select('.reviewText')[0].prettify()
 
@@ -463,7 +453,7 @@ def reviews(per_page = 20, do_all = False):
                 text = markdowner.handle(text)
 
                 # Add the cover on the front
-                text = '{{{{< goodreads book="{title}" cover="true" >}}}}\n\n'.format(title = data['name']) + text
+                text = f'{{{{< goodreads book="{data["name"]}" cover="true" >}}}}\n\n' + text
 
                 # Fix multiline blockquotes
                 text = re.sub(r'^>\s*$', '', text, flags = re.MULTILINE)
@@ -516,130 +506,165 @@ def reviews(per_page = 20, do_all = False):
         if not do_all:
             break
 
-if __name__ == '__main__':
-    exit_code = 0
+# ----- CLI -----
 
-    if args.insert:
-        print('[Goodreads] Inserting URLs...')
-        for url in args.insert:
-            for type in fields:
-                if type in url:
-                    f = globals()['get_' + type]
-                    print('Inserted: {} -> {}'.format(url, f(url)))
-        print()
+@click.group()
+@click.option('-v', '--verbose', count = True, help = 'How verbose to be (multiple levels available -vvv)')
+@click.option('--disable-cache', is_flag = True, help = 'Load all information from goodreads')
+def goodreads(verbose, disable_cache = False):
+    '''Import information from goodreads.'''
 
-    if args.delete:
-        print('[Goodreads] Deleting entries...')
-        for name in args.delete:
-            for type in fields:
-                if name in global_data[fields[type]]:
-                    id = global_data[fields[type]][name]['id']
-                    del global_data[fields[type]][name]
-                    del global_data[fields[type] + '-index'][id]
-                    print('Delete {} ({}) from {}'.format(name, id, type))
-                    save()
-        print()
+    if verbose:
+        coloredlogs.install(
+            level = 'INFO' if verbose == 1 else 'DEBUG',
+            fmt = '%(asctime)s %(levelname)s %(message)s'
+        )
+    
+    if verbose > 2:
+        logging.warning('Maximum verbosity is 2')
 
-    if args.reviews:
-        print('[Goodreads] Generating posts for reviews...')
-        if args.reviews.lower() == 'all':
-            per_page = 200
-        elif args.reviews.isdigit():
-            per_page = int(args.reviews)
-        else:
-            raise arg_parser.error('--reviews must be ALL or an integer')
+    if disable_cache:
+        logging.warning('Disabling cache')
 
-        if not 1 <= per_page <= 200:
-            raise arg_parser.error('--reviews must be in the range 1-200')
+        global BYPASS_CACHE
+        BYPASS_CACHE = True
 
-        for review in reviews(per_page = per_page, do_all = args.reviews.lower() == 'all'):
-            print('-', review['title'], '...', end = ' ')
-            data = get_book(review['book_id'])
-            date = review['read_at']
+    load()
 
-            headers = {
-                'reviews/lists': ['{year} Book Reviews'.format(year = date.year)],
-                'generated': True,
-            }
+@goodreads.command()
+@click.argument('urls', nargs = -1)
+def insert(urls):
+    '''Insert a goodreads url into the local database.'''
 
-            if data.get('series'):
-                headers['reviews/series'] = [data['series']]
+    click.echo(f'[Goodreads] Inserting {len(urls)} URL(s)...')
+    for url in urls:
+        for type in fields:
+            if type in url:
+                f = globals()['get_' + type]
+                result = f(url)
+                logging.info(f'Inserted: {url} -> {result}')
 
-            # If we have custom series, add those as well
-            for series_name in global_data.get('series-custom', {}):
-                if review['title'] in global_data['series-custom'][series_name]:
-                    headers.setdefault('reviews/series', []).append(series_name)
+@goodreads.command()
+@click.argument('names', nargs = -1)
+def delete(names):
+    '''Delete an entry from the local database (all exact matches will be deleted).'''
 
-            # Make sure the series list is unique
-            # Remove any series that we've potentially renamed
-            if 'reviews/series' in headers:
-                for series_name in global_data.get('series-custom', {}).get('_to_remove', []):
-                    if series_name in headers['reviews/series']:
-                        headers['reviews/series'].remove(series_name)
+    click.echo(f'[Goodreads] Deleting {len(names)} entry/entries...')
+    for name in names:
+        for type in fields:
+            if name in global_data[fields[type]]:
+                id = global_data[fields[type]][name]['id']
+                del global_data[fields[type]][name]
+                del global_data[fields[type] + '-index'][id]
+                logging.info(f'Deleted {name} ({id}) from {type}')
+                save()
 
-                headers['reviews/series'] = list(sorted(set(headers['reviews/series'])))
+@goodreads.command(name = 'import')
+@click.option('--all', is_flag = True, help = 'Load all posts')
+@click.option('--overwrite', is_flag = True, help = 'Overwrite all existing posts with new generated posts')
+@click.argument('per_page', type = int, default = 20)
+def import_reviews(all, overwrite, per_page):
+    '''
+    Import reviews from goodreads.
+    
+    Will load [per_page] entries at a time. If --all is not set, will stop after the first page where no posts are generated.
+    '''
 
-            content = '''\
+    click.echo('[Goodreads] Generating posts for reviews...')
+    if all:
+        per_page = 200
+    
+    if not 1 <= per_page <= 200:
+        raise click.ClickException('Cannot load more than 200 reviews per page')
+
+    for review in reviews(per_page = per_page, do_all = all):
+        logging.info(f'- {review["title"]}')
+        data = get_book(review['book_id'])
+        date = review['read_at']
+
+        headers = {
+            'reviews/lists': [f'{date.year} Book Reviews'],
+            'generated': True,
+        }
+
+        if data.get('series'):
+            headers['reviews/series'] = [data['series']]
+
+        # If we have custom series, add those as well
+        for series_name in global_data.get('series-custom', {}):
+            if review['title'] in global_data['series-custom'][series_name]:
+                headers.setdefault('reviews/series', []).append(series_name)
+
+        # Make sure the series list is unique
+        # Remove any series that we've potentially renamed
+        if 'reviews/series' in headers:
+            for series_name in global_data.get('series-custom', {}).get('_to_remove', []):
+                if series_name in headers['reviews/series']:
+                    headers['reviews/series'].remove(series_name)
+
+            headers['reviews/series'] = list(sorted(set(headers['reviews/series'])))
+
+        title = review['title'] if ':' not in review['title'] else ('"' + review['title'] + '"')
+        formatted_date = date.strftime('%Y-%m-%d')
+        text = review['text']
+        headers = yaml.dump(headers, default_flow_style = False)
+
+        content = f'''\
 ---
 title: {title}
 date: {date}
 {headers}---
 {text}
-'''.format(
-    title = review['title'] if ':' not in review['title'] else ('"' + review['title'] + '"'),
-    date = date.strftime('%Y-%m-%d'),
-    text = review['text'],
-    headers = yaml.dump(headers, default_flow_style = False)
-)
+'''
 
-            filename = '{}-{}.generated.md'.format(
-                date.strftime('%Y-%m-%d'),
-                slugify(review['title']),
-            )
-            path = os.path.join('content', 'reviews', 'books', str(date.year), filename)
+        date_string = date.strftime('%Y-%m-%d')
+        slug = slugify(review['title'])
 
-            if os.path.exists(path) and not args.overwrite:
-                print('skipping {}, already exists'.format(path))
-            else:
-                print('writing {}'.format(path))
-                os.makedirs(os.path.dirname(path), exist_ok = True)
-                with open(path, 'w') as fout:
-                    fout.write(content)
+        filename = f'{date_string}-{slug}.generated.md'
+        path = os.path.join('content', 'reviews', 'books', str(date.year), filename)
 
-        print()
+        if os.path.exists(path) and not overwrite:
+            logging.info(f'skipping {path}, already exists')
+        else:
+            logging.info(f'writing {path}')
+            os.makedirs(os.path.dirname(path), exist_ok = True)
+            with open(path, 'w') as fout:
+                fout.write(content)
 
-    if args.add_cover:
-        url, title = args.add_cover
-        print(f'Downloading cover for {title}: {url}')
+@goodreads.command()
+@click.option('--url', prompt = True)
+@click.option('--title', prompt = True)
+def cover(url, title):
+    click.echo(f'Downloading cover for {title}: {url}')
 
-        book = get_book(title)
-        download_cover(book, url)
-        save()
+    book = get_book(title)
+    download_cover(book, url)
+    save()
 
-    if args.validate:
-        print('[Goodreads] Detecting missing entries...')
-        any_missing = False
+@goodreads.command()
+def validate():
+    click.echo('[Goodreads] Detecting missing entries...')
+    any_missing = False
 
-        for path, _, filenames in os.walk('content'):
-            for filename in filenames:
-                if not filename.endswith('.md'):
-                    continue
+    for path, _, filenames in os.walk('content'):
+        for filename in filenames:
+            if not filename.endswith('.md'):
+                continue
 
-                with open(os.path.join(path, filename), 'r') as fin:
-                    for raw_params in re.findall('{{<\s*goodreads\s+(.*?)\s*>}}', fin.read()):
-                        params = {
-                            key: value.strip('"')
-                            for key, value in re.findall(r'(.*?)=("(?:[^"\\]|\\.)*"|[^\s]+)', raw_params)
-                        }
+            with open(os.path.join(path, filename), 'r') as fin:
+                for raw_params in re.findall('{{<\s*goodreads\s+(.*?)\s*>}}', fin.read()):
+                    params = {
+                        key: value.strip('"')
+                        for key, value in re.findall(r'(.*?)=("(?:[^"\\]|\\.)*"|[^\s]+)', raw_params)
+                    }
 
-                        for type in fields:
-                            if type in params and params[type] not in global_data[fields[type]]:
-                                any_missing = True
-                                print('{}: {} not found'.format(type, params[type]))
+                    for type in fields:
+                        if type in params and params[type] not in global_data[fields[type]]:
+                            any_missing = True
+                            logging.warning(f'{type}: {params[type]} not found')
 
-        print()
+    if any_missing:
+        logging.warning('Entries missing')
 
-        if any_missing:
-            exit_code = 1
-
-    sys.exit(exit_code)
+if __name__ == '__main__':
+    goodreads()

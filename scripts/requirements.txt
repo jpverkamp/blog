@@ -1,3 +1,5 @@
+click
+coloredlogs
 bs4
 flickrapi
 html5lib

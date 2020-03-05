@@ -6,11 +6,12 @@ import:
 	[ -f secrets.yaml ]
 
 	# Import all my photosets from flickr and generate a page for each of them
-	python3 scripts/import-flickr.py --generate
+	python3 scripts/flickr.py --generate
 
 	# Import recent reviews from goodreads and validate all goodreads shortcodes
 	# To import all reviews, use --reviews all
-	python3 scripts/import-goodreads.py --reviews --validate
+	python3 scripts/goodreads.py -v import
+	python3 scripts/goodreads.py -v validate
 
 run:
 	sleep 30 && open http://localhost/ &
