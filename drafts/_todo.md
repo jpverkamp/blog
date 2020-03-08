@@ -8,4 +8,5 @@
     * Flickr
     * GoodReads
     * PocketCasts
+    * Could be done with: https://help.github.com/en/github/working-with-github-pages/using-submodules-with-github-pages
 * Implement an email newsletter
