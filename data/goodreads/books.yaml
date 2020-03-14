@@ -344,6 +344,15 @@ At the Mountains of Madness:
   localCover: /embeds/books/at-the-mountains-of-madness.jpg
   name: At the Mountains of Madness
   url: /book/show/32767.at-the-mountains-of-madness
+Atlantis Found:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389418438l/41707.jpg
+  id: 41707
+  localCover: /embeds/books/atlantis-found.jpg
+  name: Atlantis Found
+  series: Dirk Pitt
+  series_index: 15
+  url: /book/show/41707.atlantis-found
 Aurora:
   author: Kim Stanley Robinson
   cover: https://images.gr-assets.com/books/1436300570l/23197269.jpg
@@ -3290,6 +3299,15 @@ Shattered:
   series: The Iron Druid Chronicles
   series_index: 7
   url: /book/show/16280678.shattered
+Sherlock Holmes and the Shadwell Shadows:
+  author: James Lovegrove
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464153409l/30287190._SY475_.jpg
+  id: 29236245
+  localCover: /embeds/books/sherlock-holmes-and-the-shadwell-shadows.jpg
+  name: Sherlock Holmes and the Shadwell Shadows
+  series: The Cthulhu Casebooks
+  series_index: 1
+  url: /book/show/29236245.sherlock-holmes-and-the-shadwell-shadows
 Shock Wave:
   author: Clive Cussler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349053006l/41704.jpg
