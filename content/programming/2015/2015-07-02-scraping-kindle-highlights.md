@@ -7,6 +7,8 @@ programming/topics:
 - Amazon
 - Backups
 ---
+<b>Edit March 2020: It seems the page 'your highlights' page on Amazon no longer exists, so this script no longer works. I'll probably see if I can pull them from Goodreads instead now that the integration is there or directly from my Kindle, but for the moment, this script does not work.</b>
+
 As part of an ongoing effort to [backup all the things]({{< ref "2015-01-29-ios-backup-apps.md" >}}), combined with a rather agressive [2015 Reading List]({{< ref "2015-12-31-reading-list-retrospective.md" >}}), I wanted to the ability to back up any sections that I've highlighted on my Kindle. Unfortunately, Amazon doesn't seem to have an API to do that, but why should that stop me?
 
 Using a combination of [Python]({{< ref "2007-10-20-pymint-a-python-multi-interpreter.md" >}}) and the Python libraries <a href="http://docs.python-requests.org/en/latest/">Requests</a> and <a href="http://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>[^1], it's entirely possible to write a Python script that will log into Amazon, get a list of all of the books on your account, and download the highlights for each.
