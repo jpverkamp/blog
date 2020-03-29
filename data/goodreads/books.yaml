@@ -459,6 +459,15 @@ Blood Rites:
   series: The Dresden Files
   series_index: 6
   url: /book/show/99383.blood-rites
+Blue Bay Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348767069l/906072._SX98_.jpg
+  id: 906072
+  localCover: /embeds/books/blue-bay-mystery.jpg
+  name: Blue Bay Mystery
+  series: The Boxcar Children
+  series_index: 6
+  url: /book/show/906072.blue-bay-mystery
 Blue Gold:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1348810769l/823939.jpg
@@ -3299,6 +3308,15 @@ Shattered:
   series: The Iron Druid Chronicles
   series_index: 7
   url: /book/show/16280678.shattered
+Sherlock Holmes and the Miskatonic Monstrosities:
+  author: James Lovegrove
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498925372l/34437871._SX98_.jpg
+  id: 34437871
+  localCover: /embeds/books/sherlock-holmes-and-the-miskatonic-monstrosities.jpg
+  name: Sherlock Holmes and the Miskatonic Monstrosities
+  series: The Cthulhu Casebooks
+  series_index: 2
+  url: /book/show/34437871.sherlock-holmes-and-the-miskatonic-monstrosities
 Sherlock Holmes and the Shadwell Shadows:
   author: James Lovegrove
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464153409l/30287190._SY475_.jpg
@@ -5221,6 +5239,15 @@ Tricked:
   series: The Iron Druid Chronicles
   series_index: 4
   url: /book/show/12700306.tricked
+Trojan Odyssey:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371338649l/32807._SY160_.jpg
+  id: 32807
+  localCover: /embeds/books/trojan-odyssey.jpg
+  name: Trojan Odyssey
+  series: Dirk Pitt
+  series_index: 17
+  url: /book/show/32807.trojan-odyssey
 Trumps of Doom:
   author: Roger Zelazny
   cover: https://images.gr-assets.com/books/1418027077l/536790.jpg
@@ -5291,6 +5318,15 @@ Uprooted:
   localCover: /embeds/books/uprooted.jpg
   name: Uprooted
   url: /book/show/22544764.uprooted
+Valhalla Rising:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405182792l/198331.jpg
+  id: 198331
+  localCover: /embeds/books/valhalla-rising.jpg
+  name: Valhalla Rising
+  series: Dirk Pitt
+  series_index: 16
+  url: /book/show/198331.valhalla-rising
 Vamphyri!:
   author: Brian Lumley
   cover: https://images.gr-assets.com/books/1403544253l/60836.jpg
