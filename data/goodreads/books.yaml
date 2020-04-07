@@ -5155,6 +5155,13 @@ Thief of Time:
   series: Shift
   series_index: 3
   url: /book/show/16183060.third-shift-pact
+This Is How You Lose the Time War:
+  author: Amal El-Mohtar
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545755487l/43352954._SX318_.jpg
+  id: 43352954
+  localCover: /embeds/books/this-is-how-you-lose-the-time-war.jpg
+  name: This Is How You Lose the Time War
+  url: /book/show/43352954.this-is-how-you-lose-the-time-war
 Throne of the Crescent Moon:
   author: Saladin Ahmed
   cover: https://images.gr-assets.com/books/1344256189l/11487807.jpg
@@ -5230,6 +5237,15 @@ Treasure:
   series: Dirk Pitt
   series_index: 9
   url: /book/show/85737.treasure
+Treasure of Khan:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442897145l/34596._SY475_.jpg
+  id: 34596
+  localCover: /embeds/books/treasure-of-khan.jpg
+  name: Treasure of Khan
+  series: Dirk Pitt
+  series_index: 19
+  url: /book/show/34596.treasure-of-khan
 Tricked:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1324455119l/12700306.jpg
