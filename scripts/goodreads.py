@@ -640,10 +640,10 @@ def cover(url, title, interactive):
 
     while True:
         if not url: 
-            url = click.prompt('Cover image URL')
+            url = click.prompt('Cover image URL').strip()
 
         if not title:
-            title = click.prompt('Book title')
+            title = click.prompt('Book title').strip()
 
         book = get_book(title)
         logging.info(f'Downloading cover for {title}: {url}')
