@@ -17,16 +17,16 @@ def flickr(generate = False, overwrite = False):
         generate = True
     
     generated_post_template = '''\
-    ---
-    title: "{title}"
-    date: {date}
-    photography/types:
-    - Flickr Album
-    generated: true
-    ---
-    {description}
+---
+title: "{title}"
+date: {date}
+photography/types:
+- Flickr Album
+generated: true
+---
+{description}
 
-    {{{{< flickr set="{id}" >}}}}
+{{{{< flickr set="{id}" >}}}}
     '''
 
     config = {}
