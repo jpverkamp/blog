@@ -28,7 +28,7 @@ dst=${src::${#src}-4}
 openssl enc -d -aes256 -in $src -out $dst && rm $src || (rm $dst; false)
 ```
 
-And wrap that all up with a bit of magical filenames to [do the right thing)(but actually](https://simpleprogrammer.com/when-doing-the-right-thing-is-wrong/):
+And wrap that all up with a bit of magical filenames to [do the right thing](https://simpleprogrammer.com/when-doing-the-right-thing-is-wrong/)(bur for real):
 
 ```bash
 for src in "$@"
