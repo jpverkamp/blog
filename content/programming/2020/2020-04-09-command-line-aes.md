@@ -14,7 +14,7 @@ I had [a script](https://github.com/jpverkamp/dotfiles/blob/b708190/bin/aes) tha
 
 Enter [aes 2.0](https://github.com/jpverkamp/dotfiles/blob/7d53f95/bin/aes).
 
-This time around, it's just a thin wrapper around [OpenSSL](https://www.openssl.org/), originally based on the commands in [https://www.tecmint.com/encrypt-decrypt-files-tar-openssl-linux/](this article). To encrypt a file:
+This time around, it's just a thin wrapper around [OpenSSL](https://www.openssl.org/), originally based on the commands in [this article](https://www.tecmint.com/encrypt-decrypt-files-tar-openssl-linux/). To encrypt a file:
 
 ```bash
 dst=$src.aes
@@ -28,7 +28,7 @@ dst=${src::${#src}-4}
 openssl enc -d -aes256 -in $src -out $dst && rm $src || (rm $dst; false)
 ```
 
-And wrap that all up with a bit of magical filenames to [https://simpleprogrammer.com/when-doing-the-right-thing-is-wrong/](do the right thing)(but actually):
+And wrap that all up with a bit of magical filenames to [do the right thing)(but actually](https://simpleprogrammer.com/when-doing-the-right-thing-is-wrong/):
 
 ```bash
 for src in "$@"
