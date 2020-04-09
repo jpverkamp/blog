@@ -2,6 +2,8 @@
 title: "Hellboy, Vol. 1: Seed of Destruction"
 date: 2020-04-07 00:00:00
 generated: true
+reviews/series:
+- Hellboy
 reviews/lists:
 - 2020 Book Reviews
 ---
