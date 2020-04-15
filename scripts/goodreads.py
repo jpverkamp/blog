@@ -413,6 +413,34 @@ def reviews(per_page = 20, do_all = False):
                 else:
                     return f'{{{{< goodreads {type}="{obj["name"]}" text="{text}" >}}}}'
 
+    def make_replace_goodreads_images(title):
+        counter = {'x': 0}
+
+        def f(m):
+            alt, url = m.groups()
+            url = url.replace(' ', '')
+            counter['x'] += 1
+
+            logging.debug(f'Attempting to download image: {url}')
+            response = requests.get(url, stream = True)
+            response.raw.decode_content = True
+
+            name = slugify(alt or f'{title} {counter}')
+            extension = url.split(".")[-1].lower()
+
+            filename = f'{name}.{extension}'
+            path = os.path.join('static', 'embeds', 'books', 'attachments', filename)
+            os.makedirs(os.path.dirname(path), exist_ok = True)
+
+            with open(path, 'wb') as fout:
+                shutil.copyfileobj(response.raw, fout)
+
+            # subprocess.check_output(['mogrify', '-resize', '640x>', path])
+
+            return f'![{alt}](/embeds/books/attachments/{filename})'
+
+        return f
+
     while True:
         logging.info(f'[Goodreads] Fetching reviews, page {params["page"]}')
 
@@ -473,6 +501,13 @@ def reviews(per_page = 20, do_all = False):
                 text = re.sub(
                     r'\[([^\]]*?)\]\(https://www.goodreads.com([^\s]*)(?: ".*?")?\)',
                     replace_goodreads_links,
+                    text,
+                )
+
+                # Download and replace embedded images
+                text = re.sub(
+                    r'!\[([^\]]*?)\]\(([^\)]*?)\)',
+                    make_replace_goodreads_images(data['name']),
                     text,
                 )
 
