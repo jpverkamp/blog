@@ -328,6 +328,15 @@ Apex:
   series: The Stormlight Archive
   series_index: 2.5
   url: /book/show/28595941.arcanum-unbounded-the-cosmere-collection
+Arctic Drift:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440598038l/2990950._SY475_.jpg
+  id: 2990950
+  localCover: /embeds/books/arctic-drift.jpg
+  name: Arctic Drift
+  series: Dirk Pitt
+  series_index: 20
+  url: /book/show/2990950.arctic-drift
 Artemis Fowl:
   author: Eoin Colfer
   cover: https://images.gr-assets.com/books/1327945104l/249747.jpg
@@ -1470,6 +1479,15 @@ Fullmetal Alchemist, Vol. 1:
   series: Fullmetal Alchemist
   series_index: 1
   url: /book/show/870.fullmetal-alchemist-vol-1
+Fullmetal Alchemist, Vol. 2:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990451l/873.jpg
+  id: 873
+  localCover: /embeds/books/fullmetal-alchemist-vol-2.jpg
+  name: Fullmetal Alchemist, Vol. 2
+  series: Fullmetal Alchemist
+  series_index: 2
+  url: /book/show/873.fullmetal-alchemist-vol-2
 Furies of Calderon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1329104514l/29396.jpg
@@ -1730,6 +1748,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellboy-vol-1-seed-of-destruction.jpg
   name: 'Hellboy, Vol. 1: Seed of Destruction'
   url: /book/show/102458.hellboy-vol-1-seed-of-destruction
+'Hellboy, Vol. 2: Wake the Devil':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039250l/102459._SX98_.jpg
+  id: 102459
+  localCover: /embeds/books/hellboy-vol-2-wake-the-devil.jpg
+  name: 'Hellboy, Vol. 2: Wake the Devil'
+  url: /book/show/102459.hellboy-vol-2-wake-the-devil
+'Hellboy, Vol. 3: The Chained Coffin and Others':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039255l/102461._SX98_.jpg
+  id: 102461
+  localCover: /embeds/books/hellboy-vol-3-the-chained-coffin-and-others.jpg
+  name: 'Hellboy, Vol. 3: The Chained Coffin and Others'
+  url: /book/show/102461.hellboy-vol-3-the-chained-coffin-and-others
 Hex:
   author: Allen Steele
   cover: https://images.gr-assets.com/books/1311280340l/10472902.jpg
@@ -3105,6 +3137,13 @@ Resistance:
   series: The Frontiers Saga
   series_index: 9
   url: /book/show/18690610.resistance
+Restoration of Faith:
+  author: Jim Butcher
+  id: 15732549
+  name: Restoration of Faith
+  series: The Dresden Files
+  series_index: 0.2
+  url: /book/show/15732549.restoration-of-faith
 Return to Mars:
   author: Ben Bova
   cover: https://www.sfsite.com/~silverag/return.jpg
@@ -5495,6 +5534,13 @@ Welcome to Night Vale:
   series: Welcome to Night Vale
   series_index: 1
   url: /book/show/23129410.welcome-to-night-vale
+What If? Serious Scientific Answers to Absurd Hypothetical Questions:
+  author: Randall Munroe
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX98_.jpg
+  id: 21413662
+  localCover: /embeds/books/what-if-serious-scientific-answers-to-absurd-hypothetical-questions.jpg
+  name: What If? Serious Scientific Answers to Absurd Hypothetical Questions
+  url: /book/show/21413662.what-if-serious-scientific-answers-to-absurd-hypothetical-questions
 Where Are You Going, Baby Lincoln?:
   author: Kate DiCamillo
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458679553l/28588031._SX98_.jpg
