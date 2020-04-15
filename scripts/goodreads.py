@@ -655,7 +655,7 @@ date: {date}
         date_string = date.strftime('%Y-%m-%d')
         slug = slugify(review['title'])
 
-        filename = f'{date_string}-{slug}.generated.md'
+        filename = f'{date_string}-{slug}.md'
         path = os.path.join('content', 'reviews', 'books', str(date.year), filename)
 
         if os.path.exists(path) and not overwrite:

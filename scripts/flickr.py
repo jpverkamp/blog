@@ -146,7 +146,7 @@ generated: true
                 date_created = datetime.datetime.fromtimestamp(int(photoset['date_create']))
 
             slug = re.sub('[^a-z0-9-]+', '-', photoset['title'].lower()).strip('-')
-            filename = '{}-{}.generated.md'.format(date_created.strftime('%Y-%m-%d'), slug)
+            filename = '{}-{}.md'.format(date_created.strftime('%Y-%m-%d'), slug)
             path = os.path.join('content', 'photography', str(date_created.year), filename)
 
             print('{}'.format(photoset['title'], path), end = '... ')
