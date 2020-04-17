@@ -1762,6 +1762,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellboy-vol-3-the-chained-coffin-and-others.jpg
   name: 'Hellboy, Vol. 3: The Chained Coffin and Others'
   url: /book/show/102461.hellboy-vol-3-the-chained-coffin-and-others
+'Hellboy, Vol. 4: The Right Hand of Doom':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039276l/102460._SX98_.jpg
+  id: 102460
+  localCover: /embeds/books/hellboy-vol-4-the-right-hand-of-doom.jpg
+  name: 'Hellboy, Vol. 4: The Right Hand of Doom'
+  url: /book/show/102460.hellboy-vol-4-the-right-hand-of-doom
+'Hellboy, Vol. 5: Conqueror Worm':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039282l/102462._SX98_.jpg
+  id: 102462
+  localCover: /embeds/books/hellboy-vol-5-conqueror-worm.jpg
+  name: 'Hellboy, Vol. 5: Conqueror Worm'
+  url: /book/show/102462.hellboy-vol-5-conqueror-worm
 Hex:
   author: Allen Steele
   cover: https://images.gr-assets.com/books/1311280340l/10472902.jpg
@@ -2585,6 +2599,15 @@ Mossflower:
   series: Redwall
   series_index: 2
   url: /book/show/201341.mossflower
+Mountain Top Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291263297l/3369888.jpg
+  id: 3369888
+  localCover: /embeds/books/mountain-top-mystery.jpg
+  name: Mountain Top Mystery
+  series: Boxcar Children Series
+  series_index: null
+  url: /book/show/3369888.mountain-top-mystery
 Moving Pictures:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1320456553l/34510.jpg
