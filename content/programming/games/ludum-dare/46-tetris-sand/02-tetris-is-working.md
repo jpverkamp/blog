@@ -1,5 +1,6 @@
 ---
-title: 'Ludum Dare 46: Tetris Sand'
+title: 'LD46: Tetris is working! (sort of)'
+slug: ludum-dare-46-tetris-sand
 date: 2020-04-18 12:00:00
 programming/languages:
 - HTML

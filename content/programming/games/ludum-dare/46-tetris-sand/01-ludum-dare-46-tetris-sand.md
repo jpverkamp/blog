@@ -24,7 +24,7 @@ I don't know if I'll make it all the way through or actually finish a game. But 
 
 <!--more-->
 
-{{< figure src="/embeds/2020/ludum-dare-46-planning.png" >}}
+{{< figure src="/embeds/2020/ludum-dare-46-planning.jpg" >}}
 
 Basic idea: smoosh together Tetris and a Falling Sand style game. I know that's more or less what I did [last time](({{< ref "2014-08-24-sandbox-battle.md" >}})) (and [years before that](2009-11-28-sandbox-and-so-it-begins.md)), but it's fun! And something I know. 
 
