@@ -2,14 +2,13 @@
 title: "LD46: IT'S WORKING!"
 date: 2020-04-18 23:00:00
 programming/languages:
-- HTML
-- JavaScript
 - GScript
 - Godot
 programming/sources:
 - Ludum Dare
 programming/topics:
 - Cellular Automata
+- Physics
 - Games
 series:
 - Ludum Dare 46

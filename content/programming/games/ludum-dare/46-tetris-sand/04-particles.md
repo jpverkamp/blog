@@ -2,8 +2,6 @@
 title: 'LD46: Particles!'
 date: 2020-04-18 21:45:00
 programming/languages:
-- HTML
-- JavaScript
 - GScript
 - Godot
 programming/sources:

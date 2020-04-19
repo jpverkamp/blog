@@ -2,8 +2,6 @@
 title: 'Ludum Dare 46: Tetris Sand'
 date: 2020-04-17 23:00:00
 programming/languages:
-- HTML
-- JavaScript
 - GScript
 - Godot
 programming/sources:

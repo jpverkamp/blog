@@ -2,14 +2,12 @@
 title: 'LD46: Squishy squishy'
 date: 2020-04-18 16:00:00
 programming/languages:
-- HTML
-- JavaScript
 - GScript
 - Godot
 programming/sources:
 - Ludum Dare
 programming/topics:
-- Cellular Automata
+- Physics
 - Games
 series:
 - Ludum Dare 46

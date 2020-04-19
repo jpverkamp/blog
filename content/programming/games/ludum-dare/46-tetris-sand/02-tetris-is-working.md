@@ -3,14 +3,12 @@ title: 'LD46: Tetris is working! (sort of)'
 slug: ludum-dare-46-tetris-sand
 date: 2020-04-18 12:00:00
 programming/languages:
-- HTML
-- JavaScript
 - GScript
 - Godot
 programming/sources:
 - Ludum Dare
 programming/topics:
-- Cellular Automata
+- Physics
 - Games
 series:
 - Ludum Dare 46
