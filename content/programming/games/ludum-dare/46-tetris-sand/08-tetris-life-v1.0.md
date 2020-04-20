@@ -37,6 +37,10 @@ Speaking of which, per the Ludum Dare rules (and because I would have anyways), 
 
 MIT Licensed. I would appreciate a comment if you do anything cool with it. 
 
+Ludum Dare page, if you'd like to see my entry:
+
+- [Ludum Dare: Tetris Sand](https://ldjam.com/events/ludum-dare/46/$196712)
+
 Some updates since last time:
 
 - Music!
