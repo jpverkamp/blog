@@ -27,6 +27,12 @@ Goals:
 - To win: Get the plants to the top of the level
 - To lose: Kill off all of the plants #keepitalive
 
+EDIT: I have included a v1.1 update that fixes a few minor bugs. Feel free to play either the official v1.0 build or the slightly updated (~10 minutes) v1.1 build with:
+
+- Add a ceiling
+- Correctly scale target
+- Scale control speed by difficulty
+
 And there you have it. This page will serve as the main entry for Ludum Dare. If you'd rather download an executable for Windows/OSX/Linux, you can do so on the GitHub release page:
 
 - [GitHub: Tetris Life v1.0](https://github.com/jpverkamp/tetris-life/releases/tag/v1.0)
