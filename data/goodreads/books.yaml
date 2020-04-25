@@ -863,6 +863,15 @@ Coyote Horizon:
   series: Coyote Chronicles
   series_index: 1
   url: /book/show/4546626.coyote-horizon
+Crescent Dawn:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388192485l/8219033.jpg
+  id: 8219033
+  localCover: /embeds/books/crescent-dawn.jpg
+  name: Crescent Dawn
+  series: Dirk Pitt
+  series_index: 21
+  url: /book/show/8219033.crescent-dawn
 Crimson Bound:
   author: Rosamund Hodge
   cover: https://images.gr-assets.com/books/1413217438l/21570318.jpg
@@ -1488,6 +1497,24 @@ Fullmetal Alchemist, Vol. 2:
   series: Fullmetal Alchemist
   series_index: 2
   url: /book/show/873.fullmetal-alchemist-vol-2
+Fullmetal Alchemist, Vol. 3:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394438667l/868._SX98_.jpg
+  id: 868
+  localCover: /embeds/books/fullmetal-alchemist-vol-3.jpg
+  name: Fullmetal Alchemist, Vol. 3
+  series: Fullmetal Alchemist
+  series_index: 3
+  url: /book/show/868.fullmetal-alchemist-vol-3
+Fullmetal Alchemist, Vol. 4:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388179331l/871.jpg
+  id: 871
+  localCover: /embeds/books/fullmetal-alchemist-vol-4.jpg
+  name: Fullmetal Alchemist, Vol. 4
+  series: Fullmetal Alchemist
+  series_index: 4
+  url: /book/show/871.fullmetal-alchemist-vol-4
 Furies of Calderon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1329104514l/29396.jpg
@@ -1776,6 +1803,34 @@ Head of the Dragon:
   localCover: /embeds/books/hellboy-vol-5-conqueror-worm.jpg
   name: 'Hellboy, Vol. 5: Conqueror Worm'
   url: /book/show/102462.hellboy-vol-5-conqueror-worm
+'Hellboy, Vol. 6: Strange Places':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039341l/102463._SX98_.jpg
+  id: 102463
+  localCover: /embeds/books/hellboy-vol-6-strange-places.jpg
+  name: 'Hellboy, Vol. 6: Strange Places'
+  url: /book/show/102463.hellboy-vol-6-strange-places
+'Hellboy, Vol. 7: The Troll Witch and Others':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039344l/900750._SX98_.jpg
+  id: 900750
+  localCover: /embeds/books/hellboy-vol-7-the-troll-witch-and-others.jpg
+  name: 'Hellboy, Vol. 7: The Troll Witch and Others'
+  url: /book/show/900750.hellboy-vol-7-the-troll-witch-and-others
+'Hellboy, Vol. 8: Darkness Calls':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039349l/2396827._SX98_.jpg
+  id: 2396827
+  localCover: /embeds/books/hellboy-vol-8-darkness-calls.jpg
+  name: 'Hellboy, Vol. 8: Darkness Calls'
+  url: /book/show/2396827.hellboy-vol-8-darkness-calls
+'Hellboy, Vol. 9: The Wild Hunt':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039352l/7131445._SX98_.jpg
+  id: 7131445
+  localCover: /embeds/books/hellboy-vol-9-the-wild-hunt.jpg
+  name: 'Hellboy, Vol. 9: The Wild Hunt'
+  url: /book/show/7131445.hellboy-vol-9-the-wild-hunt
 Hex:
   author: Allen Steele
   cover: https://images.gr-assets.com/books/1311280340l/10472902.jpg
@@ -2601,13 +2656,13 @@ Mossflower:
   url: /book/show/201341.mossflower
 Mountain Top Mystery:
   author: Gertrude Chandler Warner
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291263297l/3369888.jpg
-  id: 3369888
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347808662l/182372._SX98_.jpg
+  id: 182372
   localCover: /embeds/books/mountain-top-mystery.jpg
   name: Mountain Top Mystery
-  series: Boxcar Children Series
-  series_index: null
-  url: /book/show/3369888.mountain-top-mystery
+  series: The Boxcar Children
+  series_index: 9
+  url: /book/show/182372.mountain-top-mystery
 Moving Pictures:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1320456553l/34510.jpg
@@ -3271,6 +3326,15 @@ Saturn:
   series: The Grand Tour
   series_index: 13
   url: /book/show/64703.saturn
+Schoolhouse Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347761319l/156810._SX98_.jpg
+  id: 156810
+  localCover: /embeds/books/schoolhouse-mystery.jpg
+  name: Schoolhouse Mystery
+  series: The Boxcar Children
+  series_index: 10
+  url: /book/show/156810.schoolhouse-mystery
 'Second Shift: Order':
   author: Hugh Howey
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352920738l/16148938._SX98_.jpg
@@ -5471,6 +5535,15 @@ Venus:
   series: The Grand Tour
   series_index: 18
   url: /book/show/768918.venus
+Vignette:
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476229870l/4271488._SY160_.jpg
+  id: 4271488
+  localCover: /embeds/books/vignette.jpg
+  name: Vignette
+  series: The Dresden Files
+  series_index: 5.5
+  url: /book/show/4271488.vignette
 Vixen 03:
   author: Clive Cussler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340904695l/41700._SY160_.jpg
