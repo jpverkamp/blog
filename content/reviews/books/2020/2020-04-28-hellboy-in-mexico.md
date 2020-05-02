@@ -1,0 +1,46 @@
+---
+title: Hellboy in Mexico
+date: 2020-04-28 00:00:00
+generated: true
+reviews/lists:
+- 2020 Book Reviews
+reviews/series:
+- Hellboy
+---
+{{< goodreads book="Hellboy in Mexico" cover="true" >}}
+
+He returns! Another good collection.  
+
+The first story... I totally read before in {{< goodreads book="Hellboy, Vol. 11: The Bride of Hell and Others" >}}. A good story. Still weird.  
+
+<!--more-->
+
+**Hellboy versus the Aztec Mummy:**  
+
+![Hellboy-in-Mexico-2-Quetzalcoatl](/embeds/books/attachments/hellboy-in-mexico-2-quetzalcoatl.png)  
+
+Holy wall of text batman.  
+
+**Hellboy Gets Married:**  
+
+![Hellboy-in-Mexico-3-Gets-Married](/embeds/books/attachments/hellboy-in-mexico-3-gets-married.png)  
+
+ **The Coffin Man / The Coffin Man 2: The Rematch**  
+
+Interesting mythology. A brujo (witch, more or less) who steals bodies.  
+
+![Hellboy-in-Mexico-5-Rematch](/embeds/books/attachments/hellboy-in-mexico-5-rematch.png)  
+
+![Hellboy-in-Mexico-5b-Rematch-monkey-arm](/embeds/books/attachments/hellboy-in-mexico-5b-rematch-monkey-arm.png)  
+
+That's hilarious.  
+
+**House of the Living Dead:**  
+
+So... it's basically Frankenstein? No, Wolfman. No, Vampires! Oh. Ghosts.  
+
+Everything!  
+
+Quite a ride.
+
+

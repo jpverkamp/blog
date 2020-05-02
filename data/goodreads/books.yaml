@@ -594,6 +594,15 @@ By the Shores of Silver Lake:
   series: Little House
   series_index: 5
   url: /book/show/8248.by-the-shores-of-silver-lake
+Caboose Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347243948l/823355._SX98_.jpg
+  id: 823355
+  localCover: /embeds/books/caboose-mystery.jpg
+  name: Caboose Mystery
+  series: The Boxcar Children
+  series_index: 11
+  url: /book/show/823355.caboose-mystery
 Calamity:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1437098338l/15704486.jpg
@@ -1515,6 +1524,24 @@ Fullmetal Alchemist, Vol. 4:
   series: Fullmetal Alchemist
   series_index: 4
   url: /book/show/871.fullmetal-alchemist-vol-4
+Fullmetal Alchemist, Vol. 5:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298963l/9326.jpg
+  id: 9326
+  localCover: /embeds/books/fullmetal-alchemist-vol-5.jpg
+  name: Fullmetal Alchemist, Vol. 5
+  series: Fullmetal Alchemist
+  series_index: 5
+  url: /book/show/9326.fullmetal-alchemist-vol-5
+Fullmetal Alchemist, Vol. 6:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298961l/44734.jpg
+  id: 44734
+  localCover: /embeds/books/fullmetal-alchemist-vol-6.jpg
+  name: Fullmetal Alchemist, Vol. 6
+  series: Fullmetal Alchemist
+  series_index: 6
+  url: /book/show/44734.fullmetal-alchemist-vol-6
 Furies of Calderon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1329104514l/29396.jpg
@@ -1768,6 +1795,41 @@ Head of the Dragon:
   series: The Frontiers Saga
   series_index: 6
   url: /book/show/17336361.head-of-the-dragon
+'Hellboy in Hell, Vol. 1: The Descent':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
+  id: 19546047
+  localCover: /embeds/books/hellboy-in-hell-vol-1-the-descent.jpg
+  name: 'Hellboy in Hell, Vol. 1: The Descent'
+  url: /book/show/19546047.hellboy-in-hell-vol-1-the-descent
+Hellboy in Mexico:
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447730641l/26025654._SX98_.jpg
+  id: 26025654
+  localCover: /embeds/books/hellboy-in-mexico.jpg
+  name: Hellboy in Mexico
+  url: /book/show/26025654.hellboy-in-mexico
+'Hellboy, Vol. 10: The Crooked Man and Others':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039379l/7695240._SX98_.jpg
+  id: 7695240
+  localCover: /embeds/books/hellboy-vol-10-the-crooked-man-and-others.jpg
+  name: 'Hellboy, Vol. 10: The Crooked Man and Others'
+  url: /book/show/7695240.hellboy-vol-10-the-crooked-man-and-others
+'Hellboy, Vol. 11: The Bride of Hell and Others':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039384l/11253748._SX98_.jpg
+  id: 11253748
+  localCover: /embeds/books/hellboy-vol-11-the-bride-of-hell-and-others.jpg
+  name: 'Hellboy, Vol. 11: The Bride of Hell and Others'
+  url: /book/show/11253748.hellboy-vol-11-the-bride-of-hell-and-others
+'Hellboy, Vol. 12: The Storm and the Fury':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039388l/12944455._SX98_.jpg
+  id: 12944455
+  localCover: /embeds/books/hellboy-vol-12-the-storm-and-the-fury.jpg
+  name: 'Hellboy, Vol. 12: The Storm and the Fury'
+  url: /book/show/12944455.hellboy-vol-12-the-storm-and-the-fury
 'Hellboy, Vol. 1: Seed of Destruction':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039246l/102458._SX98_.jpg
