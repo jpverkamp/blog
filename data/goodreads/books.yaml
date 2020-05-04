@@ -1802,6 +1802,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellboy-in-hell-vol-1-the-descent.jpg
   name: 'Hellboy in Hell, Vol. 1: The Descent'
   url: /book/show/19546047.hellboy-in-hell-vol-1-the-descent
+'Hellboy in Hell, Vol. 2: The Death Card':
+  author: Mike Mignola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459723856l/29726950._SX98_.jpg
+  id: 29726950
+  localCover: /embeds/books/hellboy-in-hell-vol-2-the-death-card.jpg
+  name: 'Hellboy in Hell, Vol. 2: The Death Card'
+  url: /book/show/29726950.hellboy-in-hell-vol-2-the-death-card
 Hellboy in Mexico:
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447730641l/26025654._SX98_.jpg

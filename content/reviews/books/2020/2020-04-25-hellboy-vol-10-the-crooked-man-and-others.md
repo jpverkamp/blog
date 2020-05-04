@@ -1,6 +1,6 @@
 ---
 title: "Hellboy, Vol. 10: The Crooked Man and Others"
-date: 2020-04-25 00:00:00
+date: 2020-04-25 23:00:00
 generated: true
 reviews/lists:
 - 2020 Book Reviews
