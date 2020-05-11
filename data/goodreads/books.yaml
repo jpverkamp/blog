@@ -1542,6 +1542,24 @@ Fullmetal Alchemist, Vol. 6:
   series: Fullmetal Alchemist
   series_index: 6
   url: /book/show/44734.fullmetal-alchemist-vol-6
+Fullmetal Alchemist, Vol. 7:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298961l/82637.jpg
+  id: 82637
+  localCover: /embeds/books/fullmetal-alchemist-vol-7.jpg
+  name: Fullmetal Alchemist, Vol. 7
+  series: Fullmetal Alchemist
+  series_index: 7
+  url: /book/show/82637.fullmetal-alchemist-vol-7
+Fullmetal Alchemist, Vol. 8:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388209177l/869.jpg
+  id: 869
+  localCover: /embeds/books/fullmetal-alchemist-vol-8.jpg
+  name: Fullmetal Alchemist, Vol. 8
+  series: Fullmetal Alchemist
+  series_index: 8
+  url: /book/show/869.fullmetal-alchemist-vol-8
 Furies of Calderon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1329104514l/29396.jpg
@@ -1961,6 +1979,15 @@ Hounded:
   series: The Iron Druid Chronicles
   series_index: 1
   url: /book/show/9533378.hounded
+Houseboat Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364437738l/255507._SX98_.jpg
+  id: 255507
+  localCover: /embeds/books/houseboat-mystery.jpg
+  name: Houseboat Mystery
+  series: The Boxcar Children
+  series_index: 12
+  url: /book/show/255507.houseboat-mystery
 'How To: Absurd Scientific Advice for Common Real-World Problems':
   author: Randall Munroe
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549394628l/42086897._SX98_.jpg
@@ -2163,6 +2190,27 @@ Jim Butcher's Dresden Files Welcome to the Jungle:
   series: The Dresden Files Graphic Novels
   series_index: 0.5
   url: /book/show/2637138.jim-butchers-dresden-files-welcome-to-the-jungle
+'Jim Butcher''s Dresden Files: Storm Front Vol 1 #2':
+  author: Mark Powers
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252.jpg
+  id: 22394962
+  localCover: /embeds/books/jim-butchers-dresden-files-storm-front-vol-1-2.jpg
+  name: 'Jim Butcher''s Dresden Files: Storm Front Vol 1 #2'
+  url: /book/show/22394962.jim-butchers-dresden-files-storm-front-vol-1-2
+'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering Storm':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348528100l/4961959.jpg
+  id: 4961959
+  localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-1-the-gathering-storm.jpg
+  name: 'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering Storm'
+  url: /book/show/4961959.jim-butchers-the-dresden-files-storm-front-volume-1-the-gathering-storm
+'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252._SX98_.jpg
+  id: 6285252
+  localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom.jpg
+  name: 'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom'
+  url: /book/show/6285252.jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom
 Jingo:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1327921813l/47990.jpg
@@ -4236,6 +4284,20 @@ The Drawing of the Three:
   series: The Dark Tower
   series_index: 2
   url: /book/show/5094.the-drawing-of-the-three
+'The Dresden Files: Fool Moon, Volume 1':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332613165l/6855336._SX98_.jpg
+  id: 6855336
+  localCover: /embeds/books/the-dresden-files-fool-moon-volume-1.jpg
+  name: 'The Dresden Files: Fool Moon, Volume 1'
+  url: /book/show/6855336.the-dresden-files-fool-moon-volume-1
+'The Dresden Files: Fool Moon, Volume 2':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355618137l/16231091._SX98_.jpg
+  id: 16231091
+  localCover: /embeds/books/the-dresden-files-fool-moon-volume-2.jpg
+  name: 'The Dresden Files: Fool Moon, Volume 2'
+  url: /book/show/16231091.the-dresden-files-fool-moon-volume-2
 The Dunwich Horror:
   author: H.P. Lovecraft
   cover: https://images.gr-assets.com/books/1461614698l/30000963.jpg

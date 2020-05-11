@@ -1,0 +1,44 @@
+---
+title: Welcome to the Jungle
+date: 2020-05-03 00:00:00
+generated: true
+reviews/lists:
+- 2020 Book Reviews
+reviews/series:
+- The Dresden Files Graphic Novels
+---
+{{< goodreads book="Jim Butcher's Dresden Files Welcome to the Jungle" cover="true" >}}
+
+![Jungle-01-They-call-me](/embeds/books/attachments/jungle-01-they-call-me.png)  
+
+It's certainly a bit different--there's less room to breath and less freedom to imagine the characters as you want, but on the other hand, it's more Dresden Files!  
+
+<!--more-->
+
+In a nutshell, you have a murder at a zoo. Might be something on the spooky side, so Dresden gets involved.  
+
+![Jungle-02-The-strongest-survive](/embeds/books/attachments/jungle-02-the-strongest-survive.png)  
+
+And of course he's as snarky as can be:  
+
+![Jungle-03-Prettier-than-my-clients](/embeds/books/attachments/jungle-03-prettier-than-my-clients.png)  
+
+At times, it feels a bit overdone, which is saying something for Dresden. You get a snarky comment a page and it's almost to the point of a caricature:  
+
+![Jungle-07-Supplies](/embeds/books/attachments/jungle-07-supplies.png)  
+
+But you know what? I'll take it.  
+
+Plus, COMIC BOOK SOUNDS!  
+
+![Jungle-09-Bahwhoom](/embeds/books/attachments/jungle-09-bahwhoom.png)  
+
+Even though the art seems a little odd at times (eyes in particular and proportions are way overblown, although that's more obvious in {{< goodreads book="Jim Butcher's Dresden Files: Storm Front Vol 1 #2" >}}), it really fits a comic book.  
+
+Alltother, don't read it instead of the novels, but there's absolutely no reason not to give both a try!  
+
+![Jungle-08-Lazybones](/embeds/books/attachments/jungle-08-lazybones.png)  
+
+Heh. Lazybones.  
+
+
