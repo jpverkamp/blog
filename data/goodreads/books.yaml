@@ -1560,6 +1560,15 @@ Fullmetal Alchemist, Vol. 8:
   series: Fullmetal Alchemist
   series_index: 8
   url: /book/show/869.fullmetal-alchemist-vol-8
+Fullmetal Alchemist, Vol. 9:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388209177l/866.jpg
+  id: 866
+  localCover: /embeds/books/fullmetal-alchemist-vol-9.jpg
+  name: Fullmetal Alchemist, Vol. 9
+  series: Fullmetal Alchemist
+  series_index: 9
+  url: /book/show/866.fullmetal-alchemist-vol-9
 Furies of Calderon:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1329104514l/29396.jpg
@@ -2190,6 +2199,13 @@ Jim Butcher's Dresden Files Welcome to the Jungle:
   series: The Dresden Files Graphic Novels
   series_index: 0.5
   url: /book/show/2637138.jim-butchers-dresden-files-welcome-to-the-jungle
+'Jim Butcher''s Dresden Files: Ghoul Goblin':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388266297l/18430203.jpg
+  id: 18430203
+  localCover: /embeds/books/jim-butchers-dresden-files-ghoul-goblin.jpg
+  name: 'Jim Butcher''s Dresden Files: Ghoul Goblin'
+  url: /book/show/18430203.jim-butchers-dresden-files-ghoul-goblin
 'Jim Butcher''s Dresden Files: Storm Front Vol 1 #2':
   author: Mark Powers
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252.jpg
@@ -2211,6 +2227,13 @@ Jim Butcher's Dresden Files Welcome to the Jungle:
   localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom.jpg
   name: 'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom'
   url: /book/show/6285252.jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom
+'Jim Butcher''s The Dresden Files: War Cry':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412295629l/23137382._SX98_.jpg
+  id: 23137382
+  localCover: /embeds/books/jim-butchers-the-dresden-files-war-cry.jpg
+  name: 'Jim Butcher''s The Dresden Files: War Cry'
+  url: /book/show/23137382.jim-butchers-the-dresden-files-war-cry
 Jingo:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1327921813l/47990.jpg
@@ -3114,6 +3137,15 @@ Polar Shift:
   series: NUMA Files
   series_index: 6
   url: /book/show/41699.polar-shift
+Poseidon's Arrow:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1350261034l/15712052._SX98_.jpg
+  id: 15712052
+  localCover: /embeds/books/poseidons-arrow.jpg
+  name: Poseidon's Arrow
+  series: Dirk Pitt
+  series_index: 22
+  url: /book/show/15712052.poseidons-arrow
 Powersat:
   author: Ben Bova
   id: 267291
@@ -3709,6 +3741,15 @@ Snapshot:
   localCover: /embeds/books/snapshot.jpg
   name: Snapshot
   url: /book/show/31176804.snapshot
+Snowbound Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388520955l/132539.jpg
+  id: 132539
+  localCover: /embeds/books/snowbound-mystery.jpg
+  name: Snowbound Mystery
+  series: The Boxcar Children
+  series_index: 13
+  url: /book/show/132539.snowbound-mystery
 Snuff:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1302694636l/8785374.jpg
