@@ -1497,6 +1497,22 @@ Fullmetal Alchemist, Vol. 1:
   series: Fullmetal Alchemist
   series_index: 1
   url: /book/show/870.fullmetal-alchemist-vol-1
+Fullmetal Alchemist, Vol. 10:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574085571l/9325._SX98_.jpg
+  id: 9325
+  localCover: /embeds/books/fullmetal-alchemist-vol-10.jpg
+  name: Fullmetal Alchemist, Vol. 10
+  url: /book/show/9325.fullmetal-alchemist-vol-10
+Fullmetal Alchemist, Vol. 11:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298960l/23506.jpg
+  id: 23506
+  localCover: /embeds/books/fullmetal-alchemist-vol-11.jpg
+  name: Fullmetal Alchemist, Vol. 11
+  series: Fullmetal Alchemist
+  series_index: 11
+  url: /book/show/23506.fullmetal-alchemist-vol-11
 Fullmetal Alchemist, Vol. 2:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990451l/873.jpg
@@ -2213,6 +2229,20 @@ Jim Butcher's Dresden Files Welcome to the Jungle:
   localCover: /embeds/books/jim-butchers-dresden-files-storm-front-vol-1-2.jpg
   name: 'Jim Butcher''s Dresden Files: Storm Front Vol 1 #2'
   url: /book/show/22394962.jim-butchers-dresden-files-storm-front-vol-1-2
+'Jim Butcher''s The Dresden Files: Dog Men':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512167682l/35989261._SX98_.jpg
+  id: 35989261
+  localCover: /embeds/books/jim-butchers-the-dresden-files-dog-men.jpg
+  name: 'Jim Butcher''s The Dresden Files: Dog Men'
+  url: /book/show/35989261.jim-butchers-the-dresden-files-dog-men
+'Jim Butcher''s The Dresden Files: Down Town':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436341291l/25558821._SX98_.jpg
+  id: 25558821
+  localCover: /embeds/books/jim-butchers-the-dresden-files-down-town.jpg
+  name: 'Jim Butcher''s The Dresden Files: Down Town'
+  url: /book/show/25558821.jim-butchers-the-dresden-files-down-town
 'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering Storm':
   author: Jim Butcher
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348528100l/4961959.jpg
@@ -2234,6 +2264,15 @@ Jim Butcher's Dresden Files Welcome to the Jungle:
   localCover: /embeds/books/jim-butchers-the-dresden-files-war-cry.jpg
   name: 'Jim Butcher''s The Dresden Files: War Cry'
   url: /book/show/23137382.jim-butchers-the-dresden-files-war-cry
+'Jim Butcher''s The Dresden Files: Wild Card':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471510514l/30272307._SX98_.jpg
+  id: 30272307
+  localCover: /embeds/books/jim-butchers-the-dresden-files-wild-card.jpg
+  name: 'Jim Butcher''s The Dresden Files: Wild Card'
+  series: Series Omnibus, Signed Limited Edition
+  series_index: null
+  url: /book/show/30272307.jim-butchers-the-dresden-files-wild-card
 Jingo:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1327921813l/47990.jpg
@@ -3457,6 +3496,34 @@ Sabriel:
   series: Abhorsen
   series_index: 1
   url: /book/show/518848.sabriel
+Saga, Vol. 1:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028947l/15704307._SX98_.jpg
+  id: 15704307
+  localCover: /embeds/books/saga-vol-1.jpg
+  name: Saga, Vol. 1
+  url: /book/show/15704307.saga-vol-1
+Saga, Vol. 2:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028954l/17131869._SX98_.jpg
+  id: 17131869
+  localCover: /embeds/books/saga-vol-2.jpg
+  name: Saga, Vol. 2
+  url: /book/show/17131869.saga-vol-2
+Saga, Vol. 3:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028973l/19358975._SX98_.jpg
+  id: 19358975
+  localCover: /embeds/books/saga-vol-3.jpg
+  name: Saga, Vol. 3
+  url: /book/show/19358975.saga-vol-3
+Saga, Vol. 4:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028981l/23093367._SX98_.jpg
+  id: 23093367
+  localCover: /embeds/books/saga-vol-4.jpg
+  name: Saga, Vol. 4
+  url: /book/show/23093367.saga-vol-4
 Sahara:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1169751349l/41716.jpg
