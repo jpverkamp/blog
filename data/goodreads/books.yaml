@@ -405,6 +405,15 @@ Beyond the Shadows:
   series: Night Angel
   series_index: 3
   url: /book/show/3754026.beyond-the-shadows
+Bicycle Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409856935l/156812.jpg
+  id: 156812
+  localCover: /embeds/books/bicycle-mystery.jpg
+  name: Bicycle Mystery
+  series: The Boxcar Children
+  series_index: 15
+  url: /book/show/156812.bicycle-mystery
 Bitterblue:
   author: Kristin Cashore
   cover: https://images.gr-assets.com/books/1331532273l/12680907.jpg
@@ -1513,6 +1522,42 @@ Fullmetal Alchemist, Vol. 11:
   series: Fullmetal Alchemist
   series_index: 11
   url: /book/show/23506.fullmetal-alchemist-vol-11
+Fullmetal Alchemist, Vol. 12:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298959l/26426.jpg
+  id: 26426
+  localCover: /embeds/books/fullmetal-alchemist-vol-12.jpg
+  name: Fullmetal Alchemist, Vol. 12
+  series: Fullmetal Alchemist
+  series_index: 12
+  url: /book/show/26426.fullmetal-alchemist-vol-12
+Fullmetal Alchemist, Vol. 13:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298960l/82638.jpg
+  id: 82638
+  localCover: /embeds/books/fullmetal-alchemist-vol-13.jpg
+  name: Fullmetal Alchemist, Vol. 13
+  series: Fullmetal Alchemist
+  series_index: 13
+  url: /book/show/82638.fullmetal-alchemist-vol-13
+Fullmetal Alchemist, Vol. 14:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388298959l/26422.jpg
+  id: 26422
+  localCover: /embeds/books/fullmetal-alchemist-vol-14.jpg
+  name: Fullmetal Alchemist, Vol. 14
+  series: Fullmetal Alchemist
+  series_index: 14
+  url: /book/show/26422.fullmetal-alchemist-vol-14
+Fullmetal Alchemist, Vol. 15:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388819361l/526672.jpg
+  id: 526672
+  localCover: /embeds/books/fullmetal-alchemist-vol-15.jpg
+  name: Fullmetal Alchemist, Vol. 15
+  series: Fullmetal Alchemist
+  series_index: 15
+  url: /book/show/526672.fullmetal-alchemist-vol-15
 Fullmetal Alchemist, Vol. 2:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990451l/873.jpg
@@ -1829,6 +1874,15 @@ Harry Potter and the Sorcerer's Stone:
   series: Harry Potter
   series_index: 1
   url: /book/show/3.harry-potter-and-the-sorcerers-stone
+Havana Storm:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396670915l/21413809._SX98_.jpg
+  id: 21413809
+  localCover: /embeds/books/havana-storm.jpg
+  name: Havana Storm
+  series: Dirk Pitt
+  series_index: 23
+  url: /book/show/21413809.havana-storm
 Head of the Dragon:
   author: Ryk Brown
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360218200l/17336361._SX98_.jpg
@@ -3036,6 +3090,15 @@ Odd Thomas:
   series: Odd Thomas
   series_index: 1
   url: /book/show/14995.odd-thomas
+Odessa Sea:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469406056l/29429954._SX98_.jpg
+  id: 29429954
+  localCover: /embeds/books/odessa-sea.jpg
+  name: Odessa Sea
+  series: Dirk Pitt
+  series_index: 24
+  url: /book/show/29429954.odessa-sea
 Odyssey:
   author: Jack McDevitt
   cover: https://images.gr-assets.com/books/1309286398l/352775.jpg
@@ -3524,6 +3587,41 @@ Saga, Vol. 4:
   localCover: /embeds/books/saga-vol-4.jpg
   name: Saga, Vol. 4
   url: /book/show/23093367.saga-vol-4
+Saga, Vol. 5:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028990l/25451555._SX98_.jpg
+  id: 25451555
+  localCover: /embeds/books/saga-vol-5.jpg
+  name: Saga, Vol. 5
+  url: /book/show/25451555.saga-vol-5
+Saga, Vol. 6:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486028997l/28862528._SX98_.jpg
+  id: 28862528
+  localCover: /embeds/books/saga-vol-6.jpg
+  name: Saga, Vol. 6
+  url: /book/show/28862528.saga-vol-6
+Saga, Vol. 7:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486029003l/29237211._SX98_.jpg
+  id: 29237211
+  localCover: /embeds/books/saga-vol-7.jpg
+  name: Saga, Vol. 7
+  url: /book/show/29237211.saga-vol-7
+Saga, Vol. 8:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506421450l/34963526._SX98_.jpg
+  id: 34963526
+  localCover: /embeds/books/saga-vol-8.jpg
+  name: Saga, Vol. 8
+  url: /book/show/34963526.saga-vol-8
+Saga, Vol. 9:
+  author: Brian K. Vaughan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520390163l/29237221._SX98_.jpg
+  id: 29237221
+  localCover: /embeds/books/saga-vol-9.jpg
+  name: Saga, Vol. 9
+  url: /book/show/29237221.saga-vol-9
 Sahara:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1169751349l/41716.jpg
@@ -5652,6 +5750,15 @@ Treasure of Khan:
   series: Dirk Pitt
   series_index: 19
   url: /book/show/34596.treasure-of-khan
+Tree House Mystery:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388520957l/93361.jpg
+  id: 93361
+  localCover: /embeds/books/tree-house-mystery.jpg
+  name: Tree House Mystery
+  series: The Boxcar Children
+  series_index: 14
+  url: /book/show/93361.tree-house-mystery
 Tricked:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1324455119l/12700306.jpg
