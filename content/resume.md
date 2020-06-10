@@ -39,6 +39,8 @@ Onsite 2013-2015, remote 2015-present
 
 * Built a system for automatically scanning social networks and other sites (including Facebook, Twitter, Google Alerts, and 4chan) for malicious activity related to 'raids' on the Edmodo website with email and Slack alerting.
 
+* Secured our email infrastructure with SPF (including a custom DNS server to overcome SPF recursion limits), DKIM, DMARC, and processing reports and bounced emails. 
+
 * Presented to engineering teams examples of and fixes for common security issues (particularly in legacy codebases).
 
 * Trained and mentored of several junior security engineers, including engineering teams in sister companies around the world. 
@@ -52,6 +54,8 @@ Onsite 2013-2015, remote 2015-present
 * Coordinated between different engineering teams due to a unique position of gaining years of experience across multiple codebases. 
 
 * Resolved paging events as secondary on-call when necessary by triaging and then either fixing the issue directly or contacting the relevant team(s).
+
+* Built a custom DNS solution for automatically resolving host names to internal IP address for employee use. 
 
 #### Engineering
 
