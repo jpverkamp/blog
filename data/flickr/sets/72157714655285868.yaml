@@ -1,0 +1,191 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 10
+count_videos: 0
+count_views: '0'
+date_create: '1591825948'
+date_update: '1591826491'
+description: Once upon a time, I spent a year (or more) taking 365 pictures one a
+  day. I enjoyed that. Let's do that again.
+farm: 66
+id: '72157714655285868'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- farm: 66
+  id: '49959702738'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '1'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49959702738/in/album-72157714655285868/
+  secret: '2472333848'
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49959702738_2472333848_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49959702738_2472333848_z.jpg
+    small: https://farm66.staticflickr.com/65535/49959702738_2472333848_m.jpg
+    square: https://farm66.staticflickr.com/65535/49959702738_2472333848_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49959702738_2472333848_t.jpg
+  title: 'Heartwood (365 II: 1)'
+  url: https://farm66.staticflickr.com/65535/49959702738_2472333848.jpg
+- farm: 66
+  id: '49993257567'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49993257567/in/album-72157714655285868/
+  secret: 4d9f53bd43
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49993257567_4d9f53bd43_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49993257567_4d9f53bd43_z.jpg
+    small: https://farm66.staticflickr.com/65535/49993257567_4d9f53bd43_m.jpg
+    square: https://farm66.staticflickr.com/65535/49993257567_4d9f53bd43_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49993257567_4d9f53bd43_t.jpg
+  title: 'Cohorts in crime (365 II: 2)'
+  url: https://farm66.staticflickr.com/65535/49993257567_4d9f53bd43.jpg
+- farm: 66
+  id: '49993254172'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49993254172/in/album-72157714655285868/
+  secret: 2225ed9576
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_z.jpg
+    small: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_m.jpg
+    square: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_t.jpg
+  title: Family
+  url: https://farm66.staticflickr.com/65535/49993254172_2225ed9576.jpg
+- farm: 66
+  id: '49993241287'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49993241287/in/album-72157714655285868/
+  secret: f11eeab07c
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49993241287_f11eeab07c_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49993241287_f11eeab07c_z.jpg
+    small: https://farm66.staticflickr.com/65535/49993241287_f11eeab07c_m.jpg
+    square: https://farm66.staticflickr.com/65535/49993241287_f11eeab07c_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49993241287_f11eeab07c_t.jpg
+  title: Learning
+  url: https://farm66.staticflickr.com/65535/49993241287_f11eeab07c.jpg
+- farm: 66
+  id: '49992992626'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49992992626/in/album-72157714655285868/
+  secret: a167464255
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49992992626_a167464255_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49992992626_a167464255_z.jpg
+    small: https://farm66.staticflickr.com/65535/49992992626_a167464255_m.jpg
+    square: https://farm66.staticflickr.com/65535/49992992626_a167464255_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49992992626_a167464255_t.jpg
+  title: 'Pods (365 II: 5)'
+  url: https://farm66.staticflickr.com/65535/49992992626_a167464255.jpg
+- farm: 66
+  id: '49992472148'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49992472148/in/album-72157714655285868/
+  secret: '4330582663'
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49992472148_4330582663_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49992472148_4330582663_z.jpg
+    small: https://farm66.staticflickr.com/65535/49992472148_4330582663_m.jpg
+    square: https://farm66.staticflickr.com/65535/49992472148_4330582663_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49992472148_4330582663_t.jpg
+  title: Growing Up
+  url: https://farm66.staticflickr.com/65535/49992472148_4330582663.jpg
+- farm: 66
+  id: '49993243762'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49993243762/in/album-72157714655285868/
+  secret: 3fd36f9dc6
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49993243762_3fd36f9dc6_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49993243762_3fd36f9dc6_z.jpg
+    small: https://farm66.staticflickr.com/65535/49993243762_3fd36f9dc6_m.jpg
+    square: https://farm66.staticflickr.com/65535/49993243762_3fd36f9dc6_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49993243762_3fd36f9dc6_t.jpg
+  title: Cocoon
+  url: https://farm66.staticflickr.com/65535/49993243762_3fd36f9dc6.jpg
+- farm: 66
+  id: '49993249757'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49993249757/in/album-72157714655285868/
+  secret: 6e8b82bb53
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49993249757_6e8b82bb53_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49993249757_6e8b82bb53_z.jpg
+    small: https://farm66.staticflickr.com/65535/49993249757_6e8b82bb53_m.jpg
+    square: https://farm66.staticflickr.com/65535/49993249757_6e8b82bb53_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49993249757_6e8b82bb53_t.jpg
+  title: Standoff
+  url: https://farm66.staticflickr.com/65535/49993249757_6e8b82bb53.jpg
+- farm: 66
+  id: '49992525673'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49992525673/in/album-72157714655285868/
+  secret: eed5ce98a6
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49992525673_eed5ce98a6_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49992525673_eed5ce98a6_z.jpg
+    small: https://farm66.staticflickr.com/65535/49992525673_eed5ce98a6_m.jpg
+    square: https://farm66.staticflickr.com/65535/49992525673_eed5ce98a6_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49992525673_eed5ce98a6_t.jpg
+  title: 'Downpour (365 II: 9)'
+  url: https://farm66.staticflickr.com/65535/49992525673_eed5ce98a6.jpg
+- farm: 66
+  id: '49992999666'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/49992999666/in/album-72157714655285868/
+  secret: 9fd1d108d2
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/49992999666_9fd1d108d2_b.jpg
+    medium: https://farm66.staticflickr.com/65535/49992999666_9fd1d108d2_z.jpg
+    small: https://farm66.staticflickr.com/65535/49992999666_9fd1d108d2_m.jpg
+    square: https://farm66.staticflickr.com/65535/49992999666_9fd1d108d2_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/49992999666_9fd1d108d2_t.jpg
+  title: Dumpies Coming Through
+  url: https://farm66.staticflickr.com/65535/49992999666_9fd1d108d2.jpg
+primary: '49959702738'
+secret: '2472333848'
+server: '65535'
+title: 365 II
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
