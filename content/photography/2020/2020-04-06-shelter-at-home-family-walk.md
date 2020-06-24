@@ -5,4 +5,6 @@ photography/types:
 - Flickr Album
 generated: true
 ---
+Around the neighborhood, enjoying the weather. 
+
 {{< flickr set="72157713784249076" >}}
