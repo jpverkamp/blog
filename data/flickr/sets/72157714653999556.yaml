@@ -4,8 +4,8 @@ count_photos: 6
 count_videos: 0
 count_views: '0'
 date_create: '1591824811'
-date_update: '1591825405'
-description: ''
+date_update: '1593012577'
+description: Got a family photo shoot, took a few pictures of my own.
 farm: 66
 id: '72157714653999556'
 needs_interstitial: 0
@@ -15,7 +15,7 @@ photos:
   id: '49993227462'
   isfamily: 0
   isfriend: 0
-  isprimary: '1'
+  isprimary: '0'
   ispublic: 1
   page: https://www.flickr.com/photos/jpverkamp/49993227462/in/album-72157714653999556/
   secret: c3b3d00933
@@ -66,7 +66,7 @@ photos:
   id: '49993233462'
   isfamily: 0
   isfriend: 0
-  isprimary: '0'
+  isprimary: '1'
   ispublic: 1
   page: https://www.flickr.com/photos/jpverkamp/49993233462/in/album-72157714653999556/
   secret: d6b779a941
@@ -94,7 +94,7 @@ photos:
     small: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_m.jpg
     square: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_s.jpg
     thumbnail: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_t.jpg
-  title: Dumpy
+  title: 'Dumpy (365 II: 3)'
   url: https://farm66.staticflickr.com/65535/49992985391_978d898a5d.jpg
 - farm: 66
   id: '49993254172'
@@ -113,8 +113,8 @@ photos:
     thumbnail: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_t.jpg
   title: Family
   url: https://farm66.staticflickr.com/65535/49993254172_2225ed9576.jpg
-primary: '49993227462'
-secret: c3b3d00933
+primary: '49993233462'
+secret: d6b779a941
 server: '65535'
 title: Photoshoot
 username: jpverkamp

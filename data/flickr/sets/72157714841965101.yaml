@@ -1,10 +1,10 @@
 can_comment: 0
 count_comments: '0'
-count_photos: 59
+count_photos: 61
 count_videos: 0
 count_views: '0'
 date_create: '1593012233'
-date_update: '1593012250'
+date_update: '1593100590'
 description: Camping with friends and grandparents! We need to do more of this.
 farm: 66
 id: '72157714841965101'
@@ -1014,6 +1014,40 @@ photos:
     thumbnail: https://farm66.staticflickr.com/65535/50040172703_425da74676_t.jpg
   title: Climbing
   url: https://farm66.staticflickr.com/65535/50040172703_425da74676.jpg
+- farm: 66
+  id: '50043600553'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/50043600553/in/album-72157714841965101/
+  secret: 48e8e24fc1
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/50043600553_48e8e24fc1_b.jpg
+    medium: https://farm66.staticflickr.com/65535/50043600553_48e8e24fc1_z.jpg
+    small: https://farm66.staticflickr.com/65535/50043600553_48e8e24fc1_m.jpg
+    square: https://farm66.staticflickr.com/65535/50043600553_48e8e24fc1_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/50043600553_48e8e24fc1_t.jpg
+  title: Skyward
+  url: https://farm66.staticflickr.com/65535/50043600553_48e8e24fc1.jpg
+- farm: 66
+  id: '50043601743'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/50043601743/in/album-72157714841965101/
+  secret: e586f07120
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/50043601743_e586f07120_b.jpg
+    medium: https://farm66.staticflickr.com/65535/50043601743_e586f07120_z.jpg
+    small: https://farm66.staticflickr.com/65535/50043601743_e586f07120_m.jpg
+    square: https://farm66.staticflickr.com/65535/50043601743_e586f07120_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/50043601743_e586f07120_t.jpg
+  title: Smoky Mountains of Indiana
+  url: https://farm66.staticflickr.com/65535/50043601743_e586f07120.jpg
 primary: '50040172143'
 secret: 72f6030b77
 server: '65535'

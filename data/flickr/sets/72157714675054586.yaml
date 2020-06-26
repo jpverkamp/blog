@@ -4,8 +4,9 @@ count_photos: 29
 count_videos: 0
 count_views: '0'
 date_create: '1591977085'
-date_update: '1591977817'
-description: ''
+date_update: '1593012754'
+description: The fun run series is a bit strange this year--no official time each
+  week due to COVID-19. But we're still doing it!
 farm: 66
 id: '72157714675054586'
 needs_interstitial: 0
@@ -507,7 +508,7 @@ photos:
 primary: '49998033358'
 secret: 0e794d3877
 server: '65535'
-title: Arbuckle Fun Run
+title: 'Fun Run 2020: Arbuckle'
 username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

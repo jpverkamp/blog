@@ -1,10 +1,10 @@
 can_comment: 0
 count_comments: '0'
-count_photos: 23
+count_photos: 26
 count_videos: 0
 count_views: '0'
 date_create: '1591825948'
-date_update: '1593012245'
+date_update: '1593193976'
 description: Once upon a time, I spent a year (or more) taking 365 pictures one a
   day. I enjoyed that. Let's do that again.
 farm: 66
@@ -403,6 +403,57 @@ photos:
     thumbnail: https://farm66.staticflickr.com/65535/50040991327_775d22e0a9_t.jpg
   title: 'Raindrops (365 II: 21)'
   url: https://farm66.staticflickr.com/65535/50040991327_775d22e0a9.jpg
+- farm: 66
+  id: '50043603378'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/50043603378/in/album-72157714655285868/
+  secret: 47004fdd58
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/50043603378_47004fdd58_b.jpg
+    medium: https://farm66.staticflickr.com/65535/50043603378_47004fdd58_z.jpg
+    small: https://farm66.staticflickr.com/65535/50043603378_47004fdd58_m.jpg
+    square: https://farm66.staticflickr.com/65535/50043603378_47004fdd58_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/50043603378_47004fdd58_t.jpg
+  title: 'Red (365 II: 24)'
+  url: https://farm66.staticflickr.com/65535/50043603378_47004fdd58.jpg
+- farm: 66
+  id: '50043639823'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/50043639823/in/album-72157714655285868/
+  secret: '7113965058'
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/50043639823_7113965058_b.jpg
+    medium: https://farm66.staticflickr.com/65535/50043639823_7113965058_z.jpg
+    small: https://farm66.staticflickr.com/65535/50043639823_7113965058_m.jpg
+    square: https://farm66.staticflickr.com/65535/50043639823_7113965058_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/50043639823_7113965058_t.jpg
+  title: 'Stone (365: 25)'
+  url: https://farm66.staticflickr.com/65535/50043639823_7113965058.jpg
+- farm: 66
+  id: '50047199018'
+  isfamily: 0
+  isfriend: 0
+  isprimary: '0'
+  ispublic: 1
+  page: https://www.flickr.com/photos/jpverkamp/50047199018/in/album-72157714655285868/
+  secret: 4aeb3fc04a
+  server: '65535'
+  thumbnails:
+    large: https://farm66.staticflickr.com/65535/50047199018_4aeb3fc04a_b.jpg
+    medium: https://farm66.staticflickr.com/65535/50047199018_4aeb3fc04a_z.jpg
+    small: https://farm66.staticflickr.com/65535/50047199018_4aeb3fc04a_m.jpg
+    square: https://farm66.staticflickr.com/65535/50047199018_4aeb3fc04a_s.jpg
+    thumbnail: https://farm66.staticflickr.com/65535/50047199018_4aeb3fc04a_t.jpg
+  title: 'Japanese Beatles (365 II: 26)'
+  url: https://farm66.staticflickr.com/65535/50047199018_4aeb3fc04a.jpg
 primary: '49959702738'
 secret: '2472333848'
 server: '65535'
