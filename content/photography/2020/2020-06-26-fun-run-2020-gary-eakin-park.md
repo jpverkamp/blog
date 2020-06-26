@@ -8,4 +8,3 @@ generated: true
 Another fun run! It rained partway through, so we hid in the woods.
 
 {{< flickr set="72157714868275071" >}}
-    

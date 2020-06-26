@@ -698,6 +698,15 @@ Cell:
   localCover: /embeds/books/cell.jpg
   name: Cell
   url: /book/show/10567.cell
+Celtic Empire:
+  author: Clive Cussler
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518904514l/38607766._SY475_.jpg
+  id: 38607766
+  localCover: /embeds/books/celtic-empire.jpg
+  name: Celtic Empire
+  series: Dirk Pitt
+  series_index: 25
+  url: /book/show/38607766.celtic-empire
 Changes:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1304027244l/6585201.jpg
@@ -1278,6 +1287,34 @@ Fables:
   localCover: /embeds/books/fables.jpg
   name: Fables
   url: /book/show/652484.fables
+'Fables, Vol. 1: Legends in Exile':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375392441l/21326._SX98_.jpg
+  id: 21326
+  localCover: /embeds/books/fables-vol-1-legends-in-exile.jpg
+  name: 'Fables, Vol. 1: Legends in Exile'
+  url: /book/show/21326.fables-vol-1-legends-in-exile
+'Fables, Vol. 2: Animal Farm':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506893283l/167010._SX98_.jpg
+  id: 167010
+  localCover: /embeds/books/fables-vol-2-animal-farm.jpg
+  name: 'Fables, Vol. 2: Animal Farm'
+  url: /book/show/167010.fables-vol-2-animal-farm
+'Fables, Vol. 3: Storybook Love':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363682851l/21329._SX98_.jpg
+  id: 21329
+  localCover: /embeds/books/fables-vol-3-storybook-love.jpg
+  name: 'Fables, Vol. 3: Storybook Love'
+  url: /book/show/21329.fables-vol-3-storybook-love
+'Fables, Vol. 4: March of the Wooden Soldiers':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870401l/21325._SX98_.jpg
+  id: 21325
+  localCover: /embeds/books/fables-vol-4-march-of-the-wooden-soldiers.jpg
+  name: 'Fables, Vol. 4: March of the Wooden Soldiers'
+  url: /book/show/21325.fables-vol-4-march-of-the-wooden-soldiers
 Fair Game:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1327472384l/7942786.jpg
@@ -1567,6 +1604,33 @@ Fullmetal Alchemist, Vol. 16:
   series: Fullmetal Alchemist
   series_index: 16
   url: /book/show/1610998.fullmetal-alchemist-vol-16
+Fullmetal Alchemist, Vol. 17:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388819367l/2855165.jpg
+  id: 2855165
+  localCover: /embeds/books/fullmetal-alchemist-vol-17.jpg
+  name: Fullmetal Alchemist, Vol. 17
+  series: Fullmetal Alchemist
+  series_index: 17
+  url: /book/show/2855165.fullmetal-alchemist-vol-17
+Fullmetal Alchemist, Vol. 18:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388819369l/4341085.jpg
+  id: 4341085
+  localCover: /embeds/books/fullmetal-alchemist-vol-18.jpg
+  name: Fullmetal Alchemist, Vol. 18
+  series: Fullmetal Alchemist
+  series_index: 18
+  url: /book/show/4341085.fullmetal-alchemist-vol-18
+Fullmetal Alchemist, Vol. 19:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389554059l/6065429.jpg
+  id: 6065429
+  localCover: /embeds/books/fullmetal-alchemist-vol-19.jpg
+  name: Fullmetal Alchemist, Vol. 19
+  series: Fullmetal Alchemist
+  series_index: 19
+  url: /book/show/6065429.fullmetal-alchemist-vol-19
 Fullmetal Alchemist, Vol. 2:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990451l/873.jpg
@@ -2948,6 +3012,15 @@ Mystery Ranch:
   series: The Boxcar Children
   series_index: 4
   url: /book/show/156813.mystery-ranch
+Mystery in the Sand:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388350863l/156808.jpg
+  id: 19108356
+  localCover: /embeds/books/mystery-in-the-sand.jpg
+  name: Mystery in the Sand
+  series: The Boxcar Children Mysteries
+  series_index: null
+  url: /book/show/19108356.mystery-in-the-sand
 Necroscope:
   author: Brian Lumley
   cover: https://images.gr-assets.com/books/1170652860l/66655.jpg
@@ -3457,6 +3530,15 @@ Redemption Ark:
   series: Revelation Space
   series_index: 2
   url: /book/show/89190.redemption-ark
+Redwall:
+  author: Brian Jacques
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877368l/7996._SX98_.jpg
+  id: 7996
+  localCover: /embeds/books/redwall.jpg
+  name: Redwall
+  series: Redwall
+  series_index: 1
+  url: /book/show/7996.redwall
 Rendezvous with Rama:
   author: Arthur C. Clarke
   cover: https://images.gr-assets.com/books/1405456427l/112537.jpg
