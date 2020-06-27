@@ -13,7 +13,7 @@
 
         {{- if eq .Title "Reviews" -}}
             <div class="home-page-reviews">
-                {{- range first 16 .Pages -}}
+                {{- range first 10 .Pages -}}
                 <a href="{{ .Permalink }}">
                     {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
                 </a>
@@ -22,7 +22,9 @@
 
         {{- else if eq .Title "Photography" -}}
             {{- range last 10 (sort $.Site.Data.flickr.photos) -}}
-                <img class="home-page-image" src="{{ .thumbnails.square }}">
+                <a href="{{ .page }}">
+                    <img class="home-page-image" src="{{ .thumbnails.square }}">
+                </a>
             {{- end -}}
 
             <ul>
