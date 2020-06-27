@@ -1315,6 +1315,13 @@ Fables:
   localCover: /embeds/books/fables-vol-4-march-of-the-wooden-soldiers.jpg
   name: 'Fables, Vol. 4: March of the Wooden Soldiers'
   url: /book/show/21325.fables-vol-4-march-of-the-wooden-soldiers
+'Fables, Vol. 5: The Mean Seasons':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870458l/21330._SX98_.jpg
+  id: 21330
+  localCover: /embeds/books/fables-vol-5-the-mean-seasons.jpg
+  name: 'Fables, Vol. 5: The Mean Seasons'
+  url: /book/show/21330.fables-vol-5-the-mean-seasons
 Fair Game:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1327472384l/7942786.jpg
