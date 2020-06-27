@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+{{- range .Site.Sections -}}
+    {{- if not (eq .Title "Other") -}}
+    <h2>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <sup>
+            <a href="/{{ .Title | urlize }}/atom.xml">
+                {{- partial "rss-icon.html" (dict "size" 8 "color" "green") }}
+            </a>
+        </sup>
+    </h2>
+    <ul>
+        {{- range first 10 .Pages -}}
+        <li>
+            {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{- end -}}
+    </ul>
+    {{- end -}}
+{{- end -}}
+
+{{ end }}
