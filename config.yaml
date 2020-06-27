@@ -10,7 +10,7 @@ params:
     disqusShortname: jverkamp
     disqusBaseURL: https://blog.jverkamp.com
 
-rssLimit: 10
+rssLimit: 50
 outputFormats:
   RSS:
     mediatype: "application/rss"
