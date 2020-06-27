@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 9
+count_videos: 0
 count_views: '2'
 date_create: '1443844244'
 date_update: '1443844284'
@@ -7,163 +9,21 @@ description: Took a walk with a around Burlingame Gardens. All sorts of neat mom
 farm: 1
 id: '72157659331994936'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 1
-  id: '21279445114'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21279445114/in/album-72157659331994936/
-  secret: 433558ee0c
-  server: '730'
-  thumbnails:
-    large: https://farm1.staticflickr.com/730/21279445114_433558ee0c_b.jpg
-    medium: https://farm1.staticflickr.com/730/21279445114_433558ee0c_z.jpg
-    small: https://farm1.staticflickr.com/730/21279445114_433558ee0c_m.jpg
-    square: https://farm1.staticflickr.com/730/21279445114_433558ee0c_s.jpg
-    thumbnail: https://farm1.staticflickr.com/730/21279445114_433558ee0c_t.jpg
-  title: Fairy Tale
-  url: https://farm1.staticflickr.com/730/21279445114_433558ee0c.jpg
-- farm: 6
-  id: '21715316809'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21715316809/in/album-72157659331994936/
-  secret: f30d919f62
-  server: '5831'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5831/21715316809_f30d919f62_b.jpg
-    medium: https://farm6.staticflickr.com/5831/21715316809_f30d919f62_z.jpg
-    small: https://farm6.staticflickr.com/5831/21715316809_f30d919f62_m.jpg
-    square: https://farm6.staticflickr.com/5831/21715316809_f30d919f62_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5831/21715316809_f30d919f62_t.jpg
-  title: Fence Posts
-  url: https://farm6.staticflickr.com/5831/21715316809_f30d919f62.jpg
-- farm: 6
-  id: '21714130440'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21714130440/in/album-72157659331994936/
-  secret: 47c0e8240c
-  server: '5825'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5825/21714130440_47c0e8240c_b.jpg
-    medium: https://farm6.staticflickr.com/5825/21714130440_47c0e8240c_z.jpg
-    small: https://farm6.staticflickr.com/5825/21714130440_47c0e8240c_m.jpg
-    square: https://farm6.staticflickr.com/5825/21714130440_47c0e8240c_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5825/21714130440_47c0e8240c_t.jpg
-  title: 'Day 99: Sunflowerset'
-  url: https://farm6.staticflickr.com/5825/21714130440_47c0e8240c.jpg
-- farm: 6
-  id: '21279444614'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21279444614/in/album-72157659331994936/
-  secret: d1aca9b880
-  server: '5663'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5663/21279444614_d1aca9b880_b.jpg
-    medium: https://farm6.staticflickr.com/5663/21279444614_d1aca9b880_z.jpg
-    small: https://farm6.staticflickr.com/5663/21279444614_d1aca9b880_m.jpg
-    square: https://farm6.staticflickr.com/5663/21279444614_d1aca9b880_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5663/21279444614_d1aca9b880_t.jpg
-  title: Empty Sign
-  url: https://farm6.staticflickr.com/5663/21279444614_d1aca9b880.jpg
-- farm: 6
-  id: '21902193225'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21902193225/in/album-72157659331994936/
-  secret: 105f238d24
-  server: '5834'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5834/21902193225_105f238d24_b.jpg
-    medium: https://farm6.staticflickr.com/5834/21902193225_105f238d24_z.jpg
-    small: https://farm6.staticflickr.com/5834/21902193225_105f238d24_m.jpg
-    square: https://farm6.staticflickr.com/5834/21902193225_105f238d24_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5834/21902193225_105f238d24_t.jpg
-  title: Wall and Ivy
-  url: https://farm6.staticflickr.com/5834/21902193225_105f238d24.jpg
-- farm: 6
-  id: '21876043266'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21876043266/in/album-72157659331994936/
-  secret: a3f388058f
-  server: '5692'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5692/21876043266_a3f388058f_b.jpg
-    medium: https://farm6.staticflickr.com/5692/21876043266_a3f388058f_z.jpg
-    small: https://farm6.staticflickr.com/5692/21876043266_a3f388058f_m.jpg
-    square: https://farm6.staticflickr.com/5692/21876043266_a3f388058f_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5692/21876043266_a3f388058f_t.jpg
-  title: Flowers
-  url: https://farm6.staticflickr.com/5692/21876043266_a3f388058f.jpg
-- farm: 6
-  id: '21281070513'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21281070513/in/album-72157659331994936/
-  secret: a83bbbb421
-  server: '5787'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5787/21281070513_a83bbbb421_b.jpg
-    medium: https://farm6.staticflickr.com/5787/21281070513_a83bbbb421_z.jpg
-    small: https://farm6.staticflickr.com/5787/21281070513_a83bbbb421_m.jpg
-    square: https://farm6.staticflickr.com/5787/21281070513_a83bbbb421_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5787/21281070513_a83bbbb421_t.jpg
-  title: Drip
-  url: https://farm6.staticflickr.com/5787/21281070513_a83bbbb421.jpg
-- farm: 1
-  id: '21279443944'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21279443944/in/album-72157659331994936/
-  secret: afcc7c96ab
-  server: '780'
-  thumbnails:
-    large: https://farm1.staticflickr.com/780/21279443944_afcc7c96ab_b.jpg
-    medium: https://farm1.staticflickr.com/780/21279443944_afcc7c96ab_z.jpg
-    small: https://farm1.staticflickr.com/780/21279443944_afcc7c96ab_m.jpg
-    square: https://farm1.staticflickr.com/780/21279443944_afcc7c96ab_s.jpg
-    thumbnail: https://farm1.staticflickr.com/780/21279443944_afcc7c96ab_t.jpg
-  title: Textures
-  url: https://farm1.staticflickr.com/780/21279443944_afcc7c96ab.jpg
-- farm: 6
-  id: '21715315769'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21715315769/in/album-72157659331994936/
-  secret: e086034fd8
-  server: '5796'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5796/21715315769_e086034fd8_b.jpg
-    medium: https://farm6.staticflickr.com/5796/21715315769_e086034fd8_z.jpg
-    small: https://farm6.staticflickr.com/5796/21715315769_e086034fd8_m.jpg
-    square: https://farm6.staticflickr.com/5796/21715315769_e086034fd8_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5796/21715315769_e086034fd8_t.jpg
-  title: PINK
-  url: https://farm6.staticflickr.com/5796/21715315769_e086034fd8.jpg
+- '21279445114'
+- '21715316809'
+- '21714130440'
+- '21279444614'
+- '21902193225'
+- '21876043266'
+- '21281070513'
+- '21279443944'
+- '21715315769'
 primary: '21279445114'
 secret: 433558ee0c
 server: '730'
 title: Burlingame Gardens
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

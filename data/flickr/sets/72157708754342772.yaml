@@ -1,135 +1,27 @@
 can_comment: 0
 count_comments: '0'
-count_views: '0'
+count_photos: 7
+count_videos: 0
+count_views: '1'
 date_create: '1558811292'
 date_update: '1558814856'
 description: ''
 farm: 66
 id: '72157708754342772'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 66
-  id: '47930159083'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930159083/in/album-72157708754342772/
-  secret: d2cdb93d84
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930159083_d2cdb93d84_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930159083_d2cdb93d84_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930159083_d2cdb93d84_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930159083_d2cdb93d84_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930159083_d2cdb93d84_t.jpg
-  title: Bridge
-  url: https://farm66.staticflickr.com/65535/47930159083_d2cdb93d84.jpg
-- farm: 66
-  id: '47930176908'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930176908/in/album-72157708754342772/
-  secret: 883803175f
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930176908_883803175f_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930176908_883803175f_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930176908_883803175f_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930176908_883803175f_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930176908_883803175f_t.jpg
-  title: Rubber
-  url: https://farm66.staticflickr.com/65535/47930176908_883803175f.jpg
-- farm: 66
-  id: '47930177537'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930177537/in/album-72157708754342772/
-  secret: a5dacd12fe
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930177537_a5dacd12fe_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930177537_a5dacd12fe_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930177537_a5dacd12fe_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930177537_a5dacd12fe_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930177537_a5dacd12fe_t.jpg
-  title: Growth
-  url: https://farm66.staticflickr.com/65535/47930177537_a5dacd12fe.jpg
-- farm: 66
-  id: '47930182543'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930182543/in/album-72157708754342772/
-  secret: 827f54ef41
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930182543_827f54ef41_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930182543_827f54ef41_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930182543_827f54ef41_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930182543_827f54ef41_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930182543_827f54ef41_t.jpg
-  title: Debris
-  url: https://farm66.staticflickr.com/65535/47930182543_827f54ef41.jpg
-- farm: 66
-  id: '47930192001'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930192001/in/album-72157708754342772/
-  secret: 62f718e059
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930192001_62f718e059_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930192001_62f718e059_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930192001_62f718e059_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930192001_62f718e059_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930192001_62f718e059_t.jpg
-  title: May Apple
-  url: https://farm66.staticflickr.com/65535/47930192001_62f718e059.jpg
-- farm: 66
-  id: '47930195526'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930195526/in/album-72157708754342772/
-  secret: 0ec4c88e37
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930195526_0ec4c88e37_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930195526_0ec4c88e37_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930195526_0ec4c88e37_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930195526_0ec4c88e37_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930195526_0ec4c88e37_t.jpg
-  title: Spider
-  url: https://farm66.staticflickr.com/65535/47930195526_0ec4c88e37.jpg
-- farm: 66
-  id: '47930650463'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47930650463/in/album-72157708754342772/
-  secret: 523939f2c4
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47930650463_523939f2c4_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47930650463_523939f2c4_z.jpg
-    small: https://farm66.staticflickr.com/65535/47930650463_523939f2c4_m.jpg
-    square: https://farm66.staticflickr.com/65535/47930650463_523939f2c4_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47930650463_523939f2c4_t.jpg
-  title: Hiking
-  url: https://farm66.staticflickr.com/65535/47930650463_523939f2c4.jpg
+- '47930159083'
+- '47930176908'
+- '47930177537'
+- '47930182543'
+- '47930192001'
+- '47930195526'
+- '47930650463'
 primary: '47930159083'
 secret: d2cdb93d84
 server: '65535'
 title: Eagle Creek Reservoir
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

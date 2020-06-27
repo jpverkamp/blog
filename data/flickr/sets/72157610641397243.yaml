@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 4
+count_videos: 0
 count_views: '6'
 date_create: '1228364417'
 date_update: '1394944840'
@@ -7,78 +9,16 @@ description: A set of pictures from a family walk at Hemlock Cliffs in southern 
 farm: 4
 id: '72157610641397243'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3080909569'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080909569/in/album-72157610641397243/
-  secret: 8dbfd320ee
-  server: '3230'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3230/3080909569_8dbfd320ee_b.jpg
-    medium: https://farm4.staticflickr.com/3230/3080909569_8dbfd320ee_z.jpg
-    small: https://farm4.staticflickr.com/3230/3080909569_8dbfd320ee_m.jpg
-    square: https://farm4.staticflickr.com/3230/3080909569_8dbfd320ee_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3230/3080909569_8dbfd320ee_t.jpg
-  title: Moss
-  url: https://farm4.staticflickr.com/3230/3080909569_8dbfd320ee.jpg
-- farm: 4
-  id: '3080910931'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080910931/in/album-72157610641397243/
-  secret: 2288f132ef
-  server: '3145'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3145/3080910931_2288f132ef_b.jpg
-    medium: https://farm4.staticflickr.com/3145/3080910931_2288f132ef_z.jpg
-    small: https://farm4.staticflickr.com/3145/3080910931_2288f132ef_m.jpg
-    square: https://farm4.staticflickr.com/3145/3080910931_2288f132ef_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3145/3080910931_2288f132ef_t.jpg
-  title: Sunbeam
-  url: https://farm4.staticflickr.com/3145/3080910931_2288f132ef.jpg
-- farm: 4
-  id: '3081751162'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081751162/in/album-72157610641397243/
-  secret: 589e92d8aa
-  server: '3263'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3263/3081751162_589e92d8aa_b.jpg
-    medium: https://farm4.staticflickr.com/3263/3081751162_589e92d8aa_z.jpg
-    small: https://farm4.staticflickr.com/3263/3081751162_589e92d8aa_m.jpg
-    square: https://farm4.staticflickr.com/3263/3081751162_589e92d8aa_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3263/3081751162_589e92d8aa_t.jpg
-  title: Initials
-  url: https://farm4.staticflickr.com/3263/3081751162_589e92d8aa.jpg
-- farm: 4
-  id: '3081752322'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081752322/in/album-72157610641397243/
-  secret: 954dfb861f
-  server: '3121'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3121/3081752322_954dfb861f_b.jpg
-    medium: https://farm4.staticflickr.com/3121/3081752322_954dfb861f_z.jpg
-    small: https://farm4.staticflickr.com/3121/3081752322_954dfb861f_m.jpg
-    square: https://farm4.staticflickr.com/3121/3081752322_954dfb861f_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3121/3081752322_954dfb861f_t.jpg
-  title: Rock Wall
-  url: https://farm4.staticflickr.com/3121/3081752322_954dfb861f.jpg
+- '3080909569'
+- '3080910931'
+- '3081751162'
+- '3081752322'
 primary: '3080909569'
 secret: 8dbfd320ee
 server: '3230'
 title: Hemlock Cliffs
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

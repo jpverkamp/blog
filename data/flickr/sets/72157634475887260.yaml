@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 20
+count_videos: 0
 count_views: '7'
 date_create: '1372911200'
 date_update: '1446051077'
@@ -9,350 +11,32 @@ description: "In the space of 15 minutes we went from perfectly blue to torrenti
 farm: 8
 id: '72157634475887260'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 8
-  id: '7019988433'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019988433/in/album-72157634475887260/
-  secret: 0fe924394b
-  server: '7219'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7219/7019988433_0fe924394b_b.jpg
-    medium: https://farm8.staticflickr.com/7219/7019988433_0fe924394b_z.jpg
-    small: https://farm8.staticflickr.com/7219/7019988433_0fe924394b_m.jpg
-    square: https://farm8.staticflickr.com/7219/7019988433_0fe924394b_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7219/7019988433_0fe924394b_t.jpg
-  title: Sunset VII
-  url: https://farm8.staticflickr.com/7219/7019988433_0fe924394b.jpg
-- farm: 8
-  id: '6873885034'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873885034/in/album-72157634475887260/
-  secret: 43b2570bfa
-  server: '7083'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7083/6873885034_43b2570bfa_b.jpg
-    medium: https://farm8.staticflickr.com/7083/6873885034_43b2570bfa_z.jpg
-    small: https://farm8.staticflickr.com/7083/6873885034_43b2570bfa_m.jpg
-    square: https://farm8.staticflickr.com/7083/6873885034_43b2570bfa_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7083/6873885034_43b2570bfa_t.jpg
-  title: Sunset VI
-  url: https://farm8.staticflickr.com/7083/6873885034_43b2570bfa.jpg
-- farm: 8
-  id: '6873884332'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873884332/in/album-72157634475887260/
-  secret: 9ac4527946
-  server: '7091'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7091/6873884332_9ac4527946_b.jpg
-    medium: https://farm8.staticflickr.com/7091/6873884332_9ac4527946_z.jpg
-    small: https://farm8.staticflickr.com/7091/6873884332_9ac4527946_m.jpg
-    square: https://farm8.staticflickr.com/7091/6873884332_9ac4527946_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7091/6873884332_9ac4527946_t.jpg
-  title: Sunset V
-  url: https://farm8.staticflickr.com/7091/6873884332_9ac4527946.jpg
-- farm: 8
-  id: '7019986471'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019986471/in/album-72157634475887260/
-  secret: c70f4d8a25
-  server: '7276'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7276/7019986471_c70f4d8a25_b.jpg
-    medium: https://farm8.staticflickr.com/7276/7019986471_c70f4d8a25_z.jpg
-    small: https://farm8.staticflickr.com/7276/7019986471_c70f4d8a25_m.jpg
-    square: https://farm8.staticflickr.com/7276/7019986471_c70f4d8a25_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7276/7019986471_c70f4d8a25_t.jpg
-  title: Sunset IV
-  url: https://farm8.staticflickr.com/7276/7019986471_c70f4d8a25.jpg
-- farm: 8
-  id: '6873883248'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873883248/in/album-72157634475887260/
-  secret: eec9c1b37c
-  server: '7088'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7088/6873883248_eec9c1b37c_b.jpg
-    medium: https://farm8.staticflickr.com/7088/6873883248_eec9c1b37c_z.jpg
-    small: https://farm8.staticflickr.com/7088/6873883248_eec9c1b37c_m.jpg
-    square: https://farm8.staticflickr.com/7088/6873883248_eec9c1b37c_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7088/6873883248_eec9c1b37c_t.jpg
-  title: Sunset III
-  url: https://farm8.staticflickr.com/7088/6873883248_eec9c1b37c.jpg
-- farm: 8
-  id: '6873882742'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873882742/in/album-72157634475887260/
-  secret: 938b1d0d7c
-  server: '7087'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7087/6873882742_938b1d0d7c_b.jpg
-    medium: https://farm8.staticflickr.com/7087/6873882742_938b1d0d7c_z.jpg
-    small: https://farm8.staticflickr.com/7087/6873882742_938b1d0d7c_m.jpg
-    square: https://farm8.staticflickr.com/7087/6873882742_938b1d0d7c_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7087/6873882742_938b1d0d7c_t.jpg
-  title: Sunset II
-  url: https://farm8.staticflickr.com/7087/6873882742_938b1d0d7c.jpg
-- farm: 8
-  id: '7019984867'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019984867/in/album-72157634475887260/
-  secret: f189420ef7
-  server: '7265'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7265/7019984867_f189420ef7_b.jpg
-    medium: https://farm8.staticflickr.com/7265/7019984867_f189420ef7_z.jpg
-    small: https://farm8.staticflickr.com/7265/7019984867_f189420ef7_m.jpg
-    square: https://farm8.staticflickr.com/7265/7019984867_f189420ef7_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7265/7019984867_f189420ef7_t.jpg
-  title: Sunset I
-  url: https://farm8.staticflickr.com/7265/7019984867_f189420ef7.jpg
-- farm: 8
-  id: '7019984305'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019984305/in/album-72157634475887260/
-  secret: 4c19778018
-  server: '7129'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7129/7019984305_4c19778018_b.jpg
-    medium: https://farm8.staticflickr.com/7129/7019984305_4c19778018_z.jpg
-    small: https://farm8.staticflickr.com/7129/7019984305_4c19778018_m.jpg
-    square: https://farm8.staticflickr.com/7129/7019984305_4c19778018_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7129/7019984305_4c19778018_t.jpg
-  title: Red Van
-  url: https://farm8.staticflickr.com/7129/7019984305_4c19778018.jpg
-- farm: 8
-  id: '7019983565'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019983565/in/album-72157634475887260/
-  secret: bc0f7fac52
-  server: '7090'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7090/7019983565_bc0f7fac52_b.jpg
-    medium: https://farm8.staticflickr.com/7090/7019983565_bc0f7fac52_z.jpg
-    small: https://farm8.staticflickr.com/7090/7019983565_bc0f7fac52_m.jpg
-    square: https://farm8.staticflickr.com/7090/7019983565_bc0f7fac52_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7090/7019983565_bc0f7fac52_t.jpg
-  title: Splash
-  url: https://farm8.staticflickr.com/7090/7019983565_bc0f7fac52.jpg
-- farm: 8
-  id: '6873880050'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873880050/in/album-72157634475887260/
-  secret: a02c9574c5
-  server: '7203'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7203/6873880050_a02c9574c5_b.jpg
-    medium: https://farm8.staticflickr.com/7203/6873880050_a02c9574c5_z.jpg
-    small: https://farm8.staticflickr.com/7203/6873880050_a02c9574c5_m.jpg
-    square: https://farm8.staticflickr.com/7203/6873880050_a02c9574c5_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7203/6873880050_a02c9574c5_t.jpg
-  title: Return of the Sun
-  url: https://farm8.staticflickr.com/7203/6873880050_a02c9574c5.jpg
-- farm: 8
-  id: '7019982245'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019982245/in/album-72157634475887260/
-  secret: dd3661d1b9
-  server: '7229'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7229/7019982245_dd3661d1b9_b.jpg
-    medium: https://farm8.staticflickr.com/7229/7019982245_dd3661d1b9_z.jpg
-    small: https://farm8.staticflickr.com/7229/7019982245_dd3661d1b9_m.jpg
-    square: https://farm8.staticflickr.com/7229/7019982245_dd3661d1b9_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7229/7019982245_dd3661d1b9_t.jpg
-  title: In The Street
-  url: https://farm8.staticflickr.com/7229/7019982245_dd3661d1b9.jpg
-- farm: 8
-  id: '6873878074'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873878074/in/album-72157634475887260/
-  secret: 36425aa551
-  server: '7184'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7184/6873878074_36425aa551_b.jpg
-    medium: https://farm8.staticflickr.com/7184/6873878074_36425aa551_z.jpg
-    small: https://farm8.staticflickr.com/7184/6873878074_36425aa551_m.jpg
-    square: https://farm8.staticflickr.com/7184/6873878074_36425aa551_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7184/6873878074_36425aa551_t.jpg
-  title: Carnage of Spring
-  url: https://farm8.staticflickr.com/7184/6873878074_36425aa551.jpg
-- farm: 8
-  id: '6873877248'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873877248/in/album-72157634475887260/
-  secret: 760a2101db
-  server: '7070'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7070/6873877248_760a2101db_b.jpg
-    medium: https://farm8.staticflickr.com/7070/6873877248_760a2101db_z.jpg
-    small: https://farm8.staticflickr.com/7070/6873877248_760a2101db_m.jpg
-    square: https://farm8.staticflickr.com/7070/6873877248_760a2101db_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7070/6873877248_760a2101db_t.jpg
-  title: Rain
-  url: https://farm8.staticflickr.com/7070/6873877248_760a2101db.jpg
-- farm: 8
-  id: '7019979113'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019979113/in/album-72157634475887260/
-  secret: 0181f5dbde
-  server: '7127'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7127/7019979113_0181f5dbde_b.jpg
-    medium: https://farm8.staticflickr.com/7127/7019979113_0181f5dbde_z.jpg
-    small: https://farm8.staticflickr.com/7127/7019979113_0181f5dbde_m.jpg
-    square: https://farm8.staticflickr.com/7127/7019979113_0181f5dbde_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7127/7019979113_0181f5dbde_t.jpg
-  title: Waterfront Property
-  url: https://farm8.staticflickr.com/7127/7019979113_0181f5dbde.jpg
-- farm: 8
-  id: '7019978307'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019978307/in/album-72157634475887260/
-  secret: 25f071a373
-  server: '7055'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7055/7019978307_25f071a373_b.jpg
-    medium: https://farm8.staticflickr.com/7055/7019978307_25f071a373_z.jpg
-    small: https://farm8.staticflickr.com/7055/7019978307_25f071a373_m.jpg
-    square: https://farm8.staticflickr.com/7055/7019978307_25f071a373_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7055/7019978307_25f071a373_t.jpg
-  title: Preflood
-  url: https://farm8.staticflickr.com/7055/7019978307_25f071a373.jpg
-- farm: 8
-  id: '7019977643'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019977643/in/album-72157634475887260/
-  secret: 778d896e74
-  server: '7086'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7086/7019977643_778d896e74_b.jpg
-    medium: https://farm8.staticflickr.com/7086/7019977643_778d896e74_z.jpg
-    small: https://farm8.staticflickr.com/7086/7019977643_778d896e74_m.jpg
-    square: https://farm8.staticflickr.com/7086/7019977643_778d896e74_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7086/7019977643_778d896e74_t.jpg
-  title: Ice and Water
-  url: https://farm8.staticflickr.com/7086/7019977643_778d896e74.jpg
-- farm: 8
-  id: '6873874034'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6873874034/in/album-72157634475887260/
-  secret: 51f2c88b08
-  server: '7059'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7059/6873874034_51f2c88b08_b.jpg
-    medium: https://farm8.staticflickr.com/7059/6873874034_51f2c88b08_z.jpg
-    small: https://farm8.staticflickr.com/7059/6873874034_51f2c88b08_m.jpg
-    square: https://farm8.staticflickr.com/7059/6873874034_51f2c88b08_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7059/6873874034_51f2c88b08_t.jpg
-  title: Tiny Flood
-  url: https://farm8.staticflickr.com/7059/6873874034_51f2c88b08.jpg
-- farm: 8
-  id: '7019976061'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019976061/in/album-72157634475887260/
-  secret: 6f73bfc0fc
-  server: '7071'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7071/7019976061_6f73bfc0fc_b.jpg
-    medium: https://farm8.staticflickr.com/7071/7019976061_6f73bfc0fc_z.jpg
-    small: https://farm8.staticflickr.com/7071/7019976061_6f73bfc0fc_m.jpg
-    square: https://farm8.staticflickr.com/7071/7019976061_6f73bfc0fc_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7071/7019976061_6f73bfc0fc_t.jpg
-  title: Rainfall
-  url: https://farm8.staticflickr.com/7071/7019976061_6f73bfc0fc.jpg
-- farm: 8
-  id: '7019975161'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019975161/in/album-72157634475887260/
-  secret: 0612815df8
-  server: '7230'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7230/7019975161_0612815df8_b.jpg
-    medium: https://farm8.staticflickr.com/7230/7019975161_0612815df8_z.jpg
-    small: https://farm8.staticflickr.com/7230/7019975161_0612815df8_m.jpg
-    square: https://farm8.staticflickr.com/7230/7019975161_0612815df8_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7230/7019975161_0612815df8_t.jpg
-  title: Welcome to Hail
-  url: https://farm8.staticflickr.com/7230/7019975161_0612815df8.jpg
-- farm: 8
-  id: '7019974181'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7019974181/in/album-72157634475887260/
-  secret: bf826b8ba7
-  server: '7129'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7129/7019974181_bf826b8ba7_b.jpg
-    medium: https://farm8.staticflickr.com/7129/7019974181_bf826b8ba7_z.jpg
-    small: https://farm8.staticflickr.com/7129/7019974181_bf826b8ba7_m.jpg
-    square: https://farm8.staticflickr.com/7129/7019974181_bf826b8ba7_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7129/7019974181_bf826b8ba7_t.jpg
-  title: Hail Covering
-  url: https://farm8.staticflickr.com/7129/7019974181_bf826b8ba7.jpg
+- '7019988433'
+- '6873885034'
+- '6873884332'
+- '7019986471'
+- '6873883248'
+- '6873882742'
+- '7019984867'
+- '7019984305'
+- '7019983565'
+- '6873880050'
+- '7019982245'
+- '6873878074'
+- '6873877248'
+- '7019979113'
+- '7019978307'
+- '7019977643'
+- '6873874034'
+- '7019976061'
+- '7019975161'
+- '7019974181'
 primary: '7019988433'
 secret: 0fe924394b
 server: '7219'
 title: Hail Hail
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

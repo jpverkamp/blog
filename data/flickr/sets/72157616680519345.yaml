@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 7
+count_videos: 0
 count_views: '17'
 date_create: '1239743855'
 date_update: '1394944840'
@@ -8,129 +10,19 @@ description: A set of pictures taken in my grandparent's basement at the family 
 farm: 4
 id: '72157616680519345'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3442963340'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442963340/in/album-72157616680519345/
-  secret: c93230d6a5
-  server: '3574'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3574/3442963340_c93230d6a5_b.jpg
-    medium: https://farm4.staticflickr.com/3574/3442963340_c93230d6a5_z.jpg
-    small: https://farm4.staticflickr.com/3574/3442963340_c93230d6a5_m.jpg
-    square: https://farm4.staticflickr.com/3574/3442963340_c93230d6a5_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3574/3442963340_c93230d6a5_t.jpg
-  title: Golden Wire
-  url: https://farm4.staticflickr.com/3574/3442963340_c93230d6a5.jpg
-- farm: 4
-  id: '3442154453'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442154453/in/album-72157616680519345/
-  secret: 029189af8c
-  server: '3588'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3588/3442154453_029189af8c_b.jpg
-    medium: https://farm4.staticflickr.com/3588/3442154453_029189af8c_z.jpg
-    small: https://farm4.staticflickr.com/3588/3442154453_029189af8c_m.jpg
-    square: https://farm4.staticflickr.com/3588/3442154453_029189af8c_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3588/3442154453_029189af8c_t.jpg
-  title: Tools
-  url: https://farm4.staticflickr.com/3588/3442154453_029189af8c.jpg
-- farm: 4
-  id: '3442980720'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442980720/in/album-72157616680519345/
-  secret: 8c13abb765
-  server: '3381'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3381/3442980720_8c13abb765_b.jpg
-    medium: https://farm4.staticflickr.com/3381/3442980720_8c13abb765_z.jpg
-    small: https://farm4.staticflickr.com/3381/3442980720_8c13abb765_m.jpg
-    square: https://farm4.staticflickr.com/3381/3442980720_8c13abb765_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3381/3442980720_8c13abb765_t.jpg
-  title: Hyperspace Frog
-  url: https://farm4.staticflickr.com/3381/3442980720_8c13abb765.jpg
-- farm: 4
-  id: '3442171695'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442171695/in/album-72157616680519345/
-  secret: a05c41c30c
-  server: '3307'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3307/3442171695_a05c41c30c_b.jpg
-    medium: https://farm4.staticflickr.com/3307/3442171695_a05c41c30c_z.jpg
-    small: https://farm4.staticflickr.com/3307/3442171695_a05c41c30c_m.jpg
-    square: https://farm4.staticflickr.com/3307/3442171695_a05c41c30c_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3307/3442171695_a05c41c30c_t.jpg
-  title: Easter Time
-  url: https://farm4.staticflickr.com/3307/3442171695_a05c41c30c.jpg
-- farm: 4
-  id: '3442173831'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442173831/in/album-72157616680519345/
-  secret: b56caf6e81
-  server: '3555'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3555/3442173831_b56caf6e81_b.jpg
-    medium: https://farm4.staticflickr.com/3555/3442173831_b56caf6e81_z.jpg
-    small: https://farm4.staticflickr.com/3555/3442173831_b56caf6e81_m.jpg
-    square: https://farm4.staticflickr.com/3555/3442173831_b56caf6e81_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3555/3442173831_b56caf6e81_t.jpg
-  title: Darkened Lantern
-  url: https://farm4.staticflickr.com/3555/3442173831_b56caf6e81.jpg
-- farm: 4
-  id: '3442996200'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442996200/in/album-72157616680519345/
-  secret: a916d02918
-  server: '3607'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3607/3442996200_a916d02918_b.jpg
-    medium: https://farm4.staticflickr.com/3607/3442996200_a916d02918_z.jpg
-    small: https://farm4.staticflickr.com/3607/3442996200_a916d02918_m.jpg
-    square: https://farm4.staticflickr.com/3607/3442996200_a916d02918_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3607/3442996200_a916d02918_t.jpg
-  title: Joker
-  url: https://farm4.staticflickr.com/3607/3442996200_a916d02918.jpg
-- farm: 4
-  id: '3442999414'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3442999414/in/album-72157616680519345/
-  secret: bf6eacee42
-  server: '3397'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3397/3442999414_bf6eacee42_b.jpg
-    medium: https://farm4.staticflickr.com/3397/3442999414_bf6eacee42_z.jpg
-    small: https://farm4.staticflickr.com/3397/3442999414_bf6eacee42_m.jpg
-    square: https://farm4.staticflickr.com/3397/3442999414_bf6eacee42_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3397/3442999414_bf6eacee42_t.jpg
-  title: Source of Light
-  url: https://farm4.staticflickr.com/3397/3442999414_bf6eacee42.jpg
+- '3442963340'
+- '3442154453'
+- '3442980720'
+- '3442171695'
+- '3442173831'
+- '3442996200'
+- '3442999414'
 primary: '3442963340'
 secret: c93230d6a5
 server: '3574'
 title: Verkamp Easter 2009
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

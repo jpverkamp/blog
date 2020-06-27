@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 13
+count_videos: 0
 count_views: '2'
 date_create: '1558986177'
 date_update: '1558986630'
@@ -7,231 +9,25 @@ description: ''
 farm: 66
 id: '72157708789124256'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 66
-  id: '47945102568'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945102568/in/album-72157708789124256/
-  secret: 14d8a2ec55
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945102568_14d8a2ec55_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945102568_14d8a2ec55_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945102568_14d8a2ec55_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945102568_14d8a2ec55_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945102568_14d8a2ec55_t.jpg
-  title: Crack
-  url: https://farm66.staticflickr.com/65535/47945102568_14d8a2ec55.jpg
-- farm: 66
-  id: '47945102022'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945102022/in/album-72157708789124256/
-  secret: 28aae5323b
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945102022_28aae5323b_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945102022_28aae5323b_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945102022_28aae5323b_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945102022_28aae5323b_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945102022_28aae5323b_t.jpg
-  title: Bent
-  url: https://farm66.staticflickr.com/65535/47945102022_28aae5323b.jpg
-- farm: 66
-  id: '47945135341'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945135341/in/album-72157708789124256/
-  secret: a009831049
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945135341_a009831049_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945135341_a009831049_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945135341_a009831049_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945135341_a009831049_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945135341_a009831049_t.jpg
-  title: Berries to be
-  url: https://farm66.staticflickr.com/65535/47945135341_a009831049.jpg
-- farm: 66
-  id: '47945117053'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945117053/in/album-72157708789124256/
-  secret: b1d24b3369
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945117053_b1d24b3369_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945117053_b1d24b3369_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945117053_b1d24b3369_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945117053_b1d24b3369_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945117053_b1d24b3369_t.jpg
-  title: Curl
-  url: https://farm66.staticflickr.com/65535/47945117053_b1d24b3369.jpg
-- farm: 66
-  id: '47945120367'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945120367/in/album-72157708789124256/
-  secret: 47226958f3
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945120367_47226958f3_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945120367_47226958f3_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945120367_47226958f3_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945120367_47226958f3_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945120367_47226958f3_t.jpg
-  title: Exploring
-  url: https://farm66.staticflickr.com/65535/47945120367_47226958f3.jpg
-- farm: 66
-  id: '47945129818'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945129818/in/album-72157708789124256/
-  secret: 68b6b57a77
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945129818_68b6b57a77_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945129818_68b6b57a77_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945129818_68b6b57a77_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945129818_68b6b57a77_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945129818_68b6b57a77_t.jpg
-  title: Scroll
-  url: https://farm66.staticflickr.com/65535/47945129818_68b6b57a77.jpg
-- farm: 66
-  id: '47945133938'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945133938/in/album-72157708789124256/
-  secret: 2c0417eb28
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945133938_2c0417eb28_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945133938_2c0417eb28_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945133938_2c0417eb28_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945133938_2c0417eb28_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945133938_2c0417eb28_t.jpg
-  title: Big
-  url: https://farm66.staticflickr.com/65535/47945133938_2c0417eb28.jpg
-- farm: 66
-  id: '47945135633'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945135633/in/album-72157708789124256/
-  secret: be897e2663
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945135633_be897e2663_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945135633_be897e2663_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945135633_be897e2663_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945135633_be897e2663_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945135633_be897e2663_t.jpg
-  title: Bigger
-  url: https://farm66.staticflickr.com/65535/47945135633_be897e2663.jpg
-- farm: 66
-  id: '47945159386'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945159386/in/album-72157708789124256/
-  secret: 0fe5637954
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945159386_0fe5637954_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945159386_0fe5637954_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945159386_0fe5637954_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945159386_0fe5637954_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945159386_0fe5637954_t.jpg
-  title: Biggest
-  url: https://farm66.staticflickr.com/65535/47945159386_0fe5637954.jpg
-- farm: 66
-  id: '47945130742'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945130742/in/album-72157708789124256/
-  secret: a667fd9afb
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945130742_a667fd9afb_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945130742_a667fd9afb_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945130742_a667fd9afb_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945130742_a667fd9afb_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945130742_a667fd9afb_t.jpg
-  title: Leaves
-  url: https://farm66.staticflickr.com/65535/47945130742_a667fd9afb.jpg
-- farm: 66
-  id: '47945134587'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945134587/in/album-72157708789124256/
-  secret: bcacd26ac5
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945134587_bcacd26ac5_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945134587_bcacd26ac5_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945134587_bcacd26ac5_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945134587_bcacd26ac5_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945134587_bcacd26ac5_t.jpg
-  title: Bark
-  url: https://farm66.staticflickr.com/65535/47945134587_bcacd26ac5.jpg
-- farm: 66
-  id: '47945145998'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945145998/in/album-72157708789124256/
-  secret: b4c559b680
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945145998_b4c559b680_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945145998_b4c559b680_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945145998_b4c559b680_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945145998_b4c559b680_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945145998_b4c559b680_t.jpg
-  title: Wild Raspberries
-  url: https://farm66.staticflickr.com/65535/47945145998_b4c559b680.jpg
-- farm: 66
-  id: '47945185216'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/47945185216/in/album-72157708789124256/
-  secret: b74af33891
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/47945185216_b74af33891_b.jpg
-    medium: https://farm66.staticflickr.com/65535/47945185216_b74af33891_z.jpg
-    small: https://farm66.staticflickr.com/65535/47945185216_b74af33891_m.jpg
-    square: https://farm66.staticflickr.com/65535/47945185216_b74af33891_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/47945185216_b74af33891_t.jpg
-  title: Big, Bigger, Biggest
-  url: https://farm66.staticflickr.com/65535/47945185216_b74af33891.jpg
+- '47945102568'
+- '47945102022'
+- '47945135341'
+- '47945117053'
+- '47945120367'
+- '47945129818'
+- '47945133938'
+- '47945135633'
+- '47945159386'
+- '47945130742'
+- '47945134587'
+- '47945145998'
+- '47945185216'
 primary: '47945102568'
 secret: 14d8a2ec55
 server: '65535'
 title: Memorial Day at Eagle Creek
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

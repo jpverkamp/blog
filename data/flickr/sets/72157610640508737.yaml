@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 7
+count_videos: 0
 count_views: '7'
 date_create: '1228362697'
 date_update: '1461987346'
@@ -8,129 +10,19 @@ description: A set of random pictures, some from home, some at Louisville, and s
 farm: 4
 id: '72157610640508737'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3080853357'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080853357/in/album-72157610640508737/
-  secret: 9a310090c7
-  server: '3223'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3223/3080853357_9a310090c7_b.jpg
-    medium: https://farm4.staticflickr.com/3223/3080853357_9a310090c7_z.jpg
-    small: https://farm4.staticflickr.com/3223/3080853357_9a310090c7_m.jpg
-    square: https://farm4.staticflickr.com/3223/3080853357_9a310090c7_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3223/3080853357_9a310090c7_t.jpg
-  title: Jim Beam Wine
-  url: https://farm4.staticflickr.com/3223/3080853357_9a310090c7.jpg
-- farm: 4
-  id: '3081692152'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081692152/in/album-72157610640508737/
-  secret: f45445c341
-  server: '3113'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3113/3081692152_f45445c341_b.jpg
-    medium: https://farm4.staticflickr.com/3113/3081692152_f45445c341_z.jpg
-    small: https://farm4.staticflickr.com/3113/3081692152_f45445c341_m.jpg
-    square: https://farm4.staticflickr.com/3113/3081692152_f45445c341_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3113/3081692152_f45445c341_t.jpg
-  title: Blue Tower
-  url: https://farm4.staticflickr.com/3113/3081692152_f45445c341.jpg
-- farm: 4
-  id: '3080854627'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080854627/in/album-72157610640508737/
-  secret: 8335f9cdbf
-  server: '3050'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3050/3080854627_8335f9cdbf_b.jpg
-    medium: https://farm4.staticflickr.com/3050/3080854627_8335f9cdbf_z.jpg
-    small: https://farm4.staticflickr.com/3050/3080854627_8335f9cdbf_m.jpg
-    square: https://farm4.staticflickr.com/3050/3080854627_8335f9cdbf_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3050/3080854627_8335f9cdbf_t.jpg
-  title: Tower Reflection
-  url: https://farm4.staticflickr.com/3050/3080854627_8335f9cdbf.jpg
-- farm: 4
-  id: '3080855825'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080855825/in/album-72157610640508737/
-  secret: 8b6300b563
-  server: '3260'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3260/3080855825_8b6300b563_b.jpg
-    medium: https://farm4.staticflickr.com/3260/3080855825_8b6300b563_z.jpg
-    small: https://farm4.staticflickr.com/3260/3080855825_8b6300b563_m.jpg
-    square: https://farm4.staticflickr.com/3260/3080855825_8b6300b563_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3260/3080855825_8b6300b563_t.jpg
-  title: All That Glitters...
-  url: https://farm4.staticflickr.com/3260/3080855825_8b6300b563.jpg
-- farm: 4
-  id: '3080856495'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080856495/in/album-72157610640508737/
-  secret: 0e9ef14407
-  server: '3245'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3245/3080856495_0e9ef14407_b.jpg
-    medium: https://farm4.staticflickr.com/3245/3080856495_0e9ef14407_z.jpg
-    small: https://farm4.staticflickr.com/3245/3080856495_0e9ef14407_m.jpg
-    square: https://farm4.staticflickr.com/3245/3080856495_0e9ef14407_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3245/3080856495_0e9ef14407_t.jpg
-  title: '...Is Not Gold'
-  url: https://farm4.staticflickr.com/3245/3080856495_0e9ef14407.jpg
-- farm: 4
-  id: '3080857141'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080857141/in/album-72157610640508737/
-  secret: af614f49f8
-  server: '3289'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3289/3080857141_af614f49f8_b.jpg
-    medium: https://farm4.staticflickr.com/3289/3080857141_af614f49f8_z.jpg
-    small: https://farm4.staticflickr.com/3289/3080857141_af614f49f8_m.jpg
-    square: https://farm4.staticflickr.com/3289/3080857141_af614f49f8_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3289/3080857141_af614f49f8_t.jpg
-  title: The Beach
-  url: https://farm4.staticflickr.com/3289/3080857141_af614f49f8.jpg
-- farm: 4
-  id: '3081696308'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081696308/in/album-72157610640508737/
-  secret: 1c84e5a15a
-  server: '3257'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3257/3081696308_1c84e5a15a_b.jpg
-    medium: https://farm4.staticflickr.com/3257/3081696308_1c84e5a15a_z.jpg
-    small: https://farm4.staticflickr.com/3257/3081696308_1c84e5a15a_m.jpg
-    square: https://farm4.staticflickr.com/3257/3081696308_1c84e5a15a_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3257/3081696308_1c84e5a15a_t.jpg
-  title: Buried
-  url: https://farm4.staticflickr.com/3257/3081696308_1c84e5a15a.jpg
+- '3080853357'
+- '3081692152'
+- '3080854627'
+- '3080855825'
+- '3080856495'
+- '3080857141'
+- '3081696308'
 primary: '3080853357'
 secret: 9a310090c7
 server: '3223'
 title: Various
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

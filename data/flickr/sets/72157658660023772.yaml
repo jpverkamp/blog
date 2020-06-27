@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 8
+count_videos: 0
 count_views: '0'
 date_create: '1442373161'
 date_update: '1442373279'
@@ -7,146 +9,20 @@ description: I biked home a different route than normal and accidentally had an 
 farm: 1
 id: '72157658660023772'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 1
-  id: '21444267692'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21444267692/in/album-72157658660023772/
-  secret: 315d7d726f
-  server: '716'
-  thumbnails:
-    large: https://farm1.staticflickr.com/716/21444267692_315d7d726f_b.jpg
-    medium: https://farm1.staticflickr.com/716/21444267692_315d7d726f_z.jpg
-    small: https://farm1.staticflickr.com/716/21444267692_315d7d726f_m.jpg
-    square: https://farm1.staticflickr.com/716/21444267692_315d7d726f_s.jpg
-    thumbnail: https://farm1.staticflickr.com/716/21444267692_315d7d726f_t.jpg
-  title: Meeting the Bay
-  url: https://farm1.staticflickr.com/716/21444267692_315d7d726f.jpg
-- farm: 1
-  id: '21444269872'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21444269872/in/album-72157658660023772/
-  secret: e14155fe16
-  server: '611'
-  thumbnails:
-    large: https://farm1.staticflickr.com/611/21444269872_e14155fe16_b.jpg
-    medium: https://farm1.staticflickr.com/611/21444269872_e14155fe16_z.jpg
-    small: https://farm1.staticflickr.com/611/21444269872_e14155fe16_m.jpg
-    square: https://farm1.staticflickr.com/611/21444269872_e14155fe16_s.jpg
-    thumbnail: https://farm1.staticflickr.com/611/21444269872_e14155fe16_t.jpg
-  title: Power
-  url: https://farm1.staticflickr.com/611/21444269872_e14155fe16.jpg
-- farm: 1
-  id: '21444271772'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21444271772/in/album-72157658660023772/
-  secret: 5db876469a
-  server: '582'
-  thumbnails:
-    large: https://farm1.staticflickr.com/582/21444271772_5db876469a_b.jpg
-    medium: https://farm1.staticflickr.com/582/21444271772_5db876469a_z.jpg
-    small: https://farm1.staticflickr.com/582/21444271772_5db876469a_m.jpg
-    square: https://farm1.staticflickr.com/582/21444271772_5db876469a_s.jpg
-    thumbnail: https://farm1.staticflickr.com/582/21444271772_5db876469a_t.jpg
-  title: Clouds
-  url: https://farm1.staticflickr.com/582/21444271772_5db876469a.jpg
-- farm: 6
-  id: '21463781901'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21463781901/in/album-72157658660023772/
-  secret: 7acfa4ecc2
-  server: '5710'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5710/21463781901_7acfa4ecc2_b.jpg
-    medium: https://farm6.staticflickr.com/5710/21463781901_7acfa4ecc2_z.jpg
-    small: https://farm6.staticflickr.com/5710/21463781901_7acfa4ecc2_m.jpg
-    square: https://farm6.staticflickr.com/5710/21463781901_7acfa4ecc2_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5710/21463781901_7acfa4ecc2_t.jpg
-  title: Coyote Point
-  url: https://farm6.staticflickr.com/5710/21463781901_7acfa4ecc2.jpg
-- farm: 1
-  id: '21267403798'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21267403798/in/album-72157658660023772/
-  secret: 0f93bd17d3
-  server: '576'
-  thumbnails:
-    large: https://farm1.staticflickr.com/576/21267403798_0f93bd17d3_b.jpg
-    medium: https://farm1.staticflickr.com/576/21267403798_0f93bd17d3_z.jpg
-    small: https://farm1.staticflickr.com/576/21267403798_0f93bd17d3_m.jpg
-    square: https://farm1.staticflickr.com/576/21267403798_0f93bd17d3_s.jpg
-    thumbnail: https://farm1.staticflickr.com/576/21267403798_0f93bd17d3_t.jpg
-  title: 'Day 82: Accidental adventure'
-  url: https://farm1.staticflickr.com/576/21267403798_0f93bd17d3.jpg
-- farm: 1
-  id: '21463786361'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21463786361/in/album-72157658660023772/
-  secret: 9eef88d182
-  server: '668'
-  thumbnails:
-    large: https://farm1.staticflickr.com/668/21463786361_9eef88d182_b.jpg
-    medium: https://farm1.staticflickr.com/668/21463786361_9eef88d182_z.jpg
-    small: https://farm1.staticflickr.com/668/21463786361_9eef88d182_m.jpg
-    square: https://farm1.staticflickr.com/668/21463786361_9eef88d182_s.jpg
-    thumbnail: https://farm1.staticflickr.com/668/21463786361_9eef88d182_t.jpg
-  title: Rays
-  url: https://farm1.staticflickr.com/668/21463786361_9eef88d182.jpg
-- farm: 1
-  id: '21267407788'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21267407788/in/album-72157658660023772/
-  secret: 807fc32301
-  server: '725'
-  thumbnails:
-    large: https://farm1.staticflickr.com/725/21267407788_807fc32301_b.jpg
-    medium: https://farm1.staticflickr.com/725/21267407788_807fc32301_z.jpg
-    small: https://farm1.staticflickr.com/725/21267407788_807fc32301_m.jpg
-    square: https://farm1.staticflickr.com/725/21267407788_807fc32301_s.jpg
-    thumbnail: https://farm1.staticflickr.com/725/21267407788_807fc32301_t.jpg
-  title: Sunset Boulevard
-  url: https://farm1.staticflickr.com/725/21267407788_807fc32301.jpg
-- farm: 1
-  id: '21444282072'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/21444282072/in/album-72157658660023772/
-  secret: 51449290ac
-  server: '594'
-  thumbnails:
-    large: https://farm1.staticflickr.com/594/21444282072_51449290ac_b.jpg
-    medium: https://farm1.staticflickr.com/594/21444282072_51449290ac_z.jpg
-    small: https://farm1.staticflickr.com/594/21444282072_51449290ac_m.jpg
-    square: https://farm1.staticflickr.com/594/21444282072_51449290ac_s.jpg
-    thumbnail: https://farm1.staticflickr.com/594/21444282072_51449290ac_t.jpg
-  title: Replacement
-  url: https://farm1.staticflickr.com/594/21444282072_51449290ac.jpg
+- '21444267692'
+- '21444269872'
+- '21444271772'
+- '21463781901'
+- '21267403798'
+- '21463786361'
+- '21267407788'
+- '21444282072'
 primary: '21444267692'
 secret: 315d7d726f
 server: '716'
 title: Accidental Adventure
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 14
+count_videos: 0
 count_views: '5'
 date_create: '1228270176'
 date_update: '1394944840'
@@ -8,248 +10,26 @@ description: After my brother's piano competition at a church in Bloomington, IN
 farm: 4
 id: '72157610664902808'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3079005088'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079005088/in/album-72157610664902808/
-  secret: bff79d6275
-  server: '3241'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3241/3079005088_bff79d6275_b.jpg
-    medium: https://farm4.staticflickr.com/3241/3079005088_bff79d6275_z.jpg
-    small: https://farm4.staticflickr.com/3241/3079005088_bff79d6275_m.jpg
-    square: https://farm4.staticflickr.com/3241/3079005088_bff79d6275_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3241/3079005088_bff79d6275_t.jpg
-  title: Dewdrops I
-  url: https://farm4.staticflickr.com/3241/3079005088_bff79d6275.jpg
-- farm: 4
-  id: '3078174467'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078174467/in/album-72157610664902808/
-  secret: ba36514d8c
-  server: '3048'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3048/3078174467_ba36514d8c_b.jpg
-    medium: https://farm4.staticflickr.com/3048/3078174467_ba36514d8c_z.jpg
-    small: https://farm4.staticflickr.com/3048/3078174467_ba36514d8c_m.jpg
-    square: https://farm4.staticflickr.com/3048/3078174467_ba36514d8c_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3048/3078174467_ba36514d8c_t.jpg
-  title: Dewdrops II
-  url: https://farm4.staticflickr.com/3048/3078174467_ba36514d8c.jpg
-- farm: 4
-  id: '3079006732'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079006732/in/album-72157610664902808/
-  secret: d2b0c2a510
-  server: '3242'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3242/3079006732_d2b0c2a510_b.jpg
-    medium: https://farm4.staticflickr.com/3242/3079006732_d2b0c2a510_z.jpg
-    small: https://farm4.staticflickr.com/3242/3079006732_d2b0c2a510_m.jpg
-    square: https://farm4.staticflickr.com/3242/3079006732_d2b0c2a510_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3242/3079006732_d2b0c2a510_t.jpg
-  title: Thistle
-  url: https://farm4.staticflickr.com/3242/3079006732_d2b0c2a510.jpg
-- farm: 4
-  id: '3078177511'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078177511/in/album-72157610664902808/
-  secret: 5c77f1e22a
-  server: '3280'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3280/3078177511_5c77f1e22a_b.jpg
-    medium: https://farm4.staticflickr.com/3280/3078177511_5c77f1e22a_z.jpg
-    small: https://farm4.staticflickr.com/3280/3078177511_5c77f1e22a_m.jpg
-    square: https://farm4.staticflickr.com/3280/3078177511_5c77f1e22a_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3280/3078177511_5c77f1e22a_t.jpg
-  title: Dual Nature
-  url: https://farm4.staticflickr.com/3280/3078177511_5c77f1e22a.jpg
-- farm: 4
-  id: '3078180207'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078180207/in/album-72157610664902808/
-  secret: 662d67f52c
-  server: '3021'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3021/3078180207_662d67f52c_b.jpg
-    medium: https://farm4.staticflickr.com/3021/3078180207_662d67f52c_z.jpg
-    small: https://farm4.staticflickr.com/3021/3078180207_662d67f52c_m.jpg
-    square: https://farm4.staticflickr.com/3021/3078180207_662d67f52c_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3021/3078180207_662d67f52c_t.jpg
-  title: A Tiny Forest
-  url: https://farm4.staticflickr.com/3021/3078180207_662d67f52c.jpg
-- farm: 4
-  id: '3079013756'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079013756/in/album-72157610664902808/
-  secret: 05bc6bd802
-  server: '3137'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3137/3079013756_05bc6bd802_b.jpg
-    medium: https://farm4.staticflickr.com/3137/3079013756_05bc6bd802_z.jpg
-    small: https://farm4.staticflickr.com/3137/3079013756_05bc6bd802_m.jpg
-    square: https://farm4.staticflickr.com/3137/3079013756_05bc6bd802_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3137/3079013756_05bc6bd802_t.jpg
-  title: Dewdrops III
-  url: https://farm4.staticflickr.com/3137/3079013756_05bc6bd802.jpg
-- farm: 4
-  id: '3079014814'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079014814/in/album-72157610664902808/
-  secret: a54f779cf0
-  server: '3014'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3014/3079014814_a54f779cf0_b.jpg
-    medium: https://farm4.staticflickr.com/3014/3079014814_a54f779cf0_z.jpg
-    small: https://farm4.staticflickr.com/3014/3079014814_a54f779cf0_m.jpg
-    square: https://farm4.staticflickr.com/3014/3079014814_a54f779cf0_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3014/3079014814_a54f779cf0_t.jpg
-  title: Dewdrops IV
-  url: https://farm4.staticflickr.com/3014/3079014814_a54f779cf0.jpg
-- farm: 4
-  id: '3079015680'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079015680/in/album-72157610664902808/
-  secret: 21d6f4642c
-  server: '3135'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3135/3079015680_21d6f4642c_b.jpg
-    medium: https://farm4.staticflickr.com/3135/3079015680_21d6f4642c_z.jpg
-    small: https://farm4.staticflickr.com/3135/3079015680_21d6f4642c_m.jpg
-    square: https://farm4.staticflickr.com/3135/3079015680_21d6f4642c_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3135/3079015680_21d6f4642c_t.jpg
-  title: Dewdrops V
-  url: https://farm4.staticflickr.com/3135/3079015680_21d6f4642c.jpg
-- farm: 4
-  id: '3079015942'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079015942/in/album-72157610664902808/
-  secret: 7e60f7b985
-  server: '3154'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3154/3079015942_7e60f7b985_b.jpg
-    medium: https://farm4.staticflickr.com/3154/3079015942_7e60f7b985_z.jpg
-    small: https://farm4.staticflickr.com/3154/3079015942_7e60f7b985_m.jpg
-    square: https://farm4.staticflickr.com/3154/3079015942_7e60f7b985_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3154/3079015942_7e60f7b985_t.jpg
-  title: Tiny Snail
-  url: https://farm4.staticflickr.com/3154/3079015942_7e60f7b985.jpg
-- farm: 4
-  id: '3078184635'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078184635/in/album-72157610664902808/
-  secret: 1cbd52d3b5
-  server: '3228'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3228/3078184635_1cbd52d3b5_b.jpg
-    medium: https://farm4.staticflickr.com/3228/3078184635_1cbd52d3b5_z.jpg
-    small: https://farm4.staticflickr.com/3228/3078184635_1cbd52d3b5_m.jpg
-    square: https://farm4.staticflickr.com/3228/3078184635_1cbd52d3b5_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3228/3078184635_1cbd52d3b5_t.jpg
-  title: Bricks I
-  url: https://farm4.staticflickr.com/3228/3078184635_1cbd52d3b5.jpg
-- farm: 4
-  id: '3079017866'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079017866/in/album-72157610664902808/
-  secret: 5ddf88faca
-  server: '3218'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3218/3079017866_5ddf88faca_b.jpg
-    medium: https://farm4.staticflickr.com/3218/3079017866_5ddf88faca_z.jpg
-    small: https://farm4.staticflickr.com/3218/3079017866_5ddf88faca_m.jpg
-    square: https://farm4.staticflickr.com/3218/3079017866_5ddf88faca_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3218/3079017866_5ddf88faca_t.jpg
-  title: Bricks II
-  url: https://farm4.staticflickr.com/3218/3079017866_5ddf88faca.jpg
-- farm: 4
-  id: '3079018838'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079018838/in/album-72157610664902808/
-  secret: fef5a4c74b
-  server: '3189'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3189/3079018838_fef5a4c74b_b.jpg
-    medium: https://farm4.staticflickr.com/3189/3079018838_fef5a4c74b_z.jpg
-    small: https://farm4.staticflickr.com/3189/3079018838_fef5a4c74b_m.jpg
-    square: https://farm4.staticflickr.com/3189/3079018838_fef5a4c74b_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3189/3079018838_fef5a4c74b_t.jpg
-  title: Pipe Organ
-  url: https://farm4.staticflickr.com/3189/3079018838_fef5a4c74b.jpg
-- farm: 4
-  id: '3079019628'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079019628/in/album-72157610664902808/
-  secret: 96c8d28e81
-  server: '3271'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3271/3079019628_96c8d28e81_b.jpg
-    medium: https://farm4.staticflickr.com/3271/3079019628_96c8d28e81_z.jpg
-    small: https://farm4.staticflickr.com/3271/3079019628_96c8d28e81_m.jpg
-    square: https://farm4.staticflickr.com/3271/3079019628_96c8d28e81_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3271/3079019628_96c8d28e81_t.jpg
-  title: Abandoned Quarry
-  url: https://farm4.staticflickr.com/3271/3079019628_96c8d28e81.jpg
-- farm: 4
-  id: '3079020212'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079020212/in/album-72157610664902808/
-  secret: 8fb47a5326
-  server: '3006'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3006/3079020212_8fb47a5326_b.jpg
-    medium: https://farm4.staticflickr.com/3006/3079020212_8fb47a5326_z.jpg
-    small: https://farm4.staticflickr.com/3006/3079020212_8fb47a5326_m.jpg
-    square: https://farm4.staticflickr.com/3006/3079020212_8fb47a5326_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3006/3079020212_8fb47a5326_t.jpg
-  title: Quarry Reflection
-  url: https://farm4.staticflickr.com/3006/3079020212_8fb47a5326.jpg
+- '3079005088'
+- '3078174467'
+- '3079006732'
+- '3078177511'
+- '3078180207'
+- '3079013756'
+- '3079014814'
+- '3079015680'
+- '3079015942'
+- '3078184635'
+- '3079017866'
+- '3079018838'
+- '3079019628'
+- '3079020212'
 primary: '3079005088'
 secret: bff79d6275
 server: '3241'
 title: Bloomington
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

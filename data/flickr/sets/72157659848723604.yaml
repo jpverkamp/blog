@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 1
+count_videos: 0
 count_views: '0'
 date_create: '1449633553'
 date_update: '1449633555'
@@ -7,27 +9,13 @@ description: <a href="https://github.com/google/deepdream" rel="nofollow">github
 farm: 6
 id: '72157659848723604'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 6
-  id: '23622692955'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/23622692955/in/album-72157659848723604/
-  secret: 0a1b12d3da
-  server: '5646'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5646/23622692955_0a1b12d3da_b.jpg
-    medium: https://farm6.staticflickr.com/5646/23622692955_0a1b12d3da_z.jpg
-    small: https://farm6.staticflickr.com/5646/23622692955_0a1b12d3da_m.jpg
-    square: https://farm6.staticflickr.com/5646/23622692955_0a1b12d3da_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5646/23622692955_0a1b12d3da_t.jpg
-  title: 'Day 162: Deep Dream'
-  url: https://farm6.staticflickr.com/5646/23622692955_0a1b12d3da.jpg
+- '23622692955'
 primary: '23622692955'
 secret: 0a1b12d3da
 server: '5646'
 title: Deep Dreams
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

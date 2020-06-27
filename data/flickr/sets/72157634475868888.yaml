@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 22
+count_videos: 0
 count_views: '17'
 date_create: '1372911093'
 date_update: '1394944840'
@@ -8,384 +10,34 @@ description: A set of myself and Aurora. There aren't so terribly others many th
 farm: 9
 id: '72157634475868888'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 9
-  id: '7525399262'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525399262/in/album-72157634475868888/
-  secret: 47531814ba
-  server: '8023'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8023/7525399262_47531814ba_b.jpg
-    medium: https://farm9.staticflickr.com/8023/7525399262_47531814ba_z.jpg
-    small: https://farm9.staticflickr.com/8023/7525399262_47531814ba_m.jpg
-    square: https://farm9.staticflickr.com/8023/7525399262_47531814ba_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8023/7525399262_47531814ba_t.jpg
-  title: Patoka II
-  url: https://farm9.staticflickr.com/8023/7525399262_47531814ba.jpg
-- farm: 8
-  id: '7525398248'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525398248/in/album-72157634475868888/
-  secret: 317babfab2
-  server: '7258'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7258/7525398248_317babfab2_b.jpg
-    medium: https://farm8.staticflickr.com/7258/7525398248_317babfab2_z.jpg
-    small: https://farm8.staticflickr.com/7258/7525398248_317babfab2_m.jpg
-    square: https://farm8.staticflickr.com/7258/7525398248_317babfab2_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7258/7525398248_317babfab2_t.jpg
-  title: Kiss
-  url: https://farm8.staticflickr.com/7258/7525398248_317babfab2.jpg
-- farm: 8
-  id: '7525396970'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525396970/in/album-72157634475868888/
-  secret: a419ea7a4a
-  server: '7270'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7270/7525396970_a419ea7a4a_b.jpg
-    medium: https://farm8.staticflickr.com/7270/7525396970_a419ea7a4a_z.jpg
-    small: https://farm8.staticflickr.com/7270/7525396970_a419ea7a4a_m.jpg
-    square: https://farm8.staticflickr.com/7270/7525396970_a419ea7a4a_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7270/7525396970_a419ea7a4a_t.jpg
-  title: Slide
-  url: https://farm8.staticflickr.com/7270/7525396970_a419ea7a4a.jpg
-- farm: 8
-  id: '7525395892'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525395892/in/album-72157634475868888/
-  secret: 0403d4c5f0
-  server: '7115'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7115/7525395892_0403d4c5f0_b.jpg
-    medium: https://farm8.staticflickr.com/7115/7525395892_0403d4c5f0_z.jpg
-    small: https://farm8.staticflickr.com/7115/7525395892_0403d4c5f0_m.jpg
-    square: https://farm8.staticflickr.com/7115/7525395892_0403d4c5f0_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7115/7525395892_0403d4c5f0_t.jpg
-  title: Couple
-  url: https://farm8.staticflickr.com/7115/7525395892_0403d4c5f0.jpg
-- farm: 9
-  id: '7525394140'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525394140/in/album-72157634475868888/
-  secret: 1241e599a4
-  server: '8011'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8011/7525394140_1241e599a4_b.jpg
-    medium: https://farm9.staticflickr.com/8011/7525394140_1241e599a4_z.jpg
-    small: https://farm9.staticflickr.com/8011/7525394140_1241e599a4_m.jpg
-    square: https://farm9.staticflickr.com/8011/7525394140_1241e599a4_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8011/7525394140_1241e599a4_t.jpg
-  title: Chess
-  url: https://farm9.staticflickr.com/8011/7525394140_1241e599a4.jpg
-- farm: 9
-  id: '7525392104'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525392104/in/album-72157634475868888/
-  secret: c603dbc1ff
-  server: '8428'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8428/7525392104_c603dbc1ff_b.jpg
-    medium: https://farm9.staticflickr.com/8428/7525392104_c603dbc1ff_z.jpg
-    small: https://farm9.staticflickr.com/8428/7525392104_c603dbc1ff_m.jpg
-    square: https://farm9.staticflickr.com/8428/7525392104_c603dbc1ff_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8428/7525392104_c603dbc1ff_t.jpg
-  title: Patoka
-  url: https://farm9.staticflickr.com/8428/7525392104_c603dbc1ff.jpg
-- farm: 9
-  id: '7525390890'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525390890/in/album-72157634475868888/
-  secret: 4c20a43571
-  server: '8142'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8142/7525390890_4c20a43571_b.jpg
-    medium: https://farm9.staticflickr.com/8142/7525390890_4c20a43571_z.jpg
-    small: https://farm9.staticflickr.com/8142/7525390890_4c20a43571_m.jpg
-    square: https://farm9.staticflickr.com/8142/7525390890_4c20a43571_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8142/7525390890_4c20a43571_t.jpg
-  title: Into the woods
-  url: https://farm9.staticflickr.com/8142/7525390890_4c20a43571.jpg
-- farm: 9
-  id: '7525389534'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525389534/in/album-72157634475868888/
-  secret: ac250103ed
-  server: '8143'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8143/7525389534_ac250103ed_b.jpg
-    medium: https://farm9.staticflickr.com/8143/7525389534_ac250103ed_z.jpg
-    small: https://farm9.staticflickr.com/8143/7525389534_ac250103ed_m.jpg
-    square: https://farm9.staticflickr.com/8143/7525389534_ac250103ed_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8143/7525389534_ac250103ed_t.jpg
-  title: Pink
-  url: https://farm9.staticflickr.com/8143/7525389534_ac250103ed.jpg
-- farm: 9
-  id: '7525388044'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525388044/in/album-72157634475868888/
-  secret: ca7c63296b
-  server: '8164'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8164/7525388044_ca7c63296b_b.jpg
-    medium: https://farm9.staticflickr.com/8164/7525388044_ca7c63296b_z.jpg
-    small: https://farm9.staticflickr.com/8164/7525388044_ca7c63296b_m.jpg
-    square: https://farm9.staticflickr.com/8164/7525388044_ca7c63296b_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8164/7525388044_ca7c63296b_t.jpg
-  title: Christmastime
-  url: https://farm9.staticflickr.com/8164/7525388044_ca7c63296b.jpg
-- farm: 8
-  id: '7525387336'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525387336/in/album-72157634475868888/
-  secret: fd4b29e7c8
-  server: '7112'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7112/7525387336_fd4b29e7c8_b.jpg
-    medium: https://farm8.staticflickr.com/7112/7525387336_fd4b29e7c8_z.jpg
-    small: https://farm8.staticflickr.com/7112/7525387336_fd4b29e7c8_m.jpg
-    square: https://farm8.staticflickr.com/7112/7525387336_fd4b29e7c8_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7112/7525387336_fd4b29e7c8_t.jpg
-  title: Ring
-  url: https://farm8.staticflickr.com/7112/7525387336_fd4b29e7c8.jpg
-- farm: 8
-  id: '7525386722'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525386722/in/album-72157634475868888/
-  secret: 947370b7d7
-  server: '7128'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7128/7525386722_947370b7d7_b.jpg
-    medium: https://farm8.staticflickr.com/7128/7525386722_947370b7d7_z.jpg
-    small: https://farm8.staticflickr.com/7128/7525386722_947370b7d7_m.jpg
-    square: https://farm8.staticflickr.com/7128/7525386722_947370b7d7_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7128/7525386722_947370b7d7_t.jpg
-  title: Bigger Beard
-  url: https://farm8.staticflickr.com/7128/7525386722_947370b7d7.jpg
-- farm: 9
-  id: '7525385676'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525385676/in/album-72157634475868888/
-  secret: b9e65ed626
-  server: '8155'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8155/7525385676_b9e65ed626_b.jpg
-    medium: https://farm9.staticflickr.com/8155/7525385676_b9e65ed626_z.jpg
-    small: https://farm9.staticflickr.com/8155/7525385676_b9e65ed626_m.jpg
-    square: https://farm9.staticflickr.com/8155/7525385676_b9e65ed626_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8155/7525385676_b9e65ed626_t.jpg
-  title: California
-  url: https://farm9.staticflickr.com/8155/7525385676_b9e65ed626.jpg
-- farm: 8
-  id: '7525384836'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525384836/in/album-72157634475868888/
-  secret: ba4c9415ff
-  server: '7125'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7125/7525384836_ba4c9415ff_b.jpg
-    medium: https://farm8.staticflickr.com/7125/7525384836_ba4c9415ff_z.jpg
-    small: https://farm8.staticflickr.com/7125/7525384836_ba4c9415ff_m.jpg
-    square: https://farm8.staticflickr.com/7125/7525384836_ba4c9415ff_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7125/7525384836_ba4c9415ff_t.jpg
-  title: Feet
-  url: https://farm8.staticflickr.com/7125/7525384836_ba4c9415ff.jpg
-- farm: 9
-  id: '7525382844'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525382844/in/album-72157634475868888/
-  secret: e0c9ee3700
-  server: '8026'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8026/7525382844_e0c9ee3700_b.jpg
-    medium: https://farm9.staticflickr.com/8026/7525382844_e0c9ee3700_z.jpg
-    small: https://farm9.staticflickr.com/8026/7525382844_e0c9ee3700_m.jpg
-    square: https://farm9.staticflickr.com/8026/7525382844_e0c9ee3700_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8026/7525382844_e0c9ee3700_t.jpg
-  title: Smile!
-  url: https://farm9.staticflickr.com/8026/7525382844_e0c9ee3700.jpg
-- farm: 8
-  id: '7525381626'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525381626/in/album-72157634475868888/
-  secret: 418c526d9a
-  server: '7280'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7280/7525381626_418c526d9a_b.jpg
-    medium: https://farm8.staticflickr.com/7280/7525381626_418c526d9a_z.jpg
-    small: https://farm8.staticflickr.com/7280/7525381626_418c526d9a_m.jpg
-    square: https://farm8.staticflickr.com/7280/7525381626_418c526d9a_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7280/7525381626_418c526d9a_t.jpg
-  title: Us
-  url: https://farm8.staticflickr.com/7280/7525381626_418c526d9a.jpg
-- farm: 8
-  id: '7525379950'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525379950/in/album-72157634475868888/
-  secret: f432195be1
-  server: '7128'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7128/7525379950_f432195be1_b.jpg
-    medium: https://farm8.staticflickr.com/7128/7525379950_f432195be1_z.jpg
-    small: https://farm8.staticflickr.com/7128/7525379950_f432195be1_m.jpg
-    square: https://farm8.staticflickr.com/7128/7525379950_f432195be1_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7128/7525379950_f432195be1_t.jpg
-  title: Us
-  url: https://farm8.staticflickr.com/7128/7525379950_f432195be1.jpg
-- farm: 8
-  id: '7525379064'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525379064/in/album-72157634475868888/
-  secret: d609098da9
-  server: '7110'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7110/7525379064_d609098da9_b.jpg
-    medium: https://farm8.staticflickr.com/7110/7525379064_d609098da9_z.jpg
-    small: https://farm8.staticflickr.com/7110/7525379064_d609098da9_m.jpg
-    square: https://farm8.staticflickr.com/7110/7525379064_d609098da9_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7110/7525379064_d609098da9_t.jpg
-  title: Hiya Elvis
-  url: https://farm8.staticflickr.com/7110/7525379064_d609098da9.jpg
-- farm: 9
-  id: '7525377694'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525377694/in/album-72157634475868888/
-  secret: 61abee60fe
-  server: '8162'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8162/7525377694_61abee60fe_b.jpg
-    medium: https://farm9.staticflickr.com/8162/7525377694_61abee60fe_z.jpg
-    small: https://farm9.staticflickr.com/8162/7525377694_61abee60fe_m.jpg
-    square: https://farm9.staticflickr.com/8162/7525377694_61abee60fe_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8162/7525377694_61abee60fe_t.jpg
-  title: Frisbee Golf
-  url: https://farm9.staticflickr.com/8162/7525377694_61abee60fe.jpg
-- farm: 9
-  id: '7525375884'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525375884/in/album-72157634475868888/
-  secret: 0c585dbffb
-  server: '8002'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8002/7525375884_0c585dbffb_b.jpg
-    medium: https://farm9.staticflickr.com/8002/7525375884_0c585dbffb_z.jpg
-    small: https://farm9.staticflickr.com/8002/7525375884_0c585dbffb_m.jpg
-    square: https://farm9.staticflickr.com/8002/7525375884_0c585dbffb_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8002/7525375884_0c585dbffb_t.jpg
-  title: Graduation
-  url: https://farm9.staticflickr.com/8002/7525375884_0c585dbffb.jpg
-- farm: 9
-  id: '7525374724'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525374724/in/album-72157634475868888/
-  secret: c54d8f9b1f
-  server: '8005'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8005/7525374724_c54d8f9b1f_b.jpg
-    medium: https://farm9.staticflickr.com/8005/7525374724_c54d8f9b1f_z.jpg
-    small: https://farm9.staticflickr.com/8005/7525374724_c54d8f9b1f_m.jpg
-    square: https://farm9.staticflickr.com/8005/7525374724_c54d8f9b1f_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8005/7525374724_c54d8f9b1f_t.jpg
-  title: Halloween
-  url: https://farm9.staticflickr.com/8005/7525374724_c54d8f9b1f.jpg
-- farm: 8
-  id: '7525374172'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525374172/in/album-72157634475868888/
-  secret: cd773aee40
-  server: '7271'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7271/7525374172_cd773aee40_b.jpg
-    medium: https://farm8.staticflickr.com/7271/7525374172_cd773aee40_z.jpg
-    small: https://farm8.staticflickr.com/7271/7525374172_cd773aee40_m.jpg
-    square: https://farm8.staticflickr.com/7271/7525374172_cd773aee40_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7271/7525374172_cd773aee40_t.jpg
-  title: Green and pink
-  url: https://farm8.staticflickr.com/7271/7525374172_cd773aee40.jpg
-- farm: 8
-  id: '7525373520'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/7525373520/in/album-72157634475868888/
-  secret: 103d1350e4
-  server: '7140'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7140/7525373520_103d1350e4_b.jpg
-    medium: https://farm8.staticflickr.com/7140/7525373520_103d1350e4_z.jpg
-    small: https://farm8.staticflickr.com/7140/7525373520_103d1350e4_m.jpg
-    square: https://farm8.staticflickr.com/7140/7525373520_103d1350e4_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7140/7525373520_103d1350e4_t.jpg
-  title: Snowman
-  url: https://farm8.staticflickr.com/7140/7525373520_103d1350e4.jpg
+- '7525399262'
+- '7525398248'
+- '7525396970'
+- '7525395892'
+- '7525394140'
+- '7525392104'
+- '7525390890'
+- '7525389534'
+- '7525388044'
+- '7525387336'
+- '7525386722'
+- '7525385676'
+- '7525384836'
+- '7525382844'
+- '7525381626'
+- '7525379950'
+- '7525379064'
+- '7525377694'
+- '7525375884'
+- '7525374724'
+- '7525374172'
+- '7525373520'
 primary: '7525399262'
 secret: 47531814ba
 server: '8023'
 title: Us
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

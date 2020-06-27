@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 3
+count_videos: 0
 count_views: '6'
 date_create: '1228364697'
 date_update: '1394944840'
@@ -8,61 +10,15 @@ description: Three shots from inside the dome at West Baden.  It's been decorate
 farm: 4
 id: '72157610641581883'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3080918557'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080918557/in/album-72157610641581883/
-  secret: e4d6262b9e
-  server: '3225'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3225/3080918557_e4d6262b9e_b.jpg
-    medium: https://farm4.staticflickr.com/3225/3080918557_e4d6262b9e_z.jpg
-    small: https://farm4.staticflickr.com/3225/3080918557_e4d6262b9e_m.jpg
-    square: https://farm4.staticflickr.com/3225/3080918557_e4d6262b9e_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3225/3080918557_e4d6262b9e_t.jpg
-  title: Christmas in the Dome
-  url: https://farm4.staticflickr.com/3225/3080918557_e4d6262b9e.jpg
-- farm: 4
-  id: '3080919687'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080919687/in/album-72157610641581883/
-  secret: ff86b78b8b
-  server: '3167'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3167/3080919687_ff86b78b8b_b.jpg
-    medium: https://farm4.staticflickr.com/3167/3080919687_ff86b78b8b_z.jpg
-    small: https://farm4.staticflickr.com/3167/3080919687_ff86b78b8b_m.jpg
-    square: https://farm4.staticflickr.com/3167/3080919687_ff86b78b8b_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3167/3080919687_ff86b78b8b_t.jpg
-  title: The Dome
-  url: https://farm4.staticflickr.com/3167/3080919687_ff86b78b8b.jpg
-- farm: 4
-  id: '3081759908'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081759908/in/album-72157610641581883/
-  secret: e0c7e807ac
-  server: '3157'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3157/3081759908_e0c7e807ac_b.jpg
-    medium: https://farm4.staticflickr.com/3157/3081759908_e0c7e807ac_z.jpg
-    small: https://farm4.staticflickr.com/3157/3081759908_e0c7e807ac_m.jpg
-    square: https://farm4.staticflickr.com/3157/3081759908_e0c7e807ac_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3157/3081759908_e0c7e807ac_t.jpg
-  title: Antique Walls
-  url: https://farm4.staticflickr.com/3157/3081759908_e0c7e807ac.jpg
+- '3080918557'
+- '3080919687'
+- '3081759908'
 primary: '3080918557'
 secret: e4d6262b9e
 server: '3225'
 title: West Baden
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

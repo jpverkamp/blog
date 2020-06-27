@@ -1,6 +1,8 @@
 can_comment: 0
 count_comments: '0'
-count_views: '1'
+count_photos: 6
+count_videos: 0
+count_views: '2'
 date_create: '1228267863'
 date_update: '1394944840'
 description: Some of the earliest pictures in my most recent collection.  Includes
@@ -8,112 +10,18 @@ description: Some of the earliest pictures in my most recent collection.  Includ
 farm: 4
 id: '72157610596880547'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3078094381'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078094381/in/album-72157610596880547/
-  secret: c13c5c8a14
-  server: '3141'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3141/3078094381_c13c5c8a14_b.jpg
-    medium: https://farm4.staticflickr.com/3141/3078094381_c13c5c8a14_z.jpg
-    small: https://farm4.staticflickr.com/3141/3078094381_c13c5c8a14_m.jpg
-    square: https://farm4.staticflickr.com/3141/3078094381_c13c5c8a14_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3141/3078094381_c13c5c8a14_t.jpg
-  title: Bricks (B&W)
-  url: https://farm4.staticflickr.com/3141/3078094381_c13c5c8a14.jpg
-- farm: 4
-  id: '3078096267'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078096267/in/album-72157610596880547/
-  secret: a7c2f57902
-  server: '3073'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3073/3078096267_a7c2f57902_b.jpg
-    medium: https://farm4.staticflickr.com/3073/3078096267_a7c2f57902_z.jpg
-    small: https://farm4.staticflickr.com/3073/3078096267_a7c2f57902_m.jpg
-    square: https://farm4.staticflickr.com/3073/3078096267_a7c2f57902_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3073/3078096267_a7c2f57902_t.jpg
-  title: Bricks (Color)
-  url: https://farm4.staticflickr.com/3073/3078096267_a7c2f57902.jpg
-- farm: 4
-  id: '3078930000'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078930000/in/album-72157610596880547/
-  secret: cafc91b8bf
-  server: '3168'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3168/3078930000_cafc91b8bf_b.jpg
-    medium: https://farm4.staticflickr.com/3168/3078930000_cafc91b8bf_z.jpg
-    small: https://farm4.staticflickr.com/3168/3078930000_cafc91b8bf_m.jpg
-    square: https://farm4.staticflickr.com/3168/3078930000_cafc91b8bf_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3168/3078930000_cafc91b8bf_t.jpg
-  title: Sunbeams (Color)
-  url: https://farm4.staticflickr.com/3168/3078930000_cafc91b8bf.jpg
-- farm: 4
-  id: '3078931118'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078931118/in/album-72157610596880547/
-  secret: 8b88b15a85
-  server: '3064'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3064/3078931118_8b88b15a85_b.jpg
-    medium: https://farm4.staticflickr.com/3064/3078931118_8b88b15a85_z.jpg
-    small: https://farm4.staticflickr.com/3064/3078931118_8b88b15a85_m.jpg
-    square: https://farm4.staticflickr.com/3064/3078931118_8b88b15a85_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3064/3078931118_8b88b15a85_t.jpg
-  title: Sunbeams (B&W)
-  url: https://farm4.staticflickr.com/3064/3078931118_8b88b15a85.jpg
-- farm: 4
-  id: '3078099919'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078099919/in/album-72157610596880547/
-  secret: acd846569c
-  server: '3230'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3230/3078099919_acd846569c_b.jpg
-    medium: https://farm4.staticflickr.com/3230/3078099919_acd846569c_z.jpg
-    small: https://farm4.staticflickr.com/3230/3078099919_acd846569c_m.jpg
-    square: https://farm4.staticflickr.com/3230/3078099919_acd846569c_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3230/3078099919_acd846569c_t.jpg
-  title: Sunbeams (Blue)
-  url: https://farm4.staticflickr.com/3230/3078099919_acd846569c.jpg
-- farm: 4
-  id: '3078101339'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078101339/in/album-72157610596880547/
-  secret: 15f5b97f11
-  server: '3149'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3149/3078101339_15f5b97f11_b.jpg
-    medium: https://farm4.staticflickr.com/3149/3078101339_15f5b97f11_z.jpg
-    small: https://farm4.staticflickr.com/3149/3078101339_15f5b97f11_m.jpg
-    square: https://farm4.staticflickr.com/3149/3078101339_15f5b97f11_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3149/3078101339_15f5b97f11_t.jpg
-  title: Broken
-  url: https://farm4.staticflickr.com/3149/3078101339_15f5b97f11.jpg
+- '3078094381'
+- '3078096267'
+- '3078930000'
+- '3078931118'
+- '3078099919'
+- '3078101339'
 primary: '3078094381'
 secret: c13c5c8a14
 server: '3141'
 title: Early Pictures
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 15
+count_videos: 0
 count_views: '9'
 date_create: '1313862443'
 date_update: '1394944840'
@@ -11,265 +13,27 @@ description: "Several photosets from our family vacation on the west coast. We s
 farm: 7
 id: '72157627353236063'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 7
-  id: '6062785650'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062785650/in/album-72157627353236063/
-  secret: 1236bf43ae
-  server: '6071'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6071/6062785650_1236bf43ae_b.jpg
-    medium: https://farm7.staticflickr.com/6071/6062785650_1236bf43ae_z.jpg
-    small: https://farm7.staticflickr.com/6071/6062785650_1236bf43ae_m.jpg
-    square: https://farm7.staticflickr.com/6071/6062785650_1236bf43ae_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6071/6062785650_1236bf43ae_t.jpg
-  title: Up
-  url: https://farm7.staticflickr.com/6071/6062785650_1236bf43ae.jpg
-- farm: 7
-  id: '6062786742'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062786742/in/album-72157627353236063/
-  secret: f878c35d8b
-  server: '6206'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6206/6062786742_f878c35d8b_b.jpg
-    medium: https://farm7.staticflickr.com/6206/6062786742_f878c35d8b_z.jpg
-    small: https://farm7.staticflickr.com/6206/6062786742_f878c35d8b_m.jpg
-    square: https://farm7.staticflickr.com/6206/6062786742_f878c35d8b_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6206/6062786742_f878c35d8b_t.jpg
-  title: Chandelier Tree I
-  url: https://farm7.staticflickr.com/6206/6062786742_f878c35d8b.jpg
-- farm: 7
-  id: '6062788366'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062788366/in/album-72157627353236063/
-  secret: 8ea7bd3e6f
-  server: '6205'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6205/6062788366_8ea7bd3e6f_b.jpg
-    medium: https://farm7.staticflickr.com/6205/6062788366_8ea7bd3e6f_z.jpg
-    small: https://farm7.staticflickr.com/6205/6062788366_8ea7bd3e6f_m.jpg
-    square: https://farm7.staticflickr.com/6205/6062788366_8ea7bd3e6f_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6205/6062788366_8ea7bd3e6f_t.jpg
-  title: Chandelier Tree II
-  url: https://farm7.staticflickr.com/6205/6062788366_8ea7bd3e6f.jpg
-- farm: 7
-  id: '6062241679'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062241679/in/album-72157627353236063/
-  secret: 78272651de
-  server: '6183'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6183/6062241679_78272651de_b.jpg
-    medium: https://farm7.staticflickr.com/6183/6062241679_78272651de_z.jpg
-    small: https://farm7.staticflickr.com/6183/6062241679_78272651de_m.jpg
-    square: https://farm7.staticflickr.com/6183/6062241679_78272651de_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6183/6062241679_78272651de_t.jpg
-  title: Redwood
-  url: https://farm7.staticflickr.com/6183/6062241679_78272651de.jpg
-- farm: 7
-  id: '6062242995'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062242995/in/album-72157627353236063/
-  secret: d850f34840
-  server: '6196'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6196/6062242995_d850f34840_b.jpg
-    medium: https://farm7.staticflickr.com/6196/6062242995_d850f34840_z.jpg
-    small: https://farm7.staticflickr.com/6196/6062242995_d850f34840_m.jpg
-    square: https://farm7.staticflickr.com/6196/6062242995_d850f34840_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6196/6062242995_d850f34840_t.jpg
-  title: '"Small" Redwood'
-  url: https://farm7.staticflickr.com/6196/6062242995_d850f34840.jpg
-- farm: 7
-  id: '6062792336'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062792336/in/album-72157627353236063/
-  secret: b32f9a6ece
-  server: '6065'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6065/6062792336_b32f9a6ece_b.jpg
-    medium: https://farm7.staticflickr.com/6065/6062792336_b32f9a6ece_z.jpg
-    small: https://farm7.staticflickr.com/6065/6062792336_b32f9a6ece_m.jpg
-    square: https://farm7.staticflickr.com/6065/6062792336_b32f9a6ece_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6065/6062792336_b32f9a6ece_t.jpg
-  title: Chandelier Tree III
-  url: https://farm7.staticflickr.com/6065/6062792336_b32f9a6ece.jpg
-- farm: 7
-  id: '6062793456'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062793456/in/album-72157627353236063/
-  secret: 4e729a4702
-  server: '6085'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6085/6062793456_4e729a4702_b.jpg
-    medium: https://farm7.staticflickr.com/6085/6062793456_4e729a4702_z.jpg
-    small: https://farm7.staticflickr.com/6085/6062793456_4e729a4702_m.jpg
-    square: https://farm7.staticflickr.com/6085/6062793456_4e729a4702_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6085/6062793456_4e729a4702_t.jpg
-  title: Ocean I
-  url: https://farm7.staticflickr.com/6085/6062793456_4e729a4702.jpg
-- farm: 7
-  id: '6062245849'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062245849/in/album-72157627353236063/
-  secret: cc2524033c
-  server: '6187'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6187/6062245849_cc2524033c_b.jpg
-    medium: https://farm7.staticflickr.com/6187/6062245849_cc2524033c_z.jpg
-    small: https://farm7.staticflickr.com/6187/6062245849_cc2524033c_m.jpg
-    square: https://farm7.staticflickr.com/6187/6062245849_cc2524033c_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6187/6062245849_cc2524033c_t.jpg
-  title: Ocean II
-  url: https://farm7.staticflickr.com/6187/6062245849_cc2524033c.jpg
-- farm: 7
-  id: '6062795438'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062795438/in/album-72157627353236063/
-  secret: 6654f9c627
-  server: '6195'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6195/6062795438_6654f9c627_b.jpg
-    medium: https://farm7.staticflickr.com/6195/6062795438_6654f9c627_z.jpg
-    small: https://farm7.staticflickr.com/6195/6062795438_6654f9c627_m.jpg
-    square: https://farm7.staticflickr.com/6195/6062795438_6654f9c627_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6195/6062795438_6654f9c627_t.jpg
-  title: Roadside Beauty
-  url: https://farm7.staticflickr.com/6195/6062795438_6654f9c627.jpg
-- farm: 7
-  id: '6062796656'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062796656/in/album-72157627353236063/
-  secret: 4b409ca44b
-  server: '6204'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6204/6062796656_4b409ca44b_b.jpg
-    medium: https://farm7.staticflickr.com/6204/6062796656_4b409ca44b_z.jpg
-    small: https://farm7.staticflickr.com/6204/6062796656_4b409ca44b_m.jpg
-    square: https://farm7.staticflickr.com/6204/6062796656_4b409ca44b_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6204/6062796656_4b409ca44b_t.jpg
-  title: Whale
-  url: https://farm7.staticflickr.com/6204/6062796656_4b409ca44b.jpg
-- farm: 7
-  id: '6062249649'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062249649/in/album-72157627353236063/
-  secret: b537fa7d66
-  server: '6061'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6061/6062249649_b537fa7d66_b.jpg
-    medium: https://farm7.staticflickr.com/6061/6062249649_b537fa7d66_z.jpg
-    small: https://farm7.staticflickr.com/6061/6062249649_b537fa7d66_m.jpg
-    square: https://farm7.staticflickr.com/6061/6062249649_b537fa7d66_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6061/6062249649_b537fa7d66_t.jpg
-  title: T x 3
-  url: https://farm7.staticflickr.com/6061/6062249649_b537fa7d66.jpg
-- farm: 7
-  id: '6062250321'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062250321/in/album-72157627353236063/
-  secret: 2f350daffc
-  server: '6070'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6070/6062250321_2f350daffc_b.jpg
-    medium: https://farm7.staticflickr.com/6070/6062250321_2f350daffc_z.jpg
-    small: https://farm7.staticflickr.com/6070/6062250321_2f350daffc_m.jpg
-    square: https://farm7.staticflickr.com/6070/6062250321_2f350daffc_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6070/6062250321_2f350daffc_t.jpg
-  title: Reflection
-  url: https://farm7.staticflickr.com/6070/6062250321_2f350daffc.jpg
-- farm: 7
-  id: '6062251581'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062251581/in/album-72157627353236063/
-  secret: b2204d1dec
-  server: '6066'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6066/6062251581_b2204d1dec_b.jpg
-    medium: https://farm7.staticflickr.com/6066/6062251581_b2204d1dec_z.jpg
-    small: https://farm7.staticflickr.com/6066/6062251581_b2204d1dec_m.jpg
-    square: https://farm7.staticflickr.com/6066/6062251581_b2204d1dec_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6066/6062251581_b2204d1dec_t.jpg
-  title: Holy Stump Batman
-  url: https://farm7.staticflickr.com/6066/6062251581_b2204d1dec.jpg
-- farm: 7
-  id: '6062801074'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062801074/in/album-72157627353236063/
-  secret: f15739d1c9
-  server: '6083'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6083/6062801074_f15739d1c9_b.jpg
-    medium: https://farm7.staticflickr.com/6083/6062801074_f15739d1c9_z.jpg
-    small: https://farm7.staticflickr.com/6083/6062801074_f15739d1c9_m.jpg
-    square: https://farm7.staticflickr.com/6083/6062801074_f15739d1c9_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6083/6062801074_f15739d1c9_t.jpg
-  title: Layers
-  url: https://farm7.staticflickr.com/6083/6062801074_f15739d1c9.jpg
-- farm: 7
-  id: '6062254069'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062254069/in/album-72157627353236063/
-  secret: 1686f432c0
-  server: '6186'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6186/6062254069_1686f432c0_b.jpg
-    medium: https://farm7.staticflickr.com/6186/6062254069_1686f432c0_z.jpg
-    small: https://farm7.staticflickr.com/6186/6062254069_1686f432c0_m.jpg
-    square: https://farm7.staticflickr.com/6186/6062254069_1686f432c0_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6186/6062254069_1686f432c0_t.jpg
-  title: Tree House
-  url: https://farm7.staticflickr.com/6186/6062254069_1686f432c0.jpg
+- '6062785650'
+- '6062786742'
+- '6062788366'
+- '6062241679'
+- '6062242995'
+- '6062792336'
+- '6062793456'
+- '6062245849'
+- '6062795438'
+- '6062796656'
+- '6062249649'
+- '6062250321'
+- '6062251581'
+- '6062801074'
+- '6062254069'
 primary: '6062785650'
 secret: 1236bf43ae
 server: '6071'
 title: Go West VII - Redwoods
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

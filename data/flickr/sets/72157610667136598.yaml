@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 4
+count_videos: 0
 count_views: '1'
 date_create: '1228273990'
 date_update: '1394944840'
@@ -7,78 +9,16 @@ description: A collection of flowers from the flowerbed in front of my house.
 farm: 4
 id: '72157610667136598'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3078309071'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078309071/in/album-72157610667136598/
-  secret: 00325e8600
-  server: '3290'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3290/3078309071_00325e8600_b.jpg
-    medium: https://farm4.staticflickr.com/3290/3078309071_00325e8600_z.jpg
-    small: https://farm4.staticflickr.com/3290/3078309071_00325e8600_m.jpg
-    square: https://farm4.staticflickr.com/3290/3078309071_00325e8600_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3290/3078309071_00325e8600_t.jpg
-  title: Flowers I
-  url: https://farm4.staticflickr.com/3290/3078309071_00325e8600.jpg
-- farm: 4
-  id: '3079143436'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079143436/in/album-72157610667136598/
-  secret: 3546f5c4fe
-  server: '3282'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3282/3079143436_3546f5c4fe_b.jpg
-    medium: https://farm4.staticflickr.com/3282/3079143436_3546f5c4fe_z.jpg
-    small: https://farm4.staticflickr.com/3282/3079143436_3546f5c4fe_m.jpg
-    square: https://farm4.staticflickr.com/3282/3079143436_3546f5c4fe_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3282/3079143436_3546f5c4fe_t.jpg
-  title: Flowers II
-  url: https://farm4.staticflickr.com/3282/3079143436_3546f5c4fe.jpg
-- farm: 4
-  id: '3078312871'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078312871/in/album-72157610667136598/
-  secret: 26532eb988
-  server: '3232'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3232/3078312871_26532eb988_b.jpg
-    medium: https://farm4.staticflickr.com/3232/3078312871_26532eb988_z.jpg
-    small: https://farm4.staticflickr.com/3232/3078312871_26532eb988_m.jpg
-    square: https://farm4.staticflickr.com/3232/3078312871_26532eb988_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3232/3078312871_26532eb988_t.jpg
-  title: Flowers III
-  url: https://farm4.staticflickr.com/3232/3078312871_26532eb988.jpg
-- farm: 4
-  id: '3079147254'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3079147254/in/album-72157610667136598/
-  secret: 897c1e48f8
-  server: '3148'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3148/3079147254_897c1e48f8_b.jpg
-    medium: https://farm4.staticflickr.com/3148/3079147254_897c1e48f8_z.jpg
-    small: https://farm4.staticflickr.com/3148/3079147254_897c1e48f8_m.jpg
-    square: https://farm4.staticflickr.com/3148/3079147254_897c1e48f8_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3148/3079147254_897c1e48f8_t.jpg
-  title: Flowers IV
-  url: https://farm4.staticflickr.com/3148/3079147254_897c1e48f8.jpg
+- '3078309071'
+- '3079143436'
+- '3078312871'
+- '3079147254'
 primary: '3078309071'
 secret: 00325e8600
 server: '3290'
 title: Flowers
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

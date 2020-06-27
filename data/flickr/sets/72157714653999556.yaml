@@ -11,108 +11,12 @@ id: '72157714653999556'
 needs_interstitial: 0
 owner: 27191036@N05
 photos:
-- farm: 66
-  id: '49993227462'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/49993227462/in/album-72157714653999556/
-  secret: c3b3d00933
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/49993227462_c3b3d00933_b.jpg
-    medium: https://farm66.staticflickr.com/65535/49993227462_c3b3d00933_z.jpg
-    small: https://farm66.staticflickr.com/65535/49993227462_c3b3d00933_m.jpg
-    square: https://farm66.staticflickr.com/65535/49993227462_c3b3d00933_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/49993227462_c3b3d00933_t.jpg
-  title: Turtle
-  url: https://farm66.staticflickr.com/65535/49993227462_c3b3d00933.jpg
-- farm: 66
-  id: '49992982951'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/49992982951/in/album-72157714653999556/
-  secret: 06afb5a97c
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/49992982951_06afb5a97c_b.jpg
-    medium: https://farm66.staticflickr.com/65535/49992982951_06afb5a97c_z.jpg
-    small: https://farm66.staticflickr.com/65535/49992982951_06afb5a97c_m.jpg
-    square: https://farm66.staticflickr.com/65535/49992982951_06afb5a97c_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/49992982951_06afb5a97c_t.jpg
-  title: A Glorious Mess
-  url: https://farm66.staticflickr.com/65535/49992982951_06afb5a97c.jpg
-- farm: 66
-  id: '49992984116'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/49992984116/in/album-72157714653999556/
-  secret: 86e2b0fef6
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/49992984116_86e2b0fef6_b.jpg
-    medium: https://farm66.staticflickr.com/65535/49992984116_86e2b0fef6_z.jpg
-    small: https://farm66.staticflickr.com/65535/49992984116_86e2b0fef6_m.jpg
-    square: https://farm66.staticflickr.com/65535/49992984116_86e2b0fef6_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/49992984116_86e2b0fef6_t.jpg
-  title: Attitude
-  url: https://farm66.staticflickr.com/65535/49992984116_86e2b0fef6.jpg
-- farm: 66
-  id: '49993233462'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/49993233462/in/album-72157714653999556/
-  secret: d6b779a941
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/49993233462_d6b779a941_b.jpg
-    medium: https://farm66.staticflickr.com/65535/49993233462_d6b779a941_z.jpg
-    small: https://farm66.staticflickr.com/65535/49993233462_d6b779a941_m.jpg
-    square: https://farm66.staticflickr.com/65535/49993233462_d6b779a941_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/49993233462_d6b779a941_t.jpg
-  title: Dandelion Yellow
-  url: https://farm66.staticflickr.com/65535/49993233462_d6b779a941.jpg
-- farm: 66
-  id: '49992985391'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/49992985391/in/album-72157714653999556/
-  secret: 978d898a5d
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_b.jpg
-    medium: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_z.jpg
-    small: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_m.jpg
-    square: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/49992985391_978d898a5d_t.jpg
-  title: 'Dumpy (365 II: 3)'
-  url: https://farm66.staticflickr.com/65535/49992985391_978d898a5d.jpg
-- farm: 66
-  id: '49993254172'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/49993254172/in/album-72157714653999556/
-  secret: 2225ed9576
-  server: '65535'
-  thumbnails:
-    large: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_b.jpg
-    medium: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_z.jpg
-    small: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_m.jpg
-    square: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_s.jpg
-    thumbnail: https://farm66.staticflickr.com/65535/49993254172_2225ed9576_t.jpg
-  title: Family
-  url: https://farm66.staticflickr.com/65535/49993254172_2225ed9576.jpg
+- '49993227462'
+- '49992982951'
+- '49992984116'
+- '49993233462'
+- '49992985391'
+- '49993254172'
 primary: '49993233462'
 secret: d6b779a941
 server: '65535'

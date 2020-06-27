@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 20
+count_videos: 0
 count_views: '13'
 date_create: '1427003570'
 date_update: '1427004042'
@@ -9,350 +11,32 @@ description: Had an hour and change to walk along the San Andreas Lake outside o
 farm: 8
 id: '72157651496600235'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 8
-  id: '16889122471'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16889122471/in/album-72157651496600235/
-  secret: 3af3feb074
-  server: '7630'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7630/16889122471_3af3feb074_b.jpg
-    medium: https://farm8.staticflickr.com/7630/16889122471_3af3feb074_z.jpg
-    small: https://farm8.staticflickr.com/7630/16889122471_3af3feb074_m.jpg
-    square: https://farm8.staticflickr.com/7630/16889122471_3af3feb074_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7630/16889122471_3af3feb074_t.jpg
-  title: Glass Houses
-  url: https://farm8.staticflickr.com/7630/16889122471_3af3feb074.jpg
-- farm: 9
-  id: '16702493018'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16702493018/in/album-72157651496600235/
-  secret: 507c9dc19e
-  server: '8720'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8720/16702493018_507c9dc19e_b.jpg
-    medium: https://farm9.staticflickr.com/8720/16702493018_507c9dc19e_z.jpg
-    small: https://farm9.staticflickr.com/8720/16702493018_507c9dc19e_m.jpg
-    square: https://farm9.staticflickr.com/8720/16702493018_507c9dc19e_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8720/16702493018_507c9dc19e_t.jpg
-  title: San Andreas
-  url: https://farm9.staticflickr.com/8720/16702493018_507c9dc19e.jpg
-- farm: 9
-  id: '16888938132'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16888938132/in/album-72157651496600235/
-  secret: 6376ab3bf1
-  server: '8687'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8687/16888938132_6376ab3bf1_b.jpg
-    medium: https://farm9.staticflickr.com/8687/16888938132_6376ab3bf1_z.jpg
-    small: https://farm9.staticflickr.com/8687/16888938132_6376ab3bf1_m.jpg
-    square: https://farm9.staticflickr.com/8687/16888938132_6376ab3bf1_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8687/16888938132_6376ab3bf1_t.jpg
-  title: FVB
-  url: https://farm9.staticflickr.com/8687/16888938132_6376ab3bf1.jpg
-- farm: 8
-  id: '16270138213'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16270138213/in/album-72157651496600235/
-  secret: c4e7e40628
-  server: '7638'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7638/16270138213_c4e7e40628_b.jpg
-    medium: https://farm8.staticflickr.com/7638/16270138213_c4e7e40628_z.jpg
-    small: https://farm8.staticflickr.com/7638/16270138213_c4e7e40628_m.jpg
-    square: https://farm8.staticflickr.com/7638/16270138213_c4e7e40628_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7638/16270138213_c4e7e40628_t.jpg
-  title: Natural and Not
-  url: https://farm8.staticflickr.com/7638/16270138213_c4e7e40628.jpg
-- farm: 9
-  id: '16270139543'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16270139543/in/album-72157651496600235/
-  secret: 8bc1381eea
-  server: '8698'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8698/16270139543_8bc1381eea_b.jpg
-    medium: https://farm9.staticflickr.com/8698/16270139543_8bc1381eea_z.jpg
-    small: https://farm9.staticflickr.com/8698/16270139543_8bc1381eea_m.jpg
-    square: https://farm9.staticflickr.com/8698/16270139543_8bc1381eea_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8698/16270139543_8bc1381eea_t.jpg
-  title: Texture
-  url: https://farm9.staticflickr.com/8698/16270139543_8bc1381eea.jpg
-- farm: 9
-  id: '16889142671'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16889142671/in/album-72157651496600235/
-  secret: 520e8864c7
-  server: '8706'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8706/16889142671_520e8864c7_b.jpg
-    medium: https://farm9.staticflickr.com/8706/16889142671_520e8864c7_z.jpg
-    small: https://farm9.staticflickr.com/8706/16889142671_520e8864c7_m.jpg
-    square: https://farm9.staticflickr.com/8706/16889142671_520e8864c7_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8706/16889142671_520e8864c7_t.jpg
-  title: Silhouette I
-  url: https://farm9.staticflickr.com/8706/16889142671_520e8864c7.jpg
-- farm: 9
-  id: '16270142193'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16270142193/in/album-72157651496600235/
-  secret: b1771aacab
-  server: '8705'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8705/16270142193_b1771aacab_b.jpg
-    medium: https://farm9.staticflickr.com/8705/16270142193_b1771aacab_z.jpg
-    small: https://farm9.staticflickr.com/8705/16270142193_b1771aacab_m.jpg
-    square: https://farm9.staticflickr.com/8705/16270142193_b1771aacab_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8705/16270142193_b1771aacab_t.jpg
-  title: Silhouette II
-  url: https://farm9.staticflickr.com/8705/16270142193_b1771aacab.jpg
-- farm: 8
-  id: '16888943432'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16888943432/in/album-72157651496600235/
-  secret: fa11c79480
-  server: '7631'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7631/16888943432_fa11c79480_b.jpg
-    medium: https://farm8.staticflickr.com/7631/16888943432_fa11c79480_z.jpg
-    small: https://farm8.staticflickr.com/7631/16888943432_fa11c79480_m.jpg
-    square: https://farm8.staticflickr.com/7631/16888943432_fa11c79480_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7631/16888943432_fa11c79480_t.jpg
-  title: The Old Guard
-  url: https://farm8.staticflickr.com/7631/16888943432_fa11c79480.jpg
-- farm: 9
-  id: '16682817137'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16682817137/in/album-72157651496600235/
-  secret: 842f9c6449
-  server: '8752'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8752/16682817137_842f9c6449_b.jpg
-    medium: https://farm9.staticflickr.com/8752/16682817137_842f9c6449_z.jpg
-    small: https://farm9.staticflickr.com/8752/16682817137_842f9c6449_m.jpg
-    square: https://farm9.staticflickr.com/8752/16682817137_842f9c6449_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8752/16682817137_842f9c6449_t.jpg
-  title: The New Guard
-  url: https://farm9.staticflickr.com/8752/16682817137_842f9c6449.jpg
-- farm: 9
-  id: '16682818407'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16682818407/in/album-72157651496600235/
-  secret: 57c60f99a6
-  server: '8698'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8698/16682818407_57c60f99a6_b.jpg
-    medium: https://farm9.staticflickr.com/8698/16682818407_57c60f99a6_z.jpg
-    small: https://farm9.staticflickr.com/8698/16682818407_57c60f99a6_m.jpg
-    square: https://farm9.staticflickr.com/8698/16682818407_57c60f99a6_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8698/16682818407_57c60f99a6_t.jpg
-  title: Urban Exploration
-  url: https://farm9.staticflickr.com/8698/16682818407_57c60f99a6.jpg
-- farm: 8
-  id: '16703991199'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16703991199/in/album-72157651496600235/
-  secret: 1f4e62f943
-  server: '7629'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7629/16703991199_1f4e62f943_b.jpg
-    medium: https://farm8.staticflickr.com/7629/16703991199_1f4e62f943_z.jpg
-    small: https://farm8.staticflickr.com/7629/16703991199_1f4e62f943_m.jpg
-    square: https://farm8.staticflickr.com/7629/16703991199_1f4e62f943_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7629/16703991199_1f4e62f943_t.jpg
-  title: Power
-  url: https://farm8.staticflickr.com/7629/16703991199_1f4e62f943.jpg
-- farm: 8
-  id: '16890147275'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16890147275/in/album-72157651496600235/
-  secret: baf9daba13
-  server: '7622'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7622/16890147275_baf9daba13_b.jpg
-    medium: https://farm8.staticflickr.com/7622/16890147275_baf9daba13_z.jpg
-    small: https://farm8.staticflickr.com/7622/16890147275_baf9daba13_m.jpg
-    square: https://farm8.staticflickr.com/7622/16890147275_baf9daba13_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7622/16890147275_baf9daba13_t.jpg
-  title: Fractal Greens I
-  url: https://farm8.staticflickr.com/7622/16890147275_baf9daba13.jpg
-- farm: 9
-  id: '16889151351'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16889151351/in/album-72157651496600235/
-  secret: c9fdd1c9e8
-  server: '8692'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8692/16889151351_c9fdd1c9e8_b.jpg
-    medium: https://farm9.staticflickr.com/8692/16889151351_c9fdd1c9e8_z.jpg
-    small: https://farm9.staticflickr.com/8692/16889151351_c9fdd1c9e8_m.jpg
-    square: https://farm9.staticflickr.com/8692/16889151351_c9fdd1c9e8_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8692/16889151351_c9fdd1c9e8_t.jpg
-  title: Fractal Greens II
-  url: https://farm9.staticflickr.com/8692/16889151351_c9fdd1c9e8.jpg
-- farm: 8
-  id: '16267775094'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16267775094/in/album-72157651496600235/
-  secret: 7614bbf72d
-  server: '7613'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7613/16267775094_7614bbf72d_b.jpg
-    medium: https://farm8.staticflickr.com/7613/16267775094_7614bbf72d_z.jpg
-    small: https://farm8.staticflickr.com/7613/16267775094_7614bbf72d_m.jpg
-    square: https://farm8.staticflickr.com/7613/16267775094_7614bbf72d_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7613/16267775094_7614bbf72d_t.jpg
-  title: Fog
-  url: https://farm8.staticflickr.com/7613/16267775094_7614bbf72d.jpg
-- farm: 8
-  id: '16890152505'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16890152505/in/album-72157651496600235/
-  secret: 3009efa9ee
-  server: '7604'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7604/16890152505_3009efa9ee_b.jpg
-    medium: https://farm8.staticflickr.com/7604/16890152505_3009efa9ee_z.jpg
-    small: https://farm8.staticflickr.com/7604/16890152505_3009efa9ee_m.jpg
-    square: https://farm8.staticflickr.com/7604/16890152505_3009efa9ee_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7604/16890152505_3009efa9ee_t.jpg
-  title: Tree
-  url: https://farm8.staticflickr.com/7604/16890152505_3009efa9ee.jpg
-- farm: 8
-  id: '16682826777'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16682826777/in/album-72157651496600235/
-  secret: 624908866c
-  server: '7638'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7638/16682826777_624908866c_b.jpg
-    medium: https://farm8.staticflickr.com/7638/16682826777_624908866c_z.jpg
-    small: https://farm8.staticflickr.com/7638/16682826777_624908866c_m.jpg
-    square: https://farm8.staticflickr.com/7638/16682826777_624908866c_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7638/16682826777_624908866c_t.jpg
-  title: Locked
-  url: https://farm8.staticflickr.com/7638/16682826777_624908866c.jpg
-- farm: 8
-  id: '16702748280'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16702748280/in/album-72157651496600235/
-  secret: e8efca8060
-  server: '7281'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7281/16702748280_e8efca8060_b.jpg
-    medium: https://farm8.staticflickr.com/7281/16702748280_e8efca8060_z.jpg
-    small: https://farm8.staticflickr.com/7281/16702748280_e8efca8060_m.jpg
-    square: https://farm8.staticflickr.com/7281/16702748280_e8efca8060_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7281/16702748280_e8efca8060_t.jpg
-  title: Lock and Key
-  url: https://farm8.staticflickr.com/7281/16702748280_e8efca8060.jpg
-- farm: 8
-  id: '16704000839'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16704000839/in/album-72157651496600235/
-  secret: 4c37bb2b9a
-  server: '7281'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7281/16704000839_4c37bb2b9a_b.jpg
-    medium: https://farm8.staticflickr.com/7281/16704000839_4c37bb2b9a_z.jpg
-    small: https://farm8.staticflickr.com/7281/16704000839_4c37bb2b9a_m.jpg
-    square: https://farm8.staticflickr.com/7281/16704000839_4c37bb2b9a_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7281/16704000839_4c37bb2b9a_t.jpg
-  title: Life Finds a Way
-  url: https://farm8.staticflickr.com/7281/16704000839_4c37bb2b9a.jpg
-- farm: 8
-  id: '16682831077'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16682831077/in/album-72157651496600235/
-  secret: 0d17ca04ce
-  server: '7596'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7596/16682831077_0d17ca04ce_b.jpg
-    medium: https://farm8.staticflickr.com/7596/16682831077_0d17ca04ce_z.jpg
-    small: https://farm8.staticflickr.com/7596/16682831077_0d17ca04ce_m.jpg
-    square: https://farm8.staticflickr.com/7596/16682831077_0d17ca04ce_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7596/16682831077_0d17ca04ce_t.jpg
-  title: Pine
-  url: https://farm8.staticflickr.com/7596/16682831077_0d17ca04ce.jpg
-- farm: 9
-  id: '16864259196'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/16864259196/in/album-72157651496600235/
-  secret: 581afb9862
-  server: '8722'
-  thumbnails:
-    large: https://farm9.staticflickr.com/8722/16864259196_581afb9862_b.jpg
-    medium: https://farm9.staticflickr.com/8722/16864259196_581afb9862_z.jpg
-    small: https://farm9.staticflickr.com/8722/16864259196_581afb9862_m.jpg
-    square: https://farm9.staticflickr.com/8722/16864259196_581afb9862_s.jpg
-    thumbnail: https://farm9.staticflickr.com/8722/16864259196_581afb9862_t.jpg
-  title: Spikier
-  url: https://farm9.staticflickr.com/8722/16864259196_581afb9862.jpg
+- '16889122471'
+- '16702493018'
+- '16888938132'
+- '16270138213'
+- '16270139543'
+- '16889142671'
+- '16270142193'
+- '16888943432'
+- '16682817137'
+- '16682818407'
+- '16703991199'
+- '16890147275'
+- '16889151351'
+- '16267775094'
+- '16890152505'
+- '16682826777'
+- '16702748280'
+- '16704000839'
+- '16682831077'
+- '16864259196'
 primary: '16889122471'
 secret: 3af3feb074
 server: '7630'
 title: San Andreas Lake
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

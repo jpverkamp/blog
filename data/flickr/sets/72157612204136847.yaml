@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 4
+count_videos: 0
 count_views: '7'
 date_create: '1231276603'
 date_update: '1394944840'
@@ -8,78 +10,16 @@ description: Shots of dice in black and white.  There's really not much more to 
 farm: 4
 id: '72157612204136847'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3175126476'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3175126476/in/album-72157612204136847/
-  secret: 313068d332
-  server: '3112'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3112/3175126476_313068d332_b.jpg
-    medium: https://farm4.staticflickr.com/3112/3175126476_313068d332_z.jpg
-    small: https://farm4.staticflickr.com/3112/3175126476_313068d332_m.jpg
-    square: https://farm4.staticflickr.com/3112/3175126476_313068d332_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3112/3175126476_313068d332_t.jpg
-  title: Natural 20
-  url: https://farm4.staticflickr.com/3112/3175126476_313068d332.jpg
-- farm: 2
-  id: '3175140394'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3175140394/in/album-72157612204136847/
-  secret: 5d5ffa1ae4
-  server: '1138'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1138/3175140394_5d5ffa1ae4_b.jpg
-    medium: https://farm2.staticflickr.com/1138/3175140394_5d5ffa1ae4_z.jpg
-    small: https://farm2.staticflickr.com/1138/3175140394_5d5ffa1ae4_m.jpg
-    square: https://farm2.staticflickr.com/1138/3175140394_5d5ffa1ae4_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1138/3175140394_5d5ffa1ae4_t.jpg
-  title: Towers
-  url: https://farm2.staticflickr.com/1138/3175140394_5d5ffa1ae4.jpg
-- farm: 4
-  id: '3174318419'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3174318419/in/album-72157612204136847/
-  secret: b2db1b7a89
-  server: '3114'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3114/3174318419_b2db1b7a89_b.jpg
-    medium: https://farm4.staticflickr.com/3114/3174318419_b2db1b7a89_z.jpg
-    small: https://farm4.staticflickr.com/3114/3174318419_b2db1b7a89_m.jpg
-    square: https://farm4.staticflickr.com/3114/3174318419_b2db1b7a89_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3114/3174318419_b2db1b7a89_t.jpg
-  title: Collision
-  url: https://farm4.staticflickr.com/3114/3174318419_b2db1b7a89.jpg
-- farm: 4
-  id: '3175155980'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3175155980/in/album-72157612204136847/
-  secret: cd606cc3c8
-  server: '3116'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3116/3175155980_cd606cc3c8_b.jpg
-    medium: https://farm4.staticflickr.com/3116/3175155980_cd606cc3c8_z.jpg
-    small: https://farm4.staticflickr.com/3116/3175155980_cd606cc3c8_m.jpg
-    square: https://farm4.staticflickr.com/3116/3175155980_cd606cc3c8_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3116/3175155980_cd606cc3c8_t.jpg
-  title: Natural 20
-  url: https://farm4.staticflickr.com/3116/3175155980_cd606cc3c8.jpg
+- '3175126476'
+- '3175140394'
+- '3174318419'
+- '3175155980'
 primary: '3175126476'
 secret: 313068d332
 server: '3112'
 title: Luck
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 7
+count_videos: 0
 count_views: '5'
 date_create: '1394689484'
 date_update: '1449386700'
@@ -7,129 +9,19 @@ description: ''
 farm: 8
 id: '72157642283017633'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 8
-  id: '13120439094'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120439094/in/album-72157642283017633/
-  secret: 7f73801fcc
-  server: '7359'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7359/13120439094_7f73801fcc_b.jpg
-    medium: https://farm8.staticflickr.com/7359/13120439094_7f73801fcc_z.jpg
-    small: https://farm8.staticflickr.com/7359/13120439094_7f73801fcc_m.jpg
-    square: https://farm8.staticflickr.com/7359/13120439094_7f73801fcc_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7359/13120439094_7f73801fcc_t.jpg
-  title: Buckskin Horse
-  url: https://farm8.staticflickr.com/7359/13120439094_7f73801fcc.jpg
-- farm: 8
-  id: '13120264773'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120264773/in/album-72157642283017633/
-  secret: 6384b6742b
-  server: '7350'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7350/13120264773_6384b6742b_b.jpg
-    medium: https://farm8.staticflickr.com/7350/13120264773_6384b6742b_z.jpg
-    small: https://farm8.staticflickr.com/7350/13120264773_6384b6742b_m.jpg
-    square: https://farm8.staticflickr.com/7350/13120264773_6384b6742b_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7350/13120264773_6384b6742b_t.jpg
-  title: Mr. Emmert's
-  url: https://farm8.staticflickr.com/7350/13120264773_6384b6742b.jpg
-- farm: 3
-  id: '13120443114'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120443114/in/album-72157642283017633/
-  secret: e650cfde9e
-  server: '2315'
-  thumbnails:
-    large: https://farm3.staticflickr.com/2315/13120443114_e650cfde9e_b.jpg
-    medium: https://farm3.staticflickr.com/2315/13120443114_e650cfde9e_z.jpg
-    small: https://farm3.staticflickr.com/2315/13120443114_e650cfde9e_m.jpg
-    square: https://farm3.staticflickr.com/2315/13120443114_e650cfde9e_s.jpg
-    thumbnail: https://farm3.staticflickr.com/2315/13120443114_e650cfde9e_t.jpg
-  title: Down
-  url: https://farm3.staticflickr.com/2315/13120443114_e650cfde9e.jpg
-- farm: 8
-  id: '13120166915'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120166915/in/album-72157642283017633/
-  secret: cc7e83c8b9
-  server: '7299'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7299/13120166915_cc7e83c8b9_b.jpg
-    medium: https://farm8.staticflickr.com/7299/13120166915_cc7e83c8b9_z.jpg
-    small: https://farm8.staticflickr.com/7299/13120166915_cc7e83c8b9_m.jpg
-    square: https://farm8.staticflickr.com/7299/13120166915_cc7e83c8b9_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7299/13120166915_cc7e83c8b9_t.jpg
-  title: Me
-  url: https://farm8.staticflickr.com/7299/13120166915_cc7e83c8b9.jpg
-- farm: 8
-  id: '13120168885'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120168885/in/album-72157642283017633/
-  secret: '4743401599'
-  server: '7441'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7441/13120168885_4743401599_b.jpg
-    medium: https://farm8.staticflickr.com/7441/13120168885_4743401599_z.jpg
-    small: https://farm8.staticflickr.com/7441/13120168885_4743401599_m.jpg
-    square: https://farm8.staticflickr.com/7441/13120168885_4743401599_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7441/13120168885_4743401599_t.jpg
-  title: Kyana Trail
-  url: https://farm8.staticflickr.com/7441/13120168885_4743401599.jpg
-- farm: 8
-  id: '13120171215'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120171215/in/album-72157642283017633/
-  secret: 98310740e1
-  server: '7353'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7353/13120171215_98310740e1_b.jpg
-    medium: https://farm8.staticflickr.com/7353/13120171215_98310740e1_z.jpg
-    small: https://farm8.staticflickr.com/7353/13120171215_98310740e1_m.jpg
-    square: https://farm8.staticflickr.com/7353/13120171215_98310740e1_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7353/13120171215_98310740e1_t.jpg
-  title: Splits
-  url: https://farm8.staticflickr.com/7353/13120171215_98310740e1.jpg
-- farm: 4
-  id: '13120173805'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120173805/in/album-72157642283017633/
-  secret: 0fb728187a
-  server: '3688'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3688/13120173805_0fb728187a_b.jpg
-    medium: https://farm4.staticflickr.com/3688/13120173805_0fb728187a_z.jpg
-    small: https://farm4.staticflickr.com/3688/13120173805_0fb728187a_m.jpg
-    square: https://farm4.staticflickr.com/3688/13120173805_0fb728187a_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3688/13120173805_0fb728187a_t.jpg
-  title: Up
-  url: https://farm4.staticflickr.com/3688/13120173805_0fb728187a.jpg
+- '13120439094'
+- '13120264773'
+- '13120443114'
+- '13120166915'
+- '13120168885'
+- '13120171215'
+- '13120173805'
 primary: '13120439094'
 secret: 7f73801fcc
 server: '7359'
 title: Firetower
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

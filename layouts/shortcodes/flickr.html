@@ -14,7 +14,7 @@
             {{- range $rowIndex := seq 0 (sub $columnSize 1) -}}
                 {{- $imageIndex := cond $orderRowMajor (add $columnIndex (mul $rowIndex $columnCount)) (add $rowIndex (mul $columnIndex $columnSize)) -}}
                 {{- if (lt $imageIndex $photoCount) -}}
-                    {{- $photo := index $photos $imageIndex -}}
+                    {{- $photo := index $.Site.Data.flickr.photos (index $photos $imageIndex) -}}
                     <figure>
                         <a data-fancybox="gallery" data-fancybox-index="{{ $imageIndex }}" data-caption="{{ default $photo.title $photo.description }}" data-flickr="{{ $photo.page }}" href="{{ $photo.thumbnails.large }}">
                             <img class="img-rounded" src="{{ $photo.thumbnails.small }}" />
@@ -34,26 +34,15 @@
         <a href="https://flickr.com/photos/jpverkamp/sets/{{ .Get "set" }}">View on Flickr</a>
     </div>
 {{- else if .Get "image" -}}
-    {{/* This won't work for any photos not in a photoset, but that's not how I organize images so (shrug) */}}
-    {{- $.Scratch.Set "found-image" false -}}
-    {{- range $photosetId, $photoset := $.Site.Data.flickr -}}
-        {{- range $photo := $photoset.photos -}}
-            {{- if and (eq $photo.id ($.Get "image")) (not ($.Scratch.Get "found-image")) -}}
-                {{- $.Scratch.Set "found-image" true -}}
-                <figure>
-                    <a href="{{ $photo.page }}">
-                        <img src="{{ $photo.url }}" alt="{{ $photo.title }}" />
-                    </a>
-                    <figcaption>
-                        <strong>{{ $photo.title }}</strong> - <a href="{{ $photo.page }}">View on Flickr</a>
-                    </figcaption>
-                </figure>
-            {{- end -}}
-        {{- end -}}
-    {{- end -}}
-    {{- if not ($.Scratch.Get "found-image") -}}
-        WARNING IMAGE {{ .Get "image" }} COULD NOT BE FOUND
-    {{- end -}}
+    {{- $photo := index $.Site.Data.flickr.photos (.Get "image") -}}
+    <figure>
+        <a href="{{ $photo.page }}">
+            <img src="{{ $photo.url }}" alt="{{ $photo.title }}" />
+        </a>
+        <figcaption>
+            <strong>{{ $photo.title }}</strong> - <a href="{{ $photo.page }}">View on Flickr</a>
+        </figcaption>
+    </figure>
 {{ else }}
 WARNING UNKNOWN FLICKR TYPE
 {{- end -}}

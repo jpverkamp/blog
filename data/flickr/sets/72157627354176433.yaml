@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 12
+count_videos: 0
 count_views: '7'
 date_create: '1313872140'
 date_update: '1447993489'
@@ -10,214 +12,24 @@ description: "Several photosets from our family vacation on the west coast. We s
 farm: 7
 id: '72157627354176433'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 7
-  id: '6062685687'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062685687/in/album-72157627354176433/
-  secret: 43238bffff
-  server: '6089'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6089/6062685687_43238bffff_b.jpg
-    medium: https://farm7.staticflickr.com/6089/6062685687_43238bffff_z.jpg
-    small: https://farm7.staticflickr.com/6089/6062685687_43238bffff_m.jpg
-    square: https://farm7.staticflickr.com/6089/6062685687_43238bffff_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6089/6062685687_43238bffff_t.jpg
-  title: Rocks
-  url: https://farm7.staticflickr.com/6089/6062685687_43238bffff.jpg
-- farm: 7
-  id: '6062687395'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062687395/in/album-72157627354176433/
-  secret: 1cd24df1ae
-  server: '6191'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6191/6062687395_1cd24df1ae_b.jpg
-    medium: https://farm7.staticflickr.com/6191/6062687395_1cd24df1ae_z.jpg
-    small: https://farm7.staticflickr.com/6191/6062687395_1cd24df1ae_m.jpg
-    square: https://farm7.staticflickr.com/6191/6062687395_1cd24df1ae_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6191/6062687395_1cd24df1ae_t.jpg
-  title: Feet
-  url: https://farm7.staticflickr.com/6191/6062687395_1cd24df1ae.jpg
-- farm: 7
-  id: '6063238568'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6063238568/in/album-72157627354176433/
-  secret: e006f1bd81
-  server: '6200'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6200/6063238568_e006f1bd81_b.jpg
-    medium: https://farm7.staticflickr.com/6200/6063238568_e006f1bd81_z.jpg
-    small: https://farm7.staticflickr.com/6200/6063238568_e006f1bd81_m.jpg
-    square: https://farm7.staticflickr.com/6200/6063238568_e006f1bd81_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6200/6063238568_e006f1bd81_t.jpg
-  title: Fog
-  url: https://farm7.staticflickr.com/6200/6063238568_e006f1bd81.jpg
-- farm: 7
-  id: '6062691481'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062691481/in/album-72157627354176433/
-  secret: e241d49e3c
-  server: '6197'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6197/6062691481_e241d49e3c_b.jpg
-    medium: https://farm7.staticflickr.com/6197/6062691481_e241d49e3c_z.jpg
-    small: https://farm7.staticflickr.com/6197/6062691481_e241d49e3c_m.jpg
-    square: https://farm7.staticflickr.com/6197/6062691481_e241d49e3c_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6197/6062691481_e241d49e3c_t.jpg
-  title: Tree Bone
-  url: https://farm7.staticflickr.com/6197/6062691481_e241d49e3c.jpg
-- farm: 7
-  id: '6062692391'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062692391/in/album-72157627354176433/
-  secret: c94a9df1aa
-  server: '6196'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6196/6062692391_c94a9df1aa_b.jpg
-    medium: https://farm7.staticflickr.com/6196/6062692391_c94a9df1aa_z.jpg
-    small: https://farm7.staticflickr.com/6196/6062692391_c94a9df1aa_m.jpg
-    square: https://farm7.staticflickr.com/6196/6062692391_c94a9df1aa_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6196/6062692391_c94a9df1aa_t.jpg
-  title: Octopus I
-  url: https://farm7.staticflickr.com/6196/6062692391_c94a9df1aa.jpg
-- farm: 7
-  id: '6062693073'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062693073/in/album-72157627354176433/
-  secret: bd9a89f6ba
-  server: '6208'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6208/6062693073_bd9a89f6ba_b.jpg
-    medium: https://farm7.staticflickr.com/6208/6062693073_bd9a89f6ba_z.jpg
-    small: https://farm7.staticflickr.com/6208/6062693073_bd9a89f6ba_m.jpg
-    square: https://farm7.staticflickr.com/6208/6062693073_bd9a89f6ba_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6208/6062693073_bd9a89f6ba_t.jpg
-  title: No Parking?
-  url: https://farm7.staticflickr.com/6208/6062693073_bd9a89f6ba.jpg
-- farm: 7
-  id: '6063244234'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6063244234/in/album-72157627354176433/
-  secret: fc0f505daa
-  server: '6208'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6208/6063244234_fc0f505daa_b.jpg
-    medium: https://farm7.staticflickr.com/6208/6063244234_fc0f505daa_z.jpg
-    small: https://farm7.staticflickr.com/6208/6063244234_fc0f505daa_m.jpg
-    square: https://farm7.staticflickr.com/6208/6063244234_fc0f505daa_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6208/6063244234_fc0f505daa_t.jpg
-  title: Octopus II
-  url: https://farm7.staticflickr.com/6208/6063244234_fc0f505daa.jpg
-- farm: 7
-  id: '6063245844'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6063245844/in/album-72157627354176433/
-  secret: d509e0a447
-  server: '6186'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6186/6063245844_d509e0a447_b.jpg
-    medium: https://farm7.staticflickr.com/6186/6063245844_d509e0a447_z.jpg
-    small: https://farm7.staticflickr.com/6186/6063245844_d509e0a447_m.jpg
-    square: https://farm7.staticflickr.com/6186/6063245844_d509e0a447_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6186/6063245844_d509e0a447_t.jpg
-  title: Herd
-  url: https://farm7.staticflickr.com/6186/6063245844_d509e0a447.jpg
-- farm: 7
-  id: '6062699913'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062699913/in/album-72157627354176433/
-  secret: c811c16ce8
-  server: '6208'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6208/6062699913_c811c16ce8_b.jpg
-    medium: https://farm7.staticflickr.com/6208/6062699913_c811c16ce8_z.jpg
-    small: https://farm7.staticflickr.com/6208/6062699913_c811c16ce8_m.jpg
-    square: https://farm7.staticflickr.com/6208/6062699913_c811c16ce8_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6208/6062699913_c811c16ce8_t.jpg
-  title: Sunset I
-  url: https://farm7.staticflickr.com/6208/6062699913_c811c16ce8.jpg
-- farm: 7
-  id: '6062702547'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062702547/in/album-72157627354176433/
-  secret: 3955cb4ec9
-  server: '6067'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6067/6062702547_3955cb4ec9_b.jpg
-    medium: https://farm7.staticflickr.com/6067/6062702547_3955cb4ec9_z.jpg
-    small: https://farm7.staticflickr.com/6067/6062702547_3955cb4ec9_m.jpg
-    square: https://farm7.staticflickr.com/6067/6062702547_3955cb4ec9_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6067/6062702547_3955cb4ec9_t.jpg
-  title: Sunset II
-  url: https://farm7.staticflickr.com/6067/6062702547_3955cb4ec9.jpg
-- farm: 7
-  id: '6062715203'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062715203/in/album-72157627354176433/
-  secret: 61be94fd03
-  server: '6196'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6196/6062715203_61be94fd03_b.jpg
-    medium: https://farm7.staticflickr.com/6196/6062715203_61be94fd03_z.jpg
-    small: https://farm7.staticflickr.com/6196/6062715203_61be94fd03_m.jpg
-    square: https://farm7.staticflickr.com/6196/6062715203_61be94fd03_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6196/6062715203_61be94fd03_t.jpg
-  title: Sunset III
-  url: https://farm7.staticflickr.com/6196/6062715203_61be94fd03.jpg
-- farm: 7
-  id: '6062716255'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/6062716255/in/album-72157627354176433/
-  secret: 9cee8a30f1
-  server: '6206'
-  thumbnails:
-    large: https://farm7.staticflickr.com/6206/6062716255_9cee8a30f1_b.jpg
-    medium: https://farm7.staticflickr.com/6206/6062716255_9cee8a30f1_z.jpg
-    small: https://farm7.staticflickr.com/6206/6062716255_9cee8a30f1_m.jpg
-    square: https://farm7.staticflickr.com/6206/6062716255_9cee8a30f1_s.jpg
-    thumbnail: https://farm7.staticflickr.com/6206/6062716255_9cee8a30f1_t.jpg
-  title: Sunset IV
-  url: https://farm7.staticflickr.com/6206/6062716255_9cee8a30f1.jpg
+- '6062685687'
+- '6062687395'
+- '6063238568'
+- '6062691481'
+- '6062692391'
+- '6062693073'
+- '6063244234'
+- '6063245844'
+- '6062699913'
+- '6062702547'
+- '6062715203'
+- '6062716255'
 primary: '6062685687'
 secret: 43238bffff
 server: '6089'
 title: Go West VIII - West Coast
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 7
+count_videos: 0
 count_views: '1'
 date_create: '1296592897'
 date_update: '1446552050'
@@ -7,129 +9,19 @@ description: There's no day like a snow day! Aurora and I made snowmen. :D
 farm: 6
 id: '72157625955913966'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 6
-  id: '5408083133'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408083133/in/album-72157625955913966/
-  secret: 824e43a91a
-  server: '5138'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5138/5408083133_824e43a91a_b.jpg
-    medium: https://farm6.staticflickr.com/5138/5408083133_824e43a91a_z.jpg
-    small: https://farm6.staticflickr.com/5138/5408083133_824e43a91a_m.jpg
-    square: https://farm6.staticflickr.com/5138/5408083133_824e43a91a_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5138/5408083133_824e43a91a_t.jpg
-  title: Overhang
-  url: https://farm6.staticflickr.com/5138/5408083133_824e43a91a.jpg
-- farm: 6
-  id: '5408084533'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408084533/in/album-72157625955913966/
-  secret: 3e173732fb
-  server: '5219'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5219/5408084533_3e173732fb_b.jpg
-    medium: https://farm6.staticflickr.com/5219/5408084533_3e173732fb_z.jpg
-    small: https://farm6.staticflickr.com/5219/5408084533_3e173732fb_m.jpg
-    square: https://farm6.staticflickr.com/5219/5408084533_3e173732fb_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5219/5408084533_3e173732fb_t.jpg
-  title: First Attempt
-  url: https://farm6.staticflickr.com/5219/5408084533_3e173732fb.jpg
-- farm: 6
-  id: '5408085927'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408085927/in/album-72157625955913966/
-  secret: 06d4110b98
-  server: '5260'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5260/5408085927_06d4110b98_b.jpg
-    medium: https://farm6.staticflickr.com/5260/5408085927_06d4110b98_z.jpg
-    small: https://farm6.staticflickr.com/5260/5408085927_06d4110b98_m.jpg
-    square: https://farm6.staticflickr.com/5260/5408085927_06d4110b98_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5260/5408085927_06d4110b98_t.jpg
-  title: First Attempt II
-  url: https://farm6.staticflickr.com/5260/5408085927_06d4110b98.jpg
-- farm: 6
-  id: '5408086721'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408086721/in/album-72157625955913966/
-  secret: 7477eff058
-  server: '5015'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5015/5408086721_7477eff058_b.jpg
-    medium: https://farm6.staticflickr.com/5015/5408086721_7477eff058_z.jpg
-    small: https://farm6.staticflickr.com/5015/5408086721_7477eff058_m.jpg
-    square: https://farm6.staticflickr.com/5015/5408086721_7477eff058_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5015/5408086721_7477eff058_t.jpg
-  title: Brr
-  url: https://farm6.staticflickr.com/5015/5408086721_7477eff058.jpg
-- farm: 6
-  id: '5408087967'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408087967/in/album-72157625955913966/
-  secret: eb792bf258
-  server: '5020'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5020/5408087967_eb792bf258_b.jpg
-    medium: https://farm6.staticflickr.com/5020/5408087967_eb792bf258_z.jpg
-    small: https://farm6.staticflickr.com/5020/5408087967_eb792bf258_m.jpg
-    square: https://farm6.staticflickr.com/5020/5408087967_eb792bf258_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5020/5408087967_eb792bf258_t.jpg
-  title: Snowmen Mk 2
-  url: https://farm6.staticflickr.com/5020/5408087967_eb792bf258.jpg
-- farm: 6
-  id: '5408698550'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408698550/in/album-72157625955913966/
-  secret: 10bae84f16
-  server: '5014'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5014/5408698550_10bae84f16_b.jpg
-    medium: https://farm6.staticflickr.com/5014/5408698550_10bae84f16_z.jpg
-    small: https://farm6.staticflickr.com/5014/5408698550_10bae84f16_m.jpg
-    square: https://farm6.staticflickr.com/5014/5408698550_10bae84f16_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5014/5408698550_10bae84f16_t.jpg
-  title: Yo
-  url: https://farm6.staticflickr.com/5014/5408698550_10bae84f16.jpg
-- farm: 6
-  id: '5408699916'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/5408699916/in/album-72157625955913966/
-  secret: bfd4bb18f5
-  server: '5219'
-  thumbnails:
-    large: https://farm6.staticflickr.com/5219/5408699916_bfd4bb18f5_b.jpg
-    medium: https://farm6.staticflickr.com/5219/5408699916_bfd4bb18f5_z.jpg
-    small: https://farm6.staticflickr.com/5219/5408699916_bfd4bb18f5_m.jpg
-    square: https://farm6.staticflickr.com/5219/5408699916_bfd4bb18f5_s.jpg
-    thumbnail: https://farm6.staticflickr.com/5219/5408699916_bfd4bb18f5_t.jpg
-  title: Dancing
-  url: https://farm6.staticflickr.com/5219/5408699916_bfd4bb18f5.jpg
+- '5408083133'
+- '5408084533'
+- '5408085927'
+- '5408086721'
+- '5408087967'
+- '5408698550'
+- '5408699916'
 primary: '5408083133'
 secret: 824e43a91a
 server: '5138'
 title: Snow Day
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

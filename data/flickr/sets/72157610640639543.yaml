@@ -1,6 +1,8 @@
 can_comment: 0
 count_comments: '0'
-count_views: '34'
+count_photos: 3
+count_videos: 0
+count_views: '37'
 date_create: '1228363009'
 date_update: '1394944840'
 description: Three pictures of Alice at Get Smashed 2008.  Mainly because she always
@@ -8,61 +10,15 @@ description: Three pictures of Alice at Get Smashed 2008.  Mainly because she al
 farm: 4
 id: '72157610640639543'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3081702346'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081702346/in/album-72157610640639543/
-  secret: b0d34fb412
-  server: '3158'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3158/3081702346_b0d34fb412_b.jpg
-    medium: https://farm4.staticflickr.com/3158/3081702346_b0d34fb412_z.jpg
-    small: https://farm4.staticflickr.com/3158/3081702346_b0d34fb412_m.jpg
-    square: https://farm4.staticflickr.com/3158/3081702346_b0d34fb412_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3158/3081702346_b0d34fb412_t.jpg
-  title: Alice I
-  url: https://farm4.staticflickr.com/3158/3081702346_b0d34fb412.jpg
-- farm: 4
-  id: '3080864361'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080864361/in/album-72157610640639543/
-  secret: b767bab95d
-  server: '3048'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3048/3080864361_b767bab95d_b.jpg
-    medium: https://farm4.staticflickr.com/3048/3080864361_b767bab95d_z.jpg
-    small: https://farm4.staticflickr.com/3048/3080864361_b767bab95d_m.jpg
-    square: https://farm4.staticflickr.com/3048/3080864361_b767bab95d_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3048/3080864361_b767bab95d_t.jpg
-  title: Alice II
-  url: https://farm4.staticflickr.com/3048/3080864361_b767bab95d.jpg
-- farm: 4
-  id: '3081702956'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081702956/in/album-72157610640639543/
-  secret: f0ea1fa785
-  server: '3152'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3152/3081702956_f0ea1fa785_b.jpg
-    medium: https://farm4.staticflickr.com/3152/3081702956_f0ea1fa785_z.jpg
-    small: https://farm4.staticflickr.com/3152/3081702956_f0ea1fa785_m.jpg
-    square: https://farm4.staticflickr.com/3152/3081702956_f0ea1fa785_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3152/3081702956_f0ea1fa785_t.jpg
-  title: Alice III
-  url: https://farm4.staticflickr.com/3152/3081702956_f0ea1fa785.jpg
+- '3081702346'
+- '3080864361'
+- '3081702956'
 primary: '3081702346'
 secret: b0d34fb412
 server: '3158'
 title: Get Smashed 2008
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 1
+count_videos: 0
 count_views: '3'
 date_create: '1228363784'
 date_update: '1394944840'
@@ -7,27 +9,13 @@ description: Our family Christmas card for 2008.
 farm: 4
 id: '72157610706805148'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3080889153'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080889153/in/album-72157610706805148/
-  secret: eb45aa6167
-  server: '3153'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3153/3080889153_eb45aa6167_b.jpg
-    medium: https://farm4.staticflickr.com/3153/3080889153_eb45aa6167_z.jpg
-    small: https://farm4.staticflickr.com/3153/3080889153_eb45aa6167_m.jpg
-    square: https://farm4.staticflickr.com/3153/3080889153_eb45aa6167_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3153/3080889153_eb45aa6167_t.jpg
-  title: Christmas Card 2008
-  url: https://farm4.staticflickr.com/3153/3080889153_eb45aa6167.jpg
+- '3080889153'
 primary: '3080889153'
 secret: eb45aa6167
 server: '3153'
 title: Christmas Card 2008
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 9
+count_videos: 0
 count_views: '0'
 date_create: '1460368591'
 date_update: '1460368608'
@@ -7,163 +9,21 @@ description: Another rainy day. I love taking pictures on such days.
 farm: 2
 id: '72157664723193864'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 2
-  id: '26365999865'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26365999865/in/album-72157664723193864/
-  secret: de764d2ece
-  server: '1573'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1573/26365999865_de764d2ece_b.jpg
-    medium: https://farm2.staticflickr.com/1573/26365999865_de764d2ece_z.jpg
-    small: https://farm2.staticflickr.com/1573/26365999865_de764d2ece_m.jpg
-    square: https://farm2.staticflickr.com/1573/26365999865_de764d2ece_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1573/26365999865_de764d2ece_t.jpg
-  title: Hands
-  url: https://farm2.staticflickr.com/1573/26365999865_de764d2ece.jpg
-- farm: 2
-  id: '26365999695'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26365999695/in/album-72157664723193864/
-  secret: 603d31c31b
-  server: '1644'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1644/26365999695_603d31c31b_b.jpg
-    medium: https://farm2.staticflickr.com/1644/26365999695_603d31c31b_z.jpg
-    small: https://farm2.staticflickr.com/1644/26365999695_603d31c31b_m.jpg
-    square: https://farm2.staticflickr.com/1644/26365999695_603d31c31b_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1644/26365999695_603d31c31b_t.jpg
-  title: 'Day 264: Raindrops on Roses'
-  url: https://farm2.staticflickr.com/1644/26365999695_603d31c31b.jpg
-- farm: 2
-  id: '26340074476'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26340074476/in/album-72157664723193864/
-  secret: 48fc29a068
-  server: '1703'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1703/26340074476_48fc29a068_b.jpg
-    medium: https://farm2.staticflickr.com/1703/26340074476_48fc29a068_z.jpg
-    small: https://farm2.staticflickr.com/1703/26340074476_48fc29a068_m.jpg
-    square: https://farm2.staticflickr.com/1703/26340074476_48fc29a068_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1703/26340074476_48fc29a068_t.jpg
-  title: '... on Clover'
-  url: https://farm2.staticflickr.com/1703/26340074476_48fc29a068.jpg
-- farm: 2
-  id: '25761172844'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/25761172844/in/album-72157664723193864/
-  secret: 470a1a972f
-  server: '1588'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1588/25761172844_470a1a972f_b.jpg
-    medium: https://farm2.staticflickr.com/1588/25761172844_470a1a972f_z.jpg
-    small: https://farm2.staticflickr.com/1588/25761172844_470a1a972f_m.jpg
-    square: https://farm2.staticflickr.com/1588/25761172844_470a1a972f_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1588/25761172844_470a1a972f_t.jpg
-  title: '... on Leaves'
-  url: https://farm2.staticflickr.com/1588/25761172844_470a1a972f.jpg
-- farm: 2
-  id: '25763266453'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/25763266453/in/album-72157664723193864/
-  secret: 59edfbe144
-  server: '1692'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1692/25763266453_59edfbe144_b.jpg
-    medium: https://farm2.staticflickr.com/1692/25763266453_59edfbe144_z.jpg
-    small: https://farm2.staticflickr.com/1692/25763266453_59edfbe144_m.jpg
-    square: https://farm2.staticflickr.com/1692/25763266453_59edfbe144_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1692/25763266453_59edfbe144_t.jpg
-  title: '... on Berries'
-  url: https://farm2.staticflickr.com/1692/25763266453_59edfbe144.jpg
-- farm: 2
-  id: '26365999165'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26365999165/in/album-72157664723193864/
-  secret: 293d2710d8
-  server: '1654'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1654/26365999165_293d2710d8_b.jpg
-    medium: https://farm2.staticflickr.com/1654/26365999165_293d2710d8_z.jpg
-    small: https://farm2.staticflickr.com/1654/26365999165_293d2710d8_m.jpg
-    square: https://farm2.staticflickr.com/1654/26365999165_293d2710d8_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1654/26365999165_293d2710d8_t.jpg
-  title: Roots
-  url: https://farm2.staticflickr.com/1654/26365999165_293d2710d8.jpg
-- farm: 2
-  id: '26299772231'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26299772231/in/album-72157664723193864/
-  secret: b2a6684287
-  server: '1577'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1577/26299772231_b2a6684287_b.jpg
-    medium: https://farm2.staticflickr.com/1577/26299772231_b2a6684287_z.jpg
-    small: https://farm2.staticflickr.com/1577/26299772231_b2a6684287_m.jpg
-    square: https://farm2.staticflickr.com/1577/26299772231_b2a6684287_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1577/26299772231_b2a6684287_t.jpg
-  title: Stained Glass
-  url: https://farm2.staticflickr.com/1577/26299772231_b2a6684287.jpg
-- farm: 2
-  id: '26299772111'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26299772111/in/album-72157664723193864/
-  secret: 8c7a42326a
-  server: '1657'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1657/26299772111_8c7a42326a_b.jpg
-    medium: https://farm2.staticflickr.com/1657/26299772111_8c7a42326a_z.jpg
-    small: https://farm2.staticflickr.com/1657/26299772111_8c7a42326a_m.jpg
-    square: https://farm2.staticflickr.com/1657/26299772111_8c7a42326a_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1657/26299772111_8c7a42326a_t.jpg
-  title: Doorway
-  url: https://farm2.staticflickr.com/1657/26299772111_8c7a42326a.jpg
-- farm: 2
-  id: '26365998205'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/26365998205/in/album-72157664723193864/
-  secret: f9f9ecd289
-  server: '1516'
-  thumbnails:
-    large: https://farm2.staticflickr.com/1516/26365998205_f9f9ecd289_b.jpg
-    medium: https://farm2.staticflickr.com/1516/26365998205_f9f9ecd289_z.jpg
-    small: https://farm2.staticflickr.com/1516/26365998205_f9f9ecd289_m.jpg
-    square: https://farm2.staticflickr.com/1516/26365998205_f9f9ecd289_s.jpg
-    thumbnail: https://farm2.staticflickr.com/1516/26365998205_f9f9ecd289_t.jpg
-  title: Saint
-  url: https://farm2.staticflickr.com/1516/26365998205_f9f9ecd289.jpg
+- '26365999865'
+- '26365999695'
+- '26340074476'
+- '25761172844'
+- '25763266453'
+- '26365999165'
+- '26299772231'
+- '26299772111'
+- '26365998205'
 primary: '26365999865'
 secret: de764d2ece
 server: '1573'
 title: Raindrops Etc
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

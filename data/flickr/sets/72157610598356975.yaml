@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 2
+count_videos: 0
 count_views: '9'
 date_create: '1228270412'
 date_update: '1394944840'
@@ -8,44 +10,14 @@ description: A couple of pictures I took in southern Indiana on a family drive w
 farm: 4
 id: '72157610598356975'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3078181345'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078181345/in/album-72157610598356975/
-  secret: eb3cdd5766
-  server: '3234'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3234/3078181345_eb3cdd5766_b.jpg
-    medium: https://farm4.staticflickr.com/3234/3078181345_eb3cdd5766_z.jpg
-    small: https://farm4.staticflickr.com/3234/3078181345_eb3cdd5766_m.jpg
-    square: https://farm4.staticflickr.com/3234/3078181345_eb3cdd5766_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3234/3078181345_eb3cdd5766_t.jpg
-  title: Single Lane Bridge
-  url: https://farm4.staticflickr.com/3234/3078181345_eb3cdd5766.jpg
-- farm: 4
-  id: '3078182551'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3078182551/in/album-72157610598356975/
-  secret: 2f775071f0
-  server: '3183'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3183/3078182551_2f775071f0_b.jpg
-    medium: https://farm4.staticflickr.com/3183/3078182551_2f775071f0_z.jpg
-    small: https://farm4.staticflickr.com/3183/3078182551_2f775071f0_m.jpg
-    square: https://farm4.staticflickr.com/3183/3078182551_2f775071f0_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3183/3078182551_2f775071f0_t.jpg
-  title: Bright Flower
-  url: https://farm4.staticflickr.com/3183/3078182551_2f775071f0.jpg
+- '3078181345'
+- '3078182551'
 primary: '3078181345'
 secret: eb3cdd5766
 server: '3234'
 title: Father's Day Drive
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

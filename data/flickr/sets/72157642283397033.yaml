@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 5
+count_videos: 0
 count_views: '5'
 date_create: '1394690398'
 date_update: '1446551946'
@@ -7,95 +9,17 @@ description: ''
 farm: 8
 id: '72157642283397033'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 8
-  id: '13120337485'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120337485/in/album-72157642283397033/
-  secret: 6aba0a39f2
-  server: '7432'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7432/13120337485_6aba0a39f2_b.jpg
-    medium: https://farm8.staticflickr.com/7432/13120337485_6aba0a39f2_z.jpg
-    small: https://farm8.staticflickr.com/7432/13120337485_6aba0a39f2_m.jpg
-    square: https://farm8.staticflickr.com/7432/13120337485_6aba0a39f2_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7432/13120337485_6aba0a39f2_t.jpg
-  title: Remains I
-  url: https://farm8.staticflickr.com/7432/13120337485_6aba0a39f2.jpg
-- farm: 4
-  id: '13120618694'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120618694/in/album-72157642283397033/
-  secret: '3489829567'
-  server: '3820'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3820/13120618694_3489829567_b.jpg
-    medium: https://farm4.staticflickr.com/3820/13120618694_3489829567_z.jpg
-    small: https://farm4.staticflickr.com/3820/13120618694_3489829567_m.jpg
-    square: https://farm4.staticflickr.com/3820/13120618694_3489829567_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3820/13120618694_3489829567_t.jpg
-  title: Remains II
-  url: https://farm4.staticflickr.com/3820/13120618694_3489829567.jpg
-- farm: 3
-  id: '13120341835'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120341835/in/album-72157642283397033/
-  secret: 5dcc36804b
-  server: '2565'
-  thumbnails:
-    large: https://farm3.staticflickr.com/2565/13120341835_5dcc36804b_b.jpg
-    medium: https://farm3.staticflickr.com/2565/13120341835_5dcc36804b_z.jpg
-    small: https://farm3.staticflickr.com/2565/13120341835_5dcc36804b_m.jpg
-    square: https://farm3.staticflickr.com/2565/13120341835_5dcc36804b_s.jpg
-    thumbnail: https://farm3.staticflickr.com/2565/13120341835_5dcc36804b_t.jpg
-  title: Remains III
-  url: https://farm3.staticflickr.com/2565/13120341835_5dcc36804b.jpg
-- farm: 8
-  id: '13120448863'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120448863/in/album-72157642283397033/
-  secret: f65efe5fa7
-  server: '7314'
-  thumbnails:
-    large: https://farm8.staticflickr.com/7314/13120448863_f65efe5fa7_b.jpg
-    medium: https://farm8.staticflickr.com/7314/13120448863_f65efe5fa7_z.jpg
-    small: https://farm8.staticflickr.com/7314/13120448863_f65efe5fa7_m.jpg
-    square: https://farm8.staticflickr.com/7314/13120448863_f65efe5fa7_s.jpg
-    thumbnail: https://farm8.staticflickr.com/7314/13120448863_f65efe5fa7_t.jpg
-  title: Glow
-  url: https://farm8.staticflickr.com/7314/13120448863_f65efe5fa7.jpg
-- farm: 3
-  id: '13120450423'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/13120450423/in/album-72157642283397033/
-  secret: b981aa86aa
-  server: '2761'
-  thumbnails:
-    large: https://farm3.staticflickr.com/2761/13120450423_b981aa86aa_b.jpg
-    medium: https://farm3.staticflickr.com/2761/13120450423_b981aa86aa_z.jpg
-    small: https://farm3.staticflickr.com/2761/13120450423_b981aa86aa_m.jpg
-    square: https://farm3.staticflickr.com/2761/13120450423_b981aa86aa_s.jpg
-    thumbnail: https://farm3.staticflickr.com/2761/13120450423_b981aa86aa_t.jpg
-  title: Sunrise, Sunset
-  url: https://farm3.staticflickr.com/2761/13120450423_b981aa86aa.jpg
+- '13120337485'
+- '13120618694'
+- '13120341835'
+- '13120448863'
+- '13120450423'
 primary: '13120337485'
 secret: 6aba0a39f2
 server: '7432'
 title: At Home II
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1

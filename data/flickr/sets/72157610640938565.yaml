@@ -1,5 +1,7 @@
 can_comment: 0
 count_comments: '0'
+count_photos: 4
+count_videos: 0
 count_views: '16'
 date_create: '1228363611'
 date_update: '1394944840'
@@ -8,78 +10,16 @@ description: A set of pictures of my younger cousins from the Olinger family Tha
 farm: 4
 id: '72157610640938565'
 needs_interstitial: 0
+owner: 27191036@N05
 photos:
-- farm: 4
-  id: '3080883993'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '1'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080883993/in/album-72157610640938565/
-  secret: 6811c13615
-  server: '3091'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3091/3080883993_6811c13615_b.jpg
-    medium: https://farm4.staticflickr.com/3091/3080883993_6811c13615_z.jpg
-    small: https://farm4.staticflickr.com/3091/3080883993_6811c13615_m.jpg
-    square: https://farm4.staticflickr.com/3091/3080883993_6811c13615_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3091/3080883993_6811c13615_t.jpg
-  title: The Game
-  url: https://farm4.staticflickr.com/3091/3080883993_6811c13615.jpg
-- farm: 4
-  id: '3081729586'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3081729586/in/album-72157610640938565/
-  secret: 19a0725e78
-  server: '3182'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3182/3081729586_19a0725e78_b.jpg
-    medium: https://farm4.staticflickr.com/3182/3081729586_19a0725e78_z.jpg
-    small: https://farm4.staticflickr.com/3182/3081729586_19a0725e78_m.jpg
-    square: https://farm4.staticflickr.com/3182/3081729586_19a0725e78_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3182/3081729586_19a0725e78_t.jpg
-  title: Focus
-  url: https://farm4.staticflickr.com/3182/3081729586_19a0725e78.jpg
-- farm: 4
-  id: '3080890829'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3080890829/in/album-72157610640938565/
-  secret: 2579a75a58
-  server: '3169'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3169/3080890829_2579a75a58_b.jpg
-    medium: https://farm4.staticflickr.com/3169/3080890829_2579a75a58_z.jpg
-    small: https://farm4.staticflickr.com/3169/3080890829_2579a75a58_m.jpg
-    square: https://farm4.staticflickr.com/3169/3080890829_2579a75a58_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3169/3080890829_2579a75a58_t.jpg
-  title: Blue Eyes
-  url: https://farm4.staticflickr.com/3169/3080890829_2579a75a58.jpg
-- farm: 4
-  id: '3139251320'
-  isfamily: 0
-  isfriend: 0
-  isprimary: '0'
-  ispublic: 1
-  page: https://www.flickr.com/photos/jpverkamp/3139251320/in/album-72157610640938565/
-  secret: 36993d30a5
-  server: '3122'
-  thumbnails:
-    large: https://farm4.staticflickr.com/3122/3139251320_36993d30a5_b.jpg
-    medium: https://farm4.staticflickr.com/3122/3139251320_36993d30a5_z.jpg
-    small: https://farm4.staticflickr.com/3122/3139251320_36993d30a5_m.jpg
-    square: https://farm4.staticflickr.com/3122/3139251320_36993d30a5_s.jpg
-    thumbnail: https://farm4.staticflickr.com/3122/3139251320_36993d30a5_t.jpg
-  title: Young Cousin
-  url: https://farm4.staticflickr.com/3122/3139251320_36993d30a5.jpg
+- '3080883993'
+- '3081729586'
+- '3080890829'
+- '3139251320'
 primary: '3080883993'
 secret: 6811c13615
 server: '3091'
 title: Olinger Thanksgiving 2008
+username: jpverkamp
 videos: 0
 visibility_can_see_set: 1
