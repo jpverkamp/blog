@@ -94,7 +94,6 @@
         (- a b)))
 
 
-(let* ([n1 (codel 1 'in 
 
  
 (struct codel (size op hue lightness neighbors))
