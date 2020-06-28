@@ -6,7 +6,7 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (Death)
+- Discworld - Death
 ---
 {{< goodreads book="Soul Music" cover="true" >}}
 

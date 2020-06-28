@@ -6,7 +6,7 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (Witches)
+- Discworld - Witches
 ---
 {{< goodreads book="Equal Rites" cover="true" >}}
 

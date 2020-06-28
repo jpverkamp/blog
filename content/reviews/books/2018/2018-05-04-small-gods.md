@@ -19,7 +19,7 @@ That being said, the story is interesting enough. It's basically a story about o
 
 It's an interesting enough take on the idea that I've seen in a few other books--that gods have power in relation to how many believers they have-- combined with how religions tend to grow more strict as they gain more and more laws over the years.  
 
-It's well done and an interesting enough take on the topic, but I feel like it's been done better otherwise. Still worth the read for completeness sake and it would probably work as a pretty good introduction to the world of Discworld (although I think the City Watch books do a better job of that).  
+It's well done and an interesting enough take on the topic, but I feel like it's been done better otherwise. Still worth the read for completeness sake and it would probably work as a pretty good introduction to the world of Discworld - although I think the City Watch books do a better job of that.  
 
 Quote for thought:  
 

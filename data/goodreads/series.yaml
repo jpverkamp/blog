@@ -257,17 +257,150 @@ Dirk Pitt:
   url: /series/40653.dirk-pitt
 Discworld:
   books:
+    1: The Colour of Magic
+    2: The Light Fantastic
+    3: Equal Rites
+    4: Mort
+    5: Sourcery
+    6: Wyrd Sisters
     7: Pyramids
     8: Guards! Guards!
+    9: Eric
+    10: Moving Pictures
+    11: Reaper Man
+    12: Witches Abroad
     13: Small Gods
-    16.5: Troll Bridge
+    14: Lords and Ladies
+    15: Men at Arms
+    16: Soul Music
+    17: Interesting Times
+    18: Maskerade
+    19: Feet of Clay
+    20: Hogfather
+    21: Jingo
+    22: The Last Continent
+    23: Carpe Jugulum
+    24: The Fifth Elephant
+    25: The Truth
+    26: Thief of Time
     28: The Amazing Maurice and His Educated Rodents
-    34.5: Where's My Cow?
-    37.5: A Collegiate Casting-Out of Devilish Devices
-    39.5: The World of Poo
+    30: The Wee Free Men
+    31: Monstrous Regiment
+    32: A Hat Full of Sky
+    34: Thud!
+    35: Wi35
+    38: I Shall Wear Midnight
+    39: Snuff
+    40: Raising Steam
+    41: The Shepherd's Crown
   id: 40650
   name: Discworld
   url: /series/40650.discworld
+Discworld - Ankh-Morpork City Watch:
+  books:
+    1: Guards! Guards!
+    1.5: Theatre of Cruelty
+    2: Men at Arms
+    3: Feet of Clay
+    4: 'Schweinsgalopp/Fliegende Fetzen: Zwei Scheibenwelt-Romane in einem Band'
+    5: The Fifth Elephant
+    6: Night Watch
+    7: Thud!
+    7.5: Where's My Cow?
+    8: Snuff
+    1-2: "\u0421\u0442\u0440\u0430\u0436\u0430! \u0421\u0442\u0440\u0430\u0436\u0430\
+      ! \u041A \u043E\u0440\u0443\u0436\u0438\u044E! \u041A \u043E\u0440\u0443\u0436\
+      \u0438\u044E!"
+    3-4: "\u041D\u043E\u0433\u0438 \u0438\u0437 \u0433\u043B\u0438\u043D\u044B. \u041F\
+      \u0430\u0442\u0440\u0438\u043E\u0442"
+    5-6: "\u041F\u044F\u0442\u044B\u0439 \u044D\u043B\u0435\u0444\u0430\u043D\u0442\
+      . \u041D\u043E\u0447\u043D\u0430\u044F \u0421\u0442\u0440\u0430\u0436\u0430"
+    7-8: "\u0428\u043C\u044F\u043A! \u0414\u0435\u043B\u043E \u0442\u0430\u0431\u0430\
+      \u043A"
+    1-3: The City Watch Trilogy
+  id: 106221
+  name: Discworld - Ankh-Morpork City Watch
+  url: /series/106221.discworld---ankh-morpork-city-watch
+Discworld - Death:
+  books:
+    1: Mort
+    1.5: Death and What Comes Next
+    2: Reaper Man
+    3: Soul Music
+    4: 'Schweinsgalopp/Fliegende Fetzen: Zwei Scheibenwelt-Romane in einem Band'
+    5: Thief of Time
+    01-02: "\u041C\u043E\u0440, \u0443\u0447\u0435\u043D\u0438\u043A \u0421\u043C\u0435\
+      \u0440\u0442\u0438. \u041C\u0440\u0430\u0447\u043D\u044B\u0439 \u0416\u043D\u0435\
+      \u0446"
+    03-04: "\u0420\u043E\u043A\u043E\u0432\u0430\u044F \u043C\u0443\u0437\u044B\u043A\
+      \u0430. \u0421\u0430\u043D\u0442\u0430-\u0425\u0440\u044F\u043A\u0443\u0441"
+    01-03: 'Death Trilogy: Mort / Reaper Man / Soul Music'
+  id: 109516
+  name: Discworld - Death
+  url: /series/109516.discworld---death
+Discworld - Industrial Revolution:
+  books:
+    1: Moving Pictures
+    2: The Truth
+    3: Monstrous Regiment
+    4: Going Postal
+    5: Making Money
+    6: Raising Steam
+  id: 159506
+  name: Discworld - Industrial Revolution
+  url: /series/159506.discworld---industrial-revolution
+Discworld - Rincewind:
+  books:
+    1: The Color of Magic
+    2: The Light Fantastic
+    3: Sourcery
+    4: Eric
+    5: Interesting Times
+    6: The Last Continent
+    7: The Last Hero
+    8: Unseen Academicals
+    1-2: 'The First Discworld Novels: The Colour of Magic and the Light Fantastic'
+    3-4: "\u041F\u043E\u0441\u043E\u0445 \u0438 \u0448\u043B\u044F\u043F\u0430. \u042D\
+      \u0440\u0438\u043A"
+    3-5: The Rincewind Trilogy
+    1-4: Rincewind the Wizzard
+  id: 109518
+  name: Discworld - Rincewind
+  url: /series/109518.discworld---rincewind
+Discworld - Tiffany Aching:
+  books:
+    1: The Wee Free Men
+    2: A Hat Full of Sky
+    3: Wintersmith
+    4: I Shall Wear Midnight
+    5: The Shepherd's Crown
+    1-2: 'The Wee Free Men: The Beginning'
+    1-4: 'Tiffany Aching 4-Book Collection: A Hat Full of Sky, The Wee Free Men, Wintersmith,
+      I Shall Wear Midnight'
+    1-5: 'Tiffany Aching Complete Collection: 5 Books'
+  id: 96852
+  name: Discworld - Tiffany Aching
+  url: /series/96852.discworld---tiffany-aching
+Discworld - Witches:
+  books:
+    1: Equal Rites
+    2: Wyrd Sisters
+    3: Witches Abroad
+    4: Lords and Ladies
+    5: Maskerade
+    5.5: The Sea and Little Fishes
+    6: Carpe Jugulum
+    1-3: The Witches Trilogy
+    1-2: "\u0422\u0432\u043E\u0440\u0446\u044B \u0437\u0430\u043A\u043B\u0438\u043D\
+      \u0430\u043D\u0438\u0439. \u0412\u0435\u0449\u0438\u0435 \u0441\u0435\u0441\u0442\
+      \u0440\u0438\u0447\u043A\u0438"
+    3-4: "\u0412\u0435\u0434\u044C\u043C\u044B \u0437\u0430 \u0433\u0440\u0430\u043D\
+      \u0438\u0446\u0435\u0439. \u0414\u0430\u043C\u044B \u0438 \u0413\u043E\u0441\
+      \u043F\u043E\u0434\u0430"
+    5-6: "\u041C\u0430\u0441\u043A\u0430\u0440\u0430\u0434. Carpe Jugulum"
+  id: 109517
+  name: Discworld - Witches
+  url: /series/109517.discworld---witches
 Disrupted Magic:
   books:
     1: Midnight Curse
@@ -389,6 +522,39 @@ Frozen Sky:
   id: 153852
   name: Frozen Sky
   url: /series/153852.frozen-sky
+Fullmetal Alchemist:
+  books:
+    1: Fullmetal Alchemist, Vol. 1
+    2: Fullmetal Alchemist, Vol. 2
+    3: Fullmetal Alchemist, Vol. 3
+    4: Fullmetal Alchemist, Vol. 4
+    5: Fullmetal Alchemist, Vol. 5
+    6: Fullmetal Alchemist, Vol. 6
+    7: Fullmetal Alchemist, Vol. 7
+    8: Fullmetal Alchemist, Vol. 8
+    9: Fullmetal Alchemist, Vol. 9
+    10: Fullmetal Alchemist, Vol. 10
+    11: Fullmetal Alchemist, Vol. 11
+    12: Fullmetal Alchemist, Vol. 12
+    13: Fullmetal Alchemist, Vol. 13
+    14: Fullmetal Alchemist, Vol. 14
+    15: Fullmetal Alchemist, Vol. 15
+    16: Fullmetal Alchemist, Vol. 16
+    17: Fullmetal Alchemist, Vol. 17
+    18: Fullmetal Alchemist, Vol. 18
+    19: Fullmetal Alchemist, Vol. 19
+    20: Fullmetal Alchemist, Vol. 20
+    21: Fullmetal Alchemist, Vol. 21
+    22: Fullmetal Alchemist, Vol. 22
+    23: Fullmetal Alchemist, Vol. 23
+    24: Fullmetal Alchemist, Vol. 24
+    25: Fullmetal Alchemist, Vol. 25
+    26: Fullmetal Alchemist, Vol. 26
+    27: "\u92FC\u306E\u932C\u91D1\u8853\u5E2B 27"
+    1-27: Fullmetal Alchemist Box Set
+  id: 49276
+  name: Fullmetal Alchemist
+  url: /series/49276.fullmetal-alchemist
 Gentleman Bastard:
   books:
     1: The Lies of Locke Lamora
@@ -1147,6 +1313,111 @@ The Academy:
   id: 42777
   name: The Academy
   url: /series/42777.the-academy
+The Boxcar Children:
+  books:
+    1: The Boxcar Children
+    2: Surprise Island
+    3: The Yellow House Mystery
+    4: Mystery Ranch
+    5: Mike's Mystery
+    6: Blue Bay Mystery
+    7: The Woodshed Mystery
+    8: The Lighthouse Mystery
+    9: Mountain Top Mystery
+    10: Schoolhouse Mystery
+    11: Caboose Mystery
+    12: Houseboat Mystery
+    13: Snowbound Mystery
+    14: Tree House Mystery
+    15: Bicycle Mystery
+    16: Mystery in the Sand
+    17: Mystery Behind the Wall
+    18: Bus Station Mystery
+    19: Benny Uncovers a Mystery
+    20: The Haunted Cabin Mystery
+    21: The Deserted Library Mystery
+    22: The Animal Shelter Mystery
+    23: The Old Motel Mystery
+    24: The Mystery of the Hidden Painting
+    25: The Amusement Park Mystery
+    26: The Mystery of the Mixed-Up Zoo
+    27: The Camp-Out Mystery
+    28: The Mystery Girl
+    29: The Mystery Cruise
+    30: The Disappearing Friend Mystery
+    31: The Mystery of the Singing Ghost
+    32: Mystery in the Snow
+    33: The Pizza Mystery
+    34: The Mystery Horse
+    35: The Mystery at the Dog Show
+    36: The Castle Mystery
+    37: The Mystery of the Lost Village
+    38: The Mystery of the Purple Pool
+    39: The Ghost Ship Mystery
+    40: The Canoe Trip Mystery
+    41: The Mystery of the Hidden Beach
+    42: The Mystery of the Missing Cat
+    43: The Mystery on Stage
+    44: The Dinosaur Mystery
+    45: The Mystery of the Stolen Music
+    46: The Chocolate Sundae Mystery
+    47: The Mystery of the Hot Air Balloon
+    48: The Mystery Bookstore
+    49: The Mystery of the Stolen Boxcar
+    50: The Mystery in the Cave
+    51: The Mystery on the Train
+    52: The Mystery of the Lost Mine
+    53: The Guide Dog Mystery
+    54: The Hurricane Mystery
+    55: The Mystery of the Secret Message
+    56: The Firehouse Mystery
+    57: The Mystery in San Francisco
+    58: The Mystery at the Alamo
+    59: The Outer Space Mystery
+    60: The Soccer Mystery
+    61: The Growling Bear Mystery
+    62: The Mystery of the Lake Monster
+    63: The Mystery at Peacock Hall
+    64: The Black Pearl Mystery
+    65: The Cereal Box Mystery
+    66: The Panther Mystery
+    67: The Mystery of the Stolen Sword
+    68: The Basketball Mystery
+    69: The Movie Star Mystery
+    70: The Mystery of the Pirate's Map
+    71: The Ghost Town Mystery
+    72: The Mystery in the Mall
+    73: The Gymnastics Mystery
+    74: The Poison Frog Mystery
+    75: The Mystery of the Empty Safe
+    76: The Great Bicycle Race Mystery
+    77: The Mystery of the Wild Ponies
+    78: The Mystery in the Computer Game
+    79: The Mystery at the Crooked House
+    80: The Hockey Mystery
+    81: The Mystery of the Midnight Dog
+    82: The Summer Camp Mystery
+    83: The Copycat Mystery
+    84: The Haunted Clock Tower Mystery
+    85: The Disappearing Staircase Mystery
+    86: The Mystery of the Blizzard Mountain
+    87: The Mystery of the Spider's Clue
+    88: The Mystery of the Mummy's Curse
+    89: The Mystery of the Star Ruby
+    90: The Stuffed Bear Mystery
+    91: The Mystery at Skeleton Point
+    92: The Tattletale Mystery
+    93: The Comic Book Mystery
+    94: The Ice Cream Mystery
+    95: The Midnight Mystery
+    96: Mystery of the Fortune Cookie
+    97: The Radio Mystery
+    98: The Mystery of the Runaway Ghost
+    99: The Finders Keepers Mystery
+    100: The Mystery Of The Haunted Boxcar
+  id: 40513
+  name: The Boxcar Children
+  url: /series/40513.the-boxcar-children
 The Broken Earth:
   books:
     1: The Fifth Season

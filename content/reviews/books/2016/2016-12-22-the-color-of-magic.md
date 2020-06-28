@@ -6,7 +6,7 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (Rincewind)
+- Discworld - Rincewind
 ---
 {{< goodreads book="The Color of Magic" cover="true" >}}
 

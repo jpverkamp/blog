@@ -6,7 +6,7 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (City Watch)
+- Discworld - City Watch
 ---
 {{< goodreads book="Feet of Clay" cover="true" >}}
 

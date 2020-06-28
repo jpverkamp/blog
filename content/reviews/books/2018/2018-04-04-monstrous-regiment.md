@@ -6,7 +6,7 @@ reviews/lists:
 - 2018 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (Industrial Revolution)
+- Discworld - Industrial Revolution
 ---
 {{< goodreads book="Monstrous Regiment" cover="true" >}}
 

@@ -3,28 +3,25 @@
         {{- .Content -}}
     </div>
 
-    {{- range .Pages -}}
     <article class="li">
-    	<header>
-    		<h1 class="entry-title">
-                <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
-                {{- if eq (len .Data.Pages) 1 -}}
-                    (1 post)
-                {{- else -}}
-                    ({{ len .Data.Pages }} posts)
-                {{- end -}}
-            </h1>
-
-
-    		<div class="entry-meta">
-                {{- if .Date -}}
-                <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
-                {{- end -}}
-    		</div>
-    	</header>
-
     	<div class="entry-content">
-    	</div>
+            <ul>
+            {{- range (sort .Pages "Title") -}}
+            <li>
+                    <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
+                    <span>
+                        {{- if eq (len .Data.Pages) 1 -}}
+                            1 post
+                        {{- else -}}
+                            {{ len .Data.Pages }} posts
+                        {{- end -}}
+                        {{- if .Date -}}
+                            , most recent: <span>{{ .Date.Format "2006-01-02" }}</span>
+                        {{- end -}}
+                    </span>
+            </li>
+            {{- end -}}        
+            </ul>
+        </div>
     </article>
-    {{- end -}}
 {{ end }}

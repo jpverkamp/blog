@@ -9,6 +9,7 @@ params:
     listTermsPerTaxonomy: 10
     disqusShortname: jverkamp
     disqusBaseURL: https://blog.jverkamp.com
+    githubUsername: jpverkamp
 
 rssLimit: 50
 outputFormats:

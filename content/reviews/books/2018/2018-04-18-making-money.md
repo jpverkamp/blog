@@ -6,7 +6,7 @@ reviews/lists:
 - 2018 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (Moist von Lipwig)
+- Discworld - Moist von Lipwig
 ---
 {{< goodreads book="Making Money" cover="true" >}}
 

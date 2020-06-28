@@ -6,7 +6,7 @@ reviews/lists:
 - 2018 Book Reviews
 reviews/series:
 - Discworld
-- Discworld (Tiffany Aching)
+- Discworld - Tiffany Aching
 ---
 {{< goodreads book="Wintersmith" cover="true" >}}
 

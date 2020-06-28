@@ -11,41 +11,14 @@
             </sup>
         </h2>
 
-        {{- if eq .Title "Reviews" -}}
-            <div class="home-page-reviews">
-                {{- range first 10 .Pages -}}
-                <a href="{{ .Permalink }}">
-                    {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
-                </a>
-                {{- end -}}
-            </div>
-
-        {{- else if eq .Title "Photography" -}}
-            {{- range last 10 (sort $.Site.Data.flickr.photos) -}}
-                <a href="{{ .page }}">
-                    <img class="home-page-image" src="{{ .thumbnails.square }}">
-                </a>
+        <ul>
+            {{- range first 10 .Pages -}}
+            <li>
+                {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </li>
             {{- end -}}
-
-            <ul>
-                {{- range first 10 .Pages -}}
-                <li>
-                    {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
-                {{- end -}}
-            </ul>
-
-        {{- else -}}
-            <ul>
-                {{- range first 10 .Pages -}}
-                <li>
-                    {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
-                {{- end -}}
-            </ul>
-        {{- end -}}
+        </ul>
     {{- end -}}
 {{- end -}}
 

@@ -5,7 +5,7 @@ generated: true
 reviews/lists:
 - 2020 Book Reviews
 reviews/series:
-- Boxcar Children Series
+- The Boxcar Children
 ---
 {{< goodreads book="Mountain Top Mystery" cover="true" >}}
 
