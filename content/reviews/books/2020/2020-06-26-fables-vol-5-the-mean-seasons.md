@@ -4,6 +4,9 @@ date: 2020-06-26 23:00:00
 generated: true
 reviews/lists:
 - 2020 Book Reviews
+reviews/series:
+- Fables
+- Fables Universe
 ---
 {{< goodreads book="Fables, Vol. 5: The Mean Seasons" cover="true" >}}
 

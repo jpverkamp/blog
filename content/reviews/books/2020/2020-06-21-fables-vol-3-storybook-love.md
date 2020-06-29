@@ -6,6 +6,7 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/series:
 - Fables
+- Fables Universe
 ---
 {{< goodreads book="Fables, Vol. 3: Storybook Love" cover="true" >}}
 

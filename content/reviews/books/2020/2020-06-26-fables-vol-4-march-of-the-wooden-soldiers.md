@@ -6,6 +6,7 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/series:
 - Fables
+- Fables Universe
 ---
 {{< goodreads book="Fables, Vol. 4: March of the Wooden Soldiers" cover="true" >}}
 
