@@ -7,18 +7,7 @@
 	<header>
 		<h1 class="entry-title">
             {{- .Title -}}
-            {{- if index .Params "reviews/series" -}}
-                {{- range $series := index .Params "reviews/series" -}}  
-                    {{- if index $.Site.Data.goodreads.series $series -}}        
-                        {{- range $index, $book := index (index $.Site.Data.goodreads.series $series) "books" -}}
-                            {{- if (eq $book $.Page.Title) }}
-                                (<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>)
-                            {{- end -}}
-                        {{- end -}}
-                    {{- end -}}
-                {{- end -}}
-        {{- end -}}
-
+            {{- partial "series.html" . -}}
         </h1>
 
         <div class="entry-meta">

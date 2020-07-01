@@ -1322,6 +1322,13 @@ Fables:
   localCover: /embeds/books/fables-vol-5-the-mean-seasons.jpg
   name: 'Fables, Vol. 5: The Mean Seasons'
   url: /book/show/21330.fables-vol-5-the-mean-seasons
+'Fables, Vol. 6: Homelands':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962707l/21328._SX98_.jpg
+  id: 21328
+  localCover: /embeds/books/fables-vol-6-homelands.jpg
+  name: 'Fables, Vol. 6: Homelands'
+  url: /book/show/21328.fables-vol-6-homelands
 Fair Game:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1327472384l/7942786.jpg

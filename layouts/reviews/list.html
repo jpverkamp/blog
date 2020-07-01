@@ -1,0 +1,27 @@
+{{ define "main" }}
+    <div class="entry-content">
+        {{- .Content -}}
+    </div>
+
+    {{/* Render taxonomies with a matching prefix, but not on the home page */}}
+    {{- if $.Section -}}
+    {{- partial "taxonomy-list.html" . -}}
+    {{- end -}}
+
+    <h1>Recent Review</h1>
+    {{- range $i, $page := first 20 .Pages -}}
+    <a href="{{ .Permalink }}">
+        {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+    </a>
+    {{- end -}}
+
+    <h1>All Reviews</h1>
+    <ul>
+        {{- range .Pages -}}
+        <li>
+            {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
+            <a href="{{ .Permalink }}">{{ .Title }}</a> {{- partial "series.html" . -}}
+        </li>
+        {{- end -}}
+    </ul>
+{{- end -}}

@@ -257,9 +257,11 @@ Dirk Pitt:
     18: Black Wind
     19: Treasure of Khan
     20: Arctic Drift
+    21: Crescent Dawn
     22: Poseidon's Arrow
     23: Havana Storm
     24: Odessa Sea
+    25: Celtic Empire
   id: 40653
   name: Dirk Pitt
   url: /series/40653.dirk-pitt
@@ -713,6 +715,33 @@ Harry Potter:
   id: 45175
   name: Harry Potter
   url: /series/45175.harry-potter
+Hellboy:
+  books:
+    1: 'Hellboy, Vol. 1: Seed of Destruction'
+    2: 'Hellboy, Vol. 2: Wake the Devil'
+    3: 'Hellboy, Vol. 3: The Chained Coffin and Others'
+    4: 'Hellboy, Vol. 4: The Right Hand of Doom'
+    5: 'Hellboy, Vol. 5: Conqueror Worm'
+    6: 'Hellboy, Vol. 6: Strange Places'
+    7: 'Hellboy, Vol. 7: The Troll Witch and Others'
+    8: 'Hellboy, Vol. 8: Darkness Calls'
+    9: 'Hellboy, Vol. 9: The Wild Hunt'
+    10: 'Hellboy, Vol. 10: The Crooked Man and Others'
+    11: 'Hellboy, Vol. 11: The Bride of Hell and Others'
+    12: 'Hellboy, Vol. 12: The Storm and the Fury'
+    12.5: Hellboy in Mexico
+    1-2: 'Hellboy, Volume 1: Seed of Destruction and Wake the Devil'
+    3-4: 'Hellboy, Volume 2: The Chained Coffin & The Right Hand of Doom and Others'
+    5-6: 'Hellboy, Volume 3: Conqueror Worm and Strange Places'
+    7,: 'Hellboy, Volume 4: The Crooked Man and the Troll Witch'
+    8-9: 'Hellboy, Volume 5: Darkness Calls and The Wild Hunt'
+    11-12: 'Hellboy, Volume 6: The Storm and The Fury and The Bride of Hell'
+    Omnibus: 'Hellboy Omnibus Volume 4: Hellboy in Hell'
+    Short: 'Hellboy: The Complete Short Stories Volume 2'
+    Companion: 'Hellboy: The Companion'
+  id: 55300
+  name: Hellboy
+  url: /series/55300.hellboy
 His Dark Materials:
   books:
     0.5: Once Upon a Time in the North
@@ -816,6 +845,15 @@ Kate Daniels:
   id: 40691
   name: Kate Daniels
   url: /series/40691.kate-daniels
+Kingsbridge:
+  books:
+    1: "Die S\xE4ulen der Erde / Die Tore der Welt"
+    2: Um Mundo Sem Fim, Volume II
+    3: A Column of Fire
+    1-3: The Pillars of the Earth / World Without End / A Column of Fire
+  id: 60161
+  name: Kingsbridge
+  url: /series/60161.kingsbridge
 Laundry Files:
   books:
     1: The Atrocity Archives
@@ -1331,6 +1369,24 @@ Safehold:
   id: 58713
   name: Safehold
   url: /series/58713.safehold
+Saga:
+  books:
+    1: Saga, Vol. 1
+    2: Saga, Vol. 2
+    3: Saga, Vol. 3
+    4: Saga, Vol. 4
+    5: Saga, Vol. 5
+    6: Saga, Vol. 6
+    7: Saga, Vol. 7
+    8: Saga, Vol. 8
+    9: Saga, Vol. 9
+    1-3: 'Saga: Book One'
+    4-6: 'Saga: Book Two'
+    7-9: 'Saga: Book Three'
+    1-9: 'Saga: Compendium One'
+  id: 146415
+  name: Saga (Collected Editions)
+  url: /series/146415.saga-collected-editions
 Scarlett Bernard:
   books:
     0.1: Bloodsick
@@ -1672,18 +1728,17 @@ The Dresden Files:
 The Dresden Files Graphic Novels:
   books:
     '0.5': Welcome to the Jungle
-    0.5-2.2: Jim Butcher's the Dresden Files Omnibus Volume 1
-    '1.1': 'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering
-      Storm'
-    '1.2': 'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom'
+    1: Storm Front
+    '1.1': 'Storm Front, Volume 1: The Gathering Storm'
+    '1.2': 'Storm Front, Volume 2: Maelstrom'
+    2: Fool Moon
     '2.1': 'The Dresden Files: Fool Moon, Volume 1'
     '2.2': 'The Dresden Files: Fool Moon, Volume 2'
-    3: 'Jim Butcher''s Dresden Files: Ghoul Goblin'
-    3-5: Jim Butcher's the Dresden Files Omnibus Volume 2
-    4: 'Jim Butcher''s The Dresden Files: War Cry'
-    5: 'Jim Butcher''s The Dresden Files: Down Town'
-    6: 'Jim Butcher''s The Dresden Files: Wild Card'
-    7: 'Jim Butcher''s The Dresden Files: Dog Men'
+    3: Ghoul Goblin
+    4: War Cry
+    5: Down Town
+    6: Wild Card
+    7: Dog Men
   id: 59341
   name: The Dresden Files Graphic Novels
   url: /series/59341.the-dresden-files-graphic-novels
