@@ -9,42 +9,6 @@
     {{- end -}}
 
     {{- if eq .Paginator.PageNumber 1 -}}
-        {{- if eq .Title "Photography" -}}
-            <h1>Recent Photos</h1>
-
-            {{- $photos := first 10 (sort $.Site.Data.flickr.photos "id" "desc") -}}
-            {{- $photoCount := $photos | len -}}
-            {{- $columnCount := 4 -}}
-            {{- $columnSize := int (math.Ceil (div (mul 1.0 $photoCount) $columnCount)) }}
-            {{- $firstColumnExtras := sub $photoCount (mul $columnCount $columnSize) -}}
-            {{- $orderRowMajor := false }}
-
-            <div class="imageGallery">
-                {{- range $columnIndex := seq 0 (sub $columnCount 1) -}}
-                    <div class="column">
-                    {{- range $rowIndex := seq 0 (sub $columnSize 1) -}}
-                        {{- $imageIndex := cond $orderRowMajor (add $columnIndex (mul $rowIndex $columnCount)) (add $rowIndex (mul $columnIndex $columnSize)) -}}
-                        {{- if (lt $imageIndex $photoCount) -}}
-                            {{- $photo := index $photos $imageIndex -}}
-                            <figure>
-                                <a data-fancybox="gallery" data-fancybox-index="{{ $imageIndex }}" data-caption="{{ default $photo.title $photo.description }}" data-flickr="{{ $photo.page }}" href="{{ $photo.thumbnails.large }}">
-                                    <img class="img-rounded" src="{{ $photo.thumbnails.small }}" />
-                                </a>
-                                <!--
-                                <figcaption>
-                                    {{- $photo.title -}}
-                                </figcaption>
-                                -->
-                            </figure>
-                        {{- end -}}
-                    {{- end -}}
-                    </div>
-                {{- end -}}
-            </div>
-
-            <h1>Photosets</h1>
-        {{- end -}}
-
         {{- if eq .Title "Programming" -}}
             <h1>Popular Github Repos</h1>
             <ul>
