@@ -1329,6 +1329,15 @@ Fables:
   localCover: /embeds/books/fables-vol-6-homelands.jpg
   name: 'Fables, Vol. 6: Homelands'
   url: /book/show/21328.fables-vol-6-homelands
+'Fables, Vol. 7: Arabian Nights':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962799l/21327._SX98_.jpg
+  id: 21327
+  localCover: /embeds/books/fables-vol-7-arabian-nights.jpg
+  name: 'Fables, Vol. 7: Arabian Nights'
+  series: and Days
+  series_index: null
+  url: /book/show/21327.fables-vol-7-arabian-nights
 Fair Game:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1327472384l/7942786.jpg
@@ -1661,6 +1670,15 @@ Fullmetal Alchemist, Vol. 20:
   localCover: /embeds/books/fullmetal-alchemist-vol-20.jpg
   name: Fullmetal Alchemist, Vol. 20
   url: /book/show/6408558.fullmetal-alchemist-vol-20
+Fullmetal Alchemist, Vol. 21:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390509647l/6506079.jpg
+  id: 6506079
+  localCover: /embeds/books/fullmetal-alchemist-vol-21.jpg
+  name: Fullmetal Alchemist, Vol. 21
+  series: Fullmetal Alchemist
+  series_index: 21
+  url: /book/show/6506079.fullmetal-alchemist-vol-21
 Fullmetal Alchemist, Vol. 3:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394438667l/868._SX98_.jpg
@@ -2346,6 +2364,15 @@ Isolation:
   series: Partials Sequence
   series_index: 0.5
   url: /book/show/13645264.isolation
+'Jack of Fables, Vol. 1: The':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393716l/21341._SX98_.jpg
+  id: 21341
+  localCover: /embeds/books/jack-of-fables-vol-1-the.jpg
+  name: 'Jack of Fables, Vol. 1: The'
+  series: Nearly
+  series_index: null
+  url: /book/show/21341.jack-of-fables-vol-1-the
 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
   author: James Herriot
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg

@@ -509,7 +509,7 @@ Fables:
     4: 'Fables, Vol. 4: March of the Wooden Soldiers'
     5: 'Fables, Vol. 5: The Mean Seasons'
     6: 'Fables, Vol. 6: Homelands'
-    7: 'Fables, Vol. 7: Arabian Nights'
+    7: 'Fables, Vol. 7: Arabian Nights (and Days)'
     7.5: 'Fables: 1001 Nights of Snowfall'
     8: 'Fables, Vol. 8: Wolves'
     9: 'Fables, Vol. 9: Sons of Empire'
@@ -540,7 +540,7 @@ Fables Universe:
     6: 'Fables, Vol. 6: Homelands'
     7: 'Jack of Fables, Vol. 1: The (Nearly) Great Escape'
     8: 'Jack of Fables, Vol. 2: Jack of Hearts'
-    9: 'Fables, Vol. 7: Arabian Nights'
+    9: 'Fables, Vol. 7: Arabian Nights (and Days)'
     10: 'Fables, Vol. 8: Wolves'
     11: 'Fables: 1001 Nights of Snowfall'
     12: 'Fables, Vol. 9: Sons of Empire'
@@ -593,6 +593,17 @@ Fairest:
     6: 'Fairest: In All the Land'
   id: 87120
   name: Fairest
+  url: /series/87120.fairest-collected-editions
+Fairest (Collected Editions):
+  books:
+    1: 'Fairest, Volume 1: Wide Awake'
+    2: 'Fairest, Volume 2: The Hidden Kingdom'
+    3: 'Fairest, Volume 3: The Return of the Maharaja'
+    4: 'Fairest, Volume 4: Of Men and Mice'
+    5: 'Fairest, Volume 5: The Clamour for Glamour'
+    6: 'Fairest: In All the Land'
+  id: 87120
+  name: Fairest (Collected Editions)
   url: /series/87120.fairest-collected-editions
 Fifth Millenium:
   books: {}
@@ -778,7 +789,7 @@ Imperial Radch:
   url: /series/113751.imperial-radch
 Jack of Fables:
   books:
-    1: 'Jack of Fables, Vol. 1: The'
+    1: 'Jack of Fables, Vol. 1: The (Nearly) Great Escape'
     2: 'Jack of Fables, Vol. 2: Jack of Hearts'
     3: 'Jack of Fables, Vol. 3: The Bad Prince'
     4: 'Jack of Fables, Vol. 4: Americana'
@@ -788,9 +799,6 @@ Jack of Fables:
     7: 'Jack of Fables, Vol. 7: The New Adventures of Jack and Jack'
     8: 'Jack of Fables, Vol. 8: The Fulminate Blade'
     9: 'Jack of Fables, Vol. 9: The End'
-    1-3: 'Jack of Fables: The Deluxe Edition, Book One'
-    4-6: 'Jack of Fables: The Deluxe Edition, Book Two'
-    7-9: 'Jack of Fables: The Deluxe Edition, Book Three'
   id: 54295
   name: Jack of Fables
   url: /series/54295.jack-of-fables

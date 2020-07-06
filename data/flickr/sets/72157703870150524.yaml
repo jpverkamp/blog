@@ -1,10 +1,10 @@
 can_comment: 0
 count_comments: '0'
-count_photos: 18
+count_photos: 20
 count_videos: 0
 count_views: '1'
 date_create: '1543017654'
-date_update: '1593012245'
+date_update: '1593972326'
 description: ''
 farm: 5
 id: '72157703870150524'
@@ -29,6 +29,8 @@ photos:
 - '49998812892'
 - '49998578856'
 - '50040174138'
+- '50079400168'
+- '50079979221'
 primary: '31081147957'
 secret: 54c60526fb
 server: '4865'

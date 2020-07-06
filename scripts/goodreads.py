@@ -116,7 +116,7 @@ def split_title(text):
 
     # If the index looks like a int/float, convert to that
     if index:
-        if index.isdigit():
+        if isinstance(index, int) or index.isdigit():
             index = int(index)
         elif re.match('^[\d.]+$', index):
             index = float(index)
@@ -357,7 +357,7 @@ def get_series(name):
                 pass
 
             if index:
-                if index.isdigit():
+                if isinstance(index, int) or index.isdigit():
                     index = int(index)
                 elif re.match('^[\d.]+$', index):
                     index = float(index)
