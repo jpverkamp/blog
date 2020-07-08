@@ -421,21 +421,23 @@ def reviews(per_page = 20, do_all = False):
             url = url.replace(' ', '')
             counter['x'] += 1
 
-            logging.debug(f'Attempting to download image: {url}')
-            response = requests.get(url, stream = True)
-            response.raw.decode_content = True
-
             name = slugify(alt or f'{title} {counter}')
             extension = url.split(".")[-1].lower()
 
             filename = f'{name}.{extension}'
             path = os.path.join('static', 'embeds', 'books', 'attachments', filename)
-            os.makedirs(os.path.dirname(path), exist_ok = True)
 
-            with open(path, 'wb') as fout:
-                shutil.copyfileobj(response.raw, fout)
+            if not os.path.exists(path):
+                logging.debug(f'Attempting to download image: {url}')
+                response = requests.get(url, stream = True)
+                response.raw.decode_content = True
 
-            # subprocess.check_output(['mogrify', '-resize', '640x>', path])
+                os.makedirs(os.path.dirname(path), exist_ok = True)
+
+                with open(path, 'wb') as fout:
+                    shutil.copyfileobj(response.raw, fout)
+
+                # subprocess.check_output(['mogrify', '-resize', '640x>', path])
 
             return f'![{alt}](/embeds/books/attachments/{filename})'
 

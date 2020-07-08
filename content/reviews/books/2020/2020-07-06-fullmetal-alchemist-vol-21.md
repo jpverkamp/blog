@@ -6,8 +6,6 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/series:
 - Fullmetal Alchemist
-reviews/series:
-- Fullmetal Alchemist
 ---
 {{< goodreads book="Fullmetal Alchemist, Vol. 21" cover="true" >}}
 

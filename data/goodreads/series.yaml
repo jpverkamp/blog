@@ -530,6 +530,48 @@ Fables:
   id: 54296
   name: Fables
   url: /series/54296.fables-collected-editions
+Fables (Collected Editions):
+  books:
+    1: 'Fables, Vol. 1: Legends in Exile'
+    2: 'Fables, Vol. 2: Animal Farm'
+    3: 'Fables, Vol. 3: Storybook Love'
+    4: 'Fables, Vol. 4: March of the Wooden Soldiers'
+    5: 'Fables, Vol. 5: The Mean Seasons'
+    6: 'Fables, Vol. 6: Homelands'
+    7: 'Fables, Vol. 7: Arabian Nights'
+    7.5: 'Fables: 1001 Nights of Snowfall'
+    8: 'Fables, Vol. 8: Wolves'
+    9: 'Fables, Vol. 9: Sons of Empire'
+    10: 'Fables, Vol. 10: The Good Prince'
+    11: 'Fables, Vol. 11: War and Pieces'
+    12: 'Fables, Vol. 12: The Dark Ages'
+    13: 'Fables, Vol. 13: The Great Fables Crossover'
+    14: 'Fables, Vol. 14: Witches'
+    15: 'Fables, Vol. 15: Rose Red'
+    16: 'Fables, Vol. 16: Super Team'
+    17: 'Fables, Vol. 17: Inherit the Wind'
+    17.5: 'Fables: Werewolves of the Heartland'
+    18: 'Fables, Vol. 18: Cubs in Toyland'
+    19: 'Fables, Vol. 19: Snow White'
+    20: 'Fables, Vol. 20: Camelot'
+    21: 'Fables, Vol. 21: Happily Ever After'
+    22: 'Fables, Vol. 22: Farewell'
+  id: 54296
+  name: Fables (Collected Editions)
+  url: /series/54296.fables-collected-editions
+Fables +:
+  books:
+    1: 'Fables, Vol. 1: Legends in Exile'
+    2: 'Cinderella: Fables are Forever'
+    3: 'Jack of Fables, Vol. 3: The Bad Prince'
+    4: 'Fables, Vol. 4: March of the Wooden Soldiers'
+    5: 'Fables, Vol. 5: The Mean Seasons'
+    6: 'Fables, Vol. 6: Homelands'
+    7: 'Fables, Vol. 7: Arabian Nights'
+    8: 'Fables: 1001 Nights of Snowfall'
+  id: 111232
+  name: Fables +
+  url: /series/111232.fables
 Fables Universe:
   books:
     1: 'Fables, Vol. 1: Legends in Exile'
