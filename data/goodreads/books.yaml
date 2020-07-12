@@ -1345,6 +1345,13 @@ Fables:
   localCover: /embeds/books/fables-vol-8-wolves.jpg
   name: 'Fables, Vol. 8: Wolves'
   url: /book/show/21324.fables-vol-8-wolves
+'Fables: 1001 Nights of Snowfall':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870123l/21322._SX98_.jpg
+  id: 21322
+  localCover: /embeds/books/fables-1001-nights-of-snowfall.jpg
+  name: 'Fables: 1001 Nights of Snowfall'
+  url: /book/show/21322.fables-1001-nights-of-snowfall
 Fair Game:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1327472384l/7942786.jpg
@@ -1695,6 +1702,15 @@ Fullmetal Alchemist, Vol. 22:
   series: Fullmetal Alchemist
   series_index: 22
   url: /book/show/6956554.fullmetal-alchemist-vol-22
+Fullmetal Alchemist, Vol. 23:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1279900924l/7326879._SX98_.jpg
+  id: 7326879
+  localCover: /embeds/books/fullmetal-alchemist-vol-23.jpg
+  name: Fullmetal Alchemist, Vol. 23
+  series: Fullmetal Alchemist
+  series_index: 23
+  url: /book/show/7326879.fullmetal-alchemist-vol-23
 Fullmetal Alchemist, Vol. 3:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394438667l/868._SX98_.jpg
