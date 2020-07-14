@@ -8,7 +8,7 @@ programming/languages:
 - Python
 - MySQL
 ---
-One thing tha tI often need to do is deal with a large collection of database servers in different clusters and in different environments. On top of that, sometimes, I want a UI, sometime I want a CLI to script. And sometimes I'm on a VPN and sometimes I'm not. All together, it's a rather complicated number of saved connections and CLI switches and everything else. All together, I want:
+One thing that I often need to do is deal with a large collection of database servers in different clusters and in different environments. On top of that, sometimes, I want a UI, sometime I want a CLI to script. And sometimes I'm on a VPN and sometimes I'm not. All together, it's a rather complicated number of saved connections and CLI switches and everything else. All together, I want:
 
 * Specify the cluster, environment, and mode (read/write/adhoc)
 * Specify if I want to run via CLI or via UI
