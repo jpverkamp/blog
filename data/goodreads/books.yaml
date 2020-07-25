@@ -1287,6 +1287,13 @@ Fables:
   localCover: /embeds/books/fables.jpg
   name: Fables
   url: /book/show/652484.fables
+'Fables, Vol. 10: The Good Prince':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393788l/2147714._SX98_.jpg
+  id: 2147714
+  localCover: /embeds/books/fables-vol-10-the-good-prince.jpg
+  name: 'Fables, Vol. 10: The Good Prince'
+  url: /book/show/2147714.fables-vol-10-the-good-prince
 'Fables, Vol. 1: Legends in Exile':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375392441l/21326._SX98_.jpg
@@ -1345,6 +1352,13 @@ Fables:
   localCover: /embeds/books/fables-vol-8-wolves.jpg
   name: 'Fables, Vol. 8: Wolves'
   url: /book/show/21324.fables-vol-8-wolves
+'Fables, Vol. 9: Sons of Empire':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375396700l/158988._SX98_.jpg
+  id: 158988
+  localCover: /embeds/books/fables-vol-9-sons-of-empire.jpg
+  name: 'Fables, Vol. 9: Sons of Empire'
+  url: /book/show/158988.fables-vol-9-sons-of-empire
 'Fables: 1001 Nights of Snowfall':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327870123l/21322._SX98_.jpg
@@ -1711,6 +1725,42 @@ Fullmetal Alchemist, Vol. 23:
   series: Fullmetal Alchemist
   series_index: 23
   url: /book/show/7326879.fullmetal-alchemist-vol-23
+Fullmetal Alchemist, Vol. 24:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390509906l/8062063.jpg
+  id: 8062063
+  localCover: /embeds/books/fullmetal-alchemist-vol-24.jpg
+  name: Fullmetal Alchemist, Vol. 24
+  series: Fullmetal Alchemist
+  series_index: 24
+  url: /book/show/8062063.fullmetal-alchemist-vol-24
+Fullmetal Alchemist, Vol. 25:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389063002l/10248518.jpg
+  id: 10248518
+  localCover: /embeds/books/fullmetal-alchemist-vol-25.jpg
+  name: Fullmetal Alchemist, Vol. 25
+  series: Fullmetal Alchemist
+  series_index: 25
+  url: /book/show/10248518.fullmetal-alchemist-vol-25
+Fullmetal Alchemist, Vol. 26:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311365650l/10281904._SX98_.jpg
+  id: 10281904
+  localCover: /embeds/books/fullmetal-alchemist-vol-26.jpg
+  name: Fullmetal Alchemist, Vol. 26
+  series: Fullmetal Alchemist
+  series_index: 26
+  url: /book/show/10281904.fullmetal-alchemist-vol-26
+Fullmetal Alchemist, Vol. 27:
+  author: Hiromu Arakawa
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327898478l/11029854._SX98_.jpg
+  id: 11029854
+  localCover: /embeds/books/fullmetal-alchemist-vol-27.jpg
+  name: Fullmetal Alchemist, Vol. 27
+  series: Fullmetal Alchemist
+  series_index: 27
+  url: /book/show/11029854.fullmetal-alchemist-vol-27
 Fullmetal Alchemist, Vol. 3:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394438667l/868._SX98_.jpg
@@ -2405,6 +2455,13 @@ Isolation:
   series: Nearly
   series_index: null
   url: /book/show/21341.jack-of-fables-vol-1-the
+'Jack of Fables, Vol. 2: Jack of Hearts':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375408492l/1142222._SX98_.jpg
+  id: 1142222
+  localCover: /embeds/books/jack-of-fables-vol-2-jack-of-hearts.jpg
+  name: 'Jack of Fables, Vol. 2: Jack of Hearts'
+  url: /book/show/1142222.jack-of-fables-vol-2-jack-of-hearts
 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
   author: James Herriot
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg
@@ -3083,6 +3140,15 @@ My Life as a White Trash Zombie:
   series: White Trash Zombie
   series_index: 1
   url: /book/show/9640626.my-life-as-a-white-trash-zombie
+Mystery Behind the Wall:
+  author: Gertrude Chandler Warner
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389049921l/460607.jpg
+  id: 460607
+  localCover: /embeds/books/mystery-behind-the-wall.jpg
+  name: Mystery Behind the Wall
+  series: The Boxcar Children
+  series_index: 17
+  url: /book/show/460607.mystery-behind-the-wall
 Mystery Ranch:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264374l/156813._SX98_.jpg
