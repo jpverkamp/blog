@@ -2462,6 +2462,22 @@ Isolation:
   localCover: /embeds/books/jack-of-fables-vol-2-jack-of-hearts.jpg
   name: 'Jack of Fables, Vol. 2: Jack of Hearts'
   url: /book/show/1142222.jack-of-fables-vol-2-jack-of-hearts
+'Jack of Fables, Vol. 3: The Bad Prince':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375408813l/2290696._SX98_.jpg
+  id: 2290696
+  localCover: /embeds/books/jack-of-fables-vol-3-the-bad-prince.jpg
+  name: 'Jack of Fables, Vol. 3: The Bad Prince'
+  series: Jack of Fables
+  series_index: 3
+  url: /book/show/2290696.jack-of-fables-vol-3-the-bad-prince
+'Jack of Fables, Vol. 4: Americana':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375394059l/3321998._SX98_.jpg
+  id: 3321998
+  localCover: /embeds/books/jack-of-fables-vol-4-americana.jpg
+  name: 'Jack of Fables, Vol. 4: Americana'
+  url: /book/show/3321998.jack-of-fables-vol-4-americana
 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
   author: James Herriot
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg
@@ -6354,6 +6370,15 @@ Worm:
   localCover: /embeds/books/worm.jpg
   name: Worm
   url: /book/show/18713259.worm
+Wrath of Empire:
+  author: Brian  McClellan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507140487l/28811018._SX98_.jpg
+  id: 28811018
+  localCover: /embeds/books/wrath-of-empire.jpg
+  name: Wrath of Empire
+  series: Gods of Blood and Powder
+  series_index: 2
+  url: /book/show/28811018.wrath-of-empire
 Wyrd Sisters:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1275974472l/34504.jpg

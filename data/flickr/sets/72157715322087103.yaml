@@ -1,0 +1,42 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 11
+count_videos: 0
+count_views: '0'
+date_create: '1596302202'
+date_update: '1596302214'
+description: Another camping trip. We should have started this sooner, but the second
+  best time is today.
+farm: 66
+id: '72157715322087103'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '50177141341'
+- '50176604428'
+- '50177141011'
+- '50177140781'
+- '50176603693'
+- '50177392047'
+- '50176603363'
+- '50177391572'
+- '50176602813'
+- '50176602668'
+- '50177139326'
+- '50177139091'
+- '50176602063'
+- '50177138566'
+- '50177390342'
+- '50177138121'
+- '50177390042'
+- '50177389967'
+- '50176600848'
+- '50177389422'
+- '50177137161'
+primary: '50177141341'
+secret: 6f30092a7b
+server: '65535'
+title: Camping at McCormick's Creek
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
