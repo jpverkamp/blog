@@ -779,6 +779,13 @@ Cibola Burn:
   series: The Expanse
   series_index: 4
   url: /book/show/18886975.cibola-burn
+'Cinderella, Volume 1: From Fabletown with Love':
+  author: Chris Roberson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409235l/7219667._SX98_.jpg
+  id: 7219667
+  localCover: /embeds/books/cinderella-volume-1-from-fabletown-with-love.jpg
+  name: 'Cinderella, Volume 1: From Fabletown with Love'
+  url: /book/show/7219667.cinderella-volume-1-from-fabletown-with-love
 City of Blades:
   author: Robert Jackson Bennett
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426255519l/23909755.jpg
@@ -1303,6 +1310,27 @@ Fables:
   localCover: /embeds/books/fables-vol-10-the-good-prince.jpg
   name: 'Fables, Vol. 10: The Good Prince'
   url: /book/show/2147714.fables-vol-10-the-good-prince
+'Fables, Vol. 11: War and Pieces':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393981l/3392123._SX98_.jpg
+  id: 3392123
+  localCover: /embeds/books/fables-vol-11-war-and-pieces.jpg
+  name: 'Fables, Vol. 11: War and Pieces'
+  url: /book/show/3392123.fables-vol-11-war-and-pieces
+'Fables, Vol. 12: The Dark Ages':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328798347l/5973711._SX98_.jpg
+  id: 5973711
+  localCover: /embeds/books/fables-vol-12-the-dark-ages.jpg
+  name: 'Fables, Vol. 12: The Dark Ages'
+  url: /book/show/5973711.fables-vol-12-the-dark-ages
+'Fables, Vol. 13: The Great Fables Crossover':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388376832l/6503780.jpg
+  id: 6503780
+  localCover: /embeds/books/fables-vol-13-the-great-fables-crossover.jpg
+  name: 'Fables, Vol. 13: The Great Fables Crossover'
+  url: /book/show/6503780.fables-vol-13-the-great-fables-crossover
 'Fables, Vol. 1: Legends in Exile':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375392441l/21326._SX98_.jpg
@@ -2487,6 +2515,20 @@ Isolation:
   localCover: /embeds/books/jack-of-fables-vol-4-americana.jpg
   name: 'Jack of Fables, Vol. 4: Americana'
   url: /book/show/3321998.jack-of-fables-vol-4-americana
+'Jack of Fables, Vol. 5: Turning Pages':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375394529l/3647089._SX98_.jpg
+  id: 3647089
+  localCover: /embeds/books/jack-of-fables-vol-5-turning-pages.jpg
+  name: 'Jack of Fables, Vol. 5: Turning Pages'
+  url: /book/show/3647089.jack-of-fables-vol-5-turning-pages
+'Jack of Fables, Vol. 6: The Big Book of War':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375395534l/6378575._SX98_.jpg
+  id: 6378575
+  localCover: /embeds/books/jack-of-fables-vol-6-the-big-book-of-war.jpg
+  name: 'Jack of Fables, Vol. 6: The Big Book of War'
+  url: /book/show/6378575.jack-of-fables-vol-6-the-big-book-of-war
 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
   author: James Herriot
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg
