@@ -903,6 +903,22 @@ Kingsbridge:
   id: 60161
   name: Kingsbridge
   url: /series/60161.kingsbridge
+Lady Astronaut:
+  books:
+    0.5: We Interrupt This Broadcast
+    1: The Calculating Stars
+    1.5: Articulated Restraint
+    2: The Fated Sky
+    3: The Relentless Moon
+    4: The Derivative Base
+    4.1: The Phobos Experience
+    4.3: Amara's Giraffe
+    4.4: Rocket's Red
+    4.5: The Lady Astronaut of Mars
+    0.5;: Word Puppets
+  id: 193730
+  name: Lady Astronaut
+  url: /series/193730.lady-astronaut
 Laundry Files:
   books:
     1: The Atrocity Archives
@@ -1770,7 +1786,8 @@ The Dresden Files:
     15.1: Brief Cases
     15.5: Working for Bigfoot
     16: Peace Talks
-    17: Mirror, Mirror
+    17: Battle Ground
+    18: Mirror, Mirror
   id: 40346
   name: The Dresden Files
   url: /series/40346.the-dresden-files
@@ -1897,6 +1914,14 @@ The Greatest Sin:
   id: 155026
   name: The Greatest Sin
   url: /series/155026.the-greatest-sin
+The Green Bone Saga:
+  books:
+    1: Jade City
+    2: Jade War
+    3: Jade Legacy
+  id: 216281
+  name: The Green Bone Saga
+  url: /series/216281.the-green-bone-saga
 The Heroes of Olympus:
   books:
     1: The Lost Hero

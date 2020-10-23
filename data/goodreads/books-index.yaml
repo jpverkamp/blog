@@ -253,6 +253,7 @@
 158988: 'Fables, Vol. 9: Sons of Empire'
 167010: 'Fables, Vol. 2: Animal Farm'
 182372: Mountain Top Mystery
+182373: Benny Uncovers a Mystery
 182425: False Memory
 186074: The Name of the Wind
 187065: New Spring
@@ -437,13 +438,16 @@
 7236306: Coyote Destiny
 7260188: Mockingjay
 7326879: Fullmetal Alchemist, Vol. 23
+7424524: 'Jack of Fables, Vol. 7: The New Adventures of Jack and Jack'
 7576115: I Shall Wear Midnight
 7617119: I Am Not A Serial Killer
+7619569: 'Fables: Werewolves of the Heartland'
 7624272: The Lost Hero
 7695240: 'Hellboy, Vol. 10: The Crooked Man and Others'
 7736182: The Lost Hero
 7743175: A Memory of Light
 7779059: 'Side Jobs: Stories from the Dresden Files'
+7880221: 'Fables, Vol. 14: Witches'
 7886338: The Lifecycle of Software Objects
 7942786: Fair Game
 8058301: Ghost Story
@@ -455,9 +459,11 @@
 8253920: Towers of Midnight
 8420932: Overtime
 8429687: Deadline
+8440306: 'Jack of Fables, Vol. 8: The Fulminate Blade'
 8488439: The Concrete Jungle
 8517437: The Black Prism
 8559047: Magic Slays
+8601702: 'Fables, Vol. 15: Rose Red'
 8643407: Hard Magic
 8730311: Leviathans of Jupiter
 8785374: Snuff
@@ -486,6 +492,7 @@
 10822283: Spellbound
 10836728: The Rook
 10852065: The Hope of Elantris
+10974311: 'Fables, Vol. 16: Super Team'
 10974854: Spoon River Anthology
 11029854: Fullmetal Alchemist, Vol. 27
 11166889: The Funhouse
@@ -504,6 +511,7 @@
 12127810: The House of Hades
 12216302: Cold Days
 12287209: Wool
+12308801: 'Cinderella: Fables are Forever'
 12393566: The Apocalypse Codex
 12476820: Partials
 12499290: The Blinding Knife
@@ -525,6 +533,7 @@
 13175692: The Shadow Over Innsmouth
 13178410: Proper Gauge
 13202200: Casting Off
+13228097: 'Fables, Vol. 17: Inherit the Wind'
 13314945: The Unraveling
 13335037: Divergent
 13413589: Frost Burned
@@ -535,6 +544,7 @@
 13504505: 'Aurora: CV-01'
 13516287: The Rings of Haven
 13528662: 'Formic Wars: Silent Strike'
+13536522: 'Fairest, Volume 1: Wide Awake'
 13536649: Trapped
 13575890: The Legend of Corinair
 13578175: The Emperor's Soul
@@ -559,6 +569,7 @@
 15777576: Son
 15784263: Dead Things
 15790883: Promise of Blood
+15791586: 'Fables, Vol. 18: Cubs in Toyland'
 15819028: The Golem and the Jinni
 15824178: Codex Born
 15838356: Mercury Rests
@@ -581,6 +592,7 @@
 16280678: Shattered
 16280689: Staked
 17131869: Saga, Vol. 2
+17137611: 'Fairest, Volume 2: The Hidden Kingdom'
 17162149: Crux
 17182126: Steelheart
 17332218: Words of Radiance
@@ -609,6 +621,7 @@
 18245960: The Three-Body Problem
 18335627: Celestia CV-02
 18430203: 'Jim Butcher''s Dresden Files: Ghoul Goblin'
+18465920: 'Fairest, Volume 3: The Return of the Maharaja'
 18490707: Earth Awakens
 18619684: The Time Traveler's Wife
 18690610: Resistance
@@ -662,6 +675,7 @@
 22886612: Nemesis Games
 22886868: The Shepherd's Crown
 23093367: Saga, Vol. 4
+23106013: Battle Ground
 23129410: Welcome to Night Vale
 23137382: 'Jim Butcher''s The Dresden Files: War Cry'
 23154785: The Annihilation Score
@@ -743,6 +757,7 @@
 31557062: City of Miracles
 32109569: We Are Legion
 32847275: 'Gray Hat C#: A Hacker''s Guide to Creating and Automating Security Tools'
+33080122: The Calculating Stars
 33357675: Allomancer Jak and the Pits of Eltania
 33391886: Leviathan Wakes
 33395557: For We Are Many
@@ -766,24 +781,30 @@
 35839437: Burn Bright
 35989261: 'Jim Butcher''s The Dresden Files: Dog Men'
 36225306: Shadow Hunt
+36238876: The Calculating Stars
 36510196: Old Man's War
 36549857: 'Pale Green Dot: Sequel to The Forest'
 36642458: Skyward
+36681361: Jade City
 36896898: Spinning Silver
 37640636: Lies of the Beholder
 38364996: 'Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing
   Blockchain Evidence'
 38607766: Celtic Empire
 40126485: On the Shoulders of Titans
+40265832: How to Be an Antiracist
 40604556: Red Seas Under Red Skies
 40611510: The Last Lecture
 40672036: 'Digital Minimalism: Choosing a Focused Life in a Noisy World'
+40815366: How to Be an Antiracist
 41637836: The Subtle Knife
 42036538: Gideon the Ninth
 42086897: 'How To: Absurd Scientific Advice for Common Real-World Problems'
+42419826: Battle Ground
 43205859: Children of the Nameless
 43352954: This Is How You Lose the Time War
 43419431: Dune
+43587154: Jade City
 44562151: On Writing and Worldbuilding, Volume I
 45145958: World Without End
 45731096: 'Letter to a Suffering Church: A Bishop Speaks on the Sexual Abuse Crisis'
@@ -791,4 +812,6 @@
 46158812: ZACH-LIKE, A Game Design History
 46817016: 'The Future of Feeling: Building Empathy in a Tech-Obsessed World'
 48503963: The Evening and the Morning
+49370109: Peace Talks
+49381341: Peace Talks
 51274206: 'The Future of Feeling: Building Empathy in a Tech-Obsessed World'
