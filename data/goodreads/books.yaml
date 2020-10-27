@@ -3712,6 +3712,15 @@ Prentice Alvin:
   series: Tales of Alvin Maker
   series_index: 3
   url: /book/show/31357.prentice-alvin
+Prince Caspian:
+  author: C.S. Lewis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814880l/121749._SX98_.jpg
+  id: 121749
+  localCover: /embeds/books/prince-caspian.jpg
+  name: Prince Caspian
+  series: Chronicles of Narnia
+  series_index: 2
+  url: /book/show/121749.prince-caspian
 Princeps' Fury:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1315082776l/2903736.jpg
@@ -5494,6 +5503,13 @@ The Lion, the Witch, and the Wardrobe:
   series: Chronicles of Narnia
   series_index: 1
   url: /book/show/100915.the-lion-the-witch-and-the-wardrobe
+The Little Bear Stories:
+  author: Martin Waddell
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925351l/1214909._SX98_.jpg
+  id: 1214909
+  localCover: /embeds/books/the-little-bear-stories.jpg
+  name: The Little Bear Stories
+  url: /book/show/1214909.the-little-bear-stories
 The Long Winter:
   author: Laura Ingalls Wilder
   cover: https://images.gr-assets.com/books/1266449683l/8282.jpg
