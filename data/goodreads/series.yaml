@@ -175,6 +175,18 @@ Bright Smoke, Cold Fire:
   id: 125633
   name: Bright Smoke, Cold Fire
   url: /series/125633.bright-smoke-cold-fire
+Chronicles of Narnia:
+  books:
+    1: The Lion, the Witch and the Wardrobe
+    2: Prince Caspian
+    3: The Voyage of the Dawn Treader
+    4: The Silver Chair
+    5: The Horse and His Boy
+    6: The Magician's Nephew
+    7: The Last Battle
+  id: 49073
+  name: Chronicles of Narnia
+  url: /series/49073.chronicles-of-narnia
 Cinderella:
   books:
     1: 'Cinderella, Vol. 1: From Fabletown with Love'
@@ -1689,18 +1701,6 @@ The Chronicles of Amber:
   id: 40859
   name: The Chronicles of Amber
   url: /series/40859.the-chronicles-of-amber
-Chronicles of Narnia:
-  books:
-    1: The Lion, the Witch and the Wardrobe
-    2: Prince Caspian
-    3: The Voyage of the Dawn Treader
-    4: The Silver Chair
-    5: The Horse and His Boy
-    6: The Magician's Nephew
-    7: The Last Battle
-  id: 49073
-  name: Chronicles of Narnia 
-  url: /series/49073.chronicles-of-narnia
 The Cinder Spires:
   books:
     1: The Aeronaut's Windlass

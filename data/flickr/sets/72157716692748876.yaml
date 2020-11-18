@@ -1,0 +1,26 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 6
+count_videos: 0
+count_views: '1'
+date_create: '1604176277'
+date_update: '1604176624'
+description: ''
+farm: 66
+id: '72157716692748876'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '50551433743'
+- '50552299577'
+- '50552302067'
+- '50551438018'
+- '50551440468'
+- '50552318387'
+primary: '50551433743'
+secret: 6d43f0eeee
+server: '65535'
+title: Camping at Whitewater Memorial
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

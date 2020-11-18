@@ -1,0 +1,37 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 8
+count_videos: 0
+count_views: '0'
+date_create: '1605673714'
+date_update: '1605673731'
+description: Hiking and creek stomping (and dueling with weeds)!
+farm: 66
+id: '72157716932465171'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '50616097342'
+- '50615245028'
+- '50615986726'
+- '50615244193'
+- '50616096067'
+- '50616095792'
+- '50615243638'
+- '50615985721'
+- '50615243213'
+- '50616094972'
+- '50615984731'
+- '50616094042'
+- '50615984026'
+- '50616093502'
+- '50615983511'
+- '50615240938'
+- '50615240738'
+primary: '50616097342'
+secret: a70809799f
+server: '65535'
+title: Creek Stomping
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

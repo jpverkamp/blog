@@ -1393,6 +1393,13 @@ Fables:
   localCover: /embeds/books/fables-vol-18-cubs-in-toyland.jpg
   name: 'Fables, Vol. 18: Cubs in Toyland'
   url: /book/show/15791586.fables-vol-18-cubs-in-toyland
+'Fables, Vol. 19: Snow White':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380217320l/17704953._SX98_.jpg
+  id: 17704953
+  localCover: /embeds/books/fables-vol-19-snow-white.jpg
+  name: 'Fables, Vol. 19: Snow White'
+  url: /book/show/17704953.fables-vol-19-snow-white
 'Fables, Vol. 1: Legends in Exile':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375392441l/21326._SX98_.jpg
@@ -1400,6 +1407,13 @@ Fables:
   localCover: /embeds/books/fables-vol-1-legends-in-exile.jpg
   name: 'Fables, Vol. 1: Legends in Exile'
   url: /book/show/21326.fables-vol-1-legends-in-exile
+'Fables, Vol. 20: Camelot':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403046265l/18275594._SX98_.jpg
+  id: 18275594
+  localCover: /embeds/books/fables-vol-20-camelot.jpg
+  name: 'Fables, Vol. 20: Camelot'
+  url: /book/show/18275594.fables-vol-20-camelot
 'Fables, Vol. 2: Animal Farm':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506893283l/167010._SX98_.jpg
@@ -1502,6 +1516,13 @@ Fair Game:
   localCover: /embeds/books/fairest-volume-3-the-return-of-the-maharaja.jpg
   name: 'Fairest, Volume 3: The Return of the Maharaja'
   url: /book/show/18465920.fairest-volume-3-the-return-of-the-maharaja
+'Fairest: In All the Land':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377308626l/17671927._SX98_.jpg
+  id: 17671927
+  localCover: /embeds/books/fairest-in-all-the-land.jpg
+  name: 'Fairest: In All the Land'
+  url: /book/show/17671927.fairest-in-all-the-land
 False Memory:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1388447589l/182425.jpg
@@ -2640,6 +2661,13 @@ Isolation:
   localCover: /embeds/books/jack-of-fables-vol-8-the-fulminate-blade.jpg
   name: 'Jack of Fables, Vol. 8: The Fulminate Blade'
   url: /book/show/8440306.jack-of-fables-vol-8-the-fulminate-blade
+'Jack of Fables, Vol. 9: The End':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409804l/9422029._SX98_.jpg
+  id: 9422029
+  localCover: /embeds/books/jack-of-fables-vol-9-the-end.jpg
+  name: 'Jack of Fables, Vol. 9: The End'
+  url: /book/show/9422029.jack-of-fables-vol-9-the-end
 Jade City:
   author: Fonda Lee
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547625704l/43587154._SX98_.jpg
@@ -2649,6 +2677,24 @@ Jade City:
   series: The Green Bone Saga
   series_index: 1
   url: /book/show/43587154.jade-city
+Jade Legacy:
+  author: Fonda Lee
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565294729l/51057191._SX318_SY475_.jpg
+  id: 51057191
+  localCover: /embeds/books/jade-legacy.jpg
+  name: Jade Legacy
+  series: The Green Bone Saga
+  series_index: 3
+  url: /book/show/51057191.jade-legacy
+Jade War:
+  author: Fonda Lee
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537885614l/41716919._SX98_.jpg
+  id: 41716919
+  localCover: /embeds/books/jade-war.jpg
+  name: Jade War
+  series: The Green Bone Saga
+  series_index: 2
+  url: /book/show/41716919.jade-war
 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
   author: James Herriot
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg
@@ -3070,6 +3116,15 @@ Many Waters:
   series: Time Quintet
   series_index: 4
   url: /book/show/151370.many-waters
+Mariel of Redwall:
+  author: Brian Jacques
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1299761476l/7993._SX98_.jpg
+  id: 7993
+  localCover: /embeds/books/mariel-of-redwall.jpg
+  name: Mariel of Redwall
+  series: Redwall
+  series_index: 4
+  url: /book/show/7993.mariel-of-redwall
 Mars:
   author: Ben Bova
   cover: https://images.gr-assets.com/books/1173282407l/267282.jpg
