@@ -1516,6 +1516,13 @@ Fair Game:
   localCover: /embeds/books/fairest-volume-3-the-return-of-the-maharaja.jpg
   name: 'Fairest, Volume 3: The Return of the Maharaja'
   url: /book/show/18465920.fairest-volume-3-the-return-of-the-maharaja
+'Fairest, Volume 4: Of Men and Mice':
+  author: Marc Andreyko
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406933055l/21532163._SX98_.jpg
+  id: 21532163
+  localCover: /embeds/books/fairest-volume-4-of-men-and-mice.jpg
+  name: 'Fairest, Volume 4: Of Men and Mice'
+  url: /book/show/21532163.fairest-volume-4-of-men-and-mice
 'Fairest: In All the Land':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377308626l/17671927._SX98_.jpg
