@@ -1,5 +1,6 @@
 {{ $width := mul 1.1 (int (or ($.Get "width") 400)) }}
 {{ $height := mul 1.1 (int (or ($.Get "height") 400)) }}
+
 {{ $header := `
 <html>
 <head>
@@ -13,15 +14,43 @@
 </head>
 <body>
 ` }}
+
 {{ $footer := `
 <noscript>To display this p5.js sketch, JavaScript must be enabled.</noscript>
 </body>
 </html>
 `}}
 
+{{ $additionalScript := `
+var oldSetup = setup;
+setup = () => {
+    oldSetup();
+    
+    createButton("play/pause").mousePressed(() => {
+      if (isLooping()) {
+        noLoop();
+      } else {
+        loop();
+      }
+    });
+
+    createButton("save").mousePressed(() => {
+        saveCanvas('photo', 'png')
+    });
+
+    createButton("clear").mousePressed(() => {
+        if (typeof reset !== 'undefined') {
+            reset();
+        } else {
+            clear();
+        }
+    });
+}
+`}}
+
 <iframe 
     width="{{ $width }}" height="{{ $height }}" frameBorder="0"
-    srcdoc="{{ $header }}<script>{{ .Inner }}</script>{{ $footer }}"
+    srcdoc="{{ $header }}<script>{{ .Inner }}{{ $additionalScript }}</script>{{ $footer }}"
 ></iframe>
 
 {{ (printf "```javascript\n%s\n```" .Inner) | markdownify }}
