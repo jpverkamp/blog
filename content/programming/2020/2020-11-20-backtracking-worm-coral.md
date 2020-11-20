@@ -18,7 +18,7 @@ That means that the initial 10 worms should always be able to fill the entire wo
 
 {{< figure src="/embeds/2020/backtracking-worm-full.png" >}}
 
-It does take a while.
+I like how occiasionally you get one spindly bit (usually early in the run) that another goes through. It reminds me of [Blokus](https://boardgamegeek.com/boardgame/2453/blokus) It does take a while.
 
 In addition, I wanted to play a bit with simulationism:
 
