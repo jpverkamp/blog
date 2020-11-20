@@ -1414,6 +1414,13 @@ Fables:
   localCover: /embeds/books/fables-vol-20-camelot.jpg
   name: 'Fables, Vol. 20: Camelot'
   url: /book/show/18275594.fables-vol-20-camelot
+'Fables, Vol. 21: Happily Ever After':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435500492l/22522686._SX98_.jpg
+  id: 22522686
+  localCover: /embeds/books/fables-vol-21-happily-ever-after.jpg
+  name: 'Fables, Vol. 21: Happily Ever After'
+  url: /book/show/22522686.fables-vol-21-happily-ever-after
 'Fables, Vol. 2: Animal Farm':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506893283l/167010._SX98_.jpg
