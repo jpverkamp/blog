@@ -24,8 +24,17 @@
 {{ $additionalScript := `
 var oldSetup = setup;
 setup = () => {
+    // Load saved settings from the browser's hash fragment
+    if (parent.location.hash && typeof params !== "undefined") {
+        try {
+            var settings = JSON.parse(atob(parent.location.hash.substring(1)));
+            Object.keys(params).forEach((key) => params[key] = settings[key] || params[key]);
+        } catch(ex) {
+        }
+    }
+
     oldSetup();
-    
+
     createButton("play/pause").mousePressed(() => {
       if (isLooping()) {
         noLoop();
@@ -45,6 +54,16 @@ setup = () => {
             clear();
         }
     });
+
+    if (typeof params !== "undefined") {
+        for (var el of document.querySelectorAll('input')) {
+            if (el.id && el.id.startsWith('qs_')) {
+                el.addEventListener('change', () => {
+                    parent.location.hash = btoa(JSON.stringify(params));
+                });
+            }
+        }
+    }
 }
 `}}
 
