@@ -1421,6 +1421,13 @@ Fables:
   localCover: /embeds/books/fables-vol-21-happily-ever-after.jpg
   name: 'Fables, Vol. 21: Happily Ever After'
   url: /book/show/22522686.fables-vol-21-happily-ever-after
+'Fables, Vol. 22: Farewell':
+  author: Bill Willingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439997554l/23012547._SX98_.jpg
+  id: 23012547
+  localCover: /embeds/books/fables-vol-22-farewell.jpg
+  name: 'Fables, Vol. 22: Farewell'
+  url: /book/show/23012547.fables-vol-22-farewell
 'Fables, Vol. 2: Animal Farm':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506893283l/167010._SX98_.jpg
@@ -1530,6 +1537,13 @@ Fair Game:
   localCover: /embeds/books/fairest-volume-4-of-men-and-mice.jpg
   name: 'Fairest, Volume 4: Of Men and Mice'
   url: /book/show/21532163.fairest-volume-4-of-men-and-mice
+'Fairest, Volume 5: The Clamour for Glamour':
+  author: Mark Buckingham
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438780616l/23846750._SX98_.jpg
+  id: 23846750
+  localCover: /embeds/books/fairest-volume-5-the-clamour-for-glamour.jpg
+  name: 'Fairest, Volume 5: The Clamour for Glamour'
+  url: /book/show/23846750.fairest-volume-5-the-clamour-for-glamour
 'Fairest: In All the Land':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377308626l/17671927._SX98_.jpg
@@ -3666,6 +3680,15 @@ Orbital Decay:
   series: Near Space
   series_index: 1
   url: /book/show/900932.orbital-decay
+Outlander:
+  author: Diana Gabaldon
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529065012l/10964._SX98_.jpg
+  id: 10964
+  localCover: /embeds/books/outlander.jpg
+  name: Outlander
+  series: Outlander
+  series_index: 1
+  url: /book/show/10964.outlander
 Over Your Dead Body:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1445446630l/23629836.jpg
@@ -5124,6 +5147,15 @@ The Fantasy Fiction Formula:
   localCover: /embeds/books/the-fantasy-fiction-formula.jpg
   name: The Fantasy Fiction Formula
   url: /book/show/26265753.the-fantasy-fiction-formula
+The Fated Sky:
+  author: Mary Robinette Kowal
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539850563l/33081262._SX98_.jpg
+  id: 33081262
+  localCover: /embeds/books/the-fated-sky.jpg
+  name: The Fated Sky
+  series: Lady Astronaut
+  series_index: 2
+  url: /book/show/33081262.the-fated-sky
 The Fellowship of the Ring:
   author: J.R.R. Tolkien
   cover: https://images.gr-assets.com/books/1298411339l/34.jpg
@@ -5755,6 +5787,13 @@ The Red Pyramid:
   series: Kane Chronicles
   series_index: 1
   url: /book/show/7090447.the-red-pyramid
+The Relentless Moon:
+  author: Mary Robinette Kowal
+  id: 52381417
+  name: The Relentless Moon
+  series: Lady Astronaut
+  series_index: 3
+  url: /book/show/52381417.the-relentless-moon
 The Republic of Thieves:
   author: Scott Lynch
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406961069i/2890090.jpg
@@ -6027,6 +6066,13 @@ The Truth:
   series: Discworld
   series_index: 25
   url: /book/show/34498.the-truth
+'The Umbrella Academy, Vol. 1: The Apocalypse Suite':
+  author: Gerard Way
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327877097l/2795053._SX98_.jpg
+  id: 2795053
+  localCover: /embeds/books/the-umbrella-academy-vol-1-the-apocalypse-suite.jpg
+  name: 'The Umbrella Academy, Vol. 1: The Apocalypse Suite'
+  url: /book/show/2795053.the-umbrella-academy-vol-1-the-apocalypse-suite
 The Unnaturalists:
   author: Tiffany Trent
   cover: https://images.gr-assets.com/books/1344391555l/12988074.jpg
