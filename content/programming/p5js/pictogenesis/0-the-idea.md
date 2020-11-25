@@ -1,0 +1,107 @@
+---
+title: "Pictogenesis: The Idea"
+date: 2020-11-23
+series:
+- Pictogenesis
+programming/topics:
+- Cellular Automata
+- Generative Art
+- Procedural Content
+- p5js
+programming/languages:
+- JavaScript
+---
+PICTOGENESIS REBORN!
+
+I don't know if I ever actually posted it publically, but one of the ideas I've had percolating for the longest time is combining tiny {{< wikipedia "interpreters" >}} and {{< wikipedia "genetic algorithms" >}} to make {{< wikipedia "generative art" >}}. 
+
+The basic idea is to generate programs (in various styles) that can take x,y coordinates and return colors. Then apply that to every pixel on an image to make generative art. Once we have, figure out a way to mutate/breed the programs so that we can apply a genetic algorithm to them and make awesome images! Sort of like [Electric Sheep](https://electricsheep.org/) (that brings back memories). 
+
+The evolution point of view was actually a pretty tricky problem, since programs can have a number of different representations. I could compile them to bytecode and mutate that, but how do I make most code at least potentially meaningful?
+
+<!--more-->
+
+The breakthrough came while I was running: floating point array indexing. It's a crazy idea, but it works perfectly for this sort of thing. Every value in the genome will be a floating point number in the range [0, 1]. To index an array, multiply by the length and floor it: 
+
+```javascript
+gendex = (arr, id) => arr[Math.floor(arr.length * id)];
+```
+
+So if you want to choose from many commands:
+
+```javascript
+>> commands = [`add`, `sub`, `mul`, `div`, `and`, `or`, `xor`];
+>> gendex(commands, 0.5)
+"div"
+>> gendex(commands, 0)
+"add"
+>> gendex(commands, random())
+"mul"
+```
+
+You can do the same thing with registers (if you have a list of them) or just about anything. And the cool thing is, by mutation you can change which function/register you have or even turn a register into a function or vice versa. And the space is completely full! You'll still end up with nonsense commands (like adding zero to a value and storing it in a temporary register that is never used), but that is enough junk DNA without having most commands being invalid. 
+
+That means that my genome can be awfully simple:
+
+```javascript
+class Genome {
+  constructor(length) {
+    length = length || 10;
+    this.data = [];
+    while (this.data.length < length) {
+      this.data.push(random());
+    }
+  }
+
+  // Apply up to one of each kind of mutation to this genome
+  mutate() {
+    var index;
+
+    if (random() < params.mutationRate_point) mutatePoint();
+    if (random() < params.mutationRate_insertion) mutateInsertion();
+    if (random() < params.mutationRate_deletion) mutateDeletion();
+    if (random() < params.mutationRate_duplication) mutateDuplication();
+  }
+
+  mutatePoint() {
+    var index = Math.floor(random() * this.data.length);
+    this.data[index] = random();
+  }
+
+  mutateInsertion() {
+    var index = Math.floor(random() * this.data.length);
+    this.data.splice(index, 0, random());
+  }
+
+
+  mutateDeletion() {
+    var index = Math.floor(random() * this.data.length);
+    this.data.splice(index, 1);
+  }
+
+
+  mutateDuplication() {
+    var index = Math.floor(random() * this.data.length);
+    this.data.splice(index, 0, this.data[index]);
+  }
+
+  crossover(other) {
+    var child = new Genome();
+    var thisIndex = Math.floor(random() * this.data.length);
+    var otherIndex = Math.floor(random() * other.data.length);
+
+    child.data = this.data.slice(0, thisIndex).concat(other.data.slice(otherIndex));
+    return child;
+  }
+}
+```
+
+So far mutation involves:
+
+* Point mutation (randomly change one point)
+* Insertion mutation (add a value)
+* Deletion insertion (remove a value)
+
+Crossover takes two genomes and takes a chunk of each to simulate {{< wikipedia text="crossover" page="Crossover_(genetic_algorithm)" >}}. We'll get to this all when we write up the genetic algorithm components (this series might take a while). 
+
+Next up, we'll make a machine! 

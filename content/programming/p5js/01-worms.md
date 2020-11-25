@@ -5,6 +5,7 @@ programming/topics:
 - Cellular Automata
 - Generative Art
 - Procedural Content
+- p5js
 programming/languages:
 - JavaScript
 ---

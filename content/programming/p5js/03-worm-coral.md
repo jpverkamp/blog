@@ -5,10 +5,11 @@ programming/topics:
 - Cellular Automata
 - Generative Art
 - Procedural Content
+- p5js
 programming/languages:
 - JavaScript
 ---
-Today, I'm going to work on using [worms]({{< ref "2020-11-17-p5js-worms" >}} to generate coral, similar to what I did way back when I was [generating omnichromatic images]({{< ref "2015-01-01-generating-omnichromatic-images" >}}). 
+Today, I'm going to work on using [worms]({{< ref "01-worms" >}} to generate coral, similar to what I did way back when I was [generating omnichromatic images]({{< ref "2015-01-01-generating-omnichromatic-images" >}}). 
 
 {{< figure src="/embeds/2020/worm-coral.png" >}}
 
