@@ -121,7 +121,7 @@ function draw() {
 
 Here's a big example of how this can work. The program
 
-```
+```asm
 polT x b t1
 sqrt g t0
 mul g t0 b

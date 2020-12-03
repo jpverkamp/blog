@@ -30,7 +30,7 @@ abs y x
 
 In each case, the first argument is the output and the rest are inputs. So:
 
-```
+```javascript
 # gt? t0 b y x r
 if (b > y) {
     t0 = x;
