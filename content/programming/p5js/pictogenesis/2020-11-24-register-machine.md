@@ -11,7 +11,7 @@ programming/topics:
 programming/languages:
 - JavaScript
 ---
-Okay. First [Pictogeneis]({{< ref "0-the-idea.md" >}}) machine: a register based machine. Today we're going to create a very small language with a small number of registers that can read from the outside world, write colors, and act as temporary variables. 
+Okay. First [Pictogeneis]({{< ref "2020-11-23-the-idea" >}}) machine: a register based machine. Today we're going to create a very small language with a small number of registers that can read from the outside world, write colors, and act as temporary variables. 
 
 Something like this:
 
@@ -93,7 +93,7 @@ const instructions = [
 
 I started with just basic `add`, `sub`, `mul`, `div`, but then it sort of grew from there. Every function I expect will be able to take a small number of paramaters (even zero) and output one value. For the most part, we can use Lambda functions to create nice inline functions, but in a few cases, I expanded to use the full `function` syntax, I'll get back to why in a bit. 
 
-Next, let's take a genome (from [the first post]({{< ref "0-the-idea.md" >}})) and turn it into a program:
+Next, let's take a genome (from [the first post]({{< ref "2020-11-23-the-idea" >}})) and turn it into a program:
 
 ```javascript
 class RegisterMachine {
