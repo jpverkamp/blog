@@ -185,7 +185,7 @@ I haven't actually timed it, but try it out, you can see it for yourself (try se
 
 (Note: Click `register` to generate a new image, and then `transpile` to transpile and re-render it.)
 
-{{< p5js width="600" height="900" >}}
+{{< p5js-tab "sketch.js" >}}
 let gui;
 let params = {
   registerCount: 7,
@@ -322,7 +322,9 @@ function draw() {
     }
   }
 }
+{{< /p5js-tab >}}
 
+{{< p5js-tab "ops.js" >}}
 const instructions = [
   // Basic math
   {name: "id", function: (x) => x},
@@ -359,58 +361,9 @@ const instructions = [
   {name: "noise1", function: (x) => noise(params.noise * x)},
   {name: "noise2", function: (x, y) => noise(params.noise * x, params.noise * y)},
 ];
+{{< /p5js-tab >}}
 
-class Genome {
-  constructor(length) {
-    length = length || 10;
-    this.data = [];
-    while (this.data.length < length) {
-      this.data.push(random());
-    }
-  }
-
-  // Apply up to one of each kind of mutation to this genome
-  mutate() {
-    var index;
-
-    if (random() < params.mutationRate_point) mutatePoint();
-    if (random() < params.mutationRate_insertion) mutateInsertion();
-    if (random() < params.mutationRate_deletion) mutateDeletion();
-    if (random() < params.mutationRate_duplication) mutateDuplication();
-  }
-
-  mutatePoint() {
-    var index = Math.floor(random() * this.data.length);
-    this.data[index] = random();
-  }
-
-  mutateInsertion() {
-    var index = Math.floor(random() * this.data.length);
-    this.data.splice(index, 0, random());
-  }
-
-
-  mutateDeletion() {
-    var index = Math.floor(random() * this.data.length);
-    this.data.splice(index, 1);
-  }
-
-
-  mutateDuplication() {
-    var index = Math.floor(random() * this.data.length);
-    this.data.splice(index, 0, this.data[index]);
-  }
-
-  crossover(other) {
-    var child = new Genome();
-    var thisIndex = Math.floor(random() * this.data.length);
-    var otherIndex = Math.floor(random() * other.data.length);
-
-    child.data = this.data.slice(0, thisIndex).concat(other.data.slice(otherIndex));
-    return child;
-  }
-}
-
+{{< p5js-tab "register.js" >}}
 class RegisterMachine {
   constructor(genome) {
     // Low registers are input, high output, middle are temporary
@@ -539,7 +492,62 @@ class RegisterMachine {
     return this.program.map((cmd) => cmd.name + ' ' + cmd.params.join(' ')).join('\n');
   }
 }
-{{< /p5js >}}
+{{< /p5js-tab >}}
+
+{{< p5js-tab "genome.js" >}}
+class Genome {
+  constructor(length) {
+    length = length || 10;
+    this.data = [];
+    while (this.data.length < length) {
+      this.data.push(random());
+    }
+  }
+
+  // Apply up to one of each kind of mutation to this genome
+  mutate() {
+    var index;
+
+    if (random() < params.mutationRate_point) mutatePoint();
+    if (random() < params.mutationRate_insertion) mutateInsertion();
+    if (random() < params.mutationRate_deletion) mutateDeletion();
+    if (random() < params.mutationRate_duplication) mutateDuplication();
+  }
+
+  mutatePoint() {
+    var index = Math.floor(random() * this.data.length);
+    this.data[index] = random();
+  }
+
+  mutateInsertion() {
+    var index = Math.floor(random() * this.data.length);
+    this.data.splice(index, 0, random());
+  }
+
+
+  mutateDeletion() {
+    var index = Math.floor(random() * this.data.length);
+    this.data.splice(index, 1);
+  }
+
+
+  mutateDuplication() {
+    var index = Math.floor(random() * this.data.length);
+    this.data.splice(index, 0, this.data[index]);
+  }
+
+  crossover(other) {
+    var child = new Genome();
+    var thisIndex = Math.floor(random() * this.data.length);
+    var otherIndex = Math.floor(random() * other.data.length);
+
+    child.data = this.data.slice(0, thisIndex).concat(other.data.slice(otherIndex));
+    return child;
+  }
+}
+{{< /p5js-tab >}}
+
+{{< p5js width="600" height="900" >}}{{< /p5js >}}
 
 While I was testing it, I came up with these images:
 

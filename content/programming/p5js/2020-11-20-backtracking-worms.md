@@ -9,7 +9,7 @@ programming/topics:
 programming/languages:
 - JavaScript
 ---
-Let's take [yesterday's Worm Coral]{{< ref "2020-11-19-worm-coral" >}} and turn it up to 11!
+Let's take [yesterday's Worm Coral]({{< ref "2020-11-19-worm-coral" >}}) and turn it up to 11!
 
 Now we have:
 
