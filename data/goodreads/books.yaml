@@ -4867,6 +4867,13 @@ The Boxcar Children:
   series: The Boxcar Children
   series_index: 1
   url: /book/show/297249.the-boxcar-children
+'The Boys, Volume 1: The Name of the Game':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1224646048l/1214485.jpg
+  id: 1214485
+  localCover: /embeds/books/the-boys-volume-1-the-name-of-the-game.jpg
+  name: 'The Boys, Volume 1: The Name of the Game'
+  url: /book/show/1214485.the-boys-volume-1-the-name-of-the-game
 The Broken Eye:
   author: Brent Weeks
   cover: https://images.gr-assets.com/books/1376583941l/12652457.jpg
@@ -6080,6 +6087,13 @@ The Truth:
   localCover: /embeds/books/the-umbrella-academy-vol-2-dallas.jpg
   name: 'The Umbrella Academy, Vol. 2: Dallas'
   url: /book/show/6413286.the-umbrella-academy-vol-2-dallas
+'The Umbrella Academy, Vol. 3: Hotel Oblivion':
+  author: Gerard Way
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547213152l/21801668._SX98_.jpg
+  id: 21801668
+  localCover: /embeds/books/the-umbrella-academy-vol-3-hotel-oblivion.jpg
+  name: 'The Umbrella Academy, Vol. 3: Hotel Oblivion'
+  url: /book/show/21801668.the-umbrella-academy-vol-3-hotel-oblivion
 The Unnaturalists:
   author: Tiffany Trent
   cover: https://images.gr-assets.com/books/1344391555l/12988074.jpg

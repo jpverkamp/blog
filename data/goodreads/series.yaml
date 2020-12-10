@@ -1670,6 +1670,23 @@ The Boxcar Children:
   id: 40513
   name: The Boxcar Children
   url: /series/40513.the-boxcar-children
+The Boys:
+  books:
+    1: 'The Boys, Volume 1: The Name of the Game'
+    2: 'The Boys, Volume 2: Get Some'
+    3: 'The Boys, Volume 3: Good For The Soul'
+    4: 'The Boys, Volume 4: We Gotta Go Now'
+    5: 'The Boys, Volume 5: Herogasm'
+    6: 'The Boys, Volume 6: The Self-Preservation Society'
+    7: 'The Boys, Volume 7: The Innocents'
+    8: 'The Boys, Volume 8: Highland Laddie'
+    9: 'The Boys, Volume 9: The Big Ride'
+    10: 'The Boys, Volume 10: Butcher, Baker, Candlestick Maker'
+    11: 'The Boys, Volume 11: Over the Hills with the Swords of a Thousand Men'
+    12: 'The Boys, Volume 12: The Bloody Doors Off'
+  id: 59108
+  name: The Boys
+  url: /series/59108.the-boys-collected-volumes
 The Broken Earth:
   books:
     1: The Fifth Season
