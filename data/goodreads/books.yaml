@@ -3563,13 +3563,13 @@ Nothing Left To Lose:
   url: /book/show/23629844.nothing-left-to-lose
 Oathbringer:
   author: Brandon Sanderson
-  cover: https://images.gr-assets.com/books/1489673871l/34039808.jpg
-  id: 34039808
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507307833l/34002132._SX98_.jpg
+  id: 34002132
   localCover: /embeds/books/oathbringer.jpg
   name: Oathbringer
   series: The Stormlight Archive
   series_index: 3
-  url: /book/show/34039808.oathbringer
+  url: /book/show/34002132.oathbringer
 Odd Hours:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1388204532l/2029927.jpg
@@ -4874,6 +4874,41 @@ The Boxcar Children:
   localCover: /embeds/books/the-boys-volume-1-the-name-of-the-game.jpg
   name: 'The Boys, Volume 1: The Name of the Game'
   url: /book/show/1214485.the-boys-volume-1-the-name-of-the-game
+'The Boys, Volume 2: Get Some':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388210740l/2891819.jpg
+  id: 2891819
+  localCover: /embeds/books/the-boys-volume-2-get-some.jpg
+  name: 'The Boys, Volume 2: Get Some'
+  url: /book/show/2891819.the-boys-volume-2-get-some
+'The Boys, Volume 3: Good For The Soul':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353827662l/4184715._SX98_.jpg
+  id: 4184715
+  localCover: /embeds/books/the-boys-volume-3-good-for-the-soul.jpg
+  name: 'The Boys, Volume 3: Good For The Soul'
+  url: /book/show/4184715.the-boys-volume-3-good-for-the-soul
+'The Boys, Volume 4: We Gotta Go Now':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331883469l/6203292._SX98_.jpg
+  id: 6203292
+  localCover: /embeds/books/the-boys-volume-4-we-gotta-go-now.jpg
+  name: 'The Boys, Volume 4: We Gotta Go Now'
+  url: /book/show/6203292.the-boys-volume-4-we-gotta-go-now
+'The Boys, Volume 5: Herogasm':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388203830l/6534412.jpg
+  id: 6534412
+  localCover: /embeds/books/the-boys-volume-5-herogasm.jpg
+  name: 'The Boys, Volume 5: Herogasm'
+  url: /book/show/6534412.the-boys-volume-5-herogasm
+'The Boys, Volume 6: The Self-Preservation Society':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388203829l/7352661.jpg
+  id: 7352661
+  localCover: /embeds/books/the-boys-volume-6-the-self-preservation-society.jpg
+  name: 'The Boys, Volume 6: The Self-Preservation Society'
+  url: /book/show/7352661.the-boys-volume-6-the-self-preservation-society
 The Broken Eye:
   author: Brent Weeks
   cover: https://images.gr-assets.com/books/1376583941l/12652457.jpg
@@ -5733,6 +5768,15 @@ The Never War:
   series: Pendragon
   series_index: 3
   url: /book/show/536982.the-never-war
+The Obelisk Gate:
+  author: N.K. Jemisin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578523237l/26228034._SX98_.jpg
+  id: 26228034
+  localCover: /embeds/books/the-obelisk-gate.jpg
+  name: The Obelisk Gate
+  series: The Broken Earth
+  series_index: 2
+  url: /book/show/26228034.the-obelisk-gate
 The Opal Deception:
   author: Eoin Colfer
   cover: https://images.gr-assets.com/books/1266475201l/114954.jpg
@@ -5928,6 +5972,15 @@ The Silent War:
   series: 'The Grand Tour #11; The Asteroid Wars'
   series_index: 3
   url: /book/show/267285.the-silent-war
+The Silver Chair:
+  author: C.S. Lewis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336139237l/65641._SX98_.jpg
+  id: 65641
+  localCover: /embeds/books/the-silver-chair.jpg
+  name: The Silver Chair
+  series: Chronicles of Narnia
+  series_index: 4
+  url: /book/show/65641.the-silver-chair
 The Slow Regard of Silent Things:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1398466695l/21535271.jpg
@@ -5964,6 +6017,15 @@ The Stand:
   series: Complete and Uncut
   series_index: null
   url: /book/show/149267.the-stand
+The Stone Sky:
+  author: N.K. Jemisin
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478547421l/31817749._SX98_.jpg
+  id: 31817749
+  localCover: /embeds/books/the-stone-sky.jpg
+  name: The Stone Sky
+  series: The Broken Earth
+  series_index: 3
+  url: /book/show/31817749.the-stone-sky
 The Stranded:
   author: Hugh Howey
   cover: https://images.gr-assets.com/books/1330545630l/13425846.jpg
