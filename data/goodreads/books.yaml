@@ -1028,6 +1028,15 @@ Dawn:
   series: Xenogenesis
   series_index: 1
   url: /book/show/60929.dawn
+Dawnshard:
+  author: Brandon Sanderson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603931041l/54511226._SX98_.jpg
+  id: 54511226
+  localCover: /embeds/books/dawnshard.jpg
+  name: Dawnshard
+  series: The Stormlight Archive
+  series_index: 3.5
+  url: /book/show/54511226.dawnshard
 Dead Beat:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1345667776l/17683.jpg
@@ -4034,6 +4043,15 @@ Revisionary:
   series: Magic Ex Libris
   series_index: 4
   url: /book/show/24316214.revisionary
+Rhythm of War:
+  author: Brandon Sanderson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599911216l/49021976._SX98_.jpg
+  id: 49021976
+  localCover: /embeds/books/rhythm-of-war.jpg
+  name: Rhythm of War
+  series: The Stormlight Archive
+  series_index: 4
+  url: /book/show/49021976.rhythm-of-war
 Ringworld:
   author: Larry Niven
   cover: https://images.gr-assets.com/books/1408793358l/61179.jpg
@@ -4909,6 +4927,27 @@ The Boxcar Children:
   localCover: /embeds/books/the-boys-volume-6-the-self-preservation-society.jpg
   name: 'The Boys, Volume 6: The Self-Preservation Society'
   url: /book/show/7352661.the-boys-volume-6-the-self-preservation-society
+'The Boys, Volume 7: The Innocents':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388203828l/7947726.jpg
+  id: 7947726
+  localCover: /embeds/books/the-boys-volume-7-the-innocents.jpg
+  name: 'The Boys, Volume 7: The Innocents'
+  url: /book/show/7947726.the-boys-volume-7-the-innocents
+'The Boys, Volume 8: Highland Laddie':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519349179l/9918889._SX98_.jpg
+  id: 9918889
+  localCover: /embeds/books/the-boys-volume-8-highland-laddie.jpg
+  name: 'The Boys, Volume 8: Highland Laddie'
+  url: /book/show/9918889.the-boys-volume-8-highland-laddie
+'The Boys, Volume 9: The Big Ride':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347689779l/12351103.jpg
+  id: 12351103
+  localCover: /embeds/books/the-boys-volume-9-the-big-ride.jpg
+  name: 'The Boys, Volume 9: The Big Ride'
+  url: /book/show/12351103.the-boys-volume-9-the-big-ride
 The Broken Eye:
   author: Brent Weeks
   cover: https://images.gr-assets.com/books/1376583941l/12652457.jpg
@@ -5501,6 +5540,13 @@ The Hunger Games:
   series: The Hunger Games
   series_index: 1
   url: /book/show/2767052.the-hunger-games
+The Immortal Life of Henrietta Lacks:
+  author: Rebecca Skloot
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SX98_.jpg
+  id: 6493208
+  localCover: /embeds/books/the-immortal-life-of-henrietta-lacks.jpg
+  name: The Immortal Life of Henrietta Lacks
+  url: /book/show/6493208.the-immortal-life-of-henrietta-lacks
 The Invention of Hugo Cabret:
   author: Brian Selznick
   cover: https://images.gr-assets.com/books/1440580088l/26167889.jpg
