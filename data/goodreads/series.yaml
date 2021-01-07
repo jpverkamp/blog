@@ -2084,6 +2084,40 @@ The Runelords:
   id: 41322
   name: The Runelords
   url: /series/41322.the-runelords
+The Sandman:
+  books:
+    1: Preludes & Nocturnes
+    2: The Doll's House
+    3: Dream Country
+    4: Season of Mists
+    5: A Game of You
+    6: Fables & Reflections
+    7: Brief Lives
+    8: Worlds' End
+    9: The Kindly Ones
+    10: The Wake
+    11: 'The Sandman: Endless Nights'
+    Prose: 'The Sandman: The Dream Hunters'
+    Graphic: 'The Sandman: The Dream Hunters'
+    Short: 'Vertigo Resurrected: Winter''s Edge #1'
+    One-shot: 'Sandman Special #1: The Song of Orpheus'
+    1-3: The Absolute Sandman, Volume One
+    4-6: The Absolute Sandman, Volume Two
+    7-8: The Absolute Sandman, Volume Three
+    9-10: The Absolute Sandman, Volume Four
+    11-Midnight: The Absolute Sandman, Volume Five
+    1-20: The Annotated Sandman, Vol. 1
+    21-39: The Annotated Sandman, Vol. 2
+    40-55: The Annotated Sandman, Vol. 3
+    57-75: The Annotated Sandman, Vol. 4
+    1-5: The Sandman Omnibus, Vol. 1
+    6-10: The Sandman Omnibus, Vol. 2
+    Gallery: 'The Sandman: Gallery of Dreams'
+    Companion: The Sandman Companion
+    Box: Sandman Box Set
+  id: 40372
+  name: The Sandman
+  url: /series/40372.the-sandman
 The Stormlight Archive:
   books:
     1: The Way of Kings

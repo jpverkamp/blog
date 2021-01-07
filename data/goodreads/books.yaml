@@ -3473,6 +3473,13 @@ Necroscope:
   series: Necroscope
   series_index: 5
   url: /book/show/66658.necroscope-v-deadspawn
+Neil Gaiman's Neverwhere:
+  author: Mike Carey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309582431l/14498._SX98_.jpg
+  id: 14498
+  localCover: /embeds/books/neil-gaimans-neverwhere.jpg
+  name: Neil Gaiman's Neverwhere
+  url: /book/show/14498.neil-gaimans-neverwhere
 Nemesis Games:
   author: James S.A. Corey
   cover: https://images.gr-assets.com/books/1407524221l/22886612.jpg
@@ -3484,13 +3491,13 @@ Nemesis Games:
   url: /book/show/22886612.nemesis-games
 Neverwhere:
   author: Neil Gaiman
-  cover: https://images.gr-assets.com/books/1372990417l/6479879.jpg
-  id: 6479879
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX98_.jpg
+  id: 14497
   localCover: /embeds/books/neverwhere.jpg
   name: Neverwhere
-  series: London Below, The World of Neverwhere
-  series_index: null
-  url: /book/show/6479879.neverwhere
+  series: London Below
+  series_index: 1
+  url: /book/show/14497.neverwhere
 New Spring:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1328959234l/187065.jpg
@@ -4885,6 +4892,27 @@ The Boxcar Children:
   series: The Boxcar Children
   series_index: 1
   url: /book/show/297249.the-boxcar-children
+'The Boys, Volume 10: Butcher, Baker, Candlestick Maker':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393665014l/13130783.jpg
+  id: 13130783
+  localCover: /embeds/books/the-boys-volume-10-butcher-baker-candlestick-maker.jpg
+  name: 'The Boys, Volume 10: Butcher, Baker, Candlestick Maker'
+  url: /book/show/13130783.the-boys-volume-10-butcher-baker-candlestick-maker
+'The Boys, Volume 11: Over the Hills with the Swords of a Thousand Men':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334929437l/13609842._SX98_.jpg
+  id: 13609842
+  localCover: /embeds/books/the-boys-volume-11-over-the-hills-with-the-swords-of-a-thousand-men.jpg
+  name: 'The Boys, Volume 11: Over the Hills with the Swords of a Thousand Men'
+  url: /book/show/13609842.the-boys-volume-11-over-the-hills-with-the-swords-of-a-thousand-men
+'The Boys, Volume 12: The Bloody Doors Off':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349814339l/16077548.jpg
+  id: 16077548
+  localCover: /embeds/books/the-boys-volume-12-the-bloody-doors-off.jpg
+  name: 'The Boys, Volume 12: The Bloody Doors Off'
+  url: /book/show/16077548.the-boys-volume-12-the-bloody-doors-off
 'The Boys, Volume 1: The Name of the Game':
   author: Garth Ennis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1224646048l/1214485.jpg
@@ -5515,6 +5543,15 @@ The Horror from the Mound:
   localCover: /embeds/books/the-horror-from-the-mound.jpg
   name: The Horror from the Mound
   url: /book/show/25640567.the-horror-from-the-mound
+The Horse and His Boy:
+  author: C.S. Lewis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388210968l/84119._SX98_.jpg
+  id: 84119
+  localCover: /embeds/books/the-horse-and-his-boy.jpg
+  name: The Horse and His Boy
+  series: Chronicles of Narnia
+  series_index: 5
+  url: /book/show/84119.the-horse-and-his-boy
 The House of Hades:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1464201430l/12127810.jpg
@@ -5753,6 +5790,15 @@ The Lost Symbol:
   series: Robert Langdon
   series_index: 3
   url: /book/show/6411961.the-lost-symbol
+The Magician's Nephew:
+  author: C.S. Lewis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814770l/65605._SX98_.jpg
+  id: 65605
+  localCover: /embeds/books/the-magicians-nephew.jpg
+  name: The Magician's Nephew
+  series: Chronicles of Narnia
+  series_index: 6
+  url: /book/show/65605.the-magicians-nephew
 The Mark of Athena:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1464201354l/12127750.jpg
