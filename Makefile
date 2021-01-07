@@ -1,17 +1,21 @@
 HUGO_VERSION = 0.55
 LAST_COMMIT = $(shell git log -1 --pretty=%B | head -n 1)
 
-import:
-	# Require that the secrets file exists
+import-flickr:
 	[ -f secrets.yaml ]
 
 	# Import all my photosets from flickr and generate a page for each of them
 	python3 scripts/flickr.py --generate
 
+import-goodreads:
+	[ -f secrets.yaml ]
+
 	# Import recent reviews from goodreads and validate all goodreads shortcodes
 	# To import all reviews, use --reviews all
 	python3 scripts/goodreads.py -v import
 	python3 scripts/goodreads.py -v validate
+
+import: import-flickr import-goodreads
 
 run:
 	sleep 30 && open http://localhost/ &
