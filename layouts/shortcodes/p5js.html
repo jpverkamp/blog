@@ -69,8 +69,8 @@ setup = () => {
 
 <div class="tab">
     <button class="tablinks default" onclick="changeTab(event, 'iframedemo')">Demo</button>
-    {{ if ($.Page.Scratch.Get "p5js-tabs") }}
-        {{ range $title, $content := $.Page.Scratch.Get "p5js-tabs" }}
+    {{ if (.Scratch.Get "tabs") }}
+        {{ range $title, $content := .Scratch.Get "tabs" }}
         <button class="tablinks" onclick="changeTab(event, '{{ $title }}')">{{ $title }}</button>
         {{ end }}
     {{ else }}
@@ -85,8 +85,8 @@ setup = () => {
             {{ $header }}
             <script>
 
-            {{ if ($.Page.Scratch.Get "p5js-tabs") }}
-                {{ range $title, $content := $.Page.Scratch.Get "p5js-tabs" }}
+            {{ if (.Scratch.Get "tabs") }}
+                {{ range $title, $content := .Scratch.Get "tabs" }}
                     {{ $content }}
                 {{ end }}
             {{ else }}
@@ -100,8 +100,8 @@ setup = () => {
     ></iframe>
 </div>
 
-{{ if ($.Page.Scratch.Get "p5js-tabs") }}
-    {{ range $title, $content := $.Page.Scratch.Get "p5js-tabs" }}
+{{ if (.Scratch.Get "tabs") }}
+    {{ range $title, $content := .Scratch.Get "tabs" }}
         <div class="tabcontent" id="{{ $title }}">
         {{ (printf "```javascript\n%s\n```" $content) | markdownify }}
         </div>

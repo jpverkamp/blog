@@ -221,7 +221,8 @@ It's a bit more complicated, because we have to deal with a few functions that `
 
 Demo!
 
-{{< p5js-tab "sketch.js" >}}
+{{< p5js width="600" height="900" >}}
+{{< tab "sketch.js" >}}
 let gui;
 let params = {
   genomeSize: 30,
@@ -354,9 +355,9 @@ function draw() {
     }
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "ops.js" >}}
+{{< tab "ops.js" >}}
 const instructions = [
   // Basic math
   {name: "id", function: (x) => x},
@@ -411,9 +412,9 @@ const stackInstructions = instructions.concat([
     }
   },
 ]);
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "stack.js" >}}
+{{< tab "stack.js" >}}
 class StackMachine {
   constructor(genome) {
     this.program = [];
@@ -560,9 +561,9 @@ this.run = function(X, Y) {
     return this.program.map((cmd) => cmd.name).join('\n');
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "genome.js" >}}
+{{< tab "genome.js" >}}
 class Genome {
   constructor(length) {
     length = length || 10;
@@ -613,9 +614,8 @@ class Genome {
     return child;
   }
 }
-{{< /p5js-tab >}}
-
-{{< p5js width="600" height="900" >}}{{< /p5js >}}
+{{< /tab >}}
+{{< /p5js >}}
 
 I've actually gotten a few much cooler images from stack machines now:
 

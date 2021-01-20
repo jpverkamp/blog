@@ -233,7 +233,8 @@ Originally I had the entire thing drawing in `setup`, but this code is ... slow.
 
 So that's all we need for this, let's p5js it!
 
-{{< p5js-tab "sketch.js" >}}
+{{< p5js width="600" height="900" >}}
+{{< tab "sketch.js" >}}
 let gui;
 let params = {
   registerCount: 7,
@@ -349,9 +350,9 @@ function draw() {
     }
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "ops.js" >}}
+{{< tab "ops.js" >}}
 const instructions = [
   // Basic math
   {name: "id", function: (x) => x},
@@ -388,9 +389,9 @@ const instructions = [
   {name: "xgt.5?", function: function(t, f) { return this.x > 0.5 ? t : f; }},
   {name: "ygt.5?", function: function(t, f) { return this.y > 0.5 ? t : f; }},
 ];
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "genome.js" >}}
+{{< tab "genome.js" >}}
 class Genome {
   constructor(length) {
     length = length || 10;
@@ -441,9 +442,9 @@ class Genome {
     return child;
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "register.js" >}}
+{{< tab "register.js" >}}
 class RegisterMachine {
   constructor(genome) {
     // Low registers are input, high output, middle are temporary
@@ -508,6 +509,5 @@ class RegisterMachine {
     return this.program.map((cmd) => cmd.name + ' ' + cmd.params.join(' ')).join('\n');
   }
 }
-{{< /p5js-tab >}}
-
-{{< p5js width="600" height="900" >}}{{< /p5js >}}
+{{< /tab >}}
+{{< /p5js >}}

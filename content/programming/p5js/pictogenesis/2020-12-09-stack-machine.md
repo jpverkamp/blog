@@ -49,7 +49,8 @@ Doing this, I'm passing the `this` of the `run` function into the `function()` i
 
 That's most of it, so let's check out the demo!
 
-{{< p5js-tab "sketch.js" >}}
+{{< p5js width="600" height="900" >}}
+{{< tab "sketch.js" >}}
 let gui;
 let params = {
   genomeSize: 30,
@@ -175,9 +176,9 @@ function draw() {
     }
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "ops.js" >}}
+{{< tab "ops.js" >}}
 const instructions = [
   // Basic math
   {name: "id", function: (x) => x},
@@ -232,9 +233,9 @@ const stackInstructions = instructions.concat([
     }
   },
 ]);
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "stack.js" >}}
+{{< tab "stack.js" >}}
 class StackMachine {
   constructor(genome) {
     this.program = [];
@@ -287,9 +288,9 @@ class StackMachine {
     return this.program.map((cmd) => cmd.name).join('\n');
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "genome.js" >}}
+{{< tab "genome.js" >}}
 class Genome {
   constructor(length) {
     length = length || 10;
@@ -340,9 +341,8 @@ class Genome {
     return child;
   }
 }
-{{< /p5js-tab >}}
-
-{{< p5js width="600" height="900" >}}{{< /p5js >}}
+{{< /tab >}}
+{{< /p5js >}}
 
 Unfortunately, about the coolest image I got in my testing was this:
 

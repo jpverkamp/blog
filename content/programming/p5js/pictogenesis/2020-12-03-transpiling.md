@@ -185,7 +185,8 @@ I haven't actually timed it, but try it out, you can see it for yourself (try se
 
 (Note: Click `register` to generate a new image, and then `transpile` to transpile and re-render it.)
 
-{{< p5js-tab "sketch.js" >}}
+{{< p5js width="600" height="900" >}}
+{{< tab "sketch.js" >}}
 let gui;
 let params = {
   registerCount: 7,
@@ -322,9 +323,9 @@ function draw() {
     }
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "ops.js" >}}
+{{< tab "ops.js" >}}
 const instructions = [
   // Basic math
   {name: "id", function: (x) => x},
@@ -361,9 +362,9 @@ const instructions = [
   {name: "noise1", function: (x) => noise(params.noise * x)},
   {name: "noise2", function: (x, y) => noise(params.noise * x, params.noise * y)},
 ];
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "register.js" >}}
+{{< tab "register.js" >}}
 class RegisterMachine {
   constructor(genome) {
     // Low registers are input, high output, middle are temporary
@@ -492,9 +493,9 @@ class RegisterMachine {
     return this.program.map((cmd) => cmd.name + ' ' + cmd.params.join(' ')).join('\n');
   }
 }
-{{< /p5js-tab >}}
+{{< /tab >}}
 
-{{< p5js-tab "genome.js" >}}
+{{< tab "genome.js" >}}
 class Genome {
   constructor(length) {
     length = length || 10;
@@ -545,9 +546,8 @@ class Genome {
     return child;
   }
 }
-{{< /p5js-tab >}}
-
-{{< p5js width="600" height="900" >}}{{< /p5js >}}
+{{< /tab >}}
+{{< /p5js >}}
 
 While I was testing it, I came up with these images:
 
