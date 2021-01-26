@@ -1,0 +1,4 @@
+{{ $rawContent := readFile (printf "%s/%s/%s" $.Page.File.Dir $.Page.File.BaseFileName (.Get 1)) }}
+{{ $content := printf "```%s\n%s\n```" (.Get 0) $rawContent }}
+
+{{ $content | markdownify }}

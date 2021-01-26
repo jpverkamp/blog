@@ -54,5 +54,5 @@ function changeTab(evt, tabName) {
 } 
 
 $(function() {
-    document.querySelectorAll('.tablinks.default').forEach((el) => el.click());
+    document.querySelector('.tablinks').click();
 });

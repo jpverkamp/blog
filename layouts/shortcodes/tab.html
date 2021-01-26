@@ -1,1 +1,4 @@
-{{ .Parent.Scratch.SetInMap "tabs" (or (.Get 0) .Ordinal) .Inner }}
+{{ $title := (or (.Get 0) (printf "Tab %v" (add .Ordinal 1))) }}
+{{ $content := .Inner }}
+
+{{ .Parent.Scratch.Add "tabs" (slice (dict "title" $title "content" $content)) }}

@@ -1,0 +1,2 @@
+{{ $content := readFile (printf "%s/%s/%s" $.Page.File.Dir $.Page.File.BaseFileName (.Get 0)) | safeHTML }}
+{{ $content | safeHTML }}

@@ -1,0 +1,21 @@
+<div class="tab">
+    {{ if (.Scratch.Get "tabs") }}
+        {{ range $tab := .Scratch.Get "tabs" }}
+        <button class="tablinks" onclick="changeTab(event, '{{ index $tab "title" }}')">{{ index $tab "title" }}</button>
+        {{ end }}
+    {{ else }}
+        <button class="tablinks" onclick="changeTab(event, 'default')">Content</button>
+    {{ end }}
+</div>
+
+{{ if (.Scratch.Get "tabs") }}
+    {{ range $tab := .Scratch.Get "tabs" }}
+        <div class="tabcontent" id="{{ index $tab "title" }}">
+        {{ index $tab "content" | markdownify }}
+        </div>
+    {{ end }}
+{{ else }}
+    <div class="tabcontent" id="default">
+        {{ .Inner | markdownify }}
+    </div>
+{{ end }}
