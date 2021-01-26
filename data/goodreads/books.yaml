@@ -1,3 +1,10 @@
+'1984':
+  author: George Orwell
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506l/40961427._SX98_.jpg
+  id: 40961427
+  localCover: /embeds/books/1984.jpg
+  name: '1984'
+  url: /book/show/40961427.1984
 A Brief History of Time:
   author: Stephen Hawking
   cover: https://images.gr-assets.com/books/1333578746l/3869.jpg
@@ -5,6 +12,13 @@ A Brief History of Time:
   localCover: /embeds/books/a-brief-history-of-time.jpg
   name: A Brief History of Time
   url: /book/show/3869.a-brief-history-of-time
+A Clockwork Orange:
+  author: Anthony Burgess
+  cover: https://blog.12min.com/wp-content/uploads/2018/06/image2-1-11.jpg
+  id: 12399254
+  localCover: /embeds/books/a-clockwork-orange.jpg
+  name: A Clockwork Orange
+  url: /book/show/12399254.a-clockwork-orange
 A Column of Fire:
   author: Ken Follett
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498850103l/33571713._SX98_.jpg
@@ -1173,6 +1187,15 @@ Dragon Tears:
   localCover: /embeds/books/dragon-tears.jpg
   name: Dragon Tears
   url: /book/show/32429.dragon-tears
+Dream Country:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402485052l/25100._SX98_.jpg
+  id: 25100
+  localCover: /embeds/books/dream-country.jpg
+  name: Dream Country
+  series: The Sandman
+  series_index: 3
+  url: /book/show/25100.dream-country
 Drowned Wednesday:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1304528425l/47619.jpg
@@ -3811,6 +3834,15 @@ Predator's Gold:
   series: Mortal Engines Quartet
   series_index: 2
   url: /book/show/48722.predators-gold
+Preludes & Nocturnes:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411609637l/23754._SX98_.jpg
+  id: 23754
+  localCover: /embeds/books/preludes-nocturnes.jpg
+  name: Preludes & Nocturnes
+  series: The Sandman
+  series_index: 1
+  url: /book/show/23754.preludes-nocturnes
 Prentice Alvin:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1386745612l/31357.jpg
@@ -4052,13 +4084,13 @@ Revisionary:
   url: /book/show/24316214.revisionary
 Rhythm of War:
   author: Brandon Sanderson
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599911216l/49021976._SX98_.jpg
-  id: 49021976
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599911216l/49021976.jpg
+  id: 17250966
   localCover: /embeds/books/rhythm-of-war.jpg
   name: Rhythm of War
   series: The Stormlight Archive
   series_index: 4
-  url: /book/show/49021976.rhythm-of-war
+  url: /book/show/17250966.rhythm-of-war
 Ringworld:
   author: Larry Niven
   cover: https://images.gr-assets.com/books/1408793358l/61179.jpg
@@ -4244,6 +4276,41 @@ Seventh Son:
   series: Tales of Alvin Maker
   series_index: 1
   url: /book/show/40290.seventh-son
+'Sex Criminals: Volume Five: Five-Fingered Discount':
+  author: Matt Fraction
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530164631l/36058915._SX98_.jpg
+  id: 36058915
+  localCover: /embeds/books/sex-criminals-volume-five-five-fingered-discount.jpg
+  name: 'Sex Criminals: Volume Five: Five-Fingered Discount'
+  url: /book/show/36058915.sex-criminals-volume-five-five-fingered-discount
+'Sex Criminals: Volume Four: Fourgy':
+  author: Matt Fraction
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498862771l/34504729._SX98_.jpg
+  id: 34504729
+  localCover: /embeds/books/sex-criminals-volume-four-fourgy.jpg
+  name: 'Sex Criminals: Volume Four: Fourgy'
+  url: /book/show/34504729.sex-criminals-volume-four-fourgy
+'Sex Criminals: Volume One: One Weird Trick':
+  author: Matt Fraction
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396977214l/19536001.jpg
+  id: 19536001
+  localCover: /embeds/books/sex-criminals-volume-one-one-weird-trick.jpg
+  name: 'Sex Criminals: Volume One: One Weird Trick'
+  url: /book/show/19536001.sex-criminals-volume-one-one-weird-trick
+'Sex Criminals: Volume Three: Three the Hard Way':
+  author: Matt Fraction
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448397197l/26087043._SX98_.jpg
+  id: 26087043
+  localCover: /embeds/books/sex-criminals-volume-three-three-the-hard-way.jpg
+  name: 'Sex Criminals: Volume Three: Three the Hard Way'
+  url: /book/show/26087043.sex-criminals-volume-three-three-the-hard-way
+'Sex Criminals: Volume Two: Two Worlds One Cop':
+  author: Matt Fraction
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410891094l/23228585._SX98_.jpg
+  id: 23228585
+  localCover: /embeds/books/sex-criminals-volume-two-two-worlds-one-cop.jpg
+  name: 'Sex Criminals: Volume Two: Two Worlds One Cop'
+  url: /book/show/23228585.sex-criminals-volume-two-two-worlds-one-cop
 Shadow Hunt:
   author: Melissa F. Olson
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507889698l/36225306._SX98_.jpg
@@ -5117,6 +5184,15 @@ The Devil's Only Friend:
   series: John Cleaver
   series_index: 4
   url: /book/show/22665330.the-devils-only-friend
+The Doll's House:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298566119l/25099._SX98_.jpg
+  id: 25099
+  localCover: /embeds/books/the-dolls-house.jpg
+  name: The Doll's House
+  series: The Sandman
+  series_index: 2
+  url: /book/show/25099.the-dolls-house
 The Door to December:
   author: Richard Paige
   cover: https://images.gr-assets.com/books/1388257941l/32446.jpg
@@ -5616,6 +5692,15 @@ The Jennifer Morgue:
   series: Laundry Files
   series_index: 2
   url: /book/show/14150.the-jennifer-morgue
+The Last Battle:
+  author: C.S. Lewis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814830l/84369._SX98_.jpg
+  id: 84369
+  localCover: /embeds/books/the-last-battle.jpg
+  name: The Last Battle
+  series: Chronicles of Narnia
+  series_index: 7
+  url: /book/show/84369.the-last-battle
 The Last Colony:
   author: John Scalzi
   cover: https://images.gr-assets.com/books/1328313843l/8180987.jpg
@@ -5932,11 +6017,13 @@ The Red Pyramid:
   url: /book/show/7090447.the-red-pyramid
 The Relentless Moon:
   author: Mary Robinette Kowal
-  id: 52381417
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574326388l/52381417.jpg
+  id: 50881172
+  localCover: /embeds/books/the-relentless-moon.jpg
   name: The Relentless Moon
   series: Lady Astronaut
   series_index: 3
-  url: /book/show/52381417.the-relentless-moon
+  url: /book/show/50881172.the-relentless-moon
 The Republic of Thieves:
   author: Scott Lynch
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406961069i/2890090.jpg
@@ -6922,3 +7009,10 @@ Zoo City:
   localCover: /embeds/books/zoo-city.jpg
   name: Zoo City
   url: /book/show/7163862.zoo-city
+'sex Criminals, Vol. 6: Six Criminals':
+  author: Matt Fraction
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585151453l/40629276.jpg
+  id: 40629276
+  localCover: /embeds/books/sex-criminals-vol-6-six-criminals.jpg
+  name: 'sex Criminals, Vol. 6: Six Criminals'
+  url: /book/show/40629276.sex-criminals-vol-6-six-criminals
