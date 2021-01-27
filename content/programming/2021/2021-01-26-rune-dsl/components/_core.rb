@@ -33,7 +33,7 @@ class Node
         parts.append @name
         parts.append @attributes unless @attributes.empty?
         parts.append "[" + @children.map{ |n| n.to_s }.join(", ") + "]" unless @children.empty?
-        return "Node(#{@id})<#{parts.join(" ")}>"
+        return "Node<#{parts.join(" ")}>"
     end
 
     def to_xml(depth: 0)
