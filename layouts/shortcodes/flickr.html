@@ -2,34 +2,16 @@
 {{- if .Get "set" -}}
     {{- $photoset := index $.Site.Data.flickr.sets (.Get "set") -}}
     {{- $photos := $photoset.photos -}}
-    {{- $photoCount := $photos | len -}}
-    {{- $columnCount := default 4 ($.Get "columns") -}}
-    {{- $columnSize := int (math.Ceil (div (mul 1.0 $photoCount) $columnCount)) }}
-    {{- $firstColumnExtras := sub $photoCount (mul $columnCount $columnSize) -}}
-    {{- $orderRowMajor := default false ($.Get "rowMajor") }}
 
-    <div class="imageGallery">
-        {{- range $columnIndex := seq 0 (sub $columnCount 1) -}}
-            <div class="column">
-            {{- range $rowIndex := seq 0 (sub $columnSize 1) -}}
-                {{- $imageIndex := cond $orderRowMajor (add $columnIndex (mul $rowIndex $columnCount)) (add $rowIndex (mul $columnIndex $columnSize)) -}}
-                {{- if (lt $imageIndex $photoCount) -}}
-                    {{- $photo := index $.Site.Data.flickr.photos (index $photos $imageIndex) -}}
-                    <figure>
-                        <a data-fancybox="gallery" data-fancybox-index="{{ $imageIndex }}" data-caption="{{ default $photo.title $photo.description }}" data-flickr="{{ $photo.page }}" href="{{ $photo.thumbnails.large }}">
-                            <img class="img-rounded" src="{{ $photo.thumbnails.small }}" />
-                        </a>
-                        <!--
-                        <figcaption>
-                            {{- $photo.title -}}
-                        </figcaption>
-                        -->
-                    </figure>
-                {{- end -}}
-            {{- end -}}
-            </div>
-        {{- end -}}
+    <div class="imageGallery2">
+        {{ range $index, $photoID := $photos }}
+            {{ $photo := index $.Site.Data.flickr.photos $photoID }}
+            <a data-fancybox="gallery" data-fancybox-index="{{ $index }}" data-caption="{{ default $photo.title $photo.description }}" data-flickr="{{ $photo.page }}" href="{{ $photo.thumbnails.large }}">
+                <img class="img-rounded" src="{{ $photo.thumbnails.small }}" />
+            </a>
+        {{ end }}
     </div>
+
     <div class="viewOnFlicker">
         <a href="https://flickr.com/photos/jpverkamp/sets/{{ .Get "set" }}">View on Flickr</a>
     </div>

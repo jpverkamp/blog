@@ -1171,6 +1171,13 @@ Down and Dirty:
   series: Wild Cards
   series_index: 5
   url: /book/show/67959.down-and-dirty
+Dracula:
+  author: Bram Stoker
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694l/17245.jpg
+  id: 35619410
+  localCover: /embeds/books/dracula.jpg
+  name: Dracula
+  url: /book/show/35619410.dracula
 Dragon:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1316996422l/41694.jpg

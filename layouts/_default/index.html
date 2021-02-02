@@ -1,6 +1,7 @@
 {{ define "main" }}
 
-{{- range .Site.Sections -}}
+{{- range $index, $section := .Site.Sections -}}
+{{- with $section -}}
     {{- if not (eq .Title "Other") -}}
         <h2>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -11,15 +12,24 @@
             </sup>
         </h2>
 
+        <section>
+        {{ .Content }}
+        </section>
+
+        <h3>Recent posts:</h3>
         <ul>
             {{- range first 10 .Pages -}}
             <li>
                 {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>{{- partial "series.html" . -}}{{- partial "mediatype.html" . -}}
             </li>
             {{- end -}}
         </ul>
+
+        {{- if eq $index 0 -}}
+        <hr />
+        {{- end -}}
     {{- end -}}
 {{- end -}}
-
+{{- end -}}
 {{ end }}
