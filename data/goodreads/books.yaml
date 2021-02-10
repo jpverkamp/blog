@@ -82,6 +82,15 @@ A Game of Thrones:
   series: A Song of Ice and Fire
   series_index: 1
   url: /book/show/13496.a-game-of-thrones
+A Game of You:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1312279891l/25102._SX98_.jpg
+  id: 25102
+  localCover: /embeds/books/a-game-of-you.jpg
+  name: A Game of You
+  series: The Sandman
+  series_index: 5
+  url: /book/show/25102.a-game-of-you
 A Gathering of Shadows:
   author: V.E. Schwab
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429627728l/20764879.jpg
@@ -599,6 +608,15 @@ Bqylon's Ashes:
   series: The Expanse
   series_index: 6
   url: /book/show/28053798.babylons-ashes
+Brief Lives:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339922078l/25105._SX98_.jpg
+  id: 25105
+  localCover: /embeds/books/brief-lives.jpg
+  name: Brief Lives
+  series: The Sandman
+  series_index: 7
+  url: /book/show/25105.brief-lives
 Bright Smoke, Cold Fire:
   author: Rosamund Hodge
   cover: https://images.gr-assets.com/books/1455542433l/28448239.jpg
@@ -1369,6 +1387,15 @@ Fables:
   localCover: /embeds/books/fables.jpg
   name: Fables
   url: /book/show/652484.fables
+Fables & Reflections:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311961999l/25106._SX98_.jpg
+  id: 25106
+  localCover: /embeds/books/fables-reflections.jpg
+  name: Fables & Reflections
+  series: The Sandman
+  series_index: 6
+  url: /book/show/25106.fables-reflections
 'Fables, Vol. 10: The Good Prince':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393788l/2147714._SX98_.jpg
@@ -3947,6 +3974,13 @@ Pyramids:
   series: Discworld
   series_index: 7
   url: /book/show/64217.pyramids
+Ra:
+  author: Sam  Hughes
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545264975l/22635765._SY475_.jpg
+  id: 43210320
+  localCover: /embeds/books/ra.jpg
+  name: Ra
+  url: /book/show/43210320.ra
 Raise the Titanic!:
   author: Clive Cussler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439783780l/41706._SY475_.jpg
@@ -4247,6 +4281,15 @@ Schoolhouse Mystery:
   series: The Boxcar Children
   series_index: 10
   url: /book/show/156810.schoolhouse-mystery
+Season of Mists:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327937313l/25101._SX98_.jpg
+  id: 25101
+  localCover: /embeds/books/season-of-mists.jpg
+  name: Season of Mists
+  series: The Sandman
+  series_index: 4
+  url: /book/show/25101.season-of-mists
 'Second Shift: Order':
   author: Hugh Howey
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352920738l/16148938._SX98_.jpg
@@ -5699,6 +5742,15 @@ The Jennifer Morgue:
   series: Laundry Files
   series_index: 2
   url: /book/show/14150.the-jennifer-morgue
+The Kindly Ones:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339922887l/71252._SX98_.jpg
+  id: 71252
+  localCover: /embeds/books/the-kindly-ones.jpg
+  name: The Kindly Ones
+  series: The Sandman
+  series_index: 9
+  url: /book/show/71252.the-kindly-ones
 The Last Battle:
   author: C.S. Lewis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814830l/84369._SX98_.jpg
@@ -6952,6 +7004,15 @@ World Without End:
   series: Kingsbridge
   series_index: 2
   url: /book/show/5064.world-without-end
+Worlds' End:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339922260l/25103._SX98_.jpg
+  id: 25103
+  localCover: /embeds/books/worlds-end.jpg
+  name: Worlds' End
+  series: The Sandman
+  series_index: 8
+  url: /book/show/25103.worlds-end
 Worm:
   author: Wildbow
   cover: https://images.gr-assets.com/books/1388586402l/18713259.jpg
