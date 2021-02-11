@@ -6421,6 +6421,15 @@ The Voyage of the Dawn Treader:
   series: The Chronicles of Narnia (Publication Order)
   series_index: 3
   url: /book/show/140225.the-voyage-of-the-dawn-treader
+The Wake:
+  author: Neil Gaiman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339922545l/25104._SX98_.jpg
+  id: 25104
+  localCover: /embeds/books/the-wake.jpg
+  name: The Wake
+  series: The Sandman
+  series_index: 10
+  url: /book/show/25104.the-wake
 The Waste Lands:
   author: Stephen King
   cover: https://images.gr-assets.com/books/1389762449l/34084.jpg
