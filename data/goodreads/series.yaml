@@ -1973,6 +1973,16 @@ The Hungry City Chronicles:
   id: 43859
   name: The Hungry City Chronicles
   url: /series/43859.the-hungry-city-chronicles
+The Infernal Devices:
+  books:
+    1: Clockwork Angel
+    2: Clockwork Prince
+    3: Clockwork Princess
+    3.5: After the Bridge
+    1-3: Clockwork Angel; Clockwork Prince; Clockwork Princess
+  id: 54144
+  name: The Infernal Devices
+  url: /series/54144.the-infernal-devices
 The Inheritance Cycle:
   books:
     1: Eragon
@@ -2245,6 +2255,14 @@ Welcome to Night Vale:
   id: 190615
   name: Welcome to Night Vale
   url: /series/190615.welcome-to-night-vale
+White Sand:
+  books:
+    1: White Sand, Volume 1
+    2: White Sand, Volume 2
+    3: White Sand, Volume 3
+  id: 173736
+  name: White Sand
+  url: /series/173736.white-sand
 White Trash Zombie:
   books:
     1: My Life as a White Trash Zombie

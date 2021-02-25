@@ -899,6 +899,15 @@ Clariel:
   series: Abhorsen
   series_index: 4
   url: /book/show/20662728.clariel
+Clockwork Angel:
+  author: Cassandra Clare
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454962884l/7171637._SX98_.jpg
+  id: 7171637
+  localCover: /embeds/books/clockwork-angel.jpg
+  name: Clockwork Angel
+  series: The Infernal Devices
+  series_index: 1
+  url: /book/show/7171637.clockwork-angel
 Codex Born:
   author: Jim C. Hines
   cover: https://images.gr-assets.com/books/1348840241l/15824178.jpg
@@ -3034,6 +3043,13 @@ Little House on the Prairie:
   series: Little House
   series_index: 2
   url: /book/show/77767.little-house-on-the-prairie
+Little Robot:
+  author: Ben Hatke
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421087355l/23310721._SX98_.jpg
+  id: 23310721
+  localCover: /embeds/books/little-robot.jpg
+  name: Little Robot
+  url: /book/show/23310721.little-robot
 Little Town on the Prairie:
   author: Laura Ingalls Wilder
   cover: https://images.gr-assets.com/books/1266449674l/8253.jpg
@@ -5710,6 +5726,13 @@ The Immortal Life of Henrietta Lacks:
   localCover: /embeds/books/the-immortal-life-of-henrietta-lacks.jpg
   name: The Immortal Life of Henrietta Lacks
   url: /book/show/6493208.the-immortal-life-of-henrietta-lacks
+'The Interstellar Age: Inside the Forty-Year Voyager Mission':
+  author: Jim Bell
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404484684l/22571516._SX98_.jpg
+  id: 22571516
+  localCover: /embeds/books/the-interstellar-age-inside-the-forty-year-voyager-mission.jpg
+  name: 'The Interstellar Age: Inside the Forty-Year Voyager Mission'
+  url: /book/show/22571516.the-interstellar-age-inside-the-forty-year-voyager-mission
 The Invention of Hugo Cabret:
   author: Brian Selznick
   cover: https://images.gr-assets.com/books/1440580088l/26167889.jpg
@@ -6916,6 +6939,33 @@ White Sand:
   id: 8868764
   name: White Sand
   url: /book/show/8868764.white-sand
+White Sand, Volume 1:
+  author: Brandon Sanderson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458567969l/28862254._SX98_.jpg
+  id: 28862254
+  localCover: /embeds/books/white-sand-volume-1.jpg
+  name: White Sand, Volume 1
+  series: White Sand
+  series_index: 1
+  url: /book/show/28862254.white-sand-volume-1
+White Sand, Volume 2:
+  author: Brandon Sanderson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518123342l/33551363._SX98_.jpg
+  id: 33551363
+  localCover: /embeds/books/white-sand-volume-2.jpg
+  name: White Sand, Volume 2
+  series: White Sand
+  series_index: 2
+  url: /book/show/33551363.white-sand-volume-2
+White Sand, Volume 3:
+  author: Brandon Sanderson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551446179l/39298848._SX98_.jpg
+  id: 39298848
+  localCover: /embeds/books/white-sand-volume-3.jpg
+  name: White Sand, Volume 3
+  series: White Sand
+  series_index: 3
+  url: /book/show/39298848.white-sand-volume-3
 White Trash Zombie Apocalypse:
   author: Diana Rowland
   cover: https://images.gr-assets.com/books/1377544520l/15738579.jpg
