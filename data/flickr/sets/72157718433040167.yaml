@@ -1,0 +1,34 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 14
+count_videos: 0
+count_views: '0'
+date_create: '1614287667'
+date_update: '1614287684'
+description: Another few snow days, up to a foot. Lots of playing and sledding.
+farm: 66
+id: '72157718433040167'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '50980563182'
+- '50980454736'
+- '50980452871'
+- '50979746573'
+- '50980451996'
+- '50980560172'
+- '50980451521'
+- '50979745388'
+- '50980559437'
+- '50979744788'
+- '50979744478'
+- '50980558717'
+- '50980449871'
+- '50980449351'
+primary: '50980563182'
+secret: 66f2dab93c
+server: '65535'
+title: Snow Days (2021)
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
