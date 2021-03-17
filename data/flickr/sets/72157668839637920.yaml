@@ -1,10 +1,10 @@
 can_comment: 0
 count_comments: '0'
-count_photos: 21
+count_photos: 22
 count_videos: 0
 count_views: '0'
 date_create: '1465918745'
-date_update: '1610472098'
+date_update: '1615431419'
 description: A collection of found faces / pareidolia pictures.
 farm: 8
 id: '72157668839637920'
@@ -32,6 +32,7 @@ photos:
 - '50759237827'
 - '50828888747'
 - '50828802681'
+- '51024469381'
 primary: '27059382943'
 secret: 9cf8fd5e0c
 server: '7624'

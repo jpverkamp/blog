@@ -908,6 +908,15 @@ Clockwork Angel:
   series: The Infernal Devices
   series_index: 1
   url: /book/show/7171637.clockwork-angel
+Clockwork Prince:
+  author: Cassandra Clare
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460477747l/10025305._SX98_.jpg
+  id: 10025305
+  localCover: /embeds/books/clockwork-prince.jpg
+  name: Clockwork Prince
+  series: The Infernal Devices
+  series_index: 2
+  url: /book/show/10025305.clockwork-prince
 Codex Born:
   author: Jim C. Hines
   cover: https://images.gr-assets.com/books/1348840241l/15824178.jpg
@@ -5016,6 +5025,15 @@ The Blood of Olympus:
   series: The Heroes of Olympus
   series_index: 5
   url: /book/show/18705209.the-blood-of-olympus
+The Borrowers:
+  author: Mary Norton
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308945559l/348573._SX98_.jpg
+  id: 348573
+  localCover: /embeds/books/the-borrowers.jpg
+  name: The Borrowers
+  series: The Borrowers
+  series_index: 1
+  url: /book/show/348573.the-borrowers
 The Boxcar Children:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173489650l/297249._SX98_.jpg
@@ -5740,6 +5758,13 @@ The Invention of Hugo Cabret:
   localCover: /embeds/books/the-invention-of-hugo-cabret.jpg
   name: The Invention of Hugo Cabret
   url: /book/show/26167889.the-invention-of-hugo-cabret
+The Invisible Life of Addie LaRue:
+  author: V.E. Schwab
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SX98_.jpg
+  id: 50623864
+  localCover: /embeds/books/the-invisible-life-of-addie-larue.jpg
+  name: The Invisible Life of Addie LaRue
+  url: /book/show/50623864.the-invisible-life-of-addie-larue
 The Iron Season:
   author: Helene Wecker
   id: 27234491
@@ -6585,6 +6610,15 @@ This Is How You Lose the Time War:
   localCover: /embeds/books/this-is-how-you-lose-the-time-war.jpg
   name: This Is How You Lose the Time War
   url: /book/show/43352954.this-is-how-you-lose-the-time-war
+Those Left Behind:
+  author: Joss Whedon
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403203994l/133765._SX98_.jpg
+  id: 133765
+  localCover: /embeds/books/those-left-behind.jpg
+  name: Those Left Behind
+  series: Serenity
+  series_index: 1
+  url: /book/show/133765.those-left-behind
 Throne of the Crescent Moon:
   author: Saladin Ahmed
   cover: https://images.gr-assets.com/books/1344256189l/11487807.jpg
