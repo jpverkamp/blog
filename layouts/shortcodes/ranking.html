@@ -2,9 +2,9 @@
     <h3 class="title">Ranked: {{ .Get 0 }}</h3>
     <div class="content">
         <ol>
-        {{- $data := index $.Site.Data (.Get 0) -}}
+        {{- $data := index $.Site.Data.rankings (.Get 0) -}}
         {{- range $title := index $data "ranking" -}}
-            <li>{{ $title }}</li>
+            <li>{{ $title }} </li>
         {{- end -}}
         </ol>
     </div>

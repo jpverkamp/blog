@@ -19,3 +19,5 @@ Castwise, Alex just works. The rest of his 'droogs' were ... interchangable, whi
 The dialect that got to be rather a bit much in the book is toned down in the film--primarily because we don't have a nonstop, in the head commentary done in the same. It makes it quirky rather than overbearing, which I appreciated. 
 
 Overall, it's... a complicated movie. It's a solid adaptation of the book (among the best in that regard I've ever seen; albeit without the '21st chapter'). There's plenty of shock scenes (violent and sexual) if that's something you're looking for. But it's hard to watch and a bit slow at times. I'm glad to have seen it, but I don't know if I'll ever watch it again. 
+
+{{< ranking "2021 Movie Reviews" >}}
