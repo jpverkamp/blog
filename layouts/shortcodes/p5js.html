@@ -71,8 +71,11 @@ setup = () => {
 <div class="tab">
     <button class="tablinks default" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', 'iframedemo')">Demo</button>
     {{ if (.Scratch.Get "tabs") }}
-        {{ range $title, $content := .Scratch.Get "tabs" }}
-        <button class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', '{{ $title }}')">{{ $title }}</button>
+
+        {{ range $tab := .Scratch.Get "tabs" }}
+            {{ $title := index $tab "title" }}
+            {{ $content := index $tab "content" }}
+            <button class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', '{{ $title }}')">{{ $title }}</button>
         {{ end }}
     {{ else }}
         <button class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', 'defaultscript')">Script</button>
@@ -87,8 +90,8 @@ setup = () => {
             <script>
 
             {{ if (.Scratch.Get "tabs") }}
-                {{ range $title, $content := .Scratch.Get "tabs" }}
-                    {{ $content }}
+                {{ range $tab := .Scratch.Get "tabs" }}
+                    {{ index $tab "content" }}
                 {{ end }}
             {{ else }}
                 {{ .Inner }}
@@ -102,7 +105,10 @@ setup = () => {
 </div>
 
 {{ if (.Scratch.Get "tabs") }}
-    {{ range $title, $content := .Scratch.Get "tabs" }}
+    {{ range $tab := .Scratch.Get "tabs" }}
+        {{ $title := index $tab "title" }}
+        {{ $content := index $tab "content" }}
+
         <div class="tabcontent" data-tabset="{{ $id }}" id="{{ $title }}">
         {{ (printf "```javascript\n%s\n```" $content) | markdownify }}
         </div>

@@ -1474,6 +1474,24 @@ Scarlett Bernard:
   id: 93791
   name: Scarlett Bernard
   url: /series/93791.scarlett-bernard
+Serenity:
+  books:
+    1: Those Left Behind
+    2: Better Days and Other Stories
+    2.1: Better Days
+    2.2: Myspace Dark Horse Presents, Volume 3
+    2.3: Downtime
+    2.4: 'Serenity: Float Out'
+    3: The Shepherd's Tale
+    3.6: 'Star Wars / Serenity: Free Comic Book Day 2012 Flipbook'
+    4: Leaves on the Wind
+    5: 'Serenity: No Power in the ''Verse'
+    1-3: 'Firefly: Legacy Edition Book One'
+    4-5: 'Firefly: Legacy Edition Book Two'
+    1-5: Firefly Legacy Deluxe Edition
+  id: 51655
+  name: Serenity
+  url: /series/51655.serenity
 Shades of Magic:
   books:
     1: A Darker Shade of Magic

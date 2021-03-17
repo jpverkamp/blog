@@ -1,4 +1,6 @@
 {{ $title := (or (.Get 0) (printf "Tab %v" (add .Ordinal 1))) }}
 {{ $content := .Inner }}
 
+DEBUG: {{ $title }} - {{ $content }}
+
 {{ .Parent.Scratch.Add "tabs" (slice (dict "title" $title "content" $content)) }}

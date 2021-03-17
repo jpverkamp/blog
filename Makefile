@@ -1,4 +1,4 @@
-HUGO_VERSION = 0.55
+HUGO_IMAGE = klakegg/hugo:0.81.0
 LAST_COMMIT = $(shell git log -1 --pretty=%B | head -n 1)
 
 import-flickr:
@@ -19,13 +19,13 @@ import: import-flickr import-goodreads
 
 run:
 	sleep 30 && open http://localhost/ &
-	docker run --rm -it -p 80:80 -v $(shell pwd):/src jguyomard/hugo-builder:${HUGO_VERSION} hugo server --buildFuture --bind 0.0.0.0 --port 80
+	docker run --rm -it -p 80:80 -v $(shell pwd):/src ${HUGO_IMAGE} server --buildFuture --bind 0.0.0.0 --port 80 --verbose
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
 	cd public; git wipe; git up
 	#rm -rf public/*
-	docker run --rm -it -v $(shell pwd):/src jguyomard/hugo-builder:${HUGO_VERSION} hugo
+	docker run --rm -it -v $(shell pwd):/src ${HUGO_IMAGE}
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
 

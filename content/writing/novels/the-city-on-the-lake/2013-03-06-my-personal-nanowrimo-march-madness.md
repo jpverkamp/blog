@@ -11,7 +11,7 @@ writing/types:
 - NaNoWriMo
 - Novel
 ---
-Back when I [finished my last NaNoWriMo]({{< ref "2013-01-15-all-good-things.md" >}}), I said that I'd be starting a new writing project within a couple of weeks. Well, here we are. It's more than a couple of weeks later--a bit short of two months actually. Unfortunately, I haven't really written much. There was [a short story]({{< ref "2013-02-19-observers-on-cydonia.md" >}}) and a few other blog posts and that's about it. But that's not what I want to do. I want to write.
+Back when I finished my last NaNoWriMo, I said that I'd be starting a new writing project within a couple of weeks. Well, here we are. It's more than a couple of weeks later--a bit short of two months actually. Unfortunately, I haven't really written much. There was a short story and a few other blog posts and that's about it. But that's not what I want to do. I want to write.
 
 <!--more-->
 

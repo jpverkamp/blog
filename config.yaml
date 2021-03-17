@@ -5,6 +5,11 @@ pygmentsCodeFences: true
 pluralizelisttitles: false
 enableEmoji: true
 
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
 params:
     listTermsPerTaxonomy: 10
     githubUsername: jpverkamp

@@ -10,6 +10,12 @@
 
     {{- if eq .Paginator.PageNumber 1 -}}
         {{- if eq .Title "Programming" -}}
+            {{/* 
+                This doesn't seem to be working... :(
+                
+                ERROR 2021/03/17 17:27:25 Failed to get JSON resource "https://api.github.com/users/jpverkamp/repos":
+                Get "https://api.github.com/users/jpverkamp/repos": tls: first record does not look like a TLS handshake
+            */}}{{/*
             <h1>Popular Github Repos</h1>
             <ul>
                 {{- range (first 10 (sort (getJSON "https://api.github.com/users/" $.Site.Params.githubUsername "/repos") "stargazers_count" "desc")) -}}
@@ -24,6 +30,7 @@
                     </li>
                 {{- end -}}
             </ul>
+            */}}
 
             <h1>Posts</h1>
         {{- end -}}
