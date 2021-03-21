@@ -9,7 +9,11 @@ reviews/series:
 ---
 {{< goodreads book="The Borrowers" cover="true" >}}
 
-> “...Borrower's don't steal."   > "Except from human beings," said the boy.   > Arrietty burst out laughing; she laughed so much that she had to hide her > face in the primrose. "Oh dear," she gasped with tears in her eyes, "you are > funny!" She stared upward at his puzzled face. "Human beans are for > Borrowers - like bread's for butter!”  
+> “...Borrower's don't steal."   
+> 
+> "Except from human beings," said the boy.   
+> 
+> Arrietty burst out laughing; she laughed so much that she had to hide her face in the primrose. "Oh dear," she gasped with tears in her eyes, "you are funny!" She stared upward at his puzzled face. "Human beans are for Borrowers - like bread's for butter!”  
 
 Well that's a wonderful, fun book. Tiny people that live under the floor and ~~steal~~ Borrow whatever they need to survive/thrive from the 'human beans' that live in the house above.  
 
@@ -23,6 +27,8 @@ I think my favorite moment in the entire book was when Arietty meets the boy for
 
 Well worth the read. I look forward to the sequels.  
 
-> “Mrs. May looked back at her. "Kate," she said after a moment, "stories > never really end. They can go on and on and on. It's just that sometimes, at > a certain point, one stops telling them.”
+> “Mrs. May looked back at her. 
+> 
+> "Kate," she said after a moment, "stories never really end. They can go on and on and on. It's just that sometimes, at a certain point, one stops telling them.”
 
 

@@ -7,7 +7,7 @@ reviews/lists:
 ---
 {{< goodreads book="The Invisible Life of Addie LaRue" cover="true" >}}
 
-> Seven freckles. One for every love she’d have, that’s what Estele had said, > when the girl was still young. One for every life she’d lead. One for every > god watching over her. Now, they mock her, those seven marks. Promises. > Lies. She’s had no loves, she’s lived no lives, she’s met no gods, and now > she is out of time.
+> Seven freckles. One for every love she’d have, that’s what Estele had said, when the girl was still young. One for every life she’d lead. One for every god watching over her. Now, they mock her, those seven marks. Promises. Lies. She’s had no loves, she’s lived no lives, she’s met no gods, and now she is out of time.
 
 Addie LaRue is a story about making deals with the devil. A story about living forever. A story about living a life where no one seems to see you for you or to pay you any mind.  
 
