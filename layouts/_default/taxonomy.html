@@ -11,7 +11,7 @@
     <article class="li">
     	<header>
     		<h1 class="entry-title">
-                <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
+                <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>{{- partial "series.html" . -}}
             </h1>
 
     		<div class="entry-meta">
