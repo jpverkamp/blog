@@ -437,6 +437,15 @@ Benny Uncovers a Mystery:
   series: The Boxcar Children
   series_index: 19
   url: /book/show/182373.benny-uncovers-a-mystery
+Better Days and Other Stories:
+  author: Joss Whedon
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327953355l/11279472._SX98_.jpg
+  id: 11279472
+  localCover: /embeds/books/better-days-and-other-stories.jpg
+  name: Better Days and Other Stories
+  series: Serenity
+  series_index: 2
+  url: /book/show/11279472.better-days-and-other-stories
 Beyond the Shadows:
   author: Brent Weeks
   cover: https://images.gr-assets.com/books/1327881432l/3754026.jpg
@@ -2950,6 +2959,15 @@ Learn You a Haskell for Great Good!:
   localCover: /embeds/books/learn-you-a-haskell-for-great-good.jpg
   name: Learn You a Haskell for Great Good!
   url: /book/show/6593810.learn-you-a-haskell-for-great-good
+Leaves on the Wind:
+  author: Zack Whedon
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443623630l/21532236._SX98_.jpg
+  id: 21532236
+  localCover: /embeds/books/leaves-on-the-wind.jpg
+  name: Leaves on the Wind
+  series: Serenity
+  series_index: 4
+  url: /book/show/21532236.leaves-on-the-wind
 Legion:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1338512017l/13452375.jpg
@@ -4342,6 +4360,13 @@ Senlin Ascends:
   series: The Books of Babel
   series_index: 1
   url: /book/show/35271523.senlin-ascends
+'Serenity: No Power in the ''Verse':
+  author: Chris Roberson
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496264890l/35275576._SY475_.jpg
+  id: 35275576
+  localCover: /embeds/books/serenity-no-power-in-the-verse.jpg
+  name: 'Serenity: No Power in the ''Verse'
+  url: /book/show/35275576.serenity-no-power-in-the-verse
 Seventh Son:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1327295457l/40290.jpg
@@ -6249,6 +6274,15 @@ The Shepherd's Crown:
   series: Discworld
   series_index: 41
   url: /book/show/22886868.the-shepherds-crown
+The Shepherd's Tale:
+  author: Joss Whedon
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443624918l/8596384._SX98_.jpg
+  id: 8596384
+  localCover: /embeds/books/the-shepherds-tale.jpg
+  name: The Shepherd's Tale
+  series: Serenity
+  series_index: 3
+  url: /book/show/8596384.the-shepherds-tale
 The Silent War:
   author: Ben Bova
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386919740l/267285.jpg
