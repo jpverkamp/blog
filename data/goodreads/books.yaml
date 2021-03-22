@@ -926,6 +926,15 @@ Clockwork Prince:
   series: The Infernal Devices
   series_index: 2
   url: /book/show/10025305.clockwork-prince
+Clockwork Princess:
+  author: Cassandra Clare
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436788488l/18335634._SX98_.jpg
+  id: 18335634
+  localCover: /embeds/books/clockwork-princess.jpg
+  name: Clockwork Princess
+  series: The Infernal Devices
+  series_index: 3
+  url: /book/show/18335634.clockwork-princess
 Codex Born:
   author: Jim C. Hines
   cover: https://images.gr-assets.com/books/1348840241l/15824178.jpg
