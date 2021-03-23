@@ -2478,6 +2478,13 @@ Hex:
   series: Coyote Universe
   series_index: 8
   url: /book/show/10472902.hex
+'Hex11 Vol. 1: The Magic Age Rises':
+  author: Kelly Sue Milano
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457707661l/29483460._SX98_.jpg
+  id: 29483460
+  localCover: /embeds/books/hex11-vol-1-the-magic-age-rises.jpg
+  name: 'Hex11 Vol. 1: The Magic Age Rises'
+  url: /book/show/29483460.hex11-vol-1-the-magic-age-rises
 Hexed:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1388235604l/9595650.jpg

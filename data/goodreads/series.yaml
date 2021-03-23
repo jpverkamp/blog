@@ -806,6 +806,13 @@ Hellboy:
   id: 55300
   name: Hellboy
   url: /series/55300.hellboy
+Hex11:
+  books:
+    1: 'Hex11 Vol. 1: The Magic Age Rises'
+    2: 'Hex11 Vol. 2'
+  id: 230596
+  name: Hex11
+  url: /series/230596.hex11
 His Dark Materials:
   books:
     0.5: Once Upon a Time in the North
