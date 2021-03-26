@@ -1660,6 +1660,13 @@ False Memory:
   localCover: /embeds/books/false-memory.jpg
   name: False Memory
   url: /book/show/182425.false-memory
+Fantastic Voyage:
+  author: Isaac Asimov
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320425345l/83539._SX98_.jpg
+  id: 83539
+  localCover: /embeds/books/fantastic-voyage.jpg
+  name: Fantastic Voyage
+  url: /book/show/83539.fantastic-voyage
 Farmer Boy:
   author: Laura Ingalls Wilder
   cover: https://images.gr-assets.com/books/1388446891l/8252.jpg
@@ -2485,6 +2492,13 @@ Hex:
   localCover: /embeds/books/hex11-vol-1-the-magic-age-rises.jpg
   name: 'Hex11 Vol. 1: The Magic Age Rises'
   url: /book/show/29483460.hex11-vol-1-the-magic-age-rises
+Hex11 Vol. 2:
+  author: Kelly Sue Milano
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528858772l/40520333._SX98_.jpg
+  id: 40520333
+  localCover: /embeds/books/hex11-vol-2.jpg
+  name: Hex11 Vol. 2
+  url: /book/show/40520333.hex11-vol-2
 Hexed:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1388235604l/9595650.jpg
