@@ -385,6 +385,24 @@ Atlantis Found:
   series: Dirk Pitt
   series_index: 15
   url: /book/show/41707.atlantis-found
+Attack on Titan, Vol. 1:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432712438l/13154150._SX98_.jpg
+  id: 13154150
+  localCover: /embeds/books/attack-on-titan-vol-1.jpg
+  name: Attack on Titan, Vol. 1
+  series: Attack on Titan
+  series_index: 1
+  url: /book/show/13154150.attack-on-titan-vol-1
+Attack on Titan, Vol. 2:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408888403l/13531561.jpg
+  id: 13531561
+  localCover: /embeds/books/attack-on-titan-vol-2.jpg
+  name: Attack on Titan, Vol. 2
+  series: Attack on Titan
+  series_index: 2
+  url: /book/show/13531561.attack-on-titan-vol-2
 Aurora:
   author: Kim Stanley Robinson
   cover: https://images.gr-assets.com/books/1436300570l/23197269.jpg
