@@ -421,6 +421,15 @@ Attack on Titan, Vol. 4:
   series: Attack on Titan
   series_index: 4
   url: /book/show/15798166.attack-on-titan-vol-4
+Attack on Titan, Vol. 5:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356153102l/16071864._SX98_.jpg
+  id: 16071864
+  localCover: /embeds/books/attack-on-titan-vol-5.jpg
+  name: Attack on Titan, Vol. 5
+  series: Attack on Titan
+  series_index: 5
+  url: /book/show/16071864.attack-on-titan-vol-5
 Aurora:
   author: Kim Stanley Robinson
   cover: https://images.gr-assets.com/books/1436300570l/23197269.jpg
