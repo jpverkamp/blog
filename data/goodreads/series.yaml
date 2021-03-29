@@ -126,6 +126,45 @@ Artemis Fowl:
   id: 42742
   name: Artemis Fowl
   url: /series/42742.artemis-fowl
+Attack on Titan:
+  books:
+    1: Attack on Titan, Vol. 1
+    2: Attack on Titan, Vol. 2
+    3: Attack on Titan, Vol. 3
+    4: Attack on Titan, Vol. 4
+    5: Attack on Titan, Vol. 5
+    6: Attack on Titan, Vol. 6
+    7: Attack on Titan, Vol. 7
+    8: Attack on Titan, Vol. 8
+    9: Attack on Titan, Vol. 9
+    10: Attack on Titan, Vol. 10
+    11: Attack on Titan, Vol. 11
+    12: Attack on Titan, Vol. 12
+    13: Attack on Titan, Vol. 13
+    14: Attack on Titan, Vol. 14
+    15: Attack on Titan, Vol. 15
+    16: Attack on Titan, Vol. 16
+    17: Attack on Titan, Vol. 17
+    18: Attack on Titan, Vol. 18
+    19: Attack on Titan, Vol. 19
+    20: Attack on Titan, Vol. 20
+    21: Attack on Titan, Vol. 21
+    22: Attack on Titan, Vol. 22
+    23: Attack on Titan, Vol. 23
+    24: Attack on Titan, Vol. 24
+    25: Attack on Titan, Vol. 25
+    26: Attack on Titan, Vol. 26
+    27: Attack on Titan, Vol. 27
+    28: Attack on Titan, Vol. 28
+    29: Attack on Titan, Vol. 29
+    30: Attack on Titan, Vol. 30
+    31: Attack on Titan, Vol. 31
+    32: Attack on Titan, Vol. 32
+    33: Attack on Titan, Vol. 33
+    34: Attack on Titan, Vol. 34
+  id: 83553
+  name: "\u9032\u6483\u306E\u5DE8\u4EBA / Attack on Titan"
+  url: /series/83553.attack-on-titan
 Bannon & Clare:
   books:
     1: The Iron Wyrm Affair
@@ -2357,42 +2396,3 @@ Xenogenesis:
   id: 41747
   name: Xenogenesis
   url: /series/41747.xenogenesis
-"Attack on Titan":
-  books:
-    1: Attack on Titan, Vol. 1
-    2: Attack on Titan, Vol. 2
-    3: Attack on Titan, Vol. 3
-    4: Attack on Titan, Vol. 4
-    5: Attack on Titan, Vol. 5
-    6: Attack on Titan, Vol. 6
-    7: Attack on Titan, Vol. 7
-    8: Attack on Titan, Vol. 8
-    9: Attack on Titan, Vol. 9
-    10: Attack on Titan, Vol. 10
-    11: Attack on Titan, Vol. 11
-    12: Attack on Titan, Vol. 12
-    13: Attack on Titan, Vol. 13
-    14: Attack on Titan, Vol. 14
-    15: Attack on Titan, Vol. 15
-    16: Attack on Titan, Vol. 16
-    17: Attack on Titan, Vol. 17
-    18: Attack on Titan, Vol. 18
-    19: Attack on Titan, Vol. 19
-    20: Attack on Titan, Vol. 20
-    21: Attack on Titan, Vol. 21
-    22: Attack on Titan, Vol. 22
-    23: Attack on Titan, Vol. 23
-    24: Attack on Titan, Vol. 24
-    25: Attack on Titan, Vol. 25
-    26: Attack on Titan, Vol. 26
-    27: Attack on Titan, Vol. 27
-    28: Attack on Titan, Vol. 28
-    29: Attack on Titan, Vol. 29
-    30: Attack on Titan, Vol. 30
-    31: Attack on Titan, Vol. 31
-    32: Attack on Titan, Vol. 32
-    33: Attack on Titan, Vol. 33
-    34: Attack on Titan, Vol. 34
-  id: 83553
-  name: "\u9032\u6483\u306E\u5DE8\u4EBA / Attack on Titan"
-  url: /series/83553.attack-on-titan

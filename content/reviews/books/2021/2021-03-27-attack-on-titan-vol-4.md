@@ -1,0 +1,28 @@
+---
+title: Attack on Titan, Vol. 4
+date: 2021-03-27 23:00:04
+generated: true
+reviews/lists:
+- 2021 Book Reviews
+reviews/series:
+- Attack on Titan
+---
+{{< goodreads book="Attack on Titan, Vol. 4" cover="true" >}}
+
+Use the Titans to save humanity from the Titans? Sounds like a plan!  
+
+![Attack-on-Titan-4-1](/embeds/books/attachments/attack-on-titan-4-1.png)  
+
+<!--more-->
+
+It's a pretty crazy solution, but then again ... it's a pretty crazy world.  
+
+![Attack-on-Titan-4-2](/embeds/books/attachments/attack-on-titan-4-2.png)  
+
+It's a bit tough to read back and forth in time, but I do enjoy seeing how the people we're beginning to know so much about came to be.  
+
+![Attack-on-Titan-4-4](/embeds/books/attachments/attack-on-titan-4-4.png)  
+
+It's a screwed up sort of world, with screwed up people. But it's a pretty solid echo for our own world.
+
+

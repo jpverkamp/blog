@@ -403,6 +403,24 @@ Attack on Titan, Vol. 2:
   series: Attack on Titan
   series_index: 2
   url: /book/show/13531561.attack-on-titan-vol-2
+Attack on Titan, Vol. 3:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370679l/13536803._SX98_.jpg
+  id: 13536803
+  localCover: /embeds/books/attack-on-titan-vol-3.jpg
+  name: Attack on Titan, Vol. 3
+  series: Attack on Titan
+  series_index: 3
+  url: /book/show/13536803.attack-on-titan-vol-3
+Attack on Titan, Vol. 4:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213346l/15798166._SX98_.jpg
+  id: 15798166
+  localCover: /embeds/books/attack-on-titan-vol-4.jpg
+  name: Attack on Titan, Vol. 4
+  series: Attack on Titan
+  series_index: 4
+  url: /book/show/15798166.attack-on-titan-vol-4
 Aurora:
   author: Kim Stanley Robinson
   cover: https://images.gr-assets.com/books/1436300570l/23197269.jpg
