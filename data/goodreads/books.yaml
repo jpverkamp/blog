@@ -394,6 +394,31 @@ Attack on Titan, Vol. 1:
   series: Attack on Titan
   series_index: 1
   url: /book/show/13154150.attack-on-titan-vol-1
+Attack on Titan, Vol. 10:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376426478l/18077956._SX98_.jpg
+  id: 18077956
+  localCover: /embeds/books/attack-on-titan-vol-10.jpg
+  name: Attack on Titan, Vol. 10
+  series: Attack on Titan
+  series_index: 10
+  url: /book/show/18077956.attack-on-titan-vol-10
+Attack on Titan, Vol. 11:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382069286l/18077957._SX98_.jpg
+  id: 18077957
+  localCover: /embeds/books/attack-on-titan-vol-11.jpg
+  name: Attack on Titan, Vol. 11
+  series: Attack on Titan
+  series_index: 11
+  url: /book/show/18077957.attack-on-titan-vol-11
+Attack on Titan, Vol. 12:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397194288l/21895563.jpg
+  id: 21895563
+  localCover: /embeds/books/attack-on-titan-vol-12.jpg
+  name: Attack on Titan, Vol. 12
+  url: /book/show/21895563.attack-on-titan-vol-12
 Attack on Titan, Vol. 2:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408888403l/13531561.jpg
@@ -439,6 +464,33 @@ Attack on Titan, Vol. 6:
   series: Attack on Titan
   series_index: 6
   url: /book/show/17262714.attack-on-titan-vol-6
+Attack on Titan, Vol. 7:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1363837004l/17568815._SX98_.jpg
+  id: 17568815
+  localCover: /embeds/books/attack-on-titan-vol-7.jpg
+  name: Attack on Titan, Vol. 7
+  series: Attack on Titan
+  series_index: 7
+  url: /book/show/17568815.attack-on-titan-vol-7
+Attack on Titan, Vol. 8:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376427748l/18077954._SX98_.jpg
+  id: 18077954
+  localCover: /embeds/books/attack-on-titan-vol-8.jpg
+  name: Attack on Titan, Vol. 8
+  series: Attack on Titan
+  series_index: 8
+  url: /book/show/18077954.attack-on-titan-vol-8
+Attack on Titan, Vol. 9:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448406398l/18077955._SX98_.jpg
+  id: 18077955
+  localCover: /embeds/books/attack-on-titan-vol-9.jpg
+  name: Attack on Titan, Vol. 9
+  series: Attack on Titan
+  series_index: 9
+  url: /book/show/18077955.attack-on-titan-vol-9
 Aurora:
   author: Kim Stanley Robinson
   cover: https://images.gr-assets.com/books/1436300570l/23197269.jpg
@@ -4981,6 +5033,13 @@ The Aftermath:
   series: 'The Grand Tour, #12; The Asteroid Wars'
   series_index: 4
   url: /book/show/768917.the-aftermath
+The Algorithmic Beauty of Plants:
+  author: "Przemys\u0142aw Prusinkiewicz"
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387715874l/944626.jpg
+  id: 944626
+  localCover: /embeds/books/the-algorithmic-beauty-of-plants.jpg
+  name: The Algorithmic Beauty of Plants
+  url: /book/show/944626.the-algorithmic-beauty-of-plants
 The Alloy of Law:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1442889632l/10803121.jpg
