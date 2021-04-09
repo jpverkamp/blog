@@ -43,6 +43,7 @@ Overall, some of the chapters are awesome, some are a bit weak, but you could do
 
 And hey, apparently this is actually the sequel? {{< goodreads book="What If? Serious Scientific Answers to Absurd Hypothetical Questions" >}}. Oops! Gotta go read that one now.  
 
-[^1]: Pirate   [^2]: Piracy
+[^1]: Pirate
+[^2]: Piracy
 
 

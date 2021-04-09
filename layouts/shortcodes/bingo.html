@@ -1,0 +1,33 @@
+{{- $title := .Get 0 -}}
+{{- $data := index $.Site.Data.bingo $title -}}
+
+<h1>{{ $title }}</h1>
+
+<table>
+    {{- range $row := seq 0 4 -}}
+    <tr>
+        {{- range $col := seq 0 4 -}}
+        <td>
+            {{- $index := add (mul $row 5) $col -}}
+            {{- $cell := index $data $index -}}
+
+            {{- with index $cell "title" -}}
+                <p><b>{{ . | markdownify }}</b></p>
+            {{- end -}}
+
+            {{- with index $cell "description" -}}
+                <p>{{ . | markdownify }}</p>
+            {{- end -}}
+
+            {{- with index $cell "entries" -}}
+                {{- range $entry := . }}
+                    <p>{{ $entry | markdownify }}</p>
+                {{- end -}}
+            {{- end -}}
+
+        </td>
+        {{- end -}}
+    </tr>
+    {{- end -}}
+</table>
+

@@ -8,6 +8,15 @@
     {{- partial "taxonomy-list.html" . -}}
     {{- end -}}
 
+    <h1>Current Lists</h1>
+    <ul>
+        <li><a href="/2021/04/01/2021-book-bingo/">2021 Book Bingo</a></li>
+        <li><a href="/lists/2021-book-reviews/">2021 Book Reviews</a></li>
+        <li><a href="/lists/2021-movie-reviews/">2021 Movie Reviews</a></li>
+        <li><a href="/lists/2021-tv-reviews/">2021 TV Reviews</a></li>
+    </ul>
+
+
     <h1>Recent Reviews</h1>
     <div class="cover-list">
         {{- range $i, $page := first 20 .Pages -}}
