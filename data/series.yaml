@@ -52,6 +52,29 @@ MCU Phase 3:
   10: "Avengers: Endgame"
   11: "Spider-Man: Far From Home"
 
+Stargate:
+  - Stargate
+  - "Stargate SG-1: Season 1"
+  - "Stargate SG-1: Season 2"
+  - "Stargate SG-1: Season 3"
+  - "Stargate SG-1: Season 4"
+  - "Stargate SG-1: Season 5"
+  - "Stargate SG-1: Season 6"
+  - "Stargate SG-1: Season 7"
+  - "Stargate SG-1: Season 8"
+  - "Stargate Atlantis: Season 1"
+  - "Stargate SG-1: Season 9"
+  - "Stargate Atlantis: Season 2"
+  - "Stargate SG-1: Season 10"
+  - "Stargate Atlantis: Season 3"
+  - "Stargate: The Ark of Truth"
+  - "Stargate Atlantis: Season 4"
+  - "Stargate: Continuum"
+  - "Stargate Atlantis: Season 5"
+  - "Stargate Universe: Season 1"
+  - "Stargate Universe: Season 2"
+  - "Stargate Origins"
+
 Stargate SG-1:
   1: "Stargate SG-1: Season 1"
   2: "Stargate SG-1: Season 2"
@@ -63,3 +86,16 @@ Stargate SG-1:
   8: "Stargate SG-1: Season 8"
   9: "Stargate SG-1: Season 9"
   10: "Stargate SG-1: Season 10"
+  11: "Stargate: The Ark of Truth"
+  12: "Stargate: Continuum"
+
+Stargate Atlantis:
+  1: "Stargate Atlantis: Season 1"
+  2: "Stargate Atlantis: Season 2"
+  3: "Stargate Atlantis: Season 3"
+  4: "Stargate Atlantis: Season 4"
+  5: "Stargate Atlantis: Season 5"
+
+Stargate Universe:
+  1: "Stargate Universe: Season 1"
+  2: "Stargate Universe: Season 2"

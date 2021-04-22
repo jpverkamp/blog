@@ -100,6 +100,15 @@ A Gathering of Shadows:
   series: Shades of Magic
   series_index: 2
   url: /book/show/20764879.a-gathering-of-shadows
+A Great and Terrible Beauty:
+  author: Libba Bray
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284558475l/3682._SX98_.jpg
+  id: 3682
+  localCover: /embeds/books/a-great-and-terrible-beauty.jpg
+  name: A Great and Terrible Beauty
+  series: Gemma Doyle
+  series_index: 1
+  url: /book/show/3682.a-great-and-terrible-beauty
 A Hat Full of Sky:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1388177601l/618145.jpg
@@ -419,6 +428,27 @@ Attack on Titan, Vol. 12:
   localCover: /embeds/books/attack-on-titan-vol-12.jpg
   name: Attack on Titan, Vol. 12
   url: /book/show/21895563.attack-on-titan-vol-12
+Attack on Titan, Vol. 13:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400766559l/19336279._SX98_.jpg
+  id: 19336279
+  localCover: /embeds/books/attack-on-titan-vol-13.jpg
+  name: Attack on Titan, Vol. 13
+  url: /book/show/19336279.attack-on-titan-vol-13
+Attack on Titan, Vol. 14:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423403607l/23546591.jpg
+  id: 23546591
+  localCover: /embeds/books/attack-on-titan-vol-14.jpg
+  name: Attack on Titan, Vol. 14
+  url: /book/show/23546591.attack-on-titan-vol-14
+Attack on Titan, Vol. 15:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421708306l/22716573._SX98_.jpg
+  id: 22716573
+  localCover: /embeds/books/attack-on-titan-vol-15.jpg
+  name: Attack on Titan, Vol. 15
+  url: /book/show/22716573.attack-on-titan-vol-15
 Attack on Titan, Vol. 2:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408888403l/13531561.jpg
@@ -6195,6 +6225,13 @@ The Merchant of Death:
   series: Pendragon
   series_index: 1
   url: /book/show/833710.the-merchant-of-death
+The Midnight Library:
+  author: Matt Haig
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602190253l/52578297._SX98_.jpg
+  id: 52578297
+  localCover: /embeds/books/the-midnight-library.jpg
+  name: The Midnight Library
+  url: /book/show/52578297.the-midnight-library
 The Name of the Wind:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1472068073l/186074.jpg
@@ -7211,6 +7248,15 @@ Wild Cards:
   series: Wild Cards
   series_index: 1
   url: /book/show/147908.wild-cards
+Wild Sign:
+  author: Patricia Briggs
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594135430l/54325980._SX98_.jpg
+  id: 54325980
+  localCover: /embeds/books/wild-sign.jpg
+  name: Wild Sign
+  series: Alpha & Omega
+  series_index: 6
+  url: /book/show/54325980.wild-sign
 Winter's Heart:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1480096268l/13891.jpg

@@ -1,6 +1,6 @@
 - title: Five SFF Short Stories
   description: An entire SFF anthology or collection
-  entries: []
+  entries: [Attack on Titan]
 - title: Set in Asia
   description: By an Asian author
   entries: []
@@ -21,10 +21,10 @@
   entries: []
 - title: New to You Author
   description: That you haven't even really heard about before
-  entries: []
+  entries: [A Great and Terrible Beauty, Attack on Titan, The Midnight Library]
 - title: 'Gothic Fantasy ([examples](https://bookriot.com/gothic-fantasy/))'
   description: But not one of the titles from the Book Riot article
-  entries: []
+  entries: [A Great and Terrible Beauty]
 - title: 'Backlist Book (not part of a current series, currently published author)'
   description: Published before 2000
   entries: []
@@ -37,13 +37,13 @@
   entries: []
 - title: Comfort read (a re-read is allowed)
   description: Don't use a re-read
-  entries: []
+  entries: [Wild Sign]
 - title: Published in 2021
   description: Also a debut novel
   entries: []
 - title: Cat squasher (500+ pages)
   description: Lion squasher (800+ pages)
-  entries: []
+  entries: [Attack on Titan]
 - title: SFF-Related nonfiction
   description: Published in the last five years
   entries: []
@@ -62,7 +62,7 @@
   entries: []
 - title: Has chapter titles
   description: Chapter titles are more than a single word
-  entries: []
+  entries: [The Midnight Library]
 
 - title: Title like __ of __
   description: Title like __ of __ and __
@@ -80,4 +80,4 @@
   entries: []
 - title: Witches
   description: A witch is the main protagonist
-  entries: []
+  entries: [A Great and Terrible Beauty]

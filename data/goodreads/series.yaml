@@ -38,6 +38,7 @@ Alpha & Omega:
     '3.5': 'A Fantastic Holiday Season: The Gift of Stories'
     4: Dead Heat
     5: Burn Bright
+    6: Wild Sign
   id: 45135
   name: Alpha & Omega
   url: /series/45135.alpha-omega
@@ -761,6 +762,16 @@ Fullmetal Alchemist:
   id: 49276
   name: Fullmetal Alchemist
   url: /series/49276.fullmetal-alchemist
+Gemma Doyle:
+  books:
+    1: A Great and Terrible Beauty
+    2: Rebel Angels
+    3: The Sweet Far Thing
+    3A: 'Eindeloze verte: Het troebele tij'
+    3B: 'Eindeloze verte: De roos van de strijd'
+  id: 44586
+  name: Gemma Doyle
+  url: /series/44586.gemma-doyle
 Gentleman Bastard:
   books:
     1: The Lies of Locke Lamora

@@ -21,7 +21,7 @@
 
             {{- with index $cell "entries" -}}
                 {{- range $entry := . }}
-                    <p>{{ $entry | markdownify }}</p>
+                    <p>- <i>{{ $entry | markdownify }}</i> - </p>
                 {{- end -}}
             {{- end -}}
 
