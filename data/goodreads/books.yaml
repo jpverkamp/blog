@@ -449,6 +449,13 @@ Attack on Titan, Vol. 15:
   localCover: /embeds/books/attack-on-titan-vol-15.jpg
   name: Attack on Titan, Vol. 15
   url: /book/show/22716573.attack-on-titan-vol-15
+Attack on Titan, Vol. 16:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432209724l/24531650._SX98_.jpg
+  id: 24531650
+  localCover: /embeds/books/attack-on-titan-vol-16.jpg
+  name: Attack on Titan, Vol. 16
+  url: /book/show/24531650.attack-on-titan-vol-16
 Attack on Titan, Vol. 2:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408888403l/13531561.jpg
@@ -5020,6 +5027,13 @@ Surprise Island:
   series: Tales of MU
   series_index: null
   url: /book/show/12749017.tales-of-mu-vol-2-love-in-the-time-of-magic
+'Tales of Nezura: Book 1: The Zevolra':
+  author: Randall Cooper
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618977130l/57808227._SY475_.jpg
+  id: 57808227
+  localCover: /embeds/books/tales-of-nezura-book-1-the-zevolra.jpg
+  name: 'Tales of Nezura: Book 1: The Zevolra'
+  url: /book/show/57808227.tales-of-nezura-book-1-the-zevolra
 'Teaching from Rest: A Homeschooler''s Guide to Unshakable Peace':
   author: Sarah Mackenzie
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415110560l/22306757._SX98_.jpg
@@ -5232,6 +5246,15 @@ The Borrowers:
   series: The Borrowers
   series_index: 1
   url: /book/show/348573.the-borrowers
+The Borrowers Afield:
+  author: Mary Norton
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438613816l/145383._SX318_.jpg
+  id: 145383
+  localCover: /embeds/books/the-borrowers-afield.jpg
+  name: The Borrowers Afield
+  series: The Borrowers
+  series_index: 2
+  url: /book/show/145383.the-borrowers-afield
 The Boxcar Children:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173489650l/297249._SX98_.jpg
