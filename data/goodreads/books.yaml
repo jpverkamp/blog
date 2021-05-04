@@ -456,6 +456,13 @@ Attack on Titan, Vol. 16:
   localCover: /embeds/books/attack-on-titan-vol-16.jpg
   name: Attack on Titan, Vol. 16
   url: /book/show/24531650.attack-on-titan-vol-16
+Attack on Titan, Vol. 17:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443818279l/25252302._SX98_.jpg
+  id: 25252302
+  localCover: /embeds/books/attack-on-titan-vol-17.jpg
+  name: Attack on Titan, Vol. 17
+  url: /book/show/25252302.attack-on-titan-vol-17
 Attack on Titan, Vol. 2:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408888403l/13531561.jpg
@@ -5890,6 +5897,13 @@ The Hidden Oracle:
   series: The Trials of Apollo
   series_index: 1
   url: /book/show/26252859.the-hidden-oracle
+The Hiding Place:
+  author: Corrie ten Boom
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370828692l/17339177._SX98_.jpg
+  id: 17339177
+  localCover: /embeds/books/the-hiding-place.jpg
+  name: The Hiding Place
+  url: /book/show/17339177.the-hiding-place
 The Hitchhiker's Guide to the Galaxy:
   author: Douglas Adams
   cover: https://images.gr-assets.com/books/1327656754l/11.jpg
