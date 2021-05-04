@@ -1,10 +1,44 @@
+{{- $list := default (.Get "title") (.Get 0) -}}
+{{- $shortMode := default (.Get "short") false -}}
+{{- $slug := $list | urlize }}
+{{- $scratch := .Scratch }}
+
+{{- $taxonomy := default (index .Site.Taxonomies "reviews/lists" $slug) (index .Site.Taxonomies "reviews/series" $slug) }}
+{{- $rankings := index $.Site.Data.rankings $list "ranking" -}}
+
+{{/* 
+- Go through all other pages in this list
+- If it's earlier (or equal to) this page, store it with it's index in the ranking
+- Sort by these rankings
+*/}}
+{{- range $otherPage := (index $taxonomy) -}}
+    {{- range $index, $title := $rankings -}}
+        {{- if eq $otherPage.Title $title -}}
+            {{- if (le $otherPage.Date $.Page.Date) -}}
+                {{- $scratch.SetInMap "shortList" (printf "%08d" $index) $otherPage -}}
+            {{- end -}}
+
+            {{- $scratch.SetInMap "fullList" (printf "%08d" $index) $otherPage -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $listData := cond $shortMode (.Scratch.Get "shortList") (.Scratch.Get "fullList") }}
+
 <div class="ranking">
-    <h3 class="title">Ranked: {{ .Get 0 }}</h3>
+    <h3 class="title">Ranked: {{ $list }}</h3>
     <div class="content">
         <ol>
-        {{- $data := index $.Site.Data.rankings (.Get 0) -}}
-        {{- range $title := index $data "ranking" -}}
-            <li>{{ $title }} </li>
+        {{- if $listData -}}
+            {{- range ($listData | sort) -}}
+                {{- if eq . $.Page -}}
+                <li>{{ .Title }}</li>
+                {{- else -}}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                {{- end -}}
+            {{- end -}}
+        {{- else -}}
+            <li>No list available...</li>
         {{- end -}}
         </ol>
     </div>
