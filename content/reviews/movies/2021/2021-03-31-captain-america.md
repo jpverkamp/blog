@@ -5,6 +5,7 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Marvel Cinematic Universe
+- MCU Phase 1
 ---
 {{< figure class="cover-image" src="/embeds/movies/captain-america.jpg" >}}
 
