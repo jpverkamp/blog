@@ -394,6 +394,26 @@ Atlantis Found:
   series: Dirk Pitt
   series_index: 15
   url: /book/show/41707.atlantis-found
+'Attack on Titan #18':
+  author: Hajime Isayama
+  id: 29860286
+  name: 'Attack on Titan #18'
+  url: /book/show/29860286.attack-on-titan-18
+Attack on Titan Vol. 19:
+  author: Hajime Isayama
+  id: 31300493
+  name: Attack on Titan Vol. 19
+  url: /book/show/31300493.attack-on-titan-vol-19
+Attack on Titan Vol. 20:
+  author: Hajime Isayama
+  id: 33144809
+  name: Attack on Titan Vol. 20
+  url: /book/show/33144809.attack-on-titan-vol-20
+Attack on Titan Vol. 21:
+  author: Hajime Isayama
+  id: 34892210
+  name: Attack on Titan Vol. 21
+  url: /book/show/34892210.attack-on-titan-vol-21
 Attack on Titan, Vol. 1:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432712438l/13154150._SX98_.jpg
@@ -463,6 +483,20 @@ Attack on Titan, Vol. 17:
   localCover: /embeds/books/attack-on-titan-vol-17.jpg
   name: Attack on Titan, Vol. 17
   url: /book/show/25252302.attack-on-titan-vol-17
+Attack on Titan, Vol. 18:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459398203l/29746529._SY475_.jpg
+  id: 29746529
+  localCover: /embeds/books/attack-on-titan-vol-18.jpg
+  name: Attack on Titan, Vol. 18
+  url: /book/show/29746529.attack-on-titan-vol-18
+Attack on Titan, Vol. 19:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1469943110l/31300493._SY475_.jpg
+  id: 27833731
+  localCover: /embeds/books/attack-on-titan-vol-19.jpg
+  name: Attack on Titan, Vol. 19
+  url: /book/show/27833731.attack-on-titan-vol-19
 Attack on Titan, Vol. 2:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408888403l/13531561.jpg
@@ -472,6 +506,20 @@ Attack on Titan, Vol. 2:
   series: Attack on Titan
   series_index: 2
   url: /book/show/13531561.attack-on-titan-vol-2
+Attack on Titan, Vol. 20:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480371269l/33144809._SY475_.jpg
+  id: 29496367
+  localCover: /embeds/books/attack-on-titan-vol-20.jpg
+  name: Attack on Titan, Vol. 20
+  url: /book/show/29496367.attack-on-titan-vol-20
+Attack on Titan, Vol. 21:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492633813l/34892210._SY475_.jpg
+  id: 34892210
+  localCover: /embeds/books/attack-on-titan-vol-21.jpg
+  name: Attack on Titan, Vol. 21
+  url: /book/show/34892210.attack-on-titan-vol-21
 Attack on Titan, Vol. 3:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370679l/13536803._SX98_.jpg
@@ -4249,6 +4297,15 @@ Reaper Man:
   series: Discworld
   series_index: 11
   url: /book/show/34517.reaper-man
+Rebel Angels:
+  author: Libba Bray
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333820283l/51428._SX98_.jpg
+  id: 51428
+  localCover: /embeds/books/rebel-angels.jpg
+  name: Rebel Angels
+  series: Gemma Doyle
+  series_index: 2
+  url: /book/show/51428.rebel-angels
 Red Prophet:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1379147136l/7968.jpg
@@ -7437,3 +7494,12 @@ Zoo City:
   localCover: /embeds/books/sex-criminals-vol-6-six-criminals.jpg
   name: 'sex Criminals, Vol. 6: Six Criminals'
   url: /book/show/40629276.sex-criminals-vol-6-six-criminals
+"\u9032\u6483\u306E\u5DE8\u4EBA 19 [Shingeki no Kyojin 19]":
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459113216l/18363260._SX98_.jpg
+  id: 18363260
+  localCover: /embeds/books/19-shingeki-no-kyojin-19.jpg
+  name: "\u9032\u6483\u306E\u5DE8\u4EBA 19 [Shingeki no Kyojin 19]"
+  series: Attack on Titan
+  series_index: 19
+  url: /book/show/18363260.19-shingeki-no-kyojin-19
