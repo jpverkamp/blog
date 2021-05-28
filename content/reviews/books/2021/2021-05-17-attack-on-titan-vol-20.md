@@ -1,13 +1,13 @@
 ---
-title: Attack on Titan Vol. 20
-date: 2021-05-17 00:00:00
+title: Attack on Titan, Vol. 20
+date: 2021-05-17 20:00:20
 generated: true
 reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Attack on Titan
 ---
-{{< goodreads book="Attack on Titan Vol. 20" cover="true" >}}
+{{< goodreads book="Attack on Titan, Vol. 20" cover="true" >}}
 
 You know; it is really quite impressive that the Survey Corps has been doing even this well against there Collosus/Armorered/Beast Titans. Human intellect and all those strengths. Oy.  
 

@@ -22,6 +22,6 @@ Unfortunately, this is only the third movie I've seen this year. An honestly, as
 
 {{< ranking "2014 Movie Reviews" >}}
 
-[^1]: At least unless Guardians of the Galaxy manages to realy surprise us all. Still, I'm not sure if that one quite counts.
+[^1]: At least unless Guardians of the Galaxy manages to really surprise us all. Still, I'm not sure if that one quite counts.
 [^2]: Somewhat like SHIELD...
 [^3]: If I understand correctly, {{< wikipedia "Sebastian Stan" >}} is actually under contract for more films than {{< wikipedia "Chris Evans" >}}, although who knows what exactly that means.

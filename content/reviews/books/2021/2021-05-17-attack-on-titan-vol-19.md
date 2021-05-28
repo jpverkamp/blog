@@ -1,13 +1,13 @@
 ---
-title: Attack on Titan Vol. 19
-date: 2021-05-17 00:00:00
+title: Attack on Titan, Vol. 19
+date: 2021-05-17 00:00:19
 generated: true
 reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Attack on Titan
 ---
-{{< goodreads book="Attack on Titan Vol. 19" cover="true" >}}
+{{< goodreads book="Attack on Titan, Vol. 19" cover="true" >}}
 
 Take the wall! Fight fight Titan fight! Crazy new technology to level the playing field. Fun times.  
 

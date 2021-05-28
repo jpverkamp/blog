@@ -1,13 +1,13 @@
 ---
-title: Attack on Titan Vol. 21
-date: 2021-05-26 00:00:00
+title: Attack on Titan, Vol. 21
+date: 2021-05-26 00:00:21
 generated: true
 reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Attack on Titan
 ---
-{{< goodreads book="Attack on Titan Vol. 21" cover="true" >}}
+{{< goodreads book="Attack on Titan, Vol. 21" cover="true" >}}
 
 So close and yet so far. So many are dead, trying to (did they succeed after all) to take down the Beast Titan. And now they have a choice. Theoretically, they can steal one of the Titan's abilities and save one of their own...  
 
