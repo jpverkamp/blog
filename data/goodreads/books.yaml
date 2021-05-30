@@ -5301,6 +5301,13 @@ The Blood of Olympus:
   series: The Heroes of Olympus
   series_index: 5
   url: /book/show/18705209.the-blood-of-olympus
+The Book Thief:
+  author: Markus Zusak
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546428733l/8120173._SX98_.jpg
+  id: 8120173
+  localCover: /embeds/books/the-book-thief.jpg
+  name: The Book Thief
+  url: /book/show/8120173.the-book-thief
 The Borrowers:
   author: Mary Norton
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308945559l/348573._SX98_.jpg
