@@ -394,26 +394,6 @@ Atlantis Found:
   series: Dirk Pitt
   series_index: 15
   url: /book/show/41707.atlantis-found
-'Attack on Titan #18':
-  author: Hajime Isayama
-  id: 29860286
-  name: 'Attack on Titan #18'
-  url: /book/show/29860286.attack-on-titan-18
-Attack on Titan Vol. 19:
-  author: Hajime Isayama
-  id: 31300493
-  name: Attack on Titan Vol. 19
-  url: /book/show/31300493.attack-on-titan-vol-19
-Attack on Titan Vol. 20:
-  author: Hajime Isayama
-  id: 33144809
-  name: Attack on Titan Vol. 20
-  url: /book/show/33144809.attack-on-titan-vol-20
-Attack on Titan Vol. 21:
-  author: Hajime Isayama
-  id: 34892210
-  name: Attack on Titan Vol. 21
-  url: /book/show/34892210.attack-on-titan-vol-21
 Attack on Titan, Vol. 1:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432712438l/13154150._SX98_.jpg
@@ -520,6 +500,44 @@ Attack on Titan, Vol. 21:
   localCover: /embeds/books/attack-on-titan-vol-21.jpg
   name: Attack on Titan, Vol. 21
   url: /book/show/34892210.attack-on-titan-vol-21
+Attack on Titan, Vol. 22:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504921104l/32988132._SY475_.jpg
+  id: 35895462
+  localCover: /embeds/books/attack-on-titan-vol-22.jpg
+  name: Attack on Titan, Vol. 22
+  url: /book/show/35895462.attack-on-titan-vol-22
+Attack on Titan, Vol. 23:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508728763l/34773676.jpg
+  id: 34773676
+  localCover: /embeds/books/attack-on-titan-vol-23.jpg
+  name: Attack on Titan, Vol. 23
+  url: /book/show/34773676.attack-on-titan-vol-23
+Attack on Titan, Vol. 24:
+  author: Hajime Isayama
+  id: 34773676
+  localCover: /embeds/books/attack-on-titan-vol-24.jpg
+  name: Attack on Titan, Vol. 24
+  url: /book/show/34773676.attack-on-titan-vol-24 
+Attack on Titan, Vol. 25:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530331104l/36389570._SY475_.jpg
+  id: 36389570
+  localCover: /embeds/books/attack-on-titan-vol-25.jpg
+  name: Attack on Titan, Vol. 25
+  series: Attack on Titan
+  series_index: 25
+  url: /book/show/36389570.attack-on-titan-vol-25
+Attack on Titan, Vol. 26:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540605401l/39196374._SY475_.jpg
+  id: 39196374
+  localCover: /embeds/books/attack-on-titan-vol-26.jpg
+  name: Attack on Titan, Vol. 26
+  series: Attack on Titan
+  series_index: 26
+  url: /book/show/39196374.attack-on-titan-vol-26
 Attack on Titan, Vol. 3:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370679l/13536803._SX98_.jpg
@@ -1199,6 +1217,12 @@ Coyote Horizon:
   series: Coyote Chronicles
   series_index: 1
   url: /book/show/4546626.coyote-horizon
+Crafting Interpreters:
+  author: Robert Nystrom
+  id: 33969590
+  localCover: /embeds/books/crafting-interpreters.png
+  name: Crafting Interpreters
+  url: /book/show/33969590.crafting-interpreters
 Crescent Dawn:
   author: Clive Cussler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388192485l/8219033.jpg
@@ -3587,6 +3611,13 @@ Messenger:
   series: The Giver
   series_index: 3
   url: /book/show/9834117.messenger
+Mexican Gothic:
+  author: Silvia Moreno-Garcia
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607462569l/53152636._SX98_.jpg
+  id: 53152636
+  localCover: /embeds/books/mexican-gothic.jpg
+  name: Mexican Gothic
+  url: /book/show/53152636.mexican-gothic
 Midnight Curse:
   author: Melissa F. Olson
   cover: https://images.gr-assets.com/books/1480540192l/31352753.jpg
@@ -3623,6 +3654,13 @@ Mockingjay:
   series: The Hunger Games
   series_index: 3
   url: /book/show/7260188.mockingjay
+'Monsters in the Dark: The Making of X-COM: UFO Defense':
+  author: David L. Craddock
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619466449l/57863448._SX98_.jpg
+  id: 57863448
+  localCover: /embeds/books/monsters-in-the-dark-the-making-of-x-com-ufo-defense.jpg
+  name: 'Monsters in the Dark: The Making of X-COM: UFO Defense'
+  url: /book/show/57863448.monsters-in-the-dark-the-making-of-x-com-ufo-defense
 Monstrous Regiment:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1375908503l/34511.jpg
@@ -4200,6 +4238,13 @@ Prodigal Son:
   series: Dean Koontz's Frankenstein
   series_index: 1
   url: /book/show/21337.prodigal-son
+Project Hail Mary:
+  author: Andy Weir
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611221423l/54906250._SX98_.jpg
+  id: 54906250
+  localCover: /embeds/books/project-hail-mary.jpg
+  name: Project Hail Mary
+  url: /book/show/54906250.project-hail-mary
 Promise of Blood:
   author: Brian  McClellan
   cover: https://images.gr-assets.com/books/1350337505l/15790883.jpg
@@ -4862,6 +4907,15 @@ Small Gods:
   series: Discworld
   series_index: 13
   url: /book/show/34484.small-gods
+Smoke Bitten:
+  author: Patricia Briggs
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563305478l/44571368._SX98_.jpg
+  id: 44571368
+  localCover: /embeds/books/smoke-bitten.jpg
+  name: Smoke Bitten
+  series: Mercy Thompson
+  series_index: 12
+  url: /book/show/44571368.smoke-bitten
 Snapshot:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1481918792l/31176804.jpg
@@ -5028,6 +5082,15 @@ Stiletto:
   series: The Checquy Files
   series_index: 2
   url: /book/show/25695756.stiletto
+Storm Cursed:
+  author: Patricia Briggs
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530631118l/25026912._SX98_.jpg
+  id: 25026912
+  localCover: /embeds/books/storm-cursed.jpg
+  name: Storm Cursed
+  series: Mercy Thompson
+  series_index: 11
+  url: /book/show/25026912.storm-cursed
 Storm Front:
   author: Jim Butcher
   cover: https://images.gr-assets.com/books/1419456275l/47212.jpg
@@ -5326,6 +5389,15 @@ The Borrowers Afield:
   series: The Borrowers
   series_index: 2
   url: /book/show/145383.the-borrowers-afield
+The Borrowers Afloat:
+  author: Mary Norton
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411435348l/145385.jpg
+  id: 145385
+  localCover: /embeds/books/the-borrowers-afloat.jpg
+  name: The Borrowers Afloat
+  series: The Borrowers
+  series_index: 3
+  url: /book/show/145385.the-borrowers-afloat
 The Boxcar Children:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173489650l/297249._SX98_.jpg
