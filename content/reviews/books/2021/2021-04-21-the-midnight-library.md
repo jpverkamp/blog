@@ -4,6 +4,12 @@ date: 2021-04-21 00:00:00
 generated: true
 reviews/lists:
 - 2021 Book Reviews
+bingo:
+- 2021 Book Bingo
+- 2021 Book Bingo Hard Mode
+bingo-data:
+    2021 Book Bingo: [2x2, 4x5]
+    2021 Book Bingo Hard Mode: [2x2, 4x5]
 ---
 {{< goodreads book="The Midnight Library" cover="true" >}}
 

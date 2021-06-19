@@ -17,10 +17,14 @@ Rules:
 
 Luckily, there's a rather active [recommendations thread](https://www.reddit.com/r/Fantasy/comments/mhz3k7/the_2021_rfantasy_bingo_recommendations_list/). Compare that against my to reads (still 600+ strong) or just whatever jumps out and I should be good to go!
 
-This post will automatically update as I add more books. My current plan is to put each book in each category that it would work for, but when a book only fits in one category, I'll remove the other books from that category or otherwise mark it. 
-
-In this case, the bold text is the category, while the text under it is 'hard mode'. I'll automatically qualify for 'hero mode', which is to review each book (since I do that anyways). 
-
+This post will automatically update as I add more books. My current plan is to put each book in each category that it would work for, but when a book only fits in one category, I'll remove the other books from that category or otherwise mark it. Click any cover to read my review!
 Onward!
 
+Note: While I'm reading them, I'm mostly going to assign books to multiple squares. As I fill in more of the sheet, I'll clean that up. 
+
+{{< bingo "2021 Book Bingo Hard Mode" >}}
+
+Alternatively, the 'easier' suggestions. 
+
 {{< bingo "2021 Book Bingo" >}}
+

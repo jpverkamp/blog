@@ -1,83 +1,33 @@
-- title: Five SFF Short Stories
-  description: An entire SFF anthology or collection
-  entries: [Attack on Titan]
-- title: Set in Asia
-  description: By an Asian author
-  entries: []
-- title: >-
-    A selection from the /r/Fantasy [A to Z Genre
-    Guide](https://www.reddit.com/r/Fantasy/wiki/index/a-to-z-genre-guide)
-  description: By a BIPOC author
-  entries: []
-- title: Found family
-  description: Featuring an LGBTQ+ character as a member of the found family
-  entries: []
-- title: First person POV
-  description: With more than 1 POV; all are first person
-  entries: []
+- 
+  - Five SFF short stories
+  - Set in Asia
+  - "[r/Fantasy A to Z Genre Guide](https://www.reddit.com/r/Fantasy/wiki/index/a-to-z-genre-guide)"
+  - Found family
+  - First person POV
+- 
+  - r/Fantasy Book Club
+  - New to you author
+  - Gothic Fantasy
+  - Backlist book
+  - Revenge-seeking character
 
-- title: Book club / read along book
-  description: A current one and participate
-  entries: []
-- title: New to You Author
-  description: That you haven't even really heard about before
-  entries: [A Great and Terrible Beauty, Attack on Titan, The Midnight Library]
-- title: 'Gothic Fantasy ([examples](https://bookriot.com/gothic-fantasy/))'
-  description: But not one of the titles from the Book Riot article
-  entries: [A Great and Terrible Beauty]
-- title: 'Backlist Book (not part of a current series, currently published author)'
-  description: Published before 2000
-  entries: []
-- title: Revenge-Seeking Character
-  description: And revenge is central to the plot
-  entries: []
+- 
+  - Mystery plot
+  - Comfort read
+  - Published in 2021
+  - Cat squasher (500+ pages)
+  - SFF-related nonfiction
 
-- title: Mystery plot
-  description: Not a primary world Urban Fantasy
-  entries: []
-- title: Comfort read (a re-read is allowed)
-  description: Don't use a re-read
-  entries: [Wild Sign]
-- title: Published in 2021
-  description: Also a debut novel
-  entries: []
-- title: Cat squasher (500+ pages)
-  description: Lion squasher (800+ pages)
-  entries: [Attack on Titan]
-- title: SFF-Related nonfiction
-  description: Published in the last five years
-  entries: []
+-
+  - Latinx or Latin American author
+  - Self published
+  - Forest setting
+  - Genre mashup
+  - Has chapter titles
 
-- title: Latin American author
-  description: The book has fewer than 1000 Goodreads ratings
-  entries: []
-- title: Self-published
-  description: With fewer than 50 ratings on Goodreads
-  entries: []
-- title: Forest setting (for a good portion of the book)
-  description: The entire book takes place in a forest
-  entries: []
-- title: Genre mashup
-  description: Of three or more genres
-  entries: []
-- title: Has chapter titles
-  description: Chapter titles are more than a single word
-  entries: [The Midnight Library]
-
-- title: Title like __ of __
-  description: Title like __ of __ and __
-  entries: []
-- title: First Contact
-  description: That doesn't lead to war
-  entries: []
-- title: Trans or nonbinary character
-  description: The character is the protagonist
-  entries: []
-- title: Debut author
-  description: >-
-    That has participated in an AMA ([list of
-    AMAs](https://www.reddit.com/r/Fantasy/wiki/amalinks))
-  entries: []
-- title: Witches
-  description: A witch is the main protagonist
-  entries: [A Great and Terrible Beauty]
+- 
+  - ___ of ___
+  - First contact
+  - Trans or Nonbinary character
+  - Debut author
+  - Witches

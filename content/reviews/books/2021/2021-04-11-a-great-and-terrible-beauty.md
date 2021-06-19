@@ -6,6 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Gemma Doyle
+bingo:
+- 2021 Book Bingo
+- 2021 Book Bingo Hard Mode
+bingo-data:
+    2021 Book Bingo: [2x2, 4x3, 5x5]
+    2021 Book Bingo Hard Mode: [2x2, 5x5]
 ---
 {{< goodreads book="A Great and Terrible Beauty" cover="true" >}}
 
