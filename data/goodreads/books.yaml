@@ -6761,6 +6761,15 @@ The Summer Prince:
   localCover: /embeds/books/the-summer-prince.jpg
   name: The Summer Prince
   url: /book/show/13453104.the-summer-prince
+The Sweet Far Thing:
+  author: Libba Bray
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358704741l/127459._SX98_.jpg
+  id: 127459
+  localCover: /embeds/books/the-sweet-far-thing.jpg
+  name: The Sweet Far Thing
+  series: Gemma Doyle
+  series_index: 3
+  url: /book/show/127459.the-sweet-far-thing
 The Sword of Summer:
   author: Rick Riordan
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434701340l/15724396._SX98_.jpg
