@@ -4,20 +4,25 @@
 
 <h1>{{ $title }}</h1>
 
-<table>
+<table class="bingo">
     {{- range $row := seq 0 4 -}}
     <tr>
         {{- range $col := seq 0 4 -}}
-        <td width="20%">
+        <td>
             {{- $index := (printf "%dx%d" (add 1 $row) (add 1 $col) )}}
             {{- $title := index $data $row $col }}
 
-            <p><b>{{ $title | markdownify }}</b></p>
+            <p>{{ $title | markdownify }}</p>
             
             {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
                 {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
                 {{- if in $squares $index -}}
-                    <a href="{{ $page.Permalink }}">{{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}</a>
+                    <a href="{{ $page.Permalink }}">
+                        <figure>
+                            {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+                            <figcaption>{{ .Title }}</figcaption>
+                        </figure> 
+                    </a>
                 {{- end -}}
             {{- end -}}
         </td>
