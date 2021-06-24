@@ -6,11 +6,8 @@ reviews/lists:
 - 2021 Book Reviews
 bingo:
 - 2021 Book Bingo
-- 2021 Book Bingo Hard Mode
 bingo-data:
-    2021 Book Bingo: [1x3, 2x2, 2x3, 4x1]
-    2021 Book Bingo Hard Mode: [1x3, 2x2, 2x3]
-
+    2021 Book Bingo: [2x3]
 ---
 {{< goodreads book="Mexican Gothic" cover="true" >}}
 

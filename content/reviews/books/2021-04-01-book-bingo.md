@@ -22,9 +22,5 @@ Onward!
 
 Note: While I'm reading them, I'm mostly going to assign books to multiple squares. As I fill in more of the sheet, I'll clean that up. 
 
-{{< bingo "2021 Book Bingo Hard Mode" >}}
-
-Alternatively, the 'easier' suggestions. 
-
 {{< bingo "2021 Book Bingo" >}}
 

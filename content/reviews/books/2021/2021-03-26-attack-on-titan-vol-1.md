@@ -8,10 +8,8 @@ reviews/series:
 - Attack on Titan
 bingo:
 - 2021 Book Bingo
-- 2021 Book Bingo Hard Mode
 bingo-data:
     2021 Book Bingo: [1x1]
-    2021 Book Bingo Hard Mode: [1x1]
 ---
 {{< goodreads book="Attack on Titan, Vol. 1" cover="true" >}}
 
