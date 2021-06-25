@@ -158,6 +158,10 @@ let solveSudoku = makeSimpleSolver({
 })
 ```
 
+One interesting thing I didn't actually know you could do with JavaScript until this project: generators! I've always liked them in Python and they're not that much more difficult to use in JavaScript. Just use `function*` instead of `function` and then `yield` each answer to return. Free (more or less) iterable! 
+
+One caveat to watch for, the `step` and `unstep` functions have to use the `function` form, they cannot use arrow syntax, since the latter does not make a closure. The result of that is that the current `i`/`j`/`v` values aren't captured, instead only one value (the last) is used. Which doesn't work so well. That was an interesting but to track down. 
+
 And that's it! Let's run a few tests with some vague timing:
 
 ```javascript
