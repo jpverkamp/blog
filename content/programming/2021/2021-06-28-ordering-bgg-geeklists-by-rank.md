@@ -8,7 +8,8 @@ programming/topics:
 programming/sources:
 - APIs
 - Board Games
-- BoardGameGeek
+- Board Game Arena
+- Board Game Geek
 ---
 A quick script.
 
