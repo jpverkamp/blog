@@ -5119,6 +5119,15 @@ Stiletto:
   series: The Checquy Files
   series_index: 2
   url: /book/show/25695756.stiletto
+Still Life:
+  author: Louise Penny
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467838579l/30918623._SX98_.jpg
+  id: 30918623
+  localCover: /embeds/books/still-life.jpg
+  name: Still Life
+  series: Chief Inspector Armand Gamache
+  series_index: 1
+  url: /book/show/30918623.still-life
 Storm Cursed:
   author: Patricia Briggs
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530631118l/25026912._SX98_.jpg
