@@ -7,7 +7,7 @@ reviews/lists:
 bingo:
 - 2021 Book Bingo
 bingo-data:
-    2021 Book Bingo: [4x5]
+    2021 Book Bingo: [4x5+]
 ---
 {{< goodreads book="The Midnight Library" cover="true" >}}
 

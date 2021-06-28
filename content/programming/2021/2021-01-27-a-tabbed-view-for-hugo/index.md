@@ -3,7 +3,6 @@ title: A Tabbed View for Hugo
 date: 2021-01-27
 programming/languages:
 - Go
-- Python
 programming/topics:
 - Hugo
 ---

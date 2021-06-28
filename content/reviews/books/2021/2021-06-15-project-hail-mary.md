@@ -7,7 +7,7 @@ reviews/lists:
 bingo:
 - 2021 Book Bingo
 bingo-data:
-    2021 Book Bingo: [5x2]
+    2021 Book Bingo: [5x2+]
 ---
 {{< goodreads book="Project Hail Mary" cover="true" >}}
 

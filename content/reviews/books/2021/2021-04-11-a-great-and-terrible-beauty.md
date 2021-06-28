@@ -9,7 +9,7 @@ reviews/series:
 bingo:
 - 2021 Book Bingo
 bingo-data:
-    2021 Book Bingo: [5x5]
+    2021 Book Bingo: [5x5+]
 ---
 {{< goodreads book="A Great and Terrible Beauty" cover="true" >}}
 

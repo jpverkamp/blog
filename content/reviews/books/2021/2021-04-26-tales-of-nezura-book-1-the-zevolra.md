@@ -7,7 +7,7 @@ reviews/lists:
 bingo:
 - 2021 Book Bingo
 bingo-data:
-    2021 Book Bingo: [3x3, 4x2]
+    2021 Book Bingo: [3x3+, 4x2+]
 ---
 {{< goodreads book="Tales of Nezura: Book 1: The Zevolra" cover="true" >}}
 
