@@ -1605,6 +1605,17 @@ Skyward:
   id: 247635
   name: Skyward
   url: /series/247635.skyward
+Southern Reach:
+  books:
+    1: Annihilation
+    2: Authority
+    3: Acceptance
+    4: Absolution
+    1-3: 'Area X: The Southern Reach Trilogy'
+    2-3: "V\xF5im. Leppimine."
+  id: 112239
+  name: Southern Reach
+  url: /series/112239.southern-reach
 Spin Saga:
   books:
     1: Spin

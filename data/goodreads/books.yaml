@@ -342,6 +342,15 @@ Animal Farm:
   localCover: /embeds/books/animal-farm.jpg
   name: Animal Farm
   url: /book/show/7613.animal-farm
+Annihilation:
+  author: Jeff VanderMeer
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SX98_.jpg
+  id: 17934530
+  localCover: /embeds/books/annihilation.jpg
+  name: Annihilation
+  series: Southern Reach
+  series_index: 1
+  url: /book/show/17934530.annihilation
 Apex:
   author: Ramez Naam
   cover: https://images.gr-assets.com/books/1422812013l/20424928.jpg
