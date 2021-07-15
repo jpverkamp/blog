@@ -1,9 +1,11 @@
+bs4
 click
 coloredlogs
-bs4
 flickrapi
-html5lib
 html2text
+html5lib
+imdbpy
+pillow
 pycryptodome
 pyyaml
 requests
