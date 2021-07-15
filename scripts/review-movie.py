@@ -9,14 +9,16 @@ import yaml
 
 from PIL import Image
 
+# TODO: Automatically add reviews to lists
+
 coloredlogs.install(logging.INFO)
 
 api = imdb.IMDb()
 
 TARGET_COVER_SIZE = (214, 317)
 BLOG_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')
-COVER_DIR = os.path.join(BLOG_DIR, 'static', 'embeds', 'movies')
-REVIEW_BASE_DIR = os.path.join(BLOG_DIR, 'content', 'reviews', 'movies')
+COVER_DIR = os.path.join(BLOG_DIR, 'static', 'embeds')
+REVIEW_BASE_DIR = os.path.join(BLOG_DIR, 'content', 'reviews')
 
 def slugify(text):
     return re.sub('[^a-z0-9-]+', '-', text.lower()).strip('-')
@@ -26,18 +28,14 @@ while True:
     date = input(f'Date for review (default {date}): ') or date
     year = date[:4]
 
-    title = input('Movie title: ')
+    title = input('Title: ')
 
     print()
     movies = api.search_movie(title)
     for i, movie in enumerate(movies[:10], 1):
         print(i, f'{movie.get("title")} ({movie.get("year")}, {movie.get("kind")}) ')
-    choice = input('Which movie: ')
+    choice = input('Selection (1-10, leave blank to skip): ')
     print()
-
-    if title != movie['title']:
-        if input(f'{title} doesn\'t match {movie["title"]}, update? (yN) ').lower().startswith('y'):
-            title = movie['title']
 
     try:
         choice = int(choice) - 1
@@ -49,7 +47,18 @@ while True:
         continue
 
     movie = movies[choice]
-    slug = slugify(movie['title'])
+
+    # Potentially fix the title provided if it's not a perfect match
+    if title != movie['title']:
+        if input(f'{title} doesn\'t match {movie["title"]}, update? (yN) ').lower().startswith('y'):
+            title = movie['title']
+
+    slug = slugify(title)
+
+    # Determine which type of content we're talking about
+    content_type = 'movies'
+    if 'tv' in movie.get('kind'):
+        content_type = 'tv'
 
     # Download cover
     cover_url = movie['full-size cover url']
@@ -58,10 +67,14 @@ while True:
 
     image = Image.open(requests.get(cover_url, stream=True).raw)
     image = image.resize(TARGET_COVER_SIZE)
-    image.save(os.path.join(COVER_DIR, cover_filename))
+    image.save(os.path.join(COVER_DIR, content_type, cover_filename))
 
     # Create post
-    review_dir = os.path.join(REVIEW_BASE_DIR, year)
+    if content_type == 'tv':
+        review_dir = os.path.join(REVIEW_BASE_DIR, 'tv')
+    else:
+        review_dir = os.path.join(REVIEW_BASE_DIR, content_type, year)
+
     os.makedirs(review_dir, exist_ok=True)
     
     review_filename = f'{date}-{slug}.md'  
@@ -78,9 +91,9 @@ date: {date}
 reviews/lists:
 - {year} Movie Reviews
 ''')
-        yaml.dump({'data': {'imdb': dict(movie)}}, fout, default_flow_style=False)
+        #yaml.dump({'data': {'imdb': dict(movie)}}, fout, default_flow_style=False)
         fout.write(f'''---
-{{{{< figure class="cover-image" src="/embeds/movies/{slug}.jpg" >}}}}
+{{{{< figure class="cover-image" src="/embeds/{content_type}/{slug}.jpg" >}}}}
 
 ''')
     print()

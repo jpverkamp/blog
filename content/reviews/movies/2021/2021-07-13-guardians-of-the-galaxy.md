@@ -6,18 +6,6 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
-data:
-  imdb:
-    canonical title: Guardians of the Galaxy
-    cover url: https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_UX32_CR0,0,32,44_AL_.jpg
-    full-size cover url: https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx.jpg
-    kind: movie
-    long imdb canonical title: Guardians of the Galaxy (2014)
-    long imdb title: Guardians of the Galaxy (2014)
-    smart canonical title: Guardians of the Galaxy
-    smart long imdb canonical title: Guardians of the Galaxy (2014)
-    title: Guardians of the Galaxy
-    year: 2014
 ---
 {{< figure class="cover-image" src="/embeds/movies/guardians-of-the-galaxy.jpg" >}}
 

@@ -6,18 +6,6 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
-data:
-  imdb:
-    canonical title: 'Avengers: Age of Ultron'
-    cover url: https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_UX32_CR0,0,32,44_AL_.jpg
-    full-size cover url: https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@.jpg
-    kind: movie
-    long imdb canonical title: 'Avengers: Age of Ultron (2015)'
-    long imdb title: 'Avengers: Age of Ultron (2015)'
-    smart canonical title: 'Avengers: Age of Ultron'
-    smart long imdb canonical title: 'Avengers: Age of Ultron (2015)'
-    title: 'Avengers: Age of Ultron'
-    year: 2015
 ---
 {{< figure class="cover-image" src="/embeds/movies/avengers-age-of-ultron.jpg" >}}
 
