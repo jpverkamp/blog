@@ -656,6 +656,15 @@ Aurora:
   series: The Frontiers Saga (Part 1)
   series_index: 1
   url: /book/show/13504505.aurora-cv-01
+Authority:
+  author: Jeff VanderMeer
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941730l/18077769._SX98_.jpg
+  id: 18077769
+  localCover: /embeds/books/authority.jpg
+  name: Authority
+  series: Southern Reach
+  series_index: 2
+  url: /book/show/18077769.authority
 Axis:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1312044997l/116410.jpg
@@ -5453,6 +5462,15 @@ The Borrowers Afloat:
   series: The Borrowers
   series_index: 3
   url: /book/show/145385.the-borrowers-afloat
+The Borrowers Aloft:
+  author: Mary Norton
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1226407864l/816223.jpg
+  id: 816223
+  localCover: /embeds/books/the-borrowers-aloft.jpg
+  name: The Borrowers Aloft
+  series: The Borrowers
+  series_index: 4
+  url: /book/show/816223.the-borrowers-aloft
 The Boxcar Children:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173489650l/297249._SX98_.jpg
