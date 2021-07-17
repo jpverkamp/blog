@@ -6426,6 +6426,13 @@ The Lost Symbol:
   series: Robert Langdon
   series_index: 3
   url: /book/show/6411961.the-lost-symbol
+'The Magical World of Strega Nona: A Treasury':
+  author: Tomie dePaola
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451966786l/23846060._SX318_.jpg
+  id: 23846060
+  localCover: /embeds/books/the-magical-world-of-strega-nona-a-treasury.jpg
+  name: 'The Magical World of Strega Nona: A Treasury'
+  url: /book/show/23846060.the-magical-world-of-strega-nona-a-treasury
 The Magician's Nephew:
   author: C.S. Lewis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308814770l/65605._SX98_.jpg
