@@ -6,6 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - The Locked Tomb
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [4x4+]
 ---
 {{< goodreads book="Gideon the Ninth" cover="true" >}}
 

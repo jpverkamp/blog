@@ -6,6 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Southern Reach
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [4x3+]
 ---
 {{< goodreads book="Annihilation" cover="true" >}}
 
