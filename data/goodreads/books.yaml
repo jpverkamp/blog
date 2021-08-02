@@ -6657,6 +6657,15 @@ The Rook:
   series: The Checquy Files
   series_index: 1
   url: /book/show/10836728.the-rook
+The Runelords:
+  author: David Farland
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388196460l/144127.jpg
+  id: 144127
+  localCover: /embeds/books/the-runelords.jpg
+  name: The Runelords
+  series: Runelords
+  series_index: 1
+  url: /book/show/144127.the-runelords
 The Sea of Monsters:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1400602661l/28186.jpg
