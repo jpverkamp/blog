@@ -418,6 +418,5 @@ Until then, current source:
 * [sudoku.js](https://github.com/jpverkamp/solvers/blob/main/sudoku.js)
 * [solvers/immutable.js](https://github.com/jpverkamp/solvers/blob/main/solvers/immutable.js)
 
-
 <script src="https://unpkg.com/sorttable@1.0.2/sorttable.js"></script>
 <script>Array.from(document.querySelectorAll('table')).forEach((el) => el.classList.add('sortable'))</script>
