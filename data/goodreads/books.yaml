@@ -1283,10 +1283,11 @@ Coyote Horizon:
   url: /book/show/4546626.coyote-horizon
 Crafting Interpreters:
   author: Robert Nystrom
-  id: 33969590
-  localCover: /embeds/books/crafting-interpreters.png
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627644403l/58661468._SX318_.jpg
+  id: 58661468
+  localCover: /embeds/books/crafting-interpreters.jpg
   name: Crafting Interpreters
-  url: /book/show/33969590.crafting-interpreters
+  url: /book/show/58661468.crafting-interpreters
 Crescent Dawn:
   author: Clive Cussler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388192485l/8219033.jpg
@@ -3293,6 +3294,13 @@ Legion:
   series: Legion
   series_index: 1
   url: /book/show/13452375.legion
+Leroy Ninker Saddles Up:
+  author: Kate DiCamillo
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400876603l/20708766._SX98_.jpg
+  id: 20708766
+  localCover: /embeds/books/leroy-ninker-saddles-up.jpg
+  name: Leroy Ninker Saddles Up
+  url: /book/show/20708766.leroy-ninker-saddles-up
 'Letter to a Suffering Church: A Bishop Speaks on the Sexual Abuse Crisis':
   author: Robert Barron
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557751800l/45731096._SY475_.jpg

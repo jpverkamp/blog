@@ -4,6 +4,8 @@ date: 2021-08-09 00:00:00
 generated: true
 reviews/lists:
 - 2021 Book Reviews
+reviews/series:
+- Attack on Titan
 ---
 {{< goodreads book="Attack on Titan, Vol. 28" cover="true" >}}
 
