@@ -433,6 +433,21 @@ Attack on Titan Vol. 26:
   id: 42771360
   name: Attack on Titan Vol. 26
   url: /book/show/42771360.attack-on-titan-vol-26
+Attack on Titan Vol. 31:
+  author: Hajime Isayama
+  id: 55087769
+  name: Attack on Titan Vol. 31
+  url: /book/show/55087769.attack-on-titan-vol-31
+Attack on Titan Vol. 32:
+  author: Hajime Isayama
+  id: 56312498
+  name: Attack on Titan Vol. 32
+  url: /book/show/56312498.attack-on-titan-vol-32
+Attack on Titan Vol. 33:
+  author: Hajime Isayama
+  id: 57825296
+  name: Attack on Titan Vol. 33
+  url: /book/show/57825296.attack-on-titan-vol-33
 Attack on Titan, Vol. 1:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432712438l/13154150._SX98_.jpg
@@ -593,6 +608,13 @@ Attack on Titan, Vol. 28:
   localCover: /embeds/books/attack-on-titan-vol-28.jpg
   name: Attack on Titan, Vol. 28
   url: /book/show/49231332.attack-on-titan-vol-28
+Attack on Titan, Vol. 29:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611172512l/49000818._SX98_.jpg
+  id: 49000818
+  localCover: /embeds/books/attack-on-titan-vol-29.jpg
+  name: Attack on Titan, Vol. 29
+  url: /book/show/49000818.attack-on-titan-vol-29
 Attack on Titan, Vol. 3:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344370679l/13536803._SX98_.jpg
@@ -602,6 +624,43 @@ Attack on Titan, Vol. 3:
   series: Attack on Titan
   series_index: 3
   url: /book/show/13536803.attack-on-titan-vol-3
+Attack on Titan, Vol. 30:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586922970l/53180850._SX98_.jpg
+  id: 53180850
+  localCover: /embeds/books/attack-on-titan-vol-30.jpg
+  name: Attack on Titan, Vol. 30
+  series: Attack on Titan
+  series_index: 30
+  url: /book/show/53180850.attack-on-titan-vol-30
+Attack on Titan, Vol. 31:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593978015l/50541028.jpg
+  id: 50541028
+  localCover: /embeds/books/attack-on-titan-vol-31.jpg
+  name: Attack on Titan, Vol. 31
+  url: /book/show/50541028.attack-on-titan-vol-31
+Attack on Titan, Vol. 32:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603746134l/52914993.jpg
+  id: 52914993
+  localCover: /embeds/books/attack-on-titan-vol-32.jpg
+  name: Attack on Titan, Vol. 32
+  url: /book/show/52914993.attack-on-titan-vol-32
+Attack on Titan, Vol. 33:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618858304l/55162224.jpg
+  id: 55162224
+  localCover: /embeds/books/attack-on-titan-vol-33.jpg
+  name: Attack on Titan, Vol. 33
+  url: /book/show/55162224.attack-on-titan-vol-33
+Attack on Titan, Vol. 34:
+  author: Hajime Isayama
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623670567l/55954188._SX98_.jpg
+  id: 55954188
+  localCover: /embeds/books/attack-on-titan-vol-34.jpg
+  name: Attack on Titan, Vol. 34
+  url: /book/show/55954188.attack-on-titan-vol-34
 Attack on Titan, Vol. 4:
   author: Hajime Isayama
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213346l/15798166._SX98_.jpg
@@ -7192,6 +7251,13 @@ Transient Extreme Ultraviolet Spectrosctopy of Semiconductors:
   id: 46034098
   name: Transient Extreme Ultraviolet Spectrosctopy of Semiconductors
   url: /book/show/46034098.transient-extreme-ultraviolet-spectrosctopy-of-semiconductors
+'Transmetropolitan, Vol. 1: Back on the Street':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320606005l/22416._SX98_.jpg
+  id: 22416
+  localCover: /embeds/books/transmetropolitan-vol-1-back-on-the-street.jpg
+  name: 'Transmetropolitan, Vol. 1: Back on the Street'
+  url: /book/show/22416.transmetropolitan-vol-1-back-on-the-street
 Trapped:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1346092123l/13536649.jpg
