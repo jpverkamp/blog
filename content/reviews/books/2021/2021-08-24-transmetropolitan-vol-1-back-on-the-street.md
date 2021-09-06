@@ -4,6 +4,8 @@ date: 2021-08-24 00:00:00
 generated: true
 reviews/lists:
 - 2021 Book Reviews
+reviews/series:
+- Transmetropolitan
 ---
 {{< goodreads book="Transmetropolitan, Vol. 1: Back on the Street" cover="true" >}}
 

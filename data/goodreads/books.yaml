@@ -3726,6 +3726,13 @@ Mercury Rises:
   series: Mercury
   series_index: 2
   url: /book/show/11579336.mercury-rises
+Mercy Watson Goes for a Ride:
+  author: Kate DiCamillo
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388187659l/37189.jpg
+  id: 37189
+  localCover: /embeds/books/mercy-watson-goes-for-a-ride.jpg
+  name: Mercy Watson Goes for a Ride
+  url: /book/show/37189.mercy-watson-goes-for-a-ride
 Mere Christianity:
   author: C.S. Lewis
   cover: https://images.gr-assets.com/books/1468102872l/11138.jpg
@@ -7258,6 +7265,36 @@ Transient Extreme Ultraviolet Spectrosctopy of Semiconductors:
   localCover: /embeds/books/transmetropolitan-vol-1-back-on-the-street.jpg
   name: 'Transmetropolitan, Vol. 1: Back on the Street'
   url: /book/show/22416.transmetropolitan-vol-1-back-on-the-street
+'Transmetropolitan, Vol. 2: Lust for Life':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427758922l/22417._SX98_.jpg
+  id: 22417
+  localCover: /embeds/books/transmetropolitan-vol-2-lust-for-life.jpg
+  name: 'Transmetropolitan, Vol. 2: Lust for Life'
+  url: /book/show/22417.transmetropolitan-vol-2-lust-for-life
+'Transmetropolitan, Vol. 3: Year of the Bastard':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452027011l/22418._SX98_.jpg
+  id: 22418
+  localCover: /embeds/books/transmetropolitan-vol-3-year-of-the-bastard.jpg
+  name: 'Transmetropolitan, Vol. 3: Year of the Bastard'
+  url: /book/show/22418.transmetropolitan-vol-3-year-of-the-bastard
+'Transmetropolitan, Vol. 4: The New Scum':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452027299l/22421._SX98_.jpg
+  id: 22421
+  localCover: /embeds/books/transmetropolitan-vol-4-the-new-scum.jpg
+  name: 'Transmetropolitan, Vol. 4: The New Scum'
+  url: /book/show/22421.transmetropolitan-vol-4-the-new-scum
+'Transmetropolitan, Vol. 5: Lonely City':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394263136l/20232821.jpg
+  id: 20232821
+  localCover: /embeds/books/transmetropolitan-vol-5-lonely-city.jpg
+  name: 'Transmetropolitan, Vol. 5: Lonely City'
+  series: New Edition
+  series_index: null
+  url: /book/show/20232821.transmetropolitan-vol-5-lonely-city
 Trapped:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1346092123l/13536649.jpg

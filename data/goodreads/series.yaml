@@ -1162,6 +1162,23 @@ Mercy Thompson:
   id: 40932
   name: Mercy Thompson
   url: /series/40932.mercy-thompson
+Mercy Watson:
+  books:
+    1: Mercy Watson to the Rescue
+    2: Mercy Watson Goes for a Ride
+    3: Mercy Watson Fights Crime
+    4: 'Mercy Watson: Princess in Disguise'
+    5: Mercy Watson Thinks Like a Pig
+    6: 'Mercy Watson: Something Wonky This Way Comes'
+    1-2: 'Mercy Watson: #1-2 [Collection Volume I]'
+    1-3: 'Mercy Watson: Three-Treat Collection'
+    1-6: 'Mercy Watson: #1-6 [Boxed Set: Adventures of a Porcine Wonder]'
+    3-4: 'Mercy Watson: #3-4 [Collection Volume 2]'
+    5-6: 'Mercy Watson: #5-6 [Collection Volume III]'
+    0.5: A Piglet Named Mercy
+  id: 51335
+  name: Mercy Watson
+  url: /series/51335.mercy-watson
 Millennium:
   books:
     1: The Girl with the Dragon Tattoo
@@ -2337,6 +2354,30 @@ To Kill a Mockingbird:
   id: 146340
   name: To Kill a Mockingbird
   url: /series/146340.to-kill-a-mockingbird
+Transmetropolitan:
+  books:
+    1: 'Transmetropolitan, Vol. 1: Back on the Street'
+    2: 'Transmetropolitan, Vol. 2: Lust for Life'
+    3: 'Transmetropolitan, Vol. 3: Year of the Bastard'
+    4: 'Transmetropolitan, Vol. 4: The New Scum'
+    5: 'Transmetropolitan, Vol. 5: Lonely City'
+    5.1: 'Transmetropolitan: I Hate It Here'
+    6: 'Transmetropolitan, Vol. 6: Gouge Away'
+    7: 'Transmetropolitan, Vol. 7: Spider''s Thrash'
+    7.1: 'Transmetropolitan: Filth of the City'
+    8: 'Transmetropolitan, Vol. 8: Dirge'
+    9: 'Transmetropolitan, Vol. 9: The Cure'
+    10: 'Transmetropolitan, Vol. 10: One More Time'
+    1-3: Absolute Transmetropolitan Vol. 1
+    4-6: Absolute Transmetropolitan Vol. 2
+    7-9: Absolute Transmetropolitan Vol. 3
+    1-2: Transmetropolitan Book One
+    3-4: Transmetropolitan Book Two
+    5-6: Transmetropolitan Book Three
+    7-8: Transmetropolitan Book Four
+  id: 56909
+  name: Transmetropolitan
+  url: /series/56909.transmetropolitan
 Twilight:
   books:
     1: Twilight
