@@ -1,6 +1,7 @@
 {{ $width := mul 1.1 (int (or ($.Get "width") 400)) }}
 {{ $height := mul 1.1 (int (or ($.Get "height") 400)) }}
 {{ $id := or ($.Get "id") (substr (.Inner | md5) 0 4) }}
+{{ $libraries := $.Get "libraries" }}
 
 {{ $header := `
 <html>
@@ -10,11 +11,18 @@
     
     <script src="https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js" integrity="sha384-XlyRxqW2TTF2gFC0VpBI8OqnCTsZOdgrhBFikxYD4hEu68QdNQ64kiej07hCAiJq" crossorigin="anonymous"></script>
     <script src="https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js" integrity="sha384-/Uy+8NNvYJjG164REYQP/RnqVcrnsFTtnoCJcLg/tVBKaHUaovtr+ZJgKQKHGAPW" crossorigin="anonymous"></script>
+` }}
+
+{{ range $library := (split $libraries " ") }}
+    {{ $header = (print $header `<script src="` $library `"></script>`) }}
+{{ end }}
+
+{{ $header = (print $header `
 
     <style>canvas { border: 1px solid black; border-radius: 1em; }</style>
 </head>
 <body>
-` }}
+`) }}
 
 {{ $footer := `
 <noscript>To display this p5.js sketch, JavaScript must be enabled.</noscript>
