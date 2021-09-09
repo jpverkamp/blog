@@ -2629,6 +2629,15 @@ Hard Magic:
   series: Grimnoir Chronicles
   series_index: 1
   url: /book/show/18195033.hard-magic
+Harrow the Ninth:
+  author: Tamsyn Muir
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602323622l/39325105._SX98_.jpg
+  id: 39325105
+  localCover: /embeds/books/harrow-the-ninth.jpg
+  name: Harrow the Ninth
+  series: The Locked Tomb
+  series_index: 2
+  url: /book/show/39325105.harrow-the-ninth
 Harry Potter and the Chamber of Secrets:
   author: J.K. Rowling
   cover: https://images.gr-assets.com/books/1474169725l/15881.jpg
@@ -3733,6 +3742,13 @@ Mercy Watson Goes for a Ride:
   localCover: /embeds/books/mercy-watson-goes-for-a-ride.jpg
   name: Mercy Watson Goes for a Ride
   url: /book/show/37189.mercy-watson-goes-for-a-ride
+'Mercy Watson: Something Wonky This Way Comes':
+  author: Kate DiCamillo
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388195700l/6305996.jpg
+  id: 6305996
+  localCover: /embeds/books/mercy-watson-something-wonky-this-way-comes.jpg
+  name: 'Mercy Watson: Something Wonky This Way Comes'
+  url: /book/show/6305996.mercy-watson-something-wonky-this-way-comes
 Mere Christianity:
   author: C.S. Lewis
   cover: https://images.gr-assets.com/books/1468102872l/11138.jpg
