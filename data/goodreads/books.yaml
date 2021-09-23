@@ -5577,6 +5577,15 @@ The Borrowers Aloft:
   series: The Borrowers
   series_index: 4
   url: /book/show/816223.the-borrowers-aloft
+The Borrowers Avenged:
+  author: Mary Norton
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391997428l/145386.jpg
+  id: 145386
+  localCover: /embeds/books/the-borrowers-avenged.jpg
+  name: The Borrowers Avenged
+  series: The Borrowers
+  series_index: 5
+  url: /book/show/145386.the-borrowers-avenged
 The Boxcar Children:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1173489650l/297249._SX98_.jpg
@@ -7274,6 +7283,13 @@ Transient Extreme Ultraviolet Spectrosctopy of Semiconductors:
   id: 46034098
   name: Transient Extreme Ultraviolet Spectrosctopy of Semiconductors
   url: /book/show/46034098.transient-extreme-ultraviolet-spectrosctopy-of-semiconductors
+'Transmetropolitan, Vol. 10: One More Time':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1307354040l/22424._SX98_.jpg
+  id: 22424
+  localCover: /embeds/books/transmetropolitan-vol-10-one-more-time.jpg
+  name: 'Transmetropolitan, Vol. 10: One More Time'
+  url: /book/show/22424.transmetropolitan-vol-10-one-more-time
 'Transmetropolitan, Vol. 1: Back on the Street':
   author: Warren Ellis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320606005l/22416._SX98_.jpg
@@ -7311,6 +7327,34 @@ Transient Extreme Ultraviolet Spectrosctopy of Semiconductors:
   series: New Edition
   series_index: null
   url: /book/show/20232821.transmetropolitan-vol-5-lonely-city
+'Transmetropolitan, Vol. 6: Gouge Away':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683419l/22422._SX98_.jpg
+  id: 22422
+  localCover: /embeds/books/transmetropolitan-vol-6-gouge-away.jpg
+  name: 'Transmetropolitan, Vol. 6: Gouge Away'
+  url: /book/show/22422.transmetropolitan-vol-6-gouge-away
+'Transmetropolitan, Vol. 7: Spider''s Thrash':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486838234l/22426._SX98_.jpg
+  id: 22426
+  localCover: /embeds/books/transmetropolitan-vol-7-spiders-thrash.jpg
+  name: 'Transmetropolitan, Vol. 7: Spider''s Thrash'
+  url: /book/show/22426.transmetropolitan-vol-7-spiders-thrash
+'Transmetropolitan, Vol. 8: Dirge':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374683374l/22423._SX98_.jpg
+  id: 22423
+  localCover: /embeds/books/transmetropolitan-vol-8-dirge.jpg
+  name: 'Transmetropolitan, Vol. 8: Dirge'
+  url: /book/show/22423.transmetropolitan-vol-8-dirge
+'Transmetropolitan, Vol. 9: The Cure':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406236248l/22425._SX98_.jpg
+  id: 22425
+  localCover: /embeds/books/transmetropolitan-vol-9-the-cure.jpg
+  name: 'Transmetropolitan, Vol. 9: The Cure'
+  url: /book/show/22425.transmetropolitan-vol-9-the-cure
 Trapped:
   author: Kevin Hearne
   cover: https://images.gr-assets.com/books/1346092123l/13536649.jpg
@@ -7705,6 +7749,15 @@ Witches Abroad:
   series: Discworld
   series_index: 12
   url: /book/show/2442.witches-abroad
+Wizardborn:
+  author: David Farland
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388210779l/144109.jpg
+  id: 144109
+  localCover: /embeds/books/wizardborn.jpg
+  name: Wizardborn
+  series: Runelords
+  series_index: 3
+  url: /book/show/144109.wizardborn
 Wolves of the Calla:
   author: Stephen King
   cover: https://images.gr-assets.com/books/1419360231l/4978.jpg
