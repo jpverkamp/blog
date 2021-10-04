@@ -33,7 +33,7 @@ But hey, there's still a sense of humor these books are great at:
 
 Plus, more Listens-To-Wind is always good. Either here or the battle in {{< goodreads book="Turn Coat" >}} Turn Coat feels out of place though... He's seen Listens-To-Wind shift in both and is impressed in both.  
 
-[image error]  
+![](/embeds/books/attachments/Dog-Men-3-Wolf-Men.png)  
 
 It's always interesting seeing the reactions of those uninformed about the supernatural world when Dresden drops in...  
 

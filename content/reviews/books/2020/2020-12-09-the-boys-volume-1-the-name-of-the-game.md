@@ -23,15 +23,15 @@ How otherwise does it compare? (Potential spoilers, but I tried to avoid them).
 
 I miss the show Huey. He felt more like an everyman in over his head. This one is more of a conspiracy nut.  
 
-[image error]  
+![](/embeds/books/attachments/The-Boys-1-02.jpg)
 
 A point on super powered individuals.  
 
-[image error]  
+![](/embeds/books/attachments/The-Boys-1-03.jpg)
 
 Homelander works, but Annie, I liked a lot better from the show. I think I missed that her name was Annie January. Weird surname.  
 
-[image error]  
+![](/embeds/books/attachments/The-Boys-1-04.jpg)
 
 That's a neat bit of worldbuilding. They don't really explain what happened, but it shows just how screwed up the world has gotten--and people just have to go on living with it.  
 
@@ -39,7 +39,7 @@ That's a neat bit of worldbuilding. They don't really explain what happened, but
 
 Oh Annie. So innocent and in for such a rough time.  {{< spoiler >}}In the show it's only the Deep who forces himself on Annie; in the graphic novel, it's several of them, including Homelander.{{< /spoiler >}}  Again, I think I like the show better here. It's more a slow burn, making each of the characters broken and terrible in their own right.  
 
-[image error]  
+![](/embeds/books/attachments/The-Boys-1-06.jpg)
 
 One of the things that was pushed back and changed in the show. Compound V is still there and similar, but I'm not sure I like how they've done it in the book.  {{< spoiler >}}Giving the Boys the ability to go hand to hand with supes ... kind of defeats the point.{{< /spoiler >}}  
 

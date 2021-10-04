@@ -25,7 +25,7 @@ There is something so weird going on with Van Hohenheim. He seems out of it.
 
 He can't eat... that totally means something. Could it be...  {{< spoiler >}}Sloth?{{< /spoiler >}}  
 
-[image error]  
+![](/embeds/books/attachments/FMA-11-42c-Over-20-princes.png)
 
 Wow. That's a lot of competition...  
 
