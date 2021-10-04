@@ -118,6 +118,13 @@ A Hat Full of Sky:
   series: Discworld
   series_index: 32
   url: /book/show/618145.a-hat-full-of-sky
+A Lion to Guard Us:
+  author: Clyde Robert Bulla
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360650095l/945210._SX98_.jpg
+  id: 945210
+  localCover: /embeds/books/a-lion-to-guard-us.jpg
+  name: A Lion to Guard Us
+  url: /book/show/945210.a-lion-to-guard-us
 'A Little House Christmas Treasury: Festive Holiday Stories':
   author: Laura Ingalls Wilder
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348982502l/538296.jpg
@@ -3478,6 +3485,48 @@ Little Town on the Prairie:
   series: Little House
   series_index: 7
   url: /book/show/8253.little-town-on-the-prairie
+'Locke & Key, Vol. 1: Welcome to Lovecraft':
+  author: Joe Hill
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377304780l/3217221._SX98_.jpg
+  id: 3217221
+  localCover: /embeds/books/locke-key-vol-1-welcome-to-lovecraft.jpg
+  name: 'Locke & Key, Vol. 1: Welcome to Lovecraft'
+  url: /book/show/3217221.locke-key-vol-1-welcome-to-lovecraft
+'Locke & Key, Vol. 2: Head Games':
+  author: Joe Hill
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351338040l/6120349._SX98_.jpg
+  id: 6120349
+  localCover: /embeds/books/locke-key-vol-2-head-games.jpg
+  name: 'Locke & Key, Vol. 2: Head Games'
+  url: /book/show/6120349.locke-key-vol-2-head-games
+'Locke & Key, Vol. 3: Crown of Shadows':
+  author: Joe Hill
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377306494l/7202841._SX98_.jpg
+  id: 7202841
+  localCover: /embeds/books/locke-key-vol-3-crown-of-shadows.jpg
+  name: 'Locke & Key, Vol. 3: Crown of Shadows'
+  url: /book/show/7202841.locke-key-vol-3-crown-of-shadows
+'Locke & Key, Vol. 4: Keys to the Kingdom':
+  author: Joe Hill
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377306592l/9674335._SX98_.jpg
+  id: 9674335
+  localCover: /embeds/books/locke-key-vol-4-keys-to-the-kingdom.jpg
+  name: 'Locke & Key, Vol. 4: Keys to the Kingdom'
+  url: /book/show/9674335.locke-key-vol-4-keys-to-the-kingdom
+'Locke & Key, Vol. 5: Clockworks':
+  author: Joe Hill
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343848792l/13490570._SX98_.jpg
+  id: 13490570
+  localCover: /embeds/books/locke-key-vol-5-clockworks.jpg
+  name: 'Locke & Key, Vol. 5: Clockworks'
+  url: /book/show/13490570.locke-key-vol-5-clockworks
+'Locke & Key, Vol. 6: Alpha & Omega':
+  author: Joe Hill
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391443566l/16164271._SX98_.jpg
+  id: 16164271
+  localCover: /embeds/books/locke-key-vol-6-alpha-omega.jpg
+  name: 'Locke & Key, Vol. 6: Alpha & Omega'
+  url: /book/show/16164271.locke-key-vol-6-alpha-omega
 Lord Sunday:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1304529231l/6657648.jpg
@@ -4532,6 +4581,15 @@ Red Seas Under Red Skies:
   series: Gentleman Bastard
   series_index: 2
   url: /book/show/40604556.red-seas-under-red-skies
+Red Sister:
+  author: Mark  Lawrence
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627762558l/25895524._SX98_.jpg
+  id: 25895524
+  localCover: /embeds/books/red-sister.jpg
+  name: Red Sister
+  series: Book of the Ancestor
+  series_index: 1
+  url: /book/show/25895524.red-sister
 Redemption Ark:
   author: Alastair Reynolds
   cover: https://images.gr-assets.com/books/1309206851l/89190.jpg
@@ -5218,6 +5276,48 @@ Staked:
   series: The Iron Druid Chronicles
   series_index: 8
   url: /book/show/16280689.staked
+'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359653l/35009957._SX98_.jpg
+  id: 35009957
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine.jpg
+  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine'
+  url: /book/show/35009957.star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine
+'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 2: Legacy''s End':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359658l/36040437._SX98_.jpg
+  id: 36040437
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end.jpg
+  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 2: Legacy''s End'
+  url: /book/show/36040437.star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end
+'Star Wars: Darth Vader, Vol. 1: Vader':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359589l/24819813._SX98_.jpg
+  id: 24819813
+  localCover: /embeds/books/star-wars-darth-vader-vol-1-vader.jpg
+  name: 'Star Wars: Darth Vader, Vol. 1: Vader'
+  url: /book/show/24819813.star-wars-darth-vader-vol-1-vader
+'Star Wars: Darth Vader, Vol. 2: Shadows and Secrets':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359594l/25861679._SX98_.jpg
+  id: 25861679
+  localCover: /embeds/books/star-wars-darth-vader-vol-2-shadows-and-secrets.jpg
+  name: 'Star Wars: Darth Vader, Vol. 2: Shadows and Secrets'
+  url: /book/show/25861679.star-wars-darth-vader-vol-2-shadows-and-secrets
+'Star Wars: Darth Vader, Vol. 3: The Shu-Torun War':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359603l/28118847._SX98_.jpg
+  id: 28118847
+  localCover: /embeds/books/star-wars-darth-vader-vol-3-the-shu-torun-war.jpg
+  name: 'Star Wars: Darth Vader, Vol. 3: The Shu-Torun War'
+  url: /book/show/28118847.star-wars-darth-vader-vol-3-the-shu-torun-war
+'Star Wars: Darth Vader, Vol. 4: End of Games':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359613l/29467582._SX98_.jpg
+  id: 29467582
+  localCover: /embeds/books/star-wars-darth-vader-vol-4-end-of-games.jpg
+  name: 'Star Wars: Darth Vader, Vol. 4: End of Games'
+  url: /book/show/29467582.star-wars-darth-vader-vol-4-end-of-games
 Starship Troopers:
   author: Robert A. Heinlein
   cover: https://images.gr-assets.com/books/1406457252l/17214.jpg
@@ -7269,6 +7369,11 @@ To Kill a Mockingbird:
   series: To Kill a Mockingbird
   series_index: 1
   url: /book/show/2657.to-kill-a-mockingbird
+'Tongues of Fire: An Anthology of Religious and Poetic Experience':
+  author: Karen Armstrong
+  id: 185644
+  name: 'Tongues of Fire: An Anthology of Religious and Poetic Experience'
+  url: /book/show/185644.tongues-of-fire-an-anthology-of-religious-and-poetic-experience
 Towers of Midnight:
   author: Robert Jordan
   cover: https://images.gr-assets.com/books/1358109459l/8253920.jpg
@@ -7538,6 +7643,48 @@ Vixen 03:
   series: Dirk Pitt
   series_index: 5
   url: /book/show/41700.vixen-03
+'Vol. 1: Imperial Machine':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359653l/35009957._SX98_.jpg
+  id: 35009957
+  localCover: /embeds/books/vol-1-imperial-machine.jpg
+  name: 'Vol. 1: Imperial Machine'
+  url: /book/show/35009957.vol-1-imperial-machine
+'Vol. 1: Vader':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359589l/24819813._SX98_.jpg
+  id: 24819813
+  localCover: /embeds/books/vol-1-vader.jpg
+  name: 'Vol. 1: Vader'
+  url: /book/show/24819813.vol-1-vader
+'Vol. 2: Legacy''s End':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359658l/36040437._SX98_.jpg
+  id: 36040437
+  localCover: /embeds/books/vol-2-legacys-end.jpg
+  name: 'Vol. 2: Legacy''s End'
+  url: /book/show/36040437.vol-2-legacys-end
+'Vol. 2: Shadows and Secrets':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359594l/25861679._SX98_.jpg
+  id: 25861679
+  localCover: /embeds/books/vol-2-shadows-and-secrets.jpg
+  name: 'Vol. 2: Shadows and Secrets'
+  url: /book/show/25861679.vol-2-shadows-and-secrets
+'Vol. 3: The Shu-Torun War':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359603l/28118847._SX98_.jpg
+  id: 28118847
+  localCover: /embeds/books/vol-3-the-shu-torun-war.jpg
+  name: 'Vol. 3: The Shu-Torun War'
+  url: /book/show/28118847.vol-3-the-shu-torun-war
+'Vol. 4: End of Games':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359613l/29467582._SX98_.jpg
+  id: 29467582
+  localCover: /embeds/books/vol-4-end-of-games.jpg
+  name: 'Vol. 4: End of Games'
+  url: /book/show/29467582.vol-4-end-of-games
 Vortex:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1312034516l/9359796.jpg

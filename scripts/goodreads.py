@@ -474,7 +474,7 @@ def reviews(per_page = 20, do_all = False):
             if text:
                 # If there were spoilers in the original review, we have to fall back to the web version
                 if '[spoilers removed]' in text:
-                    logging.debug(f'Review for {title} contains spoilers, falling back to web scraper')
+                    logging.debug(f'Review for {title} contains spoilers in {review_id=}, falling back to web scraper')
                     response = requests.get(f'https://www.goodreads.com/review/show/{review_id}')
                     soup = bs4.BeautifulSoup(response.text, 'html5lib')
                     text = soup.select('.reviewText')[0].prettify()
