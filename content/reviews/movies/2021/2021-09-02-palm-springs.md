@@ -3,6 +3,8 @@ title: "Palm Springs"
 date: 2021-09-02
 reviews/lists:
 - 2021 Movie Reviews
+source:
+- Hulu
 ---
 {{< figure class="cover-image" src="/embeds/movies/palm-springs.jpg" >}}
 

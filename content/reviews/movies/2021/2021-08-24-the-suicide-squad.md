@@ -3,6 +3,8 @@ title: "The Suicide Squad"
 date: 2021-08-24
 reviews/lists:
 - 2021 Movie Reviews
+source:
+- HBOMax
 ---
 {{< figure class="cover-image" src="/embeds/movies/the-suicide-squad.jpg" >}}
 

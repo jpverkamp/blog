@@ -6,6 +6,8 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+source:
+- Disney+
 ---
 {{< figure class="cover-image" src="/embeds/movies/thor-the-dark-world.jpg" >}}
 

@@ -6,6 +6,8 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+source:
+- Disney+
 ---
 {{< figure class="cover-image" src="/embeds/movies/guardians-of-the-galaxy-vol-2.jpg" >}}
 

@@ -3,6 +3,8 @@ title: "The Queen's Gambit"
 date: 2021-03-11
 reviews/lists:
 - 2021 TV Reviews
+source:
+- Netflix
 ---
 {{< figure class="cover-image" src="/embeds/tv/the-queens-gambit.jpg" >}}
 

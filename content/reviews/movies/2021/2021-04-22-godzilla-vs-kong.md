@@ -3,6 +3,8 @@ title: "Godzilla vs Kong"
 date: 2021-04-22 23:00:05
 reviews/lists:
 - 2021 Movie Reviews
+source:
+- HBOMax
 ---
 {{< figure class="cover-image" src="/embeds/movies/godzilla-vs-kong.jpg" >}}
 

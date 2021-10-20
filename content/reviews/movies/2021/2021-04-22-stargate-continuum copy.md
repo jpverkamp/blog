@@ -6,6 +6,8 @@ reviews/lists:
 reviews/series:
 - Stargate
 - "Stargate SG-1"
+source:
+- Hoopla
 ---
 {{< figure class="cover-image" src="/embeds/movies/stargate-continuum.jpg" >}}
 
