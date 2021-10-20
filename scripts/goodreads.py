@@ -17,6 +17,8 @@ import time
 import xml.etree.ElementTree
 import yaml
 
+from PIL import Image
+
 import coloredlogs
 
 BYPASS_CACHE = False
@@ -64,7 +66,7 @@ def api(url, params = None, mode = 'soup'):
     if not url.startswith('http'):
         url = 'https://www.goodreads.com/' + url
 
-    logging.debug(f'api({url}, {params})')
+    logging.info(f'api({url}, {params})')
 
     response = requests.get(url, params = params)
 
@@ -262,9 +264,10 @@ def download_cover(data, image_url):
         else:
             logging.debug(f'Downloading cover for {data["name"]}')
             os.makedirs(os.path.dirname(path), exist_ok = True)
-            with open(path, 'wb') as fout:
-                shutil.copyfileobj(response.raw, fout)
-                subprocess.check_output(['mogrify', '-resize', '100x160!', path])
+
+            image = Image.open(response.raw)
+            image = image.resize((100, 160))
+            image.save(path)
 
         data['localCover'] = path.replace('static', '')
     else:
@@ -436,8 +439,6 @@ def reviews(per_page = 20, do_all = False):
 
                 with open(path, 'wb') as fout:
                     shutil.copyfileobj(response.raw, fout)
-
-                # subprocess.check_output(['mogrify', '-resize', '640x>', path])
 
             return f'![{alt}](/embeds/books/attachments/{filename})'
 

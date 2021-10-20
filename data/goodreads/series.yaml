@@ -870,6 +870,37 @@ Harry Potter:
   id: 45175
   name: Harry Potter
   url: /series/45175.harry-potter
+'Hellblazer: New Editions':
+  books:
+    1: 'Hellblazer, Vol. 1: Original Sins'
+    2: 'Hellblazer, Vol. 2: The Devil You Know'
+    3: 'Hellblazer, Vol. 3: The Fear Machine'
+    4: 'Hellblazer, Vol. 4: The Family Man'
+    5: 'Hellblazer, Vol. 5: Dangerous Habits'
+    6: 'Hellblazer, Volume 6: Bloodlines'
+    7: 'Hellblazer, Vol. 7: Tainted Love'
+    8: 'Hellblazer, Vol. 8: Rake at the Gates of Hell'
+    9: 'Hellblazer, Volume 9: Critical Mass'
+    10: 'Hellblazer, Volume 10: In the Line of Fire'
+    11: 'Hellblazer, Volume 11: Last Man Standing'
+    12: 'Hellblazer, Volume 12: How to Play with Fire'
+    13: 'Hellblazer, Volume 13: Haunted'
+    14: 'Hellblazer, Volume 14: Good Intentions'
+    15: 'Hellblazer, Volume 15: Highwater'
+    16: 'Hellblazer, Volume 16: The Wild Card'
+    17: 'Hellblazer, Volume 17: Out of Season'
+    18: 'Hellblazer, Volume 18: The Gift'
+    19: 'Hellblazer, Volume 19: The Red Right Hand'
+    20: 'Hellblazer, Volume 20: Systems of Control'
+    21: 'Hellblazer, Volume 21: The Laughing Magician'
+    22: 'Hellblazer, Volume 22: Regeneration'
+    23: 'Hellblazer, Volume 23: No Future'
+    24: 'Hellblazer, Volume 24: Sectioned'
+    25: 'Hellblazer, Volume 25: Another Season'
+    26: 'Hellblazer, Volume 26: The Curse of the Constantines'
+  id: 121469
+  name: 'Hellblazer: New Editions'
+  url: /series/121469.hellblazer-new-editions
 Hellboy:
   books:
     1: 'Hellboy, Vol. 1: Seed of Destruction'

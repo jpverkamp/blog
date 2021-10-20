@@ -2733,6 +2733,13 @@ Head of the Dragon:
   series: The Frontiers Saga
   series_index: 6
   url: /book/show/17336361.head-of-the-dragon
+'Hellblazer, Vol. 1: Original Sins':
+  author: Jamie Delano
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg
+  id: 18902412
+  localCover: /embeds/books/hellblazer-vol-1-original-sins.jpg
+  name: 'Hellblazer, Vol. 1: Original Sins'
+  url: /book/show/18902412.hellblazer-vol-1-original-sins
 'Hellboy in Hell, Vol. 1: The Descent':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
@@ -3972,6 +3979,13 @@ Mr. Monster:
   series: John Cleaver
   series_index: 2
   url: /book/show/7167271.mr-monster
+Mr. Popper's Penguins:
+  author: Richard Atwater
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388185174l/61549._SX98_.jpg
+  id: 61549
+  localCover: /embeds/books/mr-poppers-penguins.jpg
+  name: Mr. Popper's Penguins
+  url: /book/show/61549.mr-poppers-penguins
 My Father's Dragon:
   author: Ruth Stiles Gannett
   id: 34898
@@ -5290,6 +5304,20 @@ Staked:
   localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end.jpg
   name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 2: Legacy''s End'
   url: /book/show/36040437.star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end
+'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 3: The Burning Seas':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534313610l/39668120._SX98_.jpg
+  id: 39668120
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas.jpg
+  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 3: The Burning Seas'
+  url: /book/show/39668120.star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas
+'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 4: Fortress Vader':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544824160l/40652555._SX98_.jpg
+  id: 40652555
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader.jpg
+  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 4: Fortress Vader'
+  url: /book/show/40652555.star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader
 'Star Wars: Darth Vader, Vol. 1: Vader':
   author: Kieron Gillen
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359589l/24819813._SX98_.jpg
