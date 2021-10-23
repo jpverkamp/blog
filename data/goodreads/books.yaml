@@ -2575,6 +2575,15 @@ Grave Peril:
   localCover: /embeds/books/gray-hat-c-a-hackers-guide-to-creating-and-automating-security-tools.jpg
   name: 'Gray Hat C#: A Hacker''s Guide to Creating and Automating Security Tools'
   url: /book/show/32847275.gray-hat-c-a-hackers-guide-to-creating-and-automating-security-tools
+Grey Sister:
+  author: Mark  Lawrence
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523384136l/35530652._SX98_.jpg
+  id: 35530652
+  localCover: /embeds/books/grey-sister.jpg
+  name: Grey Sister
+  series: Book of the Ancestor
+  series_index: 2
+  url: /book/show/35530652.grey-sister
 Grim Tuesday:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1304528058l/47620.jpg
