@@ -180,6 +180,8 @@ def get(type, query, search_function, update_function):
     update_function takes a data array and returns a data array (with more stuff in it)
     '''
 
+    global global_data
+
     id = url = name = None
     if type in fields:
         type = fields[type]
@@ -587,6 +589,8 @@ def insert(urls):
 def delete(names):
     '''Delete an entry from the local database (all exact matches will be deleted).'''
 
+    global global_data
+
     click.echo(f'[Goodreads] Deleting {len(names)} entry/entries...')
     for name in names:
         for type in fields:
@@ -607,6 +611,8 @@ def import_reviews(all, overwrite, per_page):
     
     Will load [per_page] entries at a time. If --all is not set, will stop after the first page where no posts are generated.
     '''
+
+    global global_data
 
     click.echo('[Goodreads] Generating posts for reviews...')
     if all:
@@ -698,6 +704,8 @@ def cover(url, title, interactive):
 def validate():
     click.echo('[Goodreads] Detecting missing entries...')
     any_missing = False
+
+    global global_data
 
     for path, _, filenames in os.walk('content'):
         for filename in filenames:

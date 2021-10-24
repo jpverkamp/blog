@@ -870,7 +870,7 @@ Harry Potter:
   id: 45175
   name: Harry Potter
   url: /series/45175.harry-potter
-'Hellblazer: New Editions':
+'Hellblazer':
   books:
     1: 'Hellblazer, Vol. 1: Original Sins'
     2: 'Hellblazer, Vol. 2: The Devil You Know'
@@ -899,7 +899,7 @@ Harry Potter:
     25: 'Hellblazer, Volume 25: Another Season'
     26: 'Hellblazer, Volume 26: The Curse of the Constantines'
   id: 121469
-  name: 'Hellblazer: New Editions'
+  name: 'Hellblazer'
   url: /series/121469.hellblazer-new-editions
 Hellboy:
   books:

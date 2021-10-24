@@ -2749,6 +2749,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-1-original-sins.jpg
   name: 'Hellblazer, Vol. 1: Original Sins'
   url: /book/show/18902412.hellblazer-vol-1-original-sins
+'Hellblazer, Vol. 2: The Devil You Know':
+  author: Jamie Delano
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579959l/11938931._SX98_.jpg
+  id: 11938931
+  localCover: /embeds/books/hellblazer-vol-2-the-devil-you-know.jpg
+  name: 'Hellblazer, Vol. 2: The Devil You Know'
+  url: /book/show/11938931.hellblazer-vol-2-the-devil-you-know
 'Hellboy in Hell, Vol. 1: The Descent':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
