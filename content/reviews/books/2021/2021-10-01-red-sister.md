@@ -6,6 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Book of the Ancestor
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [2x5+]
 ---
 {{< goodreads book="Red Sister" cover="true" >}}
 

@@ -1,5 +1,5 @@
 ---
-title: The Lion, the Witch and the Wardrobe
+title: The Lion, the Witch, and the Wardrobe
 date: 2020-09-27 00:00:00
 generated: true
 reviews/lists:
