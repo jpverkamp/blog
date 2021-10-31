@@ -12,6 +12,8 @@ source:
 
 Finding Nemo is a delightful children's movie. It's the story of a worrying dad (Marlin), a son (Nemo) trying to grow into his own self, the trouble that causes, and the lengths family can go through for one another. 
 
+<!--more-->
+
 A few particularly delightful things: 
 
 - The entire Dory storyline. She's a fish with no short term memory and she teams up with Marlin to help rescue Nemo. Voiced by Ellen DeGeneres, who does a surprisingly good job. 

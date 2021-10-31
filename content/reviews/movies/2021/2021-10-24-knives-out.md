@@ -14,6 +14,8 @@ reviews/lists:
 
 Well that was a surprising yet great fun movie. In a nutshell, it's a murder mystery. Heir of the family is found dead--apparent suicide. But things quickly become more complicated, with a detective (Daniel Craig as Benoit Blanc with a hilarious southern drawl that still somehow works...) anonymously hired to 'get to the truth'. The family is a nightmare, everyone has a reason to have offed the old man...
 
+<!--more-->
+
 And then... {{< spoiler >}}the nurse (played by Ana de Armas){{</ spoiler >}} confesses to it all. How about that. A murder mystery where the who-dun-it is revealed in the first fraction of the movie. Of course that's not the entire story and I absolutely loved the various phases we go through: will they get away with it? wait, what also happened? who did what now when?  Plotwise, it's a murder mystery and I was at least half surprised as each twist and turn came about. Worth it for that. 
 
 Characterwise, as I mentioned, Daniel Craig's accent was a bizarre choice, but somehow it worked. And it's all the better with Chris Evans (Ransom Drysdale)'s commentary: 
