@@ -1,4 +1,13 @@
-<iframe src="https://open.spotify.com/embed/track/{{ .Get 0 }}?utm_source=generator&theme=0" width="100%" height="80"
+{{ if (or (.Get 0) (.Get "song")) -}}
+<iframe src="https://open.spotify.com/embed/track/{{ (or (.Get 0) (.Get " song")) }}?utm_source=generator&theme=0"
+    width="100%" height="80"
     frameBorder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
 </iframe>
+{{- else if (.Get "album") -}}
+<iframe src="https://open.spotify.com/embed/album/{{ .Get " album" }}?utm_source=generator" width="100%" height="380"
+    frameBorder="0" allowfullscreen=""
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+{{- else -}}
+{{ errorf "Unknown parameters to Spotify shortcode: %q" .Params }}
+{{- end }}
