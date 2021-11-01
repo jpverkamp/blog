@@ -25,3 +25,5 @@ Overall, there's a lot to love in this series. I love the aforementioned dynamic
 If there are any particular negatives to lament, one would be that the show wasn't quite as much a 'buddy cop' show that the trailers made it seem. It's a solid show, don't get me wrong. It just tends to be a bit more serious than I expected. Other than that, the ending was a bit weak. A powerful speech, but the idea that it will actually change anyone's minds? Meh. 
 
 Overall, a solid entry into the Marvel Universe, well worth the watch. 
+
+{{< ranking "Marvel Cinematic Universe" >}}
