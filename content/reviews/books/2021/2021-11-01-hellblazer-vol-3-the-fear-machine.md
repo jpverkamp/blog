@@ -8,8 +8,6 @@ reviews/series:
 ---
 {{< goodreads book="Hellblazer, Vol. 3: The Fear Machine" cover="true" >}}
 
-# Hellblazer 3
-
 Not terrible, but also not great. It starts very slowly with a hippie commune and takes a few issues to get going and gets downright weird at a few points. But enjoyable enough after that.
 
 ![](/embeds/books/attachments/hellblazer-3-344b01.png)
