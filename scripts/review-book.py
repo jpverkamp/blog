@@ -27,6 +27,7 @@ while True:
 
     print()
     book = goodreads.get_book(title)
+    goodreads.save()
     print(book)
     print()
 

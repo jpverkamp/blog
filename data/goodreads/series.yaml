@@ -1477,6 +1477,15 @@ Percy Jackson and the Olympians:
   id: 40736
   name: Percy Jackson and the Olympians
   url: /series/40736.percy-jackson-and-the-olympians
+"Pippi L\xF6ngstrump":
+  books:
+    1: Pippi Longstocking
+    2: Pippi Goes on Board
+    3: Pippi in the South Seas
+    1-3: The Adventures of Pippi Longstocking
+  id: 58327
+  name: "Pippi L\xF6ngstrump"
+  url: /series/58327.pippi-l-ngstrump
 Powder Mage:
   books:
     0.1: Forsworn
