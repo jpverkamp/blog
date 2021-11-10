@@ -2770,6 +2770,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-3-the-fear-machine.jpg
   name: 'Hellblazer, Vol. 3: The Fear Machine '
   url: /book/show/13228111.hellblazer-vol-3-the-fear-machine
+'Hellblazer, Vol. 4: The Family Man ':
+  author: Jamie Delano
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347585482l/13536298._SX98_.jpg
+  id: 13536298
+  localCover: /embeds/books/hellblazer-vol-4-the-family-man.jpg
+  name: 'Hellblazer, Vol. 4: The Family Man '
+  url: /book/show/13536298.hellblazer-vol-4-the-family-man
 'Hellboy in Hell, Vol. 1: The Descent':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
