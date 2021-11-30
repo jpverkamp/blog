@@ -5,6 +5,6 @@ photography/types:
 - Flickr Album
 generated: true
 ---
-
+More meeting up with friends, in Nature! This time at Lilly Lake (Eagle Creek Park). So pretty in the fall. 
 
 {{< flickr set="72157720152085218" >}}

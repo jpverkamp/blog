@@ -2770,6 +2770,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-3-the-fear-machine.jpg
   name: 'Hellblazer, Vol. 3: The Fear Machine '
   url: /book/show/13228111.hellblazer-vol-3-the-fear-machine
+'Hellblazer, Vol. 5: Dangerous Habits':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389387930l/15799394.jpg
+  id: 15799394
+  localCover: /embeds/books/hellblazer-vol-5-dangerous-habits.jpg
+  name: 'Hellblazer, Vol. 5: Dangerous Habits'
+  url: /book/show/15799394.hellblazer-vol-5-dangerous-habits
 'Hellboy in Hell, Vol. 1: The Descent':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
@@ -7338,6 +7345,15 @@ The Well of Ascension:
   series: Mistborn
   series_index: 2
   url: /book/show/68429.the-well-of-ascension
+The Winter King:
+  author: Bernard Cornwell
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1311987677l/68520._SX98_.jpg
+  id: 68520
+  localCover: /embeds/books/the-winter-king.jpg
+  name: The Winter King
+  series: The Warlord Chronicles
+  series_index: 1
+  url: /book/show/68520.the-winter-king
 The Wise Man's Fear:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1452624392l/1215032.jpg

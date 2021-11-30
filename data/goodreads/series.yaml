@@ -2388,6 +2388,16 @@ The Unnaturalists:
   id: 85425
   name: The Unnaturalists
   url: /series/85425.the-unnaturalists
+The Warlord Chronicles:
+  books:
+    1: The Winter King
+    2: Enemy of God
+    3: Excalibur
+    2,: La torre in famme
+    3,: La spada perduta
+  id: 250571
+  name: The Warlord Chronicles
+  url: /series/250571.the-warlord-chronicles
 The Wheel of Time:
   books:
     0: New Spring
