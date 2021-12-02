@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2021
 ---
-### Source: [Depth Finder](https://adventofcode.com/2021/day/1/answer)
+### Source: [Depth Finder](https://adventofcode.com/2021/day/1)
 
 #### **Part 1:** Given a list of numbers, count how many times sequential numbers increase.
 

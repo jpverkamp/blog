@@ -5,6 +5,6 @@ photography/types:
 - Flickr Album
 generated: true
 ---
-
+Meeting up with friends, in Nature! Holliday Park is a wonderful find. 
 
 {{< flickr set="72157720157734221" >}}
