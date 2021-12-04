@@ -2768,7 +2768,7 @@ Head of the Dragon:
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342415620l/13228111._SX98_.jpg
   id: 13228111
   localCover: /embeds/books/hellblazer-vol-3-the-fear-machine.jpg
-  name: 'Hellblazer, Vol. 3: The Fear Machine '
+  name: 'Hellblazer, Vol. 3: The Fear Machine'
   url: /book/show/13228111.hellblazer-vol-3-the-fear-machine
 'Hellblazer, Vol. 5: Dangerous Habits':
   author: Garth Ennis
@@ -2777,6 +2777,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-5-dangerous-habits.jpg
   name: 'Hellblazer, Vol. 5: Dangerous Habits'
   url: /book/show/15799394.hellblazer-vol-5-dangerous-habits
+'Hellblazer, Volume 6: Bloodlines':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370839683l/17137633._SX98_.jpg
+  id: 17137633
+  localCover: /embeds/books/hellblazer-volume-6-bloodlines.jpg
+  name: 'Hellblazer, Volume 6: Bloodlines'
+  url: /book/show/17137633.hellblazer-volume-6-bloodlines
 'Hellboy in Hell, Vol. 1: The Descent':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
@@ -5925,7 +5932,7 @@ The Chronicles of Amber:
   id: 316876
   localCover: /embeds/books/the-chronicles-of-amber.jpg
   name: The Chronicles of Amber
-  series: 'The Chronicles of Amber #1-5 '
+  series: 'The Chronicles of Amber #1-5'
   series_index: null
   url: /book/show/316876.the-chronicles-of-amber
 The Color of Magic:
@@ -6363,7 +6370,7 @@ The Great Book of Amber:
   id: 5367
   localCover: /embeds/books/the-great-book-of-amber.jpg
   name: The Great Book of Amber
-  series: 'The Chronicles of Amber #1-10 '
+  series: 'The Chronicles of Amber #1-10'
   series_index: null
   url: /book/show/5367.the-great-book-of-amber
 The Great Hunt:
@@ -7605,7 +7612,7 @@ Treasure of Khan:
 'Treasure of Khan ':
   author: Clive Cussler
   id: 34596
-  name: 'Treasure of Khan '
+  name: 'Treasure of Khan'
   series: Dirk Pitt
   series_index: 19
   url: /book/show/34596.treasure-of-khan
@@ -8081,6 +8088,13 @@ Wrath of Empire:
   series: Gods of Blood and Powder
   series_index: 2
   url: /book/show/28811018.wrath-of-empire
+'Writing An Interpreter In Go':
+  author: Thorsten Ball
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480949814l/32681092._SX98_.jpg
+  id: 32681092
+  localCover: /embeds/books/writing-an-interpreter-in-go.jpg
+  name: 'Writing An Interpreter In Go'
+  url: /book/show/32681092.writing-an-interpreter-in-go
 Wyrd Sisters:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1275974472l/34504.jpg

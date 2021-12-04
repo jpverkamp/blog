@@ -23,7 +23,7 @@ while True:
     date = input(f'Date for review (default {date}): ') or date
     year = date[:4]
 
-    title = input('Title: ')
+    title = input('Title: ').strip()
 
     print()
     book = goodreads.get_book(title)
