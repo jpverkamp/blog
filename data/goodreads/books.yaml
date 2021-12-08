@@ -2777,6 +2777,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-5-dangerous-habits.jpg
   name: 'Hellblazer, Vol. 5: Dangerous Habits'
   url: /book/show/15799394.hellblazer-vol-5-dangerous-habits
+'Hellblazer, Vol. 7: Tainted Love':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391953626l/17797407._SX98_.jpg
+  id: 17797407
+  localCover: /embeds/books/hellblazer-vol-7-tainted-love.jpg
+  name: 'Hellblazer, Vol. 7: Tainted Love'
+  url: /book/show/17797407.hellblazer-vol-7-tainted-love
 'Hellblazer, Volume 6: Bloodlines':
   author: Garth Ennis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370839683l/17137633._SX98_.jpg
@@ -7612,7 +7619,7 @@ Treasure of Khan:
 'Treasure of Khan ':
   author: Clive Cussler
   id: 34596
-  name: 'Treasure of Khan'
+  name: Treasure of Khan
   series: Dirk Pitt
   series_index: 19
   url: /book/show/34596.treasure-of-khan
@@ -8088,12 +8095,12 @@ Wrath of Empire:
   series: Gods of Blood and Powder
   series_index: 2
   url: /book/show/28811018.wrath-of-empire
-'Writing An Interpreter In Go':
+Writing An Interpreter In Go:
   author: Thorsten Ball
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480949814l/32681092._SX98_.jpg
   id: 32681092
   localCover: /embeds/books/writing-an-interpreter-in-go.jpg
-  name: 'Writing An Interpreter In Go'
+  name: Writing An Interpreter In Go
   url: /book/show/32681092.writing-an-interpreter-in-go
 Wyrd Sisters:
   author: Terry Pratchett
