@@ -297,6 +297,15 @@ American Gods:
   series: American Gods
   series_index: null
   url: /book/show/4407.american-gods
+An Alchemy of Masques and Mirrors:
+  author: Curtis Craddock
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510866696l/31702733._SX98_.jpg
+  id: 31702733
+  localCover: /embeds/books/an-alchemy-of-masques-and-mirrors.jpg
+  name: An Alchemy of Masques and Mirrors
+  series: The Risen Kingdoms
+  series_index: 1
+  url: /book/show/31702733.an-alchemy-of-masques-and-mirrors
 Ancillary Justice:
   author: Ann Leckie
   cover: https://images.gr-assets.com/books/1397215917l/17333324.jpg
@@ -2784,6 +2793,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-7-tainted-love.jpg
   name: 'Hellblazer, Vol. 7: Tainted Love'
   url: /book/show/17797407.hellblazer-vol-7-tainted-love
+'Hellblazer, Vol. 8: Rake at the Gates of Hell':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397911798l/18490859._SX98_.jpg
+  id: 18490859
+  localCover: /embeds/books/hellblazer-vol-8-rake-at-the-gates-of-hell.jpg
+  name: 'Hellblazer, Vol. 8: Rake at the Gates of Hell'
+  url: /book/show/18490859.hellblazer-vol-8-rake-at-the-gates-of-hell
 'Hellblazer, Volume 6: Bloodlines':
   author: Garth Ennis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370839683l/17137633._SX98_.jpg

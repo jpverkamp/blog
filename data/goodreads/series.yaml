@@ -2292,6 +2292,14 @@ The Reckoners:
   id: 93010
   name: The Reckoners
   url: /series/93010.the-reckoners
+The Risen Kingdoms:
+  books:
+    1: An Alchemy of Masques and Mirrors
+    2: A Labyrinth of Scions and Sorcery
+    3: The Last Uncharted Sky
+  id: 188333
+  name: The Risen Kingdoms
+  url: /series/188333.the-risen-kingdoms
 The Runelords:
   books:
     '0.5': Barbarians

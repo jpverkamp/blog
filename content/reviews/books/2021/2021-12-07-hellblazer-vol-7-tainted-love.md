@@ -3,6 +3,8 @@ title: "Hellblazer, Vol. 7: Tainted Love"
 date: 2021-12-07
 reviews/lists:
 - 2021 Book Reviews
+reviews/series:
+- Hellblazer
 ---
 {{< goodreads book="Hellblazer, Vol. 7: Tainted Love" cover="true" >}}
 
