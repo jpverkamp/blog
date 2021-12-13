@@ -4437,6 +4437,13 @@ Pippi Longstocking:
   series: "Pippi L\xE5ngstrump"
   series_index: 1
   url: /book/show/19302.pippi-longstocking
+Pippi in the South Seas:
+  author: Astrid Lindgren
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619590602l/48899588._SX318_.jpg
+  id: 19307
+  localCover: /embeds/books/pippi-in-the-south-seas.jpg
+  name: Pippi in the South Seas
+  url: /book/show/19307.pippi-in-the-south-seas
 Polar Shift:
   author: Clive Cussler
   cover: https://images.gr-assets.com/books/1389533006l/41699.jpg
