@@ -4,6 +4,10 @@ date: 2021-07-18 00:00:00
 generated: true
 reviews/lists:
 - 2021 Book Reviews
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [1x4+]
 ---
 {{< goodreads book="The House in the Cerulean Sea" cover="true" >}}
 
