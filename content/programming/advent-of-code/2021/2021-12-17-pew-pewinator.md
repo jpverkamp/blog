@@ -107,14 +107,16 @@ Okay, next up, we want to find all of the possible points that could impact. I e
 
 There's a bit of a caveat to that though, because you don't want to just keep going on forever. So instead, what I did was start at an initial velocity of `(0, 0)` (just let the probe drop) and then scan 'outwards'. So `(0, -1)`, `(1, 0)`, and `(0, 1)`. Then all 2 distance ones, etc. Eventually, we would start hitting the target... and the assumption was that once we stopped hitting it for an entire offset, we would be done.
 
-Turns out, that wasn't quite correct. There are actually two sets of answers: those that lob the probe really high up (high initial velocity) and those that aim lower or even down. Once you've found both sets though, you're done:
+Turns out, that wasn't quite correct. There are actually multiple sets of answers. For example, those that lob the probe really high up (high initial velocity) and those that aim lower or even down. Once you've found all the sets though, you're done:
 
 ```python
-def all_impacts(target) -> Generator[Tuple[Probe, int], None, None]:
+def all_impacts(target: Rect, phases: int = 2) -> Generator[Tuple[Probe, int], None, None]:
     logging.info(f'all_impacts({target=}), starting')
 
     origin = Point(0, 0)
     phase = 0
+
+    # Original thoughts:
 
     # Even phases mean that you haven't seen an impact yet
     # Odd phases mean you're currently scanning an 'impact zone'
@@ -125,6 +127,9 @@ def all_impacts(target) -> Generator[Tuple[Probe, int], None, None]:
     # 2: between the zones
     # 3: second impact zone
     # 4: done scanning
+
+    # Later thoughts:
+    # Apparently there are 6 blocks of solutions total...
 
     for offset in itertools.count(1):
         logging.info(f'all_impacts({target=}), {offset=}, {phase=}')
@@ -150,7 +155,7 @@ def all_impacts(target) -> Generator[Tuple[Probe, int], None, None]:
         elif phase % 2 == 1 and not at_least_one_impact:
             phase += 1
 
-        if phase == 4:
+        if phase == phases * 2:
             break
 ```
 
@@ -177,7 +182,10 @@ Feel like cheating.
 ```bash
 $ python3 pew-pewinator.py part1 input.txt
 2850
+# time 729939625ns / 0.73s
 ```
+
+Quick enough at least. 
 
 #### **Part 2:** Count the number of *all* possible initial velocities (x, y) that end up in the target. 
 
@@ -191,7 +199,7 @@ def part2(file: typer.FileText):
 
     valid_probes = []
 
-    for probe, coolness in all_impacts(target):
+    for probe, coolness in all_impacts(target, 5):
         valid_probes.append(probe)
 
     logging.info('All valid probes:')
@@ -201,11 +209,13 @@ def part2(file: typer.FileText):
     print(len(valid_probes))
 ```
 
-Yup:
+It's ugly... and I have no really good reason for why there are 5 sets of solutions. I should graph the phase space. 
 
 ```bash
 $ python3 pew-pewinator.py part2 input.txt
-202
+1117
+# time 34581116542ns / 34.58s
 ```
 
-I'm not 100% sure there aren't a few missing edge cases (perhaps a very thin/small target area?) but it works well enough. Onward!
+And it's slow. I may come back to this one... but not for now. 
+
