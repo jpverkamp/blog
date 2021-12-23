@@ -187,6 +187,8 @@ $ python3 pew-pewinator.py part1 input.txt
 
 Quick enough at least. 
 
+<!--more-->
+
 #### **Part 2:** Count the number of *all* possible initial velocities (x, y) that end up in the target. 
 
 Well, we already did that. Does it have the right answer?
