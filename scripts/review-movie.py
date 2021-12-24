@@ -89,7 +89,7 @@ while True:
 title: "{title}"
 date: {date}
 reviews/lists:
-- {year} Movie Reviews
+- {year} {"TV" if content_type == "tv" else "Movie"} Reviews
 ''')
         #yaml.dump({'data': {'imdb': dict(movie)}}, fout, default_flow_style=False)
         fout.write(f'''---
