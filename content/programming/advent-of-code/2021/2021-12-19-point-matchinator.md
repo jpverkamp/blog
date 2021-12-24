@@ -1,6 +1,6 @@
 ---
 title: "AoC 2021 Day 19: Point Matchinator"
-date: 2021-12-18 00:00:05
+date: 2021-12-19 00:00:05
 programming/languages:
 - Python
 programming/sources:
