@@ -339,3 +339,23 @@ Huh. Other than the flashing, that's not actually that cool. Eating away at the 
 
 Now I wonder how long it takes to completely clear...
 
+#### Finding emptiness
+
+```python
+def find_emptiness(file: typer.FileText):
+
+    f = BinaryMapping.read(file)
+    file.readline()
+    bitmap = InfiniteBitmap.read(file)
+
+    generation = 0
+    while len(bitmap):
+        bitmap = f(bitmap)
+        generation += 1
+
+    print(generation)
+```
+
+How long?
+
+It's still running...
