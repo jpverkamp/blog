@@ -9,7 +9,7 @@ series:
 - Advent of Code 2021
 programming/topics:
 - Algorithms
-- A*
+- A-Star
 - Optimization
 - Data Structures
 ---

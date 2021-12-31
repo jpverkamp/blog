@@ -7,6 +7,9 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Algorithms
+- Seven Segment Displays
 ---
 ### Source: [Seven Segment Search](https://adventofcode.com/2021/day/8)
 

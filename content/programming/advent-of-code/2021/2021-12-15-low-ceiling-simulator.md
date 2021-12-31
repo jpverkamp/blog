@@ -9,7 +9,7 @@ series:
 - Advent of Code 2021
 programming/topics:
 - Algorithms
-- A*
+- A-Star
 - Optimization
 ---
 ### Source: [Chiton](https://adventofcode.com/2021/day/15)

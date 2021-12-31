@@ -10,7 +10,7 @@ series:
 programming/topics:
 - Algorithms
 - Optimization
-- A*
+- A-Star
 ---
 ### Source: [Amphipod](https://adventofcode.com/2021/day/23)
 
