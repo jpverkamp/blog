@@ -7,10 +7,17 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Algorithms
+- A*
+- Optimization
+- Data Structures
 ---
 ### Source: [Passage Pathing](https://adventofcode.com/2021/day/12)
 
 #### **Part 1:** Given a list of edges in a bi-directional graph, count the number of paths from `start` to `end` such that nodes named with lowercase letters are visited once, and nodes with uppercase letters can be visited any number of times. 
+
+<!--more-->
 
 Interesting. First, let's define a graph structure:
 
@@ -86,8 +93,6 @@ Note: If there are ever two or more 'big' nodes adjacent to each other, this wil
 $ python3 submarine-spider.py part1 input.txt
 4749
 ```
-
-<!--more-->
 
 #### **Part 2:** Repeat Part 1, but you are allowed to visit a single lowercase node more than once (although you do not have to). Count the number of paths. 
 

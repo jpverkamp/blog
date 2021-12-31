@@ -7,10 +7,14 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Data Structures
 ---
 ### Source: [Snailfish](https://adventofcode.com/2021/day/18)
 
 #### **Part 1:** Given the following definition of Snailfish numbers, add a series of Snailfish numbers and return the magnitude of the result.
+
+<!--more-->
 
 * A `Snailfish` number is defined as a pair {{< inline-latex "\langle a, b \rangle" >}} where `a` and `b` can either by integers or nested `Snailfish` number
 * To add two `Snailfish` numbers, {{< inline-latex "c + d = \langle c, d \rangle" >}}
@@ -243,8 +247,6 @@ $ python3 pairs-of-pairs.py part1 input.txt
 ```
 
 That was a ... very strange/convoluted problem, but it was an interesting example of why data structures (and being able to convert between one another) is worthwhile. 
-
-<!--more-->
 
 #### **Part 2:** Find the pair of Snailfish numbers in your input with the largest magnitude of their sums.
 

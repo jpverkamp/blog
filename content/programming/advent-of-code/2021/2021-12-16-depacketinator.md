@@ -7,10 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Data Structures
+- Network
+- Parsing
 ---
 ### Source: [Packet Decoder](https://adventofcode.com/2021/day/16)
 
 #### **Part 1:** Given a recursive binary packet definition (see below), parse the given packet. Return the sum of each packet's `version`.
+
+<!--more-->
 
 All packet fields are in bits. Possible packet formats:
 
@@ -293,8 +299,6 @@ Turns out, you absolutely need to have the correct lengths for nested operator p
 Oh, debuggging. 
 
 I really should be writing better test cases, but in this case, that wouldn't have necessarily helped. I *knew* which test was failing, I just didn't know (at first) *why*. Live and learn. 
-
-<!--more-->
 
 #### **Part 2:** Given the following `type_id` to function mappings, evaluate the packet. 
 

@@ -7,10 +7,15 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Data Structures
+- Mathematics
 ---
 ### Source: [Snailfish](https://adventofcode.com/2021/day/19)
 
 #### **Part 1:** You will be given a series of Scanners, each of which will tell you the location (from their point of view) of a series of Beacons. Each Scanner may be flipped or rotated in increments of 90 degrees in any direction. Determine where each Scanner and Beacon is by overlaying the maps (with at least pairwise 12 matches). 
+
+<!--more-->
 
 That... was quite a problem to get right. It's a lot of match to make sure that the various coordinate systems can be converted between one another and computationally expensive to brute force. I haven't gotten this one much below 10 minutes... but at this point, I'm just going to have to call it. It's a crazy problem. 
 
@@ -235,8 +240,6 @@ $ python3 point-matchinator.py part1 input.txt
 ```
 
 Yeah. That's slow. But it works and at this point, that's enough for me. 
-
-<!--more-->
 
 #### **Part 2:** Find the largest Manhattan Distance between any two Scanners. 
 

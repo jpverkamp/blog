@@ -7,10 +7,18 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Optimization
+- Lexing
+- Parsing
+- Data Structures
+- Mathematics
 ---
 ### Source: [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24)
 
 #### **Part 1:** Simulate an ALU with 4 registers (`w`, `x`, `y`, and `z`) and instructions defined below. Find the largest 14 digit number with no 0 digits which result in `z=0`. 
+
+<!--more-->
 
 > Instructions:
 > * `inp a` - read the next input value into register `a`
@@ -934,8 +942,6 @@ $ python3 aluinator.py run input.txt 99995969919326
 BAM! And the first 4 digits were all 9, so it wouldn't have taken 63 years... just 30 weeks. Yay 2022 I suppose? 
 
 That is very cool. It's not nearly as 'code' as many of the other solutions, but it's still pretty awesome IMO. 
-
-<!--more-->
 
 #### **Part 2:** Find the smallest such 14 digit number with no 0 digits such that `z=0`.
 

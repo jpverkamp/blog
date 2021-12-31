@@ -12,6 +12,8 @@ series:
 
 #### **Part 1:** Simulate a projectile with an integer initial velocity (x, y), air resistance that tries to reduce x-velocity to 0, and gravity that increases y-velocity by 1 each time. Given a target range, find the highest point reached by a projectile that ends a tick (not one that crosses over) within the target area. 
 
+<!--more-->
+
 Oh goodness, this one got weird. Let's start with data structures. A point:
 
 ```python
@@ -186,8 +188,6 @@ $ python3 pew-pewinator.py part1 input.txt
 ```
 
 Quick enough at least. 
-
-<!--more-->
 
 #### **Part 2:** Count the number of *all* possible initial velocities (x, y) that end up in the target. 
 

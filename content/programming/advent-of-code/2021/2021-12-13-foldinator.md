@@ -12,6 +12,8 @@ series:
 
 #### **Part 1:** Given a set of points and a sequence of 'fold' lines (where you either fold the bottom over the top or right over left), determine how many points exist after the first fold. 
 
+<!--more-->
+
 First, data structures:
 
 ```python
@@ -101,8 +103,6 @@ $ python3 foldinator.py part1 input.txt
 ```
 
 Heh. 
-
-<!--more-->
 
 #### **Part 2:** After all defined folds, what letters are revealed?
 

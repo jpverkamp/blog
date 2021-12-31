@@ -7,10 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Algorithms
+- Optimization
+- Games
 ---
 ### Source: [Dirac Dice](https://adventofcode.com/2021/day/21)
 
 #### **Part 1:** Play a simple game (describe below) with a loaded D100 (that always rolls 1, 2, 3, ... 99, 100, 1, ...). Return the score of the losing player times the number of times the die was rolled.
+
+<!--more-->
 
 * The board has a circle of 10 squares, numbered 1-10
 * The player pieces start on given squares
@@ -131,8 +137,6 @@ $ python3 dicinator.py part1 input.txt
 1 wins, 752247
 # time 45107958ns / 0.05s
 ```
-
-<!--more-->
 
 #### **Part 2:** Instead of the loaded die, you have a 3-sided quantum Dirac Die. Every time it rolls, split into 3 universes (rolling a 1, 2, or 3). Changing the target score to only 21, calculate the number of universes in which the player who wins more matches wins. 
 

@@ -7,10 +7,15 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Data Structures
+- Graphics
 ---
 ### Source: [Smoke Basin](https://adventofcode.com/2021/day/9)
 
 #### **Part 1:** Given a heightmap, find all local minimums. Return the sum of (minimum height + 1) for each local minimum. 
+
+<!--more-->
 
 First, as is often the case, let's load the data:
 
@@ -52,8 +57,6 @@ def part1(file: typer.FileText):
 $ python3 local-minimum-deminifier.py part1 input.txt
 total_risk=491
 ```
-
-<!--more-->
 
 #### **Part 2:** Calculate 'basins', regions of the heightmap surrounded by heights of 9. Return the product of the size of the three largest basins.
 

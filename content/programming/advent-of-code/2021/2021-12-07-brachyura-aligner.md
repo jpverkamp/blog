@@ -12,6 +12,8 @@ series:
 
 #### **Part 1:** Given a list of numbers, find the minimum integer `I` such the sum difference of each number and I is minimized. 
 
+<!--more-->
+
 There is probably a fancy number theory way of doing it to solve directly for `I`, but it's a really quick problem to brute force:
 
 ```python
@@ -42,8 +44,6 @@ target=323, fuel=336040
 ```
 
 Quick.
-
-<!--more-->
 
 #### **Part 2:** Instead of using the distance function `|I-n|`, instead use `d(1)=1, d(2)=3, d(3)=6`, etc (the {{< wikipedia "triangular numbers" >}}). 
 

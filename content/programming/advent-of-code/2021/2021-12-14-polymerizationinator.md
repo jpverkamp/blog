@@ -12,6 +12,7 @@ series:
 
 #### **Part 1:** Given a complete function `f(a, b) -> c` where any string `ab` becomes `acb` and an input string, apply the function at the same time to every (overlapping) pair of letters. Repeat this time times. Report the difference in counts between the most and least common letters in the final situation. 
 
+<!--more-->
 
 Okay. First try, let's just solve this directly. Although, since we know that we're going to be inserting into the middle of the list constantly, we can be slightly more efficient by using a {{< wikipedia "linked list" >}}:
 
@@ -127,8 +128,6 @@ $ python3 polymerizationinator.py direct input.txt 10
 So that's all she wrote, right? 
 
 Well...
-
-<!--more-->
 
 #### **Part 2:** Do the same for 40 iterations (instead of 10). 
 

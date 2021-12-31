@@ -7,10 +7,15 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Cellular Automata
+- Generative Art
 ---
 ### Source: [Latternfish](https://adventofcode.com/2021/day/6)
 
 #### **Part 1:** Simulate a population of lanternfish. Each fish is immortal, starts having children after 9 days, and has another child after 7 more days. Calculate the number of fish after 80 days.
+
+<!--more-->
 
 I can almost guarantee that part 2 will be scaling up significantly, so the obvious answer of keeping a list of ages and simulating each will... probably get very slow. Instead, we don't care at all about individual fish, let's just keep their ages:
 
@@ -105,8 +110,6 @@ $ python3 we-all-glow-down-here.py 80 input.txt
 ```
 
 Fin. 
-
-<!--more-->
 
 #### **Part 2:** Run the simulation for 256 days.
 

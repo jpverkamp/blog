@@ -7,10 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Cellular Automata
+- Data Structures
+- Generative Art
 ---
 ### Source: [Trench Map](https://adventofcode.com/2021/day/20)
 
 #### **Part 1:** Given a 9->1 {{< wikipedia "cellular automota" >}} update function (take the pixel and 8 surrounding pixels as a 9-bit index into the function) and a binary image, apply the function twice and count the number of 'lit' pixels. Assume that the canvas is infinite. 
+
+<!--more-->
 
 That was fun! 
 
@@ -219,8 +225,6 @@ $ python3 enhancinator.py part1 input.txt
 ```
 
 Not bad!
-
-<!--more-->
 
 #### **Part 2:** Apply the same function 50 times and count the number of lit pixels.
 

@@ -7,10 +7,18 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Cellular Automata
+- Data Structures
+- Generative Art
+- Mathematics
 ---
 ### Source: [Dumbo Octopus](https://adventofcode.com/2021/day/11)
 
 #### **Part 1:** Simulate a grid of numbers such that on each tick: advance all numbers by 1, any number that increases over 9 will 'flash' and add 1 to all neighbors (recursively, but each cell can only flash once) and then reset to 0. Count the number of flashes in the first 100 ticks. 
+
+
+<!--more-->
 
 DIRECT SIMULATION.
 
@@ -116,8 +124,6 @@ How many flashes?
 $ python3 octopus-flashinator.py part1 input.txt
 1679
 ```
-
-<!--more-->
 
 #### **Part 2:** Find the first frame where all of the points flash at the same time. 
 

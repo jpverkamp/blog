@@ -7,10 +7,17 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Algorithms
+- Mathematics
+- Optimization
+- Data Structures
 ---
 ### Source: [Reactor Reboot](https://adventofcode.com/2021/day/22)
 
 #### **Part 1:** Given a series of 3D cubes that either turn ON all or turn OFF all points in their region, calculate how many points in the region (-50..50,-50..50,-50..50) are ON at the end.
+
+<!--more-->
 
 Wow. This one took me literal days of work to get working for some reason. I actually got to writing unit tests, which is saying something. :D And then after I had one aha moment (changing from cube to edge focussed, see later), it worked basically immediately. Oh data structure choices. 
 
@@ -357,8 +364,6 @@ $ python3 cubinator.py part1 input.txt
 590467
 # time 33116921042ns / 33.12s
 ```
-
-<!--more-->
 
 #### **Part 2:** Do the same without the -50..50 limit.
 

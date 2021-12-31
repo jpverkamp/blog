@@ -7,10 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Algorithms
+- Optimization
+- A*
 ---
 ### Source: [Amphipod](https://adventofcode.com/2021/day/23)
 
 #### **Part 1:** Given 4 rooms full of amphipods with various energy costs for movement (a=1, b=10, c=100, d=1000) and a hallway, how much energy does it take (at minimum) to sort the amphipods into their own rooms with the following conditions:
+
+<!--more-->
 
 * Amphipods will move from rooms into the hallway, but will not stop on the space immediately outside of any room
 * Amphipods will not enter a room other than their own
@@ -366,8 +372,6 @@ states examined: 156876
 ```
 
 Nice! It examined 150k versus 900k states (6x fewer) and ran 5x as fast! That will help with part 2 I'm sure. :D
-
-<!--more-->
 
 #### **Part 2:** Add two more (given) amphipods to each room, solve for least energy.
 

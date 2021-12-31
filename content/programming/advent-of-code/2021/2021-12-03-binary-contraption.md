@@ -7,6 +7,8 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Bitfields
 ---
 ### Source: [Binary Diagnostic](https://adventofcode.com/2021/day/3)
 

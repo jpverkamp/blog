@@ -7,10 +7,15 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Parsing
+- Data Structures
 ---
 ### Source: [Syntax Scoring](https://adventofcode.com/2021/day/10)
 
 #### **Part 1:** Given a sequence of () [] {}, and <> with nesting allowed. Find the first syntax error (where the wrong closing symbol is used). Scoring 3, 57, 1197, and 25137 respectively for each error, calculate the total error score. 
+
+<!--more-->
 
 Interesting. Let's use Python exceptions! 
 
@@ -83,8 +88,6 @@ I like it when the parsing function does most of the work!
 $ python3 chunkinator.py part1 input.txt
 167379
 ```
-
-<!--more-->
 
 #### **Part 2:** Skip lines with errors from Part 1. Instead, find the sequence of characters that would correctly complete all open matches and convert it to a base 5 number with ), ], }, and > as 1, 2, 3, and 4 respectively (no 0). Find the mean score of all completed lines. 
 

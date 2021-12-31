@@ -12,6 +12,8 @@ series:
 
 #### **Part 1:** Simulate a {{< wikipedia "seven segment displey" >}} where you do not know which input wire controls which segment. Given the wires used in all ten digits and four output digits, count how many times 1, 4, 7, and 8 are outputted. 
 
+<!--more-->
+
 This one took me *far* longer to work out than I'd care to admit. And it wasn't at all because I had the wrong approach (I went for brute force again), but rather because I had *mistyped one character* in my input. Bah humbug. That's why you write tests... Oy.
 
 Like I mentioned, I'm just going to try to brute force this problem. It will be slower than using their advice (the advice being that there is always 1 input with two segments (one) and 1 with 3 (seven). Instead, brute forcing all ten digits makes for much cleaner code. First, let's set up some constants:
@@ -117,8 +119,6 @@ Yeah... that's it!
 $ python3 seven-segment-demystifier.py part1 input.txt
 349
 ```
-
-<!--more-->
 
 #### **Part 2:** Calculate the sum of all of the 4 digit output numbers. 
 

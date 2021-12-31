@@ -7,10 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2021
+programming/topics:
+- Algorithms
+- A*
+- Optimization
 ---
 ### Source: [Chiton](https://adventofcode.com/2021/day/15)
 
 #### **Part 1:** Given a grid of weights, find the minimum path from top left to top right. Return the total weight along that path. 
+
+<!--more-->
 
 A fairly standard thing to have to do, ripe for the {{< wikipedia "A* search algorithm" >}}. Which eventually I'll get to, but I'll admit, it wasn't the first algorithm I tried. :smile:
 
@@ -110,17 +116,15 @@ More or less exactly what I described in the psuedo-code, just much longer.
 
 Okay, let's see what part 2 has in store for us!
 
-<!--more-->
-
 #### **Part 2:** Extend the map 5x in each direction. Each time you copy the map right/down, increase all values by 1, wrapping 10 back to 1. Calculate the new shortest path.
 
 Yeah. That's what I was worried about. It was already taking 2 seconds for a 100x100 grid and now we have to do 500x500. And that's not just 25 times as many paths... Even if you assume you can only go right or down (we'll come back to that), that's still a lot of paths...
 
 {{< latex >}}
 paths(N) = \binom{2(N-1)}{N-1}
-{{< latex >}}
+{{< /latex >}}
 
-{{< inline-latex "paths(10, 10) = 48,620" >}}, {{< inline-latex "paths(100, 100) = 2.27x10^58" >}}, {{< inline-latex "paths(500) = 6.76x10^298" >}}
+{{< inline-latex "paths(10, 10) = 48620" >}}, {{< inline-latex "paths(100, 100) = 2.27x10^{58}" >}}, {{< inline-latex "paths(500) = 6.76x10^{298}" >}}
 
 Yeah. That grows fast. The algorithm that I wrote in part 1 certainly doesn't check all of those, but it's still far slower than I'd like:
 
