@@ -2,7 +2,7 @@
 title: "Squid Game"
 date: 2021-10-21
 reviews/lists:
-- 2021 Movie Reviews
+- 2021 TV Reviews
 source:
 - Netflix
 ---
