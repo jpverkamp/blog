@@ -877,27 +877,27 @@ Hellblazer:
     3: 'Hellblazer, Vol. 3: The Fear Machine'
     4: 'Hellblazer, Vol. 4: The Family Man'
     5: 'Hellblazer, Vol. 5: Dangerous Habits'
-    6: 'Hellblazer, Volume 6: Bloodlines'
+    6: 'Hellblazer, Vol. 6: Bloodlines'
     7: 'Hellblazer, Vol. 7: Tainted Love'
     8: 'Hellblazer, Vol. 8: Rake at the Gates of Hell'
-    9: 'Hellblazer, Volume 9: Critical Mass'
-    10: 'Hellblazer, Volume 10: In the Line of Fire'
-    11: 'Hellblazer, Volume 11: Last Man Standing'
-    12: 'Hellblazer, Volume 12: How to Play with Fire'
-    13: 'Hellblazer, Volume 13: Haunted'
-    14: 'Hellblazer, Volume 14: Good Intentions'
-    15: 'Hellblazer, Volume 15: Highwater'
-    16: 'Hellblazer, Volume 16: The Wild Card'
-    17: 'Hellblazer, Volume 17: Out of Season'
-    18: 'Hellblazer, Volume 18: The Gift'
-    19: 'Hellblazer, Volume 19: The Red Right Hand'
-    20: 'Hellblazer, Volume 20: Systems of Control'
-    21: 'Hellblazer, Volume 21: The Laughing Magician'
-    22: 'Hellblazer, Volume 22: Regeneration'
-    23: 'Hellblazer, Volume 23: No Future'
-    24: 'Hellblazer, Volume 24: Sectioned'
-    25: 'Hellblazer, Volume 25: Another Season'
-    26: 'Hellblazer, Volume 26: The Curse of the Constantines'
+    9: 'Hellblazer, Vol. 9: Critical Mass'
+    10: 'Hellblazer, Vol. 10: In the Line of Fire'
+    11: 'Hellblazer, Vol. 11: Last Man Standing'
+    12: 'Hellblazer, Vol. 12: How to Play with Fire'
+    13: 'Hellblazer, Vol. 13: Haunted'
+    14: 'Hellblazer, Vol. 14: Good Intentions'
+    15: 'Hellblazer, Vol. 15: Highwater'
+    16: 'Hellblazer, Vol. 16: The Wild Card'
+    17: 'Hellblazer, Vol. 17: Out of Season'
+    18: 'Hellblazer, Vol. 18: The Gift'
+    19: 'Hellblazer, Vol. 19: The Red Right Hand'
+    20: 'Hellblazer, Vol. 20: Systems of Control'
+    21: 'Hellblazer, Vol. 21: The Laughing Magician'
+    22: 'Hellblazer, Vol. 22: Regeneration'
+    23: 'Hellblazer, Vol. 23: No Future'
+    24: 'Hellblazer, Vol. 24: Sectioned'
+    25: 'Hellblazer, Vol. 25: Another Season'
+    26: 'Hellblazer, Vol. 26: The Curse of the Constantines'
   id: 121469
   name: Hellblazer
   url: /series/121469.hellblazer-new-editions
@@ -1124,12 +1124,12 @@ Little House:
   url: /series/40412.little-house
 Locke & Key:
   books:
-    1: 'Vol. 1: Welcome to Lovecraft'
-    2: 'Vol. 2: Head Games'
-    3: 'Vol. 3: Crown of Shadows'
-    4: 'Vol. 4: Keys to the Kingdom'
-    5: 'Vol. 5: Clockworks'
-    6: 'Vol. 6: Alpha & Omega'
+    1: 'Locke & Key, Vol. 1: Welcome to Lovecraft'
+    2: 'Locke & Key, Vol. 2: Head Games'
+    3: 'Locke & Key, Vol. 3: Crown of Shadows'
+    4: 'Locke & Key, Vol. 4: Keys to the Kingdom'
+    5: 'Locke & Key, Vol. 5: Clockworks'
+    6: 'Locke & Key, Vol. 6: Alpha & Omega'
   id: 49478
   name: Locke & Key
   url: /series/49478.locke-key
@@ -1779,6 +1779,20 @@ The Academy:
   id: 42777
   name: The Academy
   url: /series/42777.the-academy
+The Borrowers:
+  books:
+    1: The Borrowers
+    2: The Borrowers Afield
+    3: The Borrowers Afloat
+    4: 'The Borrowers Aloft: With the Short Tale Poor Stainless'
+    4.5: 'Poor Stainless: A New Story about the Borrowers'
+    5: The Borrowers Avenged
+    1-4: The Complete Adventures of the Borrowers
+    1-2: Los incursores
+    1-5: The Borrowers Collection
+  id: 53922
+  name: The Borrowers
+  url: /series/53922.the-borrowers
 The Boxcar Children:
   books:
     1: The Boxcar Children
@@ -2252,6 +2266,17 @@ The Kingkiller Chronicle:
   id: 45262
   name: The Kingkiller Chronicle
   url: /series/45262.the-kingkiller-chronicle
+The Locked Tomb:
+  books:
+    0.5: The Mysterious Study of Doctor Sex
+    1: Gideon the Ninth
+    2: Harrow the Ninth
+    2.5: As Yet Unsent
+    3: Nona the Ninth
+    4: Alecto the Ninth
+  id: 229503
+  name: The Locked Tomb
+  url: /series/229503.the-locked-tomb
 The Lord of the Rings:
   books:
     1: The Fellowship of the Ring

@@ -1254,6 +1254,13 @@ Clan Rathskeller:
   series: The Iron Druid Chronicles
   series_index: 0.5
   url: /book/show/10324651.clan-rathskeller
+Clap When You Land:
+  author: Elizabeth Acevedo
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570558443l/52516332._SX318_SY475_.jpg
+  id: 52516332
+  localCover: /embeds/books/clap-when-you-land.jpg
+  name: Clap When You Land
+  url: /book/show/52516332.clap-when-you-land
 Clariel:
   author: Garth Nix
   cover: https://images.gr-assets.com/books/1393877442l/20662728.jpg
@@ -2751,6 +2758,13 @@ Head of the Dragon:
   series: The Frontiers Saga
   series_index: 6
   url: /book/show/17336361.head-of-the-dragon
+'Hellblazer, Vol. 10: In the Line of Fire':
+  author: Paul Jenkins
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640578674l/22338433._SX98_.jpg
+  id: 22338433
+  localCover: /embeds/books/hellblazer-vol-10-in-the-line-of-fire.jpg
+  name: 'Hellblazer, Vol. 10: In the Line of Fire'
+  url: /book/show/22338433.hellblazer-vol-10-in-the-line-of-fire
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg
@@ -2800,6 +2814,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-8-rake-at-the-gates-of-hell.jpg
   name: 'Hellblazer, Vol. 8: Rake at the Gates of Hell'
   url: /book/show/18490859.hellblazer-vol-8-rake-at-the-gates-of-hell
+'Hellblazer, Vol. 9: Critical Mass':
+  author: Paul Jenkins
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640580033l/21556013._SX98_.jpg
+  id: 21556013
+  localCover: /embeds/books/hellblazer-vol-9-critical-mass.jpg
+  name: 'Hellblazer, Vol. 9: Critical Mass'
+  url: /book/show/21556013.hellblazer-vol-9-critical-mass
 'Hellblazer, Volume 6: Bloodlines':
   author: Garth Ennis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370839683l/17137633._SX98_.jpg
@@ -6482,6 +6503,13 @@ The Hobbit:
   series: 'The Hobbit #1 of'
   series_index: 2
   url: /book/show/5907.the-hobbit
+'The Holy Bible: Revised Standard Version, Catholic Edition':
+  author: Anonymous
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534014915l/41121041._SX318_.jpg
+  id: 901125
+  localCover: /embeds/books/the-holy-bible-revised-standard-version-catholic-edition.jpg
+  name: 'The Holy Bible: Revised Standard Version, Catholic Edition'
+  url: /book/show/901125.the-holy-bible-revised-standard-version-catholic-edition
 The Hope of Elantris:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1498083522l/10852065.jpg

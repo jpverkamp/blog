@@ -4,8 +4,14 @@
         <ul>
         {{- $data := or (index (index $.Site.Taxonomies (.Get 0)) (.Get 1)) (index (index $.Site.Taxonomies (.Get 0)) ((.Get 1) | urlize)) -}}
         {{- range $page := $data.Pages.ByDate -}}
-            <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
+            <li>
+                <a href="{{ $page.Permalink }}">
+                    {{ $page.Title }}
+                </a>
+                {{- partial "series.html" $page -}}
+            </li>
         {{- end -}}
         </ul>
     </div>
 </div>
+''
