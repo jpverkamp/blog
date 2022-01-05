@@ -2765,6 +2765,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-10-in-the-line-of-fire.jpg
   name: 'Hellblazer, Vol. 10: In the Line of Fire'
   url: /book/show/22338433.hellblazer-vol-10-in-the-line-of-fire
+'Hellblazer, Vol. 11: Last Man Standing':
+  author: Paul Jenkins
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640581877l/23602583._SX98_.jpg
+  id: 23602583
+  localCover: /embeds/books/hellblazer-vol-11-last-man-standing.jpg
+  name: 'Hellblazer, Vol. 11: Last Man Standing'
+  url: /book/show/23602583.hellblazer-vol-11-last-man-standing
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg

@@ -12,6 +12,8 @@ Fortune telling, Constantine’s father, more evil demons and arguably worse ang
 
 Not a standout volume, but still pretty good. 
 
+Mini reviews (spoilers):
+
 ## The Nature of the Beast 
 ![](/embeds/books/attachments/hellblazer-10-9036fb.png)
 Sure…

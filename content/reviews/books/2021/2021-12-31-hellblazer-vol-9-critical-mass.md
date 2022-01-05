@@ -10,6 +10,8 @@ reviews/series:
 
 Two big stories, a few really trippy dreams, and Constantine managing to push off damnation a bit longer. A neat collection. Critical Mass in particular is worth the read. 
 
+Mini reviews (spoilers):
+
 ## In Another Part of Hell
 ![](/embeds/books/attachments/hellblazer-9-b6eb4a.png)
 
