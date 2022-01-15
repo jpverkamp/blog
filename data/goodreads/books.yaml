@@ -2772,6 +2772,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-11-last-man-standing.jpg
   name: 'Hellblazer, Vol. 11: Last Man Standing'
   url: /book/show/23602583.hellblazer-vol-11-last-man-standing
+'Hellblazer, Vol. 12: How to Play with Fire':
+  author: Paul Jenkins
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640580075l/25430710._SX98_.jpg
+  id: 25430710
+  localCover: /embeds/books/hellblazer-vol-12-how-to-play-with-fire.jpg
+  name: 'Hellblazer, Vol. 12: How to Play with Fire'
+  url: /book/show/25430710.hellblazer-vol-12-how-to-play-with-fire
+'Hellblazer, Vol. 13: Haunted':
+  author: Warren Ellis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640580089l/26150633._SX98_.jpg
+  id: 26150633
+  localCover: /embeds/books/hellblazer-vol-13-haunted.jpg
+  name: 'Hellblazer, Vol. 13: Haunted'
+  url: /book/show/26150633.hellblazer-vol-13-haunted
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg
