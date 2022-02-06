@@ -118,6 +118,15 @@ A Hat Full of Sky:
   series: Discworld
   series_index: 32
   url: /book/show/618145.a-hat-full-of-sky
+A Labyrinth of Scions and Sorcery:
+  author: Curtis Craddock
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530029027l/39863266._SX98_.jpg
+  id: 39863266
+  localCover: /embeds/books/a-labyrinth-of-scions-and-sorcery.jpg
+  name: A Labyrinth of Scions and Sorcery
+  series: The Risen Kingdoms
+  series_index: 2
+  url: /book/show/39863266.a-labyrinth-of-scions-and-sorcery
 A Lion to Guard Us:
   author: Clyde Robert Bulla
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360650095l/945210._SX98_.jpg
@@ -1008,6 +1017,13 @@ Brotherhood of the Wolf:
   series: The Runelords
   series_index: 2
   url: /book/show/144112.brotherhood-of-the-wolf
+Brothers of War The Iron Brigade at Gettysburg:
+  author: Michael Eisenhut
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625091868l/58463378._SY475_.jpg
+  id: 58463378
+  localCover: /embeds/books/brothers-of-war-the-iron-brigade-at-gettysburg.jpg
+  name: Brothers of War The Iron Brigade at Gettysburg
+  url: /book/show/58463378.brothers-of-war-the-iron-brigade-at-gettysburg
 Burn Bright:
   author: Patricia Briggs
   cover: https://images.gr-assets.com/books/1504578632l/35839437.jpg
@@ -7467,6 +7483,15 @@ The Worthing Saga:
   series: Worthing
   series_index: 1-3
   url: /book/show/40304.the-worthing-saga
+The Wyrmling Horde:
+  author: David Farland
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442156208l/2956822._SY475_.jpg
+  id: 2956822
+  localCover: /embeds/books/the-wyrmling-horde.jpg
+  name: The Wyrmling Horde
+  series: Runelords
+  series_index: 7
+  url: /book/show/2956822.the-wyrmling-horde-runelords-7
 The Yellow House Mystery:
   author: Gertrude Chandler Warner
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172264544l/156865.jpg

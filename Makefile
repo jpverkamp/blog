@@ -18,7 +18,7 @@ import-goodreads:
 import: import-flickr import-goodreads
 
 run:
-	sleep 30 && open http://localhost/ &
+	sleep 10 && open http://localhost/ &
 	hugo server --watch --verbose --buildFuture --bind 0.0.0.0 --port 80
 	
 	# docker run --rm -it -p 80:80 \
