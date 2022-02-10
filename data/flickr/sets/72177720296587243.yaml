@@ -1,0 +1,44 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 22
+count_videos: 0
+count_views: '0'
+date_create: '1644506207'
+date_update: '1644506221'
+description: A fun two nights at Clifty Falls Inn. Crazy time getting in with the
+  ice--both main gates were closed (they hadn't cleared the roads) and we had to go
+  in the DNR service entrance. Worth it in the end though.
+farm: 66
+id: '72177720296587243'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '51873859144'
+- '51874182405'
+- '51873616588'
+- '51872578657'
+- '51873859029'
+- '51872578517'
+- '51873858929'
+- '51872578407'
+- '51874182880'
+- '51872578312'
+- '51872578252'
+- '51872578212'
+- '51873616143'
+- '51872578142'
+- '51873541226'
+- '51873616063'
+- '51872578052'
+- '51872578007'
+- '51872577952'
+- '51873615923'
+- '51872577857'
+- '51874182380'
+primary: '51873859144'
+secret: c9bb030c41
+server: '65535'
+title: Clifty Falls
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
