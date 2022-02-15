@@ -7,25 +7,20 @@ comments: False
 [Contact me](mailto:resume@jverkamp.com)
 
 ---
-## Education
-
-### 2011 -- 2014: [Indiana University](https://cs.indiana.edu/)
-
-#### MS in Computer Science
-
-Thesis topic: Security and internet censorship; Minor: Compilers
-
-Originally in the PhD program; passed qualification exams; left with my advisor to join the private sector
-
-### 2006 -- 2010: [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/)
-
-#### BS in Computer Science and Mathematics
-
----
 
 ## Industry Experience
 
-### 2013 -- present: [Edmodo](https://edmodo.com/)
+### 2020 -- present: [Ethos Life](https://www.ethoslife.com/)
+
+#### Senior Security Engineer
+
+* Implemented, maintained, and worked as product design partner with third party solutions for: an AI based WAF and fraud detection, a zero-trust networking solution, and a low level system monitoring solution on workstations and cloud servers. 
+
+* Automated internal access control audits between various systems; participated in SOC2 based audits.
+
+* Implemented centralized vulnerability management system. 
+
+### 2013 -- 2020: [Edmodo](https://edmodo.com/)
 
 #### Senior Security/Operations Engineer
 
@@ -88,6 +83,21 @@ Updated legacy inventory management system while following US Navy coding standa
 #### Software Engineer / Quality Assurance
 
 Designed, tested, and implemented medical imaging plug-ins for Adobe Photoshop and Acrobat meeting ISO-13485 standards for medical devices.
+
+---
+## Education
+
+### 2011 -- 2014: [Indiana University](https://cs.indiana.edu/)
+
+#### MS in Computer Science
+
+Thesis topic: Security and internet censorship; Minor: Compilers
+
+Originally in the PhD program; passed qualification exams; left with my advisor to join the private sector
+
+### 2006 -- 2010: [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/)
+
+#### BS in Computer Science and Mathematics
 
 ---
 

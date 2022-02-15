@@ -2817,6 +2817,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-14-good-intentions.jpg
   name: 'Hellblazer, Vol. 14: Good Intentions'
   url: /book/show/28007964.hellblazer-vol-14-good-intentions
+'Hellblazer, Vol. 15: Highwater':
+  author: Brian Azzarello
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579222l/30082502._SX98_.jpg
+  id: 30082502
+  localCover: /embeds/books/hellblazer-vol-15-highwater.jpg
+  name: 'Hellblazer, Vol. 15: Highwater'
+  url: /book/show/30082502.hellblazer-vol-15-highwater
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg
