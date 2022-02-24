@@ -129,8 +129,10 @@ doRender()
    }
 </style>
 
+<h3>Output</h3>
 <div data-output></div>
 
+<h3>Source</h3>
 <textarea data-input></textarea>
 
 <h3>Log (most recent messages first):</h2>

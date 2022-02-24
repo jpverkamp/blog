@@ -128,6 +128,106 @@ export default function lex(text) {
 
 I'll admit, making substrings all the time is potentially a performance problem. I don't know if `substring` makes a copy in Javascript. I know that if we were working in `Java` (with immutable strings by default), this wouldn't be a problem at all. Given the size of strings that we've used so far now though... it's still not a problem. Fast enough and it's functional!
 
+Here's a demo!
+
+{{<html>}}
+<script defer type="module">
+import lex from '/embeds/2022/runelang/runelang/lexer.js'
+import logging from '/embeds/2022/runelang/lib/logging.js'
+
+const log = logging.get("system")
+
+let elInput = document.querySelector('[data-input]')
+let elOutput = document.querySelector('[data-output]')
+let elLog = document.querySelector('[data-log]')
+
+elInput.value = `
+define offsetmoon(x, phase) {
+  translate(x: x) {
+    circle
+    fill("black") moon(phase)
+  }
+}
+
+rune {
+  scale(0.9) {
+    circle
+    polygon(7)
+    star(14, 3)
+    star(7, 2)
+
+    radial(scale: 1/8, rotate: true) [
+      circle
+      invert character(0x2640 + i) 
+      for i in 1..7
+    ]
+  }
+
+  scale(0.15) stroke(2) {
+    circle
+    offsetmoon(-2,  0.55)
+    offsetmoon( 2, -0.55)
+  }
+}
+`
+
+logging.register((msg) => {
+   let node = document.createElement('li')
+   node.innerText = msg
+   elLog.prepend(node)
+})
+
+logging.setMode('ERROR')
+
+function doLex() {
+  elLog.innerHTML = ''
+  let input = elInput.value
+
+  try {
+      let output = lex(input).map(JSON.stringify).join("\n")
+      elOutput.value = output
+      log.awesome('IT WORKED!')
+   } catch (exception) {
+      console.log(exception)
+   }
+}
+
+function debounce(f, timeout = 500) {
+   let timer
+   return (...args) => {
+         clearTimeout(timer)
+         timer = setTimeout(() => f.apply(this, args), timeout)
+   }
+}
+
+document.addEventListener('keyup', debounce(doLex))
+doLex()
+</script>
+
+<style>
+   textarea[data-input],
+   textarea[data-output] {
+      width: 80%;
+      height: 600px;
+      padding: 1em;
+   }
+
+   td {
+      width: 45%;
+      vertical-align: top;
+   }
+</style>
+
+<h3>Source</h3>
+<textarea data-input></textarea>
+
+<h3>Lexed</h3>
+<textarea readonly data-output></textarea>
+
+<h3>Log (most recent messages first):</h2>
+<ul data-log></ul>
+{{</html>}}
+
 Onward!
 
 As before, here's the current source: [jpverkamp/runelang](https://github.com/jpverkamp/runelang) 
