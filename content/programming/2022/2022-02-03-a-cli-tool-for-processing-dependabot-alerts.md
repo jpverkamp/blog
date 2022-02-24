@@ -3,9 +3,9 @@ title: A CLI Tool for Bulk Processing Github Dependabot Alerts (with GraphQL!)
 date: 2022-02-03
 programming/languages:
 - Python
-programming/topics:
-- Small Scripts
 programming/sources:
+- Small Scripts
+programming/topics:
 - Security
 - Dependabot
 - Vulnerability Management

@@ -4,9 +4,9 @@ date: 2022-02-11
 programming/languages:
 - Python
 - Go
-programming/topics:
-- Small Scripts
 programming/sources:
+- Small Scripts
+programming/topics:
 - Logs
 - JSON
 - Optimization

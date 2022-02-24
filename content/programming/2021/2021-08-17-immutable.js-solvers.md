@@ -3,9 +3,9 @@ title: Immutable.js Solvers
 date: 2021-08-17
 programming/languages:
 - JavaScript
-programming/topics:
-- Small Scripts
 programming/sources:
+- Small Scripts
+programming/topics:
 - Algorithms
 - Backtracking
 - Generators

@@ -3,9 +3,9 @@ title: A simple Flask Logging/Echo Server
 date: 2022-02-01
 programming/languages:
 - Python
-programming/topics:
-- Small Scripts
 programming/sources:
+- Small Scripts
+programming/topics:
 - Flask
 - Web Development
 - Security

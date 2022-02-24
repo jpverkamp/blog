@@ -3,9 +3,9 @@ title: Pulling more than 5000 logs from datadog
 date: 2022-01-25
 programming/languages:
 - Python
-programming/topics:
-- Small Scripts
 programming/sources:
+- Small Scripts
+programming/topics:
 - Datadog
 - Security
 - APIs

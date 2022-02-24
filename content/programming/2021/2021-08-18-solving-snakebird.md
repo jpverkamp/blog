@@ -3,9 +3,9 @@ title: Solving Snakebird
 date: 2021-08-18
 programming/languages:
 - JavaScript
-programming/topics:
-- Small Scripts
 programming/sources:
+- Small Scripts
+programming/topics:
 - Algorithms
 - Backtracking
 - Generators
