@@ -132,8 +132,8 @@ Here's a demo!
 
 {{<html>}}
 <script defer type="module">
-import lex from '/embeds/2022/runelang/runelang/lexer.js'
-import logging from '/embeds/2022/runelang/lib/logging.js'
+import lex from '/embeds/runelang/runelang/lexer.js'
+import logging from '/embeds/runelang/lib/logging.js'
 
 const log = logging.get("system")
 

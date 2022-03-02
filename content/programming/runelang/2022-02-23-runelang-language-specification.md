@@ -43,8 +43,8 @@ But... I decided to completely rewrite it. Now it's an entirely separate languag
 
 {{<html>}}
 <script defer type="module">
-import { render } from '/embeds/2022/runelang/runelang/main.js'
-import logging from '/embeds/2022/runelang/lib/logging.js'
+import { render } from '/embeds/runelang/runelang/main.js'
+import logging from '/embeds/runelang/lib/logging.js'
 
 const log = logging.get("system")
 

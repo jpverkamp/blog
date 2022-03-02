@@ -1,0 +1,3 @@
+[submodule "static/embeds/runelang"]
+	path = static/embeds/runelang
+	url = git@github.com:jpverkamp/runelang.git
