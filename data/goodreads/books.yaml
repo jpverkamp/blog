@@ -1466,6 +1466,13 @@ Cyclops:
   series: Dirk Pitt
   series_index: 8
   url: /book/show/41697.cyclops
+Daemon Voices:
+  author: Philip Pullman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497871708l/35478763._SX98_.jpg
+  id: 35478763
+  localCover: /embeds/books/daemon-voices.jpg
+  name: Daemon Voices
+  url: /book/show/35478763.daemon-voices
 Dark Matter:
   author: Blake Crouch
   cover: https://images.gr-assets.com/books/1472119680m/27833670.jpg
@@ -2824,6 +2831,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-15-highwater.jpg
   name: 'Hellblazer, Vol. 15: Highwater'
   url: /book/show/30082502.hellblazer-vol-15-highwater
+'Hellblazer, Vol. 16: The Wild Card':
+  author: Mike Carey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579267l/32018137._SX98_.jpg
+  id: 32018137
+  localCover: /embeds/books/hellblazer-vol-16-the-wild-card.jpg
+  name: 'Hellblazer, Vol. 16: The Wild Card'
+  url: /book/show/32018137.hellblazer-vol-16-the-wild-card
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg

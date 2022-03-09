@@ -6,6 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Hellblazer
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [3x4+]
 ---
 {{< goodreads book="Hellblazer, Vol. 1: Original Sins" cover="true" >}}
 
