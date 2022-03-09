@@ -9,7 +9,7 @@ reviews/series:
 bingo:
 - 2021 Book Bingo
 bingo-data:
-    2021 Book Bingo: [1x1]
+    2021 Book Bingo: [1x1+]
 ---
 {{< goodreads book="Attack on Titan, Vol. 1" cover="true" >}}
 

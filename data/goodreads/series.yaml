@@ -2308,6 +2308,15 @@ The Mortal Instruments:
   id: 44457
   name: The Mortal Instruments
   url: /series/44457.the-mortal-instruments
+The Poppy War:
+  books:
+    1: The Poppy War
+    2: The Dragon Republic
+    2.5: The Drowning Faith
+    3: The Burning God
+  id: 243623
+  name: The Poppy War
+  url: /series/243623.the-poppy-war
 The Reckoners:
   books:
     1: Steelheart
