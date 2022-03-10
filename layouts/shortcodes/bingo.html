@@ -13,22 +13,22 @@
             {{- $indexHard := (printf "%dx%d+" (add 1 $row) (add 1 $col) )}}
             {{- $title := index $data $row $col }}
 
-            <p>{{ $title | markdownify }}</p>
-            
-            {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
+                <p>{{ $title | markdownify }}</p>
+                <hr>
+                {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
                 {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
                 {{- if (or (in $squares $index) (in $squares $indexHard)) -}}
-                    <a href="{{ $page.Permalink }}">
-                        <figure>
-                            {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+                <a href="{{ $page.Permalink }}">
+                    <figure>
+                        {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
                             <figcaption>{{ .Title }}</figcaption>
-                        </figure> 
+                    </figure>
                     </a>
                     {{- if in $squares $indexHard -}}
                     <p>(Hard Mode)</p>
-                    {{- end -}}
                 {{- end -}}
-            {{- end -}}
+                {{- end -}}
+                {{- end -}}
         </td>
         {{- end -}}
     </tr>
