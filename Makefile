@@ -20,28 +20,13 @@ import: import-flickr import-goodreads
 run:
 	sleep 10 && open http://localhost/ &
 	hugo server --watch --verbose --buildFuture --bind 0.0.0.0 --port 80
-	
-	# docker run --rm -it -p 80:80 \
-	# 	-v $(shell pwd):/src \
-	# 	-v /cache \
-	# 	${HUGO_IMAGE} \
-	# 	server \
-	# 	--watch \
-	# 	--verbose \
-	# 	--buildFuture \
-	# 	--cacheDir /cache \
-	# 	--bind 0.0.0.0 --port 80
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
-	cd public; git wipe; git up
+	cd public; git wipe; git pull --rebase --prune
 	#rm -rf public/*
 	
 	hugo --minify
-
-	# docker run --rm -it \
-	# 	-v $(shell pwd):/src \
-	# 	${HUGO_IMAGE}
 
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
