@@ -53,6 +53,7 @@ Neither! MERLIN!
 Constantine really does seem to get right in the middle of things. 
 
 ![](/embeds/books/attachments/hellblazer-11-fb84e1.png)
+
 Old beings fighting is a neat trope though. And it’s not angels and demons this time! (Or is it…)
 
 Especially given that they were apparently there almost at Creation and the Grail is involved. The latter is Arthurian I suppose. 
@@ -60,6 +61,7 @@ Especially given that they were apparently there almost at Creation and the Grai
 ### Part Three: Human Punk
 
 ![](/embeds/books/attachments/hellblazer-11-2ea94f.png)
+
 … of course. 
 
 Which then tends to go rather sideways: 
@@ -124,6 +126,7 @@ Betty and a baby. Birth and death.
 A short, sweet story. 
 
 ## Undertow
+
 ![](/embeds/books/attachments/hellblazer-11-c93965.png)
 
 Oh Constantine. 
@@ -131,6 +134,7 @@ Oh Constantine.
 Sometimes, they they just can’t be saved. 
 
 ## Desperately Seeking Something
+
 ![](/embeds/books/attachments/hellblazer-11-8cdbb4.png)
 
 Who? Me?

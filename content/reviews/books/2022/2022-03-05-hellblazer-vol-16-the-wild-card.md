@@ -15,6 +15,7 @@ A rather solid volume.
 Thoughts as I read (spoilers):
 
 ## High on Life
+
 ![](/embeds/books/attachments/hellblazer-16-9b6390.png)
 
 Constantine with brown hair?! (Might be red) What’s this?
@@ -62,6 +63,7 @@ The fallout continues.
 That’s so Constantine…
 
 # Black Flowers
+
 ![](/embeds/books/attachments/hellblazer-16-16b2c0.png)
 
 I have a feeling it’s only beginning…
@@ -75,16 +77,19 @@ Haven’t seen Swamp Thing in a long while!
 That’ll be a neat trick. 
 
 ## Ordeal
+
 ![](/embeds/books/attachments/hellblazer-16-aea2e2.png)
 
 I’ve always enjoyed world building like this. 
 
 ## The Pit
+
 ![](/embeds/books/attachments/hellblazer-16-94e696.png)
 
 She’s fun. And ended up being a lot of help!
 
 # Bred in the Bone
+
 ![](/embeds/books/attachments/hellblazer-16-3fa230.png)
 
 A fitting title it seems. 

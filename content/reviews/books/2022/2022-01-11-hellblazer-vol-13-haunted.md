@@ -113,6 +113,7 @@ The saga of dead girls past.
 Oy. 
 
 ## Telling Tales
+
 ![](/embeds/books/attachments/hellblazer-13-666257.png)
 
 “True story”

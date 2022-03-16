@@ -66,6 +66,7 @@ A solid story.
 A solid and very very weird two parter…
 
 ### The Hanged Man
+
 ![](/embeds/books/attachments/hellblazer-5-9c05d5.png)
 
 Tarot in a world with Power. I haven’t quite got an feel for this version of Zed versus the movie or TV show ones. 
@@ -80,6 +81,7 @@ And now we know what Mercury meant about killing his brother. Oy. Dark that.
 And then a story of what might have been. It’s an interesting story, but I’m not sure we’ve quite earned it having just learned about the brother. 
 
 ![](/embeds/books/attachments/hellblazer-5-de4931.png)
+
 Such a weird yet fascinating universe. 
 
 ## Dangerous Habits

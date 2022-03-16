@@ -13,6 +13,7 @@ A very solid issue. A couple of great longer storylines with long term consequen
 I'm enjoying seeing Constantine and Kit's relationship evolve. It gives a nice human element to contrast the horror. I only hope that doesn't go too badly for her in the long run...
 
 ## The Pub Where I Was Born
+
 ![](/embeds/books/attachments/hellblazer-6-c7dfab.png)
 
 I love the feel of the place. A lot of potential. And a bit of a breather after Deadly Habits:
@@ -86,6 +87,7 @@ Ramps up to a wonderfully gross seance and a name:
 ![](/embeds/books/attachments/hellblazer-6-b5d17d.png)
 
 ### The Good Old Days
+
 ![](/embeds/books/attachments/hellblazer-6-42b363.png)
 
 Neat world building. 
@@ -115,6 +117,7 @@ Chas’ uncle? Oy. They certainly do seem to fall into a lot of stories. Comes f
 A lot of potential in mixing science and dark magic. I hope that’s where this story is going. Need to find more of that. 
 
 ## Body and Soul
+
 ![](/embeds/books/attachments/hellblazer-6-4258fd.png)
 
 There it is. Now all that’s left is how much is intentional… and how do they stop it. 

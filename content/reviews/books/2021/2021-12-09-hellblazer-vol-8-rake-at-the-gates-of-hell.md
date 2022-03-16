@@ -51,11 +51,13 @@ Visions from within a witchwalking? It’s gone recursive!
 And then it ended. I guess? Weird. 
 
 ## Act of Union
+
 ![](/embeds/books/attachments/hellblazer-8-b2b14f.png)
 
 Kit in the Before Times as well. A bit bittersweet now… both for Kit and Brenden. Weird time for this story. 
 
 ## Confessions of an Irish Rebel
+
 ![](/embeds/books/attachments/hellblazer-8-71cef1.png)
 
 Ah. Now the flashback makes more sense. And Midnite even figures into it! Ish. 
@@ -131,6 +133,7 @@ Some interesting thoughts their. God, capable of loneliness. The first creation.
 And then… the twist. The twist that makes it all worth it. And Death. Sudden. Forever?
 
 ## Heartland
+
 ![](/embeds/books/attachments/hellblazer-8-d35c5c.png)
 
 I fully expect this to go well and everyone to live happily ever after… even after he got mistaken for a drug dealer and his kneecap(s) shot off. 

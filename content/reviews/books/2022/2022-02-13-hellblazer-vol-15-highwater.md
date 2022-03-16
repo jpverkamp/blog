@@ -43,6 +43,7 @@ So how do you fight Nazis?
 Neat. 
 
 ## A Fresh Coat of Red Paint
+
 ![](/embeds/books/attachments/hellblazer-15-e5c0cf.png)
 
 Weird one. Interesting development though. Constantine is dead (again) and he didn’t even have to make a deal with the devil this time. 

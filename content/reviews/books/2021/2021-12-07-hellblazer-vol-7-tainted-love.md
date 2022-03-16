@@ -63,6 +63,7 @@ Oh Gabriel. I have a feeling this is about to go sideways.
 Oh. Oh oh oh. That’s who that of. And Constantine. Oy. To an Archangel? I mean, the whole ‘pure and good and beautiful’ is arguable given that scene from Part 1… but still. Oh my. 
 
 ## Dear John
+
 ![](/embeds/books/attachments/hellblazer-7-7791cf.png)
 
 Oh. Oy. 
@@ -75,6 +76,7 @@ Constantine isn’t doing so well…
 Also… vampires. Rather a part one. 
 
 ## Rough Trade
+
 ![](/embeds/books/attachments/hellblazer-7-ed689c.png)
 
 Ah. There’s the connection. 
@@ -92,6 +94,7 @@ The story of Emma… and not.
 Odd and not very Constantine. 
 
 ## Finest Hour
+
 ![](/embeds/books/attachments/hellblazer-7-259fde.png)
 
 Still not rock bottom? Or will that of all things be what it takes?

@@ -17,6 +17,7 @@ Onwards!
 Thoughts/spoilers:
 
 ## Hard Time (Parts 1-5)
+
 Been a while. Came back to…
 
 ![](/embeds/books/attachments/hellblazer-14-ba5ec1.png)
@@ -38,6 +39,7 @@ And all because he wouldn’t kill a friend. More of an acquaintance really.
 Quite a story. Five parts and I’m still not sure of I actually liked it or not. Which I suppose is a good sign. 
 
 ## Good Intentions (Parts 1-6)
+
 Right off Hard Time:
 
 ![](/embeds/books/attachments/hellblazer-14-7f570e.png)

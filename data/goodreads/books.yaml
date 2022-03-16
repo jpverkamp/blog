@@ -2845,6 +2845,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-16-the-wild-card.jpg
   name: 'Hellblazer, Vol. 16: The Wild Card'
   url: /book/show/32018137.hellblazer-vol-16-the-wild-card
+'Hellblazer, Vol. 17: Out of Season':
+  author: Mike Carey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579331l/34690711._SX98_.jpg
+  id: 34690711
+  localCover: /embeds/books/hellblazer-vol-17-out-of-season.jpg
+  name: 'Hellblazer, Vol. 17: Out of Season'
+  url: /book/show/34690711.hellblazer-vol-17-out-of-season
+'Hellblazer, Vol. 18: The Gift':
+  author: Mike Carey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579380l/35141041._SX98_.jpg
+  id: 35141041
+  localCover: /embeds/books/hellblazer-vol-18-the-gift.jpg
+  name: 'Hellblazer, Vol. 18: The Gift'
+  url: /book/show/35141041.hellblazer-vol-18-the-gift
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg
@@ -4206,6 +4220,13 @@ Mystery in the Sand:
   series: The Boxcar Children
   series_index: null
   url: /book/show/19108356.mystery-in-the-sand
+Nate the Great Stalks Stupidweed:
+  author: Marjorie Weinman Sharmat
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320453888l/1258032._SX98_.jpg
+  id: 1258032
+  localCover: /embeds/books/nate-the-great-stalks-stupidweed.jpg
+  name: Nate the Great Stalks Stupidweed
+  url: /book/show/1258032.nate-the-great-stalks-stupidweed
 Necroscope:
   author: Brian Lumley
   cover: https://images.gr-assets.com/books/1170652860l/66655.jpg

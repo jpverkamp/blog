@@ -13,6 +13,7 @@ Better than Volume 3 by a long shot. Starts weird but interesting and gets bette
 <!--more-->
 
 ## Larger than Life
+
 ![](/embeds/books/attachments/hellblazer-4-97e9ca.png)
 
 This has potential! Certainly starting the weird a bit quicker. 
@@ -28,6 +29,7 @@ An interesting and bizarre story. I wonder if it’s stand alone?
 Lovely. 
 
 ## The Family Man
+
 ![](/embeds/books/attachments/hellblazer-4-1b0419.png)
 
 Uh huh. I think you might be there. 
@@ -41,6 +43,7 @@ Also a reminder that while Constantine might be a good sort when demons are conc
 Then again, he ends up turning up something for more interesting.
 
 ## Early Warning
+
 ![](/embeds/books/attachments/hellblazer-4-46cc59.png)
 
 They could very well be speaking literally (magitech is fascinating) or figuratively and I’d not know enough about this world to guess. I know demons are real, we’ve seen them. But do **they** know that?
@@ -54,6 +57,7 @@ A little of both and a bit of neither it seems.
 That’s what makes for interesting reading!
 
 ## How I Learned to Love the Bomb
+
 ![](/embeds/books/attachments/hellblazer-4-29c769.png)
 
 Well that got delightfully dark. 
@@ -67,11 +71,13 @@ Oh! The plot thickens.
 That’s a pretty cool story line. 
 
 ## Hold Me
+
 ![](/embeds/books/attachments/hellblazer-4-947625.png)
 
 Weird/different art style and a weird start to the plot (again with the sperm donation? Constantine comments on that :) but once we get to the smelly man things get **properly** weird. And then it’s over…
 
 ## Thicker than Water
+
 ![](/embeds/books/attachments/hellblazer-4-0a037f.png)
 
 Well that’s a start. At least it’s more colorful? It’s nice (for some definitions thereof) to get back to the Family Man plot. 
@@ -81,6 +87,7 @@ Well that’s a start. At least it’s more colorful? It’s nice (for some defi
 Of course that’s a thing. 
 
 ## Sick at Heart
+
 ![](/embeds/books/attachments/hellblazer-4-3df16a.png)
 
 And then it was personal. I didn’t put that together last time…
@@ -98,6 +105,7 @@ And dealing with his dad on top of it. A way of letting go.
 Voodoo arrested via formaldehyde amuses me somewhat. 
 
 ## New Tricks
+
 ![](/embeds/books/attachments/hellblazer-4-fe72a6.png)
 
 That’s a villain. 
@@ -107,6 +115,7 @@ That’s a villain.
 Heh. Seriously? That worked?
 
 ## Sundays are Different
+
 ![](/embeds/books/attachments/hellblazer-4-9c0328.png)
 
 Llew… ttah gimht eb a bloprme…

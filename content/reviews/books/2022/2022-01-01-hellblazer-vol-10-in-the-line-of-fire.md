@@ -16,6 +16,7 @@ Mini reviews (spoilers):
 
 ## The Nature of the Beast 
 ![](/embeds/books/attachments/hellblazer-10-9036fb.png)
+
 Sure…
 
 ![](/embeds/books/attachments/hellblazer-10-25d50c.png)

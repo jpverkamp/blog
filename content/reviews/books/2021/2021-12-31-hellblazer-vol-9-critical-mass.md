@@ -13,6 +13,7 @@ Two big stories, a few really trippy dreams, and Constantine managing to push of
 Mini reviews (spoilers):
 
 ## In Another Part of Hell
+
 ![](/embeds/books/attachments/hellblazer-9-b6eb4a.png)
 
 Chas’ mother… quite a figure. 
@@ -61,6 +62,7 @@ Ah. Another one of those.
 Double ah. Actually… one of those. I’m not sure how this is supposed to be terribly less problematic than the attitudes in the story itself. 
 
 ## Dangerous Ground
+
 ![](/embeds/books/attachments/hellblazer-9-c777ad.png)
 
 … oh Constantine. 
