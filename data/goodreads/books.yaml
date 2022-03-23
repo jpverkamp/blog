@@ -2859,6 +2859,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-18-the-gift.jpg
   name: 'Hellblazer, Vol. 18: The Gift'
   url: /book/show/35141041.hellblazer-vol-18-the-gift
+'Hellblazer, Vol. 19: The Red Right Hand':
+  author: Denise Mina
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579469l/37489676._SX98_.jpg
+  id: 37489676
+  localCover: /embeds/books/hellblazer-vol-19-the-red-right-hand.jpg
+  name: 'Hellblazer, Vol. 19: The Red Right Hand'
+  url: /book/show/37489676.hellblazer-vol-19-the-red-right-hand
 'Hellblazer, Vol. 1: Original Sins':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320397955l/9041662.jpg
@@ -4538,6 +4545,13 @@ Peace Talks:
   series: The Dresden Files
   series_index: 16
   url: /book/show/49370109.peace-talks
+Physics of the Impossible:
+  author: Michio Kaku
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469147l/1168341._SX98_.jpg
+  id: 1168341
+  localCover: /embeds/books/physics-of-the-impossible.jpg
+  name: Physics of the Impossible
+  url: /book/show/1168341.physics-of-the-impossible
 Pimpf:
   author: Charles Stross
   id: 24330383
