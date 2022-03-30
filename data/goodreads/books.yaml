@@ -852,6 +852,15 @@ Black Rain and Paper Cranes:
   localCover: /embeds/books/black-rain-and-paper-cranes.jpg
   name: Black Rain and Paper Cranes
   url: /book/show/55833231.black-rain-and-paper-cranes
+Black Sun:
+  author: Rebecca Roanhorse
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601212809l/50892360._SX98_.jpg
+  id: 50892360
+  localCover: /embeds/books/black-sun.jpg
+  name: Black Sun
+  series: Between Earth and Sky
+  series_index: 1
+  url: /book/show/50892360.black-sun
 Black Water:
   author: D.J. MacHale
   cover: https://images.gr-assets.com/books/1431981444l/147801.jpg
@@ -2873,6 +2882,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-1-original-sins.jpg
   name: 'Hellblazer, Vol. 1: Original Sins'
   url: /book/show/18902412.hellblazer-vol-1-original-sins
+'Hellblazer, Vol. 20: Systems of Control':
+  author: Mike Carey
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640581928l/40003443._SX98_.jpg
+  id: 40003443
+  localCover: /embeds/books/hellblazer-vol-20-systems-of-control.jpg
+  name: 'Hellblazer, Vol. 20: Systems of Control'
+  url: /book/show/40003443.hellblazer-vol-20-systems-of-control
+'Hellblazer, Vol. 21: The Laughing Magician':
+  author: Andy Diggle
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579504l/43088693._SX98_.jpg
+  id: 43088693
+  localCover: /embeds/books/hellblazer-vol-21-the-laughing-magician.jpg
+  name: 'Hellblazer, Vol. 21: The Laughing Magician'
+  url: /book/show/43088693.hellblazer-vol-21-the-laughing-magician
 'Hellblazer, Vol. 2: The Devil You Know':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579959l/11938931._SX98_.jpg
@@ -6092,6 +6115,13 @@ The Call of Cthulhu:
   localCover: /embeds/books/the-car-hackers-handbook-a-guide-for-the-penetration-tester.jpg
   name: 'The Car Hacker''s Handbook: A Guide for the Penetration Tester'
   url: /book/show/26526472.the-car-hackers-handbook-a-guide-for-the-penetration-tester
+The Changeling:
+  author: Victor LaValle
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492886432l/31147267._SX98_.jpg
+  id: 31147267
+  localCover: /embeds/books/the-changeling.jpg
+  name: The Changeling
+  url: /book/show/31147267.the-changeling
 The Chronicles of Amber:
   author: Roger Zelazny
   cover: https://images.gr-assets.com/books/1415558522l/316876.jpg

@@ -191,6 +191,13 @@ Bartimaeus Sequence:
   id: 40838
   name: Bartimaeus Sequence
   url: /series/40838.bartimaeus-sequence
+Between Earth and Sky:
+  books:
+    1: Black Sun
+    2: Fevered Star
+  id: 266277
+  name: Between Earth and Sky
+  url: /series/266277.between-earth-and-sky
 Bobiverse:
   books:
     1: We Are Legion (We Are Bob)
