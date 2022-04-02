@@ -10,6 +10,8 @@ reviews/series:
 
 Well that’s an interesting saga. Heaven, Hell, and… a Third Place. Mythology certainly goes some interesting places in Hellblazer. I enjoyed it. 
 
+<!--more-->
+
 ## Empathy is the Enemy
 
 ![](/embeds/books/attachments/hellblazer-19-2bcf07.png)

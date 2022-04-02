@@ -14,6 +14,8 @@ Overall, good but not the best Constantine. Needs more out and out unambiguous s
 
 Onwards!
 
+<!--more-->
+
 Thoughts/spoilers:
 
 ## Hard Time (Parts 1-5)

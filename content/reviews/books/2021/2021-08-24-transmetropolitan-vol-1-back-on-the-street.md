@@ -6,6 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - Transmetropolitan
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [2x4+]
 ---
 {{< goodreads book="Transmetropolitan, Vol. 1: Back on the Street" cover="true" >}}
 

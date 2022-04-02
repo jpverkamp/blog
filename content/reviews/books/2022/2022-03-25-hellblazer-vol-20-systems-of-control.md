@@ -12,6 +12,8 @@ Constantine gets his Mojo back.
 
 Joyride is a pretty  crazy story which may yet come back to haunt us. All His Engines is even better, getting some Aztec flair in line. A good volume. 
 
+<!--more-->
+
 ## In The Deep End
 
 ![](/embeds/books/attachments/hellblazer-20-e59194.png)

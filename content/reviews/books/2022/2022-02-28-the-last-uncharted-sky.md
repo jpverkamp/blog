@@ -10,6 +10,8 @@ reviews/series:
 
 Where {{< crosslink "An Alchemy of Masques and Mirrors" >}} was mystery and religious fiddling and {{< crosslink "A Labyrinth of Scions and Sorcery" >}} was a political story, culminating in a fall of power (or at least a shift), The Last Uncharted Sky shifts yet again. This time we have a (aero)nautical adventure with skyships, pirates, lost treasures, and found families. Really, it's a wonderful exploration of just how wonderful and strange the world we've been allowed to inhabit for just a little while. 
 
+<!--more-->
+
 Quite a book and well well worth the read. If anything, I think it may be my favorite of the three! I wish we'd gotten to a lot of the plotpoints in this book a lot earlier so that we'd have more time to explore them. And I sorely hope they'll be yet another sequel some day. There's still room for it, even if I expect once again to be surprised. 
 
 Characterwise, it's fascinating to see Isabella continue to grow, coming into her role as a leader, realizing that people might actually just like her for *her*, and really coming into a handful of new powers. It's certainly not an easy ride, but she does an excellent job of it. From there, we also have Jean-Claude taking a less prominent role--which is to say he only saves the world once or twice--and gains a few new tricks of his own; Bitterlich developing into quite the dashing hero and love interest--with a tragic backstory; newcomer 12-year-old Rebecca with secrets of her own, Marie, pale and terrifying in her own right. Oh there's just so many to love. 

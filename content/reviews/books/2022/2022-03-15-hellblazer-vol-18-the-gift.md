@@ -12,6 +12,8 @@ All about that little issue of Constantine and one very very long day.
 
 There’s a lot of crazy things going on better my here. Quiet a story… where can it possibly go next?
 
+<!--more-->
+
 ## Reasons to be Cheerful
 
 ![](/embeds/books/attachments/hellblazer-18-160bfb.png)

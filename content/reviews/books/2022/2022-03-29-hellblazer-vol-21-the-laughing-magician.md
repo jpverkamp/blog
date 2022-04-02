@@ -14,6 +14,8 @@ Good times. Good times.
 
 Also: Tell me there’s a series about Johanna Constantine. That’s quite the story of hers at the end of the volume. 
 
+<!--more-->
+
 ## The Passage
 
 ![](/embeds/books/attachments/hellblazer-21-98b683.png)

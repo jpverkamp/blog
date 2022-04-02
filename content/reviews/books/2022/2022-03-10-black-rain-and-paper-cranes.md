@@ -6,11 +6,13 @@ reviews/lists:
 bingo:
 - 2021 Book Bingo
 bingo-data:
-    2021 Book Bingo: [2x2+]
+    2021 Book Bingo: [4x2+]
 ---
 {{< goodreads book="Black Rain and Paper Cranes" cover="true" >}}
 
 That's a strange book. It's one part historical novel--detailing the development, usage, and aftermath of the nuclear weapons detonated over Hiroshima and Nagasaki at the end of World War II--one part technical manual--very roughly detailing the physics and engineering behind early nuclear weapons--and one part children's book--many scenes involve Fritz, the talking (and super fast) dove. We'll come back to that. 
+
+<!--more-->
 
 Historically, it's a fascinating and terrible story. So many brilliant scientists, engineers, and support staff--all to make a weapon capable of destroying a city and killing tens/hundreds of thousands in moments. Conversely, if they hadn't--how many would have been lost in a land invasion? The point is that there are so very stories to be told around these events and this book does a fascinating job of telling a few of them: Oppenheimer and the scientists working on the bomb; President Truman and the decision to use it; Tibbets, the Enola Gay, and his crew dropping the bomb; Japanese civilians in Hiroshima and Nagasaki; a POW; and the final peace treaty. It's... quite a lot to put into one book, but for the most part I think it works out pretty well. The variety and contrast between the various points of view is certainly interesting. 
 

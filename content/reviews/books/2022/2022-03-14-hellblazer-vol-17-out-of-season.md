@@ -10,6 +10,8 @@ reviews/series:
 
 Constantine lost and found and so very screwed. Literally. A lot happens in this one and there’s a lot of potential for what comes next. Looking forward to it. 
 
+<!--more-->
+
 ## Staring at the Wall
 The continuing story of the Shadow Dog and the Red Sepulchre. 
 

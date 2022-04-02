@@ -12,6 +12,8 @@ A crazy bloody mess with some old friends in the longer stories and a few neat b
 
 A rather solid volume. 
 
+<!--more-->
+
 Thoughts as I read (spoilers):
 
 ## High on Life

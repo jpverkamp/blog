@@ -1145,6 +1145,15 @@ Cauldron:
   series: The Academy
   series_index: 6
   url: /book/show/535318.cauldron
+Cece Rios and the Desert of Souls:
+  author: Kaela Rivera
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592576081l/49613673._SX98_.jpg
+  id: 49613673
+  localCover: /embeds/books/cece-rios-and-the-desert-of-souls.jpg
+  name: Cece Rios and the Desert of Souls
+  series: Cece Rios
+  series_index: 1
+  url: /book/show/49613673.cece-rios-and-the-desert-of-souls
 Celestia CV-02:
   author: Ryk Brown
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376665243l/18335627._SX98_.jpg
@@ -6919,6 +6928,15 @@ The Little Bear Stories:
   localCover: /embeds/books/the-little-bear-stories.jpg
   name: The Little Bear Stories
   url: /book/show/1214909.the-little-bear-stories
+The Long Way to a Small, Angry Planet:
+  author: Becky Chambers
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SX98_.jpg
+  id: 22733729
+  localCover: /embeds/books/the-long-way-to-a-small-angry-planet.jpg
+  name: The Long Way to a Small, Angry Planet
+  series: Wayfarers
+  series_index: 1
+  url: /book/show/22733729.the-long-way-to-a-small-angry-planet
 The Long Winter:
   author: Laura Ingalls Wilder
   cover: https://images.gr-assets.com/books/1266449683l/8282.jpg
@@ -7215,6 +7233,13 @@ The Runelords:
   series: Runelords
   series_index: 1
   url: /book/show/144127.the-runelords
+The Scorpio Races:
+  author: Maggie Stiefvater
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461209661l/10626594._SX98_.jpg
+  id: 10626594
+  localCover: /embeds/books/the-scorpio-races.jpg
+  name: The Scorpio Races
+  url: /book/show/10626594.the-scorpio-races
 The Sea of Monsters:
   author: Rick Riordan
   cover: https://images.gr-assets.com/books/1400602661l/28186.jpg

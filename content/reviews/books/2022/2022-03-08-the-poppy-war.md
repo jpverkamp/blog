@@ -16,6 +16,8 @@ bingo-data:
 
 That... is quite a book. 
 
+<!--more-->
+
 Plotwise, for the first third or so, it's a very solid 'poor girl works very hard and gets into a prestigious (military) school'. Once there, she's outcast and has to fight (literally) for her place. On top of that, she bumps into the mysterious 'Lore' master who everyone thinks is nuts--but just might know a bit about the magic no one believes in any more. It's a lot like the school sections of {{<crosslink "Name of the Wind">}}, which were the parts of that book I particularly liked--and works as both coming of age and magic school. 
 
 And then things get *dark*. Minor spoilers, but the second third of the books is entirely concerned with {{<spoiler>}}war and invasion{{</spoiler>}} and the final third gets *darker yet* with {{<spoiler>}}death, destruction, and genocide(s){{</spoiler>}}. If you're not ready for some truly gruesome scenes, do *not* read this book. They're well written and really underscore the entire story and feel of the world, but that doesn't make them any easier to read. 

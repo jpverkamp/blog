@@ -10,6 +10,8 @@ Came across a [reddit thread](https://old.reddit.com/r/alife/comments/sls0rt/bio
 
 Overal though, it seems... rather lackluster. I guess if you're just getting into the field, it's a good summary of what all is involved, but it doesn't get more than a page into detail about absolutely anything. Probably I'm not the target audience.
 
+<!--more-->
+
 A few quotes I found interesting/thoughts:
 
 > AI research can be considered a subset of Artificial Life, albeit one that many Artificial Life researchers are tempted to skirt around. As far as we know, intelligence only occurs in living systems. That is how it has appeared on Earth anyway. Perhaps one day intelligence might exist independently of life, but I would hazard a guess that this will only be when we, or some other living intelligence, engineer it so. It would be very surprising indeed to find a natural intelligent system that was not also alive.

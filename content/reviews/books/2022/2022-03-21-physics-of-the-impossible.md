@@ -10,6 +10,8 @@ Physics of the Impossible is a really great book. It goes into a wide variety of
 
 Worth a read! One interesting point is how many of these seeded ideas for more stories in the future! Onward!
 
+<!--more-->
+
 Below are my thoughts and some comments through the book. It's non-fiction, so spoilers aren't really a thing :smile:, but I'd be happy to talk about any of these points. 
 
 ## Preface

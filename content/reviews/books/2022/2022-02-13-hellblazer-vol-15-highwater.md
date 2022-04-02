@@ -12,6 +12,8 @@ It’s… fine? I enjoyed the first two longer stories well enough but the latte
 
 Onward! Maybe to something new?
 
+<!--more-->
+
 Individual thoughts (spoilers):
 
 ## Lapdogs and Englishmen 

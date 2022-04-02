@@ -18,6 +18,8 @@ On a third, it's about fairy tales and other stories. The stories we read to our
 
 And on a last level, it's about magic. There are hints right from the beginning that there's something strange in this world. From Apollo's dreams of his absent father, to the magic inheriant in old books and libraries, to finding a postcard from {{<wikipedia "Aleister Crowley">}}... there's little in the way of obviously supernatural for most of the book... but that doesn't last. 
 
+<!--more-->
+
 And oh, does that book shift about halfway through. A nice family story to HOLY CRAP THAT TOOK A DARK TURN. It's still very solid, but you really should probably realize that this book is very much a Fantasy/Horror novel. 
 
 Overall, it's well worth the read. The writing in the first half really made me care about Apollo and his family and the mystery, weirdness, and action of the second half kept me involved. I particularly enjoyed the audiobook, narrated by the author. Sometimes you want someone who specialized in narration, but sometimes there's just something special about hear an author's words in their own voice. 

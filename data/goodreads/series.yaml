@@ -2575,6 +2575,17 @@ Warbreaker:
   id: 108715
   name: Warbreaker
   url: /series/108715.warbreaker
+Wayfarers:
+  books:
+    0.5: A Good Heretic
+    1: The Long Way to a Small, Angry Planet
+    2: A Closed and Common Orbit
+    3: Record of a Spaceborn Few
+    4: The Galaxy, and the Ground Within
+    1-3: Wayfarers Series 3-book set
+  id: 170872
+  name: Wayfarers
+  url: /series/170872.wayfarers
 Welcome to Night Vale:
   books:
     1: Welcome to Night Vale

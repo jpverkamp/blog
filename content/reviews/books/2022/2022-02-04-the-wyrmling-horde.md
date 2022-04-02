@@ -5,6 +5,10 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/series:
 - The Runelords
+bingo:
+- 2021 Book Bingo
+bingo-data:
+    2021 Book Bingo: [2x1]
 ---
 {{< goodreads book="The Wyrmling Horde" cover="true" >}}
 
