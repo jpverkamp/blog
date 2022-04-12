@@ -5,6 +5,10 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/series:
 - Wayfarers
+bingo:
+- 2022 Book Bingo
+bingo-data:
+    2022 Book Bingo: [4x1, 4x4+, 5x5]
 ---
 {{< goodreads book="A Closed and Common Orbit" cover="true" >}}
 

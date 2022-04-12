@@ -5,6 +5,10 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/series:
 - The Murderbot Diaries
+bingo:
+- 2022 Book Bingo
+bingo-data:
+    2022 Book Bingo: [5x4+, 4x1]
 ---
 {{< goodreads book="All Systems Red" cover="true" >}}
 
