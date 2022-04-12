@@ -2346,6 +2346,22 @@ The Mortal Instruments:
   id: 44457
   name: The Mortal Instruments
   url: /series/44457.the-mortal-instruments
+The Murderbot Diaries:
+  books:
+    1: All Systems Red
+    2: Artificial Condition
+    3: Rogue Protocol
+    4: Exit Strategy
+    4.5: 'Home: Habitat, Range, Niche, Territory'
+    5: Network Effect
+    6: Fugitive Telemetry
+    7: Untitled
+    8: Untitled
+    9: Untitled
+    1-4: The Murderbot Diaries
+  id: 191900
+  name: The Murderbot Diaries
+  url: /series/191900.the-murderbot-diaries
 The Poppy War:
   books:
     1: The Poppy War

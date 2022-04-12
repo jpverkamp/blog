@@ -19,6 +19,15 @@ A Clockwork Orange:
   localCover: /embeds/books/a-clockwork-orange.jpg
   name: A Clockwork Orange
   url: /book/show/12399254.a-clockwork-orange
+A Closed and Common Orbit:
+  author: Becky Chambers
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457598923l/29475447._SX98_.jpg
+  id: 29475447
+  localCover: /embeds/books/a-closed-and-common-orbit.jpg
+  name: A Closed and Common Orbit
+  series: Wayfarers
+  series_index: 2
+  url: /book/show/29475447.a-closed-and-common-orbit
 A Column of Fire:
   author: Ken Follett
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498850103l/33571713._SX98_.jpg
@@ -270,6 +279,15 @@ Aether of Night:
   localCover: /embeds/books/aether-of-night.jpg
   name: Aether of Night
   url: /book/show/33833355.aether-of-night
+All Systems Red:
+  author: Martha Wells
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SX98_.jpg
+  id: 32758901
+  localCover: /embeds/books/all-systems-red.jpg
+  name: All Systems Red
+  series: The Murderbot Diaries
+  series_index: 1
+  url: /book/show/32758901.all-systems-red
 All These Worlds:
   author: Dennis E. Taylor
   cover: https://images.gr-assets.com/books/1498271736l/35506021.jpg
@@ -2905,6 +2923,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-21-the-laughing-magician.jpg
   name: 'Hellblazer, Vol. 21: The Laughing Magician'
   url: /book/show/43088693.hellblazer-vol-21-the-laughing-magician
+'Hellblazer, Vol. 22: Regeneration':
+  author: Peter Milligan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573876678l/45429584._SX98_.jpg
+  id: 45429584
+  localCover: /embeds/books/hellblazer-vol-22-regeneration.jpg
+  name: 'Hellblazer, Vol. 22: Regeneration'
+  url: /book/show/45429584.hellblazer-vol-22-regeneration
+'Hellblazer, Vol. 23: No Future':
+  author: Peter Milligan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598196762l/52476989._SX98_.jpg
+  id: 52476989
+  localCover: /embeds/books/hellblazer-vol-23-no-future.jpg
+  name: 'Hellblazer, Vol. 23: No Future'
+  url: /book/show/52476989.hellblazer-vol-23-no-future
 'Hellblazer, Vol. 2: The Devil You Know':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579959l/11938931._SX98_.jpg
