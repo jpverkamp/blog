@@ -82,6 +82,15 @@ A Darkling Plain:
   series: Mortal Engines Quartet
   series_index: 4
   url: /book/show/219110.a-darkling-plain
+A Deadly Education:
+  author: Naomi Novik
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596909044l/50548197._SX98_.jpg
+  id: 50548197
+  localCover: /embeds/books/a-deadly-education.jpg
+  name: A Deadly Education
+  series: The Scholomance
+  series_index: 1
+  url: /book/show/50548197.a-deadly-education
 A Game of Thrones:
   author: George R.R. Martin
   cover: https://images.gr-assets.com/books/1436732693l/13496.jpg
@@ -4591,6 +4600,13 @@ Pacific Vortex!:
   localCover: /embeds/books/pale-green-dot-sequel-to-the-forest.jpg
   name: 'Pale Green Dot: Sequel to The Forest'
   url: /book/show/36549857.pale-green-dot-sequel-to-the-forest
+Paradise Lost:
+  author: John Milton
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526070678l/15997._SX98_.jpg
+  id: 15997
+  localCover: /embeds/books/paradise-lost.jpg
+  name: Paradise Lost
+  url: /book/show/15997.paradise-lost
 Partials:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1337468746l/12476820.jpg

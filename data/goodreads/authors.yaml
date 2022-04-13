@@ -466,6 +466,10 @@ Joe Hill:
   id: 88506
   name: Joe Hill
   url: /author/show/88506.joe-hill
+John Milton:
+  id: 9876
+  name: John Milton
+  url: /author/show/9876.john-milton
 John Scalzi:
   id: 4763
   name: John Scalzi

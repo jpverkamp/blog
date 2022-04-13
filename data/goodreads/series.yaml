@@ -2438,6 +2438,14 @@ The Sandman:
   id: 40372
   name: The Sandman
   url: /series/40372.the-sandman
+The Scholomance:
+  books:
+    1: A Deadly Education
+    2: The Last Graduate
+    3: The Golden Enclaves
+  id: 282152
+  name: The Scholomance
+  url: /series/282152.the-scholomance
 The Stormlight Archive:
   books:
     1: The Way of Kings
