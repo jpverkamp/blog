@@ -439,6 +439,15 @@ Artemis Fowl:
   series: Artemis Fowl
   series_index: 1
   url: /book/show/249747.artemis-fowl
+Artificial Condition:
+  author: Martha Wells
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SX98_.jpg
+  id: 36223860
+  localCover: /embeds/books/artificial-condition.jpg
+  name: Artificial Condition
+  series: The Murderbot Diaries
+  series_index: 2
+  url: /book/show/36223860.artificial-condition
 At the Mountains of Madness:
   author: H.P. Lovecraft
   cover: https://images.gr-assets.com/books/1388341769l/32767.jpg
@@ -2946,6 +2955,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-23-no-future.jpg
   name: 'Hellblazer, Vol. 23: No Future'
   url: /book/show/52476989.hellblazer-vol-23-no-future
+'Hellblazer, Vol. 24: Sectioned':
+  author: Peter Milligan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611098264l/54237391._SX98_.jpg
+  id: 54237391
+  localCover: /embeds/books/hellblazer-vol-24-sectioned.jpg
+  name: 'Hellblazer, Vol. 24: Sectioned'
+  url: /book/show/54237391.hellblazer-vol-24-sectioned
 'Hellblazer, Vol. 2: The Devil You Know':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579959l/11938931._SX98_.jpg
@@ -8034,6 +8050,13 @@ Vamphyri!:
   series: Necroscope
   series_index: 2
   url: /book/show/60836.vamphyri
+'Vehicles: Experiments in Synthetic Psychology':
+  author: Valentino Braitenberg
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479782l/483485.jpg
+  id: 483485
+  localCover: /embeds/books/vehicles-experiments-in-synthetic-psychology.jpg
+  name: 'Vehicles: Experiments in Synthetic Psychology'
+  url: /book/show/483485.vehicles-experiments-in-synthetic-psychology
 Velocity:
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1386924205l/32421.jpg
