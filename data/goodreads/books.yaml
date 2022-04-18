@@ -2962,6 +2962,20 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-24-sectioned.jpg
   name: 'Hellblazer, Vol. 24: Sectioned'
   url: /book/show/54237391.hellblazer-vol-24-sectioned
+'Hellblazer, Vol. 25: Another Season':
+  author: Peter Milligan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1605799356l/55948095._SX98_.jpg
+  id: 55948095
+  localCover: /embeds/books/hellblazer-vol-25-another-season.jpg
+  name: 'Hellblazer, Vol. 25: Another Season'
+  url: /book/show/55948095.hellblazer-vol-25-another-season
+'Hellblazer, Vol. 26: The Curse of the Constantines':
+  author: Peter Milligan
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628327440l/58717923._SX98_.jpg
+  id: 58717923
+  localCover: /embeds/books/hellblazer-vol-26-the-curse-of-the-constantines.jpg
+  name: 'Hellblazer, Vol. 26: The Curse of the Constantines'
+  url: /book/show/58717923.hellblazer-vol-26-the-curse-of-the-constantines
 'Hellblazer, Vol. 2: The Devil You Know':
   author: Jamie Delano
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333579959l/11938931._SX98_.jpg
@@ -5055,6 +5069,15 @@ River Marked:
   series: Mercy Thompson
   series_index: 6
   url: /book/show/8087906.river-marked
+Rogue Protocol:
+  author: Martha Wells
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506001607l/35519101._SX98_.jpg
+  id: 35519101
+  localCover: /embeds/books/rogue-protocol.jpg
+  name: Rogue Protocol
+  series: The Murderbot Diaries
+  series_index: 3
+  url: /book/show/35519101.rogue-protocol
 Ruins:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1372085068l/17607716.jpg
@@ -5686,6 +5709,13 @@ Staked:
   localCover: /embeds/books/star-wars-darth-vader-vol-4-end-of-games.jpg
   name: 'Star Wars: Darth Vader, Vol. 4: End of Games'
   url: /book/show/29467582.star-wars-darth-vader-vol-4-end-of-games
+'Stargate Universe, Vol. 1: Back to Destiny':
+  author: Mark L. Haynes
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538621695l/42153109._SY475_.jpg
+  id: 42153109
+  localCover: /embeds/books/stargate-universe-vol-1-back-to-destiny.jpg
+  name: 'Stargate Universe, Vol. 1: Back to Destiny'
+  url: /book/show/42153109.stargate-universe-vol-1-back-to-destiny
 Starship Troopers:
   author: Robert A. Heinlein
   cover: https://images.gr-assets.com/books/1406457252l/17214.jpg
@@ -6881,6 +6911,15 @@ The Last Continent:
   series: Discworld
   series_index: 22
   url: /book/show/47994.the-last-continent
+The Last Graduate:
+  author: Naomi Novik
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1604391810l/55559887._SX98_.jpg
+  id: 55559887
+  localCover: /embeds/books/the-last-graduate.jpg
+  name: The Last Graduate
+  series: The Scholomance
+  series_index: 2
+  url: /book/show/55559887.the-last-graduate
 The Last Guardian:
   author: Eoin Colfer
   cover: https://images.gr-assets.com/books/1330969364l/9307674.jpg
