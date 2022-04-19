@@ -21,6 +21,8 @@ Rules:
 
 [Books by category on storygraph](https://app.thestorygraph.com/reading_challenges/0133b8ee-a08b-44f5-8d96-be27abbca85b)
 
+[A post about upcoming books by category](https://www.reddit.com/r/Fantasy/comments/u52lhn/235_upcoming_books_to_read_for_bingo/?utm_source=pocket_mylist)
+
 This post will automatically update as I tag books and I'll post ~if~ when I finish! I'm going to go for hard mode again as much as possible. Should be fun. :D
 
 {{< bingo "2022 Book Bingo" >}}
