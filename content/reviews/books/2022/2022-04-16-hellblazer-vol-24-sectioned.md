@@ -1,6 +1,6 @@
 ---
 title: "Hellblazer, Vol. 24: Sectioned"
-date: 2022-04-16
+date: 2022-04-16 00:00:05
 reviews/lists:
 - 2022 Book Reviews
 reviews/series:

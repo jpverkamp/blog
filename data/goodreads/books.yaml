@@ -1779,6 +1779,15 @@ Edgedancer:
   series: The Stormlight Archive
   series_index: 2.5
   url: /book/show/34703445.edgedancer
+'Edgeworld: A Little Chaos In Your Life':
+  author: Chuck Austen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619560254l/57878508._SY475_.jpg
+  id: 57878508
+  localCover: /embeds/books/edgeworld-a-little-chaos-in-your-life.jpg
+  name: 'Edgeworld: A Little Chaos In Your Life'
+  series: comiXology Originals
+  series_index: null
+  url: /book/show/57878508.edgeworld-a-little-chaos-in-your-life
 Elantris:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1475740953l/68427.jpg
@@ -1868,6 +1877,13 @@ Eric:
   series: Discworld
   series_index: 9
   url: /book/show/64218.eric
+Eric Carle's Animals Animals:
+  author: Eric Carle
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348884579l/123902.jpg
+  id: 123902
+  localCover: /embeds/books/eric-carles-animals-animals.jpg
+  name: Eric Carle's Animals Animals
+  url: /book/show/123902.eric-carles-animals-animals
 Even White Trash Zombies Get the Blues:
   author: Diana Rowland
   cover: https://images.gr-assets.com/books/1328080041l/12766833.jpg
@@ -4913,6 +4929,15 @@ Rebel Angels:
   series: Gemma Doyle
   series_index: 2
   url: /book/show/51428.rebel-angels
+Record of a Spaceborn Few:
+  author: Becky Chambers
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516965190l/32802595._SX98_.jpg
+  id: 32802595
+  localCover: /embeds/books/record-of-a-spaceborn-few.jpg
+  name: Record of a Spaceborn Few
+  series: Wayfarers
+  series_index: 3
+  url: /book/show/32802595.record-of-a-spaceborn-few
 Red Prophet:
   author: Orson Scott Card
   cover: https://images.gr-assets.com/books/1379147136l/7968.jpg
@@ -5709,6 +5734,13 @@ Staked:
   localCover: /embeds/books/star-wars-darth-vader-vol-4-end-of-games.jpg
   name: 'Star Wars: Darth Vader, Vol. 4: End of Games'
   url: /book/show/29467582.star-wars-darth-vader-vol-4-end-of-games
+'Stargate Universe Vol. 1: Back to Destiny':
+  author: Mark L. Haynes
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538621695l/42153109._SY475_.jpg
+  id: 42153109
+  localCover: /embeds/books/stargate-universe-vol-1-back-to-destiny.jpg
+  name: 'Stargate Universe Vol. 1: Back to Destiny'
+  url: /book/show/42153109.stargate-universe-vol-1-back-to-destiny
 'Stargate Universe, Vol. 1: Back to Destiny':
   author: Mark L. Haynes
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538621695l/42153109._SY475_.jpg
@@ -6250,6 +6282,13 @@ The Colour Out of Space:
   localCover: /embeds/books/the-colour-out-of-space.jpg
   name: The Colour Out of Space
   url: /book/show/10562201.the-colour-out-of-space
+The Complete Maus:
+  author: Art Spiegelman
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327354180l/15195._SX98_.jpg
+  id: 15195
+  localCover: /embeds/books/the-complete-maus.jpg
+  name: The Complete Maus
+  url: /book/show/15195.the-complete-maus
 The Complete Poetry and Prose:
   author: William Blake
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347678657l/782580.jpg

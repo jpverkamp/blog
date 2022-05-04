@@ -1,16 +1,16 @@
 ---
-title: "Stargate Universe, Vol. 1: Back to Destiny"
-date: 2022-04-17 00:00:10
+title: "Stargate Universe Vol. 1: Back to Destiny"
+date: 2022-04-17
 reviews/lists:
 - 2022 Book Reviews
 ---
-{{< goodreads book="Stargate Universe, Vol. 1: Back to Destiny" cover="true" >}}
+{{< goodreads book="Stargate Universe Vol. 1: Back to Destiny" cover="true" >}}
+
+I miss Stargate...
 
 6 issues making what would have been a decent enough Season 3 opener… but I want so much more than that. What would it be like to have {{<spoiler>}}an Ancient {{</spoiler>}} on the crew?! So it goes. 
 
-The art isn't stellar; I can't actually tell who some of the characters are at a glance, which is something considering I've watched Universe several times now. But it's serviceable. 
-
-Overall, it has potential as a continuation of the Universe story that we won't otherwise get but I wouldn’t really consider it necessary or even necessarily canon. 
+Overall, it has potential as a contusion but I wouldn’t really consider it necessary or even necessarily canon. 
 
 <!--more-->
 
