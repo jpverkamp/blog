@@ -1893,6 +1893,15 @@ Even White Trash Zombies Get the Blues:
   series: White Trash Zombie
   series_index: 2
   url: /book/show/12766833.even-white-trash-zombies-get-the-blues
+Exit Strategy:
+  author: Martha Wells
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518642623l/35519109._SX98_.jpg
+  id: 35519109
+  localCover: /embeds/books/exit-strategy.jpg
+  name: Exit Strategy
+  series: The Murderbot Diaries
+  series_index: 4
+  url: /book/show/35519109.exit-strategy
 Fables:
   author: Arnold Lobel
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349065576l/652484.jpg
@@ -4992,6 +5001,13 @@ Redwall:
   series: Redwall
   series_index: 1
   url: /book/show/7996.redwall
+'Redwall: The Graphic Novel':
+  author: Brian Jacques
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479205473l/32987687._SY475_.jpg
+  id: 201354
+  localCover: /embeds/books/redwall-the-graphic-novel.jpg
+  name: 'Redwall: The Graphic Novel'
+  url: /book/show/201354.redwall-the-graphic-novel
 Rendezvous with Rama:
   author: Arthur C. Clarke
   cover: https://images.gr-assets.com/books/1405456427l/112537.jpg
@@ -5764,6 +5780,13 @@ Steelheart:
   series: The Reckoners
   series_index: 1
   url: /book/show/17182126.steelheart
+'Stiff: The Curious Lives of Human Cadavers':
+  author: Mary Roach
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649429166l/32145._SX98_.jpg
+  id: 32145
+  localCover: /embeds/books/stiff-the-curious-lives-of-human-cadavers.jpg
+  name: 'Stiff: The Curious Lives of Human Cadavers'
+  url: /book/show/32145.stiff-the-curious-lives-of-human-cadavers
 Stiletto:
   author: Daniel O'Malley
   cover: https://images.gr-assets.com/books/1433883952l/25695756.jpg
@@ -8110,6 +8133,13 @@ Uprooted:
   localCover: /embeds/books/uprooted.jpg
   name: Uprooted
   url: /book/show/22544764.uprooted
+V for Vendetta:
+  author: Alan Moore
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1343668985l/5805._SX98_.jpg
+  id: 5805
+  localCover: /embeds/books/v-for-vendetta.jpg
+  name: V for Vendetta
+  url: /book/show/5805.v-for-vendetta
 Valhalla Rising:
   author: Clive Cussler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405182792l/198331.jpg
