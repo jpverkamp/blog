@@ -2356,6 +2356,15 @@ Frost Burned:
   series: Mercy Thompson
   series_index: 7
   url: /book/show/13413589.frost-burned
+Fugitive Telemetry:
+  author: Martha Wells
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589475583l/53205854._SX98_.jpg
+  id: 53205854
+  localCover: /embeds/books/fugitive-telemetry.jpg
+  name: Fugitive Telemetry
+  series: The Murderbot Diaries
+  series_index: 6
+  url: /book/show/53205854.fugitive-telemetry
 Fullmetal Alchemist, Vol. 1:
   author: Hiromu Arakawa
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388179331l/870.jpg
@@ -4405,6 +4414,15 @@ Nemesis Games:
   series: The Expanse
   series_index: 5
   url: /book/show/22886612.nemesis-games
+Network Effect:
+  author: Martha Wells
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640597293l/52381770._SX98_.jpg
+  id: 52381770
+  localCover: /embeds/books/network-effect.jpg
+  name: Network Effect
+  series: The Murderbot Diaries
+  series_index: 5
+  url: /book/show/52381770.network-effect
 Neverwhere:
   author: Neil Gaiman
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX98_.jpg
@@ -5653,6 +5671,15 @@ Spellbound:
   series: Grimnoir Chronicles
   series_index: 2
   url: /book/show/18899915.spellbound
+Spelunky:
+  author: Derek Yu
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456555020l/26152638._SX98_.jpg
+  id: 26152638
+  localCover: /embeds/books/spelunky.jpg
+  name: Spelunky
+  series: Boss Fight Books
+  series_index: 11
+  url: /book/show/26152638.spelunky
 Spin:
   author: Robert Charles Wilson
   cover: https://images.gr-assets.com/books/1406383726l/910863.jpg
@@ -6060,6 +6087,15 @@ The Black Prism:
   series: Lightbringer
   series_index: 1
   url: /book/show/8517437.the-black-prism
+The Blade Itself:
+  author: Joe Abercrombie
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1284167912l/944073._SX98_SY160_.jpg
+  id: 944073
+  localCover: /embeds/books/the-blade-itself.jpg
+  name: The Blade Itself
+  series: The First Law
+  series_index: 1
+  url: /book/show/944073.the-blade-itself
 The Blinding Knife:
   author: Brent Weeks
   cover: https://images.gr-assets.com/books/1338432693l/12499290.jpg
@@ -7215,6 +7251,15 @@ The Midnight Library:
   localCover: /embeds/books/the-midnight-library.jpg
   name: The Midnight Library
   url: /book/show/52578297.the-midnight-library
+'The Mysterious Benedict Society':
+  author: Trenton Lee Stewart
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529611235l/40605329._SX98_.jpg
+  id: 40605329
+  localCover: /embeds/books/the-mysterious-benedict-society.jpg
+  name: 'The Mysterious Benedict Society'
+  series: The Mysterious Benedict Society
+  series_index: 1
+  url: /book/show/40605329.the-mysterious-benedict-society
 The Name of the Wind:
   author: Patrick Rothfuss
   cover: https://images.gr-assets.com/books/1472068073l/186074.jpg

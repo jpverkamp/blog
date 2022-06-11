@@ -5,6 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - HBOMax
+reviews/series:
+- The Matrix
 ---
 {{< figure class="cover-image" src="/embeds/movies/the-matrix-resurrections.jpg" >}}
 

@@ -19,7 +19,7 @@ import: import-flickr import-goodreads
 
 run:
 	sleep 10 && open http://localhost/ &
-	hugo server --watch --verbose --buildFuture --bind 0.0.0.0 --port 80
+	hugo server --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi

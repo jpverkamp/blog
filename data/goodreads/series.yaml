@@ -2122,6 +2122,18 @@ The First Formic War:
   id: 72732
   name: The First Formic War
   url: /series/72732.the-first-formic-war
+The First Law:
+  books:
+    1: The Blade Itself
+    2: Before They Are Hanged
+    3: Last Argument of Kings
+    4: Best Served Cold
+    5: The Heroes
+    6: Red Country
+    1-3: The First Law Trilogy
+  id: 43644
+  name: The First Law
+  url: /series/43644.the-first-law
 The Frontiers Saga:
   books:
     1: 'Aurora: CV-01'
@@ -2363,6 +2375,20 @@ The Murderbot Diaries:
   id: 191900
   name: The Murderbot Diaries
   url: /series/191900.the-murderbot-diaries
+The Mysterious Benedict Society:
+  books:
+    1: The Mysterious Benedict Society
+    2: The Mysterious Benedict Society and the Perilous Journey
+    3: The Mysterious Benedict Society and the Prisoner's Dilemma
+    4: The Mysterious Benedict Society and the Riddle of Ages
+    Extra: 'The Mysterious Benedict Society: Mr. Benedict''s Book of Perplexing Puzzles,
+      Elusive Enigmas, and Curious Conundrums'
+    1-3: The Mysterious Benedict Society Collection
+    0-3: The Mysterious Benedict Society Collection
+    0-4: The Mysterious Benedict Society Paperback Boxed Set
+  id: 40996
+  name: The Mysterious Benedict Society
+  url: /series/40996.the-mysterious-benedict-society
 The Poppy War:
   books:
     1: The Poppy War

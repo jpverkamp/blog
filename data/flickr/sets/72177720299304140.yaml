@@ -1,0 +1,30 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 10
+count_videos: 0
+count_views: '0'
+date_create: '1653688504'
+date_update: '1653688749'
+description: ''
+farm: 66
+id: '72177720299304140'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52103843403'
+- '52103844108'
+- '52103845478'
+- '52104064454'
+- '52103813556'
+- '52102787697'
+- '52104066714'
+- '52104068189'
+- '52102790047'
+- '52104069114'
+primary: '52103843403'
+secret: 54cbcdcd79
+server: '65535'
+title: Spring Mill Camping
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

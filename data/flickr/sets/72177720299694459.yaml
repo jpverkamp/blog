@@ -1,0 +1,29 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 9
+count_videos: 0
+count_views: '0'
+date_create: '1654873297'
+date_update: '1654873500'
+description: ''
+farm: 66
+id: '72177720299694459'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52136726705'
+- '52135207312'
+- '52136728770'
+- '52135208562'
+- '52136730130'
+- '52135209202'
+- '52136234701'
+- '52135211582'
+- '52136260213'
+primary: '52136726705'
+secret: 4275a8f7cd
+server: '65535'
+title: Cox Hall
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

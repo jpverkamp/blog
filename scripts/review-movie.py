@@ -88,6 +88,7 @@ while True:
         fout.write(f'''---
 title: "{title}"
 date: {date}
+draft: True
 reviews/lists:
 - {year} {"TV" if content_type == "tv" else "Movie"} Reviews
 ''')

@@ -48,6 +48,7 @@ while True:
 ---
 title: {json.dumps(book['name'])}
 date: {date}
+draft: True
 {headers}---
 {{{{< goodreads book="{book['name']}" cover="true" >}}}}
 '''
