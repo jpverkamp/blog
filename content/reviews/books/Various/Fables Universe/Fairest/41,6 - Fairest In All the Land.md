@@ -15,9 +15,7 @@ book/isbn: '1401239005'
 book/isbn13: '9781401239008'
 rating: 4
 book/pages: 160
-series_index:
-- 6
-- 41
+series_index: [6, 41]
 ---
 Fairest. The story of Cinderella, this time trying to solve a murder mystery as all the 'fairest in the land' (there are amusingly many of them) are dropping like flies. It's actually a fairly decent murder mystery and while you completely expect that there will be some way (MAGIC!) to bring them back in the end, there's still a chance that they might not.  
 

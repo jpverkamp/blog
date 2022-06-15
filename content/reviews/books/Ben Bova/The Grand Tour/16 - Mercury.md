@@ -14,8 +14,7 @@ book/isbn: '0765343142'
 book/isbn13: '9780765343147'
 rating: 4
 book/pages: 334
-series_index:
-- 16
+series_index: [16]
 ---
 {{< goodreads book="Mercury" text=" Mercury " >}} is one of the better books of the Grand Tour, which is a relief after {{< goodreads book="Saturn" text=" Saturn " >}} and {{< goodreads book="Titan" text=" Titan " >}} .  
 

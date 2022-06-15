@@ -15,9 +15,7 @@ book/isbn: '1401202225'
 book/isbn13: '9781401202224'
 rating: 5
 book/pages: 244
-series_index:
-- 4
-- 4
+series_index: [4, 4]
 ---
 Another tale and far more worldbuilding!  
 

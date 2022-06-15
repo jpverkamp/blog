@@ -14,8 +14,7 @@ book/isbn: 0765380692
 book/isbn13: '9780765380692'
 rating: 5
 book/pages: 303
-series_index:
-- 5
+series_index: [5]
 ---
 Following the disastrous ending of The Devil's Only Friend, John and Brooke are out hunting Withered on their own.  
 

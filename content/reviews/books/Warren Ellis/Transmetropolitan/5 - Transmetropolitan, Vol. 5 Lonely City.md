@@ -12,8 +12,7 @@ book/goodreads_id: 20232821
 cover: /embeds/books/transmetropolitan-vol-5-lonely-city.jpg
 rating: 4
 book/pages: 146
-series_index:
-- 5
+series_index: [5]
 ---
 Onwards and halfwaywards. The election is over and Spider and co are on the scene.  
 

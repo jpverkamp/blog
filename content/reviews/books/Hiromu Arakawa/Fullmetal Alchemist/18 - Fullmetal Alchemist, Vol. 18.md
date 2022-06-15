@@ -14,8 +14,7 @@ book/isbn: '1421525364'
 book/isbn13: '9781421525365'
 rating: 5
 book/pages: 192
-series_index:
-- 18
+series_index: [18]
 ---
 Hooooly crap. Another Homunculos: Pride. And not at all who I would have expected! Crazy chimera fight (those are still a thing, remember?) and a bit more development and growth from May.  
 

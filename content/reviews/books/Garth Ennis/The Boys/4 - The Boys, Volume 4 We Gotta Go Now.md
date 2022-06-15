@@ -14,8 +14,7 @@ book/isbn: '1606900358'
 book/isbn13: '9781606900352'
 rating: 4
 book/pages: 184
-series_index:
-- 4
+series_index: [4]
 ---
 ![The-Boys-4-2](/embeds/books/attachments/the-boys-4-2.jpg)  
 

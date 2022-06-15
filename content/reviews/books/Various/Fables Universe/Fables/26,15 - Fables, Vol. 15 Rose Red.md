@@ -15,9 +15,7 @@ book/isbn: '1401230008'
 book/isbn13: '9781401230005'
 rating: 5
 book/pages: 256
-series_index:
-- 15
-- 26
+series_index: [15, 26]
 ---
 Totenkinder (now Bellflower) has a plan, but she's not going to let anyone else in. So instead, we're going to deal with the fall of Rose Red after the death of Boy Blue and a shock from her past strong enough to shake her out of it.  
 

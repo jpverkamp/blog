@@ -14,8 +14,7 @@ book/isbn: 0743449673
 book/isbn13: '9780743449670'
 rating: 5
 book/pages: 537
-series_index:
-- 13
+series_index: [13]
 ---
 {{< goodreads book="Shock Wave" text=" Shock Wave " >}} is yet another crazy book. Par for the course at this point. This time around, we have shipwrecks, sea serpents, diamonds, and a strange 'acoustic plague' that kills every living thing within a hundred kilometers. The bad guys are evil, the good guys are going to win in the end, and it's going to be a crazy story along the way.  
 

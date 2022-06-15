@@ -15,9 +15,7 @@ book/isbn: '0061020664'
 book/isbn13: '9780061020667'
 rating: 4
 book/pages: 265
-series_index:
-- 6
-- 2
+series_index: [6, 2]
 ---
 Witches, take two.  
 

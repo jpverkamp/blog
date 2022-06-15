@@ -14,8 +14,7 @@ book/isbn: 0152047379
 book/isbn13: '9780152047375'
 rating: 5
 book/pages: 180
-series_index:
-- 1
+series_index: [1]
 ---
 > “...Borrower's don't steal."   
 > 

@@ -14,8 +14,7 @@ book/isbn: '1421530341'
 book/isbn13: '9781421530345'
 rating: 5
 book/pages: 200
-series_index:
-- 20
+series_index: [20]
 ---
 Ooooh my. A human traitor, a Homunculus rendered ... cute?, the fated meetings of Rose and Winry and Van Hohenheim and his children, a whole manufactored army (because of course) ... and the Armstrongs. Oh the Armstrongs. Things just keep escalating step by step. We're really getting into the endgame now!  
 

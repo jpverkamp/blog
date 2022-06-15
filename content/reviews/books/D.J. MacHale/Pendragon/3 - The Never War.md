@@ -14,8 +14,7 @@ book/isbn: '1597372552'
 book/isbn13: '9781597372558'
 rating: 4
 book/pages: 352
-series_index:
-- 3
+series_index: [3]
 ---
 > “You want to know why we're the ones responsible?" Gunny asked.  
 >

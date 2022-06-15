@@ -14,8 +14,7 @@ book/isbn: 044101433X
 book/isbn13: '9780441014330'
 rating: 4
 book/pages: 410
-series_index:
-- 5
+series_index: [5]
 ---
 Summary: The Academy is running out of money. In the meantime, MacAllister, a senator's daughter, a pilot, and a PR guy from the Academy are on a tour looking for UFOs because reasons. Eventually the find some (ish), the daughter gets contacted by aliens (maybe, no one believes her at first and it's never really explained), and a bunch of people die.  
 

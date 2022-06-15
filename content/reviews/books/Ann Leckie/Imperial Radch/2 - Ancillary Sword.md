@@ -14,8 +14,7 @@ book/isbn: '0316246654'
 book/isbn13: '9780316246651'
 rating: 4
 book/pages: 359
-series_index:
-- 2
+series_index: [2]
 ---
 This book was a bit odd so far as sequels go, shrinking the scope of the story significantly from the first book.  
 

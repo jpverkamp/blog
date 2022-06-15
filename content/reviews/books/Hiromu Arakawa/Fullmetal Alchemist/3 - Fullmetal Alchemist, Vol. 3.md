@@ -14,8 +14,7 @@ book/isbn: '1591169259'
 book/isbn13: '9781591169253'
 rating: 5
 book/pages: 182
-series_index:
-- 3
+series_index: [3]
 ---
 Oh these are wonderful.  
 

@@ -15,9 +15,7 @@ book/isbn: 0765350378
 book/isbn13: '9780765350374'
 rating: 5
 book/pages: 622
-series_index:
-- 1
-- 0
+series_index: [1, 0]
 ---
 I have yet to find a Sanderson novel that I don't particularly like and Elantris is no exception.  
 

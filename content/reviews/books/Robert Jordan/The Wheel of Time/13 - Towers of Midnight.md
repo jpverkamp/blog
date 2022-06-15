@@ -14,8 +14,7 @@ book/isbn: 0765325942
 book/isbn13: '9780765325945'
 rating: 5
 book/pages: 863
-series_index:
-- 13
+series_index: [13]
 ---
 {{< goodreads book="Towers of Midnight" >}} continues the final avalanche to the Last Battle, with Lan continuing to gathering followers, the Black Tower continuing to grow more and more corrupt, Perrin confronting the Whitecloaks (it's about time that storyline wraps up), and the newly healed Rand causing even more chaos than before.  
 

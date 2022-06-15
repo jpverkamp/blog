@@ -14,8 +14,7 @@ book/isbn: 0356502538
 book/isbn13: '9780356502533'
 rating: 5
 book/pages: 352
-series_index:
-- 5
+series_index: [5]
 ---
 Vampires don't exist.  
 

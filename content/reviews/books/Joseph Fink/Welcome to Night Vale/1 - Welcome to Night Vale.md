@@ -10,8 +10,7 @@ reviews/authors:
 - Joseph Fink
 book/goodreads_id: 23129410
 cover: /embeds/books/welcome-to-night-vale.jpg
-series_index:
-- 1
+series_index: [1]
 ---
 DNF at 25%.  
 

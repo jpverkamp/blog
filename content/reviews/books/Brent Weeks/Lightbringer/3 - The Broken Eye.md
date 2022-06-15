@@ -12,8 +12,7 @@ book/goodreads_id: 12652457
 cover: /embeds/books/the-broken-eye.jpg
 rating: 5
 book/pages: 846
-series_index:
-- 3
+series_index: [3]
 ---
 > Magic was useful for everything. It just killed you. You should always think of it first. Then you should decide if a little dram of death was worth it.
 

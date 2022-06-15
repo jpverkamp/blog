@@ -12,8 +12,7 @@ book/goodreads_id: 16130317
 cover: /embeds/books/warbound.jpg
 rating: 5
 book/pages: 386
-series_index:
-- 3
+series_index: [3]
 ---
 > We become Grimnoir in order to become heroes, to sacrifice our lives in the pursuit of a higher cause, to defend the defenseless . . . I’ve found that means attending a lot of funerals.
 

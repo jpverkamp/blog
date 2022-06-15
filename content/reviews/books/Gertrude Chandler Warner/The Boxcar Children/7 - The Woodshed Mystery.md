@@ -14,8 +14,7 @@ book/isbn: 0807592072
 book/isbn13: '9780807592076'
 rating: 5
 book/pages: 160
-series_index:
-- 7
+series_index: [7]
 ---
 It's straight forward, with a nice bit of history for the mystery (which is a nice change) and the return of Aunt Jane (actually being married and happy, yay!).  
 

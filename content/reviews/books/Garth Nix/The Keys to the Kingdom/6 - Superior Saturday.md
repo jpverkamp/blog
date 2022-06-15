@@ -14,8 +14,7 @@ book/isbn: 0439700892
 book/isbn13: '9780439700894'
 rating: 4
 book/pages: 336
-series_index:
-- 6
+series_index: [6]
 ---
 I like the visuals around Saturday's realm. It's one of the better ones when it comes to motivation and the idea of a gigantic clockwork tower stretching upwards... cool.  
 

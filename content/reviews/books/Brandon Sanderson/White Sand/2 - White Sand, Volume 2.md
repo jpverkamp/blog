@@ -14,8 +14,7 @@ book/isbn: 152410342X
 book/isbn13: '9781524103422'
 rating: 4
 book/pages: 160
-series_index:
-- 2
+series_index: [2]
 ---
 One of the things that I feared most about getting into these stories is the big 'art style change'. I see it. It's definately different. But having read all manner of graphic novels over the last year--some change *far* more dramatically than this. They're similar enough that I barely even noticed for the most part.  
 

@@ -14,8 +14,7 @@ book/isbn: '1933305924'
 book/isbn13: '9781933305929'
 rating: 5
 book/pages: 192
-series_index:
-- 3
+series_index: [3]
 ---
 *Warning: NSFW*  
 

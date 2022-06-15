@@ -14,8 +14,7 @@ book/isbn: 0399575510
 book/isbn13: '9780399575518'
 rating: 3
 book/pages: 486
-series_index:
-- 24
+series_index: [24]
 ---
 Man of action Permutter saves the day!  
 

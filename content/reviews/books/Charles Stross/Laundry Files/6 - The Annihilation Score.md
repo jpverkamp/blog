@@ -14,8 +14,7 @@ book/isbn: '0356505316'
 book/isbn13: '9780356505312'
 rating: 4
 book/pages: 352
-series_index:
-- 6
+series_index: [6]
 ---
 The Annihilation Score takes a bit of a different take from the previous five books, shifting the viewpoint from the previous hero* Bob to his wife Mo.  
 

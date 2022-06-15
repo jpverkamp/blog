@@ -14,8 +14,7 @@ book/isbn: 0345539788
 book/isbn13: '9780345539786'
 rating: 4
 book/pages: 382
-series_index:
-- 0
+series_index: [0]
 ---
 Take one part Hunger Games, one part Ender's Game, and mix in some Harry Potter to taste. Take the whole thing and put it on Mars. Voila Red Rising.  
 

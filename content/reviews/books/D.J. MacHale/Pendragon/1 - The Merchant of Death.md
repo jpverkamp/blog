@@ -14,8 +14,7 @@ book/isbn: '0743437314'
 book/isbn13: '9780743437318'
 rating: 4
 book/pages: 375
-series_index:
-- 1
+series_index: [1]
 ---
 I know I've read {{< goodreads book="The Merchant of Death" >}} / the Pendragon books before, but it's been long enough that I couldn't even say for sure when. It might have even been back when I was the same age as the eponymous protagonist Bobby Pendragon rather than more than twice that. I think I enjoyed it quite a bit though, so worth giving it a chance to reread.  
 

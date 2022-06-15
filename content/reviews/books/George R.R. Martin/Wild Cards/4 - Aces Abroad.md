@@ -14,8 +14,7 @@ book/isbn: '0743452410'
 book/isbn13: '9780743452410'
 rating: 4
 book/pages: 521
-series_index:
-- 4
+series_index: [4]
 ---
 After {{< goodreads book="Jokers Wild" text=" Jokers Wild " >}} , I'm glad to see {{< goodreads book="Aces Abroad" text=" Aces Abroad " >}} move on from Fortunato/the Masons (although Fortunato isn't gone for good just yet). After listening to the afterward by George RR Martin, that seems to have been intentional: the first three books were ordered together and made a self contained arc. A similar pattern will continue through the rest of the books.  
 

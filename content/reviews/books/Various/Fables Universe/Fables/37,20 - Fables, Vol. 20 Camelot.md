@@ -15,9 +15,7 @@ book/isbn: '1401245161'
 book/isbn13: '9781401245160'
 rating: 4
 book/pages: 256
-series_index:
-- 20
-- 37
+series_index: [20, 37]
 ---
 Onward and Fableward, we're almost to the end!  
 

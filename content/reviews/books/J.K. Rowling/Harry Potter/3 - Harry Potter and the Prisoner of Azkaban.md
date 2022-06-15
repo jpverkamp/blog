@@ -14,8 +14,7 @@ book/isbn: 043965548X
 book/isbn13: '9780439655484'
 rating: 5
 book/pages: 435
-series_index:
-- 3
+series_index: [3]
 ---
 I think on previous readings/viewings, the Prisoner of Azkaban was my favorite book/movie. Wacky things happen, you get some cool magical thingie moments (the Marauders map is _cool_ as is the _Monster Book of Monsters_ ), you see a bit more of the magical world (Hogsmeade!), and you learn a bit more about Harry's parents and how Hogwarts was before Voldemort was at the height of his power.  
 

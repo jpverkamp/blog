@@ -15,9 +15,7 @@ book/isbn: '1401225721'
 book/isbn13: '9781401225728'
 rating: 4
 book/pages: 224
-series_index:
-- 13
-- 22
+series_index: [13, 22]
 ---
 Oooh boy. This is a weird one. Jack and the Literals spill into the Farm, just as the Fabletown residents have been forced out by Dark problems of their own. So who comes first, the Literals or the Dark One? Well, perhaps the one that, with a stroke of the pen, can change the very nature of reality...  
 

@@ -13,8 +13,7 @@ book/isbn: '1779503059'
 book/isbn13: '9781779503053'
 rating: 4
 book/pages: 384
-series_index:
-- 23
+series_index: [23]
 ---
 An interesting collection. Constantine in India, looking for purity. Punk and the Conservatives. Nergal and Bast’s … cousin, maybe? And Papa Midnite backstory. A lot of leaning on the past, but neat stories. 
 

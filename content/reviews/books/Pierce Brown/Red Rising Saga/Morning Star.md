@@ -14,8 +14,7 @@ book/isbn: 0345539842
 book/isbn13: '9780345539847'
 rating: 5
 book/pages: 524
-series_index:
-- 0
+series_index: [0]
 ---
 A fitting end to a surprisingly solid (to me at least) end to a surprisingly good series.  
 

@@ -14,8 +14,7 @@ book/isbn: '0062071106'
 book/isbn13: '9780062071101'
 rating: 5
 book/pages: 464
-series_index:
-- 3
+series_index: [3]
 ---
 A solid ending to a solid series.  
 

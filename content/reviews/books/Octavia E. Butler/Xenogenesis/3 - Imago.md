@@ -14,8 +14,7 @@ book/isbn: '0446603635'
 book/isbn13: '9780446603638'
 rating: 5
 book/pages: 220
-series_index:
-- 3
+series_index: [3]
 ---
 {{< goodreads book="Imago" >}} closes out the Lilith's Brood trilogy, continuing and building on a lot of the general world building set out in {{< goodreads book="Dawn" >}} and {{< goodreads book="Adulthood Rites" >}}. This time around, we're not directly following either Lilith or Akin, but rather Jodahs, perhaps the least human protagonist of the series--as he will be the first human/Oankali hybrid that appears to be growing up to be neither male nor female, instead growing up ooloi.  
 

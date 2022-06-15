@@ -14,8 +14,7 @@ book/isbn: 0807534137
 book/isbn13: '9780807534137'
 rating: 5
 book/pages: 128
-series_index:
-- 12
+series_index: [12]
 ---
 A mystery on a houseboat? Sure! That actually sounds like a really fun vacation.  
 

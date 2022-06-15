@@ -13,8 +13,7 @@ book/isbn: '1779510292'
 book/isbn13: '9781779510297'
 rating: 4
 book/pages: 352
-series_index:
-- 25
+series_index: [25]
 ---
 Man Constantine’s life is a mess. Father in law has some use for him—which goes badly. He’s down a thumb and needs to deal with that—which goes badly. His coat’s gone evil walkabout—which goes badly. Gemma has it out for him (or at least his demonic twin)—which goes badly. 
 

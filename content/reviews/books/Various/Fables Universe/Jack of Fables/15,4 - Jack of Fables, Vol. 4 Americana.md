@@ -15,9 +15,7 @@ book/isbn: '1401219799'
 book/isbn13: '9781401219796'
 rating: 4
 book/pages: 128
-series_index:
-- 4
-- 15
+series_index: [4, 15]
 ---
 So far as Jack stories, this was one pretty week. Americana is interesting, and the idea that zombies are both a huge part of life, but completely integrated certainly means... something?  
 

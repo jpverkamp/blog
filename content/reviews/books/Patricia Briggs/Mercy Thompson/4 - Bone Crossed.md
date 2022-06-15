@@ -14,8 +14,7 @@ book/isbn: '1841496863'
 book/isbn13: '9781841496863'
 rating: 5
 book/pages: 300
-series_index:
-- 4
+series_index: [4]
 ---
 Back to vampires for a little while.  
 

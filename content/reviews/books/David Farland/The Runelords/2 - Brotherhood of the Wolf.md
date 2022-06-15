@@ -14,8 +14,7 @@ book/isbn: 0812570693
 book/isbn13: '9780812570694'
 rating: 5
 book/pages: 659
-series_index:
-- 2
+series_index: [2]
 ---
 Wooo boy things ramp up.  
 

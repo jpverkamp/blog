@@ -12,8 +12,7 @@ book/goodreads_id: 29236245
 cover: /embeds/books/sherlock-holmes-and-the-shadwell-shadows.jpg
 rating: 4
 book/pages: 448
-series_index:
-- 1
+series_index: [1]
 ---
 > You are far too stolid and unimaginative, Watson, to invent a tale like that.
 

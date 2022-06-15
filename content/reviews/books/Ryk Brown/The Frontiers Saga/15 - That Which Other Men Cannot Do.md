@@ -12,8 +12,7 @@ book/goodreads_id: 28248264
 cover: /embeds/books/that-which-other-men-cannot-do.jpg
 rating: 4
 book/pages: 639
-series_index:
-- 15
+series_index: [15]
 ---
 And so it ends (for now).  
 

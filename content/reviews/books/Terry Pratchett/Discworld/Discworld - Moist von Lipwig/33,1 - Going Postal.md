@@ -15,9 +15,7 @@ book/isbn: 0060502932
 book/isbn13: '9780060502935'
 rating: 5
 book/pages: 394
-series_index:
-- 33
-- 1
+series_index: [33, 1]
 ---
 At the time of writing this, {{< goodreads book="Going Postal" >}} is tied for the second highest rated Discworld book on Goodreads (tied with {{< goodreads book="Men at Arms" >}} at 4.37, behind {{< goodreads book="Night Watch" >}} at 4.48). There's a reason for this...  
 

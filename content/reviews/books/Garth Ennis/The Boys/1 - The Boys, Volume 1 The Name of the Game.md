@@ -14,8 +14,7 @@ book/isbn: '9133305463'
 book/isbn13: '9789133305466'
 rating: 5
 book/pages: 152
-series_index:
-- 1
+series_index: [1]
 ---
 I recently watched [ The Boys ](https://www.amazon.com/The-Boys- Season-1/dp/B07QNJCXZK) on Amazon. It takes the basic idea that if you give a number of average people supernatural powers, a good number of them are going to call all sorts of wrong--even the good guys. So if the good guys are bad, [ who watches them? ](https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F)  
 

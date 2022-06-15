@@ -14,8 +14,7 @@ book/isbn: 0812579410
 book/isbn13: '9780812579413'
 rating: 4
 book/pages: 403
-series_index:
-- 9
+series_index: [9]
 ---
 After the first 8 books in The Grand Tour ({{< goodreads book="Mars" >}} in particular), {{< goodreads book="Jupiter" >}} feels a bit odd at the start. We're not building up to the eventual discovery of life--the fact that there's life on Jupiter is presented fait accompli in the first chapters. And not only life... intelligent life (or so is claimed). Jupiter isn't really about the discovery of life or even really about the idea of life on a research station around Jupiter.  
 

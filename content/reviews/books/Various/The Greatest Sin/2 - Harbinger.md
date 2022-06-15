@@ -13,8 +13,7 @@ book/goodreads_id: 23448889
 cover: /embeds/books/harbinger.jpg
 rating: 4
 book/pages: 285
-series_index:
-- 2
+series_index: [2]
 ---
 {{< goodreads book="Harbinger" >}} is a bit of a tonal shift from the {{< goodreads book="The Fallen" >}}. Where The Fallen had a split feel between Chavali's life with her clan and then after her death as one of the Fallen, Harbinger is almost entirely concerned with a single mission she's sent on on behalf of her former masters.  
 

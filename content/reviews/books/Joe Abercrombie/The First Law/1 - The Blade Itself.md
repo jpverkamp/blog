@@ -13,8 +13,7 @@ book/isbn: 0575079797
 book/isbn13: '9780575079793'
 rating: 5
 book/pages: 515
-series_index:
-- 1
+series_index: [1]
 ---
 > Every man has his excuses, and the more vile the man becomes, the more touching the story has to be. What is my story now, I wonder?
 

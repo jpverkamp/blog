@@ -14,8 +14,7 @@ book/isbn: 0380793164
 book/isbn13: '9780380793167'
 rating: 3
 book/pages: 392
-series_index:
-- 2
+series_index: [2]
 ---
 Reading {{< goodreads book="Powersat" >}} and then {{< goodreads book="Privateers" >}} (the suggested chronological order given for [series:The Grand Tour|51185]) is a bit strange, given the former was first published in 2005 and the latter back in 1985.  
 

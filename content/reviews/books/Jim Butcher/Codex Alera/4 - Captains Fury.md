@@ -14,8 +14,7 @@ book/isbn: '0441015271'
 book/isbn13: '9780441015276'
 rating: 5
 book/pages: 451
-series_index:
-- 4
+series_index: [4]
 ---
 {{< goodreads book="Captain's Fury" text=" Captain's Fury " >}} takes the 'Alera at war' feel of {{< goodreads book="Cursor's Fury" text=" Cursor's Fury " >}} and really turns it up a notch. Tavi has done the impossible and fought a war against the Canim for two years now, holding them in place and building the trust of his followers to impressive levels. But now a new foe is coming for him--a foe far more terrifying than the Canim, or even than the Vord (who are much less interesting when you don't see them on screen for a book or two)... politicians.  
 

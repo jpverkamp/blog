@@ -15,9 +15,7 @@ book/isbn: '1401227503'
 book/isbn13: '9781401227500'
 rating: 5
 book/pages: 144
-series_index:
-- 1
-- 20
+series_index: [1, 20]
 ---
 The first in a new subseries: the tales of Cinderella, Secret Agent!  
 

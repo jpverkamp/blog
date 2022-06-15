@@ -15,9 +15,7 @@ book/isbn: '0061020672'
 book/isbn13: '9780061020674'
 rating: 5
 book/pages: 276
-series_index:
-- 5
-- 3
+series_index: [5, 3]
 ---
 Sourcery is the first of the Rincewind subseries of Discworld not to also feature Twoflower. It makes sense--his story seems to have been told--but it still does feel a bit different.  
 

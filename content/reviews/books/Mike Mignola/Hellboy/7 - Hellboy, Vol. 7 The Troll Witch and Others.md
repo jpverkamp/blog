@@ -14,8 +14,7 @@ book/isbn: '1593078609'
 book/isbn13: '9781593078607'
 rating: 5
 book/pages: 144
-series_index:
-- 7
+series_index: [7]
 ---
 This is most a collection of short stories, with little impact on the larger universe. The stories are still wonderful and creepy though.  
 

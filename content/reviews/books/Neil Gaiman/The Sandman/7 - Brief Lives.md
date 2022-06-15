@@ -14,8 +14,7 @@ book/isbn: '1563891379'
 book/isbn13: '9781563891373'
 rating: 5
 book/pages: 256
-series_index:
-- 7
+series_index: [7]
 ---
 Destruction of the Endless is missing (and has been missing for a very long time). Delerium--the strangest by far--seeks him.  
 

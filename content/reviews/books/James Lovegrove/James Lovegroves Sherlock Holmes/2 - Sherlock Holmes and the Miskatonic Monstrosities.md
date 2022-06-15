@@ -13,8 +13,7 @@ cover: /embeds/books/sherlock-holmes-and-the-miskatonic-monstrosities.jpg
 book/isbn: '1783295953'
 book/isbn13: '9781783295951'
 book/pages: 459
-series_index:
-- 2
+series_index: [2]
 ---
 **Did not finish at 60%**  
 

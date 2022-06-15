@@ -14,8 +14,7 @@ book/isbn: '0765354063'
 book/isbn13: '9780765354068'
 rating: 5
 book/pages: 343
-series_index:
-- 2
+series_index: [2]
 ---
 After I read {{< goodreads book="Old Man's War" >}}, I went looking for the sequels. While on paper {{< goodreads book="The Ghost Brigades" >}} is the second in the series, it's surprisingly different.  
 

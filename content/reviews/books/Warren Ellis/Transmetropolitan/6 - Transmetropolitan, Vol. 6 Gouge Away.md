@@ -14,8 +14,7 @@ book/isbn: '1563897962'
 book/isbn13: '9781563897962'
 rating: 4
 book/pages: 144
-series_index:
-- 6
+series_index: [6]
 ---
 It continues!  
 

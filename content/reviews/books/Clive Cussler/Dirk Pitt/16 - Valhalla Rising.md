@@ -14,8 +14,7 @@ book/isbn: 0425204049
 book/isbn13: '9780425204047'
 rating: 5
 book/pages: 528
-series_index:
-- 16
+series_index: [16]
 ---
 Well that's one heck of an opening. A ship on fire! Trying to fit thousands on a ship normally crewed by dozens! Mysterious baddies! Action on the high seas! One of the things I like most about these series.  
 

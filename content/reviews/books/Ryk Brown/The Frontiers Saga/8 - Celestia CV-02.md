@@ -12,8 +12,7 @@ book/goodreads_id: 18335627
 cover: /embeds/books/celestia-cv-02.jpg
 rating: 4
 book/pages: 220
-series_index:
-- 8
+series_index: [8]
 ---
 As one could probably guess from the title, {{< goodreads book="Celestia CV-02" >}} is the first book (after 7!) of the series that doesn't focus on the Aurora and her crew.  
 

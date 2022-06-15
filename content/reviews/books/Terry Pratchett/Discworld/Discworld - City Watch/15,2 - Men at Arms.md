@@ -15,9 +15,7 @@ book/isbn: 0061092193
 book/isbn13: '9780061092190'
 rating: 5
 book/pages: 377
-series_index:
-- 15
-- 2
+series_index: [15, 2]
 ---
 Continuing the story of {{< goodreads book="Guards! Guards!" >}}, {{< goodreads book="Men at Arms" >}} follows all of my favorite characters from that former on a grand new adventure (of sorts).  
 

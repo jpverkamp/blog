@@ -14,8 +14,7 @@ book/isbn: 0425270718
 book/isbn13: '9780425270714'
 rating: 5
 book/pages: 327
-series_index:
-- 10
+series_index: [10]
 ---
 That was actually somewhat surprising for an ending. I expected a knock down, drag out fight with Roland, but instead...  {{< spoiler >}}Dragons. Of course it had to be dragons.{{< /spoiler >}}  
 

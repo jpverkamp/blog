@@ -13,8 +13,7 @@ book/isbn: '1401243037'
 book/isbn13: '9781401243036'
 rating: 5
 book/pages: 320
-series_index:
-- 7
+series_index: [7]
 ---
 Another solid volume. In particular, there's another volume about angels/demons/and the troubles they get into. It's not quite as good as the one in {{<crosslink "Hellblazer, Vol. 6: Bloodlines">}}, but still enjoyable. An interesting take on *Gabriel*, that's for sure. 
 

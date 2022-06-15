@@ -14,8 +14,7 @@ book/isbn: 0425256758
 book/isbn13: '9780425256756'
 rating: 5
 book/pages: 324
-series_index:
-- 4
+series_index: [4]
 ---
 Hope you like horses.  
 

@@ -13,8 +13,7 @@ book/isbn: '1401240437'
 book/isbn13: '9781401240431'
 rating: 5
 book/pages: 400
-series_index:
-- 6
+series_index: [6]
 ---
 A very solid issue. A couple of great longer storylines with long term consequences (Guys & Dolls was great) and a few shorter one offs (Lord of the Dance in particular I enjoyed). Could have been longer, but there’s still potentially more story to be told there. 
 

@@ -12,8 +12,7 @@ book/goodreads_id: 38619
 cover: /embeds/books/magic-bites.jpg
 rating: 5
 book/pages: 261
-series_index:
-- 1
+series_index: [1]
 ---
 On one hand, Magic Bites was pretty much what I expected. Urban Fantasy with a strong female lead (this time a mostly stock standard human mercenary albeit with some sort of so far unspecified magical bloodline) finds some trouble, things go badly, things get better, lead saves the day.  
 

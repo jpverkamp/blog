@@ -14,8 +14,7 @@ book/isbn: '1484746422'
 book/isbn13: '9781484746424'
 rating: 4
 book/pages: 414
-series_index:
-- 2
+series_index: [2]
 ---
 {{< goodreads book="The Dark Prophecy" >}} is straight up a sequal to {{< goodreads book="The Hidden Oracle" >}}. Pretty much all of my comments from  apply here. Apollo is still a decent but not great main character, Meg is still odd and weirdly powerful. The world still feels like something we've seen done better in Riordan's other series.  
 

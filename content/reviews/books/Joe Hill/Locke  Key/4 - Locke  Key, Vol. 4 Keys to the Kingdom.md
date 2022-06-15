@@ -14,8 +14,7 @@ book/isbn: '1600108865'
 book/isbn13: '9781600108860'
 rating: 5
 book/pages: 152
-series_index:
-- 4
+series_index: [4]
 ---
 Okay, that was wonderful. Starting out, we're going full out Calvin and Hobbes style:  
 

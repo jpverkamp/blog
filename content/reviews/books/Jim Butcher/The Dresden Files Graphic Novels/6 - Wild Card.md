@@ -13,8 +13,7 @@ book/isbn: '1524100994'
 book/isbn13: '9781524100995'
 rating: 4
 book/pages: 152
-series_index:
-- 6
+series_index: [6]
 ---
 So, I did totally miss this one... But hey, the comics tend to be somewhat less necessary to read in order than the novels, especially with the novels being well ahead in timeline.  
 

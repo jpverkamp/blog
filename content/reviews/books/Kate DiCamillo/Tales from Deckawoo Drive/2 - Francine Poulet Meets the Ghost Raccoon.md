@@ -14,8 +14,7 @@ book/isbn: 0763668869
 book/isbn13: '9780763668860'
 rating: 4
 book/pages: 98
-series_index:
-- 2
+series_index: [2]
 ---
 > Franny, you are the genuine article. You are solid. You are certain. You are like a refrigerator. You hum.
 

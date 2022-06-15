@@ -14,8 +14,7 @@ book/isbn: '0441013651'
 book/isbn13: '9780441013654'
 rating: 5
 book/pages: 345
-series_index:
-- 1
+series_index: [1]
 ---
 That... was intense.  
 

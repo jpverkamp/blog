@@ -12,8 +12,7 @@ book/goodreads_id: 55162224
 cover: /embeds/books/attack-on-titan-vol-33.jpg
 rating: 5
 book/pages: 194
-series_index:
-- 33
+series_index: [33]
 ---
 T-1. And man. It's...  
 

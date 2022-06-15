@@ -15,9 +15,7 @@ book/isbn: 0385611072
 book/isbn13: '9780385611077'
 rating: 5
 book/pages: 349
-series_index:
-- 38
-- 4
+series_index: [38, 4]
 ---
 Tiffany Aching is back! Now she's a full witch, out on her own.  
 

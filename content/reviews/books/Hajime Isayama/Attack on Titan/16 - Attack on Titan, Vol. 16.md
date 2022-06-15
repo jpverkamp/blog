@@ -14,8 +14,7 @@ book/isbn: '1612629806'
 book/isbn13: '9781612629803'
 rating: 5
 book/pages: 192
-series_index:
-- 16
+series_index: [16]
 ---
 Man it just keeps getting crazier and crazier. On one hand, we have more and more human on human violence in a giant underground columns set piece, perfect for their vertical maneuvering equipment.  
 

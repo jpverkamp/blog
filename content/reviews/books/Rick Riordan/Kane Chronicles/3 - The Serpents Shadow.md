@@ -14,8 +14,7 @@ book/isbn: '1423140575'
 book/isbn13: '9781423140573'
 rating: 4
 book/pages: 406
-series_index:
-- 3
+series_index: [3]
 ---
 A solid ending to the series. Once again the world will end in _n_ days and it's up to Sadie and Carter to save that day.  
 

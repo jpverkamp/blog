@@ -14,8 +14,7 @@ book/isbn: '0553274635'
 book/isbn13: '9780553274639'
 rating: 4
 book/pages: 592
-series_index:
-- 5
+series_index: [5]
 ---
 {{< goodreads book="Down and Dirty" >}} is a bit of an odd duck, with some stories taking place at the same time as the world tour of {{< goodreads book="Aces Abroad" >}} while others take place after. There are mafia plotlines, political plotlines with the Puppetman, and a bit of an internal struggle for both Tachyon and the Turtle. As with any of the short story collections, there's a wide variety of stories, for better and for worse.  
 

@@ -14,8 +14,7 @@ book/isbn: '1302907441'
 book/isbn13: '9781302907440'
 rating: 5
 book/pages: 154
-series_index:
-- 1
+series_index: [1]
 ---
 Another day... another Darth Vader serial?  
 

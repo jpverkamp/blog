@@ -14,8 +14,7 @@ book/isbn: '1421536307'
 book/isbn13: '9781421536309'
 rating: 5
 book/pages: 200
-series_index:
-- 23
+series_index: [23]
 ---
 IT CONTINUES!  
 

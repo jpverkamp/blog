@@ -14,8 +14,7 @@ book/isbn: 0765325950
 book/isbn13: '9780765325952'
 rating: 5
 book/pages: 912
-series_index:
-- 14
+series_index: [14]
 ---
 > There are no endings, and never will be endings, to the turning of the Wheel of Time. But it was an ending.
 

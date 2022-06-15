@@ -12,8 +12,7 @@ book/goodreads_id: 116982
 cover: /embeds/books/the-hand-of-oberon.jpg
 rating: 4
 book/pages: 188
-series_index:
-- 4
+series_index: [4]
 ---
 > Heredity or environment? I wondered wryly. We were all of us, to some degree, mad after his fashion. To be honest, it had to be a form of madness, to have so much and to strive so bitterly for just a little more, for a bit of an edge over the others. He carried this tendency to its extreme, that is all. He was a caricature of this mania in all of us. In this sense, did it really matter which of us was the traitor?
 

@@ -14,8 +14,7 @@ book/isbn: 0807506451
 book/isbn13: '9780807506455'
 rating: 4
 book/pages: 128
-series_index:
-- 19
+series_index: [19]
 ---
 And so it ends--at least the original 19 books written by {{< goodreads author="Gertrude Chandler Warner" >}}, which is where I'll be stopping for the time being.  
 

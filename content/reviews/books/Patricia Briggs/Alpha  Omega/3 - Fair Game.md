@@ -14,8 +14,7 @@ book/isbn: '1841497967'
 book/isbn13: '9781841497969'
 rating: 5
 book/pages: 308
-series_index:
-- 3
+series_index: [3]
 ---
 > People as old and powerful as he should never be given someone to love. For Anna he would destroy the world.
 

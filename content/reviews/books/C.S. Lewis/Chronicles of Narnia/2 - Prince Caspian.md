@@ -14,8 +14,7 @@ book/isbn: 000720230X
 book/isbn13: '9780007202300'
 rating: 4
 book/pages: 240
-series_index:
-- 2
+series_index: [2]
 ---
 > Things never happen the same way twice.
 

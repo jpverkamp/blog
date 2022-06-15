@@ -14,8 +14,7 @@ book/isbn: '0425204030'
 book/isbn13: '9780425204030'
 rating: 5
 book/pages: 530
-series_index:
-- 15
+series_index: [15]
 ---
 One of the things Clive Cussler does really well is take some bit of knowledge or lore and turn it up to eleven and see where that takes the world. {{< goodreads book="Raise the Titanic!" >}} A treaty that sold Canada to the US. Lincoln kidnapped and shipped to Africa.  
 

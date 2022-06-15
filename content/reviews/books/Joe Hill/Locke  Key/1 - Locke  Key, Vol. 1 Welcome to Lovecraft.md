@@ -14,8 +14,7 @@ book/isbn: '1600102379'
 book/isbn13: '9781600102370'
 rating: 5
 book/pages: 168
-series_index:
-- 1
+series_index: [1]
 ---
 ![](/embeds/books/attachments/locke-and-key-1.1.png)  
 

@@ -14,8 +14,7 @@ book/isbn: '1612622542'
 book/isbn13: '9781612622545'
 rating: 5
 book/pages: 192
-series_index:
-- 5
+series_index: [5]
 ---
 Crazier world building! Eren et al on a mission. Man this series is crazy.  
 

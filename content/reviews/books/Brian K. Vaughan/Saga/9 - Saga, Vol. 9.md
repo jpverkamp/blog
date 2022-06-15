@@ -12,8 +12,7 @@ book/goodreads_id: 29237221
 cover: /embeds/books/saga-vol-9.jpg
 rating: 5
 book/pages: 152
-series_index:
-- 9
+series_index: [9]
 ---
 And so it ends... [for now?](https://www.comicsbookcase.com/updates/when-is- saga-coming-back). I didn't realize the 9 volumes out were the first half of the planned story arc. Without getting into spoilers... holy crap that's a cliffhanger!!! At least I've already skipped two years of waiting?  
 

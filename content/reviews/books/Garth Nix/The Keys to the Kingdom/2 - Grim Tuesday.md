@@ -14,8 +14,7 @@ book/isbn: 0439703700
 book/isbn13: '9780439703703'
 rating: 4
 book/pages: 336
-series_index:
-- 2
+series_index: [2]
 ---
 Of course they're all going to take place over a week (Earth time)...  
 

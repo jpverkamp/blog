@@ -14,8 +14,7 @@ book/isbn: '1612625487'
 book/isbn13: '9781612625485'
 rating: 5
 book/pages: 192
-series_index:
-- 9
+series_index: [9]
 ---
 So. Just when we know who the female Titan is, there's a new one stomping about: the Beast Titan. And somehow another wall has fallen. I have no idea what's the root at all this... but they don't either, so off to find out!  
 

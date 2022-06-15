@@ -14,8 +14,7 @@ book/isbn: '0441010644'
 book/isbn13: '9780441010646'
 rating: 4
 book/pages: 694
-series_index:
-- 0
+series_index: [0]
 ---
 Chasm City takes a bit of a step sideways from Revelation Space, which on more reading makes perfect sense. It's not a sequel but rather a novel set in the same universe, a bit earlier in the timeline.  
 

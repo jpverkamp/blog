@@ -14,8 +14,7 @@ book/isbn: '1591169208'
 book/isbn13: '9781591169208'
 rating: 5
 book/pages: 180
-series_index:
-- 1
+series_index: [1]
 ---
 I have never before read Fullmetal Alchemist. Amusingly though, I have seen (one of) the TV versions. It's been a few years though--I watched it with my now wife before we were even married. So going back and reading it, everything has a strange sort of familiarity.  
 

@@ -15,9 +15,7 @@ book/isbn: 057506689X
 book/isbn13: '9780575066892'
 rating: 3
 book/pages: 424
-series_index:
-- 16
-- 3
+series_index: [16, 3]
 ---
 Soul Music fell somewhat flat for me.  
 

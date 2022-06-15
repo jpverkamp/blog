@@ -14,8 +14,7 @@ book/isbn: 0425281310
 book/isbn13: '9780425281314'
 rating: 5
 book/pages: 308
-series_index:
-- 5
+series_index: [5]
 ---
 > It’s bad to have an enemy with the kinds of resources these people apparently have—but it is infinitely worse to have crazy people as enemies.
 

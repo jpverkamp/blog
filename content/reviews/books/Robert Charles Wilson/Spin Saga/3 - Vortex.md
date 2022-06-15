@@ -14,8 +14,7 @@ book/isbn: '0765323427'
 book/isbn13: '9780765323422'
 rating: 4
 book/pages: 331
-series_index:
-- 3
+series_index: [3]
 ---
 After the strong opening in Spin and the someone meh followup with Axis, I wasn't expecting particularly much from Vortex. Consider me pleasantly surprised.  
 

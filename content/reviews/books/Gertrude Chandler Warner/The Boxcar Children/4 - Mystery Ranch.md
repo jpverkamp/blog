@@ -14,8 +14,7 @@ book/isbn: 0807553913
 book/isbn13: '9780807553916'
 rating: 4
 book/pages: 128
-series_index:
-- 4
+series_index: [4]
 ---
 **MORE RELATIVES!**  
 

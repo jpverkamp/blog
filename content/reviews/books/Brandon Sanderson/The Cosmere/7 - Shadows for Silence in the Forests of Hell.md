@@ -13,9 +13,7 @@ book/goodreads_id: 21411388
 cover: /embeds/books/shadows-for-silence-in-the-forests-of-hell.jpg
 rating: 5
 book/pages: 50
-series_index:
-- 7
-- 0
+series_index: [7, 0]
 ---
 Shadows for Silence in the Forests of Hell is a fascinating Sanderson story set in an out of the way corner of his shared universe--the cosmere.  
 

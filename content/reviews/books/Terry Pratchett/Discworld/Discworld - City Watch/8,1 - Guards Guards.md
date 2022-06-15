@@ -15,9 +15,7 @@ book/isbn: 0061020648
 book/isbn13: '9780061020643'
 rating: 5
 book/pages: 376
-series_index:
-- 8
-- 1
+series_index: [8, 1]
 ---
 There's a reason that many people who suggesting a starting point for Discworld suggest people start with the City Watch subseries and _Guards! Guards!_ in particular. It's hilarious.  
 

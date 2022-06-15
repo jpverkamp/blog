@@ -14,8 +14,7 @@ book/isbn: '1595824774'
 book/isbn13: '9781595824776'
 rating: 5
 book/pages: 160
-series_index:
-- 10
+series_index: [10]
 ---
 Crazy collection of short stories. And some weird connections between them. Two (really) stories where people just leave their skin alone:  
 

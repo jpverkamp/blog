@@ -14,8 +14,7 @@ book/isbn: 0380797259
 book/isbn13: '9780380797257'
 rating: 4
 book/pages: 543
-series_index:
-- 7
+series_index: [7]
 ---
 {{< goodreads book="Return to Mars" >}} finishes what {{< goodreads book="Mars" >}} started--and I really feel like they might have been better as one book. There was such a huge tantalizing idea dangled in front of us in the first book--not only life on Mars, but **intelligent** life?--only for a rush to the ending so that we never got to actually get answers. At least we do actually get answers in Return to Mars, but in such a way that it really feels like half the same book.  
 

@@ -14,8 +14,7 @@ book/isbn: 0307269981
 book/isbn13: '9780307269980'
 rating: 4
 book/pages: 503
-series_index:
-- 2
+series_index: [2]
 ---
 The Girl with the Dragon Tattoo took a while to get into. It wasn't until Lisbeth and Blomkvist were finally in the same place perhaps halfway through the book that things really started moving.  
 

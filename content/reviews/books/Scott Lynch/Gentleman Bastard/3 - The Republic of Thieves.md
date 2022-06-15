@@ -12,8 +12,7 @@ book/goodreads_id: 2890090
 cover: /embeds/books/the-republic-of-thieves.jpg
 rating: 5
 book/pages: 706
-series_index:
-- 3
+series_index: [3]
 ---
 > “I don’t expect life to make sense,” he said after a few moments, “but it would certainly be pleasant if it would stop kicking us in the balls.”
 

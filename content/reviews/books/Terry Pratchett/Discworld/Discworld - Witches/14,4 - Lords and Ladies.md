@@ -15,9 +15,7 @@ book/isbn: 055215315X
 book/isbn13: '9780552153157'
 rating: 4
 book/pages: 400
-series_index:
-- 14
-- 4
+series_index: [14, 4]
 ---
 Lords and Ladies continues more or less directly the events of Witches Abroad. It follows the trials and tribulations of the witches Weatherwax, Ogg, and Garlick.  
 

@@ -14,8 +14,7 @@ book/isbn: '0062071076'
 book/isbn13: '9780062071071'
 rating: 5
 book/pages: 576
-series_index:
-- 2
+series_index: [2]
 ---
 A good continuation to Partials. In this book, we see Kira start to come to terms with who she is as she sets off with Samm and Heron across what's left of the United States in search of answers--only to find more than she was looking for. Meanwhile, Marcus is back home, stuck between two warring Partial factions, trying desperately to broker a piece.  
 

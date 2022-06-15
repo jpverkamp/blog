@@ -14,8 +14,7 @@ book/isbn: '1416537805'
 book/isbn13: '9781416537809'
 rating: 4
 book/pages: 602
-series_index:
-- 10
+series_index: [10]
 ---
 > [Dirk Pitt] had always believed that insurmountable odds were surmountable.
 

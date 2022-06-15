@@ -14,8 +14,7 @@ book/isbn: 0451457811
 book/isbn13: '9780451457813'
 rating: 5
 book/pages: 355
-series_index:
-- 1
+series_index: [1]
 ---
 And so it begins.  
 

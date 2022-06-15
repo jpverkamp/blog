@@ -12,8 +12,7 @@ book/goodreads_id: 19161852
 cover: /embeds/books/the-fifth-season.jpg
 rating: 5
 book/pages: 468
-series_index:
-- 1
+series_index: [1]
 ---
 The Fifth Season takes place in what could easily by (may intentionally be?) a far future Earth where volcanoes, earthquakes, and various other seismic disasters have an annoying tendency to kill off large portions of humanity every few centuries. Combine that with a few powerful individuals (orogenes) who have magical abilities associated with said earthquakes that they cannot always control... And you have quite the world.  
 

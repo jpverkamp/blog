@@ -13,8 +13,7 @@ book/isbn: '1401251374'
 book/isbn13: '9781401251376'
 rating: 4
 book/pages: 288
-series_index:
-- 10
+series_index: [10]
 ---
 Fortune telling, Constantine’s father, more evil demons and arguably worse angels, and of course dead soldiers who can’t find rest. 
 

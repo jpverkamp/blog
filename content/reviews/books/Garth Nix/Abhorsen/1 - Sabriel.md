@@ -14,8 +14,7 @@ book/isbn: 0064471837
 book/isbn13: '9780064471831'
 rating: 5
 book/pages: 491
-series_index:
-- 1
+series_index: [1]
 ---
 Sabriel is a wonderful book. Fantasy books dealing with death magic are among my favorites, the worldbuilding is fantastic (in the truest sense of the world), and the main characters are all a lot of fun. Each time I spend long enough without reading it, I always forget just how much I enjoy reading (or in this case listening too) this book.  
 

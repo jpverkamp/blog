@@ -14,8 +14,7 @@ book/isbn: 0807572632
 book/isbn13: '9780807572634'
 rating: 3
 book/pages: 128
-series_index:
-- 10
+series_index: [10]
 ---
 All right. Another instance of getting sidetracked from Grandfather's plan by something random, stumbling into a mystery--that may or may not be one--, another old woman that just wants to be left alone--but not from these children--and more of showing off just how rich they are without realizing it. Oh these books.  
 

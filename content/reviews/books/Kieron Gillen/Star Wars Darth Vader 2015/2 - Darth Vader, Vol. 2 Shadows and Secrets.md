@@ -14,8 +14,7 @@ book/isbn: 0785192565
 book/isbn13: '9780785192565'
 rating: 5
 book/pages: 136
-series_index:
-- 2
+series_index: [2]
 ---
 More Vader! More Aphra!  
 

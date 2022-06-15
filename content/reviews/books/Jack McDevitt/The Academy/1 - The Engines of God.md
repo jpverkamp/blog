@@ -14,8 +14,7 @@ book/isbn: 0441002846
 book/isbn13: '9780441002849'
 rating: 4
 book/pages: 422
-series_index:
-- 1
+series_index: [1]
 ---
 I liked it.  
 

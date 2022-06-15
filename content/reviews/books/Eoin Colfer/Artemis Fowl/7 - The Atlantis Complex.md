@@ -14,8 +14,7 @@ book/isbn: '1423128192'
 book/isbn13: '9781423128199'
 rating: 3
 book/pages: 357
-series_index:
-- 7
+series_index: [7]
 ---
 Best thing about the Artemis Fowl series? Artemis Fowl.  
 

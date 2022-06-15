@@ -14,8 +14,7 @@ book/isbn: 0425199320
 book/isbn13: '9780425199329'
 rating: 3
 book/pages: 463
-series_index:
-- 17
+series_index: [17]
 ---
 > He smiled to himself at remembering what a reporter wrote about him, in one of the few times his feats had gained distinction. There is a touch of Dirk Pitt in every man whose soul yearns for adventure. And because he is Dirk Pitt, he yearns more than most.
 

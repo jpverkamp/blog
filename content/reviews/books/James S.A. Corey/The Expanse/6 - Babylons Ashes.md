@@ -12,8 +12,7 @@ book/goodreads_id: 28053798
 cover: /embeds/books/babylons-ashes.jpg
 rating: 4
 book/pages: 544
-series_index:
-- 6
+series_index: [6]
 ---
 Babylon's Ashes doesn't really have much new to say.  
 

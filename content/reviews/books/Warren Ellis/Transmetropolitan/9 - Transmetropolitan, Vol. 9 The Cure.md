@@ -14,8 +14,7 @@ book/isbn: '1563899884'
 book/isbn13: '9781563899881'
 rating: 5
 book/pages: 144
-series_index:
-- 9
+series_index: [9]
 ---
 Oh... we're getting on to the end. It's all going to come down to if the President can tie up his loose ends before Spider manages to ferret them out (and I'm betting on Spider).  
 

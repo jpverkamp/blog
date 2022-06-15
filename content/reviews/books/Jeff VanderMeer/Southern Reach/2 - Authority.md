@@ -14,8 +14,7 @@ book/isbn: '0374104107'
 book/isbn13: '9780374104108'
 rating: 3
 book/pages: 341
-series_index:
-- 2
+series_index: [2]
 ---
 After how much I enjoyed {{< goodreads book="Annihilation" >}}, I had high hopes for {{< goodreads book="Authority" >}}. A chance to get out of Area X and explore the organization sending people in / to their deaths over and over again...  
 

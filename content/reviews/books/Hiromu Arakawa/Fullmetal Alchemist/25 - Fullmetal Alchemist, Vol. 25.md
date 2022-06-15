@@ -14,8 +14,7 @@ book/isbn: '1421539241'
 book/isbn13: '9781421539249'
 rating: 5
 book/pages: 192
-series_index:
-- 25
+series_index: [25]
 ---
 I find Greed's storyline absolutely fascinating. Of all the Homunculi, who would have expected that one to be the most likely to change. Perhaps it says something about humanity?  
 

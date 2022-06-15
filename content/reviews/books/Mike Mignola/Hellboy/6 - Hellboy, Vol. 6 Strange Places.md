@@ -14,8 +14,7 @@ book/isbn: '1593074751'
 book/isbn13: '9781593074753'
 rating: 5
 book/pages: 128
-series_index:
-- 6
+series_index: [6]
 ---
 Well that's a crazy story. In one part you have a battle with an undersea witch who is trying to save the world from the Hellboy prophesy, twisting wishes to kill people, getting saved by (essentially) the OG Little Mermaid (she wants to be foam on a wave).  
 

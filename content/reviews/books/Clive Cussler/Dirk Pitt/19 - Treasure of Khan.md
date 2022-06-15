@@ -14,8 +14,7 @@ book/isbn: 0399153691
 book/isbn13: '9780399153693'
 rating: 3
 book/pages: 552
-series_index:
-- 19
+series_index: [19]
 ---
 > If a satellite in space ever mapped the myriad of lone tracks and trails across Mongolia, it would resemble a plate of spaghetti dropped on the floor.
 

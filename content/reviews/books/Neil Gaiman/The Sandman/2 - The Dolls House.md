@@ -14,8 +14,7 @@ book/isbn: '1563892251'
 book/isbn13: '9781563892257'
 rating: 5
 book/pages: 232
-series_index:
-- 2
+series_index: [2]
 ---
 Herein we get a bit more worldbuilding, seeing how Dream is taking back his world after decades of capture. For the most part, we deal with the fallout around a family of one of the women from Sandman 1 (the one who found herself pregnant), but there's also a very well told story of a man granted immortality--on the condition that he checks up with Dream once every hundred years at the same old pub. Also a 'Cereal' convention (that took me longer than it should have). Of course.  
 

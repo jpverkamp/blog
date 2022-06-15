@@ -12,8 +12,7 @@ book/goodreads_id: 22009973
 cover: /embeds/books/broken-souls.jpg
 rating: 5
 book/pages: 272
-series_index:
-- 2
+series_index: [2]
 ---
 > I’ve been lied to a lot, lately. And some of it’s been with the truth.
 

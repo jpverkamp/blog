@@ -14,8 +14,7 @@ book/isbn: 0553276328
 book/isbn13: '9780553276329'
 rating: 4
 book/pages: 270
-series_index:
-- 1
+series_index: [1]
 ---
 > Every ocean takes its toll of men and ships, yet none devours them with the voracious appetitive of the Pacific....Despite all this, the world's largest ocean tends to be a tranquil place; even its name means peaceful and mild of temper.
 

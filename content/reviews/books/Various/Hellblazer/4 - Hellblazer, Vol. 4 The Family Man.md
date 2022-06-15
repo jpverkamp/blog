@@ -13,8 +13,7 @@ book/isbn: '1401236901'
 book/isbn13: '9781401236908'
 rating: 4
 book/pages: 288
-series_index:
-- 4
+series_index: [4]
 ---
 Better than Volume 3 by a long shot. Starts weird but interesting and gets better from there. I’ll reiterate though that I can’t really imagine buying these by issue, especially in real time. A volume has enough meat to it to sustain a storyline. 
 

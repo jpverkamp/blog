@@ -14,8 +14,7 @@ book/isbn: 0765322498
 book/isbn13: '9780765322494'
 rating: 5
 book/pages: 320
-series_index:
-- 3
+series_index: [3]
 ---
 Oof.  
 

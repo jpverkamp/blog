@@ -14,8 +14,7 @@ book/isbn: 163215711X
 book/isbn13: '9781632157119'
 rating: 5
 book/pages: 152
-series_index:
-- 6
+series_index: [6]
 ---
 Man this story just keeps going and going. It's mostly interesting to see how the relationships between characters you never at first thought would interact well grow and change.  
 

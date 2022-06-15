@@ -15,9 +15,7 @@ book/isbn: '1401228801'
 book/isbn13: '9781401228804'
 rating: 5
 book/pages: 192
-series_index:
-- 14
-- 25
+series_index: [14, 25]
 ---
 Back to Fables and back to the problem of Mr. Dark! Originally I had no idea where Fables could go after the Adversary was defeated, but this works. A power vaccuum, filled by all sorts of big bads. It turns out that as dark as Geppetto went, he still arguably did some good (as all evil empires seem to do on some level). Fun times.  
 

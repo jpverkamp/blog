@@ -14,8 +14,7 @@ book/isbn: '0061020060'
 book/isbn13: '9780061020063'
 rating: 4
 book/pages: 508
-series_index:
-- 2
+series_index: [2]
 ---
 I greatly enjoyed Deepsix.  
 

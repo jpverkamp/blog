@@ -14,8 +14,7 @@ book/isbn: '1933305681'
 book/isbn13: '9781933305684'
 rating: 4
 book/pages: 192
-series_index:
-- 2
+series_index: [2]
 ---
 *Warning: NSFW*  
 

@@ -14,8 +14,7 @@ book/isbn: '1421525682'
 book/isbn13: '9781421525686'
 rating: 5
 book/pages: 192
-series_index:
-- 19
+series_index: [19]
 ---
 WHOA. MORE BACKSTORY!  
 

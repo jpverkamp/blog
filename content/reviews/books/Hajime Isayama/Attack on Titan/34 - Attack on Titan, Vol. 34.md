@@ -14,8 +14,7 @@ book/isbn: '1646512367'
 book/isbn13: '9781646512362'
 rating: 5
 book/pages: 256
-series_index:
-- 34
+series_index: [34]
 ---
 Isn't available in a combined volume in English yet, but I can still read the individual chapters. Will have to pick it out when it comes up.  
 

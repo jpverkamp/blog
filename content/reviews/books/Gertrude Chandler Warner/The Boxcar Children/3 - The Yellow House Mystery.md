@@ -14,8 +14,7 @@ book/isbn: 0807593664
 book/isbn13: '9780807593660'
 rating: 4
 book/pages: 192
-series_index:
-- 3
+series_index: [3]
 ---
 Remember {{< goodreads book="Surprise Island" text=" Surprise Island " >}} ? Remember  
 

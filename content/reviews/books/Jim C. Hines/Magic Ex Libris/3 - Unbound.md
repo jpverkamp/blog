@@ -14,8 +14,7 @@ book/isbn: 0756409683
 book/isbn13: '9780756409685'
 rating: 5
 book/pages: 390
-series_index:
-- 3
+series_index: [3]
 ---
 And we're back. This time around, things are getting really serious with Meridiana, the queen of the Ghost Army wrecking havoc in the modern world. It's an excellent story, much tighter than the previous two. It's also rather more serious in tone, although there are still piles of jokes and references to other books to go around.  
 

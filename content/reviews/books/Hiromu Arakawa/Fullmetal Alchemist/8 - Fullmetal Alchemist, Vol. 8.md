@@ -14,8 +14,7 @@ book/isbn: '1421504596'
 book/isbn13: '9781421504599'
 rating: 5
 book/pages: 170
-series_index:
-- 8
+series_index: [8]
 ---
 We're learning so many more things about the world! And it's getting bigger and crazier and more wonderful all the time.  
 

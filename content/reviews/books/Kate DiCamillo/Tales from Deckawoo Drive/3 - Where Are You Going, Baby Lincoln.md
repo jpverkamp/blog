@@ -14,8 +14,7 @@ book/isbn: '0763673110'
 book/isbn13: '9780763673116'
 rating: 5
 book/pages: 96
-series_index:
-- 3
+series_index: [3]
 ---
 I've started reading chapter books to my children at night. They get to chose (from what we have) and this is where we begin. I don't think I could have chosen a better first book.  
 

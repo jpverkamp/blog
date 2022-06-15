@@ -14,8 +14,7 @@ book/isbn: 0812541626
 book/isbn13: '9780812541625'
 rating: 5
 book/pages: 613
-series_index:
-- 1
+series_index: [1]
 ---
 > A wise king does not garner all wit, instead he also allows his cunselors to
 > be wise.

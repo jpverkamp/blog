@@ -14,8 +14,7 @@ book/isbn: 0807580872
 book/isbn13: '9780807580875'
 rating: 5
 book/pages: 128
-series_index:
-- 14
+series_index: [14]
 ---
 In a nutshell, new neighbors move in, they're mostly ignored by their parents (back to that in a moment), the Aldens barge in and make friends, they all build a treehouse, find a hidden room, and fix a old (kind of dumb) feud between the neighbor's father and uncle.  
 

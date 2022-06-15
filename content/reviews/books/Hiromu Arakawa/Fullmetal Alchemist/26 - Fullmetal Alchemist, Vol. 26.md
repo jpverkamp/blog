@@ -14,8 +14,7 @@ book/isbn: '1421539624'
 book/isbn13: '9781421539621'
 rating: 5
 book/pages: 208
-series_index:
-- 26
+series_index: [26]
 ---
 Ooooh boy. This was really the most absolutely bizarre episode of the whole glorious mess. It's going full Cthulhu this time around. And it works. I have no idea what's going on, but it's glorious!  
 

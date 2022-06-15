@@ -14,8 +14,7 @@ book/isbn: '1421504588'
 book/isbn13: '9781421504582'
 rating: 5
 book/pages: 178
-series_index:
-- 7
+series_index: [7]
 ---
 These books are wonderful.  
 

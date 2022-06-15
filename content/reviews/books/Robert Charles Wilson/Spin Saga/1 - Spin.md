@@ -14,8 +14,7 @@ book/isbn: 076534825X
 book/isbn13: '9780765348258'
 rating: 4
 book/pages: 464
-series_index:
-- 1
+series_index: [1]
 ---
 (minor spoilers; although nothing more than used to be on the Goodreads summary)  
 

@@ -12,8 +12,7 @@ book/goodreads_id: 32109569
 cover: /embeds/books/we-are-legion.jpg
 rating: 5
 book/pages: 383
-series_index:
-- 1
+series_index: [1]
 ---
 Well. That's a thing. A weirdly wonderful thing.  
 

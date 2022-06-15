@@ -14,8 +14,7 @@ book/isbn: 0756408164
 book/isbn13: '9780756408169'
 rating: 5
 book/pages: 326
-series_index:
-- 2
+series_index: [2]
 ---
 > “My name is Isaac Vainio,” I said. “You smashed my library. Prepare to die.”
 

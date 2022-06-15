@@ -15,8 +15,7 @@ book/isbn: 0989121097
 book/isbn13: '9780989121095'
 rating: 4
 book/pages: 236
-series_index:
-- 1
+series_index: [1]
 ---
 I have a pretty good number of less known / self published stories that I've collected through various sales and bundles that I keep meaning to work through. {{< goodreads book="The Fallen" text=" The Fallen " >}} is one such book. I'm not even sure where I picked it up anymore, but it seems worth giving a try.  
 

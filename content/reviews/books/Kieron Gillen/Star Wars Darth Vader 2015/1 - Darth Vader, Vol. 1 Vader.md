@@ -14,8 +14,7 @@ book/isbn: 0785192557
 book/isbn13: '9780785192558'
 rating: 5
 book/pages: 160
-series_index:
-- 1
+series_index: [1]
 ---
 Star Wars!  
 

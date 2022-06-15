@@ -15,9 +15,7 @@ book/isbn: 0552152943
 book/isbn13: '9780552152945'
 rating: 4
 book/pages: 396
-series_index:
-- 10
-- 1
+series_index: [10, 1]
 ---
 Discworld goes Hollywood. Or perhaps Hollywood comes to Discworld?  
 

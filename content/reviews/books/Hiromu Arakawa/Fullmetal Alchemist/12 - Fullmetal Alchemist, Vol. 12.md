@@ -14,8 +14,7 @@ book/isbn: '1421508397'
 book/isbn13: '9781421508399'
 rating: 5
 book/pages: 192
-series_index:
-- 12
+series_index: [12]
 ---
 Man the action of these volumes just keeps ramping up and up. We're learning more about who all of the Homunculi are, even if not quite getting to why yet. Man there are a lot of people and threads coming together though.  
 

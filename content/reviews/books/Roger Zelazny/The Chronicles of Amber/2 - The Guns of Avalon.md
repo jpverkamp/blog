@@ -12,8 +12,7 @@ book/goodreads_id: 62012
 cover: /embeds/books/the-guns-of-avalon.jpg
 rating: 4
 book/pages: 223
-series_index:
-- 2
+series_index: [2]
 ---
 > Now I had to find a place, a place resembling another place -- one which no longer existed. I located the path. I took it.
 

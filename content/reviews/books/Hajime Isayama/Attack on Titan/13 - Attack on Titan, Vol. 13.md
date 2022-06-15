@@ -14,8 +14,7 @@ book/isbn: '1612626793'
 book/isbn13: '9781612626796'
 rating: 5
 book/pages: 192
-series_index:
-- 13
+series_index: [13]
 ---
 Woo boy is this series bonkers.  
 

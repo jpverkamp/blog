@@ -14,8 +14,7 @@ book/isbn: '0007202326'
 book/isbn13: '9780007202324'
 rating: 2
 book/pages: 288
-series_index:
-- 7
+series_index: [7]
 ---
 And so it ends.  
 

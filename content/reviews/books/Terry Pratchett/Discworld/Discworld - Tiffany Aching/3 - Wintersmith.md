@@ -15,9 +15,7 @@ book/isbn: 0060890312
 book/isbn13: '9780060890315'
 rating: 5
 book/pages: 325
-series_index:
-- 35
-- 3
+series_index: [35, 3]
 ---
 > The trouble is you can shut your eyes but you can’t shut your mind.
 

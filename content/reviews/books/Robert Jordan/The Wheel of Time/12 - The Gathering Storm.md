@@ -14,8 +14,7 @@ book/isbn: '0765302306'
 book/isbn13: '9780765302304'
 rating: 5
 book/pages: 783
-series_index:
-- 12
+series_index: [12]
 ---
 > “The end is near," Moridin said. "The Wheel has groaned its final rotation, the clock has lost its spring, the serpent heaves its final gasps.”
 

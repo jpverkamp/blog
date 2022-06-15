@@ -14,8 +14,7 @@ book/isbn: '1442422068'
 book/isbn13: '9781442422063'
 rating: 3
 book/pages: 308
-series_index:
-- 1
+series_index: [1]
 ---
 Right on the heels of Year Zero, I have another book that got itself on my list based on the potential in its world building: The Unnaturalists. I mean, how can you not be intrigued by a world where London seems to have been yanked into another world, where Science[1] has grown into a religion.  
 

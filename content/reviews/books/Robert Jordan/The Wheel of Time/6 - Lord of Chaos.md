@@ -14,8 +14,7 @@ book/isbn: 0812513754
 book/isbn13: '9780812513752'
 rating: 5
 book/pages: 1011
-series_index:
-- 6
+series_index: [6]
 ---
 > Let the {{< goodreads book="Lord of Chaos" text=" Lord of Chaos " >}} rule.
 

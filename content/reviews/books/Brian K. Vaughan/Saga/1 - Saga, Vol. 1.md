@@ -14,8 +14,7 @@ book/isbn: '1607066017'
 book/isbn13: '9781607066019'
 rating: 5
 book/pages: 160
-series_index:
-- 1
+series_index: [1]
 ---
 I've been meaning to read these for a while, they have some of the best reviews among graphic novels ever, they have a fantastic premise (a fantasy world IN SPACE), and they're on comiXology Unlimited. What better time than the present?  
 

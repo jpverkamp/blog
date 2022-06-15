@@ -13,8 +13,7 @@ book/isbn: 076531665X
 book/isbn13: '9780765316653'
 rating: 3
 book/pages: 336
-series_index:
-- 6
+series_index: [6]
 ---
 Where Sons of the Oak could arguably considered a continuation of the first four books, what with references and plots revolving around the Earth King and his wife and a focus on Borenson, Myrrima, and their children, now in Worldbinder we're really getting into the changes--and I'm not sure I'm okay with that. 
 

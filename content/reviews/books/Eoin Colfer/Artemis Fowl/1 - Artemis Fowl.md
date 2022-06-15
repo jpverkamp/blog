@@ -12,8 +12,7 @@ book/goodreads_id: 249747
 cover: /embeds/books/artemis-fowl.jpg
 rating: 5
 book/pages: 396
-series_index:
-- 1
+series_index: [1]
 ---
 It's been a while since I first read the Artemis Fowl series and I figure it's about time to do a reread. I loved the books each previous time I read them. We'll see how it goes this time around...  
 

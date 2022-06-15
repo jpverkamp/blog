@@ -15,9 +15,7 @@ book/isbn: 0552154288
 book/isbn13: '9780552154284'
 rating: 5
 book/pages: 432
-series_index:
-- 20
-- 4
+series_index: [20, 4]
 ---
 > Humans need fantasy to be human. To be the place where the falling angel meets the rising ape.
 

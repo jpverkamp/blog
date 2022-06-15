@@ -12,8 +12,7 @@ book/goodreads_id: 23546591
 cover: /embeds/books/attack-on-titan-vol-14.jpg
 rating: 5
 book/pages: 192
-series_index:
-- 14
+series_index: [14]
 ---
 And another level of crazy more. Eventually that will have to stop ramping up like that... right...?  
 

@@ -12,8 +12,7 @@ book/goodreads_id: 1268479
 cover: /embeds/books/warbreaker.jpg
 rating: 5
 book/pages: 688
-series_index:
-- 0
+series_index: [0]
 ---
 I wish it hadn't taken quite so long to get to Warbreaker. It's really quite a good book, right up there with pretty much all of the rest of Sanderson's works.  
 

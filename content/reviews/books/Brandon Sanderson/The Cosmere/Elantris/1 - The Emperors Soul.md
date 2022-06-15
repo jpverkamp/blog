@@ -16,10 +16,7 @@ book/isbn: '1616960922'
 book/isbn13: '9781616960926'
 rating: 5
 book/pages: 175
-series_index:
-- 1
-- 0
-- 0
+series_index: [1, 0, 0]
 ---
 If I hadn't been told, at first I wouldn't realize that The Emperor's Soul takes place in a far away corner of the same world as Elantris. But as the story wears on, and the details of the magic system are revealed, it becomes more obvious that the worlds are one and the same. I really do love how Sanderson does magic systems. I've never seen anything quite like it, especially not at the same scale. Every system seems new, yet there's a shared core to all of them. I love it.  
 

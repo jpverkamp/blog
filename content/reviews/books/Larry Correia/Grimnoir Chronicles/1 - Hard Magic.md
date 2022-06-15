@@ -12,8 +12,7 @@ book/goodreads_id: 18195033
 cover: /embeds/books/hard-magic.jpg
 rating: 5
 book/pages: 524
-series_index:
-- 1
+series_index: [1]
 ---
 >  One general law, leading to the advancement of all organic beings, namely, multiply, vary, let the strongest live and the weakest die. The appearance of esoteric and etheral abiliites, magical fires and feats of strength, in recent decades are the purest demonstration of natural selection. Surely, in time, that general law will require the extinction of traditional man.  
 >

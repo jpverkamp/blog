@@ -14,8 +14,7 @@ book/isbn: '1606902075'
 book/isbn13: '9781606902073'
 rating: 3
 book/pages: 144
-series_index:
-- 8
+series_index: [8]
 ---
 *Warning: NSFW*  
 

@@ -12,8 +12,7 @@ book/goodreads_id: 363270
 cover: /embeds/books/the-lighthouse-mystery.jpg
 rating: 4
 book/pages: 128
-series_index:
-- 8
+series_index: [8]
 ---
 > Renting a lighthouse is unusual, but even more so is an unfriendly boy's peculiar behavior.
 

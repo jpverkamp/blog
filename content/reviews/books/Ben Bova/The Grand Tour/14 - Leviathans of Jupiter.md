@@ -14,8 +14,7 @@ book/isbn: 0765317885
 book/isbn13: '9780765317889'
 rating: 4
 book/pages: 477
-series_index:
-- 14
+series_index: [14]
 ---
 {{< goodreads book="Leviathans of Jupiter" >}} takes what made {{< goodreads book="Jupiter" >}} so enjoyable (the exploration of the oceans of Jupiter and interactions with the creatures that live there) and takes another visit. This time around, we have even more content from the Leviathan's perspective and first attempts at actually communicating with them, which is pretty cool.  
 

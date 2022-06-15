@@ -13,8 +13,7 @@ cover: /embeds/books/steelheart.jpg
 book/isbn: 0385743564
 book/isbn13: '9780385743563'
 book/pages: 386
-series_index:
-- 1
+series_index: [1]
 ---
 The Reckoners is everything that I love in a Sanderson book, with the main exception being that it's not set in the otherwise shared universe of the Cosmere. It makes sense though, given that Steelheart is set in our universe (more or less).  
 

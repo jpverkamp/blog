@@ -13,8 +13,7 @@ book/isbn: '0765301776'
 book/isbn13: '9780765301772'
 rating: 4
 book/pages: 383
-series_index:
-- 5
+series_index: [5]
 ---
 Sons of the Oak is an odd one. After saving the world in Lair of Bones, Gaborn and Iome are loaded with enough metabolism to curse them to die in the next few years--which ends up happening relatively early on. That of course leaves a power vacuum. There are those who would love to see the Earth King's son take the crown--and just as many who'd rather see him dead and take power of their on. On top of that, there's a whole new level of darkness in the world. From Loci to strengi-saats, it's an ever darkening world, with the Torch of Humanity having been passed down to the next generation.
 

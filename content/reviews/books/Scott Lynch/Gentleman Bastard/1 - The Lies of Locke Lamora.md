@@ -11,8 +11,7 @@ reviews/authors:
 book/goodreads_id: 29588376
 cover: /embeds/books/the-lies-of-locke-lamora.jpg
 book/pages: 752
-series_index:
-- 1
+series_index: [1]
 ---
 > AT THE HEIGHT of the long wet summer of the Seventy-seventh Year of Sendovani, the Thiefmaker of Camorr paid a sudden and unannounced visit to the Eyeless Priest at the Temple of Perelandro, desperately hoping to sell him the Lamora boy.
 

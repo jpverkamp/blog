@@ -12,8 +12,7 @@ book/goodreads_id: 31352753
 cover: /embeds/books/midnight-curse.jpg
 rating: 5
 book/pages: 294
-series_index:
-- 1
+series_index: [1]
 ---
 When I finished {{< goodreads book="Boundary Crossed" >}} and the sequels in 2017, I enjoyed them enough to put {{< goodreads author="Melissa F. Olson" >}}'s other books on my ever expanding to-read list. [Last year](https://blog.jverkamp.com/2019/01/01/2019-reading-list/), I randomly choose {{< goodreads book="Midnight Curse" >}} to read and finally got to it this year--not realizing that it's actually the _second_ Scarlett Bernard series. {{< goodreads book="Dead Spots" >}} is the first (even before Boundary Crossed actually).  
 

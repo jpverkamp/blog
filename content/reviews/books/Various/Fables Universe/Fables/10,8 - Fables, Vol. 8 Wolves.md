@@ -15,9 +15,7 @@ book/isbn: '1401210015'
 book/isbn13: '9781401210014'
 rating: 4
 book/pages: 162
-series_index:
-- 8
-- 10
+series_index: [8, 10]
 ---
 On we go! Continuing on with the main story of Fables, we have Mowgli trying to find Bigby, Cinderella negotiating with the giants that live in the skies (all of them), and finally a happy reunion.  
 

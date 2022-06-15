@@ -14,8 +14,7 @@ book/isbn: 0451461894
 book/isbn13: '9780451461896'
 rating: 5
 book/pages: 545
-series_index:
-- 10
+series_index: [10]
 ---
 Small Favor combines my favorite parts of the Dresden Files: the Denarians and Knights of the Cross, Marcone, and the Fae in varying degrees. On top of that, where White Night tended towards mystery, Small Favor is straight up actions. The story hits the ground running and never really stops, right through several big set piece battles and one of the bigger finales we've seen (albeit not quite up to the level of Sue...).  
 

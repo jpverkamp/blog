@@ -13,9 +13,7 @@ book/goodreads_id: 33357675
 cover: /embeds/books/allomancer-jak-and-the-pits-of-eltania.jpg
 rating: 5
 book/pages: 40
-series_index:
-- 4
-- 0
+series_index: [4, 0]
 ---
 Allomancer Jak is a hilarious, pulpy, over the top adventure story set on the Mistborn universe (specifically the Alloy of Law time period).  
 

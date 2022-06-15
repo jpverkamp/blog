@@ -12,8 +12,7 @@ book/goodreads_id: 36225306
 cover: /embeds/books/shadow-hunt.jpg
 rating: 5
 book/pages: 308
-series_index:
-- 3
+series_index: [3]
 ---
 > It was bad enough that Americans insisted on driving themselves everywhere, but Los Angeles in particular seemed to depend on individual cars the way other, more intelligent cities depended on public transportation. And their reward for this individualism was to spend hours of every day in gridlock. Petra thought it was a perfect example of American “independence”—selfish, lazy, and with a complete lack of foresight.
 

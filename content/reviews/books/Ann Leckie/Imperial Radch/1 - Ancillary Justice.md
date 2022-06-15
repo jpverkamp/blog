@@ -14,8 +14,7 @@ book/isbn: 031624662X
 book/isbn13: '9780316246620'
 rating: 4
 book/pages: 416
-series_index:
-- 1
+series_index: [1]
 ---
 High concept: In the future, starships are run by AIs which also control dozens or more previously human bodies known as ancillaries. Occasionally, the ancillaries get ... detached. Ancillary Justice follows the story of one such.  
 

@@ -14,8 +14,7 @@ book/isbn: '1421513811'
 book/isbn13: '9781421513812'
 rating: 5
 book/pages: 192
-series_index:
-- 16
+series_index: [16]
 ---
 Oh man. A bit of fallout from the war, going north (it's COLD!), and (re-)meeting another Armstrong. Exciting things and it doesn't have to even been brainbreakingly weird!  
 

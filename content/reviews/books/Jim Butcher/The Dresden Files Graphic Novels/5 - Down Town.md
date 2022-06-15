@@ -14,8 +14,7 @@ book/isbn: 160690700X
 book/isbn13: '9781606907009'
 rating: 4
 book/pages: 176
-series_index:
-- 5
+series_index: [5]
 ---
 It's more Dresden at least!  
 

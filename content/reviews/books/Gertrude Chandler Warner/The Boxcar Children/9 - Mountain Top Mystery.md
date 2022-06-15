@@ -14,8 +14,7 @@ book/isbn: 0590426788
 book/isbn13: '9780590426787'
 rating: 3
 book/pages: 128
-series_index:
-- 9
+series_index: [9]
 ---
 It's kind of strange that after half a dozen books of being on their own, we now have several in a row that always have Grandfather and other adults watching over them, even as they get older and (hopefully) wiser.  
 

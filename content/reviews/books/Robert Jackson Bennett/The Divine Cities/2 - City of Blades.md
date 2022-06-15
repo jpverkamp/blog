@@ -12,8 +12,7 @@ book/goodreads_id: 23909755
 cover: /embeds/books/city-of-blades.jpg
 rating: 5
 book/pages: 498
-series_index:
-- 2
+series_index: [2]
 ---
 > “Welcome to old Voortyashtan,” the captain says with false cheer, waving at the mouth of the Solda. “Though you can’t see much of it these days. It’s moved, y’see, about three hundred feet. Vertically, straight down.” He grins and laughs wickedly.  
 

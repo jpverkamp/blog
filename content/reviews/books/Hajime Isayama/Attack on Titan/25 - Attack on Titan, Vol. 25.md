@@ -12,8 +12,7 @@ book/goodreads_id: 36389570
 cover: /embeds/books/attack-on-titan-vol-25.jpg
 rating: 5
 book/pages: 182
-series_index:
-- 25
+series_index: [25]
 ---
 Continuing the story of the greater world, bringing everything together. Hatred and lies all aimed at eliminating Paradis and the people there... and only a small group from Paradis to try to stop them.  
 

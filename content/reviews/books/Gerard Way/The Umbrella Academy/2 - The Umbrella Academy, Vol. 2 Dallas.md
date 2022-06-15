@@ -14,8 +14,7 @@ book/isbn: 159582345X
 book/isbn13: '9781595823458'
 rating: 5
 book/pages: 184
-series_index:
-- 2
+series_index: [2]
 ---
 Onwards and weirdwards!  
 

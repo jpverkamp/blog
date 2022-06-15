@@ -15,9 +15,7 @@ book/isbn: 0061056901
 book/isbn13: '9780061056901'
 rating: 5
 book/pages: 368
-series_index:
-- 17
-- 5
+series_index: [17, 5]
 ---
 Interesting Times is a fantastic Discworld novel, an excellent example of everything people expect when they talk about Terry Pratchett and the Discworld novels.  
 

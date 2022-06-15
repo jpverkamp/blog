@@ -15,9 +15,7 @@ book/isbn: 055215430X
 book/isbn13: '9780552154307'
 rating: 5
 book/pages: 480
-series_index:
-- 29
-- 6
+series_index: [29, 6]
 ---
 Night Watch starts with Vimes and a few others visiting a number of otherwise forgotten graves. When asked what was going on: "you had to have been there."  
 

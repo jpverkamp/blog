@@ -14,8 +14,7 @@ book/isbn: 0385743602
 book/isbn13: '9780385743600'
 rating: 5
 book/pages: 424
-series_index:
-- 3
+series_index: [3]
 ---
 Reading some of the other reviews on Goodreads, I was afraid that Calamity wouldn't live up to the expectation of the previous two Reckoners books. Luckily, at least so far as I'm concerned, it not only met the expectations I had for it, it exceeded them.  
 

@@ -14,8 +14,7 @@ book/isbn: 0312850530
 book/isbn13: '9780312850531'
 rating: 3
 book/pages: 381
-series_index:
-- 4
+series_index: [4]
 ---
 This time around Alvin is on trial. Not even kidding. Most of the book is taken up by Alvin going back to stand trial for 'stealing' the golden plow from Makepeace. It's actually a surprisingly decently plot and we get a lot more worldbuilding, including two different viewpoints in Europe. In one, we have a lawyer with a knack of his own who wants to learn from Alvin and looks to be a new main character. In the other, Alvin's brother Calvin's adventures in France, meeting Napoleon.  
 

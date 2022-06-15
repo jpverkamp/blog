@@ -14,8 +14,7 @@ book/isbn: '1600106951'
 book/isbn13: '9781600106958'
 rating: 5
 book/pages: 152
-series_index:
-- 3
+series_index: [3]
 ---
 So it's not just keys... it's crowns and other artifacts too now? That's cool! They're all still vaguely key related, so it works out.  
 

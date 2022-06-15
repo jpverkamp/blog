@@ -14,8 +14,7 @@ book/isbn: 0060721960
 book/isbn13: '9780060721961'
 rating: 4
 book/pages: 316
-series_index:
-- 2
+series_index: [2]
 ---
 On one hand, Predator's Gold does a solid job of expanding on what was the best part of Mortal Engines: the world building all around mobile cities that eat one another. We get to see a few more cities--both predators and trading cities--along with more details on airships in this world. But the real worldbuilding gold[^heh] is in the parasites that can attach themselves to cities and steal from them. It really makes the cities feel like gigantic living organisms as much as anything, which I'm sure is Reeve's intention.  
 

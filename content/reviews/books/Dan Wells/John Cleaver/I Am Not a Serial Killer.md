@@ -11,8 +11,7 @@ reviews/authors:
 book/goodreads_id: 35120549
 cover: /embeds/books/i-am-not-a-serial-killer.jpg
 book/pages: 272
-series_index:
-- 0
+series_index: [0]
 ---
 Warning: This book contains some really dark imagery and supernatural elements. If either of those is not what you're looking for, look elsewhere.  
 

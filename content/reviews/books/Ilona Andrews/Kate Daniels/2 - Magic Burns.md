@@ -14,8 +14,7 @@ book/isbn: 0441015832
 book/isbn13: '9780441015832'
 rating: 5
 book/pages: 261
-series_index:
-- 2
+series_index: [2]
 ---
 >  “The vampire stared at me, his mouth slack as Ghastek assessed his options. I took a couple of forms from my desk, put them into the vamp's mouth, and pulled them up by their edges.  
 >

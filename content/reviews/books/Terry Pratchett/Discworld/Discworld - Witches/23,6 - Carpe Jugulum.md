@@ -15,9 +15,7 @@ book/isbn: 0061051586
 book/isbn13: '9780061051586'
 rating: 4
 book/pages: 296
-series_index:
-- 23
-- 6
+series_index: [23, 6]
 ---
 > “Carpe Jugulum," read Agnes aloud. "That's... well, Carpe Diem is 'Sieze the Day,' so this means-"  
 >

@@ -14,8 +14,7 @@ book/isbn: '1250313228'
 book/isbn13: '9781250313225'
 rating: 4
 book/pages: 510
-series_index:
-- 2
+series_index: [2]
 ---
 {{< goodreads book="Gideon the Ninth" text=" Gideon the Ninth " >}} was an absolutely wonderful book, a new favorite of mine. Which makes Harrow the Ninth all the harder to read--and especially review. This is going to be one of the most spoilery reviews I've ever written, but I think it's necessary. If you don't do spoilers: read the book. It's worth it. But it's going to be weird and confusing.  
 

@@ -14,8 +14,7 @@ book/isbn: '0756407745'
 book/isbn13: '9780756407742'
 rating: 5
 book/pages: 295
-series_index:
-- 1
+series_index: [1]
 ---
 > Mages are born with a knack. Illusions, transformations, divinations. Some people are just better at some things than others. I got dead things. Yay me.
 

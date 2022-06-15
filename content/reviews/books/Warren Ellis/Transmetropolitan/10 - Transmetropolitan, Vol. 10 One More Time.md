@@ -14,8 +14,7 @@ book/isbn: '1401202179'
 book/isbn13: '9781401202170'
 rating: 5
 book/pages: 144
-series_index:
-- 10
+series_index: [10]
 ---
 And so it ends. We all knew this wouldn't possible go well for anyone, but I think the author/illustrators did a wonderful job tying the story all together.  
 

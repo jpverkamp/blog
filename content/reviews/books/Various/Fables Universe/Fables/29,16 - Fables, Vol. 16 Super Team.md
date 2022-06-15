@@ -15,9 +15,7 @@ book/isbn: '1401233066'
 book/isbn13: '9781401233068'
 rating: 4
 book/pages: 160
-series_index:
-- 16
-- 29
+series_index: [16, 29]
 ---
 Well that's a crazy story. Mr. Dark is on the move and the Fables have decided that in order to fight him... they have to become Superheroes? You know, honestly, given that they've been proven to be more powerful based on how many people know their stories, it kind of works.  
 

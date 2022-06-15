@@ -12,8 +12,7 @@ book/goodreads_id: 26228034
 cover: /embeds/books/the-obelisk-gate.jpg
 rating: 5
 book/pages: 410
-series_index:
-- 2
+series_index: [2]
 ---
 Well that was a crazy book. In the {{< goodreads book="The Fifth Season" >}}, we spend pretty much the entire story in Essun's head, learning how the world of the Broken Earth works and watching the beginning of its end. In {{< goodreads book="The Obelisk Gate" >}}, things have gotten far worse as the cataclysm really sets in--and yet there are rays of hope.  
 

@@ -14,8 +14,7 @@ book/isbn: 0812524268
 book/isbn13: '9780812524260'
 rating: 3
 book/pages: 311
-series_index:
-- 2
+series_index: [2]
 ---
 Take a little [Magical Native American](http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNativeAmerican), a little [Noble Savage](http://tvtropes.org/pmwiki/pmwiki.php/Main/NobleSavage), and a little [White Man's Burden](http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteMansBurden) and you get a pretty good idea of what Red Prophet is like.  
 

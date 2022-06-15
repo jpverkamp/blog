@@ -14,8 +14,7 @@ book/isbn: 0439856264
 book/isbn13: '9780439856263'
 rating: 4
 book/pages: 384
-series_index:
-- 1
+series_index: [1]
 ---
 I'm pretty sure that Arthur died. He had a massive asthma attack, and, as his oxygen starved brain struggled its last, he hallucinated all of the rest. How else do you describe just how ... odd this book is.  
 

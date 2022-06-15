@@ -16,8 +16,7 @@ book/goodreads_id: 50892360
 cover: /embeds/books/black-sun.jpg
 rating: 5
 book/pages: 461
-series_index:
-- 1
+series_index: [1]
 ---
 > “Your father thought he could forbid me to wear this,” she said calmly enough, but the boy could hear the thread of pain in her voice, the places where deprivation and sorrow had left their cracks. “But your father doesn’t understand that this is the way of my ancestors, and their ancestors before them. He cannot stop a Carrion Crow woman from dressing to honor the crow god, particularly on a day as sacred as today.”
 

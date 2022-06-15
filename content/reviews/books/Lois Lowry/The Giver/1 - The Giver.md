@@ -14,8 +14,7 @@ book/isbn: 0385732554
 book/isbn13: '9780385732550'
 rating: 5
 book/pages: 208
-series_index:
-- 1
+series_index: [1]
 ---
 I first read the Giver a dozen or more years ago now for a class. I've re-read it a few times since then and even watched the recent movie (Jeff Bridges makes an excellent Giver, but other than that it's just ... not good). In all of these readings, I never quite got around to reading the sequels. I guess it's about time to give them a try.  
 

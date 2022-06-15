@@ -14,8 +14,7 @@ book/isbn: 0812550293
 book/isbn13: '9780812550290'
 rating: 4
 book/pages: 685
-series_index:
-- 8
+series_index: [8]
 ---
 >  “How do you know when a woman wants to kill you?” Rand mused.  
 >

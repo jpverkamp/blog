@@ -14,8 +14,7 @@ book/isbn: '1534300600'
 book/isbn13: '9781534300606'
 rating: 5
 book/pages: 152
-series_index:
-- 7
+series_index: [7]
 ---
 Oh these poor poor people. The main family. The Will. All of them. Man this series got depressing.  
 

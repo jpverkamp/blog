@@ -12,8 +12,7 @@ book/goodreads_id: 136251
 cover: /embeds/books/harry-potter-and-the-deathly-hallows.jpg
 rating: 4
 book/pages: 759
-series_index:
-- 7
+series_index: [7]
 ---
 And so it ends.  
 

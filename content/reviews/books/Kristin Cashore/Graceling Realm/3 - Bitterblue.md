@@ -14,8 +14,7 @@ book/isbn: 0803734735
 book/isbn13: '9780803734739'
 rating: 4
 book/pages: 576
-series_index:
-- 3
+series_index: [3]
 ---
 After I finished Graceling, I really wanted to know more about Leks. In Fire, he showed up, even if it felt really weird and not really core to the story. Here... we actually start to get just how twisted he really was.  
 

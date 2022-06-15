@@ -12,8 +12,7 @@ book/goodreads_id: 114955
 cover: /embeds/books/the-arctic-incident.jpg
 rating: 5
 book/pages: 398
-series_index:
-- 2
+series_index: [2]
 ---
 Two intermixed plotlines this time around.  
 

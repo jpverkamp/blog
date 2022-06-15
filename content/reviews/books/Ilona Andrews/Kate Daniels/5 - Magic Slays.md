@@ -14,8 +14,7 @@ book/isbn: 0441020429
 book/isbn13: '9780441020423'
 rating: 5
 book/pages: 308
-series_index:
-- 5
+series_index: [5]
 ---
 Kate's no longer a mercenary and needs something to do with her time and skills, so ends up opening a private investigation business. Which of course takes a while to get going, so when she's hired by Ghastek and the People to track down a runaway vampire... things of course are going to go from bad to worse. That's quite a thing.  
 

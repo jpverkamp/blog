@@ -15,9 +15,7 @@ book/isbn: 0062429973
 book/isbn13: '9780062429971'
 rating: 5
 book/pages: 276
-series_index:
-- 41
-- 5
+series_index: [41, 5]
 ---
 > FOR I CAN SEE THE BALANCE AND YOU HAVE LEFT THE WORLD MUCH BETTER THAN YOU FOUND IT, AND IF YOU ASK ME, said Death, NOBODY COULD DO ANY BETTER THAN THAT...
 

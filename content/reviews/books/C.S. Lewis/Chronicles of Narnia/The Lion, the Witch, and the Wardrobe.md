@@ -12,8 +12,7 @@ book/goodreads_id: 100915
 cover: /embeds/books/the-lion-the-witch-and-the-wardrobe.jpg
 rating: 5
 book/pages: 206
-series_index:
-- 0
+series_index: [0]
 ---
 I just finished reading {{< goodreads book="The Boxcar Children" >}} (the first 19) to my children, so now it's off to Narnia with {{< goodreads book="The Lion, the Witch, and the Wardrobe" text="The Lion, the Witch and the Wardrobe" >}} (in publication order). Oh man, we're in for a ride.  
 

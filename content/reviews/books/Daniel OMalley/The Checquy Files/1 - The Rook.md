@@ -14,8 +14,7 @@ book/isbn: 0316098795
 book/isbn13: '9780316098793'
 rating: 4
 book/pages: 496
-series_index:
-- 1
+series_index: [1]
 ---
 > She came to a decision, pulled her feet out of the mire, and stepped carefully over the ring of bodies that were scattered around her. They were all motionless, and all of them were wearing latex gloves.
 

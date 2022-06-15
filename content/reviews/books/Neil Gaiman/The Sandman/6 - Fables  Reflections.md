@@ -14,8 +14,7 @@ book/isbn: '1563891069'
 book/isbn13: '9781563891069'
 rating: 5
 book/pages: 263
-series_index:
-- 6
+series_index: [6]
 ---
 > Death was a little older than Dream. Things had the potential to die before > they had the potential to dream.
 

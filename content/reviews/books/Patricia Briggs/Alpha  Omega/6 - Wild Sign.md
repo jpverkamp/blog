@@ -19,8 +19,7 @@ book/isbn: 0440001587
 book/isbn13: '9780440001584'
 rating: 5
 book/pages: 368
-series_index:
-- 6
+series_index: [6]
 ---
 The Mercyverse books (both Mercy Thompason and Alpha & Omega) are one of the few series of books I'll come back to every few years for a complete reread, or in this case, a re-listen. Something that's made all the better when you get to the end and there are new books to add to the old favorites!  
 

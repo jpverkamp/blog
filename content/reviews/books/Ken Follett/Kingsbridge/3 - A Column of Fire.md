@@ -14,8 +14,7 @@ book/isbn: 052595497X
 book/isbn13: '9780525954972'
 rating: 4
 book/pages: 916
-series_index:
-- 3
+series_index: [3]
 ---
 > The simple idea that people should be allowed to worship as they wished caused more suffering than the ten plagues of Egypt.
 

@@ -13,8 +13,7 @@ book/isbn: 044040150X
 book/isbn13: '9780440401506'
 rating: 4
 book/pages: 80
-series_index:
-- 9
+series_index: [9]
 ---
 My oldest started reading not that long ago and oh how they've taken it to heart. Immediately into just about everything they can get their hands on. One of which? 
 

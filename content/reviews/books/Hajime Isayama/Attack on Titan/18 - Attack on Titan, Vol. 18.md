@@ -12,8 +12,7 @@ book/goodreads_id: 29746529
 cover: /embeds/books/attack-on-titan-vol-18.jpg
 rating: 5
 book/pages: 185
-series_index:
-- 18
+series_index: [18]
 ---
 Man things just keep getting crazier and more cliffhangery. (It's totally a word).  
 

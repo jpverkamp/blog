@@ -12,8 +12,7 @@ book/goodreads_id: 50881172
 cover: /embeds/books/the-relentless-moon.jpg
 rating: 4
 book/pages: 538
-series_index:
-- 3
+series_index: [3]
 ---
 > I’ll give him this. Every word Nathaniel sent to Elma was true. It’s amazing > how many lies one can tell with the truth.
 

@@ -12,8 +12,7 @@ book/goodreads_id: 35530652
 cover: /embeds/books/grey-sister.jpg
 rating: 4
 book/pages: 432
-series_index:
-- 2
+series_index: [2]
 ---
 > NONA GREY RAISES her head and regards her foe through midnight eyes. Perhaps
 > it is just the reflection of the torchlight but somewhere in their darkness

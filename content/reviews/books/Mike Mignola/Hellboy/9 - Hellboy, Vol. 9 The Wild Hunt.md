@@ -14,8 +14,7 @@ book/isbn: '1595824316'
 book/isbn13: '9781595824318'
 rating: 5
 book/pages: 192
-series_index:
-- 9
+series_index: [9]
 ---
 King Author? It had to come up eventually. But first, Mab!  
 

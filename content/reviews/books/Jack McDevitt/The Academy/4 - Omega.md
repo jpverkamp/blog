@@ -14,8 +14,7 @@ book/isbn: 0441012108
 book/isbn13: '9780441012107'
 rating: 4
 book/pages: 493
-series_index:
-- 4
+series_index: [4]
 ---
 Omega continues on in much the same vein as the previous Academy books. Science fiction in a universe where life is remarkably rare and civilization even more so. This time though... we've found someone.  
 

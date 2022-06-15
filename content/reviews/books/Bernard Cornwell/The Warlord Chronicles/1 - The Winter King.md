@@ -13,8 +13,7 @@ book/isbn: 0312156960
 book/isbn13: '9780312156961'
 rating: 4
 book/pages: 431
-series_index:
-- 1
+series_index: [1]
 ---
 > ONCE UPON A TIME, in a land that was called Britain, these things happened.
 

@@ -12,8 +12,7 @@ book/goodreads_id: 29414640
 cover: /embeds/books/goldenhand.jpg
 rating: 5
 book/pages: 368
-series_index:
-- 5
+series_index: [5]
 ---
 > “Your librarians go into battle?”  
 >

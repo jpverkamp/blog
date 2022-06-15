@@ -14,8 +14,7 @@ book/isbn: '0425256227'
 book/isbn13: '9780425256220'
 rating: 5
 book/pages: 381
-series_index:
-- 7
+series_index: [7]
 ---
 > “Fortune favors the brave," I told her. It also kills the stupid, but I decided to keep that fact to myself.
 

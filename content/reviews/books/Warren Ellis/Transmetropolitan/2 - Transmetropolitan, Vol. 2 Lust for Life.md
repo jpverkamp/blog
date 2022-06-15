@@ -14,8 +14,7 @@ book/isbn: '1563894815'
 book/isbn13: '9781563894817'
 rating: 5
 book/pages: 208
-series_index:
-- 2
+series_index: [2]
 ---
 Whelp. Spider Jerusalem is here to stay, at least for the time being. All around, it's a look at the worst (and sometimes the best) the future might have to offer, through the brightly colored, mismatched lenses of 'journalism'. Which mostly means inserting himself into people's lives whether they want him to or not and occasionally making the situation better because of it.  
 

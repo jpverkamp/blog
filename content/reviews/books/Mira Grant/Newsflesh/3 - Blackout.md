@@ -14,8 +14,7 @@ book/isbn: '1841499005'
 book/isbn13: '9781841499000'
 rating: 4
 book/pages: 512
-series_index:
-- 3
+series_index: [3]
 ---
 A solid ending to a solid series. I think that I liked it more than Deadline, but less than Feed, owing entirely to one thing: George.  
 

@@ -14,8 +14,7 @@ book/isbn: 044101769X
 book/isbn13: '9780441017690'
 rating: 5
 book/pages: 465
-series_index:
-- 6
+series_index: [6]
 ---
 > Life, Tavi reflected, seldom makes a gift of what one expects or plans for.
 

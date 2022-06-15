@@ -14,8 +14,7 @@ book/isbn: 0812511654
 book/isbn13: '9780812511659'
 rating: 4
 book/pages: 416
-series_index:
-- 3
+series_index: [3]
 ---
 In {{< goodreads book="Powersat" >}}, the big bads were terrorists. In {{< goodreads book="Privateers" >}}, the Russians. In {{< goodreads book="The Empire Builders" >}} it's... global warming and the mob?
 

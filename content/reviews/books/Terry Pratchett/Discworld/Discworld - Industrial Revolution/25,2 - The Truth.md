@@ -15,9 +15,7 @@ book/isbn: '0413771164'
 book/isbn13: '9780413771162'
 rating: 5
 book/pages: 336
-series_index:
-- 25
-- 2
+series_index: [25, 2]
 ---
 >  There are, it has been said, two types of people in the world. There are those who, when presented with a glass that is exactly half full, say: this glass is half full. And then there are those who say: this glass is half empty.  
 >

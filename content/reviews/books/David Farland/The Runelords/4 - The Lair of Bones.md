@@ -12,8 +12,7 @@ book/isbn: 0671029517
 book/isbn13: '9780671029517'
 rating: 5
 book/pages: 432
-series_index:
-- 4
+series_index: [4]
 ---
 The Lair of Bones is an epic and fitting conclusion[^ish] to the Runeslords saga. It takes the story of Gaborn and Raj Ahten, of Runelords and reavers, of elemental powers and far darker things, and brings it all together in a series of rather epic journeys and battles, culminating with an epic--if bittersweet--victory of light over dark, of good over evil. 
 

@@ -14,8 +14,7 @@ book/isbn: 006112527X
 book/isbn13: '9780061125270'
 rating: 4
 book/pages: 248
-series_index:
-- 3
+series_index: [3]
 ---
 Following {{< goodreads book="Prince Caspian" >}} much more closely than it in turn followed {{< goodreads book="The Lion, the Witch, and the Wardrobe" text="The Lion, the Witch and the Wardrobe" >}}, {{< goodreads book="The Voyage of the Dawn Treader" >}} follows King Caspian along with Edmund, Lucy, and new character cousin Eustance as they set out on a great voyage across the sea to find a series of Lords exiled before Caspian took the throne.  
 

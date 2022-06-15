@@ -14,8 +14,7 @@ book/isbn: 142152161X
 book/isbn13: '9781421521619'
 rating: 5
 book/pages: 192
-series_index:
-- 17
+series_index: [17]
 ---
 Man this story is getting crazy. Another Homunculus (Sloth!), a giant transmutation circle under the whole country, more Von Hoenheim backstory, something wicked in the tunnel...  
 

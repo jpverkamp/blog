@@ -14,8 +14,7 @@ book/isbn: 0439943469
 book/isbn13: '9780439943468'
 rating: 4
 book/pages: 533
-series_index:
-- 4
+series_index: [4]
 ---
 And so it ends. I've had some issues with this series (mostly with some of the relationship drama present throughout), but I'm glad I finished it.  
 

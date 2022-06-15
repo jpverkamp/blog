@@ -14,8 +14,7 @@ book/isbn: '1632361124'
 book/isbn13: '9781632361127'
 rating: 5
 book/pages: 208
-series_index:
-- 17
+series_index: [17]
 ---
 Things continue to heat up (heh). Attack by a crawling mess of a Titan on the wall versus Eren and a bundle of explosives. Historia ascending. The Beast Titan. It’s a crazy story.  
 

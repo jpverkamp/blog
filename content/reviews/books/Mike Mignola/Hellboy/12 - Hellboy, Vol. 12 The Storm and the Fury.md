@@ -14,8 +14,7 @@ book/isbn: '1595828273'
 book/isbn13: '9781595828279'
 rating: 5
 book/pages: 176
-series_index:
-- 12
+series_index: [12]
 ---
 It's the end?! (until {{< goodreads book="Hellboy in Hell, Vol. 1: The Descent" >}} at least!)  
 

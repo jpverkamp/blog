@@ -14,8 +14,7 @@ book/isbn: 031285787X
 book/isbn13: '9780312857875'
 rating: 4
 book/pages: 383
-series_index:
-- 1
+series_index: [1]
 ---
 I don't know if I've ever read anything in quite this genre before. It's basically urban fantasy, except set during the Cold War (which makes some sense, given this book was released in 1986) and with an extra helping of espionage (ESPionage) thrown in. It's an interesting change and the two styles complement one another.  
 

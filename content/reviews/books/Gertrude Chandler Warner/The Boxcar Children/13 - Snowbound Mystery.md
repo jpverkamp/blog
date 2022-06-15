@@ -14,8 +14,7 @@ book/isbn: 080757516X
 book/isbn13: '9780807575161'
 rating: 4
 book/pages: 128
-series_index:
-- 13
+series_index: [13]
 ---
 The children are off at a cabin in the woods and suddenly SQUIRRELS! IN THE CEILING! Oh, and they also get snowed in by a freak storm that dumps four feet of snow on them. But from the way they go on, the squirrels are totally the problem...  
 

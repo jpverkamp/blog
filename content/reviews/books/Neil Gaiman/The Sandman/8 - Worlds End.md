@@ -14,8 +14,7 @@ book/isbn: '1563891700'
 book/isbn13: '9781563891700'
 rating: 5
 book/pages: 160
-series_index:
-- 8
+series_index: [8]
 ---
 A Tavern at the World's End. Travellers from all manner of realities, thrown together. Stories around the fire.  
 

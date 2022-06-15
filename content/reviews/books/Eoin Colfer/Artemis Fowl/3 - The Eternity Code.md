@@ -14,8 +14,7 @@ book/isbn: 0141321318
 book/isbn13: '9780141321318'
 rating: 5
 book/pages: 329
-series_index:
-- 3
+series_index: [3]
 ---
 All of that growth that Artemis went through in the Arctic Incident? His father and mother both back and home, each with a fairy-magic-inspired positive outlook on life? Doesn't mean that he's above trying to exploit fairy technology for a bit more gold...  
 

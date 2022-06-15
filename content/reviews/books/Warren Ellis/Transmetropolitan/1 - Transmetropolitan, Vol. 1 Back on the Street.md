@@ -19,8 +19,7 @@ book/isbn: '1563894459'
 book/isbn13: '9781563894459'
 rating: 5
 book/pages: 72
-series_index:
-- 1
+series_index: [1]
 ---
 Oooh boy.  
 

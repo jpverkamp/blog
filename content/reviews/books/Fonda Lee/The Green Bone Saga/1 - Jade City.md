@@ -12,8 +12,7 @@ book/goodreads_id: 43587154
 cover: /embeds/books/jade-city.jpg
 rating: 5
 book/pages: 612
-series_index:
-- 1
+series_index: [1]
 ---
 > A man who wears the crown of a king can’t wear the jade of a warrior. Gold > and jade, never together.
 

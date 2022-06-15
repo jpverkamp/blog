@@ -12,8 +12,7 @@ book/goodreads_id: 34913896
 cover: /embeds/books/into-the-drowning-deep.jpg
 rating: 4
 book/pages: 562
-series_index:
-- 1
+series_index: [1]
 ---
 Well. That is certainly a book.  
 

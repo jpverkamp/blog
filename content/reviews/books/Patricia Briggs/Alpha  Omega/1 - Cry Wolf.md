@@ -14,8 +14,7 @@ book/isbn: '0441016154'
 book/isbn13: '9780441016150'
 rating: 5
 book/pages: 294
-series_index:
-- 1
+series_index: [1]
 ---
 First off: no, you didn't miss anything. This book really does start a few days after Anna's and Charles' are mated, skipping to the end of what essentially makes up the Alpha and Omega short story. It's a bit of a rough start, especially since so much of Anna's character comes from those events that we never actually see, but I think it works.  
 

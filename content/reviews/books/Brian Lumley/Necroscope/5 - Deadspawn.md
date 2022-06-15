@@ -14,8 +14,7 @@ book/isbn: 0812508351
 book/isbn13: '9780812508352'
 rating: 3
 book/pages: 608
-series_index:
-- 5
+series_index: [5]
 ---
 I think I'm done with the Necroscope series, at least for the time being. And hey, technically this _is_ the end of the first Necroscope series.  
 

@@ -18,8 +18,7 @@ book/isbn: 0593128486
 book/isbn13: '9780593128480'
 rating: 5
 book/pages: 336
-series_index:
-- 1
+series_index: [1]
 ---
 Oh, that's a joy of a book. Saying which I suppose--after you've read it--feels a bit ironic.
 

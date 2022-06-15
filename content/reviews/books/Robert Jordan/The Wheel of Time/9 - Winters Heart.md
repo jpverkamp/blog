@@ -14,8 +14,7 @@ book/isbn: 081257558X
 book/isbn13: '9780812575583'
 rating: 4
 book/pages: 780
-series_index:
-- 9
+series_index: [9]
 ---
 > A man who trusts everyone is a fool and a man who trusts no one is a fool. We are all fools if we live long enough.
 

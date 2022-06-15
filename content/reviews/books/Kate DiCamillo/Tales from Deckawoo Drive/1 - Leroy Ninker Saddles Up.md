@@ -14,8 +14,7 @@ book/isbn: 0763663395
 book/isbn13: '9780763663391'
 rating: 3
 book/pages: 90
-series_index:
-- 1
+series_index: [1]
 ---
 > Yippie-i-oh. That is the life for me. A cowboy is who I was meant to be.
 

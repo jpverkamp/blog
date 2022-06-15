@@ -15,9 +15,7 @@ book/isbn: '1401235166'
 book/isbn13: '9781401235161'
 rating: 5
 book/pages: 144
-series_index:
-- 17
-- 34
+series_index: [17, 34]
 ---
 And now we have the fallout from {{< goodreads book="Fables, Vol. 16: Super Team" >}}. North Wind sacrificed himself to defeat Mr. Dark, but in the way of these stories, there must always be a North Wind. And since there are a whole pile of direct descendents (in Bigby and Snow's children), well, perhaps one of them will become king.  
 

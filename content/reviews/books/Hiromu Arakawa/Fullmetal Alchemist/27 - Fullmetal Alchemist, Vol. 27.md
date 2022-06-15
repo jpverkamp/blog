@@ -14,8 +14,7 @@ book/isbn: '1421539845'
 book/isbn13: '9781421539843'
 rating: 5
 book/pages: 224
-series_index:
-- 27
+series_index: [27]
 ---
 And so it ends. {{< goodreads book="Fullmetal Alchemist, Vol. 26" >}} was absolutely bonkers, so to say that the final battle actually takes a step back and makes the ending all the more ... human, that's saying something.  
 

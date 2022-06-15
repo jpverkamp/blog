@@ -15,9 +15,7 @@ book/isbn: 0812579895
 book/isbn13: '9780812579895'
 rating: 4
 book/pages: 432
-series_index:
-- 1
-- 8
+series_index: [1, 8]
 ---
 {{< goodreads book="The Precipice" text=" The Precipice" >}} does two things rather well: it introduces technology that will change the Grand Tour universe and it makes me actually ... kind of like Dan Randolph.
 

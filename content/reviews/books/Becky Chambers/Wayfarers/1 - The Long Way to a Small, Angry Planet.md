@@ -18,8 +18,7 @@ book/isbn: '1500453307'
 book/isbn13: '9781500453305'
 rating: 5
 book/pages: 518
-series_index:
-- 1
+series_index: [1]
 ---
 > Ashby eyed the readouts on his control screen. “I swear, our engines have never been running this smooth.”
 > 

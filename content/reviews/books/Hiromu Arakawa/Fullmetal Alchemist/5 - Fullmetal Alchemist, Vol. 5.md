@@ -14,8 +14,7 @@ book/isbn: '1421501759'
 book/isbn13: '9781421501758'
 rating: 5
 book/pages: 188
-series_index:
-- 5
+series_index: [5]
 ---
 **5.17: The Boomtown of Broken Down**  
 

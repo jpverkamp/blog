@@ -12,8 +12,7 @@ book/goodreads_id: 4407
 cover: /embeds/books/american-gods.jpg
 rating: 3
 book/pages: 635
-series_index:
-- 1
+series_index: [1]
 ---
 American Gods falls on the unfortunately long list of books that I wish were better. It won (or was at least nominated) for a whole pile of awards[1]. It's by an author who's works in other genres I've enjoyed (e.g. the movie Corline or his episodes on Doctor Who) and who seems like a solid person in real life.  
 

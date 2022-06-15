@@ -14,8 +14,7 @@ book/isbn: '1613772270'
 book/isbn13: '9781613772270'
 rating: 5
 book/pages: 160
-series_index:
-- 5
+series_index: [5]
 ---
 Another volume, another Key. This time, the ability to travel in time! Albeit only to view what's going on. But given how many mysteries there are in this house and this family... that's more than enough.  
 

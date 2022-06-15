@@ -14,8 +14,7 @@ book/isbn: '1421513803'
 book/isbn13: '9781421513805'
 rating: 5
 book/pages: 192
-series_index:
-- 15
+series_index: [15]
 ---
 Herein, we see the horror of the Ishvalan war. Just how terrifying living weapons of war--taught that the Isvalans are the 'other' and deserve to die-- can be. Man this chapter hits hard.  
 

@@ -16,10 +16,7 @@ book/isbn: 0765316889
 book/isbn13: '9780765316882'
 rating: 5
 book/pages: 590
-series_index:
-- 2
-- 2
-- 0
+series_index: [2, 2, 0]
 ---
 Since last I read this book, I'd forgotten just how much happens in this book.  
 

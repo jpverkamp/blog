@@ -14,8 +14,7 @@ book/isbn: 0439700884
 book/isbn13: '9780439700887'
 rating: 4
 book/pages: 320
-series_index:
-- 5
+series_index: [5]
 ---
 It's interesting throughout the whole series, Nix has managed to combine a relatively formulaic story with new twists and weird new worlds in each and every book.  
 

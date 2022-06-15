@@ -12,8 +12,7 @@ book/goodreads_id: 8517437
 cover: /embeds/books/the-black-prism.jpg
 rating: 5
 book/pages: 788
-series_index:
-- 1
+series_index: [1]
 ---
 I didn't even know that {{< goodreads book="The Black Prism" text=" The Black Prism " >}} was a series until I'd finished {{< goodreads author="Brent Weeks" text=" Brent Weeks " >}} other series ( {{< goodreads book="The Way of Shadows" text=" The Way of Shadows " >}} et al) and it came up in 'related works'. Reading the summary, I almost wish I'd read them the other way around. Lightbringer seems like more of a traditional epic fantasy (albeit with an interesting magic system, see below) rather than the unrelenting grimdarkness that was The Night Angel books.  
 

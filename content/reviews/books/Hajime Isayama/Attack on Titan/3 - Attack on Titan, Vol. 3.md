@@ -14,8 +14,7 @@ book/isbn: '1612620264'
 book/isbn13: '9781612620268'
 rating: 5
 book/pages: 208
-series_index:
-- 3
+series_index: [3]
 ---
 Well, that's a development. Turns out Eren  {{< spoiler >}}can turn into a Titan{{< /spoiler >}}  and now everone knows. And that means *they have a plan*!  
 

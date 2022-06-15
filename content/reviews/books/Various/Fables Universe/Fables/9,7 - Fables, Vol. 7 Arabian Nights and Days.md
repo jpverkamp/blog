@@ -15,9 +15,7 @@ book/isbn: '1401210007'
 book/isbn13: '9781401210007'
 rating: 4
 book/pages: 146
-series_index:
-- 7
-- 9
+series_index: [7, 9]
 ---
 ![Fables-7-01-Still-out-there](/embeds/books/attachments/fables-7-01-still-out-there.jpg)  
 

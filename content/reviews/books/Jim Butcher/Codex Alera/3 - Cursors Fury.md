@@ -14,8 +14,7 @@ book/isbn: 0441014348
 book/isbn13: '9780441014347'
 rating: 5
 book/pages: 442
-series_index:
-- 3
+series_index: [3]
 ---
 Were {{< goodreads book="Furies of Calderon" >}} introduced us to the world and the Marat and {{< goodreads book="Academ's Fury" >}} gave us a taste of the politics of Alera along with the threat of the Vord, it's {{< goodreads book="Cursor's Fury" >}} where we really shift to the military focus that defines the rest of the series.  
 

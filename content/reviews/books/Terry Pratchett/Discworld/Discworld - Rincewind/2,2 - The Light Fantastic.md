@@ -15,9 +15,7 @@ book/isbn: '0061020702'
 book/isbn13: '9780061020704'
 rating: 4
 book/pages: 277
-series_index:
-- 2
-- 2
+series_index: [2, 2]
 ---
 I still feel like The Light Fantastic and The Color of Magic could really be combined into a single larger novel, given that the second takes off running pretty much where there first went off... and promptly dumps Rincewind and Twoflower back onto the disc somehow.  
 

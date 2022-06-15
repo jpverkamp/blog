@@ -12,8 +12,7 @@ book/goodreads_id: 40126485
 cover: /embeds/books/on-the-shoulders-of-titans.jpg
 rating: 5
 book/pages: 742
-series_index:
-- 2
+series_index: [2]
 ---
 {{< goodreads book="On the Shoulders of Titans" text=" On the Shoulders of Titans " >}} is everything {{< goodreads book="Sufficiently Advanced Magic" text=" Sufficiently Advanced Magic " >}} was, only bigger and more so.  
 

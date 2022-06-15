@@ -14,8 +14,7 @@ book/isbn: '1563892278'
 book/isbn13: '9781563892271'
 rating: 5
 book/pages: 233
-series_index:
-- 1
+series_index: [1]
 ---
 Sandman is often considered one of the best of the best when it comes to graphic novels and... for good reason. It's very very good. It's got immortal 'anthropomorphic personifications' (Dream is the main character, but we also get a bit of Death), a crazy deep/complicate mythos, dark and creepy imagery, and a wacky awesome storyline. Pretty much right up my alley. There's little I could do better than the blurb on Goodreads:  
 

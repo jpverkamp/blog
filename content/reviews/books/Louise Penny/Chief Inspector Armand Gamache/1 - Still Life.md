@@ -12,8 +12,7 @@ book/goodreads_id: 30918623
 cover: /embeds/books/still-life.jpg
 rating: 4
 book/pages: 321
-series_index:
-- 1
+series_index: [1]
 ---
 Well, there's that. It's a bit out of genre for me--read by group choice, so I really don't know how it compares to it's peer books, but I enjoyed it well enough. It was certainly fascinating to read at the same time as {{< goodreads book="Six Wakes" >}} (which, to be honest, I enjoyed rather more).  
 

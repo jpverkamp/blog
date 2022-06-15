@@ -14,8 +14,7 @@ book/isbn: '1591169291'
 book/isbn13: '9781591169291'
 rating: 5
 book/pages: 184
-series_index:
-- 4
+series_index: [4]
 ---
 I only half remember the anime, which apparently diverges at some point anyways. So it's a combination of half remembered things and being surprised over and over again. Imagine, being saved by Lust/Envy/Gluttony et al -- knowing that there's far more to them, but not exactly what. It's crazy.  
 

@@ -14,8 +14,7 @@ book/isbn: 0312864590
 book/isbn13: '9780312864590'
 rating: 4
 book/pages: 704
-series_index:
-- 10
+series_index: [10]
 ---
 > Life is a dream, and everyone wakes eventually.
 

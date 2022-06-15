@@ -12,8 +12,7 @@ book/goodreads_id: 6
 cover: /embeds/books/harry-potter-and-the-goblet-of-fire.jpg
 rating: 5
 book/pages: 734
-series_index:
-- 4
+series_index: [4]
 ---
 For the most part, Harry Potter and the Goblet of Fire is one of the best entries into the series. The worldbuilding and characterization are very cool, expanding on what we've already seen and making the magical world come alive in all sorts of wonderful ways. Despite a few immersion-defying ideas scattered thoughout the book (we'll get to that later), it's very well written and keeps pulling you through the longest book in the series thus far by almost double.  
 

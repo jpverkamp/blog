@@ -15,9 +15,7 @@ book/isbn: 0552154180
 book/isbn13: '9780552154185'
 rating: 3
 book/pages: 416
-series_index:
-- 22
-- 6
+series_index: [22, 6]
 ---
 The Last Continent is something of a disappointment after Interesting Times. That's not to say that it's strictly speaking 'bad', just that it's not quite as good as many of the other Rincewind novels.  
 

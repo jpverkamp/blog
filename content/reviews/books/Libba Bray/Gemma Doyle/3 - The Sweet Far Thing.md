@@ -14,8 +14,7 @@ book/isbn: 0385730306
 book/isbn13: '9780385730303'
 rating: 4
 book/pages: 819
-series_index:
-- 3
+series_index: [3]
 ---
 >  With a sigh, I resign myself to combing through it page by page, though 502 
 > pages is so many to wade through, and I curse authors who write such lengthy 

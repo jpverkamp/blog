@@ -14,8 +14,7 @@ book/isbn: '0316407216'
 book/isbn13: '9780316407212'
 rating: 4
 book/pages: 624
-series_index:
-- 1
+series_index: [1]
 ---
 >  "But, sir, you look like you've seen a ghost!"  
 >

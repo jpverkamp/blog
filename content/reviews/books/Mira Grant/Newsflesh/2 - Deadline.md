@@ -14,8 +14,7 @@ book/isbn: 031608106X
 book/isbn13: '9780316081061'
 rating: 4
 book/pages: 584
-series_index:
-- 2
+series_index: [2]
 ---
 I was curious to see where Grant would take this, after killing off a small pile of main characters in the first book. It turns out: somewhere right between what I expected and what I didn't expect at all.  
 

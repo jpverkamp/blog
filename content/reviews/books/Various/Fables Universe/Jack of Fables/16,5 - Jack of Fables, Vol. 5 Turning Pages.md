@@ -15,9 +15,7 @@ book/isbn: '1401221386'
 book/isbn13: '9781401221386'
 rating: 5
 book/pages: 144
-series_index:
-- 5
-- 16
+series_index: [5, 16]
 ---
 Jack in the Wild West. Because of course he is. It's an interesting look at the life of a fable further back in time, Jack in particular. And it's nice to see the contrast between Bigby and Jack. Jack may be a fool, but at least he's a passionate one.  
 

@@ -12,8 +12,7 @@ book/goodreads_id: 49231332
 cover: /embeds/books/attack-on-titan-vol-28.jpg
 rating: 5
 book/pages: 189
-series_index:
-- 28
+series_index: [28]
 ---
 Eren is out and about and a jerk (even if he's probably right). Zeke has plans involving spinal fluid (eesh) and gets captured. And there's a plan that could very well end the existence of Titans entirely...  
 

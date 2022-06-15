@@ -14,8 +14,7 @@ book/isbn: 031625133X
 book/isbn13: '9780316251334'
 rating: 5
 book/pages: 704
-series_index:
-- 4
+series_index: [4]
 ---
 > Look at your mistakes long enough to learn from them, then put them behind you.
 

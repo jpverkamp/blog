@@ -13,8 +13,7 @@ book/isbn: '1401280803'
 book/isbn13: '9781401280802'
 rating: 4
 book/pages: 328
-series_index:
-- 19
+series_index: [19]
 ---
 Well that’s an interesting saga. Heaven, Hell, and… a Third Place. Mythology certainly goes some interesting places in Hellblazer. I enjoyed it. 
 

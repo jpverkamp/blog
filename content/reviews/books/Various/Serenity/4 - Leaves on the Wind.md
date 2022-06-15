@@ -14,8 +14,7 @@ book/isbn: '1616554894'
 book/isbn13: '9781616554897'
 rating: 5
 book/pages: 152
-series_index:
-- 4
+series_index: [4]
 ---
 The comics take place all over time. This one takes place after the movie Serenity, so Wash and Book are gone, Zoe has a baby (I know right?), and River is flying the ship.  
 

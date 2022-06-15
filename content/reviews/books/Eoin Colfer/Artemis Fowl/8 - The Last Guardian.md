@@ -14,8 +14,7 @@ book/isbn: '1423161610'
 book/isbn13: '9781423161615'
 rating: 4
 book/pages: 328
-series_index:
-- 8
+series_index: [8]
 ---
 So. Opal Koboi is back and she's trying once again to rule/end the world (I'm not sure she knows the difference any more).  
 

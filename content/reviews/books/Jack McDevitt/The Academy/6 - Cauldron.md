@@ -14,8 +14,7 @@ book/isbn: '0441015255'
 book/isbn13: '9780441015252'
 rating: 5
 book/pages: 373
-series_index:
-- 6
+series_index: [6]
 ---
 A solid conclusion (for now) to the Academy series.  
 

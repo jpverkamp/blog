@@ -14,8 +14,7 @@ book/isbn: 0451459873
 book/isbn13: '9780451459879'
 rating: 5
 book/pages: 435
-series_index:
-- 6
+series_index: [6]
 ---
 I still like Death Masks better, but Blood Rites is still quite good. We're back to big magical rituals (a five book cycle?) but also a bit of goodly hint of vampiric mayhem (the Black and White Courts this time around).  
 

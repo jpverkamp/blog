@@ -13,9 +13,7 @@ book/goodreads_id: 34511
 cover: /embeds/books/monstrous-regiment.jpg
 rating: 5
 book/pages: 496
-series_index:
-- 31
-- 3
+series_index: [31, 3]
 ---
 > Do you think it's possible for an entire nation to be insane?
 

@@ -14,8 +14,7 @@ book/isbn: '0553277405'
 book/isbn13: '9780553277401'
 rating: 4
 book/pages: 345
-series_index:
-- 6
+series_index: [6]
 ---
 One one hand, wow can you tell that some of these books were written in the 80s. The energy crisis is top on everyone's mind and the USSR still stands.  
 

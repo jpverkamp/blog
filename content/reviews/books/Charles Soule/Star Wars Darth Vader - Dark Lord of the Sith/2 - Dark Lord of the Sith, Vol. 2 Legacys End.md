@@ -14,8 +14,7 @@ book/isbn: 130290745X
 book/isbn13: '9781302907457'
 rating: 5
 book/pages: 136
-series_index:
-- 2
+series_index: [2]
 ---
 Vader's goal this time?  
 

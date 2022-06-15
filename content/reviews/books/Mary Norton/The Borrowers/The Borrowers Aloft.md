@@ -14,8 +14,7 @@ book/isbn: '1858815940'
 book/isbn13: '9781858815947'
 rating: 5
 book/pages: 193
-series_index:
-- 0
+series_index: [0]
 ---
 A cute addition to the series. The Borrowers have made it to Little Fordham. We get a bit of backstory about the maker of the tiny town and of course there's a baddie making a town of his own. The Borrowers get Borrowernapped, they learn how to make a balloon, and they soar back home.  
 

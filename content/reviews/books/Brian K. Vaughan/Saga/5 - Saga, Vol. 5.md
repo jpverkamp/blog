@@ -14,8 +14,7 @@ book/isbn: '1632154382'
 book/isbn13: '9781632154385'
 rating: 5
 book/pages: 152
-series_index:
-- 5
+series_index: [5]
 ---
 This is a pretty great addition to the Saga tale. We start out with everyone seperated and see all the tirls and tribulations they have to go through to get back together. It's still the perfect blend of entirely-too-real, absolutely mad and surreal worldbuilding, and underlying themes that really make you think.  
 

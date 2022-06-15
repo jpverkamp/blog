@@ -12,8 +12,7 @@ book/goodreads_id: 29496367
 cover: /embeds/books/attack-on-titan-vol-20.jpg
 rating: 5
 book/pages: 182
-series_index:
-- 20
+series_index: [20]
 ---
 You know; it is really quite impressive that the Survey Corps has been doing even this well against there Collosus/Armorered/Beast Titans. Human intellect and all those strengths. Oy.  
 

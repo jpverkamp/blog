@@ -14,8 +14,7 @@ book/isbn: 0142302392
 book/isbn13: '9780142302392'
 rating: 4
 book/pages: 400
-series_index:
-- 4
+series_index: [4]
 ---
 {{< goodreads book="Mariel of Redwall" >}} takes place between {{< goodreads book="Mossflower" >}} and {{< goodreads book="Redwall" >}} and once again splits the story, this time between Mariel, daughter of Joseph the Bellmaker on a quest for vengence and a(nother) sea rat attack on Mossflower Abbey.  
 

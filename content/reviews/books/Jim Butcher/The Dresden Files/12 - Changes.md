@@ -14,8 +14,7 @@ book/isbn: 045146317X
 book/isbn13: '9780451463173'
 rating: 5
 book/pages: 438
-series_index:
-- 12
+series_index: [12]
 ---
 ** spoiler alert ** Damn.  
 

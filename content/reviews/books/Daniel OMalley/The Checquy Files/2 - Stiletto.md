@@ -14,8 +14,7 @@ book/isbn: 0316228044
 book/isbn13: '9780316228046'
 rating: 4
 book/pages: 583
-series_index:
-- 2
+series_index: [2]
 ---
 Well. That was a sequel. Published 4 years after {{< goodreads book="The Rook" >}}, we have a weird combination of following the events of the first book (Stiletto takes place perhaps a few months later as the Checquy and Grafters are coming together for peace meetings) but with two completely new main characters (a Pawn Felicity and a teenager Grafter Odette, descendant of one of the leaders).  
 

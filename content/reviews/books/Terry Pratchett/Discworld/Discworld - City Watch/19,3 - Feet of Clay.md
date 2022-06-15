@@ -15,9 +15,7 @@ book/isbn: '0552153257'
 book/isbn13: '9780552153256'
 rating: 5
 book/pages: 411
-series_index:
-- 19
-- 3
+series_index: [19, 3]
 ---
 Feet of Clay's central story tackles one key idea: What makes a person a person?  
 

@@ -14,8 +14,7 @@ book/isbn: '1611761522'
 book/isbn13: '9781611761528'
 rating: 3
 book/pages: 14
-series_index:
-- 22
+series_index: [22]
 ---
 Well. I listened to it. It had something to do with a big conspiracy to control rare earth metals and a lost submarine. ... That's really about all that stuck in my head.  
 

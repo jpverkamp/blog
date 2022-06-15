@@ -12,8 +12,7 @@ book/goodreads_id: 9834117
 cover: /embeds/books/messenger.jpg
 rating: 3
 book/pages: 192
-series_index:
-- 3
+series_index: [3]
 ---
 I'm not entirely sure what the point of Messenger was. It wasn't a particularly bad book, just not hugely interesting, especially compared to The Giver or Gathering Blue.  
 

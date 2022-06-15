@@ -14,8 +14,7 @@ book/isbn: '0061020656'
 book/isbn13: '9780061020650'
 rating: 5
 book/pages: 341
-series_index:
-- 7
+series_index: [7]
 ---
 Pyramids is essentially Discworld versus Ancient Egypt. The entire idea of a kingdom that has been stable for so long that they do everything because they always have combined with the idea of spending basically everything on giant pyramids for the dead. Throw in some reality unstability, some worldbuilding on the Assassin's guild,  
 

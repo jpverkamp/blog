@@ -12,8 +12,7 @@ book/goodreads_id: 34963526
 cover: /embeds/books/saga-vol-8.jpg
 rating: 5
 book/pages: 146
-series_index:
-- 8
+series_index: [8]
 ---
 Man this universe just keeps getting more and more surreal. That's what you get where Sci-Fi is real, Fantasy is real, and you want to really explore just what it means to be *people*.  
 

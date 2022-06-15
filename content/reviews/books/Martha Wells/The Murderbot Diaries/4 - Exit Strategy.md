@@ -11,8 +11,7 @@ book/goodreads_id: 35519109
 cover: /embeds/books/exit-strategy.jpg
 rating: 5
 book/pages: 176
-series_index:
-- 4
+series_index: [4]
 ---
 Murderbot has really stirred up some trouble. Now Dr. Mesnah's caught up in it and it's time to come back and perhaps fix some things. 
 

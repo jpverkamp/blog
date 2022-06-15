@@ -15,9 +15,7 @@ book/isbn: '1401216862'
 book/isbn13: '9781401216863'
 rating: 5
 book/pages: 240
-series_index:
-- 10
-- 14
+series_index: [10, 14]
 ---
 {{< goodreads book="Fables, Vol. 10: The Good Prince" text=" Fables, Vol. 10: The Good Prince " >}} . The story of Ambrose (Flycatcher).  
 

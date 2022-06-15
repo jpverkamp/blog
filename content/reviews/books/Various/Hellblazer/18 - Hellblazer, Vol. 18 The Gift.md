@@ -13,8 +13,7 @@ book/isbn: '1401275389'
 book/isbn13: '9781401275389'
 rating: 5
 book/pages: 328
-series_index:
-- 18
+series_index: [18]
 ---
 All about that little issue of Constantine and one very very long day. 
 

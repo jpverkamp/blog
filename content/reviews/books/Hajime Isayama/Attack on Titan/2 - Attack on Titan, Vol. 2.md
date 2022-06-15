@@ -14,8 +14,7 @@ book/isbn: '1612620256'
 book/isbn13: '9781612620251'
 rating: 5
 book/pages: 189
-series_index:
-- 2
+series_index: [2]
 ---
 Ooh boy.  
 

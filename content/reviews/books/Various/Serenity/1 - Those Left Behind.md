@@ -14,8 +14,7 @@ book/isbn: '1593074492'
 book/isbn13: '9781593074494'
 rating: 4
 book/pages: 96
-series_index:
-- 1
+series_index: [1]
 ---
 Oh Firefly. A wonderful TV show, brutally murdered by _the man_. Aired out of order, canceled too soon, brought back as a movie, and then never let go by fans on the Internet. It's been 18 years... it's never going to come back.  
 

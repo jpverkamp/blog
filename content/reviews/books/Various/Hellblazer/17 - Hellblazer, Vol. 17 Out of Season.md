@@ -13,8 +13,7 @@ book/isbn: '1401273661'
 book/isbn13: '9781401273668'
 rating: 4
 book/pages: 328
-series_index:
-- 17
+series_index: [17]
 ---
 Constantine lost and found and so very screwed. Literally. A lot happens in this one and there’s a lot of potential for what comes next. Looking forward to it. 
 

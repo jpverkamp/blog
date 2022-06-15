@@ -12,8 +12,7 @@ book/goodreads_id: 24369122
 cover: /embeds/books/boundary-crossed.jpg
 rating: 4
 book/pages: 302
-series_index:
-- 1
+series_index: [1]
 ---
 > The third time I died was early on a Monday morning, a week after Labor Day.
 

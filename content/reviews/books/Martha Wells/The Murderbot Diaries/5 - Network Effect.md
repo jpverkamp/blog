@@ -11,8 +11,7 @@ book/goodreads_id: 52381770
 cover: /embeds/books/network-effect.jpg
 rating: 5
 book/pages: 346
-series_index:
-- 5
+series_index: [5]
 ---
 > So that was what had happened before the survey. Now we’re here, ready for the next major disaster. (Spoiler warning.)
 

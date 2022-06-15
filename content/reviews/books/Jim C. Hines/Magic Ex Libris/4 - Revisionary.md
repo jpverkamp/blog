@@ -14,8 +14,7 @@ book/isbn: 0756409705
 book/isbn13: '9780756409708'
 rating: 5
 book/pages: 352
-series_index:
-- 4
+series_index: [4]
 ---
 > For security reasons, no books will be permitted in the chamber during your testimony.
 

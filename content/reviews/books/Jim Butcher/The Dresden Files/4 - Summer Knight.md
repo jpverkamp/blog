@@ -14,8 +14,7 @@ book/isbn: 0451458923
 book/isbn13: '9780451458926'
 rating: 5
 book/pages: 446
-series_index:
-- 4
+series_index: [4]
 ---
 Sorcerers, werewolves, vampires... And now the Fae. We already had hints of it from the previous books, particularly in the guise of Lea--Harry's literal Fairy Godmother.  
 

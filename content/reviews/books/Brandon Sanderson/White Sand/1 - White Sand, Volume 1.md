@@ -14,8 +14,7 @@ book/isbn: '1606908855'
 book/isbn13: '9781606908853'
 rating: 4
 book/pages: 160
-series_index:
-- 1
+series_index: [1]
 ---
 White Sand has something of an odd story. It's the first novel Sanderson finished (and also the 7th, a complete rewrite), but in prose form was never published. You can get it if you ask him (I think signing up for the newsletter? It's been a few years) and I read it back in 2016.  
 

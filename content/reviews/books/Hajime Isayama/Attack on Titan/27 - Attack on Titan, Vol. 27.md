@@ -12,8 +12,7 @@ book/goodreads_id: 44767558
 cover: /embeds/books/attack-on-titan-vol-27.jpg
 rating: 4
 book/pages: 192
-series_index:
-- 27
+series_index: [27]
 ---
 Well, that certainly got away from me. Only a half dozen more volumes to go, let's finish this!  
 

@@ -12,8 +12,7 @@ book/goodreads_id: 37586
 cover: /embeds/books/the-lost-colony.jpg
 rating: 5
 book/pages: 385
-series_index:
-- 5
+series_index: [5]
 ---
 After the events of the previous four novels, it was getting to the point where something new was going to have to happen in order to prevent the books from all feeling the same. As such, we get yet another child prodigy (a 12 year old French girl by the name of Minerva) and another class of Fairy that we've never heard of before: Demons.  
 

@@ -14,8 +14,7 @@ book/isbn: 0812570707
 book/isbn13: '9780812570700'
 rating: 4
 book/pages: 502
-series_index:
-- 3
+series_index: [3]
 ---
 Man these stories keep escalating. It's really kind of impressive. From the story of a powerful invading lord to bugs from the depths of the Earth to dark magic, super powerful evil beings from another world, and perhaps even worse... Man there's a lot here.  
 

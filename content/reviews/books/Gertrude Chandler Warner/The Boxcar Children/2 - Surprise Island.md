@@ -14,8 +14,7 @@ book/isbn: 0807576743
 book/isbn13: '9780807576748'
 rating: 4
 book/pages: 192
-series_index:
-- 2
+series_index: [2]
 ---
 The second Boxcar Children book and the first of the formula that would come to define the series. It's summer and the children are off to an adventure to an island Grandfather ***owns*** , more or less by themselves (although two other adults live on the island). They make a house, explore, find mysteries, and generally have an idyllic time.  
 

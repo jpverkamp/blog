@@ -15,9 +15,7 @@ book/isbn: 0812579887
 book/isbn13: '9780812579888'
 rating: 3
 book/pages: 384
-series_index:
-- 2
-- 10
+series_index: [2, 10]
 ---
 {{< goodreads book="The Rock Rats" >}} continues the story of {{< goodreads book="The Precipice" >}}, following the story of humanity's expansion into the Asteroid Belt and all the atrocities that entails.
 

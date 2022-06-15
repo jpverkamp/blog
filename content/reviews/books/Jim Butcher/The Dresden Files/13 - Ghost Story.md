@@ -14,8 +14,7 @@ book/isbn: 045146379X
 book/isbn13: '9780451463791'
 rating: 5
 book/pages: 481
-series_index:
-- 13
+series_index: [13]
 ---
 And then he was dead.  {{< spoiler >}}Ish.{{< /spoiler >}}  .  
 

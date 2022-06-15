@@ -14,8 +14,7 @@ book/isbn: 0062110837
 book/isbn13: '9780062110831'
 rating: 5
 book/pages: 486
-series_index:
-- 1
+series_index: [1]
 ---
 The Golem and the Jinni follows two parallel stories: that of a Golem and a Jinni (of course), each finding their way from fall flung shores to circa 1900 New York City.  
 

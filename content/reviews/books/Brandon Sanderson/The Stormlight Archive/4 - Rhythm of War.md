@@ -12,8 +12,7 @@ book/goodreads_id: 17250966
 cover: /embeds/books/rhythm-of-war.jpg
 rating: 5
 book/pages: 1270
-series_index:
-- 4
+series_index: [4]
 ---
 > “Heroism is a myth you tell idealistic young people—specifically when you > want them to go bleed for you. It got one of my sons killed and another > taken from me. You can keep your heroism and return to me the lives of those > wasted on foolish conflicts.”
 

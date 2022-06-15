@@ -14,8 +14,7 @@ book/isbn: 0807507091
 book/isbn13: '9780807507094'
 rating: 5
 book/pages: 128
-series_index:
-- 15
+series_index: [15]
 ---
 Only a few weeks left in the summer, so the Boxcar Children are going on (another) adventure closer to home! This time, they're going to ride their bikes to Aunt Jane's and of course find a several mysteries (and a dog!) along the way. It's really quite strange how close together everything is. They keep going by previous locations, such as Second Landing and Aunt Jane's. New England I guess?  
 

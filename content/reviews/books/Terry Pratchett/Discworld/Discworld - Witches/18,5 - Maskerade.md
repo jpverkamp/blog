@@ -15,9 +15,7 @@ book/isbn: 0575058080
 book/isbn13: '9780575058088'
 rating: 5
 book/pages: 285
-series_index:
-- 18
-- 5
+series_index: [18, 5]
 ---
 The witches are back! Or at least Granny Weatherwax and Nanny Ogg. Magrat's off being queen or somesuch.  
 

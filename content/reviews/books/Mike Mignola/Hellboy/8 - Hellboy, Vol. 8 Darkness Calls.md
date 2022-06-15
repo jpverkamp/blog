@@ -14,8 +14,7 @@ book/isbn: 159307896X
 book/isbn13: '9781593078966'
 rating: 5
 book/pages: 200
-series_index:
-- 8
+series_index: [8]
 ---
 An undead with eyes made of coins?  
 

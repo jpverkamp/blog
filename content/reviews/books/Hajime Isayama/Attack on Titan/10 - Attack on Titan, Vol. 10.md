@@ -14,8 +14,7 @@ book/isbn: '1612626769'
 book/isbn13: '9781612626765'
 rating: 5
 book/pages: 192
-series_index:
-- 10
+series_index: [10]
 ---
 Wooo boy. The wall is breached and the 104th is still doing their absolute best to save the day. One thing leads to another and they get trapped by Titans in a castle in the wall--only for everything to go absolutely sideways once again!  
 

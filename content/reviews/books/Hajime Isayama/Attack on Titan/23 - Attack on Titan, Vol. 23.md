@@ -12,8 +12,7 @@ book/goodreads_id: 34773676
 cover: /embeds/books/attack-on-titan-vol-23.jpg
 rating: 5
 book/pages: 184
-series_index:
-- 23
+series_index: [23]
 ---
 This is a fascinating change of scope. After so long on what we thought of as the entire world (although of course we'd guessed it wasn't the case), now we have an entire much larger world, more advanced in a lot of ways both in science and knowing about Titans. Crazy times.  
 

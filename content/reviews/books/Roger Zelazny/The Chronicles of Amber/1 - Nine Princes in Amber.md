@@ -14,8 +14,7 @@ book/isbn: 0380014300
 book/isbn13: '9780380014309'
 rating: 4
 book/pages: 175
-series_index:
-- 1
+series_index: [1]
 ---
 When I started The Chronicles of Amber, I'm not really sure what I expected. Probably a straight forward fantasy epic a la The Lord of the Rings.  
 

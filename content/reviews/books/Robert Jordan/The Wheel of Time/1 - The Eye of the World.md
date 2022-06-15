@@ -14,8 +14,7 @@ book/isbn: 0812511816
 book/isbn13: '9780812511819'
 rating: 5
 book/pages: 800
-series_index:
-- 1
+series_index: [1]
 ---
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 

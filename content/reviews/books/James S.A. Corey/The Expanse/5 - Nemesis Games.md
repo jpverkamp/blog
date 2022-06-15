@@ -12,8 +12,7 @@ book/goodreads_id: 22886612
 cover: /embeds/books/nemesis-games.jpg
 rating: 4
 book/pages: 536
-series_index:
-- 5
+series_index: [5]
 ---
 > You can tell you’ve found a really interesting question when nobody wants you to answer it.
 

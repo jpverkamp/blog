@@ -14,8 +14,7 @@ book/isbn: '1563890933'
 book/isbn13: '9781563890932'
 rating: 5
 book/pages: 192
-series_index:
-- 5
+series_index: [5]
 ---
 This time around, I think I'll just start with the summary from Goodreads:  
 

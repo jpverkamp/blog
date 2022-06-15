@@ -14,8 +14,7 @@ book/isbn: 0857662961
 book/isbn13: '9780857662965'
 rating: 5
 book/pages: 512
-series_index:
-- 2
+series_index: [2]
 ---
 Crux basically picks up where Nexus let off.  
 

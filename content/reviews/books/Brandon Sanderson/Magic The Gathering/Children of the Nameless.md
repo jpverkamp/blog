@@ -12,8 +12,7 @@ book/goodreads_id: 43205859
 cover: /embeds/books/children-of-the-nameless.jpg
 rating: 5
 book/pages: 217
-series_index:
-- 0
+series_index: [0]
 ---
 Hey, it's Sanderson. I'll give it a chance.  
 

@@ -14,8 +14,7 @@ book/isbn: '1612622534'
 book/isbn13: '9781612622538'
 rating: 5
 book/pages: 192
-series_index:
-- 4
+series_index: [4]
 ---
 Use the Titans to save humanity from the Titans? Sounds like a plan!  
 

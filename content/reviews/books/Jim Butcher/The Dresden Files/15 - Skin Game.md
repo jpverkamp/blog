@@ -14,8 +14,7 @@ book/isbn: 0451464397
 book/isbn13: '9780451464392'
 rating: 5
 book/pages: 454
-series_index:
-- 15
+series_index: [15]
 ---
 And then there was a heist.  
 

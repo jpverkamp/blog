@@ -14,8 +14,7 @@ book/isbn: '2290032042'
 book/isbn13: '9782290032046'
 rating: 4
 book/pages: 512
-series_index:
-- 2
+series_index: [2]
 ---
 This book feels rather different from Rendezvous with Rama.  
 

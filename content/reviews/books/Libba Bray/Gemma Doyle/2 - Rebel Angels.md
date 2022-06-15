@@ -14,8 +14,7 @@ book/isbn: 0385733410
 book/isbn13: '9780385733410'
 rating: 4
 book/pages: 548
-series_index:
-- 2
+series_index: [2]
 ---
 Goodness. That's quite a story.  
 

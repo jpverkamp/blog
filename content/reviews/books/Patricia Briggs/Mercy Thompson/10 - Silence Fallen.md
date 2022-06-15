@@ -14,8 +14,7 @@ book/isbn: 0425281272
 book/isbn13: '9780425281277'
 rating: 5
 book/pages: 371
-series_index:
-- 10
+series_index: [10]
 ---
 I last read (/ listened to) the Mercy Thompson books back in 2016, so I thought it was about time to go through the series (plus the Alpha and Omega books) again. Imagine my delight when I saw both series had a new entry!  
 

@@ -15,9 +15,7 @@ book/isbn: '1401223168'
 book/isbn13: '9781401223168'
 rating: 5
 book/pages: 192
-series_index:
-- 12
-- 21
+series_index: [12, 21]
 ---
 And so it ends... or perhaps it only begins?  
 

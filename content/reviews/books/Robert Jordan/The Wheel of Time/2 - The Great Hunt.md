@@ -14,8 +14,7 @@ book/isbn: 0812517725
 book/isbn13: '9780812517729'
 rating: 5
 book/pages: 705
-series_index:
-- 2
+series_index: [2]
 ---
 Amusingly, due to the library not having a copy of {{< goodreads book="The Eye of the World" text=" The Eye of the World " >}} , the first two times I read the series, I actually started with {{< goodreads book="The Great Hunt" text=" The Great Hunt " >}} . While the Eye of the World could arguably stand alone (albeit with a somewhat unsatisfying feeling, given the sheer quantity of untapped potential in the world building), it's in the Great Hunt that things really start getting crazy.  
 

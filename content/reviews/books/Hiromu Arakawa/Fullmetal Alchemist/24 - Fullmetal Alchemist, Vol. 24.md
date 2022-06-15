@@ -14,8 +14,7 @@ book/isbn: '1421538121'
 book/isbn13: '9781421538129'
 rating: 5
 book/pages: 192
-series_index:
-- 24
+series_index: [24]
 ---
 Onward!  
 

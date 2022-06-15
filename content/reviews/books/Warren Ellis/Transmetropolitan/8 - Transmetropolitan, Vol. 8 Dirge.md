@@ -14,8 +14,7 @@ book/isbn: '1563899531'
 book/isbn13: '9781563899539'
 rating: 5
 book/pages: 140
-series_index:
-- 8
+series_index: [8]
 ---
 Well. That's a storm.  
 

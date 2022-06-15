@@ -14,8 +14,7 @@ book/isbn: 0679879250
 book/isbn13: '9780679879251'
 rating: 4
 book/pages: 326
-series_index:
-- 2
+series_index: [2]
 ---
 {{< goodreads book="The Subtle Knife" >}} takes off where {{< goodreads book="The Golden Compass" >}} left off, with Lyra leaving her world behind, traveling across a bridge originally torn by the death of a friend. On top of that, we have a new character in Will, a boy searching for his missing father, instead finding another, must less dramatic way to travel between worlds.  
 

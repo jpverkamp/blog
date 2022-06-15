@@ -12,8 +12,7 @@ book/goodreads_id: 22300522
 cover: /embeds/books/born-of-the-ashes.jpg
 rating: 4
 book/pages: 518
-series_index:
-- 11
+series_index: [11]
 ---
 Getting a bit harder to find things to say. The Aurora/Celestia/their crews may have kicked the Jung off the Earth for now, but there's an entire fleeting coming their way and not nearly enough time to do everything they really need to defeat them.  
 

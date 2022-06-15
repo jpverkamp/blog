@@ -14,8 +14,7 @@ book/isbn: '1937007588'
 book/isbn13: '9781937007584'
 rating: 5
 book/pages: 329
-series_index:
-- 6
+series_index: [6]
 ---
 Kate and gang go to Europe!  
 

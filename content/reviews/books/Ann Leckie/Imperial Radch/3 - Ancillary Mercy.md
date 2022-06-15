@@ -14,8 +14,7 @@ book/isbn: '0356502422'
 book/isbn13: '9780356502427'
 rating: 4
 book/pages: 330
-series_index:
-- 3
+series_index: [3]
 ---
 Ancillary Mercy does a good job blending the larger overarching story and style of Ancillary Justice and the much closer to home sequel Ancillary Sword. The universe is still relatively limited to a pair of star systems plus the planet and station of Athoek.  
 

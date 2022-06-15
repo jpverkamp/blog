@@ -14,8 +14,7 @@ book/isbn: 0786818611
 book/isbn13: '9780786818617'
 rating: 4
 book/pages: 501
-series_index:
-- 3
+series_index: [3]
 ---
 Nathaniel is 17 now, the sweetheart of the government after saving everyone in {{< goodreads book="The Golem's Eye" >}} and even worse when it comes to believing the goverment's line about the supremacy of magicians and mistreating Bartimaeus.  
 

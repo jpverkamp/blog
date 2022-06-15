@@ -14,8 +14,7 @@ book/isbn: '1612626777'
 book/isbn13: '9781612626772'
 rating: 5
 book/pages: 192
-series_index:
-- 11
+series_index: [11]
 ---
 Onward to battle! More than ever before, we get some really big Titan versus Titan battles (crazy) and the barest of hints at just who and what the other side of the battle might be.  
 

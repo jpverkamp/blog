@@ -15,9 +15,7 @@ book/isbn: 0552154229
 book/isbn13: '9780552154222'
 rating: 4
 book/pages: 464
-series_index:
-- 24
-- 5
+series_index: [24, 5]
 ---
 > So this is diplomacy. It’s like lying, only to a better class of people.
 

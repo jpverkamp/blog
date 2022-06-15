@@ -13,8 +13,7 @@ book/isbn: '1401250726'
 book/isbn13: '9781401250720'
 rating: 4
 book/pages: 328
-series_index:
-- 9
+series_index: [9]
 ---
 Two big stories, a few really trippy dreams, and Constantine managing to push off damnation a bit longer. A neat collection. Critical Mass in particular is worth the read. 
 

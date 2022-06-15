@@ -12,8 +12,7 @@ book/goodreads_id: 18690610
 cover: /embeds/books/resistance.jpg
 rating: 4
 book/pages: 311
-series_index:
-- 9
+series_index: [9]
 ---
 After {{< goodreads book="Celestia CV-02" >}}, I was worried that the Aurora and her crew would take the backseat for the rest of the series. Luckily, from {{< goodreads book="Resistance" >}}, this appears to not be the case. We still do get a wider selection of points of view--on the Aurora, the Celestia, on the Jung controlled world Tanna, and even back on Earth--but the Aurora is once again the core of the story.  
 

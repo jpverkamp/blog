@@ -14,8 +14,7 @@ book/isbn: 042525674X
 book/isbn13: '9780425256749'
 rating: 5
 book/pages: 341
-series_index:
-- 8
+series_index: [8]
 ---
 Interesting thing about tight first person point of view: when the main character feels strongly about another character, it comes through really strongly. Take for example Christy, Adam's ex-wife. On one hand, I'm sure she's not quite as bad as she appears, given that all we see is from Mercy's point of view. On the other hand, she's really a fairly troubled person.  
 

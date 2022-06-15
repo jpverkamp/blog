@@ -13,8 +13,7 @@ cover: /embeds/books/mossflower.jpg
 book/isbn: '0441005764'
 rating: 5
 book/pages: 373
-series_index:
-- 2
+series_index: [2]
 ---
 Huh. That was actually really good.  
 

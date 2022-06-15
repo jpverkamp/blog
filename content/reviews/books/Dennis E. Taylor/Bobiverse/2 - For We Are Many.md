@@ -12,8 +12,7 @@ book/goodreads_id: 33395557
 cover: /embeds/books/for-we-are-many.jpg
 rating: 5
 book/pages: 9
-series_index:
-- 2
+series_index: [2]
 ---
 > Even though I watched the action remotely via a floating observation drone, I could still feel my nether regions puckering up in fear. At times like this, I wondered if I hadn’t gone a little overboard with the level of detail in my virtual-reality environment. There was no reason for me to even have nether regions, let alone for them to pucker.
 

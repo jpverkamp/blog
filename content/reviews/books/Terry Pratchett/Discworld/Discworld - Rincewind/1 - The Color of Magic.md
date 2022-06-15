@@ -15,9 +15,7 @@ book/isbn: 0060855924
 book/isbn13: '9780060855925'
 rating: 4
 book/pages: 228
-series_index:
-- 1
-- 1
+series_index: [1, 1]
 ---
 Once upon a time, I tried to read the Discworld books, starting (against several people's advise) with the first and working through all of them. I made it a few books in and put them down, saying that some day I would give them another chance. Well, this is that chance.  
 

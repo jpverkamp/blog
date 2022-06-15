@@ -19,8 +19,7 @@ book/isbn: '1101988851'
 book/isbn13: '9781101988855'
 rating: 5
 book/pages: 467
-series_index:
-- 1
+series_index: [1]
 ---
 > It is important, when killing a nun, to ensure that you bring an army of
 > sufficient size.

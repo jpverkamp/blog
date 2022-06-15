@@ -14,8 +14,7 @@ book/isbn: '0446603775'
 book/isbn13: '9780446603775'
 rating: 5
 book/pages: 248
-series_index:
-- 1
+series_index: [1]
 ---
 Octavia Butler's Xenogenesis / {{< goodreads book="Lilith's Brood" >}} ({{< goodreads book="Dawn" >}}, {{< goodreads book="Adulthood Rites" >}}, and {{< goodreads book="Imago" >}}) have been on my 'to read' list for rather a long while, highly recommended by any number of people. I see why now.  
 

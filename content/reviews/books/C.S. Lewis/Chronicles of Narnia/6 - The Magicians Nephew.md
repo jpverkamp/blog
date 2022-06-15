@@ -14,8 +14,7 @@ book/isbn: 0060764902
 book/isbn13: '9780060764906'
 rating: 5
 book/pages: 221
-series_index:
-- 6
+series_index: [6]
 ---
 After {{< goodreads book="The Lion, the Witch, and the Wardrobe" text="The Lion, the Witch and the Wardrobe" >}}, {{< goodreads book="The Magician's Nephew" >}} is probably the best of the Chronicles of Narina. Perhaps even *the* best.  
 

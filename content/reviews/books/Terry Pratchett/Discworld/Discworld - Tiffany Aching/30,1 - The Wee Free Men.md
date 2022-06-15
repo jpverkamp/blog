@@ -15,9 +15,7 @@ book/isbn: 0060012382
 book/isbn13: '9780060012380'
 rating: 5
 book/pages: 375
-series_index:
-- 30
-- 1
+series_index: [30, 1]
 ---
 > Open your eyes and then open your eyes again.
 

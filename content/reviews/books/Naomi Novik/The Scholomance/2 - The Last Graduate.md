@@ -13,8 +13,7 @@ book/isbn: 0593128869
 book/isbn13: '9780593128862'
 rating: 5
 book/pages: 388
-series_index:
-- 2
+series_index: [2]
 ---
 > Mum spent a lot of time in my formative years gently reminding me that people don’t think about us nearly as much as we think they do, because they’re all busy worrying what people are thinking about them.
 

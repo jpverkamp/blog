@@ -14,8 +14,7 @@ book/isbn: '1857232097'
 book/isbn13: '9781857232097'
 rating: 5
 book/pages: 912
-series_index:
-- 5
+series_index: [5]
 ---
 The Fires of Heaven is mostly a book to extend what we've seen before.  
 

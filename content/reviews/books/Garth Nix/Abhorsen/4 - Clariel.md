@@ -14,8 +14,7 @@ book/isbn: 006156155X
 book/isbn13: '9780061561559'
 rating: 4
 book/pages: 382
-series_index:
-- 4
+series_index: [4]
 ---
 Compared to the original trilogy, both Clariel the book and Cariel the character have a rather different feel.  
 

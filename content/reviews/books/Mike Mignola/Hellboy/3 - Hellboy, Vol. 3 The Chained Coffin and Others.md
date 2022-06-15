@@ -14,8 +14,7 @@ book/isbn: '1593070918'
 book/isbn13: '9781593070915'
 rating: 4
 book/pages: 176
-series_index:
-- 3
+series_index: [3]
 ---
 ![Hellboy-3-Weird-fruit](/embeds/books/attachments/hellboy-3-weird-fruit.png)  
 

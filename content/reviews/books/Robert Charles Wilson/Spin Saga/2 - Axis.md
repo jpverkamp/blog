@@ -14,8 +14,7 @@ book/isbn: 0765309394
 book/isbn13: '9780765309396'
 rating: 3
 book/pages: 303
-series_index:
-- 2
+series_index: [2]
 ---
 Unfortunately, many of the other reviewers here are on point. In Spin, we followed the lives of a small groups of characters while _big ideas_ happened around them, spanning either decades or billions of years, depending on your perspective. In Axis, the ideas are not nearly as big, the timespan isn't quite so vast, and the cast of characters has changed to ones I don't find myself caring about as much.  
 

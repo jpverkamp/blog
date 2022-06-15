@@ -13,8 +13,7 @@ book/isbn: '1401292127'
 book/isbn13: '9781401292126'
 rating: 4
 book/pages: 376
-series_index:
-- 21
+series_index: [21]
 ---
 More lore around the Constantine line, hints of destiny thwarted before birth, a magic stick, and a mage hunting shark man. 
 

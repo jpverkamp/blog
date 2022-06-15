@@ -11,8 +11,7 @@ book/goodreads_id: 19307
 cover: /embeds/books/pippi-in-the-south-seas.jpg
 rating: 4
 book/pages: 140
-series_index:
-- 3
+series_index: [3]
 ---
 Cute enough. For the most part, it's more Pippi stories, but they do finally get out of the town and go with Pippi and her father to the South Seas island where her father is king. Which... is both the best and worst part of the book. It's zany and fun in true Pippi fashion, but it's also *horribly* imperialistic/racist. It's still a fun book, but definitely a product of the times. 
 

@@ -15,9 +15,7 @@ book/isbn: '1401227120'
 book/isbn13: '9781401227128'
 rating: 4
 book/pages: 128
-series_index:
-- 7
-- 23
+series_index: [7, 23]
 ---
 And now we return you to our regularly scheduled Jack of the Fables, where things are getting increasinly weirdly meta.  
 

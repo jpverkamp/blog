@@ -14,8 +14,7 @@ book/isbn: 0345539826
 book/isbn13: '9780345539823'
 rating: 4
 book/pages: 430
-series_index:
-- 0
+series_index: [0]
 ---
 Golden Son takes up where Red Rising left off, following the continuing adventures of Darrow, the Red turned Gold as he tries to tear apart society... and hopefully rebuild it for the better?  
 

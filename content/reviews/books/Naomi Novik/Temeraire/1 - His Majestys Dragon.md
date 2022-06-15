@@ -14,8 +14,7 @@ book/isbn: 0345481283
 book/isbn13: '9780345481283'
 rating: 3
 book/pages: 374
-series_index:
-- 1
+series_index: [1]
 ---
 This one is a little different, since although there eight novels currently out in the Temeraire series (with another due this year), I don't plan on finishing the series at the moment.  
 

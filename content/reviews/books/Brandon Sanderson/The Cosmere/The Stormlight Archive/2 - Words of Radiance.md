@@ -15,9 +15,7 @@ book/isbn: '0765326361'
 book/isbn13: '9780765326362'
 rating: 5
 book/pages: 1087
-series_index:
-- 0
-- 2
+series_index: [0, 2]
 ---
 > “I am offend!” Shallan yelled. “You have offended Her Highness again!”  
 >

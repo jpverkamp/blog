@@ -12,8 +12,7 @@ book/goodreads_id: 20886354
 cover: /embeds/books/skin-deep.jpg
 rating: 4
 book/pages: 208
-series_index:
-- 2
+series_index: [2]
 ---
 Stephen Leeds returns!  
 

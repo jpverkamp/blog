@@ -14,8 +14,7 @@ book/isbn: 015204731X
 book/isbn13: '9780152047313'
 rating: 4
 book/pages: 298
-series_index:
-- 5
+series_index: [5]
 ---
 That's a bit of an odd ending.  
 

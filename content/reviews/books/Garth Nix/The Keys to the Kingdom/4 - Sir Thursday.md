@@ -14,8 +14,7 @@ book/isbn: 0439436575
 book/isbn13: '9780439436571'
 rating: 4
 book/pages: 344
-series_index:
-- 4
+series_index: [4]
 ---
 Not much to say. Onwards and upwards for Arthur, taking on another of the Trustees and gaining another of the Keys.  
 

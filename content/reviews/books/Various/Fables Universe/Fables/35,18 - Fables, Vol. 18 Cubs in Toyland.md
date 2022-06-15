@@ -15,9 +15,7 @@ book/isbn: 140123769X
 book/isbn13: '9781401237691'
 rating: 4
 book/pages: 192
-series_index:
-- 18
-- 35
+series_index: [18, 35]
 ---
 Well this was a bizarre little story.  
 

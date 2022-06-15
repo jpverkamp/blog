@@ -14,8 +14,7 @@ book/isbn: '1421504618'
 book/isbn13: '9781421504612'
 rating: 5
 book/pages: 184
-series_index:
-- 10
+series_index: [10]
 ---
 The worldbuilding continues to expand. We're getting some really interesting thoughts on what exactly the difference is between bodies and souls... and what it means to separate them. Also more on how homunculi work and how to finally kill them.  
 

@@ -14,8 +14,7 @@ book/isbn: '1606905740'
 book/isbn13: '9781606905746'
 rating: 5
 book/pages: 143
-series_index:
-- 4
+series_index: [4]
 ---
 {{< goodreads book="Jim Butcher's The Dresden Files: War Cry" text=" Jim Butcher's The Dresden Files: War Cry " >}} The second new Dresden comic!  
 

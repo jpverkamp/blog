@@ -14,8 +14,7 @@ book/isbn: '1612625479'
 book/isbn13: '9781612625478'
 rating: 5
 book/pages: 192
-series_index:
-- 8
+series_index: [8]
 ---
 Holy crap things just keep happening!  
 

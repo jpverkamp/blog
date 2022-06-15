@@ -13,8 +13,7 @@ book/isbn: '1401285694'
 book/isbn13: '9781401285692'
 rating: 5
 book/pages: 328
-series_index:
-- 20
+series_index: [20]
 ---
 Constantine gets his Mojo back. 
 

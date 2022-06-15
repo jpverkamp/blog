@@ -15,9 +15,7 @@ book/isbn: '1401242480'
 book/isbn13: '9781401242480'
 rating: 3
 book/pages: 168
-series_index:
-- 19
-- 36
+series_index: [19, 36]
 ---
 And thus, 19 stories in we have the 'story of Snow White'. Which details a first husband we've never heard of who's a comically bad guy and wants to ruins everyone's day... and actually does manager to  {{< spoiler >}}kill Bigby...{{< /spoiler >}}  . Really?  
 

@@ -16,10 +16,7 @@ book/isbn: 0765316897
 book/isbn13: '9780765316899'
 rating: 5
 book/pages: 572
-series_index:
-- 3
-- 3
-- 0
+series_index: [3, 3, 0]
 ---
 Ever since the Lord Ruler was killed in the first Mistborn book, things have been getting worse. It all comes to a head in The Hero of Ages. The world is quite literally ending.  
 

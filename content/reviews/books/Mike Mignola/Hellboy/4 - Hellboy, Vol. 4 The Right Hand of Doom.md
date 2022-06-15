@@ -14,8 +14,7 @@ book/isbn: '1593070934'
 book/isbn13: '9781593070939'
 rating: 5
 book/pages: 144
-series_index:
-- 4
+series_index: [4]
 ---
 > One day someone at Dark Horse asked if I was interested in doing a story about young Hellboy. I wasn't, but instead of saying no I said, "What about two pages of Hellboy eating pcancakes?" I thought it was a riot. I didn't expect anyone else to like it, but it turned out to be a big hit with a lot of readers. It's nice when that happens.
 

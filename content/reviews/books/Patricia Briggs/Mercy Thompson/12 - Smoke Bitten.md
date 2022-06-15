@@ -14,8 +14,7 @@ book/isbn: '0440001552'
 book/isbn13: '9780440001553'
 rating: 5
 book/pages: 352
-series_index:
-- 12
+series_index: [12]
 ---
 Two in a row! It's like Christmas! If Christmas was chuck full of creepy uberpowerful fae...  
 

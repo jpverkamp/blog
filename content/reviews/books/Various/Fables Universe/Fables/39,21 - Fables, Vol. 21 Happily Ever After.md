@@ -15,9 +15,7 @@ book/isbn: '1401251323'
 book/isbn13: '9781401251321'
 rating: 4
 book/pages: 200
-series_index:
-- 21
-- 39
+series_index: [21, 39]
 ---
 Fables feels like it's been running for perhaps a bit too long. And things are certainly not Happily Ever After...  
 

@@ -14,8 +14,7 @@ book/isbn: 0756404738
 book/isbn13: '9780756404734'
 rating: 4
 book/pages: 994
-series_index:
-- 2
+series_index: [2]
 ---
 And here I thought The Name of the Wind was a long book.  
 

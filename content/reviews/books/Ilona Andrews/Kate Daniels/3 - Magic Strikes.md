@@ -14,8 +14,7 @@ book/isbn: 0441017029
 book/isbn13: '9780441017027'
 rating: 5
 book/pages: 310
-series_index:
-- 3
+series_index: [3]
 ---
 Norse and Hindu mythology (on top of what all we've had before)! Magical gladiator fights TO THE DEATH! Giant fight scenes! ACTUALLY LEARNING WHAT'S UP WITH KATE'S BACKSTORY!  
 

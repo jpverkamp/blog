@@ -14,8 +14,7 @@ book/isbn: 075640407X
 book/isbn13: '9780756404079'
 rating: 4
 book/pages: 662
-series_index:
-- 1
+series_index: [1]
 ---
 I've heard rather good things about this book, so figured I had to read it.  
 

@@ -15,9 +15,7 @@ book/isbn: '1401229824'
 book/isbn13: '9781401229825'
 rating: 5
 book/pages: 128
-series_index:
-- 8
-- 24
+series_index: [8, 24]
 ---
 Sooo... meet the new Jack, better* than the old Jack?  
 

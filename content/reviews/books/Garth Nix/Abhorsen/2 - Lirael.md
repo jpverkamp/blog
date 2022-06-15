@@ -14,8 +14,7 @@ book/isbn: 0060590165
 book/isbn13: '9780060590161'
 rating: 5
 book/pages: 464
-series_index:
-- 2
+series_index: [2]
 ---
 Lirael is a bit odd when it comes to a sequel. While it's set in the same world as Sabriel (and Sabriel even has a part to play), Lirael takes place a fair few years later, following two new characters: Lirael--daughter of the glacier bound seers only mentioned in Sabriel--and Prince Sameth--Sabriel and Touchstone's son and Abhorsen in Waiting.  
 

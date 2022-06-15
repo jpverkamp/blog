@@ -14,8 +14,7 @@ book/isbn: 031620126X
 book/isbn13: '9780316201261'
 rating: 2
 book/pages: 323
-series_index:
-- 1
+series_index: [1]
 ---
 Disclaimer: I didn't actually finish the story. I stopped at about 80%, although I was skimming before then. The cover looks good and the summary is intriguing, but the book itself I didn't particularly care for.  
 

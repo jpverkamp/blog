@@ -15,9 +15,7 @@ book/isbn: 140121455X
 book/isbn13: '9781401214555'
 rating: 4
 book/pages: 144
-series_index:
-- 2
-- 8
+series_index: [2, 8]
 ---
 And now, a quick jaunt to {{< goodreads book="Jack of Fables, Vol. 2: Jack of Hearts" >}}. More or less in publishing order, but not directly related. Mostly it's a way to get another few on the world.  
 

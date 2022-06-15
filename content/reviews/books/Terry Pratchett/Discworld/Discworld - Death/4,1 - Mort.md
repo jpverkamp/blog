@@ -15,9 +15,7 @@ book/isbn: 0061020680
 book/isbn13: '9780061020681'
 rating: 5
 book/pages: 243
-series_index:
-- 4
-- 1
+series_index: [4, 1]
 ---
 > Tʜᴇʀᴇ's ɴᴏ ᴊᴜsᴛɪᴄᴇ, ᴛʜᴇʀᴇ's ᴊᴜsᴛ ᴍᴇ. —Death
 

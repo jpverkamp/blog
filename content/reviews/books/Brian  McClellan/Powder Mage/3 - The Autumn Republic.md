@@ -14,8 +14,7 @@ book/isbn: 0316219126
 book/isbn13: '9780316219129'
 rating: 4
 book/pages: 580
-series_index:
-- 3
+series_index: [3]
 ---
 A solid conclusion. Basically, The Autumn Republic builds on the world of the first two books, without really needing to introduce much in the way of new characters (with a few relatively minor exceptions) or new world building, instead taking everything to a final conclusion.  
 

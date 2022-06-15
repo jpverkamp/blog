@@ -13,8 +13,7 @@ book/isbn: '1473647606'
 book/isbn13: '9781473647602'
 rating: 5
 book/pages: 359
-series_index:
-- 3
+series_index: [3]
 ---
 > “Amias Mitchell,’ Kip said. ‘Born aboard the Asteria. Forty Solar days of age as of GC standard day 211/310. He is now, and always, a member of our Fleet. By our laws, he is assured shelter and passage here. If we have food, he will eat. If we have air, he will breathe. If we have fuel, he will fly. He is son to all grown, brother to all still growing. We will care for him, protect him, guide him. We welcome you, Amias, to the decks of the Asteria, and to the journey we take together.’ He spoke the final words now, and the room joined him. ‘From the ground, we stand. From our ships, we live. By the stars, we hope.” 
 

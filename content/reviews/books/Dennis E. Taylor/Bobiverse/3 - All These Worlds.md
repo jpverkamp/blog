@@ -12,8 +12,7 @@ book/goodreads_id: 35506021
 cover: /embeds/books/all-these-worlds.jpg
 rating: 5
 book/pages: 260
-series_index:
-- 3
+series_index: [3]
 ---
 And so it ends.  
 

@@ -14,8 +14,7 @@ book/isbn: '0441020011'
 book/isbn13: '9780441020010'
 rating: 5
 book/pages: 342
-series_index:
-- 7
+series_index: [7]
 ---
 Frost Burned feels almost like two novels sort of smooshed together. In starts out with something of a bang with the entire pack getting kidnapped by people apparently mad enough to take on an entire pack of werewolves at once. By the second half though, that's shifted into a little bit of Fae and a lotta bit of vampire trouble which--don't get me wrong--is related, but feels like a different sort of book.  
 

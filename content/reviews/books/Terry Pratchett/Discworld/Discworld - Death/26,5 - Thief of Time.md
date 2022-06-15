@@ -15,9 +15,7 @@ book/isbn: '0061031321'
 book/isbn13: '9780061031328'
 rating: 3
 book/pages: 378
-series_index:
-- 26
-- 5
+series_index: [26, 5]
 ---
 A slightly shorter entry into the Discworld universe and the last of the Death subseries, I just couldn't get into Thief of Time.  
 

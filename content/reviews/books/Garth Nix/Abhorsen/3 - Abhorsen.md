@@ -14,8 +14,7 @@ book/isbn: 0060278250
 book/isbn13: '9780060278250'
 rating: 5
 book/pages: 358
-series_index:
-- 3
+series_index: [3]
 ---
 As I mentioned in , Abhorsen is really the second half of a book. It doesn't stand alone, but it doesn't need to. We continue where we left off in Lirael and things keep escalating.  
 

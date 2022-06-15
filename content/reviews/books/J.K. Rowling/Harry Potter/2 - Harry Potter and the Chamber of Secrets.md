@@ -12,8 +12,7 @@ book/goodreads_id: 15881
 cover: /embeds/books/harry-potter-and-the-chamber-of-secrets.jpg
 rating: 5
 book/pages: 341
-series_index:
-- 2
+series_index: [2]
 ---
 And so my re-listen continues. Much as the first book, Harry Potter and the Chamber of Secrets feels like it's primarily aimed as a children's book, but most definiately enjoyable for adults as well.  
 

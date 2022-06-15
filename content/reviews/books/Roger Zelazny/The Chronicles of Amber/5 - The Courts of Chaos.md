@@ -14,8 +14,7 @@ book/isbn: '9993911550'
 book/isbn13: '9789993911555'
 rating: 4
 book/pages: 189
-series_index:
-- 5
+series_index: [5]
 ---
 > Good-bye and hello, as always.
 

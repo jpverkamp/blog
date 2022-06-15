@@ -13,8 +13,7 @@ cover: /embeds/books/the-opal-deception.jpg
 book/isbn13: '9781423103998'
 rating: 5
 book/pages: 416
-series_index:
-- 4
+series_index: [4]
 ---
 Opal Koboi is out of her coma and back for revenge--and no one even realizes it yet. She manages to frame Holly for murder, sending her to the only person left she knows she can trust: Artemis Fowl.  
 

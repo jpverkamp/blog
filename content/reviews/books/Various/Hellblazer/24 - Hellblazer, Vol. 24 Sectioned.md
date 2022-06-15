@@ -13,8 +13,7 @@ book/isbn: '1779509529'
 book/isbn13: '9781779509529'
 rating: 4
 book/pages: 352
-series_index:
-- 24
+series_index: [24]
 ---
 Well that’s unexpected. Epiphany is pretty cool… but she’s way too young for him. Still, demons, time travel, a succubus, demon blood transfusion slaves, a wedding or two? A good volume. 
 

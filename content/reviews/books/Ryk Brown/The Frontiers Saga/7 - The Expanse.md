@@ -12,8 +12,7 @@ book/goodreads_id: 18085924
 cover: /embeds/books/the-expanse.jpg
 rating: 4
 book/pages: 246
-series_index:
-- 7
+series_index: [7]
 ---
 After half a dozen books, the Aurora is finally back at full strength and on the way home. Their adventures in the Pentaurus Cluster were pretty cool, but it's about time to move on. All things considered, it was a crazy journey, with a black hole and a centuries old lost colony ship. A thousand light years in a book.  
 

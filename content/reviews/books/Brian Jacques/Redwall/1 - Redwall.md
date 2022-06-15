@@ -14,8 +14,7 @@ book/isbn: '1862301387'
 book/isbn13: '9781862301382'
 rating: 5
 book/pages: 352
-series_index:
-- 1
+series_index: [1]
 ---
 Redwall is a wonderful little tale.  
 

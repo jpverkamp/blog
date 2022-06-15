@@ -12,8 +12,7 @@ book/goodreads_id: 34892210
 cover: /embeds/books/attack-on-titan-vol-21.jpg
 rating: 5
 book/pages: 190
-series_index:
-- 21
+series_index: [21]
 ---
 So close and yet so far. So many are dead, trying to (did they succeed after all) to take down the Beast Titan. And now they have a choice. Theoretically, they can steal one of the Titan's abilities and save one of their own...  
 

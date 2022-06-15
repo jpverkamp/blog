@@ -14,8 +14,7 @@ book/isbn: 0812579402
 book/isbn13: '9780812579406'
 rating: 4
 book/pages: 405
-series_index:
-- 18
+series_index: [18]
 ---
 18 books in and {{< goodreads book="Venus" text=" Venus " >}} is the only body this side of {{< goodreads book="Saturn" text=" Saturn " >}} that the Grand Tour hasn't explored, so it seems a perfectly fitting place to end (I'll get back to that). There's something of a continuation of the The Asteroid Wars, with Martin Humphries and his sons as the focus of the books. One (Alex,  {{< spoiler >}}his clone{{< /spoiler >}}  ) attempted to be the first to reach the surface of Venus and died in the attempt. The other (Van,  {{< spoiler >}}actually not his biological son at all, but rather the son of his longtime enemy from the Asteroid Wars: Lars Fuchs (I know, right?){{< /spoiler >}} ) decides to take on the task of recovering his remains--a pot sweetened by ten billion dollars of his father's money.  
 

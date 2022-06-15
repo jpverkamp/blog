@@ -15,9 +15,7 @@ book/isbn: '1401225004'
 book/isbn13: '9781401225001'
 rating: 5
 book/pages: 128
-series_index:
-- 6
-- 17
+series_index: [6, 17]
 ---
 More Jack! And this it's the big battle schene in this universe, much like in {{< goodreads book="Fables, Vol. 11: War and Pieces" text=" Fables, Vol. 11: War and Pieces " >}} . Gary (the Pathetic Fallacy) really shines here:  
 

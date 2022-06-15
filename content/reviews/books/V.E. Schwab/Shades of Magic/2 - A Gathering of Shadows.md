@@ -14,8 +14,7 @@ book/isbn: '0765376474'
 book/isbn13: '9780765376473'
 rating: 5
 book/pages: 512
-series_index:
-- 2
+series_index: [2]
 ---
 >  “Oh yes, your relationship with Miss Bard is positively ordinary."  
 >

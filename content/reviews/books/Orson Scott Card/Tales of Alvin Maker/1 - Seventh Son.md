@@ -14,8 +14,7 @@ book/isbn: 076534775X
 book/isbn13: '9780765347756'
 rating: 3
 book/pages: 241
-series_index:
-- 1
+series_index: [1]
 ---
 The world if Seventh Son is fairly fascinating. It's set in early 1800s somewhere around what would have been Indiana or Ohio in our world, except in this world magic is real. It seems to be based on any number of folk magics turned real and powerful--but apparently only in the New World. Possibly because of that, American history hasn't gone quite as we remember it. The Iroquois nation became a state. Washing was executed as a traitor. Things aren't named quite as we know them, which at times gets annoying.  
 

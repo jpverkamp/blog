@@ -14,8 +14,7 @@ book/isbn: 0552152978
 book/isbn13: '9780552152976'
 rating: 4
 book/pages: 400
-series_index:
-- 13
+series_index: [13]
 ---
 > The turtle moves.
 

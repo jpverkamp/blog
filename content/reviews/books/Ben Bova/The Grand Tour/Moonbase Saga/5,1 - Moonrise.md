@@ -15,9 +15,7 @@ book/isbn: 0380786974
 book/isbn13: '9780380786978'
 rating: 3
 book/pages: 576
-series_index:
-- 1
-- 5
+series_index: [1, 5]
 ---
 A bit of a jump in focus and topic from {{< goodreads book="Mars" text=" Mars " >}} , {{< goodreads book="Moonrise" text=" Moonrise " >}} is more similar to {{< goodreads book="Privateers" text=" Privateers " >}} et al (the Dan Randolph books), with more of a focus on corporate structure over science.
 

@@ -15,9 +15,7 @@ book/isbn: '1401218547'
 book/isbn13: '9781401218546'
 rating: 5
 book/pages: 126
-series_index:
-- 3
-- 13
+series_index: [3, 13]
 ---
 Jack is still on the run! With Gary. And one of the Page sisters? And himself/ {{< spoiler >}}John{{< /spoiler >}}  ]> of Fables?  
 

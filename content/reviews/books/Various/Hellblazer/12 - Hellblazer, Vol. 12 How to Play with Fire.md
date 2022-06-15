@@ -13,8 +13,7 @@ book/isbn: '1401258107'
 book/isbn13: '9781401258108'
 rating: 4
 book/pages: 304
-series_index:
-- 12
+series_index: [12]
 ---
 Three multiple parters? No single issues? Sweet. Up the Down Staircase want my favorite, but both How to Play with Fire and Son of Man were excellent. 
 

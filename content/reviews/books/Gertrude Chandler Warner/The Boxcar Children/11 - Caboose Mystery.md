@@ -14,8 +14,7 @@ book/isbn: 0807510092
 book/isbn13: '9780807510094'
 rating: 5
 book/pages: 128
-series_index:
-- 11
+series_index: [11]
 ---
 That was cute.  
 

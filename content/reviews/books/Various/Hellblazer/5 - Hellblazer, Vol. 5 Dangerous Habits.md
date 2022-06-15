@@ -13,8 +13,7 @@ book/isbn: '1401238025'
 book/isbn13: '9781401238025'
 rating: 5
 book/pages: 352
-series_index:
-- 5
+series_index: [5]
 ---
 Weird, slow, and dark at first but then we get the Deadly Habits storyline. That’s one of the core Constantine storylines so far as I know and for good reason. 
 

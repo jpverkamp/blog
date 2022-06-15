@@ -14,8 +14,7 @@ book/isbn: 0812550285
 book/isbn13: '9780812550283'
 rating: 4
 book/pages: 880
-series_index:
-- 7
+series_index: [7]
 ---
 And so begins the slog.  
 

@@ -14,8 +14,7 @@ book/isbn: 0399172920
 book/isbn13: '9780399172922'
 rating: 4
 book/pages: 452
-series_index:
-- 23
+series_index: [23]
 ---
 > “When power is up for grabs,” Pitt said, “the first casualty is often liberty.”  
 

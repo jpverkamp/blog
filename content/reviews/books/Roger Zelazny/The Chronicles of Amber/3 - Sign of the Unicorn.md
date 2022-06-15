@@ -14,8 +14,7 @@ book/isbn: 0380008319
 book/isbn13: '9780380008315'
 rating: 4
 book/pages: 192
-series_index:
-- 3
+series_index: [3]
 ---
 In {{< goodreads book="Nine Princes in Amber" >}}, Corwin went from having no memories to learning he was a Prince of Amber, to trying to wrest the throne from his brother Eric--only to be blinded and thrown into prison.  
 

@@ -14,8 +14,7 @@ book/isbn: 030720961X
 book/isbn13: '9780307209610'
 rating: 5
 book/pages: 400
-series_index:
-- 11
+series_index: [11]
 ---
 "Prologue 1."   Oh my.  
 

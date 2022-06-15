@@ -19,8 +19,7 @@ book/isbn: '1250313198'
 book/isbn13: '9781250313195'
 rating: 5
 book/pages: 448
-series_index:
-- 1
+series_index: [1]
 ---
 > One day eighteen years ago, Gideon's mother had tumbled down the middle of
 > the shaft in a dragchute and a battered hazard suite, like some moth

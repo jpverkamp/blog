@@ -14,8 +14,7 @@ book/isbn: '1930846452'
 book/isbn13: '9781930846456'
 rating: 5
 book/pages: 292
-series_index:
-- 2
+series_index: [2]
 ---
 This is an excellent follow up to The Atrocity Archives.  
 

@@ -14,8 +14,7 @@ book/isbn: 0765348276
 book/isbn13: '9780765348272'
 rating: 5
 book/pages: 355
-series_index:
-- 1
+series_index: [1]
 ---
 > I did two things on my seventy-fifth birthday. I visited my wife’s grave. Then I joined the army.
 

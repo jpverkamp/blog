@@ -14,8 +14,7 @@ book/isbn: 0765316986
 book/isbn13: '9780765316981'
 rating: 4
 book/pages: 335
-series_index:
-- 4
+series_index: [4]
 ---
 In a nutshell, Zoe's Tale is The Last Colony told from Zoe's point of view.  
 

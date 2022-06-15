@@ -14,8 +14,7 @@ book/isbn: 0755348826
 book/isbn13: '9780755348824'
 rating: 5
 book/pages: 288
-series_index:
-- 2
+series_index: [2]
 ---
 > “My favorite part of family togetherness is when we aspirate body cavities. What’s yours?”
 

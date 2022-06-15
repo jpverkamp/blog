@@ -14,8 +14,7 @@ book/isbn: 0785199772
 book/isbn13: '9780785199779'
 rating: 5
 book/pages: 128
-series_index:
-- 3
+series_index: [3]
 ---
 Okay, now this went a bit sideways. Forget the Emperor and politicking (more or less). Instead, get thrown into a rivalry on a mining planet that's obsessed with etiquette...  
 

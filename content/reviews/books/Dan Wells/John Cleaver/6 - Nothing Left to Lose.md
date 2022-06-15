@@ -12,8 +12,7 @@ book/goodreads_id: 23629844
 cover: /embeds/books/nothing-left-to-lose.jpg
 rating: 5
 book/pages: 320
-series_index:
-- 6
+series_index: [6]
 ---
 John is down to the last few Withered and he's got a lead. One thing leads to another and he ends up in another small midwestern town, working at a mortuary. Sound familiar? It's a nice blend of old and new and works well as a conclusion for the series.  
 

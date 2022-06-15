@@ -14,8 +14,7 @@ book/isbn: 078681859X
 book/isbn13: '9780786818594'
 rating: 5
 book/pages: 462
-series_index:
-- 0
+series_index: [0]
 ---
 > And then, as if written by the hand of a bad novelist, an incredible thing happened.
 

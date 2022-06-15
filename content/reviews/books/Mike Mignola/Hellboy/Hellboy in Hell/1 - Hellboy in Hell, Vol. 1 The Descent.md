@@ -15,9 +15,7 @@ book/isbn: '1616554444'
 book/isbn13: '9781616554446'
 rating: 5
 book/pages: 152
-series_index:
-- 0
-- 1
+series_index: [0, 1]
 ---
 If anyone could pull off continuing their story after dying and going to Hell... And not only that, but making for an even crazier story than when it was alive? It would be Hellboy.  
 

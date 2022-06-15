@@ -14,8 +14,7 @@ book/isbn: 0060586621
 book/isbn13: '9780060586621'
 rating: 5
 book/pages: 407
-series_index:
-- 32
+series_index: [32]
 ---
 > Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.
 

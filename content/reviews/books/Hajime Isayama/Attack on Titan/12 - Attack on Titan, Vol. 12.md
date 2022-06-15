@@ -12,8 +12,7 @@ book/goodreads_id: 21895563
 cover: /embeds/books/attack-on-titan-vol-12.jpg
 rating: 5
 book/pages: 192
-series_index:
-- 12
+series_index: [12]
 ---
 We keep learning more about the Titans and the humans that they come from. And the more we learn, the more questions I have. What makes their forms different? What about the lower level dumb Titans? Are those humans too? What about the ones in between? And who are all of the Titans on the side of?  
 

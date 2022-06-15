@@ -14,8 +14,7 @@ book/isbn: '1613778538'
 book/isbn13: '9781613778531'
 rating: 5
 book/pages: 192
-series_index:
-- 6
+series_index: [6]
 ---
 One more story.  
 

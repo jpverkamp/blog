@@ -13,8 +13,7 @@ book/isbn: '1401263739'
 book/isbn13: '9781401263737'
 rating: 4
 book/pages: 384
-series_index:
-- 14
+series_index: [14]
 ---
 That’s a few hard hitting stories. Hard Times is about Constantine in prison. Weird art style and hard to read. Good Intentions is the aftermath… people are terrible. Freezes Over it’s a pretty good locked room mystery with just the possibility of something more. 
 

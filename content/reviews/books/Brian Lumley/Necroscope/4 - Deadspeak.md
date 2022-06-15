@@ -14,8 +14,7 @@ book/isbn: 0812530322
 book/isbn13: '9780812530322'
 rating: 3
 book/pages: 487
-series_index:
-- 4
+series_index: [4]
 ---
 Oh hey, turns out there is another Ferenczy. Or rather, that's what a lot of this book felt like. Don't get me wrong, it's interesting to fill out a few more of the possibilities of what might happen if a vampire spawns a mostly human child who then desperately tries to learn to be a Vampire. But at the same time, it's starting to feel like the same story again, just with different players.  
 

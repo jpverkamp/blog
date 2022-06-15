@@ -14,8 +14,7 @@ book/isbn: '1595827390'
 book/isbn13: '9781595827395'
 rating: 5
 book/pages: 126
-series_index:
-- 2
+series_index: [2]
 ---
 Whoa. A heist goes right (for a while) and everyone gets to dream about what to do next.  
 

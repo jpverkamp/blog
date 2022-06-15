@@ -14,8 +14,7 @@ book/isbn: 0439700906
 book/isbn13: '9780439700900'
 rating: 4
 book/pages: 320
-series_index:
-- 7
+series_index: [7]
 ---
 Overall, everything I was hoping for in an ending to the series.  
 

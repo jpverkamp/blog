@@ -14,8 +14,7 @@ book/isbn: '1401224792'
 book/isbn13: '9781401224790'
 rating: 5
 book/pages: 147
-series_index:
-- 28
+series_index: [28]
 ---
 Another side story (there are only a few of these), digging a bit deeper into Bigby's past, specifically during World War II (which we'd already seen) and some of the unforseen fallout from that.  
 

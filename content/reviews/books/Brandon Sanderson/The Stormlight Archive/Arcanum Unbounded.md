@@ -14,8 +14,7 @@ book/isbn: 0765391163
 book/isbn13: '9780765391162'
 rating: 5
 book/pages: 672
-series_index:
-- 0
+series_index: [0]
 ---
 Arcanum Unbounded collects a small pile of short stories all set in Sanderson's shared universe (the Cosmere) and glues them together with some extra information about each world and about how the Cosmere itself works. While each of the stories is good by itself, they really shine collected together, where you get a sense of just how big and diverse this universe that Sanderson is building is.  
 

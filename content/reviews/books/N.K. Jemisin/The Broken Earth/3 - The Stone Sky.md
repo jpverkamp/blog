@@ -12,8 +12,7 @@ book/goodreads_id: 31817749
 cover: /embeds/books/the-stone-sky.jpg
 rating: 5
 book/pages: 416
-series_index:
-- 3
+series_index: [3]
 ---
 Wow.  
 

@@ -14,8 +14,7 @@ book/isbn: '1606901257'
 book/isbn13: '9781606901250'
 rating: 5
 book/pages: 200
-series_index:
-- 6
+series_index: [6]
 ---
 *Warning: NSFW*  
 

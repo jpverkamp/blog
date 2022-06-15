@@ -14,8 +14,7 @@ book/isbn: 0060082097
 book/isbn13: '9780060082093'
 rating: 4
 book/pages: 326
-series_index:
-- 1
+series_index: [1]
 ---
 >  It was a dark, blustery afternoon in spring, and the city of London was chasing a small mining town across the dried-out bed of the old North Sea.  
 >

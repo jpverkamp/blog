@@ -14,8 +14,7 @@ book/isbn: '0756407117'
 book/isbn13: '9780756407117'
 rating: 5
 book/pages: 274
-series_index:
-- 1
+series_index: [1]
 ---
 I really liked this book.  
 

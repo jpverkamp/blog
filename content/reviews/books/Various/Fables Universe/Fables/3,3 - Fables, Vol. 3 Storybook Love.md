@@ -15,9 +15,7 @@ book/isbn: 140120256X
 book/isbn13: '9781401202569'
 rating: 5
 book/pages: 192
-series_index:
-- 3
-- 3
+series_index: [3, 3]
 ---
 {{< goodreads book="Fables, Vol. 3: Storybook Love" >}}. I never would have expected extortion and a heist story!  
 

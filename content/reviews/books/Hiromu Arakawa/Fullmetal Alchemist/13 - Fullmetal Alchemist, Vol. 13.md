@@ -14,8 +14,7 @@ book/isbn: '1421511584'
 book/isbn13: '9781421511580'
 rating: 5
 book/pages: 192
-series_index:
-- 13
+series_index: [13]
 ---
 Portals! Father! What is even going ON?!  
 

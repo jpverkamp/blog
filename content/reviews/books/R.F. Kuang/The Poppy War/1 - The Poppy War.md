@@ -18,8 +18,7 @@ book/isbn: 0062662597
 book/isbn13: '9780062662590'
 rating: 5
 book/pages: 531
-series_index:
-- 1
+series_index: [1]
 ---
 > War doesn't determine who's right. War determines who remains.
 

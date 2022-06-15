@@ -12,8 +12,7 @@ book/goodreads_id: 17336361
 cover: /embeds/books/head-of-the-dragon.jpg
 rating: 4
 book/pages: 378
-series_index:
-- 6
+series_index: [6]
 ---
 The first large section of {{< goodreads book="Head of the Dragon" >}} follows the Aurora and her crew as they plan just what they have to do to maintain what little surprise Einstein has allowed them before the Ta’Akar learn who, what, and where they are. It's somewhat plodding and slower than a lot of the previous books, but still relatively interesting.  
 

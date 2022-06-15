@@ -14,8 +14,7 @@ book/isbn: 0451458443
 book/isbn13: '9780451458445'
 rating: 5
 book/pages: 378
-series_index:
-- 3
+series_index: [3]
 ---
 First there was a sorcerer. Then werewolves. Next up, ghosts and vampires. The Dresden Files certainly get around.  
 

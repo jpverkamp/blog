@@ -16,10 +16,7 @@ book/isbn: 0765378558
 book/isbn13: '9780765378552'
 rating: 5
 book/pages: 383
-series_index:
-- 5
-- 2
-- 0
+series_index: [5, 2, 0]
 ---
 Shadows of Self takes place in the same timeline and with mostly the same characters as Alloy of Law. From what I've heard, this is supposed to be the actual first book of the second trilogy, with Alloy of Law being essentially a happy accident.  
 

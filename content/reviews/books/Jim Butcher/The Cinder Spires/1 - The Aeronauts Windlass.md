@@ -14,8 +14,7 @@ book/isbn: 0451466802
 book/isbn13: '9780451466808'
 rating: 5
 book/pages: 630
-series_index:
-- 1
+series_index: [1]
 ---
 Well. He did it again.  
 

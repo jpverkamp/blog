@@ -14,8 +14,7 @@ book/isbn: '0451461037'
 book/isbn13: '9780451461032'
 rating: 5
 book/pages: 547
-series_index:
-- 8
+series_index: [8]
 ---
 Another very solid entry.  
 

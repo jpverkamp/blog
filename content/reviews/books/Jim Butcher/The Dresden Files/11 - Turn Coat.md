@@ -14,8 +14,7 @@ book/isbn: '0451462564'
 book/isbn13: '9780451462565'
 rating: 5
 book/pages: 418
-series_index:
-- 11
+series_index: [11]
 ---
 Morgan shows up on Dresden's doorstep and asks for his help. Things degrade pretty much exactly as you might expect from there.  
 

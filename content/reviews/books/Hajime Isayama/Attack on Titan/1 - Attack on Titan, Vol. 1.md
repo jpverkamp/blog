@@ -19,8 +19,7 @@ book/isbn: '1612620248'
 book/isbn13: '9781612620244'
 rating: 5
 book/pages: 193
-series_index:
-- 1
+series_index: [1]
 ---
 Off we go! I've heard good things about Attack on Titan, but other than some pictures of gruesome looking skinless giants, I'm not really sure what I'm in for. It should be fun!  
 

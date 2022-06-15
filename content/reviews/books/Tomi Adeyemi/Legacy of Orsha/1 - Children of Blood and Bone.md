@@ -14,8 +14,7 @@ book/isbn: '1250170974'
 book/isbn13: '9781250170972'
 rating: 5
 book/pages: 544
-series_index:
-- 1
+series_index: [1]
 ---
 > You crushed us to build your monarchy on the backs of our blood and bone. Your mistake wasn't keeping us alive. it was thinking we'd never fight back.
 

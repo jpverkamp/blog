@@ -14,8 +14,7 @@ book/isbn: '1416975888'
 book/isbn13: '9781416975885'
 rating: 3
 book/pages: 498
-series_index:
-- 2
+series_index: [2]
 ---
 > We live and breathe words. .... It was books that made me feel that perhaps I was not completely alone. They could be honest with me, and I with them.
 

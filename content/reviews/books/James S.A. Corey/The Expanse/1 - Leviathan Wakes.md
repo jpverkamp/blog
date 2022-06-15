@@ -12,8 +12,7 @@ book/goodreads_id: 33391886
 cover: /embeds/books/leviathan-wakes.jpg
 rating: 5
 book/pages: 583
-series_index:
-- 1
+series_index: [1]
 ---
 Structurally, Leviathan Wakes is an interesting novel. It's science fiction / space opera but also has fairly strong threads of crime novel / horror / military scifi threading through it as well. It's an interesting mix and done well.  
 

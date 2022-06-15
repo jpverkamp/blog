@@ -14,8 +14,7 @@ book/isbn: 160690082X
 book/isbn13: '9781606900826'
 rating: 4
 book/pages: 144
-series_index:
-- 5
+series_index: [5]
 ---
 *Warning: NSFW*   
 

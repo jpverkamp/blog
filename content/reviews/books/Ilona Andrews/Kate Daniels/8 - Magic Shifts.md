@@ -14,8 +14,7 @@ book/isbn: 042527067X
 book/isbn13: '9780425270677'
 rating: 5
 book/pages: 342
-series_index:
-- 8
+series_index: [8]
 ---
 >  "Does everybody think I'm an asshole?" Curran asked.  
 >

@@ -15,9 +15,7 @@ book/isbn: '1506701132'
 book/isbn13: '9781506701134'
 rating: 5
 book/pages: 152
-series_index:
-- 0
-- 2
+series_index: [0, 2]
 ---
 Two in a day? Yes!  
 

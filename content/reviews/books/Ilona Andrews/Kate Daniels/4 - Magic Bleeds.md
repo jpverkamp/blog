@@ -14,8 +14,7 @@ book/isbn: 0441018521
 book/isbn13: '9780441018529'
 rating: 5
 book/pages: 349
-series_index:
-- 4
+series_index: [4]
 ---
 > I can't give you the white picket fence, and if I did, you'd set it on fire.
 

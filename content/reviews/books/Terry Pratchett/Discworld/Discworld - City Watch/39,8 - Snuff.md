@@ -15,9 +15,7 @@ book/isbn: 038561926X
 book/isbn13: '9780385619264'
 rating: 4
 book/pages: 378
-series_index:
-- 39
-- 8
+series_index: [39, 8]
 ---
 And so it ends.  
 

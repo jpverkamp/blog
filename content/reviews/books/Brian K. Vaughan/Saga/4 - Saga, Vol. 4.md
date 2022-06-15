@@ -14,8 +14,7 @@ book/isbn: '1632150778'
 book/isbn13: '9781632150776'
 rating: 5
 book/pages: 144
-series_index:
-- 4
+series_index: [4]
 ---
 First one not on comiXology unlimited. Worth it.  
 

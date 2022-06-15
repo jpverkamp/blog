@@ -14,8 +14,7 @@ book/isbn: '1595825614'
 book/isbn13: '9781595825612'
 rating: 5
 book/pages: 56
-series_index:
-- 3
+series_index: [3]
 ---
 Huh. So just last book, I was lamenting the lack of a backstory for Book, and here we are. It's a series of short stories, working backwards from his death (in Serenity). Finally, we get some answers.  
 

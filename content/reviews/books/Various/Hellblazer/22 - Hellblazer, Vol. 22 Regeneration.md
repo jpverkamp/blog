@@ -13,8 +13,7 @@ book/isbn: '1401295681'
 book/isbn13: '9781401295684'
 rating: 4
 book/pages: 260
-series_index:
-- 22
+series_index: [22]
 ---
 Some holiday cheer (nothing deep but they’re neat enough), a new girl gone very very wrong, and Chas getting to be the hero. A good volume. 
 

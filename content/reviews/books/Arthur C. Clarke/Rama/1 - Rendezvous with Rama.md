@@ -14,8 +14,7 @@ book/isbn: '1857231589'
 book/isbn13: '9781857231588'
 rating: 4
 book/pages: 243
-series_index:
-- 1
+series_index: [1]
 ---
 It's been a little while since I've read much science fiction, particularly any of the sort that Clarke is known for. Forget strong plot or characters and focus entirely around the big idea: In this case, the starship Rama is plenty large.  
 

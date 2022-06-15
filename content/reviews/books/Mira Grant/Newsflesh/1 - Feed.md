@@ -14,8 +14,7 @@ book/isbn: 0316081051
 book/isbn13: '9780316081054'
 rating: 4
 book/pages: 599
-series_index:
-- 1
+series_index: [1]
 ---
 Brains.  
 

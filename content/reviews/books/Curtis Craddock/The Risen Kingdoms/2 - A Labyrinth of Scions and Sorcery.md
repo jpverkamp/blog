@@ -11,8 +11,7 @@ book/goodreads_id: 39863266
 cover: /embeds/books/a-labyrinth-of-scions-and-sorcery.jpg
 rating: 5
 book/pages: 410
-series_index:
-- 2
+series_index: [2]
 ---
 {{< crosslink "An Alchemy of Masques and Mirrors" >}} was a delightful surprise of a book, with unique/excellent worldbuilding, fun characters, great wordsmithing, and a solid mystery of a plot. A Labyrinth of Scions and Sorcery has all three once again, although we mostly lose the mystery of the of first book and get a bunch of politics instead. Don't get me wrong, it's still great, it just took me a bit to get into the tonal shift. 
 

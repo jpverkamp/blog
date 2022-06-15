@@ -14,8 +14,7 @@ book/isbn: 0671704648
 book/isbn13: '9780671704643'
 rating: 4
 book/pages: 473
-series_index:
-- 8
+series_index: [8]
 ---
 Okay, Cussler really jumped the shark (over the moon?) in {{< goodreads book="Cyclops" text=" Cyclops " >}} . After the mind control plot of {{< goodreads book="Deep Six" text=" Deep Six " >}} , I figured things would stay a bit more grounded this time around.  
 

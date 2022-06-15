@@ -14,8 +14,7 @@ book/isbn: '1563895684'
 book/isbn13: '9781563895685'
 rating: 4
 book/pages: 144
-series_index:
-- 3
+series_index: [3]
 ---
 Spider Jerusalem is famous now! So much so that they're making (distubing because of course) TV programs about him!  
 

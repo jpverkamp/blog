@@ -12,8 +12,7 @@ book/goodreads_id: 12393566
 cover: /embeds/books/the-apocalypse-codex.jpg
 rating: 5
 book/pages: 336
-series_index:
-- 4
+series_index: [4]
 ---
 The first chunk of this book was a little bit weak, in particularly the introduction of the new character Ms. Hazard. She represents a different style to the magic in this universe, which is interesting, but she just seems too good at her job. In the same manner as Superman, the more powerful someone becomes, the harder it is to make them interesting.  
 

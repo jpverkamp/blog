@@ -13,8 +13,7 @@ cover: /embeds/books/the-three-body-problem.jpg
 book/isbn: '0765377063'
 book/isbn13: '9780765377067'
 book/pages: 399
-series_index:
-- 0
+series_index: [0]
 ---
 The Three-Body Problem is an interesting book. It was originally written in Chinese and won a whole pile of awards, earning lots of interesting ratings. That was enough to get me to put it on my list for this year.  
 

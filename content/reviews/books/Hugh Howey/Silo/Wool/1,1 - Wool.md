@@ -13,9 +13,7 @@ book/goodreads_id: 12287209
 cover: /embeds/books/wool.jpg
 rating: 4
 book/pages: 58
-series_index:
-- 1
-- 1
+series_index: [1, 1]
 ---
 The story of how Wool came to be is actually pretty interesting. Howey originally self-published the first story (only ~50 pages) through Amazon.com's Kindle Direct Publishing. Although he didn't originally expect it to do as well as it did, it just took off and over the next few years he wrote several increasingly longer (although still well within the novella range) sequels.  
 

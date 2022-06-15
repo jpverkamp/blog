@@ -14,8 +14,7 @@ book/isbn: '0451464400'
 book/isbn13: '9780451464408'
 rating: 5
 book/pages: 515
-series_index:
-- 14
+series_index: [14]
 ---
 Dresden is remarkably good at weaseling his way out of deals he should never have gotten himself into in the first place. This time around though? His number is up. He has to work for Mab.  
 

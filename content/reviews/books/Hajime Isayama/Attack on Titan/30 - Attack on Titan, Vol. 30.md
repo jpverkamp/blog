@@ -12,8 +12,7 @@ book/goodreads_id: 53180850
 cover: /embeds/books/attack-on-titan-vol-30.jpg
 rating: 5
 book/pages: 179
-series_index:
-- 30
+series_index: [30]
 ---
 Now we're really getting into the conflict between Eren and Zeke, what it means to bring the Founding Titan and royal blood together, and some absolutely crazy history lessons and scenes with spines--because for some reason Attack on Titan is obsessed with spines.  
 

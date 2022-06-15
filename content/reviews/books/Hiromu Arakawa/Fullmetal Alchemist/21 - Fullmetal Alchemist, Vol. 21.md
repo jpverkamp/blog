@@ -14,8 +14,7 @@ book/isbn: '1421532328'
 book/isbn13: '9781421532325'
 rating: 5
 book/pages: 192
-series_index:
-- 21
+series_index: [21]
 ---
 > I'm going first
 

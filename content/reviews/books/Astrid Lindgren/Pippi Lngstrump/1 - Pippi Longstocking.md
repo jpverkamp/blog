@@ -11,8 +11,7 @@ book/goodreads_id: 19302
 cover: /embeds/books/pippi-longstocking.jpg
 rating: 4
 book/pages: 160
-series_index:
-- 1
+series_index: [1]
 ---
 Pippi Longstocking's a bit of an odd character. On one hand, she's a fun loving young girl who happens to have super strength (for some reason). She's lived a pretty crazy life and has stories from all over the world along with a tendency to get herself into (and back out of) wacky adventures and always seems to have a lot of fun doing so. 
 

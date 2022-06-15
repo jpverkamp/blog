@@ -14,8 +14,7 @@ book/isbn: 0785199780
 book/isbn13: '9780785199786'
 rating: 5
 book/pages: 144
-series_index:
-- 4
+series_index: [4]
 ---
 Okay. We're heading towards the conclusion of this particular story arc. I really do like this length. 4 volumes has about as much oomph as a novel length story, albeit with a much higher concentration of pretty* pictures.  
 

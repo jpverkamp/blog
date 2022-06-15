@@ -14,8 +14,7 @@ book/isbn: '1606902202'
 book/isbn13: '9781606902202'
 rating: 4
 book/pages: 276
-series_index:
-- 9
+series_index: [9]
 ---
 If {{< goodreads book="The Boys, Volume 8: Highland Laddie" >}} was a filler, {{< goodreads book="The Boys, Volume 9: The Big Ride" >}} is a return to form.  
 

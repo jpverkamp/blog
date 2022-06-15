@@ -14,8 +14,7 @@ book/isbn: '1421508389'
 book/isbn13: '9781421508382'
 rating: 5
 book/pages: 182
-series_index:
-- 11
+series_index: [11]
 ---
 More worldbuilding! More Van Hohenheim! More angst!  
 

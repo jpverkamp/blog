@@ -14,8 +14,7 @@ book/isbn: 0812521277
 book/isbn13: '9780812521276'
 rating: 4
 book/pages: 505
-series_index:
-- 3
+series_index: [3]
 ---
 The Source follows a nuclear accident that manages to blow a hole in between our reality and the homeworld (more accurately home universe, since Harry cannot Moebius his way there) of the Vampires.  
 

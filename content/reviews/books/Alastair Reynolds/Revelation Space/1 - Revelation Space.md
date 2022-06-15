@@ -14,8 +14,7 @@ book/isbn: 0441009425
 book/isbn13: '9780441009428'
 rating: 4
 book/pages: 585
-series_index:
-- 1
+series_index: [1]
 ---
 Nice bit of science fiction to kick off the new year.  
 

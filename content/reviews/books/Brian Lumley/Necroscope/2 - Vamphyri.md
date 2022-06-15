@@ -12,8 +12,7 @@ book/goodreads_id: 60836
 cover: /embeds/books/vamphyri.jpg
 rating: 4
 book/pages: 470
-series_index:
-- 2
+series_index: [2]
 ---
 So that's how the series will continue.  
 

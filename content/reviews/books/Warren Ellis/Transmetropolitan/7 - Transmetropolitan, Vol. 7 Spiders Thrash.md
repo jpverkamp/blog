@@ -14,8 +14,7 @@ book/isbn: '1563898942'
 book/isbn13: '9781563898945'
 rating: 4
 book/pages: 144
-series_index:
-- 7
+series_index: [7]
 ---
 Spider has lost ... his column, his money, somewhere to live... but he's and his Filthy Assistants (the title kind of bugs me, but I suppose it fits) still have their lives...  
 

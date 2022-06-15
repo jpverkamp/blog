@@ -15,9 +15,7 @@ book/isbn: '0552154164'
 book/isbn13: '9780552154161'
 rating: 4
 book/pages: 461
-series_index:
-- 21
-- 4
+series_index: [21, 4]
 ---
 > Always be wary of any helpful item that weighs less than its operating manual.
 

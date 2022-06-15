@@ -14,8 +14,7 @@ book/isbn: 142151379X
 book/isbn13: '9781421513799'
 rating: 5
 book/pages: 192
-series_index:
-- 14
+series_index: [14]
 ---
 Hoo boy. That was yet another crazy volume. I seem to be saying that a lot, but man. Father. Answers. Questions. Alchemy on a whole 'nother scale. Gross and weird and crazy homunculi.  
 

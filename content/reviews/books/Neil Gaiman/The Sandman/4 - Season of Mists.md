@@ -14,8 +14,7 @@ book/isbn: '1563890356'
 book/isbn13: '9781563890352'
 rating: 5
 book/pages: 217
-series_index:
-- 4
+series_index: [4]
 ---
 > To reign is worth ambition though in Hell: Better to reign in Hell, then > serve in Heav'n.
 

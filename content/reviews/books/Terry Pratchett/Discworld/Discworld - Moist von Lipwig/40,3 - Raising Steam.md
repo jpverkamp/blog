@@ -15,9 +15,7 @@ book/isbn: 0857522272
 book/isbn13: '9780857522276'
 rating: 4
 book/pages: 377
-series_index:
-- 40
-- 3
+series_index: [40, 3]
 ---
 In {{< goodreads book="Going Postal" >}}, Moist von Lipwig rebuilt the post office. In {{< goodreads book="Making Money" >}}, he took on the banks. Now? Steam engines are coming to the Discworld!  
 

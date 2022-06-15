@@ -14,8 +14,7 @@ book/isbn: '1563892871'
 book/isbn13: '9781563892875'
 rating: 5
 book/pages: 191
-series_index:
-- 10
+series_index: [10]
 ---
 And so as all things must end, so too do the Endless.  
 

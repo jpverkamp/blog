@@ -14,8 +14,7 @@ book/isbn: '1612629792'
 book/isbn13: '9781612629797'
 rating: 5
 book/pages: 192
-series_index:
-- 15
+series_index: [15]
 ---
 Woo boy. More twists and turns on the Titan front, more on the whole revolution front, and just a whole pile of madness in general.  
 

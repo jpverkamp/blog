@@ -15,9 +15,7 @@ book/isbn: '1401212220'
 book/isbn13: '9781401212223'
 rating: 4
 book/pages: 128
-series_index:
-- 1
-- 7
+series_index: [1, 7]
 ---
 ![Jack-1-01-Bowl-of-Suck](/embeds/books/attachments/jack-1-01-bowl-of-suck.jpg)  
 

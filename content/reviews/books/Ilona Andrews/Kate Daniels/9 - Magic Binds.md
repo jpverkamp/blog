@@ -14,8 +14,7 @@ book/isbn: 0425270696
 book/isbn13: '9780425270691'
 rating: 5
 book/pages: 328
-series_index:
-- 9
+series_index: [9]
 ---
 >  “Did you run any of this by Curran?”  
 >

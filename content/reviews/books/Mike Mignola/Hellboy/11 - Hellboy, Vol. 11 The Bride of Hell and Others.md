@@ -14,8 +14,7 @@ book/isbn: '1595827404'
 book/isbn13: '9781595827401'
 rating: 5
 book/pages: 200
-series_index:
-- 11
+series_index: [11]
 ---
 Another collection of shorts.  
 

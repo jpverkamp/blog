@@ -14,8 +14,7 @@ book/isbn: 0765305119
 book/isbn13: '9780765305114'
 rating: 5
 book/pages: 624
-series_index:
-- 3
+series_index: [3]
 ---
 > Til shade is gone,  
 >

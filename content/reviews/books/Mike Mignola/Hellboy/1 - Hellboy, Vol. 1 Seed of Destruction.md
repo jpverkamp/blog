@@ -14,8 +14,7 @@ book/isbn: '1593070942'
 book/isbn13: '9781593070946'
 rating: 5
 book/pages: 128
-series_index:
-- 1
+series_index: [1]
 ---
 > If I have a real name, I've never known it. I'm called Hellboy.
 

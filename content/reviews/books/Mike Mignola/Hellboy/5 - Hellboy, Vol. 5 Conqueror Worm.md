@@ -14,8 +14,7 @@ book/isbn: '1593070926'
 book/isbn13: '9781593070922'
 rating: 5
 book/pages: 144
-series_index:
-- 5
+series_index: [5]
 ---
 > God damn Nazi-Frankenstein monkey! You **don't** know **when** to **quit!**
 

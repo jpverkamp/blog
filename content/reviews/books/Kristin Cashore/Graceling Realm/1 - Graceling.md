@@ -13,8 +13,7 @@ cover: /embeds/books/graceling.jpg
 book/isbn13: '9780152063962'
 rating: 4
 book/pages: 471
-series_index:
-- 1
+series_index: [1]
 ---
 I enjoyed Graceling more than I actually expected to. It starts out slowly and ends a bit abruptly, but there was something about it that kept me going right to the end.  
 

@@ -14,8 +14,7 @@ book/isbn: '1421503190'
 book/isbn13: '9781421503196'
 rating: 5
 book/pages: 186
-series_index:
-- 6
+series_index: [6]
 ---
 **6.22: The Masked Man**  
 

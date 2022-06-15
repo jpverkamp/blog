@@ -14,8 +14,7 @@ book/isbn: '1606903411'
 book/isbn13: '9781606903414'
 rating: 5
 book/pages: 144
-series_index:
-- 11
+series_index: [11]
 ---
 *Spoiler: NSFW*   
 

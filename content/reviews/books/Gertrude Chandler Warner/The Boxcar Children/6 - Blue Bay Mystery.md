@@ -14,8 +14,7 @@ book/isbn: 0807507946
 book/isbn13: '9780807507940'
 rating: 4
 book/pages: 157
-series_index:
-- 6
+series_index: [6]
 ---
 Vacation this summer? Let's get purposely stranded on a tropical island!  
 

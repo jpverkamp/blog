@@ -14,8 +14,7 @@ book/isbn: '1841490237'
 book/isbn13: '9781841490236'
 rating: 3
 book/pages: 342
-series_index:
-- 3
+series_index: [3]
 ---
 On one hand, Prentice Alvin feels quite a lot like the previous two Alvin Maker stories. We have a continuation of the alternate timeline, this time dealing with how apprenticeships and slavery work in this world. We learn more about the town where Alvin was born, which we haven't seen in a while, including Peggy--the torch who has been keeping an eye on him this entire time.  
 

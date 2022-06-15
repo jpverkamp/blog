@@ -14,8 +14,7 @@ book/isbn: 0807553670
 book/isbn13: '9780807553671'
 rating: 5
 book/pages: 128
-series_index:
-- 17
+series_index: [17]
 ---
 It’s a cute little book. Benny’s friends all wondered off for the summer so Mrs. McGregor invites Canadian son of a friend Rory over for the summer.  
 

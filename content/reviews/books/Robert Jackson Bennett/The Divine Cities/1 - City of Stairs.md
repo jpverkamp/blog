@@ -14,8 +14,7 @@ book/isbn: 080413717X
 book/isbn13: '9780804137171'
 rating: 5
 book/pages: 452
-series_index:
-- 1
+series_index: [1]
 ---
 > The city knows. It remembers. Its past is written in its bones, though the past now speaks in silences.
 

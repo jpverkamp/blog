@@ -13,8 +13,7 @@ book/isbn: '1401265790'
 book/isbn13: '9781401265793'
 rating: 3
 book/pages: 320
-series_index:
-- 15
+series_index: [15]
 ---
 It’s… fine? I enjoyed the first two longer stories well enough but the latter one was all kinds of weird. And not in a way I cared for?
 

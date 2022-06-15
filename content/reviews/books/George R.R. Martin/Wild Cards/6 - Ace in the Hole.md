@@ -14,8 +14,7 @@ book/isbn: 0553282530
 book/isbn13: '9780553282535'
 rating: 5
 book/pages: 400
-series_index:
-- 6
+series_index: [6]
 ---
 {{< goodreads book="Ace in the Hole" text=" Ace in the Hole " >}} completes the second internal trilogy of the Wild Cards, finishing up many of the plotlines of {{< goodreads book="Aces Abroad" text=" Aces Abroad " >}} and {{< goodreads book="Down and Dirty" text=" Down and Dirty " >}} and bringing the Puppetman plotline to the end. The main plot centers around a presidential convention, which is already a bizarre enough system on its own. Bring super powers and assassins--and super powered assassins into the mix--and things go very very sideways.  
 

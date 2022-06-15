@@ -12,8 +12,7 @@ book/goodreads_id: 18899915
 cover: /embeds/books/spellbound.jpg
 rating: 5
 book/pages: 656
-series_index:
-- 2
+series_index: [2]
 ---
 Spellbound takes the straightforward noir/spy/magic {{< goodreads book="Hard Magic" >}} and makes it bigger.  
 
