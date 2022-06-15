@@ -3,9 +3,8 @@ title: 'Thor: The Dark World'
 date: 2013-11-29
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/thor-the-dark-world.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/thor-the-dark-world.jpg" >}}
-
 The first Thor was a bit disappointing. 
 
 There, I said it.

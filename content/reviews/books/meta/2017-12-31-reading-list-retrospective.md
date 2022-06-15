@@ -4,12 +4,12 @@ date: 2017-12-31 23:59:59
 reviews/lists:
 - 2017 Book Reviews
 ---
-Another year of reading. I easily beat my official goal of 50 with 84 books (finished the [last one]({{< ref "2017-12-31-boundary-born.md" >}}) a few hours before the end of the year). Unfortunately, it still feels like something of a failure, down from my [original 100 book year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}) and [last year's]({{< ref "2016-12-31-reading-list-retrospective.md" >}}) 91. Yes, I'm just crazy enough that 84 books in a year feels like a failure. :smile:
+Another year of reading. I easily beat my official goal of 50 with 84 books (finished the {{<crosslink text="last one" title="Boundary Born">}}) a few hours before the end of the year). Unfortunately, it still feels like something of a failure, down from my [original 100 book year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}) and [last year's]({{< ref "2016-12-31-reading-list-retrospective.md" >}}) 91. Yes, I'm just crazy enough that 84 books in a year feels like a failure. :smile:
 
 A few stats:
 
-- The shortest book I read this year was [The Eleventh Metal]({{< ref "2017-06-19-the-eleventh-metal.md" >}}) at 14 pages
-- The longest was [Beyond the Shadows]({{< ref "2017-08-12-beyond-the-shadows.md" >}}) at 689 pages
+- The shortest book I read this year was {{<crosslink "The Eleventh Metal">}} at 14 pages
+- The longest was {{<crosslink "Beyond the Shadows">}} at 689 pages
 - My overall average was 338 pages per book and 77 per day
 - My average rating was 4.5 with 14 three stars and 18 four stars (the rest were fives)[^1]
 - I listened to 21 books on audiobook (all Discworld novels, so that's almost my most by a single author or in a single series)
@@ -21,7 +21,7 @@ More specifically, there are a few categories books fit into. First, the series 
 
 {{< goodreads book="Seventh Son" cover="true" >}}
 
-Read my review for [Alvin Journeyman]({{< ref "2017-03-22-alvin-journeyman.md" >}}) for the why.
+Read my review for {{<crosslink "Alvin Journeyman">}} for the why.
 
 Then, there are the two series I didn't actually get around to at all:
 

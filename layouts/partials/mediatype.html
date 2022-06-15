@@ -1,11 +1,11 @@
 {{- if in .File.Path "books" -}}
-<span> ( 📖 ) </span>
+<span> 📖 </span>
 {{- else if in .File.Path "movies" -}}
-<span> ( 🎥 ) </span>
+<span> 🎥 </span>
 {{- else if in .File.Path "tv" -}}
-<span> ( 📺 ) </span>
+<span> 📺 </span>
 {{- else if in .File.Path "cooking" -}}
-<span> ( 🍽 ) </span>
+<span> 🍽 </span>
 {{- else -}}
 
 {{- end -}}

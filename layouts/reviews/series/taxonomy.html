@@ -1,0 +1,55 @@
+{{ define "main" }}
+    <!-- TODO: Render in order BY SERIES -->
+
+    <h1 class="entry-title">
+        By series: {{ .Title -}}       
+    </h1>
+
+    <div class="entry-content">
+        {{- .Content -}}
+    </div>
+
+    {{/* partial "taxonomy-list.html" . */}}
+
+    {{- $pageList := slice -}}
+    {{- range .Pages -}}
+        {{- $page := . }}
+        {{- range $i, $series := index .Params "reviews/series" -}}
+            {{- if eq $.Title $series }}
+                {{ $pageList = $pageList | append (dict
+                    "index" (index (default (slice 0) $page.Params.series_index) $i)
+                    "page" $page
+                ) }}
+            {{- end -}}
+        {{- end -}}
+    {{- end }}
+
+    <div class="cover-list">        
+        {{- range $indexedPage := sort $pageList "index" -}}
+            {{- $page := index $indexedPage "page" }}
+            <figure class="cover-image">
+                <a href="{{ $page.Permalink }}">
+                    {{- if isset $page.Params "cover" -}}
+                        <img src="{{ $page.Params.cover }}" />
+                    {{- else -}}
+                        {{- safeHTML (index (findRE "(?m:<img.*?>)" $page.Content 1) 0) -}}
+                    {{- end -}}
+                </a>
+            </figure>
+        {{- end -}}
+    </div>
+
+    <ul>
+        {{- range $indexedPage := sort $pageList "index" -}}
+        {{- $series_index := index $indexedPage "index" }}
+        {{- $page := index $indexedPage "page" }}
+        <li>
+            {{ $series_index }}: 
+            <a href="{{ $page.Permalink }}">
+                {{ $page.Title }}
+            </a>
+            
+        </li>
+        {{- end -}}
+    </ul>
+{{- end -}}

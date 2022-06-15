@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-ix---the-rise-of-skywalker.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-ix---the-rise-of-skywalker.jpg" >}}
-
 Given the internet's backlast, I exepcted a lot worse. At least to me, The Rise of Skywalker did a pretty decent job of closing the loop on the saga that began a long time ago with the rise of Palpatine and the fall of Anakin Skywalker. Really, that's the entire story, and you get that here in spades. 
 
 There were definitely some weird choices made in pacing (in particular, right at the beginning, they sort of drop the whole 'Emperor is back' thing on us... apparently the reveal came in ... Fortnite? Seriously?). We lose out on a lot of what could have been a cool story with Finn and Poe, although they're still around at least. And I can't imagine that losing Carrie Fisher did filming any favors. 

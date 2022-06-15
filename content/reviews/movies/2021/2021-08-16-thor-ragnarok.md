@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/thor-ragnarok.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/thor-ragnarok.jpg" >}}
 
 Ooh, that poster. *le kiss*
 

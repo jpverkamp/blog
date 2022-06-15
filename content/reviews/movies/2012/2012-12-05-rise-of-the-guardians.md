@@ -3,9 +3,8 @@ title: Rise of the Guardians
 date: 2012-12-05 04:10:29
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/rise-of-the-guardians.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/rise-of-the-guardians.jpg" >}}
-
 So what do you get when you put Santa, the Easter Bunny, the Tooth Fairy, the Sandman, and Jack Frost all together in a movie? Well, I'm still not entirely sure, but it's entirely possible that you'll end up with something approaching Rise of the Guardians.
 
 <!--more-->

@@ -3,9 +3,8 @@ title: Divergent
 date: 2014-03-29
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/divergent.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/divergent.jpg" >}}
-
 Well, it's better than <a href="http://blog.jverkamp.com//2013/12/01/the-hunger-games-catching-fire/">The Hunger Games</a>[^1]
 
 <!--more-->

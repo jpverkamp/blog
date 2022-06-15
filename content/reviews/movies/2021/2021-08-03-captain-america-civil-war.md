@@ -8,9 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/captain-america-civil-war.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/captain-america-civil-war.jpg" >}}
-
 Captain America: Civil War isn't really a Captain America movie. While it deals with the Winter Solder to some extent, as much as that it's an Iron Man movie since {{< spoiler >}}he killed Stark's parents...{{< /spoiler >}}. But really, it's an Avengers movie. Everyone shows up, takes sides, and eventually ends up a great big superhero fight. And It... Is... Spectacular. In my opinion, it's the best MCU movie to this point, beating out any of the solo outings and even the first two Avengers movies.
 
 One of the things that I love best about this movie is that the humor in general just 'feels better' compared to the previous movies. There are still plenty of quips, but they're more limited to the characters that you expect to be funny (Spider-Man in particular, more on that shortly), and feel more in character. I mean... 

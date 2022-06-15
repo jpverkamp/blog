@@ -3,9 +3,8 @@ title: How to Train Your Dragon 2 (DVD)
 date: 2014-11-25
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/how-to-train-your-dragon-2.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/how-to-train-your-dragon-2.jpg" >}}
-
 I really liked the first How to Train Your Dragon. It was cute and it was fun. Cute, the sequel had. Fun, more or less. But it was still missing something.
 
 <!--more-->

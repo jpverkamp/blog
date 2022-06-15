@@ -7,9 +7,8 @@ reviews/series:
 - Disney Animated
 source: 
 - Disney+
+cover: /embeds/movies/pocahontas.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/pocahontas.jpg" >}}
-
 One of my favorites of the Disney animated classics. It's a straight forward enough story that at least takes some pains to show the terrible way that European settlers treated Native Americans and shows that people are people and will often try to do the right thing, given a chance. The music is wonderful and the animation is really quite something that up even today.
 
 <!--more-->

@@ -3,9 +3,8 @@ title: The Amazing Spider-Man 2
 date: 2014-05-10
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/the-amazing-spider-man-2.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-amazing-spider-man-2.jpg" >}}
-
 I think that--for once--I was the perfect audience for this movie. Just geeky enough that I enjoy a good Spider-Man movie, but not so geeky that whatever changes they made from the comics are going to jump out / particularly bother me.
 
 <!--more-->

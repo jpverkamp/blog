@@ -3,10 +3,10 @@ title: A Clockwork Orange
 date: 2021-01-25
 reviews/lists:
 - 2021 Movie Reviews
+cover: /embeds/movies/a-clockwork-orange.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/a-clockwork-orange.jpg" >}}
 
-It turns out that a [very strange book]({{< ref "2021-01-24-a-clockwork-orange" >}}) makes for an even strange film. Who would have thought?
+It turns out that a {{<crosslink text="very strange book" title="A Clockwork Orange">}} makes for an even strange film. Who would have thought?
 
 <!--more-->
 

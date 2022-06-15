@@ -7,9 +7,8 @@ reviews/series:
 - Disney Animated Home Releases
 source:
 - Disney+
+cover: /embeds/movies/bambi-and-the-great-prince-of-the-forest.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/bambi-and-the-great-prince-of-the-forest.jpg" >}}
-
 You know, I was actually pleasantly surprised by Bambi II (later retitled). And not only because they got Patrick Stewart of all people to voice Bambi's dad (who now has to step up and be a single father). It's as cute a story as Bambi was--which the kids' appreciated--but with just a bit more depth--which I did. It's still certainly not high cinema, but it's not terrible either. 
 
 Onward!

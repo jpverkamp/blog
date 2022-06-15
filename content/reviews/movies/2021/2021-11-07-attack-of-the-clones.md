@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-ii---attack-of-the-clones.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-ii---attack-of-the-clones.jpg" >}}
-
 Onward! 
 
 The things that I remember most about Attack of the Clones are the atmosphere of Kamino, the final battle on Genosis (mostly from the game Star Wars Battlefront), and some rather cringey burgeoning relationship dialog from Anakin and Padme.

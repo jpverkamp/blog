@@ -3,9 +3,8 @@ title: Prometheus
 date: 2012-06-12 04:55:03
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/prometheus.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/prometheus.jpg" >}}
-
 Huh. Well, the trailers were good. That's something at least.
 
 <!--more-->

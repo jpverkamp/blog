@@ -7,9 +7,8 @@ reviews/series:
 - Disney Animated
 source:
 - Disney+
+cover: /embeds/movies/one-hundred-and-one-dalmatians.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/one-hundred-and-one-dalmatians.jpg" >}}
-
 60 years ago. Dang. And you know? It holds up. The action is solid and story aren't overly complicated but enjoyable, the animation really works (despite/because of the limitations of the time), and the villains are unambiguous and scary but not overly so. Perhaps best of all, it's the story of an absolute pile of talking dogs. What's not to love? 
 
 <!--more-->

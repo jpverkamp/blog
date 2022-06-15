@@ -7,9 +7,8 @@ reviews/series:
 - Pirates of the Caribbean
 source: 
 - Disney+
+cover: /embeds/movies/pirates-of-the-caribbean-dead-man-s-chest.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/pirates-of-the-caribbean-dead-man-s-chest.jpg" >}}
-
 [Pirates of the Caribbean]({{<ref "2022-05-06-pirates-of-the-caribbean-the-curse-of-the-black-pearl">}}) was surprisingly good. So of course they're going to make a sequel and turn everything up to 11. More Johnny Depp (yay)! More love triangles (boo)! More supernatural beasties (awesome)! More mythology (sweet)!
 
 On the plus side, there's a lot to like. As mentioned Depp is still great. That's probably the number one reasons these movies are as awesome as they are. He just nails the roll. 

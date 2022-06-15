@@ -3,9 +3,8 @@ title: The Bourne Legacy
 date: 2012-08-16 04:55:23
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/bourne-legacy.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/bourne-legacy.jpg" >}}
-
 So what do you get if you make a Bourne movie and take out Bourne?
 
 <!--more-->

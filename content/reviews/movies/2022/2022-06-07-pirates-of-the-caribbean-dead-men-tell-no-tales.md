@@ -7,9 +7,8 @@ reviews/series:
 - Pirates of the Caribbean
 source: 
 - Disney+
+cover: /embeds/movies/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg" >}}
-
 After the smash hit of the first three and the downer that was [On Stranger Tides]({{<ref "2022-06-03-pirates-of-the-caribbean-on-stranger-tides">}}), I was cautiously hopeful that they could pull something off with Dead Men Tell No Tales. And... they did? Sort of? 
 
 <!--more-->

@@ -8,9 +8,8 @@ reviews/series:
 - MCU Phase 4
 source:
 - Theater
+cover: /embeds/movies/shang-chi-and-the-legend-of-the-ten-rings.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/shang-chi-and-the-legend-of-the-ten-rings.jpg" >}}
-
 Well that was a surprisingly delightful movie. It takes a character I've at least barely heard of[^reference] with a cast pretty much unknown to the western world[^kingsley] and turns it into a wonderful combination of human drama, Lovecraftian baddies, and awesome action scenes. It's well among my favorite MCU movies to date (only Captain America beats it out among introductions and a few others overall) and well worth the watch. After how big the MCU has gotten recently, it's kind of nice to see a movie that almost completely stands on it's own[^wang]. It's a big world, with parallel/pocket universes and gates to worlds chock full of truly alien baddies, but at the same time, it's a story about family, about legacy.
 
 Characterwise, Simu Liu as Shaun/Shang-Chi is absolutely delightful. It feels like the role was made for him, a la Ryan Reynolds and Deadpool. And ... well:

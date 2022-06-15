@@ -3,9 +3,8 @@ title: The Dark Knight Rises
 date: 2012-07-31 04:55:59
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/dark-knight.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/dark-knight.jpg" >}}
-
 This is another movie right up there with the Avengers in terms of anticipation and I have to say that it delivered. There's just something about super hero movies that's going particularly well right now. I'm not sure how long this is going to last, but I'm more than happy to ride it while it does.
 
 <!--more-->

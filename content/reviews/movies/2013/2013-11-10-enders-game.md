@@ -3,9 +3,8 @@ title: Ender's Game
 date: 2013-11-10
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/enders-game.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/enders-game.jpg" >}}
-
 This one definitely goes on that list of movies I never thought would get made.
 
 <!--more-->

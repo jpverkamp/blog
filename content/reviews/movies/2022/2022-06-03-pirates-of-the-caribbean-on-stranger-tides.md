@@ -7,9 +7,8 @@ reviews/series:
 - Pirates of the Caribbean
 source: 
 - Disney+
+cover: /embeds/movies/pirates-of-the-caribbean-on-stranger-tides.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/pirates-of-the-caribbean-on-stranger-tides.jpg" >}}
-
 Pirates of the Caribbean... without Bloom or Knightly? At least they still have Johnny Depp I suppose. And Barbossa--ish. 
 
 Easily the weakest of the series. It's... fine, but it doesn't have the absolutely bonkers charm of the earlier movies. 

@@ -11,6 +11,9 @@ from PIL import Image
 
 coloredlogs.install(logging.INFO)
 
+logging.critical("TODO: Update with new directory structure and metadata")
+exit(1)
+
 TARGET_COVER_SIZE = (214, 317)
 BLOG_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')
 COVER_DIR = os.path.join(BLOG_DIR, 'static', 'embeds')

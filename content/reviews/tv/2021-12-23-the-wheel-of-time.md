@@ -3,9 +3,8 @@ title: "The Wheel of Time: Season 1"
 date: 2021-12-23
 reviews/lists:
 - 2021 TV Reviews
+cover: /embeds/tv/the-wheel-of-time.jpg
 ---
-{{< figure class="cover-image" src="/embeds/tv/the-wheel-of-time.jpg" >}}
-
 > The Wheel of Time turns, and ages come and pass, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth comes again. In one Age, called the Third Age by some, an Age yet to come, an Age long past, a wind rose in the Mountains of Mist. The wind was not the beginning. There are neither beginnings nor endings to the turning of the Wheel of time. But it was a beginning.
 
 I first read the Wheel of Time in roughly 2000-2001, after Winter's Heart and before Crossroads of Twilight. I then reread the entire series with each new release (2003, 2005, 2009, 2010, and 2013), plus another read and a trip through the audio books more recently. So roughly 8 times through this monster of a series. I can quite honestly say it's among (if not flat out) my favorite book series. I've been absolutely looking forward to seeing how the Wheel of Time could ever possibly make it to the screen and...

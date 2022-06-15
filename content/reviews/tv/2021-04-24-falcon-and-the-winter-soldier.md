@@ -7,9 +7,8 @@ reviews/series:
 - Marvel Cinematic Universe
 source:
 - Disney+
+cover: /embeds/tv/the-falcon-and-the-winter-soldier.jpg
 ---
-{{< figure class="cover-image" src="/embeds/tv/the-falcon-and-the-winter-soldier.jpg" >}}
-
 The Falcon and the Winter Soldier basically takes place where Avengers: Endgame left off. Steve Rogers as Captain America has stepped down, leaving his shield to Sam Wilson/The Falcon/the (rumored) future Captain America. And on a superficial level, that's about where it ends: Sam Wilson has the shield and is expected to take up the mantle of Captain America. 
 
 But, oh the story it tells along the way. 

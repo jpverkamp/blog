@@ -3,9 +3,8 @@ title: Edge of Tomorrow (DVD)
 date: 2014-10-28
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/edge-of-tomorrow.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/edge-of-tomorrow.jpg" >}}
-
 Disclaimer time: I have a full time job now. And a baby at home. Some combination of these things means that I have nowhere near as much time to go see movies as I once did. So it goes.
 
 But rather than let this particular part of my blog go to waste, I think that I'll go ahead and keep writing up movies. Just instead of movies in theaters, I'll aim for new releases on DVD / VOD.

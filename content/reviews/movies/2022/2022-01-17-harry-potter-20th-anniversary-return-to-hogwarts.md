@@ -5,9 +5,8 @@ reviews/lists:
 - 2022 Movie Reviews
 source:
 - HBOMax
+cover: /embeds/movies/harry-potter-20th-anniversary-return-to-hogwarts.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/harry-potter-20th-anniversary-return-to-hogwarts.jpg" >}}
-
 You know... I should really re-watch those movies. 
 
 As I expect is the case for many in roughly my age bracket, Harry Potter was a huge part of my life growing up. I think I got into it with the release of the 3rd or 4th book (can't quite remember) and absolutely devoured each book after that the night it came out. I watched all of the movies a number of times. It was absolutely fascinating watching the characters in this other world basically growing up with me. 

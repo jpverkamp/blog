@@ -3,9 +3,8 @@ title: World War Z
 date: 2013-06-28 04:55:20
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/world-war-z.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/world-war-z.jpg" >}}
-
 <a title="World War Z on amazon.com" href="http://www.amazon.com/gp/product/0770437400/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0770437400&amp;linkCode=as2&amp;tag=jverkampcom-20">World War Z</a> is a pretty awesome book, showing the aftermath of a decade long zombie war, accounting for the various changes (religious, political, and otherwise) that such an event would bring about. If you haven't read it (and aren't completely anti-zombie), I can't recommend it enough. It's really a neat book.
 
 <a title="World War Z on IMDb" href="http://www.imdb.com/title/tt0816711/">World War Z</a>, on the other hand, is a pretty good film and has next to nothing to do with the book--other than the title and the semi-eponymous zombie threat.

@@ -7,9 +7,8 @@ reviews/series:
 - Pixar
 source: 
 - Disney+
+cover: /embeds/movies/ratatouille.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/ratatouille.jpg" >}}
-
 Well that's just a delightful movie. 
 
 Start with "Anyone can cook", turn that up to 11 by making 'anyone' a rat (because rats don't belong in kitchens, get it?) and end up with a surprisingly touching movie about believing in yourself, doing whatever you set your mind to, and not having to necessarily do what it is that others expect of you. 

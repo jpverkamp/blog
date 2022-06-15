@@ -1,3 +1,7 @@
+{{ define "title" }}
+    Reviews – {{ .Site.Title -}}
+{{ end }}
+
 {{ define "main" }}
     <div class="entry-content">
         {{- .Content -}}
@@ -10,6 +14,8 @@
 
     <h1>Current Lists</h1>
     <ul>
+        <li><a href="/reviews/authors">All reviews by author</a></li>
+        <li><a href="/reviews/series">All reviews by series</a></li>
         <li><a href="/2022/04/01/2022-book-bingo/">2022 Book Bingo</a></li>
         <li><a href="/reviews/lists/2022-book-reviews/">2022 Book Reviews</a></li>
         <li><a href="/reviews/lists/2022-movie-reviews/">2022 Movie Reviews</a></li>
@@ -20,9 +26,15 @@
     <h1>Recent Reviews</h1>
     <div class="cover-list">
         {{- range $i, $page := first 20 .Pages -}}
+        <figure class="cover-image">
         <a href="{{ .Permalink }}">
-            {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+            {{- if isset .Params "cover" -}}
+                <img src="{{ .Params.cover }}" />
+            {{- else -}}
+                {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+            {{- end -}}
         </a>
+        </figure>
         {{- end -}}
     </div>
 
@@ -31,7 +43,7 @@
         {{- range .Pages -}}
         <li>
             {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
-            <a href="{{ .Permalink }}">{{ .Title }}</a> {{- partial "series.html" . -}} {{- partial "mediatype.html" . -}}
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
         </li>
         {{- end -}}
     </ul>

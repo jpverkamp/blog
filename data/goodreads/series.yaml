@@ -43,7 +43,8 @@ Alpha & Omega:
   name: Alpha & Omega
   url: /series/45135.alpha-omega
 American Gods:
-  books: {}
+  books:
+    1: American Gods
   id: 114135
   name: American Gods
   url: /series/114135.american-gods
@@ -109,6 +110,17 @@ Arcane Ascension:
   id: 201441
   name: Arcane Ascension
   url: /series/201441.arcane-ascension
+Arcanum Unbounded:
+  books:
+    1: The Emperor's Soul
+    2: The Hope of Elantris
+    3: The Eleventh Metal
+    4: Allomancer Jak and the Pits of Eltania
+    5: 'Mistborn: Secret History'
+    6: White Sand
+    7: Shadows for Silence in the Forests of Hell
+    8: Sixth of the Dusk
+    9: Edgedancer
 Artemis Fowl:
   books:
     1: Artemis Fowl
@@ -216,6 +228,39 @@ Book of the Ancestor:
   id: 185644
   name: Book of the Ancestor
   url: /series/185644.book-of-the-ancestor
+Boss Fight Books:
+  books:
+    1: EarthBound
+    2: Chrono Trigger
+    3: ZZT
+    4: Galaga
+    5: Jagged Alliance 2
+    6: Super Mario Bros. 2
+    7: Bible Adventures
+    8: Baldur's Gate II
+    9: Metal Gear Solid
+    10: Shadow of the Colossus
+    11: Spelunky
+    12: World of Warcraft
+    13: Super Mario Bros. 3
+    14: Mega Man 3
+    15: Soft & Cuddly
+    16: Kingdom Hearts II
+    17: Katamari Damacy
+    18: Final Fantasy V
+    19: Shovel Knight
+    20: 'Star Wars: Knights of the Old Republic'
+    21: NBA Jam
+    22: Pilgrim in the Microworld
+    23: Postal
+    24: Red Dead Redemption
+    25: Resident Evil
+    26: 'The Legend of Zelda: Majora''s Mask'
+    27: Silent Hill 2
+    28: Final Fantasy VI
+  id: 153597
+  name: Boss Fight Books
+  url: /series/153597.boss-fight-books
 Boundary Magic:
   books:
     1: Boundary Crossed
@@ -406,7 +451,7 @@ Discworld:
   id: 40650
   name: Discworld
   url: /series/40650.discworld
-Discworld - Ankh-Morpork City Watch:
+Discworld - City Watch:
   books:
     1: Guards! Guards!
     1.5: Theatre of Cruelty
@@ -437,7 +482,7 @@ Discworld - Death:
     1.5: Death and What Comes Next
     2: Reaper Man
     3: Soul Music
-    4: 'Schweinsgalopp/Fliegende Fetzen: Zwei Scheibenwelt-Romane in einem Band'
+    4: Hogfather
     5: Thief of Time
     01-02: "\u041C\u043E\u0440, \u0443\u0447\u0435\u043D\u0438\u043A \u0421\u043C\u0435\
       \u0440\u0442\u0438. \u041C\u0440\u0430\u0447\u043D\u044B\u0439 \u0416\u043D\u0435\
@@ -459,6 +504,11 @@ Discworld - Industrial Revolution:
   id: 159506
   name: Discworld - Industrial Revolution
   url: /series/159506.discworld---industrial-revolution
+Discworld - Moist von Lipwig:
+  books:
+    1: Moving Pictures
+    2: Going Postal
+    3: Making Money
 Discworld - Rincewind:
   books:
     1: The Color of Magic
@@ -543,10 +593,7 @@ Dune:
   url: /series/45935.dune
 Elantris:
   books:
-    1: Elantris, Part 1 of 3
-    1.5: The Hope of Elantris
-    2: Elantris, Part 2 of 3
-    3: Elantris, Part 3 of 3
+    1: Elantris
   id: 87970
   name: Elantris
   url: /series/87970.elantris
@@ -935,6 +982,14 @@ Hellboy:
   id: 55300
   name: Hellboy
   url: /series/55300.hellboy
+Hellboy in Hell:
+  books:
+    1: 'Hellboy in Hell, Vol. 1: The Descent'
+    2: 'Hellboy in Hell, Vol. 2: The Death Card'
+    1-2: Hellboy in Hell
+  id: 126083
+  name: Hellboy in Hell
+  url: /series/126083.hellboy-in-hell
 Hex11:
   books:
     1: 'Hex11 Vol. 1: The Magic Age Rises'
@@ -991,6 +1046,17 @@ Jack of Fables:
   id: 54295
   name: Jack of Fables
   url: /series/54295.jack-of-fables
+James Lovegrove's Sherlock Holmes:
+  books:
+    1: Sherlock Holmes and the Shadwell Shadows
+    2: Sherlock Holmes and the Miskatonic Monstrosities
+    3: Sherlock Holmes and the Sussex Sea-Devils
+    4: Sherlock Holmes & the Christmas Demon
+    5: Sherlock Holmes and The Beast of the Stapletons
+    6: Sherlock Holmes & The Three Winter Terrors
+  id: 220462
+  name: James Lovegrove's Sherlock Holmes
+  url: /series/220462.james-lovegroves-sherlock-holmes
 John Cleaver:
   books:
     1: I Am Not A Serial Killer
@@ -999,7 +1065,7 @@ John Cleaver:
     3.5: Next of Kin
     4: The Devil's Only Friend
     5: Over Your Dead Body
-    6: Nothing Left To Lose
+    6: Nothing Left to Lose
   id: 49883
   name: John Cleaver
   url: /series/49883.john-cleaver
@@ -1085,6 +1151,15 @@ Laundry Files:
   id: 50764
   name: Laundry Files
   url: /series/50764.laundry-files
+"Legacy of Or\xEFsha":
+  books:
+    1: Children of Blood and Bone
+    2: Children of Virtue and Vengeance
+    3: Untitled
+    1-2: "Legacy of Or\xEFsha Collection Set"
+  id: 218558
+  name: "Legacy of Or\xEFsha"
+  url: /series/218558.legacy-of-or-sha
 Legion:
   books:
     1: Legion
@@ -1264,11 +1339,32 @@ Mistborn:
   id: 40910
   name: Mistborn
   url: /series/40910.mistborn
+
+Mistborn Era 1:
+  books:
+    1: The Final Empire
+    2: The Well of Ascension
+    3: The Hero of Ages
+
+Mistborn Era 2:
+  books:
+    1: The Alloy of Law
+    2: Shadows of Self
+    3: The Bands of Mourning
+    4: The Lost Metal
+
 Mistborn - Alloy Era:
   books: {}
   id: 123082
   name: Mistborn - Alloy Era
   url: /series/123082.mistborn---alloy-era
+Moonbase Saga:
+  books:
+    1: Moonrise
+    2: Moonwar
+  id: 51190
+  name: Moonbase Saga
+  url: /series/51190.moonbase-saga
 Mortal Engines Quartet:
   books:
     0.5: Night Flights
@@ -1350,8 +1446,8 @@ Necroscope:
     1: Necroscope
     2: Vamphyri!
     3: The Source
-    4: 'Necroscope IV: Deadspeak'
-    5: 'Necroscope V: Deadspawn'
+    4: Deadspeak
+    5: Deadspawn
     6: 'Vampire World I: Blood Brothers'
     8: 'Vampire World III: Bloodwars'
     9: 'Necroscope: The Lost Years Volume I'
@@ -1368,6 +1464,9 @@ Necroscope:
 Newsflesh:
   books:
     0.75: All the Pretty Little Horses
+    1: Feed
+    2: Deadline
+    3: Blackout
     4: Feedback
   id: 47749
   name: Newsflesh
@@ -1705,9 +1804,18 @@ Shades of Magic:
   id: 122142
   name: Shades of Magic
   url: /series/122142.shades-of-magic
+Shift:
+  books:
+    1: 'First Shift: Legacy'
+    2: 'Second Shift: Order'
+    3: 'Third Shift: Pact'
+    1-3: Shift
+  id: 99084
+  name: Shift
+  url: /series/99084.shift
 Silo:
   books:
-    1: Wool Omnibus
+    1: Wool
     3: Dust
     1-3: The Wool Trilogy
   id: 70647
@@ -1818,6 +1926,16 @@ The Academy:
   id: 42777
   name: The Academy
   url: /series/42777.the-academy
+The Asteroid Wars:
+  books:
+    1: The Precipice
+    2: The Rock Rats
+    3: The Silent War
+    4: The Aftermath
+    1-3: The Asteroid Wars
+  id: 51191
+  name: The Asteroid Wars
+  url: /series/51191.the-asteroid-wars
 The Borrowers:
   books:
     1: The Borrowers

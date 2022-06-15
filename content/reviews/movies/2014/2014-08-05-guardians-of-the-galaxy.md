@@ -3,9 +3,8 @@ title: Guardians of the Galaxy
 date: 2014-08-05
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/guardians-of-the-galaxy.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/guardians-of-the-galaxy.jpg" >}}
-
 Can Marvel do no wrong?
 
 <!--more-->

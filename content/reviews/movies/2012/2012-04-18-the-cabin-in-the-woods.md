@@ -3,9 +3,8 @@ title: The Cabin in the Woods
 date: 2012-04-18 16:55:52
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/cabin-in-the-woods.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/cabin-in-the-woods.jpg" >}}
-
 I generally don't go for horror movies, but the general premise intrigued me. And it doesn't hurt that Joss Whedon co-wrote it. He's had his ups and downs, but in general he's earned at least a second look in my book.
 
 <!--more-->

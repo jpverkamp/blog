@@ -3,9 +3,8 @@ title: Breaking Dawn - Part 2
 date: 2012-11-24 04:55:56
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/breaking-dawn.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/breaking-dawn.jpg" >}}
-
 Yes. I went to see Breaking Dawn Part 2. And believe it or not, it actually *wasn't terrible*.
 
 <!--more-->

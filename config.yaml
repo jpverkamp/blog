@@ -34,6 +34,7 @@ taxonomies:
 
     reviews/list: reviews/lists
     reviews/series: reviews/series
+    reviews/authors: reviews/authors
 
     photography/type: photography/types
 

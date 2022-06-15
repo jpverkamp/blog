@@ -5,8 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - Hulu
+cover: /embeds/movies/palm-springs.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/palm-springs.jpg" >}}
 
 Who doesn't love a good time loop movie/episode? Especially a crude (at times) time loop + romantic comedy. 
 

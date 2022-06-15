@@ -3,9 +3,8 @@ title: Maleficent
 date: 2014-06-14
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/maleficent.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/maleficent.jpg" >}}
-
 Maleficient was magnificent.
 
 <!--more-->

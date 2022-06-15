@@ -3,9 +3,8 @@ title: Jurassic Park (3D!)
 date: 2013-05-02 04:55:53
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/jurassic-park-3d.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/jurassic-park-3d.jpg" >}}
-
  I wasn't actually sure if I wanted to add this to my 2013 Movie Rankings, since really this isn't a new movie for 2013. But in the end, it is a movie and I did see it, so it seems worthwhile to post about. :smile:
 
 <!--more-->

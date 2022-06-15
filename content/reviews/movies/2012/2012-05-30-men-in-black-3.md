@@ -3,9 +3,8 @@ title: Men in Black 3
 date: 2012-05-30 04:55:02
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/mib3.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/mib3.jpg" >}}
-
 I really liked the first two Men in Black movies. They're a the sort of fun that I end up re-watching around once a year as a sort of guilty pleasure. I was a little surprised that they decided to make a third one, but I think it worked out well enough.
 
 <!--more-->

@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 1
 source:
 - Disney+
+cover: /embeds/movies/captain-america.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/captain-america.jpg" >}}
 
 Now that is how you do a super hero movie. 
 

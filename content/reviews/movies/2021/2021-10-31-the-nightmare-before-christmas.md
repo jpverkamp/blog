@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - Disney+
+cover: /embeds/movies/the-nightmare-before-christmas.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-nightmare-before-christmas.jpg" >}}
-
 > Boys and girls of every age
 > 
 > Wouldn't you like to see something strange?

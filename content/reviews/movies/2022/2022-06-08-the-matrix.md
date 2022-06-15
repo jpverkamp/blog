@@ -7,9 +7,9 @@ source:
 - HBOMax
 reviews/series:
 - The Matrix
+cover: /embeds/movies/the-matrix.jpg
+series_index: [1]
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-matrix.jpg" >}}
-
 Oh the Matrix. This movie came out at just the perfect time for me--I wasn't into the counter culture as much, but even then I was messing around with computers and hacking--and I absolutely love every minute of it. It stands up even today, with a retrofuturistic sort of vibe that really still works even though it's been twenty years. 
 
 <!--more-->

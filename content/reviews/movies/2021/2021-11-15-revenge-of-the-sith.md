@@ -7,8 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-iii---revenge-of-the-sith.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-iii---revenge-of-the-sith.jpg" >}}
 
 Revenge of the Sith is a somewhat fascinating story. It feels by far the darkest and most 'adult' of the prequel trilogy, probably best matching the feel of A New Hope and Empire Strikes Back, but at the same time, there's a lot more humor in the early parts at least, with some truly weird and silly moments with R2 and the Battle Droids. You know... I just don't understand the droids. I'll get back to that in a bit. 
 

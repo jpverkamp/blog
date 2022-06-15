@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-i---the-phantom-menace.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-i---the-phantom-menace.jpg" >}}
-
 Oh, that opening score. The title crawl. That's a blast of nostalgia right there. I'm too young to have seen the original trilogy in theaters, but I watched the VHS tapes what felt like a million times. When The Phantom Menace came out, that was *right* in my wheelhouse. I don't remember how many times I saw that movie in theaters. 
 
 And you know what? It's not as bad as it's often rated. Granted, if it wasn't leaning so heavily on the rest of the Star Wars franchise, well... it would probably be about that bad. But I disagree that it doesn't disserve a place in the core 'Skywalker Saga'. 

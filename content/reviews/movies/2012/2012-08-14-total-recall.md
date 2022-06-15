@@ -3,9 +3,8 @@ title: Total Recall
 date: 2012-08-14 04:55:11
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/total-recall.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/total-recall.jpg" >}}
-
 Despite coming out only a few years after I was born, I only managed to actually see the original Total Recall film in the last few months. So I didn't have nearly the nostalgic baggage that a lot of people had coming into it.
 
 <!--more-->

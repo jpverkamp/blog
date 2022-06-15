@@ -3,9 +3,8 @@ title: Dark Shadows
 date: 2012-05-22 04:55:54
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/dark-shadows.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/dark-shadows.jpg" >}}
-
 Mostly, Tim Burton and Johnny Depp. I'll go see just about anything involving either of them, even more quickly if it's both. I went into the film not knowing much about the half-century old soap opera on which it was based, which I think hurt it in the end. There were a number of plot points that felt a bit rushed and didn't need to be there (like the werewolf-daughter bit).
 
 <!--more-->

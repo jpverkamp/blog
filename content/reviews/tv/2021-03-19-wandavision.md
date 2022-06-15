@@ -7,9 +7,8 @@ reviews/series:
 - Marvel Cinematic Universe
 source:
 - Disney+
+cover: /embeds/tv/wandavision.jpg
 ---
-{{< figure class="cover-image" src="/embeds/tv/wandavision.jpg" >}}
-
 > Wanda Maximoff: We are an unusual couple, you know.
 > 
 > Vision: Oh, I don't think that was ever in question.

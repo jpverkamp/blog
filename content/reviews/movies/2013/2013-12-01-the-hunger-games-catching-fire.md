@@ -3,9 +3,8 @@ title: 'The Hunger Games: Catching Fire'
 date: 2013-12-01
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/the-hunger-games-catching-fire.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-hunger-games-catching-fire.jpg" >}}
-
 Well... it's still better than Twilight.
 
 <!--more-->

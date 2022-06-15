@@ -8,9 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/doctor-strange.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/doctor-strange.jpg" >}}
-
 > Wong: While heroes like the Avengers protect the world from physical dangers, we sorcerers safeguard it against more mystical threats. 
 
 Man, that is a visually stunning movie. The first battle with building magically twisting all over (a la Inception), the glowing magic rings, the magical doodads. I am ever thankful that superhero movies have gotten popular enough that studios will spend the big bucks on special effects. They really do look great. 

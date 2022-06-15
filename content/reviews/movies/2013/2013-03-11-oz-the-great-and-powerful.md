@@ -3,9 +3,8 @@ title: Oz the Great and Powerful
 date: 2013-03-11 04:55:38
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/oz-the-great-and-powerful.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/oz-the-great-and-powerful.jpg" >}}
-
 Oz the Great and Powerful as a film is actually a pretty solid analogue for both the title character and all three of the witches: pretty, but {{< wikipedia page="Uncanny valley" text="just a bit 'off'" >}} and ultimately without depth.
 
 <!--more-->

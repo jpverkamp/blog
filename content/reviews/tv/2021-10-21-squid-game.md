@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 TV Reviews
 source:
 - Netflix
+cover: /embeds/tv/squid-game.jpg
 ---
-{{< figure class="cover-image" src="/embeds/tv/squid-game.jpg" >}}
-
 I don't actually do much social media (other than a relatively limited set of subreddits), so I didn't actually notice what was apparently a fairly large storm of people watching Squid Game, but when it came up on [Honest Trailers](https://www.youtube.com/watch?v=Akm4BdBIMXQ) it seemed pretty interesting. 9 episodes and I just finished {{< crosslink "Stargate Universe" >}}, so I figured, let's give it a spin!
 
 Let's say... that's at once exactly what I expected, but even then had a few interesting twists and turns. It's a battle royale of sorts, centered around (mostly Korean) kids' games, where the winners in the running for tens of millions of dollars and the losers--well, let's just say they aren't. There's a whole pile (heh) of interesting characters, blood and gore a plenty, a bit of nudity (although that's not really the focus), and a fair bit of digging into just how dark people can get when money is on the line. I want to believe that such a thing couldn't happen ever happen in the real world... but sometimes I wonder.

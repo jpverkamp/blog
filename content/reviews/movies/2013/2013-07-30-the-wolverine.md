@@ -3,9 +3,8 @@ title: The Wolverine
 date: 2013-07-30 04:55:32
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/the-wolverine.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-wolverine.jpg" >}}
-
 After the less than spectacular performances of <a href="http://www.imdb.com/title/tt0376994/?ref_=fn_al_tt_4">X-Men: The Last Stand</a> and <a href="http://www.imdb.com/title/tt0458525/?ref_=fn_al_tt_2">X-Men Origins: Wolverine</a> and the wicked snarl of continuity only worsened by <a href="http://www.imdb.com/title/tt1270798/?ref_=fn_al_tt_4">X-Men: First Class</a>, it's impressive that they're still putting out X-Men movies. Honestly, I've enjoyed all of them well enough[^1], but it's still a bit strange.
 
 <!--more-->

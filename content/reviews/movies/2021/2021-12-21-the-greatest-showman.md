@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - Disney+
+cover: /embeds/movies/the-greatest-showman.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-greatest-showman.jpg" >}}
-
 {{< youtube "RW61RQZojMQ" >}}
 
 Now that's music. I can only imagine hearing that on a theater scale sound system. Although my home sound bar certainly tried it's best... 

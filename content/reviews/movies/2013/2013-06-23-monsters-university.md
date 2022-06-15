@@ -3,9 +3,8 @@ title: Monsters University
 date: 2013-06-23 04:55:32
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/monsters-university.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/monsters-university.jpg" >}}
-
 Given how relatively few films they've put out, it's fairly impressive how Pixar has already shown us that they know how to do a sequel well (Toy Story 2/3) and they've found out how to do it now quite so well (Cars 2). So how does Monsters University do?
 
 <!--more-->

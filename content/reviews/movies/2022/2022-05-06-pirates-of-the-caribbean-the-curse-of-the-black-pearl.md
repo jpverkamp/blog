@@ -7,7 +7,6 @@ reviews/series:
 - Pirates of the Caribbean
 source: 
 - Disney+
+cover: /embeds/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg" >}}
-
 {{<ranking "2022 Movie Reviews">}}

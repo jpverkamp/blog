@@ -3,8 +3,8 @@ title: "Knives Out"
 date: 2021-10-24
 reviews/lists:
 - 2021 Movie Reviews
+cover: /embeds/movies/knives-out.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/knives-out.jpg" >}}
 
 > Lieutenant Elliott: I'm sorry this is an open and shut case of suicide and quite frankly Benny we are getting to the point where I have to ask you what we're doing here.
 > 

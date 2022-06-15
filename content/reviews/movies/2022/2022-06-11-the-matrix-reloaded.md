@@ -7,9 +7,9 @@ source:
 - HBOMax
 reviews/series:
 - The Matrix
+cover: /embeds/movies/the-matrix-reloaded.jpg
+series_index: [2]
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-matrix-reloaded.jpg" >}}
-
 > Morpheus: [Morpheus addresses the people of Zion] Zion, hear me! It is true, what many of you have heard. The machines have gathered an army and as I speak, that army is drawing nearer to our home.
 > 
 > [the Zion crowd becomes louder]

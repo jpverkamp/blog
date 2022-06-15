@@ -3,9 +3,8 @@ title: 'Captain America: The Winter Soldier'
 date: 2014-04-05
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/captain-america-the-winter-soldier.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/captain-america-the-winter-soldier.jpg" >}}
-
 Out of all the pre-Avengers / {{< wikipedia page="List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled" text="Phase One" >}} Marvel Cinematic Universe movies, it's really a toss up whether Iron Man or Captain American was my favorite. In {{< wikipedia page="List_of_Marvel_Cinematic_Universe_films#Phase_Two" text="Phase Two" >}}? It's not even a question[^1]. Captain America: The Winter Soldier.
 
 <!--more-->

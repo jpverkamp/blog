@@ -3,9 +3,8 @@ title: The Croods
 date: 2013-04-09 04:55:49
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/croods.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/croods.jpg" >}}
-
 I went into The Croods fully expecting the sort of banal, child-focused humor that all too often plagues such films (see [Hotel Transylvania]({{< ref "2012-10-24-hotel-transylvania.md" >}}) for a perfect example). Granted, The Croods is actually rated PG, so there's at least a modicum of hope ((Although then again, so was Hotel Transylvania...)).
 
 <!--more-->

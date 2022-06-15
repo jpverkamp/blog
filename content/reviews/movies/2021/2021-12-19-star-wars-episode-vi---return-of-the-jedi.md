@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-vi---return-of-the-jedi.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-vi---return-of-the-jedi.jpg" >}}
-
 You know, that is a really solid movie. I know a lot of people prefer Empire, but for whatever reason, I've always liked Return of the Jedi more. That holds true even more, although I have to say that there are a few (possibly nostalgia fueled) particulars that I like more before the special editions changed things.
 
 <!--more-->

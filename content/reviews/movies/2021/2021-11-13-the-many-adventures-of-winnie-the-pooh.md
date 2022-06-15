@@ -7,9 +7,8 @@ reviews/series:
 - Disney Animated
 source:
 - Disney+
+cover: /embeds/movies/the-many-adventures-of-winnie-the-pooh.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-many-adventures-of-winnie-the-pooh.jpg" >}}
-
 The Many Adventures of Winnie the Pooh is just delightful--and a blast of nostalgia on top of that. I didn't manage to actually watch all of the Disney classic growing up (still haven't), but I definiately watched this one. And now, after reading many of the stories to my children, it's a delight to be able to share the video form with them as well!
 
 I really like the style of these stories. It's a mix of animated world with the real storybook characters (Pooh et al), but also obviously in a book, as they hob from page to page. It's not the story of style you'd always expect to work, but it really works here. 

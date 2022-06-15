@@ -412,12 +412,12 @@ Apex:
   series: Nexus
   series_index: 3
   url: /book/show/20424928.apex
-'Arcanum Unbounded: The Cosmere Collection':
+Arcanum Unbounded:
   author: Brandon Sanderson
   cover: https://images.gr-assets.com/books/1466536615l/28595941.jpg
   id: 28595941
   localCover: /embeds/books/arcanum-unbounded-the-cosmere-collection.jpg
-  name: 'Arcanum Unbounded: The Cosmere Collection'
+  name: Arcanum Unbounded
   series: The Stormlight Archive
   series_index: 2.5
   url: /book/show/28595941.arcanum-unbounded-the-cosmere-collection
@@ -1278,12 +1278,12 @@ Cibola Burn:
   series: The Expanse
   series_index: 4
   url: /book/show/18886975.cibola-burn
-'Cinderella, Volume 1: From Fabletown with Love':
+'Cinderella, Vol. 1: From Fabletown with Love':
   author: Chris Roberson
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375409235l/7219667._SX98_.jpg
   id: 7219667
   localCover: /embeds/books/cinderella-volume-1-from-fabletown-with-love.jpg
-  name: 'Cinderella, Volume 1: From Fabletown with Love'
+  name: 'Cinderella, Vol. 1: From Fabletown with Love'
   url: /book/show/7219667.cinderella-volume-1-from-fabletown-with-love
 'Cinderella: Fables are Forever':
   author: Chris Roberson
@@ -1534,6 +1534,34 @@ Daemon Voices:
   localCover: /embeds/books/daemon-voices.jpg
   name: Daemon Voices
   url: /book/show/35478763.daemon-voices
+'Dark Lord of the Sith, Vol. 1: Imperial Machine':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359653l/35009957._SX98_.jpg
+  id: 35009957
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine.jpg
+  name: 'Dark Lord of the Sith, Vol. 1: Imperial Machine'
+  url: /book/show/35009957.star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine
+'Dark Lord of the Sith, Vol. 2: Legacy''s End':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359658l/36040437._SX98_.jpg
+  id: 36040437
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end.jpg
+  name: 'Dark Lord of the Sith, Vol. 2: Legacy''s End'
+  url: /book/show/36040437.star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end
+'Dark Lord of the Sith, Vol. 3: The Burning Seas':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534313610l/39668120._SX98_.jpg
+  id: 39668120
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas.jpg
+  name: 'Dark Lord of the Sith, Vol. 3: The Burning Seas'
+  url: /book/show/39668120.star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas
+'Dark Lord of the Sith, Vol. 4: Fortress Vader':
+  author: Charles Soule
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544824160l/40652555._SX98_.jpg
+  id: 40652555
+  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader.jpg
+  name: 'Dark Lord of the Sith, Vol. 4: Fortress Vader'
+  url: /book/show/40652555.star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader
 Dark Matter:
   author: Blake Crouch
   cover: https://images.gr-assets.com/books/1472119680m/27833670.jpg
@@ -1548,6 +1576,34 @@ Darkfall:
   localCover: /embeds/books/darkfall.jpg
   name: Darkfall
   url: /book/show/32456.darkfall
+'Darth Vader, Vol. 1: Vader':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359589l/24819813._SX98_.jpg
+  id: 24819813
+  localCover: /embeds/books/star-wars-darth-vader-vol-1-vader.jpg
+  name: 'Darth Vader, Vol. 1: Vader'
+  url: /book/show/24819813.star-wars-darth-vader-vol-1-vader
+'Darth Vader, Vol. 2: Shadows and Secrets':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359594l/25861679._SX98_.jpg
+  id: 25861679
+  localCover: /embeds/books/star-wars-darth-vader-vol-2-shadows-and-secrets.jpg
+  name: 'Darth Vader, Vol. 2: Shadows and Secrets'
+  url: /book/show/25861679.star-wars-darth-vader-vol-2-shadows-and-secrets
+'Darth Vader, Vol. 3: The Shu-Torun War':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359603l/28118847._SX98_.jpg
+  id: 28118847
+  localCover: /embeds/books/star-wars-darth-vader-vol-3-the-shu-torun-war.jpg
+  name: 'Darth Vader, Vol. 3: The Shu-Torun War'
+  url: /book/show/28118847.star-wars-darth-vader-vol-3-the-shu-torun-war
+'Darth Vader, Vol. 4: End of Games':
+  author: Kieron Gillen
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359613l/29467582._SX98_.jpg
+  id: 29467582
+  localCover: /embeds/books/star-wars-darth-vader-vol-4-end-of-games.jpg
+  name: 'Darth Vader, Vol. 4: End of Games'
+  url: /book/show/29467582.star-wars-darth-vader-vol-4-end-of-games
 Dawn:
   author: Octavia E. Butler
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388290339l/60929.jpg
@@ -1620,6 +1676,24 @@ Deadline:
   series: Newsflesh
   series_index: 2
   url: /book/show/8429687.deadline
+Deadspawn:
+  author: Brian Lumley
+  cover: https://images.gr-assets.com/books/1411611732l/66658.jpg
+  id: 66658
+  localCover: /embeds/books/necroscope-v-deadspawn.jpg
+  name: Deadspawn
+  series: Necroscope
+  series_index: 5
+  url: /book/show/66658.necroscope-v-deadspawn
+Deadspeak:
+  author: Brian Lumley
+  cover: https://images.gr-assets.com/books/1439621432l/1063378.jpg
+  id: 1063378
+  localCover: /embeds/books/necroscope-iv-deadspeak.jpg
+  name: Deadspeak
+  series: Necroscope
+  series_index: 4
+  url: /book/show/1063378.necroscope-iv-deadspeak
 'Dean Koontz''s Frankenstein, Volume 1: Prodigal Son':
   author: Dean Koontz
   cover: https://images.gr-assets.com/books/1320410883l/4673605.jpg
@@ -1677,6 +1751,20 @@ Divergent:
   series: Divergent
   series_index: 1
   url: /book/show/13335037.divergent
+Dog Men:
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512167682l/35989261._SX98_.jpg
+  id: 35989261
+  localCover: /embeds/books/jim-butchers-the-dresden-files-dog-men.jpg
+  name: Dog Men
+  url: /book/show/35989261.jim-butchers-the-dresden-files-dog-men
+Down Town:
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436341291l/25558821._SX98_.jpg
+  id: 25558821
+  localCover: /embeds/books/jim-butchers-the-dresden-files-down-town.jpg
+  name: Down Town
+  url: /book/show/25558821.jim-butchers-the-dresden-files-down-town
 Down and Dirty:
   author: George R.R. Martin
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375859712l/67959._SY160_.jpg
@@ -2051,12 +2139,12 @@ Fables & Reflections:
   localCover: /embeds/books/fables-vol-6-homelands.jpg
   name: 'Fables, Vol. 6: Homelands'
   url: /book/show/21328.fables-vol-6-homelands
-'Fables, Vol. 7: Arabian Nights':
+'Fables, Vol. 7: Arabian Nights (and Days)':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327962799l/21327._SX98_.jpg
   id: 21327
   localCover: /embeds/books/fables-vol-7-arabian-nights.jpg
-  name: 'Fables, Vol. 7: Arabian Nights'
+  name: 'Fables, Vol. 7: Arabian Nights (and Days)'
   series: and Days
   series_index: null
   url: /book/show/21327.fables-vol-7-arabian-nights
@@ -2647,6 +2735,13 @@ Ghost Story:
   series: The Dresden Files
   series_index: 13
   url: /book/show/8058301.ghost-story
+Ghoul Goblin:
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388266297l/18430203.jpg
+  id: 18430203
+  localCover: /embeds/books/jim-butchers-dresden-files-ghoul-goblin.jpg
+  name: Ghoul Goblin
+  url: /book/show/18430203.jim-butchers-dresden-files-ghoul-goblin
 Gideon the Ninth:
   author: Tamsyn Muir
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546870952l/42036538._SX98_.jpg
@@ -3031,6 +3126,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-3-the-fear-machine.jpg
   name: 'Hellblazer, Vol. 3: The Fear Machine'
   url: /book/show/13228111.hellblazer-vol-3-the-fear-machine
+'Hellblazer, Vol. 4: The Family Man':
+  author: Jamie Delano
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1640579845l/13536298._SX98_.jpg
+  id: 13536298
+  localCover: /embeds/books/hellblazer-vol-4-the-family-man.jpg
+  name: 'Hellblazer, Vol. 4: The Family Man'
+  url: /book/show/13536298.hellblazer-vol-4-the-family-man
 'Hellblazer, Vol. 5: Dangerous Habits':
   author: Garth Ennis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389387930l/15799394.jpg
@@ -3038,6 +3140,13 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-5-dangerous-habits.jpg
   name: 'Hellblazer, Vol. 5: Dangerous Habits'
   url: /book/show/15799394.hellblazer-vol-5-dangerous-habits
+'Hellblazer, Vol. 6: Bloodlines':
+  author: Garth Ennis
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370839683l/17137633._SX98_.jpg
+  id: 17137633
+  localCover: /embeds/books/hellblazer-volume-6-bloodlines.jpg
+  name: 'Hellblazer, Vol. 6: Bloodlines'
+  url: /book/show/17137633.hellblazer-volume-6-bloodlines
 'Hellblazer, Vol. 7: Tainted Love':
   author: Garth Ennis
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391953626l/17797407._SX98_.jpg
@@ -3059,13 +3168,6 @@ Head of the Dragon:
   localCover: /embeds/books/hellblazer-vol-9-critical-mass.jpg
   name: 'Hellblazer, Vol. 9: Critical Mass'
   url: /book/show/21556013.hellblazer-vol-9-critical-mass
-'Hellblazer, Volume 6: Bloodlines':
-  author: Garth Ennis
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370839683l/17137633._SX98_.jpg
-  id: 17137633
-  localCover: /embeds/books/hellblazer-volume-6-bloodlines.jpg
-  name: 'Hellblazer, Volume 6: Bloodlines'
-  url: /book/show/17137633.hellblazer-volume-6-bloodlines
 'Hellboy in Hell, Vol. 1: The Descent':
   author: Mike Mignola
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387419745l/19546047._SX98_.jpg
@@ -3456,12 +3558,12 @@ Isolation:
   series: Partials Sequence
   series_index: 0.5
   url: /book/show/13645264.isolation
-'Jack of Fables, Vol. 1: The':
+'Jack of Fables, Vol. 1: The (Nearly) Great Escape':
   author: Bill Willingham
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375393716l/21341._SX98_.jpg
   id: 21341
   localCover: /embeds/books/jack-of-fables-vol-1-the.jpg
-  name: 'Jack of Fables, Vol. 1: The'
+  name: 'Jack of Fables, Vol. 1: The (Nearly) Great Escape'
   series: Nearly
   series_index: null
   url: /book/show/21341.jack-of-fables-vol-1-the
@@ -3550,81 +3652,13 @@ Jade War:
   series: The Green Bone Saga
   series_index: 2
   url: /book/show/41716919.jade-war
-'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author of All Creatures Great and Small':
+'James Herriot''s Treasury for Children':
   author: James Herriot
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426470998l/38735.jpg
   id: 38735
   localCover: /embeds/books/james-herriots-treasury-for-children-warm-and-joyful-tales-by-the-author-of-all-creatures-great-and-small.jpg
-  name: 'James Herriot''s Treasury for Children: Warm and Joyful Tales by the Author
-    of All Creatures Great and Small'
+  name: 'James Herriot''s Treasury for Children'
   url: /book/show/38735.james-herriots-treasury-for-children-warm-and-joyful-tales-by-the-author-of-all-creatures-great-and-small
-Jim Butcher's Dresden Files Welcome to the Jungle:
-  author: Jim Butcher
-  cover: https://images.gr-assets.com/books/1320418408l/2637138.jpg
-  id: 2637138
-  localCover: /embeds/books/jim-butchers-dresden-files-welcome-to-the-jungle.jpg
-  name: Jim Butcher's Dresden Files Welcome to the Jungle
-  series: The Dresden Files Graphic Novels
-  series_index: 0.5
-  url: /book/show/2637138.jim-butchers-dresden-files-welcome-to-the-jungle
-'Jim Butcher''s Dresden Files: Ghoul Goblin':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388266297l/18430203.jpg
-  id: 18430203
-  localCover: /embeds/books/jim-butchers-dresden-files-ghoul-goblin.jpg
-  name: 'Jim Butcher''s Dresden Files: Ghoul Goblin'
-  url: /book/show/18430203.jim-butchers-dresden-files-ghoul-goblin
-'Jim Butcher''s Dresden Files: Storm Front Vol 1 #2':
-  author: Mark Powers
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252.jpg
-  id: 22394962
-  localCover: /embeds/books/jim-butchers-dresden-files-storm-front-vol-1-2.jpg
-  name: 'Jim Butcher''s Dresden Files: Storm Front Vol 1 #2'
-  url: /book/show/22394962.jim-butchers-dresden-files-storm-front-vol-1-2
-'Jim Butcher''s The Dresden Files: Dog Men':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512167682l/35989261._SX98_.jpg
-  id: 35989261
-  localCover: /embeds/books/jim-butchers-the-dresden-files-dog-men.jpg
-  name: 'Jim Butcher''s The Dresden Files: Dog Men'
-  url: /book/show/35989261.jim-butchers-the-dresden-files-dog-men
-'Jim Butcher''s The Dresden Files: Down Town':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436341291l/25558821._SX98_.jpg
-  id: 25558821
-  localCover: /embeds/books/jim-butchers-the-dresden-files-down-town.jpg
-  name: 'Jim Butcher''s The Dresden Files: Down Town'
-  url: /book/show/25558821.jim-butchers-the-dresden-files-down-town
-'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering Storm':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348528100l/4961959.jpg
-  id: 4961959
-  localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-1-the-gathering-storm.jpg
-  name: 'Jim Butcher''s The Dresden Files: Storm Front, Volume 1: The Gathering Storm'
-  url: /book/show/4961959.jim-butchers-the-dresden-files-storm-front-volume-1-the-gathering-storm
-'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252._SX98_.jpg
-  id: 6285252
-  localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom.jpg
-  name: 'Jim Butcher''s The Dresden Files: Storm Front, Volume 2: Maelstrom'
-  url: /book/show/6285252.jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom
-'Jim Butcher''s The Dresden Files: War Cry':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412295629l/23137382._SX98_.jpg
-  id: 23137382
-  localCover: /embeds/books/jim-butchers-the-dresden-files-war-cry.jpg
-  name: 'Jim Butcher''s The Dresden Files: War Cry'
-  url: /book/show/23137382.jim-butchers-the-dresden-files-war-cry
-'Jim Butcher''s The Dresden Files: Wild Card':
-  author: Jim Butcher
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471510514l/30272307._SX98_.jpg
-  id: 30272307
-  localCover: /embeds/books/jim-butchers-the-dresden-files-wild-card.jpg
-  name: 'Jim Butcher''s The Dresden Files: Wild Card'
-  series: Series Omnibus, Signed Limited Edition
-  series_index: null
-  url: /book/show/30272307.jim-butchers-the-dresden-files-wild-card
 Jingo:
   author: Terry Pratchett
   cover: https://images.gr-assets.com/books/1327921813l/47990.jpg
@@ -4380,24 +4414,6 @@ Necroscope:
   series: Necroscope
   series_index: 1
   url: /book/show/66655.necroscope
-'Necroscope IV: Deadspeak':
-  author: Brian Lumley
-  cover: https://images.gr-assets.com/books/1439621432l/1063378.jpg
-  id: 1063378
-  localCover: /embeds/books/necroscope-iv-deadspeak.jpg
-  name: 'Necroscope IV: Deadspeak'
-  series: Necroscope
-  series_index: 4
-  url: /book/show/1063378.necroscope-iv-deadspeak
-'Necroscope V: Deadspawn':
-  author: Brian Lumley
-  cover: https://images.gr-assets.com/books/1411611732l/66658.jpg
-  id: 66658
-  localCover: /embeds/books/necroscope-v-deadspawn.jpg
-  name: 'Necroscope V: Deadspawn'
-  series: Necroscope
-  series_index: 5
-  url: /book/show/66658.necroscope-v-deadspawn
 Neil Gaiman's Neverwhere:
   author: Mike Carey
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309582431l/14498._SX98_.jpg
@@ -4502,12 +4518,12 @@ Nine Princes in Amber:
   localCover: /embeds/books/no-bad-kids-toddler-discipline-without-shame.jpg
   name: 'No Bad Kids: Toddler Discipline Without Shame'
   url: /book/show/23275206.no-bad-kids-toddler-discipline-without-shame
-Nothing Left To Lose:
+Nothing Left to Lose:
   author: Dan Wells
   cover: https://images.gr-assets.com/books/1483389403l/23629844.jpg
   id: 23629844
   localCover: /embeds/books/nothing-left-to-lose.jpg
-  name: Nothing Left To Lose
+  name: Nothing Left to Lose
   series: John Cleaver
   series_index: 6
   url: /book/show/23629844.nothing-left-to-lose
@@ -5417,7 +5433,7 @@ Sherlock Holmes and the Miskatonic Monstrosities:
   id: 34437871
   localCover: /embeds/books/sherlock-holmes-and-the-miskatonic-monstrosities.jpg
   name: Sherlock Holmes and the Miskatonic Monstrosities
-  series: The Cthulhu Casebooks
+  series: James Lovegrove's Sherlock Holmes
   series_index: 2
   url: /book/show/34437871.sherlock-holmes-and-the-miskatonic-monstrosities
 Sherlock Holmes and the Shadwell Shadows:
@@ -5426,7 +5442,7 @@ Sherlock Holmes and the Shadwell Shadows:
   id: 29236245
   localCover: /embeds/books/sherlock-holmes-and-the-shadwell-shadows.jpg
   name: Sherlock Holmes and the Shadwell Shadows
-  series: The Cthulhu Casebooks
+  series: James Lovegrove's Sherlock Holmes
   series_index: 1
   url: /book/show/29236245.sherlock-holmes-and-the-shadwell-shadows
 Shock Wave:
@@ -5618,7 +5634,7 @@ Sons of the Oak:
   id: 144113
   localCover: /embeds/books/sons-of-the-oak.jpg
   name: Sons of the Oak
-  series: Runelords
+  series: The Runelords
   series_index: 5
   url: /book/show/144113.sons-of-the-oak
 Soul Music:
@@ -5721,62 +5737,6 @@ Staked:
   series: The Iron Druid Chronicles
   series_index: 8
   url: /book/show/16280689.staked
-'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine':
-  author: Charles Soule
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359653l/35009957._SX98_.jpg
-  id: 35009957
-  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine.jpg
-  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine'
-  url: /book/show/35009957.star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine
-'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 2: Legacy''s End':
-  author: Charles Soule
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359658l/36040437._SX98_.jpg
-  id: 36040437
-  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end.jpg
-  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 2: Legacy''s End'
-  url: /book/show/36040437.star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end
-'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 3: The Burning Seas':
-  author: Charles Soule
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534313610l/39668120._SX98_.jpg
-  id: 39668120
-  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas.jpg
-  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 3: The Burning Seas'
-  url: /book/show/39668120.star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas
-'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 4: Fortress Vader':
-  author: Charles Soule
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544824160l/40652555._SX98_.jpg
-  id: 40652555
-  localCover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader.jpg
-  name: 'Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 4: Fortress Vader'
-  url: /book/show/40652555.star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader
-'Star Wars: Darth Vader, Vol. 1: Vader':
-  author: Kieron Gillen
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359589l/24819813._SX98_.jpg
-  id: 24819813
-  localCover: /embeds/books/star-wars-darth-vader-vol-1-vader.jpg
-  name: 'Star Wars: Darth Vader, Vol. 1: Vader'
-  url: /book/show/24819813.star-wars-darth-vader-vol-1-vader
-'Star Wars: Darth Vader, Vol. 2: Shadows and Secrets':
-  author: Kieron Gillen
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359594l/25861679._SX98_.jpg
-  id: 25861679
-  localCover: /embeds/books/star-wars-darth-vader-vol-2-shadows-and-secrets.jpg
-  name: 'Star Wars: Darth Vader, Vol. 2: Shadows and Secrets'
-  url: /book/show/25861679.star-wars-darth-vader-vol-2-shadows-and-secrets
-'Star Wars: Darth Vader, Vol. 3: The Shu-Torun War':
-  author: Kieron Gillen
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359603l/28118847._SX98_.jpg
-  id: 28118847
-  localCover: /embeds/books/star-wars-darth-vader-vol-3-the-shu-torun-war.jpg
-  name: 'Star Wars: Darth Vader, Vol. 3: The Shu-Torun War'
-  url: /book/show/28118847.star-wars-darth-vader-vol-3-the-shu-torun-war
-'Star Wars: Darth Vader, Vol. 4: End of Games':
-  author: Kieron Gillen
-  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525359613l/29467582._SX98_.jpg
-  id: 29467582
-  localCover: /embeds/books/star-wars-darth-vader-vol-4-end-of-games.jpg
-  name: 'Star Wars: Darth Vader, Vol. 4: End of Games'
-  url: /book/show/29467582.star-wars-darth-vader-vol-4-end-of-games
 'Stargate Universe Vol. 1: Back to Destiny':
   author: Mark L. Haynes
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538621695l/42153109._SY475_.jpg
@@ -5850,6 +5810,27 @@ Storm Front:
   series: The Dresden Files
   series_index: 1
   url: /book/show/47212.storm-front
+'Storm Front Vol 1 #2':
+  author: Mark Powers
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252.jpg
+  id: 22394962
+  localCover: /embeds/books/jim-butchers-dresden-files-storm-front-vol-1-2.jpg
+  name: 'Storm Front Vol 1 #2'
+  url: /book/show/22394962.jim-butchers-dresden-files-storm-front-vol-1-2
+'Storm Front, Volume 1: The Gathering Storm':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348528100l/4961959.jpg
+  id: 4961959
+  localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-1-the-gathering-storm.jpg
+  name: 'Storm Front, Volume 1: The Gathering Storm'
+  url: /book/show/4961959.jim-butchers-the-dresden-files-storm-front-volume-1-the-gathering-storm
+'Storm Front, Volume 2: Maelstrom':
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320427232l/6285252._SX98_.jpg
+  id: 6285252
+  localCover: /embeds/books/jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom.jpg
+  name: 'Storm Front, Volume 2: Maelstrom'
+  url: /book/show/6285252.jim-butchers-the-dresden-files-storm-front-volume-2-maelstrom
 Sufficiently Advanced Magic:
   author: Andrew Rowe
   cover: https://images.gr-assets.com/books/1488182235l/34403860.jpg
@@ -5988,6 +5969,11 @@ The Amber Spyglass:
   series: His Dark Materials
   series_index: 3
   url: /book/show/18122.the-amber-spyglass
+The American Woman in the Chinese Hat:
+  author: Carole Maso
+  id: 153597
+  name: The American Woman in the Chinese Hat
+  url: /book/show/153597.the-american-woman-in-the-chinese-hat
 The Amulet of Samarkand:
   author: Jonathan Stroud
   cover: https://images.gr-assets.com/books/1327877926l/334123.jpg
@@ -6979,7 +6965,7 @@ The Lair of Bones:
   author: David Farland
   id: 144110
   name: The Lair of Bones
-  series: Runelords
+  series: The Runelords
   series_index: 4
   url: /book/show/144110.the-lair-of-bones
 The Last Battle:
@@ -7251,12 +7237,12 @@ The Midnight Library:
   localCover: /embeds/books/the-midnight-library.jpg
   name: The Midnight Library
   url: /book/show/52578297.the-midnight-library
-'The Mysterious Benedict Society':
+The Mysterious Benedict Society:
   author: Trenton Lee Stewart
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529611235l/40605329._SX98_.jpg
   id: 40605329
   localCover: /embeds/books/the-mysterious-benedict-society.jpg
-  name: 'The Mysterious Benedict Society'
+  name: The Mysterious Benedict Society
   series: The Mysterious Benedict Society
   series_index: 1
   url: /book/show/40605329.the-mysterious-benedict-society
@@ -7440,7 +7426,7 @@ The Runelords:
   id: 144127
   localCover: /embeds/books/the-runelords.jpg
   name: The Runelords
-  series: Runelords
+  series: The Runelords
   series_index: 1
   url: /book/show/144127.the-runelords
 The Scorpio Races:
@@ -7850,7 +7836,7 @@ The Wyrmling Horde:
   id: 2956822
   localCover: /embeds/books/the-wyrmling-horde.jpg
   name: The Wyrmling Horde
-  series: Runelords
+  series: The Runelords
   series_index: 7
   url: /book/show/2956822.the-wyrmling-horde-runelords-7
 The Yellow House Mystery:
@@ -8295,6 +8281,13 @@ Vortex:
   series: Spin Saga
   series_index: 3
   url: /book/show/9359796.vortex
+War Cry:
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412295629l/23137382._SX98_.jpg
+  id: 23137382
+  localCover: /embeds/books/jim-butchers-the-dresden-files-war-cry.jpg
+  name: War Cry
+  url: /book/show/23137382.jim-butchers-the-dresden-files-war-cry
 Warbound:
   author: Larry Correia
   cover: https://images.gr-assets.com/books/1359402972l/16130317.jpg
@@ -8363,6 +8356,15 @@ Welcome to Night Vale:
   series: Welcome to Night Vale
   series_index: 1
   url: /book/show/23129410.welcome-to-night-vale
+Welcome to the Jungle:
+  author: Jim Butcher
+  cover: https://images.gr-assets.com/books/1320418408l/2637138.jpg
+  id: 2637138
+  localCover: /embeds/books/jim-butchers-dresden-files-welcome-to-the-jungle.jpg
+  name: Welcome to the Jungle
+  series: The Dresden Files Graphic Novels
+  series_index: 0.5
+  url: /book/show/2637138.jim-butchers-dresden-files-welcome-to-the-jungle
 What If? Serious Scientific Answers to Absurd Hypothetical Questions:
   author: Randall Munroe
   cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SX98_.jpg
@@ -8452,6 +8454,15 @@ Whitechapel Gods:
   series: The Wicked Years
   series_index: 1
   url: /book/show/37442.wicked-the-life-and-times-of-the-wicked-witch-of-the-west
+Wild Card:
+  author: Jim Butcher
+  cover: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471510514l/30272307._SX98_.jpg
+  id: 30272307
+  localCover: /embeds/books/jim-butchers-the-dresden-files-wild-card.jpg
+  name: Wild Card
+  series: Series Omnibus, Signed Limited Edition
+  series_index: null
+  url: /book/show/30272307.jim-butchers-the-dresden-files-wild-card
 Wild Cards:
   author: George R.R. Martin
   cover: https://images.gr-assets.com/books/1375859477l/147908.jpg
@@ -8503,7 +8514,7 @@ Wizardborn:
   id: 144109
   localCover: /embeds/books/wizardborn.jpg
   name: Wizardborn
-  series: Runelords
+  series: The Runelords
   series_index: 3
   url: /book/show/144109.wizardborn
 Wolves of the Calla:
@@ -8548,7 +8559,7 @@ Worldbinder:
   id: 144116
   localCover: /embeds/books/worldbinder.jpg
   name: Worldbinder
-  series: Runelords
+  series: The Runelords
   series_index: 6
   url: /book/show/144116.worldbinder
 Worlds' End:

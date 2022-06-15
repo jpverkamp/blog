@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/black-panther.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/black-panther.jpg" >}}
 
 That's a very solid movie. The casting is top notch, the style is wonderfully afrofuturistic, and the plot/motivation is interesting enough. 
 

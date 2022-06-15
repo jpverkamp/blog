@@ -14,7 +14,7 @@ I made it*!
 The two exceptions:
 
 * Per the rules, you can replace one square. I never quite did the book club thing, so I replaced 'r/Fantasy Book Club (Hard: with participation)' with a previous square: 'Sequel: Not the First Book in the Series (2017)'. 
-* [Black Sun]({{<ref "2022-03-29-black-sun">}}) meets 'Trans or Nonbinary', but I misread the recommendation thread before I started: xe is not a protagonist. It's still a wonderful book and I'm glad to have read it, but I didn't have time to read another book for this square. I'll try to catch one [next time around]({{<ref "2022-04-01-book-bingo">}}). 
+* {{<crosslink "Black Sun">}} meets 'Trans or Nonbinary', but I misread the recommendation thread before I started: xe is not a protagonist. It's still a wonderful book and I'm glad to have read it, but I didn't have time to read another book for this square. I'll try to catch one [next time around]({{<ref "2022-04-01-book-bingo">}}). 
 
 Also:
 

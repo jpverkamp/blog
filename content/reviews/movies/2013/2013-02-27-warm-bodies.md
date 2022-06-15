@@ -3,9 +3,8 @@ title: Warm Bodies
 date: 2013-02-27 04:55:16
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/warm-bodies.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/warm-bodies.jpg" >}}
-
 I'm not sure that a year ago I would have ever thought that a zomromcom could possibly be a thing. There's just something about zombies... Zombies are supposed to be mindless killing machines. They're supposed to be an analogue for the darker aspects of mindless mobs, a swarming mass that protagonists can mow down by the dozen without feelings of remorse. They're not supposed to fall in love.
 
 <!--more-->

@@ -3,9 +3,8 @@ title: Beautiful Creatures
 date: 2013-02-17 05:55:58
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/beautiful-creatures.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/beautiful-creatures.jpg" >}}
-
 Beautiful Creatures is everything that Twilight wishes it could have been.
 
 <!--more-->

@@ -7,8 +7,8 @@ reviews/series:
 - Pixar
 source: 
 - Disney+
+cover: /embeds/movies/finding-nemo.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/finding-nemo.jpg" >}}
 
 Finding Nemo is a delightful children's movie. It's the story of a worrying dad (Marlin), a son (Nemo) trying to grow into his own self, the trouble that causes, and the lengths family can go through for one another. 
 

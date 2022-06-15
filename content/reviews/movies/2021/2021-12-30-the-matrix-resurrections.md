@@ -7,12 +7,14 @@ source:
 - HBOMax
 reviews/series:
 - The Matrix
+cover: /embeds/movies/the-matrix-resurrections.jpg
+series_index: [3]
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-matrix-resurrections.jpg" >}}
-
 > Whoa.
 
 Well that's a blast of nostalgia, a bunch of mind-bending meta universe building, some awesome new characters, a few solid action scenes, and overall quite an action movie. I loved it.
+
+<!--more-->
 
 It's been more than 20 years. I have seen the original Matrix more times than I can easily remember and loved both sequels (even if they didn't shine quite as bright). When they said they were making another one... I had no idea how in the world they were going to make that *possibly* work. But you know what? I think they pulled it off--in a way only a Matrix movie really could have.
 

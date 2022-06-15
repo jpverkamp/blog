@@ -5,8 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - HBOMax
+cover: /embeds/movies/space-jam-a-new-legacy.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/space-jam-a-new-legacy.jpg" >}}
 
 > Bugs Bunny: So, you want me, a talking cartoon bunny, to play with you, an NBA superstar, in a high-stakes basketball game? 
 > 

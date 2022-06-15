@@ -3,9 +3,8 @@ title: I, Frankenstein (DVD)
 date: 2014-11-01
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/i-frankenstein.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/i-frankenstein.jpg" >}}
-
 Wait, is it <a href="http://www.imdb.com/title/tt0320691/?ref_=fn_al_tt_1">2003 again</a>?
 
 <!--more-->

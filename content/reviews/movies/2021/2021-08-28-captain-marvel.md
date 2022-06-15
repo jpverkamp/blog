@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/captain-marvel.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/captain-marvel.jpg" >}}
 
 Captain Marvel is a bit of an odd movie. It's a straight up superhero origin story with a bit more of a cosmic twist than many we've seen (other than Guardians of the Galaxy... and Thor...) It's something of a prequel--in that it's chronologically set before any of the other Marvel movies other than the beginning of Captain America. It's got a hero in Captain Marvel with a grab bag of vaguely defined glowy energy powers with memory issues who has to go on a journey and power up to her final form. 
 

@@ -4,7 +4,7 @@
         {{- if index $.Site.Data.goodreads.series $series -}}
             {{- range $index, $book := index (index $.Site.Data.goodreads.series $series) "books" -}}
                 {{- if (eq $book $.Page.Title) }}
-                    (<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>)
+                    [<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>]
                 {{- end -}}
             {{- end -}}
         {{/* Non books are in data/otherseries.yaml" */}}

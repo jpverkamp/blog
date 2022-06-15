@@ -3,9 +3,8 @@ title: The Hunger Games
 date: 2012-03-30 16:55:05
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/hunger-games.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/hunger-games.jpg" >}}
-
 I have a confession to make. I have not read the Hunger Games books. That being said, most everyone that I know has so when they wanted to go see the Hunger Games, I went along with them.
 
 <!--more-->

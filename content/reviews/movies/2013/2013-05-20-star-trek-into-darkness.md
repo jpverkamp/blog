@@ -3,9 +3,8 @@ title: Star Trek Into Darkness
 date: 2013-05-20 04:55:30
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/star-trek-into-darkness.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-trek-into-darkness.jpg" >}}
-
 A few years ago, I decided that I was doing myself a disservice as a self-identified geek[^1]: of Star Trek, I'd only seen Voyager and a few of the movies. Of course I had to remedy that fact. :smile:
 
 Over the course of a summer, I watched it all[^2]. 10 movies. 3 seasons of {{< wikipedia page="Star Trek: The Original Series" text="The Original Series" >}}; 7 seasons each of {{< wikipedia page="List of Star Trek: The Next Generation episodes" text="The Next Generation" >}}, {{< wikipedia page="List of Star Trek: Deep Space Nine episodes" text="Deep Space Nine" >}}, and {{< wikipedia page="List of Star Trek: Voyager episodes" text="Voyager" >}}[^3]; and finally the 4 seasons of {{< wikipedia page="Star Trek: Enterprise" text="Enterprise" >}}. Yet, I still don't consider myself a Trekkie ({{< wikipedia page="Trekie#Trekkie vs. Trekker" text="or a Trekker" >}}).

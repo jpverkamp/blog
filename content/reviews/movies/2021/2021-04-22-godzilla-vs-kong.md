@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - HBOMax
+cover: /embeds/movies/godzilla-vs-kong.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/godzilla-vs-kong.jpg" >}}
-
 You know, that was more enjoyable than I think it had any right to be. It's the sort of movie that would have been far more spectacular on a big screen, but I haven't been to the theaters in a while, so I'll take smaller. 
 
 All around, it's a visual delight. Transporting Kong is hilarious looking. The Hollow Earth is an insane idea, but it's a beautiful world and all of those big beasties to fight are a lot of fun to see. <spoiler>Mechagodzilla</spoiler> makes even less sense than a lot of the movie / other human ways to fight the monsters. But once again, it makes for a wonderful visual. 

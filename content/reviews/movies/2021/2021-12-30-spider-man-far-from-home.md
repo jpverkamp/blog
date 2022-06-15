@@ -6,8 +6,8 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+cover: /embeds/movies/spider-man-far-from-home.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/spider-man-far-from-home.jpg" >}}
 
 As much as I loved {{< crosslink "Spider-Man: Homecoming" >}}, Spider-Man: Far From Home takes what made it great and turns it up a few levels *even further*.
 

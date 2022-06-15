@@ -3,9 +3,8 @@ title: Man of Steel
 date: 2013-07-17 04:55:51
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/man-of-steel.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/man-of-steel.jpg" >}}
-
  Dang.
 
 I went to see Man of Steel mostly because I knew it's on the way out of theaters. What I really want to see is Pacific Rim, but I feel like I have a few weeks for that.

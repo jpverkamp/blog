@@ -8,9 +8,8 @@ reviews/series:
 - MCU Phase 1
 source:
 - Disney+
+cover: /embeds/movies/the-incredible-hulk.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-incredible-hulk.jpg" >}}
-
 > Bruce Banner: [in a poor Portuguese] Don't make me hungry. You wouldn't like me when I'm hungry.
 > 
 > Tough Guy Leader: [in Portuguese] What the hell he is talking about?

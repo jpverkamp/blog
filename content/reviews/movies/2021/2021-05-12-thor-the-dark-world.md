@@ -8,9 +8,8 @@ reviews/series:
 - MCU Phase 2
 source:
 - Disney+
+cover: /embeds/movies/thor-the-dark-world.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/thor-the-dark-world.jpg" >}}
-
 One problem that comic book universes in general and the MCU in specific have always had is that of scale. How in the world do you have a man in a suit, a literal 'god', a rage monster, a super soldier, and a couple ... regular people ever interact on the same scale? For the most part, it's hand waved away. Everyone is paired up with an opponent of roughly the same power level and we move on with our lives. 
 
 No where those is this contrast more apparent than in the Universe of Thor. The people of Asgard are supposed to be gods. They live thousands of years. We've seen them shrug off some pretty crazy weapons. And yet here they are, dying to spears and falling rocks. It just doesn't make any sense. 

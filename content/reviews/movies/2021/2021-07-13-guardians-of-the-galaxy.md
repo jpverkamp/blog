@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 2
 source:
 - Disney+
+cover: /embeds/movies/guardians-of-the-galaxy.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/guardians-of-the-galaxy.jpg" >}}
 
 I had forgotten just how *fun* Guardians of the Galaxy is. Back when I [first reviewed it in 2014]({{< ref "2014-08-05-guardians-of-the-galaxy" >}}), it surprised me with how different it was and just how much it opened up the Marvel Universe. Well, we've seen some pretty crazy things since then (Thor Ragnarok springs to mind), but it's still a pretty crazy movie. I mean, come on. It's a man obsessed with classic rock, a badass green woman assassin, an overly literal shirtless wrestler, a cybernetically enhanced racoon, and a speaking tree [^iamgroot] [^wearegroot]. Add in the first real hints of the Infinity Stones, Thanos as the continuing 'bigger bad', and you have a pretty impactful movie. 
 

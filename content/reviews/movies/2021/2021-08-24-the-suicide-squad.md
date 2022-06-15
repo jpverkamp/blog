@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - HBOMax
+cover: /embeds/movies/the-suicide-squad.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-suicide-squad.jpg" >}}
-
 Oh, that is a glorious movie. Exactly what an R rated half-satirical superhero movie should be. 
 
 I haven't actually seen the first Suicide Squad or Birds of Prey (yet), so it's not quite as strange that they apparently kept some of the characters/actors while ignoring some events and keeping others. Other than that... it's just so enjoyable. 

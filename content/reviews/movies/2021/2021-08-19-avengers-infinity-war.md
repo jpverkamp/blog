@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/avengers-infinity-war.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/avengers-infinity-war.jpg" >}}
 
 All that. Ten years. 18 movies. Dozens of huge name actors and crossovers, all leading to this. {{< crosslink "The Avengers" >}} gave us a team up, but Infinity War turned it all up to 11. The battle scenes are insane (especially that final battle in Wakanda, especially especially the return of Thor), the villain--Josh Brolin as Thanos--is powerful and {{< spoiler >}}ACTUALLY GETS A CHANCE TO WIN{{</ spoiler >}}, and I absolutely love seeing the interplay between all of the characters.
 

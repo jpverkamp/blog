@@ -3,9 +3,8 @@ title: Cloud Atlas
 date: 2012-11-06 04:00:20
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/cloud-atlas.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/cloud-atlas.jpg" >}}
-
 I wanted to make sure that I caught Cloud Atlas while it was in theaters, so that meant that I pretty much had to go this week. Between the 23 local screens, only 1 is still showing it and that only for three showings per day. I give it until the end of the week, maybe next week at tops before it's gone.
 
 <!--more-->

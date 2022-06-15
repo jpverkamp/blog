@@ -3,9 +3,8 @@ title: "Nutcracker"
 date: 2021-12-11
 reviews/lists:
 - 2021 Movie Reviews
+cover: /embeds/movies/nutcracker.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/nutcracker.jpg" >}}
-
 Well that's a truly bizarre adaptation of the Nutcracker. Or I suppose all of the other versions are bizarre, given that this is supposed to be as 'close as possible' to the original Maurice Sendak version. 
 
 <!--more-->

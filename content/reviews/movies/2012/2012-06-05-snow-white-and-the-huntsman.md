@@ -3,9 +3,8 @@ title: Snow White and the Huntsman
 date: 2012-06-05 04:55:16
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/snow-white.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/snow-white.jpg" >}}
-
 Oof. I guess it was pretty. That's something. There were some really technically impressive scenes, like the stag and the dwarves and the glittery mirror warrior things.
 
 <!--more-->

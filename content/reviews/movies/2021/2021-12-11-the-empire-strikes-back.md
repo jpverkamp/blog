@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-v---the-empire-strikes-back.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-v---the-empire-strikes-back.jpg" >}}
-
 Woo! Big icy battles on land in and the sky/space around Hoth, training with a real (short) Jedi Master (and they're all supposed to be dead), meetings between old friends--who may not be too thrilled about losing in cards all those years ago--another confrontation between Luke and Vadar, and the big bad reveal. Which... seriously. His name is literally {{< spoiler >}}Dark Father{{</ spoiler >}}. 
 
 <!--more-->

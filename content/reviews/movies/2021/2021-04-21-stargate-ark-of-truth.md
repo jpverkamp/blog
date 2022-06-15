@@ -8,9 +8,8 @@ reviews/series:
 - "Stargate SG-1"
 source:
 - Hoopla
+cover: /embeds/movies/stargate-the-ark-of-truth.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/stargate-the-ark-of-truth.jpg" >}}
-
 Stargate: The Ark of Truth is the first of two direct-to-video sequels to SG-1. This one picks up after the SG-1 series finale and concludes the Ori arc and throws in a number of other callbacks along the way.
 
 <blockquote>

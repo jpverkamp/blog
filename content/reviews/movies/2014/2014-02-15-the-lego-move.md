@@ -3,9 +3,8 @@ title: The Lego Movie
 date: 2014-02-15
 reviews/lists:
 - 2014 Movie Reviews
+cover: /embeds/movies/the-lego-movie.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-lego-movie.jpg" >}}
-
 ♫ Everything is awesome! ♫
 
 <!--more-->

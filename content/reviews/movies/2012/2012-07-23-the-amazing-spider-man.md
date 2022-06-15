@@ -3,9 +3,8 @@ title: The Amazing Spider-Man
 date: 2012-07-23 04:55:25
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/spider-man.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/spider-man.jpg" >}}
-
 Why do we have another Spider-Man movie? Granted, I liked it more than any of the previous three, but it just feels too soon. Of course people are going to compare it to the previous movies.
 
 <!--more-->

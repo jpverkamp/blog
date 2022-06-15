@@ -3,9 +3,8 @@ title: 'Hansel & Gretel: Witch Hunters'
 date: 2013-02-14 04:55:31
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/hansel-and-gretel.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/hansel-and-gretel.jpg" >}}
-
 *Whatever you do, don't eat the f***in' candy.
 
 <!--more-->

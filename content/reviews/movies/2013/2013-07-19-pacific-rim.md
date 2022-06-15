@@ -3,9 +3,8 @@ title: Pacific Rim
 date: 2013-07-19 04:55:19
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/pacific-rim.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/pacific-rim.jpg" >}}
-
 Pacific Rim is one heck of a movie. Just based on the trailers, we were promised giant robots, bigger monsters, rocket powered punches, and a ship turned sword. We got all of that and more in just over two hours of the best action movie I've seen in rather a while.
 
 All together, the trailers (and the associated hype) were a lot to live up to. So how did it turn out?

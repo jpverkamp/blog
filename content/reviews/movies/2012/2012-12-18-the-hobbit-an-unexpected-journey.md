@@ -3,9 +3,8 @@ title: 'The Hobbit: An Unexpected Journey'
 date: 2012-12-18 04:55:35
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/the-hobbit.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-hobbit.jpg" >}}
-
  I think the movie poster right over there is perhaps a perfect example of one my major gripes with the first new Hobbit movie:
 
 Thirteen dwarves, each with their one distinct beards (each of which reportedly cost as much as $10,000 to make) yet for the most part utterly interchangeable. The only ones of any real interest where Thorin (the leader), Balin (the old one), Bombur (the fat one), and to a lesser extent Bifur (the one with an axe on the mind). Other than that, who knows. Perhaps they'll have more distinct roles in the other two movies, although I doubt it.

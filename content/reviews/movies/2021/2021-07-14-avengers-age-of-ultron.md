@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 2
 source:
 - Disney+
+cover: /embeds/movies/avengers-age-of-ultron.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/avengers-age-of-ultron.jpg" >}}
 
 > Hawkeye: The city is flying and we're fighting an army of robots. And I have a bow and arrow. Nothing makes sense. 
 

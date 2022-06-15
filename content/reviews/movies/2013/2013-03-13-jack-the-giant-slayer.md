@@ -3,9 +3,8 @@ title: Jack the Giant Slayer
 date: 2013-03-13 03:00:44
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/jack-the-giant-slayer.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/jack-the-giant-slayer.jpg" >}}
-
 It's hard to count the number of things that went sideways in Jack the Giant Slayer.
 
 <!--more-->

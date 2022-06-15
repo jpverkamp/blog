@@ -3,9 +3,8 @@ title: 'G.I. Joe: Retaliation'
 date: 2013-04-04 04:55:12
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/gi-joe-retaliation.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/gi-joe-retaliation.jpg" >}}
-
 It's not every day that you get such a perfect example of sequelitis.
 
 <!--more-->

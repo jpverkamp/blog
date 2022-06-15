@@ -7,8 +7,8 @@ reviews/series:
 - Disney Animated
 source:
 - Disney+
+cover: /embeds/movies/the-rescuers-down-under.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-rescuers-down-under.jpg" >}}
 
 Well that's an absolute blast of childhood nostalgia. We had this movie on VHS when I was little and I remember watching the heck out of it, although I haven't otherwise seen it in decades now. Truth be told, it wasn't until recently that I realized it was even a sequel...
 

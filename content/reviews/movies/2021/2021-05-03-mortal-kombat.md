@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 Movie Reviews
 source:
 - HBOMax
+cover: /embeds/movies/mortal-kombat.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/mortal-kombat.jpg" >}}
-
 > Shang Tsung: FINISH THEM! 
 
 Mortal Kombat is an odd sort of movie. With 2 dozen games, 2 previous live action and 2 animated films, and all manner of other references and media, there's a lot of backstory going on. But really, it all comes down to some sort of otherworldly nasties coming to conquer the Earth, but they can only do so if they defeat Earth's champion(s). Other than that, it's really a vehicle for hand to hand combat of the most violent sort. 

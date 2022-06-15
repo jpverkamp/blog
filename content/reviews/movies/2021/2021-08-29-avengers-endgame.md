@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/avengers-endgame.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/avengers-endgame.jpg" >}}
 
 Wow. 
 

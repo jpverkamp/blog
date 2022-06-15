@@ -3,9 +3,8 @@ title: John Carter
 date: 2012-03-12 16:55:18
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/john-carter.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/john-carter.jpg" >}}
-
 Another year (more or less), another year of movies. I realy like going to the movies, it's a nice distraction from the grin of PhD work. And what's better, being a grad student leaves my schedule flexible enough so that I can go to the weekday matinees for a mere $5 ticket. Not too bad for ~2 hours of entertainment.
 
 <!--more-->

@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-viii---the-last-jedi.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-viii---the-last-jedi.jpg" >}}
-
 More Star Wars! I remember being... somewhat disappointed. Tonally, they got away from the nostalgia of the Force Awakens. There are still some absolutely beautiful/powerful moments (the final battles over the salt flats or whatever those were were pretty cool), but not quite as strong as it was before. And there are all sorts of things that just feel 'less magical' and more movie driven than anything. 
 
 This time around, I liked it a lot more. It still has some issues, but it's still a solid enough Star Wars movie and (in my opinion) worth watching. 

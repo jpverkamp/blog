@@ -3,9 +3,8 @@ title: Parental Guidance
 date: 2013-01-28 04:55:57
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/parental-guidance.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/parental-guidance.jpg" >}}
-
  Sometimes you just need to unwind and watch something on the sillier side of life. Parental Guidance is exactly that sort of movie.
 
 <!--more-->

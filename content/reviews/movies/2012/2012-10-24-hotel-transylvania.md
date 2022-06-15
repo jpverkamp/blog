@@ -3,9 +3,8 @@ title: Hotel Transylvania
 date: 2012-10-24 04:55:32
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/hotel-transylvania.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/hotel-transylvania.jpg" >}}
-
 It's been almost a month, so I figured I should go see another movie. Hotel Transylvania looked cute enough in the trailers, so why not.
 
 <!--more-->

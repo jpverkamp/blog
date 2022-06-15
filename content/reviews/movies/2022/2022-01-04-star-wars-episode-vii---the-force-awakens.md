@@ -7,9 +7,8 @@ reviews/series:
 - Star Wars
 source:
 - Disney+
+cover: /embeds/movies/star-wars-episode-vii---the-force-awakens.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/star-wars-episode-vii---the-force-awakens.jpg" >}}
-
 Woo, new Star Wars! I remember the hype when The Force Awakens first came out. It was pretty crazy to see new Star Wars for the first time (second time?) in years. And it's pretty dang cool. It's shinier than the original trilogy, a bit less stuck in the weeds (trade blockades!) than the prequels, and it leans *hard* on nostalgia. Overall, it's Star Wars! Could they have done something newer and more unique? Sure they could have. 
 
 But this really works. I actually ended up liking it even more than A New Hope (that being said, standing alone I wouldn't rate it nearly as highly, it only really works as a sequel) and up with the original trilogy. 

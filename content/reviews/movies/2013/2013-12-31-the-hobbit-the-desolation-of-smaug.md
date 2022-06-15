@@ -3,9 +3,8 @@ title: 'The Hobbit: The Desolation of Smaug'
 date: 2013-12-31
 reviews/lists:
 - 2013 Movie Reviews
+cover: /embeds/movies/the-hobbit-the-desolation-of-smaug.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/the-hobbit-the-desolation-of-smaug.jpg" >}}
-
 Unless something bizarre happens, this will be the last movie of the year. Fitting, since a year and change ago, [the Hobbit]({{< ref "2012-12-18-the-hobbit-an-unexpected-journey.md" >}}) was my last film of 2012[^1]
 
 <!--more-->

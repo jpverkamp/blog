@@ -8,8 +8,8 @@ reviews/series:
 - MCU Phase 3
 source:
 - Disney+
+cover: /embeds/movies/guardians-of-the-galaxy-vol-2.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/guardians-of-the-galaxy-vol-2.jpg" >}}
 
 After the surprisingly awesome {{< crosslink "Guardians of the Galaxy" >}}, it was really a question of: could they do it again? The answer, a resounding... sort of?
 

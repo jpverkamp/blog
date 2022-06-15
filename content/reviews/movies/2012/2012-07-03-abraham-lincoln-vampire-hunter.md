@@ -3,9 +3,8 @@ title: 'Abraham Lincoln: Vampire Hunter'
 date: 2012-07-03 04:55:34
 reviews/lists:
 - 2012 Movie Reviews
+cover: /embeds/movies/abraham-lincoln.jpg
 ---
-{{< figure class="cover-image" src="/embeds/movies/abraham-lincoln.jpg" >}}
-
 Fun idea at least and although it had some problems in execution, I enjoyed it well enough. The action scenes were neat, particularly the flaming ax-fu of firey doom (which they could have used more of).
 
 <!--more-->

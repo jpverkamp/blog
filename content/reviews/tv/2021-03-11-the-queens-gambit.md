@@ -5,9 +5,8 @@ reviews/lists:
 - 2021 TV Reviews
 source:
 - Netflix
+cover: /embeds/tv/the-queens-gambit.jpg
 ---
-{{< figure class="cover-image" src="/embeds/tv/the-queens-gambit.jpg" >}}
-
 A TV show about chess set in the 1960s? How good could that even be?
 
 Turns out: very very good.
