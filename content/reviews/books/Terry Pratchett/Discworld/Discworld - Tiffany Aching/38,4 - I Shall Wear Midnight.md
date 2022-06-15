@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Tiffany Aching
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 7576115
+goodreads_id: 7576115
 cover: /embeds/books/i-shall-wear-midnight.jpg
-book/isbn: 0385611072
-book/isbn13: '9780385611077'
+isbn: 0385611072
+isbn13: '9780385611077'
 rating: 5
-book/pages: 349
+page_count: 349
 series_index: [38, 4]
 ---
 Tiffany Aching is back! Now she's a full witch, out on her own.  

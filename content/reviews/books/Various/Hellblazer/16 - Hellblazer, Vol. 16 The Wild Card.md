@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Mike Carey
-book/goodreads_id: 32018137
+goodreads_id: 32018137
 cover: /embeds/books/hellblazer-vol-16-the-wild-card.jpg
-book/isbn: '1401269095'
-book/isbn13: '9781401269098'
+isbn: '1401269095'
+isbn13: '9781401269098'
 rating: 4
-book/pages: 328
+page_count: 328
 series_index: [16]
 ---
 A crazy bloody mess with some old friends in the longer stories and a few neat bits in the short ones. But more of Angela and Gemma. 

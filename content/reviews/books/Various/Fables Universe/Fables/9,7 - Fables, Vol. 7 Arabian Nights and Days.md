@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21327
+goodreads_id: 21327
 cover: /embeds/books/fables-vol-7-arabian-nights.jpg
-book/isbn: '1401210007'
-book/isbn13: '9781401210007'
+isbn: '1401210007'
+isbn13: '9781401210007'
 rating: 4
-book/pages: 146
+page_count: 146
 series_index: [7, 9]
 ---
 ![Fables-7-01-Still-out-there](/embeds/books/attachments/fables-7-01-still-out-there.jpg)  

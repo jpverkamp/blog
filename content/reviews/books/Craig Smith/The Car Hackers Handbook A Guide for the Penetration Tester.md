@@ -6,12 +6,12 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Craig Smith
-book/goodreads_id: 26526472
+goodreads_id: 26526472
 cover: /embeds/books/the-car-hackers-handbook-a-guide-for-the-penetration-tester.jpg
-book/isbn: '1593277032'
-book/isbn13: '9781593277031'
+isbn: '1593277032'
+isbn13: '9781593277031'
 rating: 3
-book/pages: 304
+page_count: 304
 ---
 > A car can be a daunting hacking target. Most cars don’t come with a keyboard and login prompt, but they do come with a possibly unfamiliar array of protocols, CPUs, connectors, and operating systems. This book will demystify the common components in cars and introduce you to readily available tools and information to help get you started. By the time you’ve finished reading the book, you’ll understand that a car is a collection of connected computers—there just happen to be wheels attached. Armed with appropriate tooling and information, you’ll have the confidence to get hacking.
 

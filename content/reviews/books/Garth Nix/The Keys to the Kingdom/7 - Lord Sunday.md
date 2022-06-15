@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 6657648
+goodreads_id: 6657648
 cover: /embeds/books/lord-sunday.jpg
-book/isbn: 0439700906
-book/isbn13: '9780439700900'
+isbn: 0439700906
+isbn13: '9780439700900'
 rating: 4
-book/pages: 320
+page_count: 320
 series_index: [7]
 ---
 Overall, everything I was hoping for in an ending to the series.  

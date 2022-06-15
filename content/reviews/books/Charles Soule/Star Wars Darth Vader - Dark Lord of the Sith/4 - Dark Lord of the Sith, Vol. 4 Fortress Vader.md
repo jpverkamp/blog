@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 reviews/authors:
 - Charles Soule
-book/goodreads_id: 40652555
+goodreads_id: 40652555
 cover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-4-fortress-vader.jpg
-book/isbn: '1302910574'
-book/isbn13: '9781302910570'
+isbn: '1302910574'
+isbn13: '9781302910570'
 rating: 4
-book/pages: 168
+page_count: 168
 series_index: [4]
 ---
 There's a lot of interesting world building in this one, from a mask inhabited by a Sith Ghost (more or less; something we could use more of now that we know how often the Jedi do this), portals to a possible world beyond death, more hunting down Jedi, and Vader's fortress--which I barely remember as a thing anyways.  

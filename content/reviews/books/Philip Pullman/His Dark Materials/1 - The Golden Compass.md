@@ -8,12 +8,12 @@ reviews/series:
 - His Dark Materials
 reviews/authors:
 - Philip Pullman
-book/goodreads_id: 119322
+goodreads_id: 119322
 cover: /embeds/books/the-golden-compass.jpg
-book/isbn: 0679879242
-book/isbn13: '9780679879244'
+isbn: 0679879242
+isbn13: '9780679879244'
 rating: 5
-book/pages: 399
+page_count: 399
 series_index: [1]
 ---
 I've read {{< goodreads book="The Golden Compass" >}} before, but it's been a few years. On top of that, this time around, I listened to it as an audiobook (the full cast reading, I'm not sure if there is another). I have fond memories of this book and for the most part, they were met on re-read, which is something you don't always get.  

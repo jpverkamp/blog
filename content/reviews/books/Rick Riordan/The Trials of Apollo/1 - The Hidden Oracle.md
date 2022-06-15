@@ -8,12 +8,12 @@ reviews/series:
 - The Trials of Apollo
 reviews/authors:
 - Rick Riordan
-book/goodreads_id: 26252859
+goodreads_id: 26252859
 cover: /embeds/books/the-hidden-oracle.jpg
-book/isbn: 148473274X
-book/isbn13: '9781484732748'
+isbn: 148473274X
+isbn13: '9781484732748'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [1]
 ---
 {{< goodreads book="The Hidden Oracle" >}} is an odd book. As a second sequel series to first {{< goodreads book="The Lightning Thief" text="Percy Jackson and the Olympians" >}} and then the {{< goodreads book="The Lost Hero" text="Heroes of Olympus" >}}, we do get new main characters characters: Apollo, now in mortal form and Meg, surprisingly powerful plant magic demigod with some cool Roman swords. But we also get a number of guest appearances and references to previous characters: especially Percy Jackson himself.  

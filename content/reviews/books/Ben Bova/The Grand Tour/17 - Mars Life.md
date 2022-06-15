@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 908284
+goodreads_id: 908284
 cover: /embeds/books/mars-life.jpg
-book/isbn: 0765317877
-book/isbn13: '9780765317872'
+isbn: 0765317877
+isbn13: '9780765317872'
 rating: 4
-book/pages: 432
+page_count: 432
 series_index: [17]
 ---
 {{< goodreads book="Mars Life" >}} continues the story set out in {{< goodreads book="Mars" >}} and {{< goodreads book="Return to Mars" >}}, with much the same setting and characters (particularly of the latter). Seventeen books in, there's little particularly surprising about Mars Life, but it's still a solid enough entry to the series.  

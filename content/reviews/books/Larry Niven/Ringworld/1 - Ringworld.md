@@ -8,12 +8,12 @@ reviews/series:
 - Ringworld
 reviews/authors:
 - Larry Niven
-book/goodreads_id: 61179
+goodreads_id: 61179
 cover: /embeds/books/ringworld.jpg
-book/isbn: '0575077026'
-book/isbn13: '9780575077027'
+isbn: '0575077026'
+isbn13: '9780575077027'
 rating: 3
-book/pages: 288
+page_count: 288
 series_index: [1]
 ---
 Ringworld is a pretty much the poster child for the hard science fiction 'big dumb object' novel. In that way, it's very similar to the first of the Rama series (actually published 3 years later;  ). It's light on plot and characterization, instead opting to spend much of the novel on the titular Ringworld itself.  

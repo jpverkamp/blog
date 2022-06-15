@@ -8,10 +8,10 @@ reviews/series:
 - Chronicles of Narnia
 reviews/authors:
 - C.S. Lewis
-book/goodreads_id: 65641
+goodreads_id: 65641
 cover: /embeds/books/the-silver-chair.jpg
 rating: 5
-book/pages: 243
+page_count: 243
 series_index: [4]
 ---
 {{< goodreads book="The Silver Chair" >}} takes place a year and a lifetime after {{< goodreads book="The Voyage of the Dawn Treader" >}}. In our world, Eustace (no N apparently) has grown up slightly and is now attending a--gasp--hyper secular school[^belief]. He's still for the most part the better character he grew to be on his voyages and it's nice to see someone we've seen before. But in Narnia, his friend King Caspian is old, with a son of his own, missing for years in his own right. And of course Eustace screws up his first--and perhaps last--meeting with an old friend.  

@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 198332
+goodreads_id: 198332
 cover: /embeds/books/inca-gold.jpg
-book/isbn: 0743426800
-book/isbn13: '9780743426800'
+isbn: 0743426800
+isbn13: '9780743426800'
 rating: 4
-book/pages: 592
+page_count: 592
 series_index: [12]
 ---
 Man these are getting long. 20 hours on the audiobook. Even at 2.5x, that's a while. It probably doesn't help that every. single. time. a measurement is mentioned, it has to be converted. Is that the same in the print version? Because it's maddening...  

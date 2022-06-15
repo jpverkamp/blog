@@ -10,12 +10,12 @@ bingo-data:
   - 3x5+
 reviews/authors:
 - Philip Pullman
-book/goodreads_id: 35478763
+goodreads_id: 35478763
 cover: /embeds/books/daemon-voices.jpg
-book/isbn: '1910200964'
-book/isbn13: '9781910200964'
+isbn: '1910200964'
+isbn13: '9781910200964'
 rating: 4
-book/pages: 480
+page_count: 480
 ---
 > He is interested in the discoveries of science (“intellectual daring and imaginative brilliance without parallel”), the freedoms of democracy (in particular “the great democracy of reading and writing”), the evils of authoritarianism (“always reductive whether it’s in power or not”) and the pitfalls of education (“any education that neglects the experience of delight will be a dry and tasteless diet with no nourishment in it”). He is profoundly interested in religion, while remaining puzzled by aspects of it. “The first thing to say about the Bishop’s arguments in his book,” he writes in “God and Dust,” “is that I agree with every word of them, except the words I don’t understand; and that the words I don’t understand are those such as spirit, spiritual and God.”  
 

@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Tiffany Aching
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34494
+goodreads_id: 34494
 cover: /embeds/books/the-wee-free-men.jpg
-book/isbn: 0060012382
-book/isbn13: '9780060012380'
+isbn: 0060012382
+isbn13: '9780060012380'
 rating: 5
-book/pages: 375
+page_count: 375
 series_index: [30, 1]
 ---
 > Open your eyes and then open your eyes again.

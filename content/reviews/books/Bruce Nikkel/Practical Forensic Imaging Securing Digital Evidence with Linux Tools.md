@@ -6,12 +6,12 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Bruce Nikkel
-book/goodreads_id: 30278746
+goodreads_id: 30278746
 cover: /embeds/books/practical-forensic-imaging-securing-digital-evidence-with-linux-tools.jpg
-book/isbn: '1593277938'
-book/isbn13: '9781593277932'
+isbn: '1593277938'
+isbn13: '9781593277932'
 rating: 4
-book/pages: 324
+page_count: 324
 ---
 Odd book. Not sure what the goal of reading it is.  
 

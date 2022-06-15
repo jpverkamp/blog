@@ -8,12 +8,12 @@ reviews/series:
 - Near Space
 reviews/authors:
 - Allen Steele
-book/goodreads_id: 900932
+goodreads_id: 900932
 cover: /embeds/books/orbital-decay.jpg
-book/isbn: 0441498515
-book/isbn13: '9780441498512'
+isbn: 0441498515
+isbn13: '9780441498512'
 rating: 3
-book/pages: 324
+page_count: 324
 series_index: [1]
 ---
 This took me a while to get through. It's not because it's bad, more like it just feels a bit dated.  

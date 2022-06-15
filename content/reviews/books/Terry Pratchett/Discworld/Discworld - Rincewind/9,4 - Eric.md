@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Rincewind
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 64218
+goodreads_id: 64218
 cover: /embeds/books/eric.jpg
-book/isbn: 0380821214
-book/isbn13: '9780380821211'
+isbn: 0380821214
+isbn13: '9780380821211'
 rating: 3
-book/pages: 197
+page_count: 197
 series_index: [9, 4]
 ---
 Eric is an amusing enough story and an interesting continuation of Rincewind's story, after the events back in Sourcery. Not entirely long story slightly shorter, Rincewind gets accidently summoned by a budding 14 year old summoner. Unfortunately for all involved, this seems to actually grant him some demonic powers... and hijinks ensue.  

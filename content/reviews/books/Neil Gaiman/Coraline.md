@@ -6,12 +6,12 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 17061
+goodreads_id: 17061
 cover: /embeds/books/coraline.jpg
-book/isbn: 0061139378
-book/isbn13: '9780061139376'
+isbn: 0061139378
+isbn13: '9780061139376'
 rating: 5
-book/pages: 162
+page_count: 162
 ---
 Before I ever read Coraline, I watched the movie and read {{< goodreads book="American Gods" >}}. I quite enjoyed the former, while the latter was... not exactly my favorite. So I was cautiously optimistic that I would like Coraline.  
 

@@ -8,12 +8,12 @@ reviews/series:
 - Shades of Magic
 reviews/authors:
 - V.E. Schwab
-book/goodreads_id: 20764879
+goodreads_id: 20764879
 cover: /embeds/books/a-gathering-of-shadows.jpg
-book/isbn: '0765376474'
-book/isbn13: '9780765376473'
+isbn: '0765376474'
+isbn13: '9780765376473'
 rating: 5
-book/pages: 512
+page_count: 512
 series_index: [2]
 ---
 >  “Oh yes, your relationship with Miss Bard is positively ordinary."  

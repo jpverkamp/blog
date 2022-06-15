@@ -9,10 +9,10 @@ reviews/series:
 - Shift
 reviews/authors:
 - Hugh Howey
-book/goodreads_id: 16183060
+goodreads_id: 16183060
 cover: /embeds/books/third-shift-pact.jpg
 rating: 4
-book/pages: 277
+page_count: 277
 series_index: [0, 3]
 ---
 {{< goodreads book="Third Shift: Pact" >}} doesn't really feel like an ending. Although I guess given that Shift is a prequel of sorts to Wool, it makes sense. 

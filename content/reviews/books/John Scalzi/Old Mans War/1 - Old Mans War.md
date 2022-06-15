@@ -8,12 +8,12 @@ reviews/series:
 - Old Man's War
 reviews/authors:
 - John Scalzi
-book/goodreads_id: 51964
+goodreads_id: 51964
 cover: /embeds/books/old-mans-war.jpg
-book/isbn: 0765348276
-book/isbn13: '9780765348272'
+isbn: 0765348276
+isbn13: '9780765348272'
 rating: 5
-book/pages: 355
+page_count: 355
 series_index: [1]
 ---
 > I did two things on my seventy-fifth birthday. I visited my wife’s grave. Then I joined the army.

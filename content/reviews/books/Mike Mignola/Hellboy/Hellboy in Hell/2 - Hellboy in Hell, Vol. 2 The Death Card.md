@@ -9,12 +9,12 @@ reviews/series:
 - Hellboy in Hell
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 29726950
+goodreads_id: 29726950
 cover: /embeds/books/hellboy-in-hell-vol-2-the-death-card.jpg
-book/isbn: '1506701132'
-book/isbn13: '9781506701134'
+isbn: '1506701132'
+isbn13: '9781506701134'
 rating: 5
-book/pages: 152
+page_count: 152
 series_index: [0, 2]
 ---
 Two in a day? Yes!  

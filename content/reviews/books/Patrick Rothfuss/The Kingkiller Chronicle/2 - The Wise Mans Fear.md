@@ -8,12 +8,12 @@ reviews/series:
 - The Kingkiller Chronicle
 reviews/authors:
 - Patrick Rothfuss
-book/goodreads_id: 1215032
+goodreads_id: 1215032
 cover: /embeds/books/the-wise-mans-fear.jpg
-book/isbn: 0756404738
-book/isbn13: '9780756404734'
+isbn: 0756404738
+isbn13: '9780756404734'
 rating: 4
-book/pages: 994
+page_count: 994
 series_index: [2]
 ---
 And here I thought The Name of the Wind was a long book.  

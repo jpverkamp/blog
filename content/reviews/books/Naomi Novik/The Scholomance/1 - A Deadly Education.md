@@ -12,12 +12,12 @@ bingo-data:
   - 2x2+
 reviews/authors:
 - Naomi Novik
-book/goodreads_id: 50548197
+goodreads_id: 50548197
 cover: /embeds/books/a-deadly-education.jpg
-book/isbn: 0593128486
-book/isbn13: '9780593128480'
+isbn: 0593128486
+isbn13: '9780593128480'
 rating: 5
-book/pages: 336
+page_count: 336
 series_index: [1]
 ---
 Oh, that's a joy of a book. Saying which I suppose--after you've read it--feels a bit ironic.

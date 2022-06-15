@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Paul Jenkins
-book/goodreads_id: 25430710
+goodreads_id: 25430710
 cover: /embeds/books/hellblazer-vol-12-how-to-play-with-fire.jpg
-book/isbn: '1401258107'
-book/isbn13: '9781401258108'
+isbn: '1401258107'
+isbn13: '9781401258108'
 rating: 4
-book/pages: 304
+page_count: 304
 series_index: [12]
 ---
 Three multiple parters? No single issues? Sweet. Up the Down Staircase want my favorite, but both How to Play with Fire and Son of Man were excellent. 

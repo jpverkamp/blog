@@ -8,12 +8,12 @@ reviews/series:
 - Gemma Doyle
 reviews/authors:
 - Libba Bray
-book/goodreads_id: 127459
+goodreads_id: 127459
 cover: /embeds/books/the-sweet-far-thing.jpg
-book/isbn: 0385730306
-book/isbn13: '9780385730303'
+isbn: 0385730306
+isbn13: '9780385730303'
 rating: 4
-book/pages: 819
+page_count: 819
 series_index: [3]
 ---
 >  With a sigh, I resign myself to combing through it page by page, though 502 

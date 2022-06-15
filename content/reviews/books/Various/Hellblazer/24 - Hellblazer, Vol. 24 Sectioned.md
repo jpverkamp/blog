@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Peter Milligan
-book/goodreads_id: 54237391
+goodreads_id: 54237391
 cover: /embeds/books/hellblazer-vol-24-sectioned.jpg
-book/isbn: '1779509529'
-book/isbn13: '9781779509529'
+isbn: '1779509529'
+isbn13: '9781779509529'
 rating: 4
-book/pages: 352
+page_count: 352
 series_index: [24]
 ---
 Well that’s unexpected. Epiphany is pretty cool… but she’s way too young for him. Still, demons, time travel, a succubus, demon blood transfusion slaves, a wedding or two? A good volume. 

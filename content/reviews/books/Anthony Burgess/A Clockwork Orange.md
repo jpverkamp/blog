@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Anthony Burgess
-book/goodreads_id: 12399254
+goodreads_id: 12399254
 cover: /embeds/books/a-clockwork-orange.jpg
 rating: 4
-book/pages: 213
+page_count: 213
 ---
 This... was truly a bizarre book.  
 

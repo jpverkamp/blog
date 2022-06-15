@@ -7,12 +7,12 @@ reviews/series:
 - Nate the Great
 reviews/authors:
 - Marjorie Weinman Sharmat
-book/goodreads_id: 1258032
+goodreads_id: 1258032
 cover: /embeds/books/nate-the-great-stalks-stupidweed.jpg
-book/isbn: 044040150X
-book/isbn13: '9780440401506'
+isbn: 044040150X
+isbn13: '9780440401506'
 rating: 4
-book/pages: 80
+page_count: 80
 series_index: [9]
 ---
 My oldest started reading not that long ago and oh how they've taken it to heart. Immediately into just about everything they can get their hands on. One of which? 

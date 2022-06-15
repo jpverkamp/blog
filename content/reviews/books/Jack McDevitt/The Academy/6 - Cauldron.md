@@ -8,12 +8,12 @@ reviews/series:
 - The Academy
 reviews/authors:
 - Jack McDevitt
-book/goodreads_id: 535318
+goodreads_id: 535318
 cover: /embeds/books/cauldron.jpg
-book/isbn: '0441015255'
-book/isbn13: '9780441015252'
+isbn: '0441015255'
+isbn13: '9780441015252'
 rating: 5
-book/pages: 373
+page_count: 373
 series_index: [6]
 ---
 A solid conclusion (for now) to the Academy series.  

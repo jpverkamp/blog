@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 17568815
+goodreads_id: 17568815
 cover: /embeds/books/attack-on-titan-vol-7.jpg
-book/isbn: '1612622569'
-book/isbn13: '9781612622569'
+isbn: '1612622569'
+isbn13: '9781612622569'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [7]
 ---
 Man. On one hand, it's fascinating how you can go through 200 pages and cover (for the most part) less than an hour. On the other, so very much happens in that one hour.  

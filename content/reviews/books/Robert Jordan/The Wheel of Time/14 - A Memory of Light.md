@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 7743175
+goodreads_id: 7743175
 cover: /embeds/books/a-memory-of-light.jpg
-book/isbn: 0765325950
-book/isbn13: '9780765325952'
+isbn: 0765325950
+isbn13: '9780765325952'
 rating: 5
-book/pages: 912
+page_count: 912
 series_index: [14]
 ---
 > There are no endings, and never will be endings, to the turning of the Wheel of Time. But it was an ending.

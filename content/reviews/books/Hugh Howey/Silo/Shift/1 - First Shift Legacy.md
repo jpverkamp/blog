@@ -9,10 +9,10 @@ reviews/series:
 - Shift
 reviews/authors:
 - Hugh Howey
-book/goodreads_id: 13603717
+goodreads_id: 13603717
 cover: /embeds/books/first-shift-legacy.jpg
 rating: 4
-book/pages: 238
+page_count: 238
 series_index: [0, 1]
 ---
 It's been a while since I read {{< goodreads book="Wool" >}}. Long enough that I'd started to forget the general shape of things, but as I went through {{< goodreads book="First Shift: Legacy" >}}, things started to come back. It's interesting seeing the gaps in Wool's history.  

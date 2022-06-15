@@ -8,10 +8,10 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 50541028
+goodreads_id: 50541028
 cover: /embeds/books/attack-on-titan-vol-31.jpg
 rating: 5
-book/pages: 190
+page_count: 190
 series_index: [31]
 ---
 Man things are ramping up quickly.  

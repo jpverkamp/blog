@@ -8,10 +8,10 @@ reviews/series:
 - Arcane Ascension
 reviews/authors:
 - Andrew Rowe
-book/goodreads_id: 34403860
+goodreads_id: 34403860
 cover: /embeds/books/sufficiently-advanced-magic.jpg
 rating: 5
-book/pages: 621
+page_count: 621
 series_index: [1]
 ---
 Without reading more than the summary and without having read much if at all from the LitRPG genre before, the first 10% or so of {{< goodreads book="Sufficiently Advanced Magic" >}} felt rather strange. We open with the protagonist, Corin Cadence, going into the Serpent Spire, "a colossal tower with ever-shifting rooms, traps, and monsters". The description of the tower and the rooms and especially the magic of the world feels rather like someone took a role-playing game rulebook and wrote a book about it. And... it turns out that's exactly what LitRPG novels are supposed to feel like.  

@@ -10,11 +10,11 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 68428
+goodreads_id: 68428
 cover: /embeds/books/the-final-empire.jpg
-book/isbn13: '9780765311788'
+isbn13: '9780765311788'
 rating: 5
-book/pages: 541
+page_count: 541
 series_index: [1, 1, 0]
 ---
 The Final Empire is a great read.  

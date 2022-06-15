@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 156813
+goodreads_id: 156813
 cover: /embeds/books/mystery-ranch.jpg
-book/isbn: 0807553913
-book/isbn13: '9780807553916'
+isbn: 0807553913
+isbn13: '9780807553916'
 rating: 4
-book/pages: 128
+page_count: 128
 series_index: [4]
 ---
 **MORE RELATIVES!**  

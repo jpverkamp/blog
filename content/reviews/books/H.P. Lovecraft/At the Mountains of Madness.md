@@ -6,12 +6,12 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 32767
+goodreads_id: 32767
 cover: /embeds/books/at-the-mountains-of-madness.jpg
-book/isbn: 0812974417
-book/isbn13: '9780812974416'
+isbn: 0812974417
+isbn13: '9780812974416'
 rating: 5
-book/pages: 194
+page_count: 194
 ---
 This is really a great place to end my current reading of HP Lovecraft. Here we get the story of an Antarctic expedition that goes off the rails in the most Lovecraftian way possible. They find not only the madness inducing beasties but a whole civilization thereof from billions of years ago.  
 

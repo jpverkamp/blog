@@ -12,10 +12,10 @@ bingo-data:
   - 5x1+
 reviews/authors:
 - Curtis Craddock
-book/goodreads_id: 31702733
+goodreads_id: 31702733
 cover: /embeds/books/an-alchemy-of-masques-and-mirrors.jpg
 rating: 5
-book/pages: 416
+page_count: 416
 series_index: [1]
 ---
 Well that was delightful. One of the reasons I'm really glad for the {{< crosslink "2021 Book Bingo" >}}. I don't know when/if I would have found this book, if not for that, and I really quite enjoyed it. It's got great steampunky worldbuilding (with some hints of body horror I honestly feel steampunk should probably have more of), royal/courtly intrigue, wonderful characters, and some delightful writing (with a French twist to the word choices that I don't see much of). Well worth the read and I'm absolutely going to see where this story goes next. 

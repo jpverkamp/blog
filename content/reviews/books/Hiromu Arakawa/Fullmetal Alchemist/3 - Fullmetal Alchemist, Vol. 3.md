@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 868
+goodreads_id: 868
 cover: /embeds/books/fullmetal-alchemist-vol-3.jpg
-book/isbn: '1591169259'
-book/isbn13: '9781591169253'
+isbn: '1591169259'
+isbn13: '9781591169253'
 rating: 5
-book/pages: 182
+page_count: 182
 series_index: [3]
 ---
 Oh these are wonderful.  

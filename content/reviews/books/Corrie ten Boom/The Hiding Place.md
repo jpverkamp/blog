@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Corrie ten Boom
-book/goodreads_id: 17339177
+goodreads_id: 17339177
 cover: /embeds/books/the-hiding-place.jpg
 rating: 4
-book/pages: 273
+page_count: 273
 ---
 {{< goodreads book="The Hiding Place" >}} is an interesting book. In a nutshell, it's the most historical account of Corrie ten Boom--a older, unmarried devoutly Christian woman who lived in Holland before, during, and a bit after World War II. It tells the story of how she became the center of one group hiding and getting Jews out of the city and eventually paid the price for it.  
 

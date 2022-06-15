@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21341
+goodreads_id: 21341
 cover: /embeds/books/jack-of-fables-vol-1-the.jpg
-book/isbn: '1401212220'
-book/isbn13: '9781401212223'
+isbn: '1401212220'
+isbn13: '9781401212223'
 rating: 4
-book/pages: 128
+page_count: 128
 series_index: [1, 7]
 ---
 ![Jack-1-01-Bowl-of-Suck](/embeds/books/attachments/jack-1-01-bowl-of-suck.jpg)  

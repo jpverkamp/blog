@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 2396827
+goodreads_id: 2396827
 cover: /embeds/books/hellboy-vol-8-darkness-calls.jpg
-book/isbn: 159307896X
-book/isbn13: '9781593078966'
+isbn: 159307896X
+isbn13: '9781593078966'
 rating: 5
-book/pages: 200
+page_count: 200
 series_index: [8]
 ---
 An undead with eyes made of coins?  

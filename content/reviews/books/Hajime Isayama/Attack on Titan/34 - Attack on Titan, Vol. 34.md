@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 55954188
+goodreads_id: 55954188
 cover: /embeds/books/attack-on-titan-vol-34.jpg
-book/isbn: '1646512367'
-book/isbn13: '9781646512362'
+isbn: '1646512367'
+isbn13: '9781646512362'
 rating: 5
-book/pages: 256
+page_count: 256
 series_index: [34]
 ---
 Isn't available in a combined volume in English yet, but I can still read the individual chapters. Will have to pick it out when it comes up.  

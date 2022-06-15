@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 12216302
+goodreads_id: 12216302
 cover: /embeds/books/cold-days.jpg
-book/isbn: '0451464400'
-book/isbn13: '9780451464408'
+isbn: '0451464400'
+isbn13: '9780451464408'
 rating: 5
-book/pages: 515
+page_count: 515
 series_index: [14]
 ---
 Dresden is remarkably good at weaseling his way out of deals he should never have gotten himself into in the first place. This time around though? His number is up. He has to work for Mab.  

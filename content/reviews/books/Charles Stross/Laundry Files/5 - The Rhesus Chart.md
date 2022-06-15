@@ -8,12 +8,12 @@ reviews/series:
 - Laundry Files
 reviews/authors:
 - Charles Stross
-book/goodreads_id: 18211295
+goodreads_id: 18211295
 cover: /embeds/books/the-rhesus-chart.jpg
-book/isbn: 0356502538
-book/isbn13: '9780356502533'
+isbn: 0356502538
+isbn13: '9780356502533'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [5]
 ---
 Vampires don't exist.  

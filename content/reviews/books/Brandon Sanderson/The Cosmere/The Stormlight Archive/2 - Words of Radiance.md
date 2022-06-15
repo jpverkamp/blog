@@ -9,12 +9,12 @@ reviews/series:
 - The Stormlight Archive
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 17332218
+goodreads_id: 17332218
 cover: /embeds/books/words-of-radiance.jpg
-book/isbn: '0765326361'
-book/isbn13: '9780765326362'
+isbn: '0765326361'
+isbn13: '9780765326362'
 rating: 5
-book/pages: 1087
+page_count: 1087
 series_index: [0, 2]
 ---
 > “I am offend!” Shallan yelled. “You have offended Her Highness again!”  

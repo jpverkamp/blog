@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 7947726
+goodreads_id: 7947726
 cover: /embeds/books/the-boys-volume-7-the-innocents.jpg
-book/isbn: '1606901508'
-book/isbn13: '9781606901502'
+isbn: '1606901508'
+isbn13: '9781606901502'
 rating: 4
-book/pages: 184
+page_count: 184
 series_index: [7]
 ---
 *Warning: NSFW*   

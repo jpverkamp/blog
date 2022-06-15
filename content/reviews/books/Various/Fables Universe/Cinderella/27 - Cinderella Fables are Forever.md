@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Chris Roberson
-book/goodreads_id: 12308801
+goodreads_id: 12308801
 cover: /embeds/books/cinderella-fables-are-forever.jpg
-book/isbn: '1401233856'
-book/isbn13: '9781401233853'
+isbn: '1401233856'
+isbn13: '9781401233853'
 rating: 5
-book/pages: 154
+page_count: 154
 series_index: [0, 27]
 ---
 {{< goodreads book="Cinderella: Fables are Forever" >}} in a nutshell:  

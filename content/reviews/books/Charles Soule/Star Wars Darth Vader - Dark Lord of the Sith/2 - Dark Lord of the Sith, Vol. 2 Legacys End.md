@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 reviews/authors:
 - Charles Soule
-book/goodreads_id: 36040437
+goodreads_id: 36040437
 cover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-2-legacys-end.jpg
-book/isbn: 130290745X
-book/isbn13: '9781302907457'
+isbn: 130290745X
+isbn13: '9781302907457'
 rating: 5
-book/pages: 136
+page_count: 136
 series_index: [2]
 ---
 Vader's goal this time?  

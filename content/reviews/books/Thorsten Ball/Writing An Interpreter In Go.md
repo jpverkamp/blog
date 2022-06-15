@@ -5,10 +5,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Thorsten Ball
-book/goodreads_id: 32681092
+goodreads_id: 32681092
 cover: /embeds/books/writing-an-interpreter-in-go.jpg
 rating: 5
-book/pages: 200
+page_count: 200
 ---
 You know, I'm always up for a good 'writing an interpreter' book. Making programming languages is a thing I've done a number of times before and really have been itching to get back into again. Add to that a desire to pick up a bit more Go syntax... well, perhaps this book is just about perfect. 
 

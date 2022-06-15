@@ -8,12 +8,12 @@ reviews/series:
 - Magic Ex Libris
 reviews/authors:
 - Jim C. Hines
-book/goodreads_id: 18139127
+goodreads_id: 18139127
 cover: /embeds/books/unbound.jpg
-book/isbn: 0756409683
-book/isbn13: '9780756409685'
+isbn: 0756409683
+isbn13: '9780756409685'
 rating: 5
-book/pages: 390
+page_count: 390
 series_index: [3]
 ---
 And we're back. This time around, things are getting really serious with Meridiana, the queen of the Ghost Army wrecking havoc in the modern world. It's an excellent story, much tighter than the previous two. It's also rather more serious in tone, although there are still piles of jokes and references to other books to go around.  

@@ -8,12 +8,12 @@ reviews/series:
 - The Runelords
 reviews/authors:
 - David Farland
-book/goodreads_id: 144127
+goodreads_id: 144127
 cover: /embeds/books/the-runelords.jpg
-book/isbn: 0812541626
-book/isbn13: '9780812541625'
+isbn: 0812541626
+isbn13: '9780812541625'
 rating: 5
-book/pages: 613
+page_count: 613
 series_index: [1]
 ---
 > A wise king does not garner all wit, instead he also allows his cunselors to

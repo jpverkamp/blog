@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 167010
+goodreads_id: 167010
 cover: /embeds/books/fables-vol-2-animal-farm.jpg
-book/isbn: 140120077X
-book/isbn13: '9781401200770'
+isbn: 140120077X
+isbn13: '9781401200770'
 rating: 5
-book/pages: 127
+page_count: 127
 series_index: [2, 2]
 ---
 Where {{< goodreads book="Fables, Vol. 1: Legends in Exile" >}} was a murder mystery, {{< goodreads book="Fables, Vol. 2: Animal Farm" >}} is all about racism, classism, and revolution! The haves and have nots--or in this case, the Fables that can pass as human... and those that cannot.  

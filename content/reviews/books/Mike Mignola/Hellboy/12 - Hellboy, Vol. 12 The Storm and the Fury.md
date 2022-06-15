@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 12944455
+goodreads_id: 12944455
 cover: /embeds/books/hellboy-vol-12-the-storm-and-the-fury.jpg
-book/isbn: '1595828273'
-book/isbn13: '9781595828279'
+isbn: '1595828273'
+isbn13: '9781595828279'
 rating: 5
-book/pages: 176
+page_count: 176
 series_index: [12]
 ---
 It's the end?! (until {{< goodreads book="Hellboy in Hell, Vol. 1: The Descent" >}} at least!)  

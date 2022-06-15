@@ -8,12 +8,12 @@ reviews/series:
 - Bartimaeus
 reviews/authors:
 - Jonathan Stroud
-book/goodreads_id: 59263
+goodreads_id: 59263
 cover: /embeds/books/the-golems-eye.jpg
-book/isbn: 0786836547
-book/isbn13: '9780786836543'
+isbn: 0786836547
+isbn13: '9780786836543'
 rating: 4
-book/pages: 562
+page_count: 562
 series_index: [2]
 ---
 To as large extent, {{< goodreads book="The Golem's Eye" >}} continues where {{< goodreads book="The Amulet of Samarkand" >}} left off. Nathaniel is a rising star, now climbing the ranks of government and Bartimaeus is just as snarky as ever. We get quite a bit more (including POV time) from Kitty and her friends, showing that it's not all fun and games in this particular echo of London.  

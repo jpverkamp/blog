@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 13888
+goodreads_id: 13888
 cover: /embeds/books/knife-of-dreams.jpg
-book/isbn: 0812577566
-book/isbn13: '9780812577563'
+isbn: 0812577566
+isbn13: '9780812577563'
 rating: 5
-book/pages: 860
+page_count: 860
 series_index: [11]
 ---
 > Lan told me once that Malkier lives so long as one man wears the hadori in pledge that he will fight the Shadow, so long as one woman wears the ki'sain in pledge that she will send her sons to fight the Shadow. I wear the ki'sain, Master Aldragoran. My husband wears the hadori. So do you. Will Lan Mandragoran ride to the Last Battle alone?  

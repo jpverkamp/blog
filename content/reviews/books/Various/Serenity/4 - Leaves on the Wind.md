@@ -8,12 +8,12 @@ reviews/series:
 - Serenity
 reviews/authors:
 - Zack Whedon
-book/goodreads_id: 21532236
+goodreads_id: 21532236
 cover: /embeds/books/leaves-on-the-wind.jpg
-book/isbn: '1616554894'
-book/isbn13: '9781616554897'
+isbn: '1616554894'
+isbn13: '9781616554897'
 rating: 5
-book/pages: 152
+page_count: 152
 series_index: [4]
 ---
 The comics take place all over time. This one takes place after the movie Serenity, so Wash and Book are gone, Zoe has a baby (I know right?), and River is flying the ship.  

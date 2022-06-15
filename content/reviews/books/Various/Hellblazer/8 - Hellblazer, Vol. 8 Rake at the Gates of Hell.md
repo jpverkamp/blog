@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 18490859
+goodreads_id: 18490859
 cover: /embeds/books/hellblazer-vol-8-rake-at-the-gates-of-hell.jpg
-book/isbn: '1401247490'
-book/isbn13: '9781401247492'
+isbn: '1401247490'
+isbn13: '9781401247492'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [8]
 ---
 There was a lot of potential in this episode, with two longer storylines--one the continuation of the angels/devil storyline we've been dealing with for a while. But unfortunately, outside of a few very cool/trippy visuals it was a surprisingly quiet volume. A lot of human trouble, not enough supernatural craziness. Less moping at least, but without a real transition (at least in my opinion). Not terrible, but certainly one of the weaker entries in the series. 

@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Tiffany Aching
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 22886868
+goodreads_id: 22886868
 cover: /embeds/books/the-shepherds-crown.jpg
-book/isbn: 0062429973
-book/isbn13: '9780062429971'
+isbn: 0062429973
+isbn13: '9780062429971'
 rating: 5
-book/pages: 276
+page_count: 276
 series_index: [41, 5]
 ---
 > FOR I CAN SEE THE BALANCE AND YOU HAVE LEFT THE WORLD MUCH BETTER THAN YOU FOUND IT, AND IF YOU ASK ME, said Death, NOBODY COULD DO ANY BETTER THAN THAT...

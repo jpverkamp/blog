@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 9326
+goodreads_id: 9326
 cover: /embeds/books/fullmetal-alchemist-vol-5.jpg
-book/isbn: '1421501759'
-book/isbn13: '9781421501758'
+isbn: '1421501759'
+isbn13: '9781421501758'
 rating: 5
-book/pages: 188
+page_count: 188
 series_index: [5]
 ---
 **5.17: The Boomtown of Broken Down**  

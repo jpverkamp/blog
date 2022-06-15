@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 11253748
+goodreads_id: 11253748
 cover: /embeds/books/hellboy-vol-11-the-bride-of-hell-and-others.jpg
-book/isbn: '1595827404'
-book/isbn13: '9781595827401'
+isbn: '1595827404'
+isbn13: '9781595827401'
 rating: 5
-book/pages: 200
+page_count: 200
 series_index: [11]
 ---
 Another collection of shorts.  

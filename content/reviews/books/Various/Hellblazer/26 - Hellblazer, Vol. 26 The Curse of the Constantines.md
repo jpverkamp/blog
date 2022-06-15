@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Peter Milligan
-book/goodreads_id: 58717923
+goodreads_id: 58717923
 cover: /embeds/books/hellblazer-vol-26-the-curse-of-the-constantines.jpg
-book/isbn: '1779514980'
-book/isbn13: '9781779514981'
+isbn: '1779514980'
+isbn13: '9781779514981'
 rating: 4
-book/pages: 352
+page_count: 352
 series_index: [26]
 ---
 Suicide Bridge: a single, not bad. Curse of the Constantines: it’s about blood and family and the nephew never mentioned. I like the idea of sometimes blood matters—and sometimes it doesn’t. Death and Cigarettes—a send off, Constantine style. He never really dies. Seems weird to have Epiphany and Finn here. Bad Blood… what was that?

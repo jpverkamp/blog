@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files Graphic Novels
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 18430203
+goodreads_id: 18430203
 cover: /embeds/books/jim-butchers-dresden-files-ghoul-goblin.jpg
-book/isbn: '1606904388'
-book/isbn13: '9781606904381'
+isbn: '1606904388'
+isbn13: '9781606904381'
 rating: 5
-book/pages: 159
+page_count: 159
 series_index: [3]
 ---
 {{< goodreads book="Jim Butcher's Dresden Files Welcome to the Jungle" text="Welcome to the Jungle" >}} was new, but an introduction. {{< goodreads book="Jim Butcher's The Dresden Files: Storm Front, Volume 2: Maelstrom" >}} and {{< goodreads book="The Dresden Files: Fool Moon, Volume 2" >}} are adaptations of previous works I've read a number of times. But {{< goodreads book="Jim Butcher's Dresden Files: Ghoul Goblin" >}}? NEW CONTENT!  

@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 91475
+goodreads_id: 91475
 cover: /embeds/books/white-night.jpg
-book/isbn: '0451461401'
-book/isbn13: '9780451461407'
+isbn: '0451461401'
+isbn13: '9780451461407'
 rating: 5
-book/pages: 407
+page_count: 407
 series_index: [9]
 ---
 I think this is one of the first of the Dresden Files books that really feels like a more traditional mystery. (Or at least my idea thereof; I don't read much traditional mystery). Mysterious shadowy figures and murders abound and throughout it's unclear exactly who/what is responsible. There are a few clues for the reader that Dresden otherwise misses, but for the most part, we learn about happenings as they happen.  

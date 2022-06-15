@@ -8,10 +8,10 @@ reviews/series:
 - Harry Potter
 reviews/authors:
 - J.K. Rowling
-book/goodreads_id: 3
+goodreads_id: 3
 cover: /embeds/books/harry-potter-and-the-sorcerers-stone.jpg
 rating: 5
-book/pages: 309
+page_count: 309
 series_index: [1]
 ---
 Harry Potter is such a huge thing that I'm honestly not sure what in the world I could say that would convince anyone to read/not read it that hasn't already made up their mind. So it goes.  

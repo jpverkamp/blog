@@ -10,7 +10,7 @@ bingo-data:
   - 4x1+
 reviews/authors:
 - Kaela Rivera
-book/goodreads_id: 49613673
+goodreads_id: 49613673
 cover: /embeds/books/cece-rios-and-the-desert-of-souls.jpg
 rating: 5
 ---

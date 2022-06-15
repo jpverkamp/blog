@@ -7,12 +7,12 @@ reviews/series:
 - The Scholomance
 reviews/authors:
 - Naomi Novik
-book/goodreads_id: 55559887
+goodreads_id: 55559887
 cover: /embeds/books/the-last-graduate.jpg
-book/isbn: 0593128869
-book/isbn13: '9780593128862'
+isbn: 0593128869
+isbn13: '9780593128862'
 rating: 5
-book/pages: 388
+page_count: 388
 series_index: [2]
 ---
 > Mum spent a lot of time in my formative years gently reminding me that people don’t think about us nearly as much as we think they do, because they’re all busy worrying what people are thinking about them.

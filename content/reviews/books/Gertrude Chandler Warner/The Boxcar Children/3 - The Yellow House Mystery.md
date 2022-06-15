@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 156865
+goodreads_id: 156865
 cover: /embeds/books/the-yellow-house-mystery.jpg
-book/isbn: 0807593664
-book/isbn13: '9780807593660'
+isbn: 0807593664
+isbn13: '9780807593660'
 rating: 4
-book/pages: 192
+page_count: 192
 series_index: [3]
 ---
 Remember {{< goodreads book="Surprise Island" text=" Surprise Island " >}} ? Remember  

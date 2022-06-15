@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Ludwig Bemelmans
-book/goodreads_id: 206090
+goodreads_id: 206090
 cover: /embeds/books/mad-about-madeline-the-complete-tales.jpg
-book/isbn: 0670888168
-book/isbn13: '9780670888160'
+isbn: 0670888168
+isbn13: '9780670888160'
 rating: 5
-book/pages: 316
+page_count: 316
 ---
 I do love the original Madeline story. It’s one I’ve read so much that I’ve memorized it, much to the confusion of the children whenever I decide to ‘read’ it without even holding the book.  
 

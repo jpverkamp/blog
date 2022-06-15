@@ -13,12 +13,12 @@ bingo-data:
   - 4x4+
 reviews/authors:
 - Tamsyn Muir
-book/goodreads_id: 42036538
+goodreads_id: 42036538
 cover: /embeds/books/gideon-the-ninth.jpg
-book/isbn: '1250313198'
-book/isbn13: '9781250313195'
+isbn: '1250313198'
+isbn13: '9781250313195'
 rating: 5
-book/pages: 448
+page_count: 448
 series_index: [1]
 ---
 > One day eighteen years ago, Gideon's mother had tumbled down the middle of

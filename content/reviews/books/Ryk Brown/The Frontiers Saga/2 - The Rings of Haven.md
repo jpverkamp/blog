@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 13516287
+goodreads_id: 13516287
 cover: /embeds/books/the-rings-of-haven.jpg
 rating: 4
-book/pages: 241
+page_count: 241
 series_index: [2]
 ---
 {{< goodreads book="The Rings of Haven" >}} takes up right where {{< goodreads book="Aurora: CV-01" >}} left off: a ship and her crew, stranded a thousand light year, having to make friends--and sometimes enemies--in a desperate struggle to survive and make their ways home.  

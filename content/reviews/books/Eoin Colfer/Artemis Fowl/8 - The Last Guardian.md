@@ -8,12 +8,12 @@ reviews/series:
 - Artemis Fowl
 reviews/authors:
 - Eoin Colfer
-book/goodreads_id: 9307674
+goodreads_id: 9307674
 cover: /embeds/books/the-last-guardian.jpg
-book/isbn: '1423161610'
-book/isbn13: '9781423161615'
+isbn: '1423161610'
+isbn13: '9781423161615'
 rating: 4
-book/pages: 328
+page_count: 328
 series_index: [8]
 ---
 So. Opal Koboi is back and she's trying once again to rule/end the world (I'm not sure she knows the difference any more).  

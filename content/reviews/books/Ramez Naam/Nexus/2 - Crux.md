@@ -8,12 +8,12 @@ reviews/series:
 - Nexus
 reviews/authors:
 - Ramez Naam
-book/goodreads_id: 15997527
+goodreads_id: 15997527
 cover: /embeds/books/crux.jpg
-book/isbn: 0857662961
-book/isbn13: '9780857662965'
+isbn: 0857662961
+isbn13: '9780857662965'
 rating: 5
-book/pages: 512
+page_count: 512
 series_index: [2]
 ---
 Crux basically picks up where Nexus let off.  

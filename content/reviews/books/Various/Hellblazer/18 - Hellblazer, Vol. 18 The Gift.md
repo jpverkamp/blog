@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Mike Carey
-book/goodreads_id: 35141041
+goodreads_id: 35141041
 cover: /embeds/books/hellblazer-vol-18-the-gift.jpg
-book/isbn: '1401275389'
-book/isbn13: '9781401275389'
+isbn: '1401275389'
+isbn13: '9781401275389'
 rating: 5
-book/pages: 328
+page_count: 328
 series_index: [18]
 ---
 All about that little issue of Constantine and one very very long day. 

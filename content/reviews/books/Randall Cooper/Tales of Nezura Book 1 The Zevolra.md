@@ -11,7 +11,7 @@ bingo-data:
   - 3x3+
 reviews/authors:
 - Randall Cooper
-book/goodreads_id: 57808227
+goodreads_id: 57808227
 cover: /embeds/books/tales-of-nezura-book-1-the-zevolra.jpg
 rating: 4
 ---

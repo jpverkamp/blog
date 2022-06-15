@@ -5,11 +5,11 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Anonymous
-book/goodreads_id: 901125
+goodreads_id: 901125
 cover: /embeds/books/the-holy-bible-revised-standard-version-catholic-edition.jpg
-book/isbn: '8170865700'
-book/isbn13: '9788170865704'
-book/pages: 1273
+isbn: '8170865700'
+isbn13: '9788170865704'
+page_count: 1273
 ---
 No. I'm not going to review the Bible. 
 

@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 64703
+goodreads_id: 64703
 cover: /embeds/books/saturn.jpg
-book/isbn: 0812579429
-book/isbn13: '9780812579420'
+isbn: 0812579429
+isbn13: '9780812579420'
 rating: 3
-book/pages: 480
+page_count: 480
 series_index: [13]
 ---
 {{< goodreads book="Saturn" text=" Saturn " >}} was something of a bummer, especially coming off {{< goodreads book="Jupiter" text=" Jupiter " >}} and the Asteroid Wars, {{< goodreads book="The Aftermath" text=" The Aftermath " >}} in particular. It might as well have been called 'adventures of a colony ship', since it's only in the last fraction of the book that we actually make it to Saturn. The rest of the book is spent by power hungry religious zealots trying to take over a ship ostensibly populated by ten thousand people trying to escape exactly that sort of behavior.  

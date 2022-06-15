@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 297249
+goodreads_id: 297249
 cover: /embeds/books/the-boxcar-children.jpg
-book/isbn: 0807508527
-book/isbn13: '9780807508527'
+isbn: 0807508527
+isbn13: '9780807508527'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [1]
 ---
 Many years ago, my mother would read aloud the Boxcar Children books to my brother and I. We read many many books together for many years, but the Boxcar Children are perhaps the ones I remember most. Now, perhaps it's time to start passing that along to my own children.  

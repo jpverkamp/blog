@@ -8,12 +8,12 @@ reviews/series:
 - Rama
 reviews/authors:
 - Arthur C. Clarke
-book/goodreads_id: 112518
+goodreads_id: 112518
 cover: /embeds/books/the-garden-of-rama.jpg
-book/isbn: '1857230213'
-book/isbn13: '9781857230215'
+isbn: '1857230213'
+isbn13: '9781857230215'
 rating: 3
-book/pages: 593
+page_count: 593
 series_index: [3]
 ---
 Like Rama #2, I went back and forth while reading this one on if I was actually enjoying it or if I would finish it at all. In the end, I did finish it and I think I'll even start the last one mostly out of a sense of completionism.  

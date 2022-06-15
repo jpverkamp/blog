@@ -8,12 +8,12 @@ reviews/series:
 - Southern Reach
 reviews/authors:
 - Jeff VanderMeer
-book/goodreads_id: 18077769
+goodreads_id: 18077769
 cover: /embeds/books/authority.jpg
-book/isbn: '0374104107'
-book/isbn13: '9780374104108'
+isbn: '0374104107'
+isbn13: '9780374104108'
 rating: 3
-book/pages: 341
+page_count: 341
 series_index: [2]
 ---
 After how much I enjoyed {{< goodreads book="Annihilation" >}}, I had high hopes for {{< goodreads book="Authority" >}}. A chance to get out of Area X and explore the organization sending people in / to their deaths over and over again...  

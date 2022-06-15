@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Mike Carey
-book/goodreads_id: 14498
+goodreads_id: 14498
 cover: /embeds/books/neil-gaimans-neverwhere.jpg
-book/isbn: '1401210074'
-book/isbn13: '9781401210076'
+isbn: '1401210074'
+isbn13: '9781401210076'
 rating: 5
-book/pages: 224
+page_count: 224
 ---
 Well that's certainly a thing.  
 

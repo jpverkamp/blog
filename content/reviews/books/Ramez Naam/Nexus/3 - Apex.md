@@ -8,12 +8,12 @@ reviews/series:
 - Nexus
 reviews/authors:
 - Ramez Naam
-book/goodreads_id: 20424928
+goodreads_id: 20424928
 cover: /embeds/books/apex.jpg
-book/isbn: 0857664018
-book/isbn13: '9780857664013'
+isbn: 0857664018
+isbn13: '9780857664013'
 rating: 5
-book/pages: 608
+page_count: 608
 series_index: [3]
 ---
 A solid conclusion to the Nexus trilogy. Some things go exactly as I expected them to, but there are still a fair few surprises thrown in for good measure. For the most part, a lot of loose ends are tied up, making it a good way to end a series.  

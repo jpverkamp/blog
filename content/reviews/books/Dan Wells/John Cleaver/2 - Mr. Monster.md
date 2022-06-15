@@ -8,12 +8,12 @@ reviews/series:
 - John Cleaver
 reviews/authors:
 - Dan Wells
-book/goodreads_id: 7167271
+goodreads_id: 7167271
 cover: /embeds/books/mr-monster.jpg
-book/isbn: 0755348826
-book/isbn13: '9780755348824'
+isbn: 0755348826
+isbn13: '9780755348824'
 rating: 5
-book/pages: 288
+page_count: 288
 series_index: [2]
 ---
 > “My favorite part of family togetherness is when we aspirate body cavities. What’s yours?”

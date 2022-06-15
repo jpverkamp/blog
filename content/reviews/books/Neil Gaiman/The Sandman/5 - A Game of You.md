@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25102
+goodreads_id: 25102
 cover: /embeds/books/a-game-of-you.jpg
-book/isbn: '1563890933'
-book/isbn13: '9781563890932'
+isbn: '1563890933'
+isbn13: '9781563890932'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [5]
 ---
 This time around, I think I'll just start with the summary from Goodreads:  

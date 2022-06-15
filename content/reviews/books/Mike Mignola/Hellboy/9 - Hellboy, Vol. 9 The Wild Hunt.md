@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 7131445
+goodreads_id: 7131445
 cover: /embeds/books/hellboy-vol-9-the-wild-hunt.jpg
-book/isbn: '1595824316'
-book/isbn13: '9781595824318'
+isbn: '1595824316'
+isbn13: '9781595824318'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [9]
 ---
 King Author? It had to come up eventually. But first, Mab!  

@@ -8,12 +8,12 @@ reviews/series:
 - Kate Daniels
 reviews/authors:
 - Ilona Andrews
-book/goodreads_id: 6479550
+goodreads_id: 6479550
 cover: /embeds/books/magic-bleeds.jpg
-book/isbn: 0441018521
-book/isbn13: '9780441018529'
+isbn: 0441018521
+isbn13: '9780441018529'
 rating: 5
-book/pages: 349
+page_count: 349
 series_index: [4]
 ---
 > I can't give you the white picket fence, and if I did, you'd set it on fire.

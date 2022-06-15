@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Ibram X. Kendi
-book/goodreads_id: 40265832
+goodreads_id: 40265832
 cover: /embeds/books/how-to-be-an-antiracist.jpg
 rating: 4
-book/pages: 307
+page_count: 307
 ---
 {{< goodreads book="How to Be an Antiracist" >}} is a hard book to read, really in two different ways.  
 

@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Witches
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34507
+goodreads_id: 34507
 cover: /embeds/books/equal-rites.jpg
-book/isbn: 0060855908
-book/isbn13: '9780060855901'
+isbn: 0060855908
+isbn13: '9780060855901'
 rating: 5
-book/pages: 240
+page_count: 240
 series_index: [3, 1]
 ---
 Equal Rites follows the story of what was assumed to be an automatic wizard-- the eighth son of an eighth son--except... she's a girl. And everyone knows that women can't be witches... although no one can quite put a finger on why.  

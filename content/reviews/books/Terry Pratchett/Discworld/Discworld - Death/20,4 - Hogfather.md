@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Death
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34532
+goodreads_id: 34532
 cover: /embeds/books/hogfather.jpg
-book/isbn: 0552154288
-book/isbn13: '9780552154284'
+isbn: 0552154288
+isbn13: '9780552154284'
 rating: 5
-book/pages: 432
+page_count: 432
 series_index: [20, 4]
 ---
 > Humans need fantasy to be human. To be the place where the falling angel meets the rising ape.

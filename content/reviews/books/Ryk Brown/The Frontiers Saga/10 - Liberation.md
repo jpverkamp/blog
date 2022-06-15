@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 20508635
+goodreads_id: 20508635
 cover: /embeds/books/liberation.jpg
 rating: 4
-book/pages: 372
+page_count: 372
 series_index: [10]
 ---
 This was a pretty crazy book so far as progressing the story. The Aurora, Celestia, and their crews and allies have a long slog ahead of themselves to free the Earth from the Jung, but they all have one huge advantage: nine books worth of experience in using the jump drive in combat!  

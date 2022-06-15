@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Moist von Lipwig
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 116296
+goodreads_id: 116296
 cover: /embeds/books/making-money.jpg
-book/isbn: '0061161640'
-book/isbn13: '9780061161643'
+isbn: '0061161640'
+isbn13: '9780061161643'
 rating: 5
-book/pages: 394
+page_count: 394
 series_index: [36, 2]
 ---
 >  It was sad, like those businessmen who came to work in serious clothes but wore colorful ties in a mad, desperate attempt to show there was a free spirit in there somewhere.  

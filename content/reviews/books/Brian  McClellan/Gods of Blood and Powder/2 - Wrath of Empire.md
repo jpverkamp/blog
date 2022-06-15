@@ -8,12 +8,12 @@ reviews/series:
 - Gods of Blood and Powder
 reviews/authors:
 - Brian  McClellan
-book/goodreads_id: 28811018
+goodreads_id: 28811018
 cover: /embeds/books/wrath-of-empire.jpg
-book/isbn: 0356509311
-book/isbn13: '9780356509310'
+isbn: 0356509311
+isbn13: '9780356509310'
 rating: 5
-book/pages: 639
+page_count: 639
 series_index: [2]
 ---
 > Superstitious people claimed that the Hock had been carved by a war between gods millennia ago. During his time in the labor camps, Styke had once been partnered with a geologist--one of those government-employed fellows sent to look for likely deposits of gold ore--who had insisted that this sarp terrain had been caused by immense mountains of ice creeping their way across the land tends of thousands of years ago.  

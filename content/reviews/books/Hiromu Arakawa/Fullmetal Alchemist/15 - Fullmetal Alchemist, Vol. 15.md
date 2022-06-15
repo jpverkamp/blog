@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 526672
+goodreads_id: 526672
 cover: /embeds/books/fullmetal-alchemist-vol-15.jpg
-book/isbn: '1421513803'
-book/isbn13: '9781421513805'
+isbn: '1421513803'
+isbn13: '9781421513805'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [15]
 ---
 Herein, we see the horror of the Ishvalan war. Just how terrifying living weapons of war--taught that the Isvalans are the 'other' and deserve to die-- can be. Man this chapter hits hard.  

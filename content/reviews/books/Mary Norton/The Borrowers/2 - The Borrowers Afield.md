@@ -13,10 +13,10 @@ bingo-data:
   - 2x2+
 reviews/authors:
 - Mary Norton
-book/goodreads_id: 145383
+goodreads_id: 145383
 cover: /embeds/books/the-borrowers-afield.jpg
 rating: 5
-book/pages: 224
+page_count: 224
 series_index: [2]
 ---
 > “It's so awful and sad,” she once admitted to Tom Goodenough, “to belong to > a race that no sane person believes in.”

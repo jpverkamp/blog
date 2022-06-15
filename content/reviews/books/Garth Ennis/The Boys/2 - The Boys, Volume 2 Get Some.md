@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 2891819
+goodreads_id: 2891819
 cover: /embeds/books/the-boys-volume-2-get-some.jpg
-book/isbn: '1933305681'
-book/isbn13: '9781933305684'
+isbn: '1933305681'
+isbn13: '9781933305684'
 rating: 4
-book/pages: 192
+page_count: 192
 series_index: [2]
 ---
 *Warning: NSFW*  

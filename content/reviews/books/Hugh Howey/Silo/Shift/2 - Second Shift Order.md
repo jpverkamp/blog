@@ -9,10 +9,10 @@ reviews/series:
 - Shift
 reviews/authors:
 - Hugh Howey
-book/goodreads_id: 16148938
+goodreads_id: 16148938
 cover: /embeds/books/second-shift-order.jpg
 rating: 4
-book/pages: 268
+page_count: 268
 series_index: [0, 2]
 ---
 {{< goodreads book="Second Shift: Order" >}} definitely has 'middle book' syndrome going for it, but in this case, it certainly works. You get a pile of answers to questions raised both in {{< goodreads book="First Shift: Legacy" >}} and {{< goodreads book="Wool" >}} along with filling out the world of the Silos.  

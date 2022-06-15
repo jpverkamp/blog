@@ -8,12 +8,12 @@ reviews/series:
 - Revelation Space
 reviews/authors:
 - Alastair Reynolds
-book/goodreads_id: 89187
+goodreads_id: 89187
 cover: /embeds/books/revelation-space.jpg
-book/isbn: 0441009425
-book/isbn13: '9780441009428'
+isbn: 0441009425
+isbn13: '9780441009428'
 rating: 4
-book/pages: 585
+page_count: 585
 series_index: [1]
 ---
 Nice bit of science fiction to kick off the new year.  

@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Rincewind
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34503
+goodreads_id: 34503
 cover: /embeds/books/the-last-hero.jpg
-book/isbn: '0060507772'
-book/isbn13: '9780060507770'
+isbn: '0060507772'
+isbn13: '9780060507770'
 rating: 4
-book/pages: 176
+page_count: 176
 series_index: [27, 7]
 ---
 The Last Hero is a quick read, much shorter than some of the other Discworld books. It does manage to say relatively self contained though, which is nice.  

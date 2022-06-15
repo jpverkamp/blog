@@ -8,12 +8,12 @@ reviews/series:
 - The Borrowers
 reviews/authors:
 - Mary Norton
-book/goodreads_id: 348573
+goodreads_id: 348573
 cover: /embeds/books/the-borrowers.jpg
-book/isbn: 0152047379
-book/isbn13: '9780152047375'
+isbn: 0152047379
+isbn13: '9780152047375'
 rating: 5
-book/pages: 180
+page_count: 180
 series_index: [1]
 ---
 > “...Borrower's don't steal."   

@@ -7,12 +7,12 @@ reviews/series:
 - The Warlord Chronicles
 reviews/authors:
 - Bernard Cornwell
-book/goodreads_id: 68520
+goodreads_id: 68520
 cover: /embeds/books/the-winter-king.jpg
-book/isbn: 0312156960
-book/isbn13: '9780312156961'
+isbn: 0312156960
+isbn13: '9780312156961'
 rating: 4
-book/pages: 431
+page_count: 431
 series_index: [1]
 ---
 > ONCE UPON A TIME, in a land that was called Britain, these things happened.

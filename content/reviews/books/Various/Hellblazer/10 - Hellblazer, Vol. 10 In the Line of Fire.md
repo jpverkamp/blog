@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Paul Jenkins
-book/goodreads_id: 22338433
+goodreads_id: 22338433
 cover: /embeds/books/hellblazer-vol-10-in-the-line-of-fire.jpg
-book/isbn: '1401251374'
-book/isbn13: '9781401251376'
+isbn: '1401251374'
+isbn13: '9781401251376'
 rating: 4
-book/pages: 288
+page_count: 288
 series_index: [10]
 ---
 Fortune telling, Constantine’s father, more evil demons and arguably worse angels, and of course dead soldiers who can’t find rest. 

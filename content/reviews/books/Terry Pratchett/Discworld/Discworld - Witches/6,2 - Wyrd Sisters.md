@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Witches
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34504
+goodreads_id: 34504
 cover: /embeds/books/wyrd-sisters.jpg
-book/isbn: '0061020664'
-book/isbn13: '9780061020667'
+isbn: '0061020664'
+isbn13: '9780061020667'
 rating: 4
-book/pages: 265
+page_count: 265
 series_index: [6, 2]
 ---
 Witches, take two.  

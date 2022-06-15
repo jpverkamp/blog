@@ -8,12 +8,12 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22418
+goodreads_id: 22418
 cover: /embeds/books/transmetropolitan-vol-3-year-of-the-bastard.jpg
-book/isbn: '1563895684'
-book/isbn13: '9781563895685'
+isbn: '1563895684'
+isbn13: '9781563895685'
 rating: 4
-book/pages: 144
+page_count: 144
 series_index: [3]
 ---
 Spider Jerusalem is famous now! So much so that they're making (distubing because of course) TV programs about him!  

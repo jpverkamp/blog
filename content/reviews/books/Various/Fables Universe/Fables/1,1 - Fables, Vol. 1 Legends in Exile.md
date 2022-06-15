@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21326
+goodreads_id: 21326
 cover: /embeds/books/fables-vol-1-legends-in-exile.jpg
-book/isbn: '1563899426'
-book/isbn13: '9781563899423'
+isbn: '1563899426'
+isbn13: '9781563899423'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [1, 1]
 ---
 Much like {{< goodreads book="Saga, Vol. 1" >}}, Fables has been on my list to read for the longest time. I have a soft spot for genre mashups, so the idea of taking Fairy Tales and having them alive and well in a hidden corner of our real world? Wonderful!  

@@ -6,12 +6,12 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Brandon Perry
-book/goodreads_id: 32847275
+goodreads_id: 32847275
 cover: /embeds/books/gray-hat-c-a-hackers-guide-to-creating-and-automating-security-tools.jpg
-book/isbn: '1593277598'
-book/isbn13: '9781593277598'
+isbn: '1593277598'
+isbn13: '9781593277598'
 rating: 3
-book/pages: 304
+page_count: 304
 ---
 Odd book. Not quite what I expected. If you're looking for a reference on how to tie one of the various mentioned tools into a C# project yourself, it will have a potentially useful starter at least. Other than that, the specific sections could use a bit more fleshing out to be useful alone and all together, it's an odd combination.  
 

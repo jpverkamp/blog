@@ -8,11 +8,11 @@ reviews/series:
 - James Lovegrove's Sherlock Holmes
 reviews/authors:
 - James Lovegrove
-book/goodreads_id: 34437871
+goodreads_id: 34437871
 cover: /embeds/books/sherlock-holmes-and-the-miskatonic-monstrosities.jpg
-book/isbn: '1783295953'
-book/isbn13: '9781783295951'
-book/pages: 459
+isbn: '1783295953'
+isbn13: '9781783295951'
+page_count: 459
 series_index: [2]
 ---
 **Did not finish at 60%**  

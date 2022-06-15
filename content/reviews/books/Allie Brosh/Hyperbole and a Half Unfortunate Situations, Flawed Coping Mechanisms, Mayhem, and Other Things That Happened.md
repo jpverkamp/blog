@@ -7,12 +7,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Allie Brosh
-book/goodreads_id: 17571564
+goodreads_id: 17571564
 cover: /embeds/books/hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened.jpg
-book/isbn: '1451666179'
-book/isbn13: '9781451666175'
+isbn: '1451666179'
+isbn13: '9781451666175'
 rating: 5
-book/pages: 371
+page_count: 371
 ---
 400 pages? Pick it up around midnight? Sure! Let's just read it straight though!  
 

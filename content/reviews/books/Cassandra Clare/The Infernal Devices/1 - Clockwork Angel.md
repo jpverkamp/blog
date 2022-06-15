@@ -8,12 +8,12 @@ reviews/series:
 - The Infernal Devices
 reviews/authors:
 - Cassandra Clare
-book/goodreads_id: 7171637
+goodreads_id: 7171637
 cover: /embeds/books/clockwork-angel.jpg
-book/isbn: '1416975861'
-book/isbn13: '9781416975861'
+isbn: '1416975861'
+isbn13: '9781416975861'
 rating: 3
-book/pages: 479
+page_count: 479
 series_index: [1]
 ---
 > “One must always be careful of books," said Tessa, "and what is inside them, > for words have the power to change us.”

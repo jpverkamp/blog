@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 91479
+goodreads_id: 91479
 cover: /embeds/books/death-masks.jpg
-book/isbn: 0451459407
-book/isbn13: '9780451459404'
+isbn: 0451459407
+isbn13: '9780451459404'
 rating: 5
-book/pages: 432
+page_count: 432
 series_index: [5]
 ---
 Dang. New favorite Dresden File. More of Michael and the introduction of my favorite baddies in the Dresdenverse.  

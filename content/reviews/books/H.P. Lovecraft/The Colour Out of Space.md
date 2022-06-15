@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 10562201
+goodreads_id: 10562201
 cover: /embeds/books/the-colour-out-of-space.jpg
 rating: 5
-book/pages: 26
+page_count: 26
 ---
 Who would have thought that a colour could be so terrifying...  
 

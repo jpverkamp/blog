@@ -8,12 +8,12 @@ reviews/series:
 - Codex Alera
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 29396
+goodreads_id: 29396
 cover: /embeds/books/furies-of-calderon.jpg
-book/isbn: 044101268X
-book/isbn13: '9780441012688'
+isbn: 044101268X
+isbn13: '9780441012688'
 rating: 5
-book/pages: 688
+page_count: 688
 series_index: [1]
 ---
 Apparently I last read Furies of Calderon before I started writing reviews. That was actually the second time I read it--the first time I didn't even finish the book, putting it down. It's something of a slow book and a bit strange. But the second time and especially once I got into the sequels, I loved it, it's among my favorite series. This time around, I listened to it and it's even better as an audiobook (since it just keeps right on going through the boring parts).  

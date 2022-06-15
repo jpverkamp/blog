@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 7695240
+goodreads_id: 7695240
 cover: /embeds/books/hellboy-vol-10-the-crooked-man-and-others.jpg
-book/isbn: '1595824774'
-book/isbn13: '9781595824776'
+isbn: '1595824774'
+isbn13: '9781595824776'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [10]
 ---
 Crazy collection of short stories. And some weird connections between them. Two (really) stories where people just leave their skin alone:  

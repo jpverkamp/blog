@@ -8,10 +8,10 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 49000818
+goodreads_id: 49000818
 cover: /embeds/books/attack-on-titan-vol-29.jpg
 rating: 4
-book/pages: 192
+page_count: 192
 series_index: [29]
 ---
 Things just keep on getting crazier and muckier. There are many sides all fighting all over the place and it's not entirely clear how everything is going to end up...  

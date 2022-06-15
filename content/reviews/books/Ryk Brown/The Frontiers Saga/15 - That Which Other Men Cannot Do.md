@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 28248264
+goodreads_id: 28248264
 cover: /embeds/books/that-which-other-men-cannot-do.jpg
 rating: 4
-book/pages: 639
+page_count: 639
 series_index: [15]
 ---
 And so it ends (for now).  

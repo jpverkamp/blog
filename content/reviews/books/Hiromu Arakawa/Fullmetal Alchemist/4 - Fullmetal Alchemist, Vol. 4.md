@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 871
+goodreads_id: 871
 cover: /embeds/books/fullmetal-alchemist-vol-4.jpg
-book/isbn: '1591169291'
-book/isbn13: '9781591169291'
+isbn: '1591169291'
+isbn13: '9781591169291'
 rating: 5
-book/pages: 184
+page_count: 184
 series_index: [4]
 ---
 I only half remember the anime, which apparently diverges at some point anyways. So it's a combination of half remembered things and being surprised over and over again. Imagine, being saved by Lust/Envy/Gluttony et al -- knowing that there's far more to them, but not exactly what. It's crazy.  

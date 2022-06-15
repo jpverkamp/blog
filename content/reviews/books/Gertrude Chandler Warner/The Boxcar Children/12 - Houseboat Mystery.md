@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 255507
+goodreads_id: 255507
 cover: /embeds/books/houseboat-mystery.jpg
-book/isbn: 0807534137
-book/isbn13: '9780807534137'
+isbn: 0807534137
+isbn13: '9780807534137'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [12]
 ---
 A mystery on a houseboat? Sure! That actually sounds like a really fun vacation.  

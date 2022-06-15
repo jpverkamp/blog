@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 1142222
+goodreads_id: 1142222
 cover: /embeds/books/jack-of-fables-vol-2-jack-of-hearts.jpg
-book/isbn: 140121455X
-book/isbn13: '9781401214555'
+isbn: 140121455X
+isbn13: '9781401214555'
 rating: 4
-book/pages: 144
+page_count: 144
 series_index: [2, 8]
 ---
 And now, a quick jaunt to {{< goodreads book="Jack of Fables, Vol. 2: Jack of Hearts" >}}. More or less in publishing order, but not directly related. Mostly it's a way to get another few on the world.  

@@ -8,10 +8,10 @@ reviews/series:
 - The Green Bone Saga
 reviews/authors:
 - Fonda Lee
-book/goodreads_id: 41716919
+goodreads_id: 41716919
 cover: /embeds/books/jade-war.jpg
 rating: 5
-book/pages: 608
+page_count: 608
 series_index: [2]
 ---
 > “I need to talk to Zapunyo myself,” Hilo insisted. “A misunderstanding > between friends is okay. A misunderstanding between enemies isn’t.”

@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - Kim Stanley Robinson
-book/goodreads_id: 23197269
+goodreads_id: 23197269
 cover: /embeds/books/aurora.jpg
 rating: 4
-book/pages: 301
+page_count: 301
 ---
 Aurora is something of a strange book. The core of the story follows a generation ship heading out to Tau Ceti at 1/10th the speed of light. The story starts after six generations and more than a hundred years have already passed, just before they arrive. Things are already going wrong and never really get better.  
 

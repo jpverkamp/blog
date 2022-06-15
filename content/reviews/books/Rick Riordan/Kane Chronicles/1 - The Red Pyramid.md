@@ -8,12 +8,12 @@ reviews/series:
 - Kane Chronicles
 reviews/authors:
 - Rick Riordan
-book/goodreads_id: 7090447
+goodreads_id: 7090447
 cover: /embeds/books/the-red-pyramid.jpg
-book/isbn: '1423113381'
-book/isbn13: '9781423113386'
+isbn: '1423113381'
+isbn13: '9781423113386'
 rating: 4
-book/pages: 528
+page_count: 528
 series_index: [1]
 ---
 Red Pyramid would be a lot strong if I hadn't read Percy Jackson.  

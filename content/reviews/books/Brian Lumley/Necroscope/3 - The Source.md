@@ -8,12 +8,12 @@ reviews/series:
 - Necroscope
 reviews/authors:
 - Brian Lumley
-book/goodreads_id: 636742
+goodreads_id: 636742
 cover: /embeds/books/the-source.jpg
-book/isbn: 0812521277
-book/isbn13: '9780812521276'
+isbn: 0812521277
+isbn13: '9780812521276'
 rating: 4
-book/pages: 505
+page_count: 505
 series_index: [3]
 ---
 The Source follows a nuclear accident that manages to blow a hole in between our reality and the homeworld (more accurately home universe, since Harry cannot Moebius his way there) of the Vampires.  

@@ -8,12 +8,12 @@ reviews/series:
 - Shades of Magic
 reviews/authors:
 - V.E. Schwab
-book/goodreads_id: 22055262
+goodreads_id: 22055262
 cover: /embeds/books/a-darker-shade-of-magic.jpg
-book/isbn: 0765376458
-book/isbn13: '9780765376459'
+isbn: 0765376458
+isbn13: '9780765376459'
 rating: 5
-book/pages: 400
+page_count: 400
 series_index: [1]
 ---
 {{< goodreads book="A Darker Shade of Magic" >}} is a surprisingly fantastic book--and I mean that in the true sense of the word _fantastic_.

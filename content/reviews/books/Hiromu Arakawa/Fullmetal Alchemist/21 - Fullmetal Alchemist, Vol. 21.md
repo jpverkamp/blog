@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 6506079
+goodreads_id: 6506079
 cover: /embeds/books/fullmetal-alchemist-vol-21.jpg
-book/isbn: '1421532328'
-book/isbn13: '9781421532325'
+isbn: '1421532328'
+isbn13: '9781421532325'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [21]
 ---
 > I'm going first

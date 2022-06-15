@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 17683
+goodreads_id: 17683
 cover: /embeds/books/dead-beat.jpg
-book/isbn: 045146091X
-book/isbn13: '9780451460912'
+isbn: 045146091X
+isbn13: '9780451460912'
 rating: 5
-book/pages: 517
+page_count: 517
 series_index: [7]
 ---
 Ooh fun. A big bad necromancer (in this world, the driving force behind World War I) got taken out by the White Council decades ago. Unfortunately, he left behind a small pile of minions, who of course came calling on Dresden's home turf.  

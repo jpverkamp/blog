@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader (2015)'
 reviews/authors:
 - Kieron Gillen
-book/goodreads_id: 24819813
+goodreads_id: 24819813
 cover: /embeds/books/star-wars-darth-vader-vol-1-vader.jpg
-book/isbn: 0785192557
-book/isbn13: '9780785192558'
+isbn: 0785192557
+isbn13: '9780785192558'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [1]
 ---
 Star Wars!  

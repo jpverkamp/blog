@@ -8,12 +8,12 @@ reviews/series:
 - Discworld
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 618145
+goodreads_id: 618145
 cover: /embeds/books/a-hat-full-of-sky.jpg
-book/isbn: 0060586621
-book/isbn13: '9780060586621'
+isbn: 0060586621
+isbn13: '9780060586621'
 rating: 5
-book/pages: 407
+page_count: 407
 series_index: [32]
 ---
 > Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.

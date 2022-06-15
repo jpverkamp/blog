@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 15737118
+goodreads_id: 15737118
 cover: /embeds/books/freedoms-dawn.jpg
 rating: 4
-book/pages: 256
+page_count: 256
 series_index: [4]
 ---
 {{< goodreads book="Freedom's Dawn" text=" Freedom's Dawn " >}} continues the Frontiers Saga as Captain Nathan and the crew of the Aurora find themselves a thousand light years from home, embroiled in a rebellion against the EVIL EMPIRE etc.  

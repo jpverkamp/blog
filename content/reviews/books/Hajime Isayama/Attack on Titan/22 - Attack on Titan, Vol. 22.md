@@ -8,10 +8,10 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 35895462
+goodreads_id: 35895462
 cover: /embeds/books/attack-on-titan-vol-22.jpg
 rating: 5
-book/pages: 190
+page_count: 190
 series_index: [22]
 ---
 Well that's a switch. We have a notebook talking about Eren's father's life outside of the walls, just how large the rest of the world is, and how the Attack Titan came to be.  

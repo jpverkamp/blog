@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Andy Diggle
-book/goodreads_id: 43088693
+goodreads_id: 43088693
 cover: /embeds/books/hellblazer-vol-21-the-laughing-magician.jpg
-book/isbn: '1401292127'
-book/isbn13: '9781401292126'
+isbn: '1401292127'
+isbn13: '9781401292126'
 rating: 4
-book/pages: 376
+page_count: 376
 series_index: [21]
 ---
 More lore around the Constantine line, hints of destiny thwarted before birth, a magic stick, and a mage hunting shark man. 

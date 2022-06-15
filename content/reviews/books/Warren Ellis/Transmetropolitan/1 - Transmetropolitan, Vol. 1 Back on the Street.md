@@ -13,12 +13,12 @@ bingo-data:
   - 2x4+
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22416
+goodreads_id: 22416
 cover: /embeds/books/transmetropolitan-vol-1-back-on-the-street.jpg
-book/isbn: '1563894459'
-book/isbn13: '9781563894459'
+isbn: '1563894459'
+isbn13: '9781563894459'
 rating: 5
-book/pages: 72
+page_count: 72
 series_index: [1]
 ---
 Oooh boy.  

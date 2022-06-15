@@ -8,12 +8,12 @@ reviews/series:
 - Powder Mage
 reviews/authors:
 - Brian  McClellan
-book/goodreads_id: 17608111
+goodreads_id: 17608111
 cover: /embeds/books/the-crimson-campaign.jpg
-book/isbn: '0356502023'
-book/isbn13: '9780356502021'
+isbn: '0356502023'
+isbn13: '9780356502021'
 rating: 4
-book/pages: 596
+page_count: 596
 series_index: [2]
 ---
 I think the main reason that I had some problems following all of the different storylines in the first Powder Mage book was that I was reading one chapter per day and discussion as I went. Reading straight through the second book helped keep everything together. It also helps that there are few to no new major characters.  

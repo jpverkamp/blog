@@ -8,12 +8,12 @@ reviews/series:
 - Saga
 reviews/authors:
 - Brian K. Vaughan
-book/goodreads_id: 29237211
+goodreads_id: 29237211
 cover: /embeds/books/saga-vol-7.jpg
-book/isbn: '1534300600'
-book/isbn13: '9781534300606'
+isbn: '1534300600'
+isbn13: '9781534300606'
 rating: 5
-book/pages: 152
+page_count: 152
 series_index: [7]
 ---
 Oh these poor poor people. The main family. The Will. All of them. Man this series got depressing.  

@@ -8,10 +8,10 @@ reviews/series:
 - The Expanse
 reviews/authors:
 - James S.A. Corey
-book/goodreads_id: 18142735
+goodreads_id: 18142735
 cover: /embeds/books/calibans-war.jpg
 rating: 5
-book/pages: 583
+page_count: 583
 series_index: [2]
 ---
 > It’s not healthy having God sleeping right there where we can all watch him dream.

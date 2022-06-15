@@ -8,12 +8,12 @@ reviews/series:
 - Redwall
 reviews/authors:
 - Brian Jacques
-book/goodreads_id: 7993
+goodreads_id: 7993
 cover: /embeds/books/mariel-of-redwall.jpg
-book/isbn: 0142302392
-book/isbn13: '9780142302392'
+isbn: 0142302392
+isbn13: '9780142302392'
 rating: 4
-book/pages: 400
+page_count: 400
 series_index: [4]
 ---
 {{< goodreads book="Mariel of Redwall" >}} takes place between {{< goodreads book="Mossflower" >}} and {{< goodreads book="Redwall" >}} and once again splits the story, this time between Mariel, daughter of Joseph the Bellmaker on a quest for vengence and a(nother) sea rat attack on Mossflower Abbey.  

@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - James Herriot
-book/goodreads_id: 38735
+goodreads_id: 38735
 cover: /embeds/books/james-herriots-treasury-for-children-warm-and-joyful-tales-by-the-author-of-all-creatures-great-and-small.jpg
-book/isbn: 0312085125
-book/isbn13: '9780312085124'
+isbn: 0312085125
+isbn13: '9780312085124'
 rating: 5
-book/pages: 260
+page_count: 260
 ---
 Well that's a lovely connection  
 

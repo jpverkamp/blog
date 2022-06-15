@@ -8,12 +8,12 @@ reviews/series:
 - Codex Alera
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 2903736
+goodreads_id: 2903736
 cover: /embeds/books/princeps-fury.jpg
-book/isbn: 0441016383
-book/isbn13: '9780441016389'
+isbn: 0441016383
+isbn13: '9780441016389'
 rating: 5
-book/pages: 386
+page_count: 386
 series_index: [5]
 ---
 Compared to the previous books, {{< goodreads book="Princeps' Fury" text=" Princeps' Fury " >}} changes focus somewhat. For the first time, we're not actually focussed solely around Alera and the domain and battles of the humans. Instead, we're going to Canim where unfortunately  {{< spoiler >}}the Vord have taken over nearly anything{{< /spoiler >}}  . It's a neat change of focus and a crazy escalation of stakes--although admittedly not unexpected.  

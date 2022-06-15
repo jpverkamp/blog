@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 7326879
+goodreads_id: 7326879
 cover: /embeds/books/fullmetal-alchemist-vol-23.jpg
-book/isbn: '1421536307'
-book/isbn13: '9781421536309'
+isbn: '1421536307'
+isbn13: '9781421536309'
 rating: 5
-book/pages: 200
+page_count: 200
 series_index: [23]
 ---
 IT CONTINUES!  

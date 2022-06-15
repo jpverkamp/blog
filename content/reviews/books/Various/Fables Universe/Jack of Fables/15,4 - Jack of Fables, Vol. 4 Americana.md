@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 3321998
+goodreads_id: 3321998
 cover: /embeds/books/jack-of-fables-vol-4-americana.jpg
-book/isbn: '1401219799'
-book/isbn13: '9781401219796'
+isbn: '1401219799'
+isbn13: '9781401219796'
 rating: 4
-book/pages: 128
+page_count: 128
 series_index: [4, 15]
 ---
 So far as Jack stories, this was one pretty week. Americana is interesting, and the idea that zombies are both a huge part of life, but completely integrated certainly means... something?  

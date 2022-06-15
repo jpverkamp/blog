@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 2855165
+goodreads_id: 2855165
 cover: /embeds/books/fullmetal-alchemist-vol-17.jpg
-book/isbn: 142152161X
-book/isbn13: '9781421521619'
+isbn: 142152161X
+isbn13: '9781421521619'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [17]
 ---
 Man this story is getting crazy. Another Homunculus (Sloth!), a giant transmutation circle under the whole country, more Von Hoenheim backstory, something wicked in the tunnel...  

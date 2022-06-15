@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Kaitlin Ugolik Phillips
-book/goodreads_id: 51274206
+goodreads_id: 51274206
 cover: /embeds/books/the-future-of-feeling-building-empathy-in-a-tech-obsessed-world.jpg
 rating: 2
-book/pages: 223
+page_count: 223
 ---
 Did not finish at about 50%. I mostly picked this up from the Amazon Prime selection.  
 

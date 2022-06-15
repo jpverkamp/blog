@@ -8,10 +8,10 @@ reviews/series:
 - Hex11
 reviews/authors:
 - Kelly Sue Milano
-book/goodreads_id: 29483460
+goodreads_id: 29483460
 cover: /embeds/books/hex11-vol-1-the-magic-age-rises.jpg
 rating: 5
-book/pages: 151
+page_count: 151
 series_index: [1]
 ---
 Well that's quite a story. It's a near future dystopia with major Shadowrun vibes: magic is back and for the most part, it's being treated as and integrated with technology--with varying levels of success. Corporations have all the power and are represented as the big bads. People get kidnapped off the streets and all manner of other troubles. Add to that the main character just training in her powers, but somehow a chosen one with powers she doesn't even realize--and all manner of quirky allies along the way.  

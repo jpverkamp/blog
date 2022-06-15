@@ -6,10 +6,10 @@ reviews/lists:
 - 2018 Book Reviews
 reviews/authors:
 - Justin Groot
-book/goodreads_id: 36549857
+goodreads_id: 36549857
 cover: /embeds/books/pale-green-dot-sequel-to-the-forest.jpg
 rating: 4
-book/pages: 307
+page_count: 307
 ---
 Review of .  
 

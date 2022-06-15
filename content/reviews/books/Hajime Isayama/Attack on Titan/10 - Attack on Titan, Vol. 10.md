@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 18077956
+goodreads_id: 18077956
 cover: /embeds/books/attack-on-titan-vol-10.jpg
-book/isbn: '1612626769'
-book/isbn13: '9781612626765'
+isbn: '1612626769'
+isbn13: '9781612626765'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [10]
 ---
 Wooo boy. The wall is breached and the 104th is still doing their absolute best to save the day. One thing leads to another and they get trapped by Titans in a castle in the wall--only for everything to go absolutely sideways once again!  

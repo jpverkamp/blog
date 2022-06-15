@@ -8,10 +8,10 @@ reviews/series:
 - Harry Potter
 reviews/authors:
 - J.K. Rowling
-book/goodreads_id: 136251
+goodreads_id: 136251
 cover: /embeds/books/harry-potter-and-the-deathly-hallows.jpg
 rating: 4
-book/pages: 759
+page_count: 759
 series_index: [7]
 ---
 And so it ends.  

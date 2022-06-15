@@ -8,12 +8,12 @@ reviews/series:
 - Artemis Fowl
 reviews/authors:
 - Eoin Colfer
-book/goodreads_id: 227865
+goodreads_id: 227865
 cover: /embeds/books/the-eternity-code.jpg
-book/isbn: 0141321318
-book/isbn13: '9780141321318'
+isbn: 0141321318
+isbn13: '9780141321318'
 rating: 5
-book/pages: 329
+page_count: 329
 series_index: [3]
 ---
 All of that growth that Artemis went through in the Arctic Incident? His father and mother both back and home, each with a fairy-magic-inspired positive outlook on life? Doesn't mean that he's above trying to exploit fairy technology for a bit more gold...  

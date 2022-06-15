@@ -6,10 +6,10 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Mark J. Nelson
-book/goodreads_id: 29339831
+goodreads_id: 29339831
 cover: /embeds/books/procedural-content-generation-in-games.jpg
 rating: 4
-book/pages: 235
+page_count: 235
 ---
 It's been a while since I've read a textbook. :) This is exactly the sort I would have lost myself in during undergrad (and to some extent did even now).  
 

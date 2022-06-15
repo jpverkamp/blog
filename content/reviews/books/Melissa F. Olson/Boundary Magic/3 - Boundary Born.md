@@ -8,10 +8,10 @@ reviews/series:
 - Boundary Magic
 reviews/authors:
 - Melissa F. Olson
-book/goodreads_id: 28496524
+goodreads_id: 28496524
 cover: /embeds/books/boundary-born.jpg
 rating: 4
-book/pages: 290
+page_count: 290
 series_index: [3]
 ---
 > And now that you know this, are you any different than you were yesterday?” he asked. Pragmatic, as usual. “Nothing has changed, Lex. You haven’t changed. You just know something that you didn’t know before, that’s all.

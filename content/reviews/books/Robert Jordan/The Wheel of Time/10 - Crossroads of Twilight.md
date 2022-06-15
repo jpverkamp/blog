@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 113435
+goodreads_id: 113435
 cover: /embeds/books/crossroads-of-twilight.jpg
-book/isbn: 0312864590
-book/isbn13: '9780312864590'
+isbn: 0312864590
+isbn13: '9780312864590'
 rating: 4
-book/pages: 704
+page_count: 704
 series_index: [10]
 ---
 > Life is a dream, and everyone wakes eventually.

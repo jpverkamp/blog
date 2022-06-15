@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267291
+goodreads_id: 267291
 cover: /embeds/books/powersat.jpg
-book/isbn: 0765348179
-book/isbn13: '9780765348173'
+isbn: 0765348179
+isbn13: '9780765348173'
 rating: 3
-book/pages: 424
+page_count: 424
 series_index: [1]
 ---
 I last read most of the The Grand Tour in high school or earlier, jumping about from book to book in no particular order. I don't even know if I read The Grand Tour, especially given that it might not have been out yet. It's a bit of a strange book, set first chronologically but written decades after others in the series. I was looking for an audiobook series to listen to next and this seemed worth a try.  

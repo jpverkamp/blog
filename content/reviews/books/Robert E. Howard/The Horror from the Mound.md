@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - Robert E. Howard
-book/goodreads_id: 25640567
+goodreads_id: 25640567
 cover: /embeds/books/the-horror-from-the-mound.jpg
 rating: 5
-book/pages: 32
+page_count: 32
 ---
 I recently read through a large part of Lovecraft's work. It was interesting seeing the first of what eventually became the Lovecraftian Mythos, but there were still some issues with it--Lovecraft wasn't really the best when it came to plot or character and was very much a product of his times.  
 

@@ -8,10 +8,10 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 27833731
+goodreads_id: 27833731
 cover: /embeds/books/attack-on-titan-vol-19.jpg
 rating: 5
-book/pages: 189
+page_count: 189
 series_index: [19]
 ---
 Take the wall! Fight fight Titan fight! Crazy new technology to level the playing field. Fun times.  

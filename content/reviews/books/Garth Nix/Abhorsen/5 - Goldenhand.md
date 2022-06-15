@@ -8,10 +8,10 @@ reviews/series:
 - Abhorsen
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 29414640
+goodreads_id: 29414640
 cover: /embeds/books/goldenhand.jpg
 rating: 5
-book/pages: 368
+page_count: 368
 series_index: [5]
 ---
 > “Your librarians go into battle?”  

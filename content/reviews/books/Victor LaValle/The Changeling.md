@@ -10,12 +10,12 @@ bingo-data:
   - 1x3+
 reviews/authors:
 - Victor LaValle
-book/goodreads_id: 31147267
+goodreads_id: 31147267
 cover: /embeds/books/the-changeling.jpg
-book/isbn: 0812995945
-book/isbn13: '9780812995947'
+isbn: 0812995945
+isbn13: '9780812995947'
 rating: 4
-book/pages: 431
+page_count: 431
 ---
 On one level, it's about fatherhood. Apollo grew up without a dad and vows he's going to do better by his own son. And right from the beginning--a surprise delivery no one around was quite ready for--he does everything he can. As a father, with my youngest about the age of Apollo's... when things go sideways. But we'll come back to that. 
 

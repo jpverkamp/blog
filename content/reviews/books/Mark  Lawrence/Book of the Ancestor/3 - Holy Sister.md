@@ -7,10 +7,10 @@ reviews/series:
 - Book of the Ancestor
 reviews/authors:
 - Mark  Lawrence
-book/goodreads_id: 38099642
+goodreads_id: 38099642
 cover: /embeds/books/holy-sister.jpg
 rating: 4
-book/pages: 367
+page_count: 367
 series_index: [3]
 ---
 > All leaves must fall in time, she had said. The lives we lived fall away from us, but something remains, something that is part of the tree.

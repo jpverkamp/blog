@@ -8,12 +8,12 @@ reviews/series:
 - Codex Alera
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 6316821
+goodreads_id: 6316821
 cover: /embeds/books/first-lords-fury.jpg
-book/isbn: 044101769X
-book/isbn13: '9780441017690'
+isbn: 044101769X
+isbn13: '9780441017690'
 rating: 5
-book/pages: 465
+page_count: 465
 series_index: [6]
 ---
 > Life, Tavi reflected, seldom makes a gift of what one expects or plans for.

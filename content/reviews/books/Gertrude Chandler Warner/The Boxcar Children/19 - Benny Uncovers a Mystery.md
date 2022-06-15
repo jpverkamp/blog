@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 182373
+goodreads_id: 182373
 cover: /embeds/books/benny-uncovers-a-mystery.jpg
-book/isbn: 0807506451
-book/isbn13: '9780807506455'
+isbn: 0807506451
+isbn13: '9780807506455'
 rating: 4
-book/pages: 128
+page_count: 128
 series_index: [19]
 ---
 And so it ends--at least the original 19 books written by {{< goodreads author="Gertrude Chandler Warner" >}}, which is where I'll be stopping for the time being.  

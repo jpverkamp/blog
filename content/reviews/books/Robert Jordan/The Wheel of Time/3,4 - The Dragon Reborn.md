@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 34897
+goodreads_id: 34897
 cover: /embeds/books/the-dragon-reborn.jpg
-book/isbn: 0765305119
-book/isbn13: '9780765305114'
+isbn: 0765305119
+isbn13: '9780765305114'
 rating: 5
-book/pages: 624
+page_count: 624
 series_index: [3]
 ---
 > Til shade is gone,  

@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Richard Atwater
-book/goodreads_id: 61549
+goodreads_id: 61549
 cover: /embeds/books/mr-poppers-penguins.jpg
 rating: 4
-book/pages: 139
+page_count: 139
 ---
 Well that's a delightful if a bit bizarre little book.  
 

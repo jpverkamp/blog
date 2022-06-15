@@ -8,12 +8,12 @@ reviews/series:
 - Abhorsen
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 20662728
+goodreads_id: 20662728
 cover: /embeds/books/clariel.jpg
-book/isbn: 006156155X
-book/isbn13: '9780061561559'
+isbn: 006156155X
+isbn13: '9780061561559'
 rating: 4
-book/pages: 382
+page_count: 382
 series_index: [4]
 ---
 Compared to the original trilogy, both Clariel the book and Cariel the character have a rather different feel.  

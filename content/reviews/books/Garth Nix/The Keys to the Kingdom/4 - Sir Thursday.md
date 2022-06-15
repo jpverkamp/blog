@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 47618
+goodreads_id: 47618
 cover: /embeds/books/sir-thursday.jpg
-book/isbn: 0439436575
-book/isbn13: '9780439436571'
+isbn: 0439436575
+isbn13: '9780439436571'
 rating: 4
-book/pages: 344
+page_count: 344
 series_index: [4]
 ---
 Not much to say. Onwards and upwards for Arthur, taking on another of the Trustees and gaining another of the Keys.  

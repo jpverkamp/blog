@@ -8,12 +8,12 @@ reviews/series:
 - Saga
 reviews/authors:
 - Brian K. Vaughan
-book/goodreads_id: 23093367
+goodreads_id: 23093367
 cover: /embeds/books/saga-vol-4.jpg
-book/isbn: '1632150778'
-book/isbn13: '9781632150776'
+isbn: '1632150778'
+isbn13: '9781632150776'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [4]
 ---
 First one not on comiXology unlimited. Worth it.  

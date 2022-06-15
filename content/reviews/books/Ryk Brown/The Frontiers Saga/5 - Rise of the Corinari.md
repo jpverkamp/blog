@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 16081718
+goodreads_id: 16081718
 cover: /embeds/books/rise-of-the-corinari.jpg
 rating: 5
-book/pages: 326
+page_count: 326
 series_index: [5]
 ---
 > It ain't life that left you no choice, its honor!

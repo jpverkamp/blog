@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 91476
+goodreads_id: 91476
 cover: /embeds/books/grave-peril.jpg
-book/isbn: 0451458443
-book/isbn13: '9780451458445'
+isbn: 0451458443
+isbn13: '9780451458445'
 rating: 5
-book/pages: 378
+page_count: 378
 series_index: [3]
 ---
 First there was a sorcerer. Then werewolves. Next up, ghosts and vampires. The Dresden Files certainly get around.  

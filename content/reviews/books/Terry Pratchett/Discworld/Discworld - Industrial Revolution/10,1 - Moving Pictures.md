@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Industrial Revolution
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34510
+goodreads_id: 34510
 cover: /embeds/books/moving-pictures.jpg
-book/isbn: 0552152943
-book/isbn13: '9780552152945'
+isbn: 0552152943
+isbn13: '9780552152945'
 rating: 4
-book/pages: 396
+page_count: 396
 series_index: [10, 1]
 ---
 Discworld goes Hollywood. Or perhaps Hollywood comes to Discworld?  

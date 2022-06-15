@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 6534412
+goodreads_id: 6534412
 cover: /embeds/books/the-boys-volume-5-herogasm.jpg
-book/isbn: 160690082X
-book/isbn13: '9781606900826'
+isbn: 160690082X
+isbn13: '9781606900826'
 rating: 4
-book/pages: 144
+page_count: 144
 series_index: [5]
 ---
 *Warning: NSFW*   

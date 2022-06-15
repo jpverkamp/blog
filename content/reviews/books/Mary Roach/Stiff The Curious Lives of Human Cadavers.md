@@ -5,10 +5,10 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Mary Roach
-book/goodreads_id: 32145
+goodreads_id: 32145
 cover: /embeds/books/stiff-the-curious-lives-of-human-cadavers.jpg
 rating: 4
-book/pages: 305
+page_count: 305
 ---
 > Death. It doesn’t have to be boring.  
 

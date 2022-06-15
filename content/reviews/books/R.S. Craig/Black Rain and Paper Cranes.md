@@ -10,11 +10,11 @@ bingo-data:
   - 4x2+
 reviews/authors:
 - R.S. Craig
-book/goodreads_id: 55833231
+goodreads_id: 55833231
 cover: /embeds/books/black-rain-and-paper-cranes.jpg
-book/isbn13: '9798556062467'
+isbn13: '9798556062467'
 rating: 4
-book/pages: 196
+page_count: 196
 ---
 That's a strange book. It's one part historical novel--detailing the development, usage, and aftermath of the nuclear weapons detonated over Hiroshima and Nagasaki at the end of World War II--one part technical manual--very roughly detailing the physics and engineering behind early nuclear weapons--and one part children's book--many scenes involve Fritz, the talking (and super fast) dove. We'll come back to that. 
 

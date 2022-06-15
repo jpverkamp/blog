@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 3647089
+goodreads_id: 3647089
 cover: /embeds/books/jack-of-fables-vol-5-turning-pages.jpg
-book/isbn: '1401221386'
-book/isbn13: '9781401221386'
+isbn: '1401221386'
+isbn13: '9781401221386'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [5, 16]
 ---
 Jack in the Wild West. Because of course he is. It's an interesting look at the life of a fable further back in time, Jack in particular. And it's nice to see the contrast between Bigby and Jack. Jack may be a fool, but at least he's a passionate one.  

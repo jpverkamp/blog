@@ -8,12 +8,12 @@ reviews/series:
 - Locke & Key
 reviews/authors:
 - Joe Hill
-book/goodreads_id: 9674335
+goodreads_id: 9674335
 cover: /embeds/books/locke-key-vol-4-keys-to-the-kingdom.jpg
-book/isbn: '1600108865'
-book/isbn13: '9781600108860'
+isbn: '1600108865'
+isbn13: '9781600108860'
 rating: 5
-book/pages: 152
+page_count: 152
 series_index: [4]
 ---
 Okay, that was wonderful. Starting out, we're going full out Calvin and Hobbes style:  

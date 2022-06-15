@@ -8,10 +8,10 @@ reviews/series:
 - The Broken Earth
 reviews/authors:
 - N.K. Jemisin
-book/goodreads_id: 31817749
+goodreads_id: 31817749
 cover: /embeds/books/the-stone-sky.jpg
 rating: 5
-book/pages: 416
+page_count: 416
 series_index: [3]
 ---
 Wow.  

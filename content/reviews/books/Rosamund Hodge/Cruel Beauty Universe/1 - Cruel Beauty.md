@@ -8,12 +8,12 @@ reviews/series:
 - Cruel Beauty Universe
 reviews/authors:
 - Rosamund Hodge
-book/goodreads_id: 15839984
+goodreads_id: 15839984
 cover: /embeds/books/cruel-beauty.jpg
-book/isbn: '0062224735'
-book/isbn13: '9780062224736'
+isbn: '0062224735'
+isbn13: '9780062224736'
 rating: 4
-book/pages: 346
+page_count: 346
 series_index: [1]
 ---
 Cruel Beauty is a re-skinning of Beauty and the Beast, told in a weird, fantastic world with strong influences from ancient Greece and Rome. Among the retold fairy tales that I've read, it's among the best of them and manages to feel reasonably like the inspiration story while adding a good number of weird twists and beautiful imagery on top of it.  

@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 12351103
+goodreads_id: 12351103
 cover: /embeds/books/the-boys-volume-9-the-big-ride.jpg
-book/isbn: '1606902202'
-book/isbn13: '9781606902202'
+isbn: '1606902202'
+isbn13: '9781606902202'
 rating: 4
-book/pages: 276
+page_count: 276
 series_index: [9]
 ---
 If {{< goodreads book="The Boys, Volume 8: Highland Laddie" >}} was a filler, {{< goodreads book="The Boys, Volume 9: The Big Ride" >}} is a return to form.  

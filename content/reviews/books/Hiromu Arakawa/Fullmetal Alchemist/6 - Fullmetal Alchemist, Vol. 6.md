@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 44734
+goodreads_id: 44734
 cover: /embeds/books/fullmetal-alchemist-vol-6.jpg
-book/isbn: '1421503190'
-book/isbn13: '9781421503196'
+isbn: '1421503190'
+isbn13: '9781421503196'
 rating: 5
-book/pages: 186
+page_count: 186
 series_index: [6]
 ---
 **6.22: The Masked Man**  

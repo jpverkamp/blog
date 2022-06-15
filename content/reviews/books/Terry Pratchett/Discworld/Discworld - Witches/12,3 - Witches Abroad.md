@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Witches
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 2442
+goodreads_id: 2442
 cover: /embeds/books/witches-abroad.jpg
-book/isbn: '0061020613'
-book/isbn13: '9780061020612'
+isbn: '0061020613'
+isbn13: '9780061020612'
 rating: 4
-book/pages: 374
+page_count: 374
 series_index: [12, 3]
 ---
 The witches are a lot of fun to read about, especially in how they interact with one another. Granny is hilariously no-nonsense, but too stubborn to admin when she doesn't know something. Nanny Ogg is much more worldly (for a witch) and a good counterpoint. Magrat is the young witch, still learning, and has the advantage of not knowing quite so well as the two older witches just when something is _supposed_ to be impossible.  

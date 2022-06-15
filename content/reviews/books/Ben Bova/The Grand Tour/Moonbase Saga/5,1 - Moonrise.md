@@ -9,12 +9,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267287
+goodreads_id: 267287
 cover: /embeds/books/moonrise.jpg
-book/isbn: 0380786974
-book/isbn13: '9780380786978'
+isbn: 0380786974
+isbn13: '9780380786978'
 rating: 3
-book/pages: 576
+page_count: 576
 series_index: [1, 5]
 ---
 A bit of a jump in focus and topic from {{< goodreads book="Mars" text=" Mars " >}} , {{< goodreads book="Moonrise" text=" Moonrise " >}} is more similar to {{< goodreads book="Privateers" text=" Privateers " >}} et al (the Dan Randolph books), with more of a focus on corporate structure over science.

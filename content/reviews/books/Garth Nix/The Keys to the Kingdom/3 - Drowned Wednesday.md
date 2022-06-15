@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 47619
+goodreads_id: 47619
 cover: /embeds/books/drowned-wednesday.jpg
-book/isbn: 0439436567
-book/isbn13: '9780439436564'
+isbn: 0439436567
+isbn13: '9780439436564'
 rating: 4
-book/pages: 389
+page_count: 389
 series_index: [3]
 ---
 The world of the Keys to the Kingdom continues to get more interesting and weirder all at once. This time around, we have a sort of Multiversal Ocean and the Morrow Day that governs it. It's an interesting world all itself, with ships that were once other things, uplifted rats, and a very Nix'ian version of the Jonah and Whale story.  

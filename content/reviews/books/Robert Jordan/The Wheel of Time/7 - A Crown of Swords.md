@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 13890
+goodreads_id: 13890
 cover: /embeds/books/a-crown-of-swords.jpg
-book/isbn: 0812550285
-book/isbn13: '9780812550283'
+isbn: 0812550285
+isbn13: '9780812550283'
 rating: 4
-book/pages: 880
+page_count: 880
 series_index: [7]
 ---
 And so begins the slog.  

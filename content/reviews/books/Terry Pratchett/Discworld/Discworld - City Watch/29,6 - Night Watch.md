@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 47989
+goodreads_id: 47989
 cover: /embeds/books/night-watch.jpg
-book/isbn: 055215430X
-book/isbn13: '9780552154307'
+isbn: 055215430X
+isbn13: '9780552154307'
 rating: 5
-book/pages: 480
+page_count: 480
 series_index: [29, 6]
 ---
 Night Watch starts with Vimes and a few others visiting a number of otherwise forgotten graves. When asked what was going on: "you had to have been there."  

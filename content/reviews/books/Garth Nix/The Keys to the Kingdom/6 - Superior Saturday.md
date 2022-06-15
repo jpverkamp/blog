@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 2049823
+goodreads_id: 2049823
 cover: /embeds/books/superior-saturday.jpg
-book/isbn: 0439700892
-book/isbn13: '9780439700894'
+isbn: 0439700892
+isbn13: '9780439700894'
 rating: 4
-book/pages: 336
+page_count: 336
 series_index: [6]
 ---
 I like the visuals around Saturday's realm. It's one of the better ones when it comes to motivation and the idea of a gigantic clockwork tower stretching upwards... cool.  

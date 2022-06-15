@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 102462
+goodreads_id: 102462
 cover: /embeds/books/hellboy-vol-5-conqueror-worm.jpg
-book/isbn: '1593070926'
-book/isbn13: '9781593070922'
+isbn: '1593070926'
+isbn13: '9781593070922'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [5]
 ---
 > God damn Nazi-Frankenstein monkey! You **don't** know **when** to **quit!**

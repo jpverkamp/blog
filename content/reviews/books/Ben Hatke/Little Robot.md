@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Ben Hatke
-book/goodreads_id: 23310721
+goodreads_id: 23310721
 cover: /embeds/books/little-robot.jpg
-book/isbn: '1626720800'
-book/isbn13: '9781626720800'
+isbn: '1626720800'
+isbn13: '9781626720800'
 rating: 5
-book/pages: 135
+page_count: 135
 ---
 It's adorable!  
 

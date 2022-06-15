@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267281
+goodreads_id: 267281
 cover: /embeds/books/titan.jpg
-book/isbn: '0765343150'
-book/isbn13: '9780765343154'
+isbn: '0765343150'
+isbn13: '9780765343154'
 rating: 3
-book/pages: 418
+page_count: 418
 series_index: [15]
 ---
 On one hand, it's better than {{< goodreads book="Saturn" text=" Saturn " >}} . At least this time around, we spend the entire book around Saturn and Titan, with a bit more exploration into the rings of the former and on the surface of the latter. There are essentially three plotlines: a robotic probe sent to Titan is refusing to phone home, someone has to go back to rings to verify that they're alive, and it's election season again--this time with Zero Population Growth as the main issue.  

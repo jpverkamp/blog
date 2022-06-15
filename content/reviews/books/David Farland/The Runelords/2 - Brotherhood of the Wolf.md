@@ -8,12 +8,12 @@ reviews/series:
 - The Runelords
 reviews/authors:
 - David Farland
-book/goodreads_id: 144112
+goodreads_id: 144112
 cover: /embeds/books/brotherhood-of-the-wolf.jpg
-book/isbn: 0812570693
-book/isbn13: '9780812570694'
+isbn: 0812570693
+isbn13: '9780812570694'
 rating: 5
-book/pages: 659
+page_count: 659
 series_index: [2]
 ---
 Wooo boy things ramp up.  

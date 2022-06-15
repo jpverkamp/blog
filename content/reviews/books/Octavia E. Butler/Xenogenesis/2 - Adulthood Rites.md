@@ -8,12 +8,12 @@ reviews/series:
 - Xenogenesis
 reviews/authors:
 - Octavia E. Butler
-book/goodreads_id: 116249
+goodreads_id: 116249
 cover: /embeds/books/adulthood-rites.jpg
-book/isbn: 0446603783
-book/isbn13: '9780446603782'
+isbn: 0446603783
+isbn13: '9780446603782'
 rating: 5
-book/pages: 277
+page_count: 277
 series_index: [2]
 ---
 {{< goodreads book="Adulthood Rites" text=" Adulthood Rites " >}} follows up with the story of Lilith and the alien invasion / our alien saviors set out in {{< goodreads book="Dawn" text=" Dawn " >}} . This time around though, the main point of view follows Akin. A first generation child of an Oankali/human/Ooloi five parent mating--it's about as weird and interesting as it sounds-who starts the story as a rather precocious (for a human) one year old.  

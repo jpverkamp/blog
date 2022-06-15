@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 13130783
+goodreads_id: 13130783
 cover: /embeds/books/the-boys-volume-10-butcher-baker-candlestick-maker.jpg
-book/isbn: '1606902644'
-book/isbn13: '9781606902646'
+isbn: '1606902644'
+isbn13: '9781606902646'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [10]
 ---
 Here in {{< goodreads book="The Boys, Volume 10: Butcher, Baker, Candlestick Maker" text=" The Boys, Volume 10: Butcher, Baker, Candlestick Maker " >}} , we learn about Becky, Butcher's wife and--really--the reason for many of the events of the series. Turns out she's absolutely wonderful and, no surprise to anyone, especially if you've seen the TV series  {{< spoiler >}}gets raped and eventually killed by a supe{{< /spoiler >}}  .  

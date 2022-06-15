@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Moist von Lipwig
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 64222
+goodreads_id: 64222
 cover: /embeds/books/going-postal.jpg
-book/isbn: 0060502932
-book/isbn13: '9780060502935'
+isbn: 0060502932
+isbn13: '9780060502935'
 rating: 5
-book/pages: 394
+page_count: 394
 series_index: [33, 1]
 ---
 At the time of writing this, {{< goodreads book="Going Postal" >}} is tied for the second highest rated Discworld book on Goodreads (tied with {{< goodreads book="Men at Arms" >}} at 4.37, behind {{< goodreads book="Night Watch" >}} at 4.48). There's a reason for this...  

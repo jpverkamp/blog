@@ -8,11 +8,11 @@ reviews/series:
 - Pendragon
 reviews/authors:
 - D.J. MacHale
-book/goodreads_id: 147801
+goodreads_id: 147801
 cover: /embeds/books/black-water.jpg
-book/isbn: 0689869118
-book/isbn13: '9780689869112'
-book/pages: 427
+isbn: 0689869118
+isbn13: '9780689869112'
+page_count: 427
 series_index: [5]
 ---
 I tried. Really I did. But when you read as quickly as I do and realize that you've already spent more than a month on one book, it's time to move on.  

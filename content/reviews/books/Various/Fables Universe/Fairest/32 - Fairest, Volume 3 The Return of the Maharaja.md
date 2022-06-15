@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Sean E. Williams
-book/goodreads_id: 18465920
+goodreads_id: 18465920
 cover: /embeds/books/fairest-volume-3-the-return-of-the-maharaja.jpg
-book/isbn: '1401245935'
-book/isbn13: '9781401245931'
+isbn: '1401245935'
+isbn13: '9781401245931'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [0, 32]
 ---
 So.  {{< spoiler >}}Charming{{< /spoiler >}}  survived. And now he's a Maharaja in a world of Indian Fables. I guess I shouldn't really be surprised.  

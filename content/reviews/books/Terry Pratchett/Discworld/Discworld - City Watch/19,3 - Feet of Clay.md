@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34527
+goodreads_id: 34527
 cover: /embeds/books/feet-of-clay.jpg
-book/isbn: '0552153257'
-book/isbn13: '9780552153256'
+isbn: '0552153257'
+isbn13: '9780552153256'
 rating: 5
-book/pages: 411
+page_count: 411
 series_index: [19, 3]
 ---
 Feet of Clay's central story tackles one key idea: What makes a person a person?  

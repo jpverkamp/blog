@@ -8,12 +8,12 @@ reviews/series:
 - Wild Cards
 reviews/authors:
 - George R.R. Martin
-book/goodreads_id: 147908
+goodreads_id: 147908
 cover: /embeds/books/wild-cards.jpg
-book/isbn: '1596872829'
-book/isbn13: '9781596872820'
+isbn: '1596872829'
+isbn13: '9781596872820'
 rating: 4
-book/pages: 432
+page_count: 432
 series_index: [1]
 ---
 Finally got around to it. I haven't been able to find the whole series on audiobook, but at least I have the first few, so let's give it a go!  

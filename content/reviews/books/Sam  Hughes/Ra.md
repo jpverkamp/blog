@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Sam  Hughes
-book/goodreads_id: 43210320
+goodreads_id: 43210320
 cover: /embeds/books/ra.jpg
 rating: 4
-book/pages: 506
+page_count: 506
 ---
 >  The first magic spell is spoken by a 90-year-old retired Indian physicist > named Suravaram Vidyasagar on 1st June 1972. It is one hundred and seventy- > nine syllables long, comprising equal parts Upanishadic mantra and partial > differential equation.  
 >

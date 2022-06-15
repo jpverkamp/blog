@@ -8,12 +8,12 @@ reviews/series:
 - Kate Daniels
 reviews/authors:
 - Ilona Andrews
-book/goodreads_id: 17333171
+goodreads_id: 17333171
 cover: /embeds/books/magic-shifts.jpg
-book/isbn: 042527067X
-book/isbn13: '9780425270677'
+isbn: 042527067X
+isbn13: '9780425270677'
 rating: 5
-book/pages: 342
+page_count: 342
 series_index: [8]
 ---
 >  "Does everybody think I'm an asshole?" Curran asked.  

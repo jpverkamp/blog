@@ -8,12 +8,12 @@ reviews/series:
 - Locke & Key
 reviews/authors:
 - Joe Hill
-book/goodreads_id: 7202841
+goodreads_id: 7202841
 cover: /embeds/books/locke-key-vol-3-crown-of-shadows.jpg
-book/isbn: '1600106951'
-book/isbn13: '9781600106958'
+isbn: '1600106951'
+isbn13: '9781600106958'
 rating: 5
-book/pages: 152
+page_count: 152
 series_index: [3]
 ---
 So it's not just keys... it's crowns and other artifacts too now? That's cool! They're all still vaguely key related, so it works out.  

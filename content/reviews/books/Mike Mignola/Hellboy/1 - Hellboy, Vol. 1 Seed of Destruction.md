@@ -8,12 +8,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 102458
+goodreads_id: 102458
 cover: /embeds/books/hellboy-vol-1-seed-of-destruction.jpg
-book/isbn: '1593070942'
-book/isbn13: '9781593070946'
+isbn: '1593070942'
+isbn13: '9781593070946'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [1]
 ---
 > If I have a real name, I've never known it. I'm called Hellboy.

@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21329
+goodreads_id: 21329
 cover: /embeds/books/fables-vol-3-storybook-love.jpg
-book/isbn: 140120256X
-book/isbn13: '9781401202569'
+isbn: 140120256X
+isbn13: '9781401202569'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [3, 3]
 ---
 {{< goodreads book="Fables, Vol. 3: Storybook Love" >}}. I never would have expected extortion and a heist story!  

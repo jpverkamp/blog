@@ -8,12 +8,12 @@ reviews/series:
 - The Chronicles of Amber
 reviews/authors:
 - Roger Zelazny
-book/goodreads_id: 239917
+goodreads_id: 239917
 cover: /embeds/books/sign-of-the-unicorn.jpg
-book/isbn: 0380008319
-book/isbn13: '9780380008315'
+isbn: 0380008319
+isbn13: '9780380008315'
 rating: 4
-book/pages: 192
+page_count: 192
 series_index: [3]
 ---
 In {{< goodreads book="Nine Princes in Amber" >}}, Corwin went from having no memories to learning he was a Prince of Amber, to trying to wrest the throne from his brother Eric--only to be blinded and thrown into prison.  

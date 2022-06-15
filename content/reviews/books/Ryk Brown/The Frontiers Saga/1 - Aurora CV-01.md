@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 13504505
+goodreads_id: 13504505
 cover: /embeds/books/aurora-cv-01.jpg
 rating: 4
-book/pages: 301
+page_count: 301
 series_index: [1]
 ---
 Huh. I picked up {{< goodreads book="Aurora: CV-01" text=" Aurora: CV-01 " >}} based on the recommendation of Steve Gibson of the [ Security Now ](https://www.grc.com/securitynow.htm) podcast. Other than a glowing review and knowing it was sci-fi, I didn't really know anything else about the series.  

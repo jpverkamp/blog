@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 9422029
+goodreads_id: 9422029
 cover: /embeds/books/jack-of-fables-vol-9-the-end.jpg
-book/isbn: '1401231551'
-book/isbn13: '9781401231552'
+isbn: '1401231551'
+isbn13: '9781401231552'
 rating: 3
-book/pages: 144
+page_count: 144
 series_index: [9, 38]
 ---
 Oy. Jack of Fables should probably have ended back with {{< goodreads book="Jack of Fables, Vol. 6: The Big Book of War" text=" Jack of Fables, Vol. 6: The Big Book of War " >}} . It wrapped up everything nicely enough. Instead it just keeps going. But here, we have a finale! Except...  {{< spoiler >}}everyone dies{{< /spoiler >}}  Not even kidding. After we've come to know and love all these characters, the big finale is them all getting together for one last battle ... and every one of them  {{< spoiler >}}dies{{< /spoiler >}}  . I guess that's one way to end a series.  

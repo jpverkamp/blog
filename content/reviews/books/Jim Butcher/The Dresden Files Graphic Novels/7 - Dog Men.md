@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files Graphic Novels
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 35989261
+goodreads_id: 35989261
 cover: /embeds/books/jim-butchers-the-dresden-files-dog-men.jpg
-book/isbn: '1524105449'
-book/isbn13: '9781524105440'
+isbn: '1524105449'
+isbn13: '9781524105440'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [7]
 ---
 > There are two wolves within every man... One represents our greatest capacities--compassion, courage, reason. The other embodies our base emotions --pride, anger, hatred. At every moment of every day, they battle for control of us. But it is we who determine which one win.  

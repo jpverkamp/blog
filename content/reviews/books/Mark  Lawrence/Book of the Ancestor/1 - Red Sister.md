@@ -13,12 +13,12 @@ bingo-data:
   - 2x5+
 reviews/authors:
 - Mark  Lawrence
-book/goodreads_id: 25895524
+goodreads_id: 25895524
 cover: /embeds/books/red-sister.jpg
-book/isbn: '1101988851'
-book/isbn13: '9781101988855'
+isbn: '1101988851'
+isbn13: '9781101988855'
 rating: 5
-book/pages: 467
+page_count: 467
 series_index: [1]
 ---
 > It is important, when killing a nun, to ensure that you bring an army of

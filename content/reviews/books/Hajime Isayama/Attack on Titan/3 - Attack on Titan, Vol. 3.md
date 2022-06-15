@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 13536803
+goodreads_id: 13536803
 cover: /embeds/books/attack-on-titan-vol-3.jpg
-book/isbn: '1612620264'
-book/isbn13: '9781612620268'
+isbn: '1612620264'
+isbn13: '9781612620268'
 rating: 5
-book/pages: 208
+page_count: 208
 series_index: [3]
 ---
 Well, that's a development. Turns out Eren  {{< spoiler >}}can turn into a Titan{{< /spoiler >}}  and now everone knows. And that means *they have a plan*!  

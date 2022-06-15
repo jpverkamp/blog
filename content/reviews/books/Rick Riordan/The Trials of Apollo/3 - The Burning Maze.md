@@ -8,12 +8,12 @@ reviews/series:
 - The Trials of Apollo
 reviews/authors:
 - Rick Riordan
-book/goodreads_id: 28006096
+goodreads_id: 28006096
 cover: /embeds/books/the-burning-maze.jpg
-book/isbn: '1484746430'
-book/isbn13: '9781368024129'
+isbn: '1484746430'
+isbn13: '9781368024129'
 rating: 4
-book/pages: 448
+page_count: 448
 series_index: [3]
 ---
 On one hand, the Apollo books are getting better. It's mostly more of the same, bringing myths to life in the real world combined with a constant sense of the world ending, but if that's what you're looking for ... power to you?  

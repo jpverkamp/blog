@@ -9,12 +9,12 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 68427
+goodreads_id: 68427
 cover: /embeds/books/elantris.jpg
-book/isbn: 0765350378
-book/isbn13: '9780765350374'
+isbn: 0765350378
+isbn13: '9780765350374'
 rating: 5
-book/pages: 622
+page_count: 622
 series_index: [1, 0]
 ---
 I have yet to find a Sanderson novel that I don't particularly like and Elantris is no exception.  

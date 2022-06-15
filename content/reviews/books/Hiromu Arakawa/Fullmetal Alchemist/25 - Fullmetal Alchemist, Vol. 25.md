@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 10248518
+goodreads_id: 10248518
 cover: /embeds/books/fullmetal-alchemist-vol-25.jpg
-book/isbn: '1421539241'
-book/isbn13: '9781421539249'
+isbn: '1421539241'
+isbn13: '9781421539249'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [25]
 ---
 I find Greed's storyline absolutely fascinating. Of all the Homunculi, who would have expected that one to be the most likely to change. Perhaps it says something about humanity?  

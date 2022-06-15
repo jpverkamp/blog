@@ -8,12 +8,12 @@ reviews/series:
 - Discworld
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34484
+goodreads_id: 34484
 cover: /embeds/books/small-gods.jpg
-book/isbn: 0552152978
-book/isbn13: '9780552152976'
+isbn: 0552152978
+isbn13: '9780552152976'
 rating: 4
-book/pages: 400
+page_count: 400
 series_index: [13]
 ---
 > The turtle moves.

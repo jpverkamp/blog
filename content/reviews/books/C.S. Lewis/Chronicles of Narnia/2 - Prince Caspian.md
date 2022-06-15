@@ -8,12 +8,12 @@ reviews/series:
 - Chronicles of Narnia
 reviews/authors:
 - C.S. Lewis
-book/goodreads_id: 121749
+goodreads_id: 121749
 cover: /embeds/books/prince-caspian.jpg
-book/isbn: 000720230X
-book/isbn13: '9780007202300'
+isbn: 000720230X
+isbn13: '9780007202300'
 rating: 4
-book/pages: 240
+page_count: 240
 series_index: [2]
 ---
 > Things never happen the same way twice.

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 26422
+goodreads_id: 26422
 cover: /embeds/books/fullmetal-alchemist-vol-14.jpg
-book/isbn: 142151379X
-book/isbn13: '9781421513799'
+isbn: 142151379X
+isbn13: '9781421513799'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [14]
 ---
 Hoo boy. That was yet another crazy volume. I seem to be saying that a lot, but man. Father. Answers. Questions. Alchemy on a whole 'nother scale. Gross and weird and crazy homunculi.  

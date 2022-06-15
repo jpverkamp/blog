@@ -7,10 +7,10 @@ reviews/series:
 - The Murderbot Diaries
 reviews/authors:
 - Martha Wells
-book/goodreads_id: 35519101
+goodreads_id: 35519101
 cover: /embeds/books/rogue-protocol.jpg
 rating: 5
-book/pages: 150
+page_count: 150
 series_index: [3]
 ---
 > (There needs to be an error code that means “I received your request but decided to ignore you.”)

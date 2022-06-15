@@ -8,12 +8,12 @@ reviews/series:
 - The Divine Cities
 reviews/authors:
 - Robert Jackson Bennett
-book/goodreads_id: 20174424
+goodreads_id: 20174424
 cover: /embeds/books/city-of-stairs.jpg
-book/isbn: 080413717X
-book/isbn13: '9780804137171'
+isbn: 080413717X
+isbn13: '9780804137171'
 rating: 5
-book/pages: 452
+page_count: 452
 series_index: [1]
 ---
 > The city knows. It remembers. Its past is written in its bones, though the past now speaks in silences.

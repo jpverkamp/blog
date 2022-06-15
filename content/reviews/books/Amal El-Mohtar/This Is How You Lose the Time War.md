@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Amal El-Mohtar
-book/goodreads_id: 43352954
+goodreads_id: 43352954
 cover: /embeds/books/this-is-how-you-lose-the-time-war.jpg
 rating: 5
-book/pages: 209
+page_count: 209
 ---
 > Burn before reading.
 

@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 15791586
+goodreads_id: 15791586
 cover: /embeds/books/fables-vol-18-cubs-in-toyland.jpg
-book/isbn: 140123769X
-book/isbn13: '9781401237691'
+isbn: 140123769X
+isbn13: '9781401237691'
 rating: 4
-book/pages: 192
+page_count: 192
 series_index: [18, 35]
 ---
 Well this was a bizarre little story.  

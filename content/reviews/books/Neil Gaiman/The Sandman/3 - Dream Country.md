@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25100
+goodreads_id: 25100
 cover: /embeds/books/dream-country.jpg
-book/isbn: 156389226X
-book/isbn13: '9781563892264'
+isbn: 156389226X
+isbn13: '9781563892264'
 rating: 5
-book/pages: 111
+page_count: 111
 series_index: [3]
 ---
 A bit of an odd one. Despite the series being named for Dream, herein we have a handful of mostly disconnected stories with Dream as only a minor character. They're still absolutely fascinating and do give us a much deeper look at the world (both the analogue to our own world and the Dream). The second is especially funny, Dream as a cat. Sure. :D  

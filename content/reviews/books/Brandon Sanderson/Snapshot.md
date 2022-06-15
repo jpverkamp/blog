@@ -6,11 +6,11 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 31176804
+goodreads_id: 31176804
 cover: /embeds/books/snapshot.jpg
-book/isbn13: '9780998559902'
+isbn13: '9780998559902'
 rating: 5
-book/pages: 123
+page_count: 123
 ---
 > “Mustard?” Chaz replied. “Who puts mustard on a burrito?”
 

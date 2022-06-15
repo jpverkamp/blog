@@ -13,10 +13,10 @@ bingo-data:
   - 3x4+
 reviews/authors:
 - Jamie Delano
-book/goodreads_id: 18902412
+goodreads_id: 18902412
 cover: /embeds/books/hellblazer-vol-1-original-sins.jpg
 rating: 4
-book/pages: 304
+page_count: 304
 series_index: [1]
 ---
 I really do have a thing for urban fantasy specifically dealing with demons and angels, good and evil, especially if it twists it all around. Constantine does that in spades.  

@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Robert Barron
-book/goodreads_id: 45731096
+goodreads_id: 45731096
 cover: /embeds/books/letter-to-a-suffering-church-a-bishop-speaks-on-the-sexual-abuse-crisis.jpg
 rating: 4
-book/pages: 57
+page_count: 57
 ---
 > The Emperor Napoleon is said to have confronted Cardinal Consalvi, the secretary of state to Pope Pius VII, saying that he, Napoleon, would destroy the Church—to which the Cardinal deftly responded, “Oh my little man, you think you’re going to succeed in accomplishing what centuries of priests and bishops have tried and failed to do?
 

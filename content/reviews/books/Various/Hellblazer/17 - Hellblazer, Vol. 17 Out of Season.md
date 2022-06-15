@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Mike Carey
-book/goodreads_id: 34690711
+goodreads_id: 34690711
 cover: /embeds/books/hellblazer-vol-17-out-of-season.jpg
-book/isbn: '1401273661'
-book/isbn13: '9781401273668'
+isbn: '1401273661'
+isbn13: '9781401273668'
 rating: 4
-book/pages: 328
+page_count: 328
 series_index: [17]
 ---
 Constantine lost and found and so very screwed. Literally. A lot happens in this one and there’s a lot of potential for what comes next. Looking forward to it. 

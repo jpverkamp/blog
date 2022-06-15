@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 6203292
+goodreads_id: 6203292
 cover: /embeds/books/the-boys-volume-4-we-gotta-go-now.jpg
-book/isbn: '1606900358'
-book/isbn13: '9781606900352'
+isbn: '1606900358'
+isbn13: '9781606900352'
 rating: 4
-book/pages: 184
+page_count: 184
 series_index: [4]
 ---
 ![The-Boys-4-2](/embeds/books/attachments/the-boys-4-2.jpg)  

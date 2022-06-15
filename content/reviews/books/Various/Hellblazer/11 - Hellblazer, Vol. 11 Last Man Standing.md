@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Paul Jenkins
-book/goodreads_id: 23602583
+goodreads_id: 23602583
 cover: /embeds/books/hellblazer-vol-11-last-man-standing.jpg
-book/isbn: '1401255299'
-book/isbn13: '9781401255299'
+isbn: '1401255299'
+isbn13: '9781401255299'
 rating: 4
-book/pages: 336
+page_count: 336
 series_index: [11]
 ---
 A solid one. Big stories are interesting, little ones are touching_weird_sweet, and Constantine’s got some new people and problems to deal with. Nothing too surreal either, which I appreciate. 

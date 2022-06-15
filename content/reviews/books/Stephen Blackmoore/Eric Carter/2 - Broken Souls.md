@@ -8,10 +8,10 @@ reviews/series:
 - Eric Carter
 reviews/authors:
 - Stephen Blackmoore
-book/goodreads_id: 22009973
+goodreads_id: 22009973
 cover: /embeds/books/broken-souls.jpg
 rating: 5
-book/pages: 272
+page_count: 272
 series_index: [2]
 ---
 > I’ve been lied to a lot, lately. And some of it’s been with the truth.

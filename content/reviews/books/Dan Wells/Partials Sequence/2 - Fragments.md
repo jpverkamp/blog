@@ -8,12 +8,12 @@ reviews/series:
 - Partials Sequence
 reviews/authors:
 - Dan Wells
-book/goodreads_id: 13170596
+goodreads_id: 13170596
 cover: /embeds/books/fragments.jpg
-book/isbn: '0062071076'
-book/isbn13: '9780062071071'
+isbn: '0062071076'
+isbn13: '9780062071071'
 rating: 5
-book/pages: 576
+page_count: 576
 series_index: [2]
 ---
 A good continuation to Partials. In this book, we see Kira start to come to terms with who she is as she sets off with Samm and Heron across what's left of the United States in search of answers--only to find more than she was looking for. Meanwhile, Marcus is back home, stuck between two warring Partial factions, trying desperately to broker a piece.  

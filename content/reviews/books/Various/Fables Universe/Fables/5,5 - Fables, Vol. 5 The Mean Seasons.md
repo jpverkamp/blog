@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21330
+goodreads_id: 21330
 cover: /embeds/books/fables-vol-5-the-mean-seasons.jpg
-book/isbn: '1401204864'
-book/isbn13: '9781401204860'
+isbn: '1401204864'
+isbn13: '9781401204860'
 rating: 5
-book/pages: 168
+page_count: 168
 series_index: [5, 5]
 ---
 After the intensity and depth of {{< goodreads book="Fables, Vol. 4: March of the Wooden Soldiers" >}}, I fully expected {{< goodreads book="Fables, Vol. 5: The Mean Seasons" >}} to be something of a step back, a breather. And that's exactly what we got.  

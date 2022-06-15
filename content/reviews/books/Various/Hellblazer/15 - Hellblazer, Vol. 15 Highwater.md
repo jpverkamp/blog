@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Brian Azzarello
-book/goodreads_id: 30082502
+goodreads_id: 30082502
 cover: /embeds/books/hellblazer-vol-15-highwater.jpg
-book/isbn: '1401265790'
-book/isbn13: '9781401265793'
+isbn: '1401265790'
+isbn13: '9781401265793'
 rating: 3
-book/pages: 320
+page_count: 320
 series_index: [15]
 ---
 It’s… fine? I enjoyed the first two longer stories well enough but the latter one was all kinds of weird. And not in a way I cared for?

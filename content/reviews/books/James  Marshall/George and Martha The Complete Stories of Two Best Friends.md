@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - James  Marshall
-book/goodreads_id: 408766
+goodreads_id: 408766
 cover: /embeds/books/george-and-martha-the-complete-stories-of-two-best-friends.jpg
-book/isbn: 0395851580
-book/isbn13: '9780395851586'
+isbn: 0395851580
+isbn13: '9780395851586'
 rating: 3
-book/pages: 352
+page_count: 352
 ---
 Another collection. These are bizarre little stories.  
 

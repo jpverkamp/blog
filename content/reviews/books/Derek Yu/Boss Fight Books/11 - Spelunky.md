@@ -7,10 +7,10 @@ reviews/series:
 - Boss Fight Books
 reviews/authors:
 - Derek Yu
-book/goodreads_id: 26152638
+goodreads_id: 26152638
 cover: /embeds/books/spelunky.jpg
 rating: 5
-book/pages: 140
+page_count: 140
 series_index: [11]
 ---
 > The games reminded me of something the author Haruki Murakami says in the intro to the English edition of Blind Willow, Sleeping Woman: “I find writing novels a challenge, writing short stories a joy. If writing novels is like planting a forest, then writing short stories is more like planting a garden. The two processes complement each other, creating a complete landscape that I treasure.” In video games, we don’t have corresponding terms for novels and short stories—we simply have large games and small games. These Game Maker games were Murakami’s gardens: vibrant, intimate, and full of charm. Having just planted a large forest with Alec, I was eager to find my own little patch of fertile soil.

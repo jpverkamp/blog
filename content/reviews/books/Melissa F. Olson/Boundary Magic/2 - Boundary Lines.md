@@ -8,10 +8,10 @@ reviews/series:
 - Boundary Magic
 reviews/authors:
 - Melissa F. Olson
-book/goodreads_id: 25283833
+goodreads_id: 25283833
 cover: /embeds/books/boundary-lines.jpg
 rating: 5
-book/pages: 304
+page_count: 304
 series_index: [2]
 ---
 After getting tossed into the world of the supernatural in {{< goodreads book="Boundary Crossed" >}}, Lex is back and starting to learn just why everyone seems to be out to get her in {{< goodreads book="Boundary Lines" >}}.  

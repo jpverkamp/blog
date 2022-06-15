@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 29429954
+goodreads_id: 29429954
 cover: /embeds/books/odessa-sea.jpg
-book/isbn: 0399575510
-book/isbn13: '9780399575518'
+isbn: 0399575510
+isbn13: '9780399575518'
 rating: 3
-book/pages: 486
+page_count: 486
 series_index: [24]
 ---
 Man of action Permutter saves the day!  

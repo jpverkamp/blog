@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 32807
+goodreads_id: 32807
 cover: /embeds/books/trojan-odyssey.jpg
-book/isbn: 0425199320
-book/isbn13: '9780425199329'
+isbn: 0425199320
+isbn13: '9780425199329'
 rating: 3
-book/pages: 463
+page_count: 463
 series_index: [17]
 ---
 > He smiled to himself at remembering what a reporter wrote about him, in one of the few times his feats had gained distinction. There is a touch of Dirk Pitt in every man whose soul yearns for adventure. And because he is Dirk Pitt, he yearns more than most.

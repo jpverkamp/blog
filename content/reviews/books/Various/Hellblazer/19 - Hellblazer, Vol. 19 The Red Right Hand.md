@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Denise Mina
-book/goodreads_id: 37489676
+goodreads_id: 37489676
 cover: /embeds/books/hellblazer-vol-19-the-red-right-hand.jpg
-book/isbn: '1401280803'
-book/isbn13: '9781401280802'
+isbn: '1401280803'
+isbn13: '9781401280802'
 rating: 4
-book/pages: 328
+page_count: 328
 series_index: [19]
 ---
 Well that’s an interesting saga. Heaven, Hell, and… a Third Place. Mythology certainly goes some interesting places in Hellblazer. I enjoyed it. 

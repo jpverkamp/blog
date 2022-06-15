@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 91478
+goodreads_id: 91478
 cover: /embeds/books/summer-knight.jpg
-book/isbn: 0451458923
-book/isbn13: '9780451458926'
+isbn: 0451458923
+isbn13: '9780451458926'
 rating: 5
-book/pages: 446
+page_count: 446
 series_index: [4]
 ---
 Sorcerers, werewolves, vampires... And now the Fae. We already had hints of it from the previous books, particularly in the guise of Lea--Harry's literal Fairy Godmother.  

@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41716
+goodreads_id: 41716
 cover: /embeds/books/sahara.jpg
-book/isbn: 030720961X
-book/isbn13: '9780307209610'
+isbn: 030720961X
+isbn13: '9780307209610'
 rating: 5
-book/pages: 400
+page_count: 400
 series_index: [11]
 ---
 "Prologue 1."   Oh my.  

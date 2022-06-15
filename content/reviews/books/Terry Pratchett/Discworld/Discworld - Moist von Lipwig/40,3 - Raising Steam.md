@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Moist von Lipwig
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 11275323
+goodreads_id: 11275323
 cover: /embeds/books/raising-steam.jpg
-book/isbn: 0857522272
-book/isbn13: '9780857522276'
+isbn: 0857522272
+isbn13: '9780857522276'
 rating: 4
-book/pages: 377
+page_count: 377
 series_index: [40, 3]
 ---
 In {{< goodreads book="Going Postal" >}}, Moist von Lipwig rebuilt the post office. In {{< goodreads book="Making Money" >}}, he took on the banks. Now? Steam engines are coming to the Discworld!  

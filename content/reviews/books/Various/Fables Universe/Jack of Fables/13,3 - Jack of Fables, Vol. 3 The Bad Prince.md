@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 2290696
+goodreads_id: 2290696
 cover: /embeds/books/jack-of-fables-vol-3-the-bad-prince.jpg
-book/isbn: '1401218547'
-book/isbn13: '9781401218546'
+isbn: '1401218547'
+isbn13: '9781401218546'
 rating: 5
-book/pages: 126
+page_count: 126
 series_index: [3, 13]
 ---
 Jack is still on the run! With Gary. And one of the Page sisters? And himself/ {{< spoiler >}}John{{< /spoiler >}}  ]> of Fables?  

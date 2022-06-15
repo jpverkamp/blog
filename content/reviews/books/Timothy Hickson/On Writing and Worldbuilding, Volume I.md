@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Timothy Hickson
-book/goodreads_id: 44562151
+goodreads_id: 44562151
 cover: /embeds/books/on-writing-and-worldbuilding-volume-i.jpg
 rating: 4
-book/pages: 243
+page_count: 243
 ---
 To start with, despite a somewhat overblown feeling title, On Writing and Worldbuilding, Volume I is a solid book. It has piles of examples, a good dash of humor, and is well written enough to fly by.  
 

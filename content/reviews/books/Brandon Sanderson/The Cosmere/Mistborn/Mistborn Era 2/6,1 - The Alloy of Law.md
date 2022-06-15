@@ -10,12 +10,12 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 10803121
+goodreads_id: 10803121
 cover: /embeds/books/the-alloy-of-law.jpg
-book/isbn: '0765330423'
-book/isbn13: '9780765330420'
+isbn: '0765330423'
+isbn13: '9780765330420'
 rating: 5
-book/pages: 332
+page_count: 332
 series_index: [4, 1, 0]
 ---
 In Alloy of Law, Sanderson demonstrates not one, but two things that he's done which I've never seen another author pull off.  

@@ -8,12 +8,12 @@ reviews/series:
 - The Academy
 reviews/authors:
 - Jack McDevitt
-book/goodreads_id: 382161
+goodreads_id: 382161
 cover: /embeds/books/chindi.jpg
-book/isbn: '0441011020'
-book/isbn13: '9780441011025'
+isbn: '0441011020'
+isbn13: '9780441011025'
 rating: 5
-book/pages: 511
+page_count: 511
 series_index: [3]
 ---
 Chindi continues the trend of the previous two books in only vaguely being a sequel. It takes place after the previous two with one of the same characters (Hutch) and there are a few references to previous events... But that's about it. That's not a bad thing though.  

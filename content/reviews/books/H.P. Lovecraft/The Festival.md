@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 6505016
+goodreads_id: 6505016
 cover: /embeds/books/the-festival.jpg
 rating: 4
-book/pages: 32
+page_count: 32
 ---
 References abound to things I've heard of before. Arkham. The Necronomicon. The mad Arab Abdul Alhazred. Miskatonic University.  
 

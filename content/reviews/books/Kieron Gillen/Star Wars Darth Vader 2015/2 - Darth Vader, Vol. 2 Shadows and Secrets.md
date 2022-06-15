@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader (2015)'
 reviews/authors:
 - Kieron Gillen
-book/goodreads_id: 25861679
+goodreads_id: 25861679
 cover: /embeds/books/star-wars-darth-vader-vol-2-shadows-and-secrets.jpg
-book/isbn: 0785192565
-book/isbn13: '9780785192565'
+isbn: 0785192565
+isbn13: '9780785192565'
 rating: 5
-book/pages: 136
+page_count: 136
 series_index: [2]
 ---
 More Vader! More Aphra!  

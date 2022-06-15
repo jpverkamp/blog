@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 823355
+goodreads_id: 823355
 cover: /embeds/books/caboose-mystery.jpg
-book/isbn: 0807510092
-book/isbn13: '9780807510094'
+isbn: 0807510092
+isbn13: '9780807510094'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [11]
 ---
 That was cute.  

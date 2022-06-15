@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 25252302
+goodreads_id: 25252302
 cover: /embeds/books/attack-on-titan-vol-17.jpg
-book/isbn: '1632361124'
-book/isbn13: '9781632361127'
+isbn: '1632361124'
+isbn13: '9781632361127'
 rating: 5
-book/pages: 208
+page_count: 208
 series_index: [17]
 ---
 Things continue to heat up (heh). Attack by a crawling mess of a Titan on the wall versus Eren and a bundle of explosives. Historia ascending. The Beast Titan. It’s a crazy story.  

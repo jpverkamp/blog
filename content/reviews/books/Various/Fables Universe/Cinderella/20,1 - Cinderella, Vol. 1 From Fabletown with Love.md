@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Chris Roberson
-book/goodreads_id: 7219667
+goodreads_id: 7219667
 cover: /embeds/books/cinderella-volume-1-from-fabletown-with-love.jpg
-book/isbn: '1401227503'
-book/isbn13: '9781401227500'
+isbn: '1401227503'
+isbn13: '9781401227500'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [1, 20]
 ---
 The first in a new subseries: the tales of Cinderella, Secret Agent!  

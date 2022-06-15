@@ -12,12 +12,12 @@ bingo-data:
   - 2x1
 reviews/authors:
 - David Farland
-book/goodreads_id: 2956822
+goodreads_id: 2956822
 cover: /embeds/books/the-wyrmling-horde.jpg
-book/isbn: 0765316668
-book/isbn13: '9780765316660'
+isbn: 0765316668
+isbn13: '9780765316660'
 rating: 3
-book/pages: 320
+page_count: 320
 series_index: [7]
 ---
 I think that for the most part The Wyrmling Horde takes everything I mentioned in {{< crosslink "Worldbinder" >}} and does a bit more of that. There are some really fascinating worldbuilding ideas being explored here, although I miss the smaller scope of just the Endowments and possibly the wizards of the early books.  The characters are cool--and I do actually find the inversions of several of them fascinating--but we're also missing a few faces that I really wish we would see more of. Plotwise... nothing much actually seems to happen. 

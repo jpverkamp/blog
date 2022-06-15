@@ -5,7 +5,7 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Chuck Austen
-book/goodreads_id: 57878508
+goodreads_id: 57878508
 cover: /embeds/books/edgeworld-a-little-chaos-in-your-life.jpg
 rating: 4
 ---

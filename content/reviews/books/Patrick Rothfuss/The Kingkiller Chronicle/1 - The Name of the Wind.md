@@ -8,12 +8,12 @@ reviews/series:
 - The Kingkiller Chronicle
 reviews/authors:
 - Patrick Rothfuss
-book/goodreads_id: 186074
+goodreads_id: 186074
 cover: /embeds/books/the-name-of-the-wind.jpg
-book/isbn: 075640407X
-book/isbn13: '9780756404079'
+isbn: 075640407X
+isbn13: '9780756404079'
 rating: 4
-book/pages: 662
+page_count: 662
 series_index: [1]
 ---
 I've heard rather good things about this book, so figured I had to read it.  

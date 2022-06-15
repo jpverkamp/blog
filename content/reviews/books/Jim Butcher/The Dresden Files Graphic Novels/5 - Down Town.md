@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files Graphic Novels
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 25558821
+goodreads_id: 25558821
 cover: /embeds/books/jim-butchers-the-dresden-files-down-town.jpg
-book/isbn: 160690700X
-book/isbn13: '9781606907009'
+isbn: 160690700X
+isbn13: '9781606907009'
 rating: 4
-book/pages: 176
+page_count: 176
 series_index: [5]
 ---
 It's more Dresden at least!  

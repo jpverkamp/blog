@@ -8,10 +8,10 @@ reviews/series:
 - Legion
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 20886354
+goodreads_id: 20886354
 cover: /embeds/books/skin-deep.jpg
 rating: 4
-book/pages: 208
+page_count: 208
 series_index: [2]
 ---
 Stephen Leeds returns!  

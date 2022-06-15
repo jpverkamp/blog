@@ -8,12 +8,12 @@ reviews/series:
 - Red Rising Saga
 reviews/authors:
 - Pierce Brown
-book/goodreads_id: 18966806
+goodreads_id: 18966806
 cover: /embeds/books/morning-star.jpg
-book/isbn: 0345539842
-book/isbn13: '9780345539847'
+isbn: 0345539842
+isbn13: '9780345539847'
 rating: 5
-book/pages: 524
+page_count: 524
 series_index: [0]
 ---
 A fitting end to a surprisingly solid (to me at least) end to a surprisingly good series.  

@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 3392123
+goodreads_id: 3392123
 cover: /embeds/books/fables-vol-11-war-and-pieces.jpg
-book/isbn: '1401219136'
-book/isbn13: '9781401219130'
+isbn: '1401219136'
+isbn13: '9781401219130'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [11, 18]
 ---
 And so it ends. I did not expect at all that the war with the Adversary would escalate so quickly or end before the run of the series, but here we are. We have war heros, super spies, crazy battle scenes, and sacrifices from the last characters we'd expect.  

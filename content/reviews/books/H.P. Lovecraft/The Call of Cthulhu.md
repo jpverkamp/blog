@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 15730101
+goodreads_id: 15730101
 cover: /embeds/books/the-call-of-cthulhu.jpg
 rating: 3
-book/pages: 43
+page_count: 43
 ---
 For all I've heard of The Call of Cthulhu, I expected more.  
 

@@ -8,12 +8,12 @@ reviews/series:
 - The Reckoners
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 15704459
+goodreads_id: 15704459
 cover: /embeds/books/firefight.jpg
-book/isbn: 0385743580
-book/isbn13: '9780385743587'
+isbn: 0385743580
+isbn13: '9780385743587'
 rating: 5
-book/pages: 416
+page_count: 416
 series_index: [2]
 ---
 Firefight is a an excellent followup to Steelheart, taking everything I liked about the first book--the variety of the Epics' powers and the ruined world they've left behind--and making it better while at the same point smoothing out my one real complaint--the 'bad analogies'. They're still there, but he doesn't mention them every page or two, so they actually feel funny this time around, rather than so forced.  

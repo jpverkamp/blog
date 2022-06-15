@@ -8,10 +8,10 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 52914993
+goodreads_id: 52914993
 cover: /embeds/books/attack-on-titan-vol-32.jpg
 rating: 5
-book/pages: 180
+page_count: 180
 series_index: [32]
 ---
 Another step towards the end of the world.  

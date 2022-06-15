@@ -8,12 +8,12 @@ reviews/series:
 - Gemma Doyle
 reviews/authors:
 - Libba Bray
-book/goodreads_id: 51428
+goodreads_id: 51428
 cover: /embeds/books/rebel-angels.jpg
-book/isbn: 0385733410
-book/isbn13: '9780385733410'
+isbn: 0385733410
+isbn13: '9780385733410'
 rating: 4
-book/pages: 548
+page_count: 548
 series_index: [2]
 ---
 Goodness. That's quite a story.  

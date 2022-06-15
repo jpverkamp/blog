@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Robert Nystrom
-book/goodreads_id: 58661468
+goodreads_id: 58661468
 cover: /embeds/books/crafting-interpreters.jpg
-book/isbn: 0990582930
-book/isbn13: '9780990582939'
+isbn: 0990582930
+isbn13: '9780990582939'
 rating: 5
-book/pages: 865
+page_count: 865
 ---
 Programming languages are something of a hobby of mine. Going as far back as undergrad, I’ve written a fair few interpreters and compilers over the years. I’ve never really gotten beyond a strong basic level, but I’ve always wanted to. Crafting Interpreters is a great book for exactly that.  
 

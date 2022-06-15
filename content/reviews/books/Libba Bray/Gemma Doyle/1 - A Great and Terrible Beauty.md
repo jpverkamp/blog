@@ -13,12 +13,12 @@ bingo-data:
   - 5x5+
 reviews/authors:
 - Libba Bray
-book/goodreads_id: 3682
+goodreads_id: 3682
 cover: /embeds/books/a-great-and-terrible-beauty.jpg
-book/isbn: 0689875347
-book/isbn13: '9780689875342'
+isbn: 0689875347
+isbn13: '9780689875342'
 rating: 4
-book/pages: 403
+page_count: 403
 series_index: [1]
 ---
 > Shall I tell you a story? A new and terrible one? A ghost story? Are you > ready? Shall I begin? Once upon a time there were four girls. One was > pretty. One was clever. One charming, and one...one was mysterious. But they > were all damaged, you see. Something not right about the lot of them.

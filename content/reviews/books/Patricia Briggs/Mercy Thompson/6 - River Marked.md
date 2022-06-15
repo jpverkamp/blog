@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 8087906
+goodreads_id: 8087906
 cover: /embeds/books/river-marked.jpg
-book/isbn: '1841497975'
-book/isbn13: '9781841497976'
+isbn: '1841497975'
+isbn13: '9781841497976'
 rating: 4
-book/pages: 290
+page_count: 290
 series_index: [6]
 ---
 River Marked takes what we've seen in the previous 5 Mercy Thompson books and turns it somewhat on its head. Previously, we've had interesting but not entirely unbelievable versions of werewolves, vampires, ghosts, and fae--all with a distinctly Old World influence on them. This time around though, we finally dig a bit into Mercy's father's family and get a big nasty beastie from the Americas.  

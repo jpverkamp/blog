@@ -8,12 +8,12 @@ reviews/series:
 - Laundry Files
 reviews/authors:
 - Charles Stross
-book/goodreads_id: 23154785
+goodreads_id: 23154785
 cover: /embeds/books/the-annihilation-score.jpg
-book/isbn: '0356505316'
-book/isbn13: '9780356505312'
+isbn: '0356505316'
+isbn13: '9780356505312'
 rating: 4
-book/pages: 352
+page_count: 352
 series_index: [6]
 ---
 The Annihilation Score takes a bit of a different take from the previous five books, shifting the viewpoint from the previous hero* Bob to his wife Mo.  

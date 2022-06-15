@@ -8,12 +8,12 @@ reviews/series:
 - Artemis Fowl
 reviews/authors:
 - Eoin Colfer
-book/goodreads_id: 7005865
+goodreads_id: 7005865
 cover: /embeds/books/the-atlantis-complex.jpg
-book/isbn: '1423128192'
-book/isbn13: '9781423128199'
+isbn: '1423128192'
+isbn13: '9781423128199'
 rating: 3
-book/pages: 357
+page_count: 357
 series_index: [7]
 ---
 Best thing about the Artemis Fowl series? Artemis Fowl.  

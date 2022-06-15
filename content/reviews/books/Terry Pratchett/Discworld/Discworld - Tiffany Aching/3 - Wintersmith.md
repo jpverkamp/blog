@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Tiffany Aching
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34492
+goodreads_id: 34492
 cover: /embeds/books/wintersmith.jpg
-book/isbn: 0060890312
-book/isbn13: '9780060890315'
+isbn: 0060890312
+isbn13: '9780060890315'
 rating: 5
-book/pages: 325
+page_count: 325
 series_index: [35, 3]
 ---
 > The trouble is you can shut your eyes but you can’t shut your mind.

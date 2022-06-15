@@ -8,12 +8,12 @@ reviews/series:
 - Saga
 reviews/authors:
 - Brian K. Vaughan
-book/goodreads_id: 17131869
+goodreads_id: 17131869
 cover: /embeds/books/saga-vol-2.jpg
-book/isbn: '1607066920'
-book/isbn13: '9781607066927'
+isbn: '1607066920'
+isbn13: '9781607066927'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [2]
 ---
 The story continues! We have the core family and the ~~out~~ inlaws on the run in a wooden rocketship, trying to lose all manner of bounty hunters and the war between their species behind. Oh, this is a story.  

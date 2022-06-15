@@ -8,12 +8,12 @@ reviews/series:
 - Wild Cards
 reviews/authors:
 - George R.R. Martin
-book/goodreads_id: 147912
+goodreads_id: 147912
 cover: /embeds/books/dead-mans-hand.jpg
-book/isbn: 0553285696
-book/isbn13: '9780553285697'
+isbn: 0553285696
+isbn13: '9780553285697'
 rating: 4
-book/pages: 335
+page_count: 335
 series_index: [7]
 ---
 This is a strange book. Rather than the previous format of two short story collections and a mosaic novel, this subseries has two collections and now two mosiac novels ({{< goodreads book="Ace in the Hole" >}} being the other). What's strange is that it continues the same plotlines of the first two books and mostly takes place at the same time as Ace in the Hole. Rather than focusing primarily on Puppetman and the political plotline in Atlanta, {{< goodreads book="Dead Man's Hand" >}} is set mostly in New York and deals with the death of Chrysalis, the investigation of Ti Malice.  

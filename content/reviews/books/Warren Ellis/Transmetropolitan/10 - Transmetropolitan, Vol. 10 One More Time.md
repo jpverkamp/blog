@@ -8,12 +8,12 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22424
+goodreads_id: 22424
 cover: /embeds/books/transmetropolitan-vol-10-one-more-time.jpg
-book/isbn: '1401202179'
-book/isbn13: '9781401202170'
+isbn: '1401202179'
+isbn13: '9781401202170'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [10]
 ---
 And so it ends. We all knew this wouldn't possible go well for anyone, but I think the author/illustrators did a wonderful job tying the story all together.  

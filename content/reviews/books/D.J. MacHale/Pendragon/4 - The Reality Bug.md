@@ -8,12 +8,12 @@ reviews/series:
 - Pendragon
 reviews/authors:
 - D.J. MacHale
-book/goodreads_id: 215541
+goodreads_id: 215541
 cover: /embeds/books/the-reality-bug.jpg
-book/isbn: 0743437349
-book/isbn13: '9780743437349'
+isbn: 0743437349
+isbn13: '9780743437349'
 rating: 4
-book/pages: 375
+page_count: 375
 series_index: [4]
 ---
 Onwards! This time around, Pendragon has come to the territory of Veelox, dealing with a virtual reality addiction crisis. It's a topic that comes up over and over again in science fiction and even in real world media coverage, warning that as virtual reality gets better and better, it will be harder and harder for people to leave, leading to society decaying. Regardless of what you think about the idea of such a thing happening in the real world, it's an interesting enough take to build the story on.  

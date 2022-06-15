@@ -8,10 +8,10 @@ reviews/series:
 - Old Man's War
 reviews/authors:
 - John Scalzi
-book/goodreads_id: 8180987
+goodreads_id: 8180987
 cover: /embeds/books/the-last-colony.jpg
 rating: 4
-book/pages: 336
+page_count: 336
 series_index: [3]
 ---
 After John's story in {{< goodreads book="Old Man's War" >}} and Jane's (to some extent) in {{< goodreads book="The Ghost Brigades" >}}, this time around we get both of them. They're together now and raising Zoë (how's that for a complicated family), when they're tapped to head an entirely new colony planet Roanoke--with the first city named Croatoan. Also... why would they even agree to that?  

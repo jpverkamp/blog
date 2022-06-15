@@ -8,12 +8,12 @@ reviews/series:
 - The Academy
 reviews/authors:
 - Jack McDevitt
-book/goodreads_id: 352780
+goodreads_id: 352780
 cover: /embeds/books/deepsix.jpg
-book/isbn: '0061020060'
-book/isbn13: '9780061020063'
+isbn: '0061020060'
+isbn13: '9780061020063'
 rating: 4
-book/pages: 508
+page_count: 508
 series_index: [2]
 ---
 I greatly enjoyed Deepsix.  

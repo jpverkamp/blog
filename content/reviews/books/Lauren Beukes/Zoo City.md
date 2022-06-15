@@ -6,12 +6,12 @@ reviews/lists:
 - 2015 Book Reviews
 reviews/authors:
 - Lauren Beukes
-book/goodreads_id: 7163862
+goodreads_id: 7163862
 cover: /embeds/books/zoo-city.jpg
-book/isbn: 0007327684
-book/isbn13: '9780007327683'
+isbn: 0007327684
+isbn13: '9780007327683'
 rating: 3
-book/pages: 416
+page_count: 416
 ---
 Basically, if you kill someone (is that the only way?) you end up with a literal animal manifestation of your guilt. On the plus side, they come with free magical abilities (like the main character's ability to find lost things). On the down side, people know how you got your animal (your zoo) and discrimination is rampant.  
 

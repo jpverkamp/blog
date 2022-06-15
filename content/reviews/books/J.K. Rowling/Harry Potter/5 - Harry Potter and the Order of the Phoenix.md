@@ -8,10 +8,10 @@ reviews/series:
 - Harry Potter
 reviews/authors:
 - J.K. Rowling
-book/goodreads_id: 2
+goodreads_id: 2
 cover: /embeds/books/harry-potter-and-the-order-of-the-phoenix.jpg
 rating: 4
-book/pages: 870
+page_count: 870
 series_index: [5]
 ---
 Harry Potter and the Order of the Phoenix is my least favorite book of the series. That doesn't make it a bad book, by any stretch of the imagination, but it's just not as fun to read as the others and doesn't really feel like it advances the story in any way. We all know Voldemort is back now--although the ministry denies it, which is interesting but stretches credulity somewhat. Other than that, not terribly much world-changing happens. We get a lot of angsty teenage Harry, a bit of Hogwarts dating life, and a frankly terrifying new Defense Against the Dark Arts teachers...  

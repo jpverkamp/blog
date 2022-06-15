@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 25271140
+goodreads_id: 25271140
 cover: /embeds/books/a-show-of-force.jpg
 rating: 4
-book/pages: 559
+page_count: 559
 series_index: [13]
 ---
 It's interesting seeing {{< goodreads book="A Show of Force" >}} escalate from where we were earlier in the series. The Aurora and her crew have kicked one evil empire's butt, freed the Earth, and are now taking the fight to the Jung, clearing a 20 light year radius.  

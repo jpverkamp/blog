@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 93361
+goodreads_id: 93361
 cover: /embeds/books/tree-house-mystery.jpg
-book/isbn: 0807580872
-book/isbn13: '9780807580875'
+isbn: 0807580872
+isbn13: '9780807580875'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [14]
 ---
 In a nutshell, new neighbors move in, they're mostly ignored by their parents (back to that in a moment), the Aldens barge in and make friends, they all build a treehouse, find a hidden room, and fix a old (kind of dumb) feud between the neighbor's father and uncle.  

@@ -8,12 +8,12 @@ reviews/series:
 - Newsflesh
 reviews/authors:
 - Mira Grant
-book/goodreads_id: 11806716
+goodreads_id: 11806716
 cover: /embeds/books/blackout.jpg
-book/isbn: '1841499005'
-book/isbn13: '9781841499000'
+isbn: '1841499005'
+isbn13: '9781841499000'
 rating: 4
-book/pages: 512
+page_count: 512
 series_index: [3]
 ---
 A solid ending to a solid series. I think that I liked it more than Deadline, but less than Feed, owing entirely to one thing: George.  

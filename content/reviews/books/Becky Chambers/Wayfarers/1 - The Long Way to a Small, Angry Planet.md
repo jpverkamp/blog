@@ -12,12 +12,12 @@ bingo-data:
   - 5x4+
 reviews/authors:
 - Becky Chambers
-book/goodreads_id: 22733729
+goodreads_id: 22733729
 cover: /embeds/books/the-long-way-to-a-small-angry-planet.jpg
-book/isbn: '1500453307'
-book/isbn13: '9781500453305'
+isbn: '1500453307'
+isbn13: '9781500453305'
 rating: 5
-book/pages: 518
+page_count: 518
 series_index: [1]
 ---
 > Ashby eyed the readouts on his control screen. “I swear, our engines have never been running this smooth.”

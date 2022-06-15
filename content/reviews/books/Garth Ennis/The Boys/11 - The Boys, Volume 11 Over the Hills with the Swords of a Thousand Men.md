@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 13609842
+goodreads_id: 13609842
 cover: /embeds/books/the-boys-volume-11-over-the-hills-with-the-swords-of-a-thousand-men.jpg
-book/isbn: '1606903411'
-book/isbn13: '9781606903414'
+isbn: '1606903411'
+isbn13: '9781606903414'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [11]
 ---
 *Spoiler: NSFW*   

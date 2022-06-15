@@ -8,12 +8,12 @@ reviews/series:
 - Spin Saga
 reviews/authors:
 - Robert Charles Wilson
-book/goodreads_id: 910863
+goodreads_id: 910863
 cover: /embeds/books/spin.jpg
-book/isbn: 076534825X
-book/isbn13: '9780765348258'
+isbn: 076534825X
+isbn13: '9780765348258'
 rating: 4
-book/pages: 464
+page_count: 464
 series_index: [1]
 ---
 (minor spoilers; although nothing more than used to be on the Goodreads summary)  

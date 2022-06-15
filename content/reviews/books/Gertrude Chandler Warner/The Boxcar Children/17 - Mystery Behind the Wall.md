@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 460607
+goodreads_id: 460607
 cover: /embeds/books/mystery-behind-the-wall.jpg
-book/isbn: 0807553670
-book/isbn13: '9780807553671'
+isbn: 0807553670
+isbn13: '9780807553671'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [17]
 ---
 It’s a cute little book. Benny’s friends all wondered off for the summer so Mrs. McGregor invites Canadian son of a friend Rory over for the summer.  

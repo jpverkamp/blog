@@ -8,10 +8,10 @@ reviews/series:
 - Night Angel
 reviews/authors:
 - Brent Weeks
-book/goodreads_id: 3227063
+goodreads_id: 3227063
 cover: /embeds/books/the-way-of-shadows.jpg
 rating: 5
-book/pages: 659
+page_count: 659
 series_index: [1]
 ---
 Well. That was a book.  

@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 reviews/authors:
 - Charles Soule
-book/goodreads_id: 39668120
+goodreads_id: 39668120
 cover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-3-the-burning-seas.jpg
-book/isbn: '1302910566'
-book/isbn13: '9781302910563'
+isbn: '1302910566'
+isbn13: '9781302910563'
 rating: 5
-book/pages: 136
+page_count: 136
 series_index: [3]
 ---
 Well that's a fascinating addition. It takes what we've already been seeing-- Vader solidifying his power in the time between Revenge of the Sith and A New Hope--and takes us to the Mon Cala system, home of Admiral Ackbar. And yes, it is in fact a trap.  

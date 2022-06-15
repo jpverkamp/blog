@@ -8,12 +8,12 @@ reviews/series:
 - John Cleaver
 reviews/authors:
 - Dan Wells
-book/goodreads_id: 22665330
+goodreads_id: 22665330
 cover: /embeds/books/the-devils-only-friend.jpg
-book/isbn: 0765380676
-book/isbn13: '9780765380678'
+isbn: 0765380676
+isbn13: '9780765380678'
 rating: 5
-book/pages: 303
+page_count: 303
 series_index: [4]
 ---
 In _The Devil's Only Friend_ , John Cleaver is at it again. As I hoped, the story has moved away from Clayton County. This time around, John and Brooke-- now with many of the memories and personalities of the demon (Cursed/Withered) Nobody--are part of an FBI task force tasked with hunting down and killing as many of the demons as they can.  

@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25106
+goodreads_id: 25106
 cover: /embeds/books/fables-reflections.jpg
-book/isbn: '1563891069'
-book/isbn13: '9781563891069'
+isbn: '1563891069'
+isbn13: '9781563891069'
 rating: 5
-book/pages: 263
+page_count: 263
 series_index: [6]
 ---
 > Death was a little older than Dream. Things had the potential to die before > they had the potential to dream.

@@ -8,12 +8,12 @@ reviews/series:
 - Laundry Files
 reviews/authors:
 - Charles Stross
-book/goodreads_id: 101869
+goodreads_id: 101869
 cover: /embeds/books/the-atrocity-archives.jpg
-book/isbn: '0441013651'
-book/isbn13: '9780441013654'
+isbn: '0441013651'
+isbn13: '9780441013654'
 rating: 5
-book/pages: 345
+page_count: 345
 series_index: [1]
 ---
 That... was intense.  

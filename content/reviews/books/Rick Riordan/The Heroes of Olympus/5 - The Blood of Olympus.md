@@ -8,12 +8,12 @@ reviews/series:
 - The Heroes of Olympus
 reviews/authors:
 - Rick Riordan
-book/goodreads_id: 18705209
+goodreads_id: 18705209
 cover: /embeds/books/the-blood-of-olympus.jpg
-book/isbn: '1484724917'
-book/isbn13: '9781423146735'
+isbn: '1484724917'
+isbn13: '9781423146735'
 rating: 5
-book/pages: 528
+page_count: 528
 series_index: [5]
 ---
 So, The Heroes of Olympus. It's the second series based on the idea that all of the Greek (and now Roman) myths were true. The gods/demigods/et al live in the 'center of the Western world' (read: America). It's actually a really neat idea and a really neat world. It turns out, those old myths are _really weird_.  

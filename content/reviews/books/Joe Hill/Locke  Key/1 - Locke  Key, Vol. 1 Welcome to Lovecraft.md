@@ -8,12 +8,12 @@ reviews/series:
 - Locke & Key
 reviews/authors:
 - Joe Hill
-book/goodreads_id: 3217221
+goodreads_id: 3217221
 cover: /embeds/books/locke-key-vol-1-welcome-to-lovecraft.jpg
-book/isbn: '1600102379'
-book/isbn13: '9781600102370'
+isbn: '1600102379'
+isbn13: '9781600102370'
 rating: 5
-book/pages: 168
+page_count: 168
 series_index: [1]
 ---
 ![](/embeds/books/attachments/locke-and-key-1.1.png)  

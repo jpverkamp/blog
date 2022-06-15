@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 768916
+goodreads_id: 768916
 cover: /embeds/books/mercury.jpg
-book/isbn: '0765343142'
-book/isbn13: '9780765343147'
+isbn: '0765343142'
+isbn13: '9780765343147'
 rating: 4
-book/pages: 334
+page_count: 334
 series_index: [16]
 ---
 {{< goodreads book="Mercury" text=" Mercury " >}} is one of the better books of the Grand Tour, which is a relief after {{< goodreads book="Saturn" text=" Saturn " >}} and {{< goodreads book="Titan" text=" Titan " >}} .  

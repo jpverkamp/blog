@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 156812
+goodreads_id: 156812
 cover: /embeds/books/bicycle-mystery.jpg
-book/isbn: 0807507091
-book/isbn13: '9780807507094'
+isbn: 0807507091
+isbn13: '9780807507094'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [15]
 ---
 Only a few weeks left in the summer, so the Boxcar Children are going on (another) adventure closer to home! This time, they're going to ride their bikes to Aunt Jane's and of course find a several mysteries (and a dog!) along the way. It's really quite strange how close together everything is. They keep going by previous locations, such as Second Landing and Aunt Jane's. New England I guess?  

@@ -8,11 +8,11 @@ reviews/series:
 - Hex11
 reviews/authors:
 - Kelly Sue Milano
-book/goodreads_id: 40520333
+goodreads_id: 40520333
 cover: /embeds/books/hex11-vol-2.jpg
-book/isbn13: '9781946949042'
+isbn13: '9781946949042'
 rating: 5
-book/pages: 151
+page_count: 151
 series_index: [2]
 ---
 Elanor saved the world (more or less) and takes a night on the town. One thing leads to another and...  

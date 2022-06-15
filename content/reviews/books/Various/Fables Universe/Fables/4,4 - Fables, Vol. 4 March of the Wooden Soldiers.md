@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21325
+goodreads_id: 21325
 cover: /embeds/books/fables-vol-4-march-of-the-wooden-soldiers.jpg
-book/isbn: '1401202225'
-book/isbn13: '9781401202224'
+isbn: '1401202225'
+isbn13: '9781401202224'
 rating: 5
-book/pages: 244
+page_count: 244
 series_index: [4, 4]
 ---
 Another tale and far more worldbuilding!  

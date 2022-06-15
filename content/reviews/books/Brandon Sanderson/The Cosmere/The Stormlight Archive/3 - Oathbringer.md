@@ -9,12 +9,12 @@ reviews/series:
 - The Stormlight Archive
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 34002132
+goodreads_id: 34002132
 cover: /embeds/books/oathbringer.jpg
-book/isbn: 076532637X
-book/isbn13: '9780765326379'
+isbn: 076532637X
+isbn13: '9780765326379'
 rating: 5
-book/pages: 1248
+page_count: 1248
 series_index: [0, 3]
 ---
 Hooooly crap. The first three quarters of Oathbringer are fairly slow. They're still fascinating, building up more and more of the world of The Stormlight Archive, answering some questions while raising even more.  

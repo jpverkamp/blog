@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 24531650
+goodreads_id: 24531650
 cover: /embeds/books/attack-on-titan-vol-16.jpg
-book/isbn: '1612629806'
-book/isbn13: '9781612629803'
+isbn: '1612629806'
+isbn13: '9781612629803'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [16]
 ---
 Man it just keeps getting crazier and crazier. On one hand, we have more and more human on human violence in a giant underground columns set piece, perfect for their vertical maneuvering equipment.  

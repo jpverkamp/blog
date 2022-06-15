@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Paul Jenkins
-book/goodreads_id: 21556013
+goodreads_id: 21556013
 cover: /embeds/books/hellblazer-vol-9-critical-mass.jpg
-book/isbn: '1401250726'
-book/isbn13: '9781401250720'
+isbn: '1401250726'
+isbn13: '9781401250720'
 rating: 4
-book/pages: 328
+page_count: 328
 series_index: [9]
 ---
 Two big stories, a few really trippy dreams, and Constantine managing to push off damnation a bit longer. A neat collection. Critical Mass in particular is worth the read. 

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 6956554
+goodreads_id: 6956554
 cover: /embeds/books/fullmetal-alchemist-vol-22.jpg
-book/isbn: '1421534134'
-book/isbn13: '9781421534138'
+isbn: '1421534134'
+isbn13: '9781421534138'
 rating: 5
-book/pages: 184
+page_count: 184
 series_index: [22]
 ---
 Pride + Gluttony, Ed does what needs doing, and the oh so very creepy zombie attack of Fullmetal Alchemist. Man this story keeps getting crazier and crazier. It's fascinating to me to see how some loyalties shift from what you believed you knew and some just keep getting better/worse all the while.  

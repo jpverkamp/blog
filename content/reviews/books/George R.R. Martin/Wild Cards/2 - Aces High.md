@@ -8,12 +8,12 @@ reviews/series:
 - Wild Cards
 reviews/authors:
 - George R.R. Martin
-book/goodreads_id: 67961
+goodreads_id: 67961
 cover: /embeds/books/aces-high.jpg
-book/isbn: '1596872837'
-book/isbn13: '9781596872837'
+isbn: '1596872837'
+isbn13: '9781596872837'
 rating: 4
-book/pages: 361
+page_count: 361
 series_index: [2]
 ---
 Where {{< goodreads book="Wild Cards" >}} introduced the setting and spanned decades dealing with the introduction of the wild card virus and how the world diverged from our own, {{< goodreads book="Aces High" >}} feels a lot more focused, dealing primarily with two plot lines: the arrival of an alien 'swarm mother' (a hive mind/bio ship intent on eating planets, as one does) and the Masonic conspiracy we first got a glimpse of in Fortunato's introduction.  

@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 102461
+goodreads_id: 102461
 cover: /embeds/books/hellboy-vol-3-the-chained-coffin-and-others.jpg
-book/isbn: '1593070918'
-book/isbn13: '9781593070915'
+isbn: '1593070918'
+isbn13: '9781593070915'
 rating: 4
-book/pages: 176
+page_count: 176
 series_index: [3]
 ---
 ![Hellboy-3-Weird-fruit](/embeds/books/attachments/hellboy-3-weird-fruit.png)  

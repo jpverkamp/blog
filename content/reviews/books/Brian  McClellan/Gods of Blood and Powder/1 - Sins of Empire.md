@@ -8,12 +8,12 @@ reviews/series:
 - Gods of Blood and Powder
 reviews/authors:
 - Brian  McClellan
-book/goodreads_id: 28811016
+goodreads_id: 28811016
 cover: /embeds/books/sins-of-empire.jpg
-book/isbn: '0316407216'
-book/isbn13: '9780316407212'
+isbn: '0316407216'
+isbn13: '9780316407212'
 rating: 4
-book/pages: 624
+page_count: 624
 series_index: [1]
 ---
 >  "But, sir, you look like you've seen a ghost!"  

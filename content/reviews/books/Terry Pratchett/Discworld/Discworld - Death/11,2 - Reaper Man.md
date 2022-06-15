@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Death
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34517
+goodreads_id: 34517
 cover: /embeds/books/reaper-man.jpg
-book/isbn: 0552152951
-book/isbn13: '9780552152952'
+isbn: 0552152951
+isbn13: '9780552152952'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [11, 2]
 ---
 > No one is finally dead until the ripples they cause in the world die away—until the clock wound up winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone’s life is only the core of their actual existence.

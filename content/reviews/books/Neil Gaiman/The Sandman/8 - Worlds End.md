@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25103
+goodreads_id: 25103
 cover: /embeds/books/worlds-end.jpg
-book/isbn: '1563891700'
-book/isbn13: '9781563891700'
+isbn: '1563891700'
+isbn13: '9781563891700'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [8]
 ---
 A Tavern at the World's End. Travellers from all manner of realities, thrown together. Stories around the fire.  

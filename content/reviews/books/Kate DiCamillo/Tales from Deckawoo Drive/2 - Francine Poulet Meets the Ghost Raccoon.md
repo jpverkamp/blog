@@ -8,12 +8,12 @@ reviews/series:
 - Tales from Deckawoo Drive
 reviews/authors:
 - Kate DiCamillo
-book/goodreads_id: 24727081
+goodreads_id: 24727081
 cover: /embeds/books/francine-poulet-meets-the-ghost-raccoon.jpg
-book/isbn: 0763668869
-book/isbn13: '9780763668860'
+isbn: 0763668869
+isbn13: '9780763668860'
 rating: 4
-book/pages: 98
+page_count: 98
 series_index: [2]
 ---
 > Franny, you are the genuine article. You are solid. You are certain. You are like a refrigerator. You hum.

@@ -8,10 +8,10 @@ reviews/series:
 - The Giver
 reviews/authors:
 - Lois Lowry
-book/goodreads_id: 9743801
+goodreads_id: 9743801
 cover: /embeds/books/gathering-blue.jpg
 rating: 5
-book/pages: 225
+page_count: 225
 series_index: [2]
 ---
 With two caveats, Gathering Blue is quite an enjoyable novel. I actually think that I liked it more than the Giver. The world is interesting, the characters and world are just different enough from our own to get one's attention while still being believable enough, and there is enough mystery and tension to pull you through the book.  

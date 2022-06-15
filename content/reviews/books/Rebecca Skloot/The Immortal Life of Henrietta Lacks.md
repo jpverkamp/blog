@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Rebecca Skloot
-book/goodreads_id: 6493208
+goodreads_id: 6493208
 cover: /embeds/books/the-immortal-life-of-henrietta-lacks.jpg
-book/isbn: '1400052173'
-book/isbn13: '9781400052172'
+isbn: '1400052173'
+isbn13: '9781400052172'
 rating: 5
-book/pages: 370
+page_count: 370
 ---
 > But I tell you one thing, I don't want to be immortal if it mean living > forever, cause then everybody else just die and get old in front of you > while you stay the same, and that's just sad.
 

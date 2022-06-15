@@ -6,12 +6,12 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 13175692
+goodreads_id: 13175692
 cover: /embeds/books/the-shadow-over-innsmouth.jpg
-book/isbn: '1450562795'
-book/isbn13: '9781450562799'
+isbn: '1450562795'
+isbn13: '9781450562799'
 rating: 4
-book/pages: 158
+page_count: 158
 ---
 The Shadow Over Innsmouth introduces the coastal town of Innsmouth and the amphibious Deep Ones to Lovecraft's mythos. It's a well put together story, all about a traveler that decided to take a detour he was warned against and ends up in a town with something of a dark secret.  
 

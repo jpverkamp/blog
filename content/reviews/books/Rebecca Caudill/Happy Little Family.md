@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Rebecca Caudill
-book/goodreads_id: 400450
+goodreads_id: 400450
 cover: /embeds/books/happy-little-family.jpg
-book/isbn: '1883937728'
-book/isbn13: '9781883937720'
+isbn: '1883937728'
+isbn13: '9781883937720'
 rating: 5
-book/pages: 107
+page_count: 107
 ---
 That’s cute. I’ve never read it before.  
 

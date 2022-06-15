@@ -9,10 +9,10 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 23397921
+goodreads_id: 23397921
 cover: /embeds/books/sixth-of-the-dusk.jpg
 rating: 5
-book/pages: 59
+page_count: 59
 series_index: [8, 0]
 ---
 I've previously listened about this story on the [ Writing Excuses ](http://www.writingexcuses.com/) podcast and read it in the [ Shadows Beneath ](https://www.goodreads.com/book/show/21844946-shadows- beneath?from_search=true) anthology, but it's just as weird/good now as it was then.  

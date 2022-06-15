@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Jamie Delano
-book/goodreads_id: 11938931
+goodreads_id: 11938931
 cover: /embeds/books/hellblazer-vol-2-the-devil-you-know.jpg
-book/isbn: '1401233023'
-book/isbn13: '9781401233020'
+isbn: '1401233023'
+isbn13: '9781401233020'
 rating: 3
-book/pages: 264
+page_count: 264
 series_index: [2]
 ---
 Well that’s a ride. The continuation of the Swamp Thing sexy times storyline, some more backstory on how Constantine got to be how he is, Constantine all Arthurian (for some reason), and a straight up horror story. 

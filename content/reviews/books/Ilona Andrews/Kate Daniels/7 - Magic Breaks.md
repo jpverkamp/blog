@@ -8,12 +8,12 @@ reviews/series:
 - Kate Daniels
 reviews/authors:
 - Ilona Andrews
-book/goodreads_id: 12119529
+goodreads_id: 12119529
 cover: /embeds/books/magic-breaks.jpg
-book/isbn: '0425256227'
-book/isbn13: '9780425256220'
+isbn: '0425256227'
+isbn13: '9780425256220'
 rating: 5
-book/pages: 381
+page_count: 381
 series_index: [7]
 ---
 > “Fortune favors the brave," I told her. It also kills the stupid, but I decided to keep that fact to myself.

@@ -6,10 +6,10 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Naomi Novik
-book/goodreads_id: 36896898
+goodreads_id: 36896898
 cover: /embeds/books/spinning-silver.jpg
 rating: 5
-book/pages: 465
+page_count: 465
 ---
 > The real story isn’t half as pretty as the one you’ve heard. The real story is, the miller’s daughter with her long golden hair wants to catch a lord, a prince, a rich man’s son, so she goes to the moneylender and borrows for a ring and a necklace and decks herself out for the festival. And she’s beautiful enough, so the lord, the prince, the rich man’s son notices her, and dances with her, and tumbles her in a quiet hayloft when the dancing is over, and afterwards he goes home and marries the rich woman his family has picked out for him. Then the miller’s despoiled daughter tells everyone that the moneylender’s in league with the devil, and the village runs him out or maybe even stones him, so at least she gets to keep the jewels for a dowry, and the blacksmith marries her before that firstborn child comes along a little early. Because that’s what the story’s really about: getting out of paying your debts.
 

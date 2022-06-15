@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21328
+goodreads_id: 21328
 cover: /embeds/books/fables-vol-6-homelands.jpg
-book/isbn: '1401205003'
-book/isbn13: '9781401205003'
+isbn: '1401205003'
+isbn13: '9781401205003'
 rating: 5
-book/pages: 190
+page_count: 190
 series_index: [6, 6]
 ---
 Once upon a time... we got the story of Jack of the Fables and his meteoric rise (and eventually fall) as a reclusive Hollywood billionaire. And that's just the first story. On top of that, we get another section in the lands of the Fables, with Boy Blue, Action Hero, keen on saving his lady love, willing to Vorpal Sword his way through anyone to get what he wants. And confirmation that the adversary is who we thought he was, plus the big How He Did It all along. Quite the crazy story.  

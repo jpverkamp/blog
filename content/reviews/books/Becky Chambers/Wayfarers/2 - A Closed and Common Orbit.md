@@ -14,12 +14,12 @@ bingo-data:
   - 5x5
 reviews/authors:
 - Becky Chambers
-book/goodreads_id: 29475447
+goodreads_id: 29475447
 cover: /embeds/books/a-closed-and-common-orbit.jpg
-book/isbn: '1473621445'
-book/isbn13: '9781473621442'
+isbn: '1473621445'
+isbn13: '9781473621442'
 rating: 5
-book/pages: 365
+page_count: 365
 series_index: [2]
 ---
 > Life is terrifying. None of us have a rule book. None of us know what we're doing here. So, the easiest way to stare reality in the face and not utterly lose your shit is to believe that you have control over it. If you believe you have control, then you believe you're at the top. And if you're at the top, then people who aren't like you... well, they've got to be somewhere lower, right? Every species does this. Does it again and again and again. Doesn't matter if they do it to themselves, or another species, or someone they created.

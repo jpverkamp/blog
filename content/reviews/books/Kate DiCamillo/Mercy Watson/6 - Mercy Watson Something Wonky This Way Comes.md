@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Watson
 reviews/authors:
 - Kate DiCamillo
-book/goodreads_id: 6305996
+goodreads_id: 6305996
 cover: /embeds/books/mercy-watson-something-wonky-this-way-comes.jpg
-book/isbn: '0763636444'
-book/isbn13: '9780763636449'
+isbn: '0763636444'
+isbn13: '9780763636449'
 rating: 5
-book/pages: 86
+page_count: 86
 series_index: [6]
 ---
 After {{< goodreads book="Mercy Watson Goes for a Ride" >}}, I figured I should probably write about one of the shorter Mercy Watson stories that I really do like. {{< goodreads book="Mercy Watson: Something Wonky This Way Comes" >}} is that story.  

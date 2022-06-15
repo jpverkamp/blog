@@ -5,7 +5,7 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Michael Eisenhut
-book/goodreads_id: 58463378
+goodreads_id: 58463378
 cover: /embeds/books/brothers-of-war-the-iron-brigade-at-gettysburg.jpg
 rating: 4
 ---

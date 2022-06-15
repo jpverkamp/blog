@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 900750
+goodreads_id: 900750
 cover: /embeds/books/hellboy-vol-7-the-troll-witch-and-others.jpg
-book/isbn: '1593078609'
-book/isbn13: '9781593078607'
+isbn: '1593078609'
+isbn13: '9781593078607'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [7]
 ---
 This is most a collection of short stories, with little impact on the larger universe. The stories are still wonderful and creepy though.  

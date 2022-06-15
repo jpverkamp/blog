@@ -11,10 +11,10 @@ bingo-data:
   - 5x2+
 reviews/authors:
 - Andy Weir
-book/goodreads_id: 54493401
+goodreads_id: 54493401
 cover: /embeds/books/project-hail-mary.jpg
 rating: 5
-book/pages: 481
+page_count: 481
 ---
 Oh that's a wonderful book. If your read and enjoyed {{< goodreads book="The Martian" text=" The Martian " >}} , you'll almost certainly love {{< goodreads book="Project Hail Mary" text=" Project Hail Mary " >}} . The sense of humor mixed with scientific/engineering problem solving is the main strength in both. Great fun.  
 

@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 7352661
+goodreads_id: 7352661
 cover: /embeds/books/the-boys-volume-6-the-self-preservation-society.jpg
-book/isbn: '1606901257'
-book/isbn13: '9781606901250'
+isbn: '1606901257'
+isbn13: '9781606901250'
 rating: 5
-book/pages: 200
+page_count: 200
 series_index: [6]
 ---
 *Warning: NSFW*  

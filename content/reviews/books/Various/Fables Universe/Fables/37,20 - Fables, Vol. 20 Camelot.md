@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 18275594
+goodreads_id: 18275594
 cover: /embeds/books/fables-vol-20-camelot.jpg
-book/isbn: '1401245161'
-book/isbn13: '9781401245160'
+isbn: '1401245161'
+isbn13: '9781401245160'
 rating: 4
-book/pages: 256
+page_count: 256
 series_index: [20, 37]
 ---
 Onward and Fableward, we're almost to the end!  

@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 91474
+goodreads_id: 91474
 cover: /embeds/books/proven-guilty.jpg
-book/isbn: '0451461037'
-book/isbn13: '9780451461032'
+isbn: '0451461037'
+isbn13: '9780451461032'
 rating: 5
-book/pages: 547
+page_count: 547
 series_index: [8]
 ---
 Another very solid entry.  

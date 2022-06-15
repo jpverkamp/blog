@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 30000963
+goodreads_id: 30000963
 cover: /embeds/books/the-dunwich-horror.jpg
 rating: 5
-book/pages: 50
+page_count: 50
 ---
 Reading The Dunwich Horror back to back with Call of Cthulhu is an interesting experience. The former is everything I wanted the latter to be.  
 

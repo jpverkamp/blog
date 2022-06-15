@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 63720
+goodreads_id: 63720
 cover: /embeds/books/the-fifth-elephant.jpg
-book/isbn: 0552154229
-book/isbn13: '9780552154222'
+isbn: 0552154229
+isbn13: '9780552154222'
 rating: 4
-book/pages: 464
+page_count: 464
 series_index: [24, 5]
 ---
 > So this is diplomacy. It’s like lying, only to a better class of people.

@@ -5,10 +5,10 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Mark L. Haynes
-book/goodreads_id: 42153109
+goodreads_id: 42153109
 cover: /embeds/books/stargate-universe-vol-1-back-to-destiny.jpg
 rating: 4
-book/pages: 144
+page_count: 144
 ---
 I miss Stargate...
 

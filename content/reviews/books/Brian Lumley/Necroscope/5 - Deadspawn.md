@@ -8,12 +8,12 @@ reviews/series:
 - Necroscope
 reviews/authors:
 - Brian Lumley
-book/goodreads_id: 66658
+goodreads_id: 66658
 cover: /embeds/books/necroscope-v-deadspawn.jpg
-book/isbn: 0812508351
-book/isbn13: '9780812508352'
+isbn: 0812508351
+isbn13: '9780812508352'
 rating: 3
-book/pages: 608
+page_count: 608
 series_index: [5]
 ---
 I think I'm done with the Necroscope series, at least for the time being. And hey, technically this _is_ the end of the first Necroscope series.  

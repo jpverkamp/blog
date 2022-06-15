@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 10974311
+goodreads_id: 10974311
 cover: /embeds/books/fables-vol-16-super-team.jpg
-book/isbn: '1401233066'
-book/isbn13: '9781401233068'
+isbn: '1401233066'
+isbn13: '9781401233068'
 rating: 4
-book/pages: 160
+page_count: 160
 series_index: [16, 29]
 ---
 Well that's a crazy story. Mr. Dark is on the move and the Fables have decided that in order to fight him... they have to become Superheroes? You know, honestly, given that they've been proven to be more powerful based on how many people know their stories, it kind of works.  

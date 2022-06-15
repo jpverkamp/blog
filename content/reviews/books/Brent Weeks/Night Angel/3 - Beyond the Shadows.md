@@ -8,12 +8,12 @@ reviews/series:
 - Night Angel
 reviews/authors:
 - Brent Weeks
-book/goodreads_id: 3754026
+goodreads_id: 3754026
 cover: /embeds/books/beyond-the-shadows.jpg
-book/isbn: 0316033669
-book/isbn13: '9780316033664'
+isbn: 0316033669
+isbn13: '9780316033664'
 rating: 4
-book/pages: 689
+page_count: 689
 series_index: [3]
 ---
 On one hand, it's over. It's a solid series with a lot of interesting world building that kept me turning pages right up to the end and managed to wrap up a surprising number of plotlines up into a huge final battle. If that's all you're looking for and you've already read the first two books, go ahead and read this one. It's the first two books, only bigger.  

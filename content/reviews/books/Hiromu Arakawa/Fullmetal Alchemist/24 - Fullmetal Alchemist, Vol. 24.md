@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 8062063
+goodreads_id: 8062063
 cover: /embeds/books/fullmetal-alchemist-vol-24.jpg
-book/isbn: '1421538121'
-book/isbn13: '9781421538129'
+isbn: '1421538121'
+isbn13: '9781421538129'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [24]
 ---
 Onward!  

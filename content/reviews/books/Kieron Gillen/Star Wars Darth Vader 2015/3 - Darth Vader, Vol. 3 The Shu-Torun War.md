@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader (2015)'
 reviews/authors:
 - Kieron Gillen
-book/goodreads_id: 28118847
+goodreads_id: 28118847
 cover: /embeds/books/star-wars-darth-vader-vol-3-the-shu-torun-war.jpg
-book/isbn: 0785199772
-book/isbn13: '9780785199779'
+isbn: 0785199772
+isbn13: '9780785199779'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [3]
 ---
 Okay, now this went a bit sideways. Forget the Emperor and politicking (more or less). Instead, get thrown into a rivalry on a mining planet that's obsessed with etiquette...  

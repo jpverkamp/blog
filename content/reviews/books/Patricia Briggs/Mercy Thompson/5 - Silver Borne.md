@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 6587387
+goodreads_id: 6587387
 cover: /embeds/books/silver-borne.jpg
-book/isbn: 044101819X
-book/isbn13: '9780441018192'
+isbn: 044101819X
+isbn13: '9780441018192'
 rating: 5
-book/pages: 342
+page_count: 342
 series_index: [5]
 ---
 No more vampires, which is a plus for me at least. Your milage may vary. Instead we get a mix of wolves and Fae, which in my opinion are the best parts of the Mercyverse worldbuilding.  

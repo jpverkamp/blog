@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 44571368
+goodreads_id: 44571368
 cover: /embeds/books/smoke-bitten.jpg
-book/isbn: '0440001552'
-book/isbn13: '9780440001553'
+isbn: '0440001552'
+isbn13: '9780440001553'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [12]
 ---
 Two in a row! It's like Christmas! If Christmas was chuck full of creepy uberpowerful fae...  

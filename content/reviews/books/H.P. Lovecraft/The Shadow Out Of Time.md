@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 30343291
+goodreads_id: 30343291
 cover: /embeds/books/the-shadow-out-of-time.jpg
 rating: 5
-book/pages: 63
+page_count: 63
 ---
 That was kind of a bizarre story, bouncing around in time and space a bit. Then again, it sounds like perhaps the narrator had a bizarre life, bouncing around in time and space. :)  
 

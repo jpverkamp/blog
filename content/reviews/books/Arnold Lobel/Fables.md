@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Arnold Lobel
-book/goodreads_id: 652484
+goodreads_id: 652484
 cover: /embeds/books/fables.jpg
-book/isbn: 0060239743
-book/isbn13: '9780060239749'
+isbn: 0060239743
+isbn13: '9780060239749'
 rating: 4
-book/pages: 48
+page_count: 48
 ---
 > All the miles of a hard road are worth a moment of true happiness.
 

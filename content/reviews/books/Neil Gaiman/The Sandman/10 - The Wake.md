@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25104
+goodreads_id: 25104
 cover: /embeds/books/the-wake.jpg
-book/isbn: '1563892871'
-book/isbn13: '9781563892875'
+isbn: '1563892871'
+isbn13: '9781563892875'
 rating: 5
-book/pages: 191
+page_count: 191
 series_index: [10]
 ---
 And so as all things must end, so too do the Endless.  

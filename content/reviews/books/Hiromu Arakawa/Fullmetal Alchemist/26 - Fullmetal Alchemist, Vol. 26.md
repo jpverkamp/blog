@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 10281904
+goodreads_id: 10281904
 cover: /embeds/books/fullmetal-alchemist-vol-26.jpg
-book/isbn: '1421539624'
-book/isbn13: '9781421539621'
+isbn: '1421539624'
+isbn13: '9781421539621'
 rating: 5
-book/pages: 208
+page_count: 208
 series_index: [26]
 ---
 Ooooh boy. This was really the most absolutely bizarre episode of the whole glorious mess. It's going full Cthulhu this time around. And it works. I have no idea what's going on, but it's glorious!  

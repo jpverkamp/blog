@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Randall Munroe
-book/goodreads_id: 42086897
+goodreads_id: 42086897
 cover: /embeds/books/how-to-absurd-scientific-advice-for-common-real-world-problems.jpg
-book/isbn: '1473680336'
-book/isbn13: '9781473680333'
+isbn: '1473680336'
+isbn13: '9781473680333'
 rating: 5
-book/pages: 308
+page_count: 308
 ---
 > Do not try any of this at home. The author of this book is an internet cartoonist, not a health or safety expert.
 

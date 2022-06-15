@@ -8,10 +8,10 @@ reviews/series:
 - Disrupted Magic
 reviews/authors:
 - Melissa F. Olson
-book/goodreads_id: 34181876
+goodreads_id: 34181876
 cover: /embeds/books/blood-gamble.jpg
 rating: 5
-book/pages: 301
+page_count: 301
 series_index: [2]
 ---
 > Which is how I ended up being the only one who could help. As a null, I don’t have any particular magic powers—just the opposite, really. I negate all the magic within a certain radius around me, creating a magic-free bubble that has me as its center. In theory, if Marko stayed within that area, I could keep him human for a short time, and he and his wife could make a baby the old-fashioned way. Assuming, of course, we could all get past the extreme awkwardness that would be involved.  

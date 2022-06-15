@@ -14,12 +14,12 @@ bingo-data:
   - 5x3+
 reviews/authors:
 - John Milton
-book/goodreads_id: 15997
+goodreads_id: 15997
 cover: /embeds/books/paradise-lost.jpg
-book/isbn: 0140424393
-book/isbn13: '9780140424393'
+isbn: 0140424393
+isbn13: '9780140424393'
 rating: 3
-book/pages: 453
+page_count: 453
 ---
 Well that's an odd sort of book. It's basically the story of the Fall of Satan plus Genesis, wrapped up in some crazy flowery poetry, writ long. It's been on my 'why not' list for a long time and hearing more about it in {{<crosslink "Daemon Voices">}} bumped it up a fair bit.
 

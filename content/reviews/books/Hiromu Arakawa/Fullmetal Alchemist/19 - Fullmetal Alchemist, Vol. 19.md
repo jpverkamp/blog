@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 6065429
+goodreads_id: 6065429
 cover: /embeds/books/fullmetal-alchemist-vol-19.jpg
-book/isbn: '1421525682'
-book/isbn13: '9781421525686'
+isbn: '1421525682'
+isbn13: '9781421525686'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [19]
 ---
 WHOA. MORE BACKSTORY!  

@@ -9,12 +9,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267349
+goodreads_id: 267349
 cover: /embeds/books/the-rock-rats.jpg
-book/isbn: 0812579887
-book/isbn13: '9780812579888'
+isbn: 0812579887
+isbn13: '9780812579888'
 rating: 3
-book/pages: 384
+page_count: 384
 series_index: [2, 10]
 ---
 {{< goodreads book="The Rock Rats" >}} continues the story of {{< goodreads book="The Precipice" >}}, following the story of humanity's expansion into the Asteroid Belt and all the atrocities that entails.

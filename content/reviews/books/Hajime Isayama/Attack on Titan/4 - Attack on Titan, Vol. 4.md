@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 15798166
+goodreads_id: 15798166
 cover: /embeds/books/attack-on-titan-vol-4.jpg
-book/isbn: '1612622534'
-book/isbn13: '9781612622538'
+isbn: '1612622534'
+isbn13: '9781612622538'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [4]
 ---
 Use the Titans to save humanity from the Titans? Sounds like a plan!  

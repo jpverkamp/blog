@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 21413809
+goodreads_id: 21413809
 cover: /embeds/books/havana-storm.jpg
-book/isbn: 0399172920
-book/isbn13: '9780399172922'
+isbn: 0399172920
+isbn13: '9780399172922'
 rating: 4
-book/pages: 452
+page_count: 452
 series_index: [23]
 ---
 > “When power is up for grabs,” Pitt said, “the first casualty is often liberty.”  

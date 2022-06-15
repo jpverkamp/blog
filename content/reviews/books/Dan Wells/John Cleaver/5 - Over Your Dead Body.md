@@ -8,12 +8,12 @@ reviews/series:
 - John Cleaver
 reviews/authors:
 - Dan Wells
-book/goodreads_id: 23629836
+goodreads_id: 23629836
 cover: /embeds/books/over-your-dead-body.jpg
-book/isbn: 0765380692
-book/isbn13: '9780765380692'
+isbn: 0765380692
+isbn13: '9780765380692'
 rating: 5
-book/pages: 303
+page_count: 303
 series_index: [5]
 ---
 Following the disastrous ending of The Devil's Only Friend, John and Brooke are out hunting Withered on their own.  

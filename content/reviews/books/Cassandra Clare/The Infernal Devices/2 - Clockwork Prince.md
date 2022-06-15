@@ -8,12 +8,12 @@ reviews/series:
 - The Infernal Devices
 reviews/authors:
 - Cassandra Clare
-book/goodreads_id: 10025305
+goodreads_id: 10025305
 cover: /embeds/books/clockwork-prince.jpg
-book/isbn: '1416975888'
-book/isbn13: '9781416975885'
+isbn: '1416975888'
+isbn13: '9781416975885'
 rating: 3
-book/pages: 498
+page_count: 498
 series_index: [2]
 ---
 > We live and breathe words. .... It was books that made me feel that perhaps I was not completely alone. They could be honest with me, and I with them.

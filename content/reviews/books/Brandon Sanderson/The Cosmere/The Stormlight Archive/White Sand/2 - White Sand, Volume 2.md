@@ -5,16 +5,17 @@ generated: true
 reviews/lists:
 - 2021 Book Reviews
 reviews/series:
+- The Cosmere
 - White Sand
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 33551363
+goodreads_id: 33551363
 cover: /embeds/books/white-sand-volume-2.jpg
-book/isbn: 152410342X
-book/isbn13: '9781524103422'
+isbn: 152410342X
+isbn13: '9781524103422'
 rating: 4
-book/pages: 160
-series_index: [2]
+page_count: 160
+series_index: [0, 2]
 ---
 One of the things that I feared most about getting into these stories is the big 'art style change'. I see it. It's definately different. But having read all manner of graphic novels over the last year--some change *far* more dramatically than this. They're similar enough that I barely even noticed for the most part.  
 

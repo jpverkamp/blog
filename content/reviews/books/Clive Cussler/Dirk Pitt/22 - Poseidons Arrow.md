@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 15712052
+goodreads_id: 15712052
 cover: /embeds/books/poseidons-arrow.jpg
-book/isbn: '1611761522'
-book/isbn13: '9781611761528'
+isbn: '1611761522'
+isbn13: '9781611761528'
 rating: 3
-book/pages: 14
+page_count: 14
 series_index: [22]
 ---
 Well. I listened to it. It had something to do with a big conspiracy to control rare earth metals and a lost submarine. ... That's really about all that stuck in my head.  

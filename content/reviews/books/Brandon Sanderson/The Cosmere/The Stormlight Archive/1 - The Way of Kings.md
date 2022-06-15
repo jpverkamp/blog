@@ -9,15 +9,13 @@ reviews/series:
 - The Stormlight Archive
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 7235533
+goodreads_id: 7235533
 cover: /embeds/books/the-way-of-kings.jpg
-book/isbn: '0765326353'
-book/isbn13: '9780765326355'
+isbn: '0765326353'
+isbn13: '9780765326355'
 rating: 5
-book/pages: 1007
-series_index:
-- 0
-- 1
+page_count: 1007
+series_index: [0, 1]
 ---
 > Tell … tell my brother … he must find the most important words a man can say.
 

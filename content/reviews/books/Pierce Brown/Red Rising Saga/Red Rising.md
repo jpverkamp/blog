@@ -8,12 +8,12 @@ reviews/series:
 - Red Rising Saga
 reviews/authors:
 - Pierce Brown
-book/goodreads_id: 15839976
+goodreads_id: 15839976
 cover: /embeds/books/red-rising.jpg
-book/isbn: 0345539788
-book/isbn13: '9780345539786'
+isbn: 0345539788
+isbn13: '9780345539786'
 rating: 4
-book/pages: 382
+page_count: 382
 series_index: [0]
 ---
 Take one part Hunger Games, one part Ender's Game, and mix in some Harry Potter to taste. Take the whole thing and put it on Mars. Voila Red Rising.  

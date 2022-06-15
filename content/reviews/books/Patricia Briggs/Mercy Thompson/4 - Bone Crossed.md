@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 3128411
+goodreads_id: 3128411
 cover: /embeds/books/bone-crossed.jpg
-book/isbn: '1841496863'
-book/isbn13: '9781841496863'
+isbn: '1841496863'
+isbn13: '9781841496863'
 rating: 5
-book/pages: 300
+page_count: 300
 series_index: [4]
 ---
 Back to vampires for a little while.  

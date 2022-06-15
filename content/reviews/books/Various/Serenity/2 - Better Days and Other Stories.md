@@ -8,12 +8,12 @@ reviews/series:
 - Serenity
 reviews/authors:
 - Joss Whedon
-book/goodreads_id: 11279472
+goodreads_id: 11279472
 cover: /embeds/books/better-days-and-other-stories.jpg
-book/isbn: '1595827390'
-book/isbn13: '9781595827395'
+isbn: '1595827390'
+isbn13: '9781595827395'
 rating: 5
-book/pages: 126
+page_count: 126
 series_index: [2]
 ---
 Whoa. A heist goes right (for a while) and everyone gets to dream about what to do next.  

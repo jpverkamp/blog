@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Rincewind
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 6250169
+goodreads_id: 6250169
 cover: /embeds/books/unseen-academicals.jpg
-book/isbn: '0061161705'
-book/isbn13: '9780061161704'
+isbn: '0061161705'
+isbn13: '9780061161704'
 rating: 4
-book/pages: 417
+page_count: 417
 series_index: [37, 8]
 ---
 Officially, Unseen Academicals is the 8th and final novel in the Rincewind subseries of the Discworld novels. Unfortunately, Rincewind isn't in particularly much of it. A few pages? He's a professor now... and that's about it.  

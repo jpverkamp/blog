@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Markus Zusak
-book/goodreads_id: 8120173
+goodreads_id: 8120173
 cover: /embeds/books/the-book-thief.jpg
 rating: 4
-book/pages: 576
+page_count: 576
 ---
 > I have hated words and I have loved them, and I hope I have made them right.
 

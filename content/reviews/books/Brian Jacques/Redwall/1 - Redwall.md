@@ -8,12 +8,12 @@ reviews/series:
 - Redwall
 reviews/authors:
 - Brian Jacques
-book/goodreads_id: 7996
+goodreads_id: 7996
 cover: /embeds/books/redwall.jpg
-book/isbn: '1862301387'
-book/isbn13: '9781862301382'
+isbn: '1862301387'
+isbn13: '9781862301382'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [1]
 ---
 Redwall is a wonderful little tale.  

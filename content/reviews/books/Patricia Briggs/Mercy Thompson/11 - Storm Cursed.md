@@ -8,10 +8,10 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 25026912
+goodreads_id: 25026912
 cover: /embeds/books/storm-cursed.jpg
 rating: 5
-book/pages: 384
+page_count: 384
 series_index: [11]
 ---
 It's been a while since my last re-read/listen through the Mercy Thompson books. I had forgotten just host much things had been changing on a larger world building scale in the last few books: since Mercy put herself and her pack on the line defending the people and territory of the Columbia Basin, things have gotten complicated. And dark. And did I mention complicated?  

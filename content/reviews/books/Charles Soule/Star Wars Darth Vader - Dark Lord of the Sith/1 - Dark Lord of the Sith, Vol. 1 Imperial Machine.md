@@ -8,12 +8,12 @@ reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 reviews/authors:
 - Charles Soule
-book/goodreads_id: 35009957
+goodreads_id: 35009957
 cover: /embeds/books/star-wars-darth-vader---dark-lord-of-the-sith-vol-1-imperial-machine.jpg
-book/isbn: '1302907441'
-book/isbn13: '9781302907440'
+isbn: '1302907441'
+isbn13: '9781302907440'
 rating: 5
-book/pages: 154
+page_count: 154
 series_index: [1]
 ---
 Another day... another Darth Vader serial?  

@@ -8,10 +8,10 @@ reviews/series:
 - The Giver
 reviews/authors:
 - Lois Lowry
-book/goodreads_id: 15777576
+goodreads_id: 15777576
 cover: /embeds/books/son.jpg
 rating: 5
-book/pages: 405
+page_count: 405
 series_index: [4]
 ---
 Son should have been the first sequel to the Giver. It actually starts in the same community as the Giver, this time with Gabriel's birthmother Claire. We follow her life: first in the community, then in a small seaside village, and finally in the same village where Jonas and Gabriel ended up.  

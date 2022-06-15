@@ -6,10 +6,10 @@ reviews/lists:
 - 2017 Book Reviews
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 14497
+goodreads_id: 14497
 cover: /embeds/books/neverwhere.jpg
 rating: 5
-book/pages: 336
+page_count: 336
 ---
 Neverwhere is an excellent example of the 'hidden world' sort of urban fantasy --where someone, often from our own world stumbles upon a door or falls through the cracks and finds themselves in another world, just off the beaten track from our own. Harry Potter. Narnia.  
 

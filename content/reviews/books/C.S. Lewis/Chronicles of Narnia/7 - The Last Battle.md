@@ -8,12 +8,12 @@ reviews/series:
 - Chronicles of Narnia
 reviews/authors:
 - C.S. Lewis
-book/goodreads_id: 84369
+goodreads_id: 84369
 cover: /embeds/books/the-last-battle.jpg
-book/isbn: '0007202326'
-book/isbn13: '9780007202324'
+isbn: '0007202326'
+isbn13: '9780007202324'
 rating: 2
-book/pages: 288
+page_count: 288
 series_index: [7]
 ---
 And so it ends.  

@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41706
+goodreads_id: 41706
 cover: /embeds/books/raise-the-titanic.jpg
-book/isbn: 0425194523
-book/isbn13: '9780425194522'
+isbn: 0425194523
+isbn13: '9780425194522'
 rating: 5
-book/pages: 545
+page_count: 545
 series_index: [4]
 ---
 {{< goodreads book="Raise the Titanic!" text=" Raise the Titanic! " >}} is one of the Dirk Pitt books that I remember reading years and years ago. It's a fascinating story, mixing secret government espionage with the underwater salvage details that are one of the reasons I really do enjoy this series on the greatest salvage mission you could expect: The Titanic.  

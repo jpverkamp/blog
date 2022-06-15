@@ -8,10 +8,10 @@ reviews/series:
 - Grimnoir Chronicles
 reviews/authors:
 - Larry Correia
-book/goodreads_id: 18899915
+goodreads_id: 18899915
 cover: /embeds/books/spellbound.jpg
 rating: 5
-book/pages: 656
+page_count: 656
 series_index: [2]
 ---
 Spellbound takes the straightforward noir/spy/magic {{< goodreads book="Hard Magic" >}} and makes it bigger.  

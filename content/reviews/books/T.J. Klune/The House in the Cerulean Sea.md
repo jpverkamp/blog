@@ -11,12 +11,12 @@ bingo-data:
   - 1x4+
 reviews/authors:
 - T.J. Klune
-book/goodreads_id: 45046567
+goodreads_id: 45046567
 cover: /embeds/books/the-house-in-the-cerulean-sea.jpg
-book/isbn: '1250217288'
-book/isbn13: '9781250217288'
+isbn: '1250217288'
+isbn13: '9781250217288'
 rating: 5
-book/pages: 396
+page_count: 396
 ---
 A gnome, a sprite, a wyvern, a green blob, a were-Pomeranian, and the Antichrist get sent to live in an orphanage on an island...  
 

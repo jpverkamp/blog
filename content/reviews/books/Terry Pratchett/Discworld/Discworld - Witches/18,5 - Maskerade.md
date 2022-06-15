@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Witches
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 78876
+goodreads_id: 78876
 cover: /embeds/books/maskerade.jpg
-book/isbn: 0575058080
-book/isbn13: '9780575058088'
+isbn: 0575058080
+isbn13: '9780575058088'
 rating: 5
-book/pages: 285
+page_count: 285
 series_index: [18, 5]
 ---
 The witches are back! Or at least Granny Weatherwax and Nanny Ogg. Magrat's off being queen or somesuch.  

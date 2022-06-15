@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 400354
+goodreads_id: 400354
 cover: /embeds/books/men-at-arms.jpg
-book/isbn: 0061092193
-book/isbn13: '9780061092190'
+isbn: 0061092193
+isbn13: '9780061092190'
 rating: 5
-book/pages: 377
+page_count: 377
 series_index: [15, 2]
 ---
 Continuing the story of {{< goodreads book="Guards! Guards!" >}}, {{< goodreads book="Men at Arms" >}} follows all of my favorite characters from that former on a grand new adventure (of sorts).  

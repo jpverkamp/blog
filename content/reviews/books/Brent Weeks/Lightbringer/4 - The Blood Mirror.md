@@ -8,12 +8,12 @@ reviews/series:
 - Lightbringer
 reviews/authors:
 - Brent Weeks
-book/goodreads_id: 29467232
+goodreads_id: 29467232
 cover: /embeds/books/the-blood-mirror.jpg
-book/isbn: 031625133X
-book/isbn13: '9780316251334'
+isbn: 031625133X
+isbn13: '9780316251334'
 rating: 5
-book/pages: 704
+page_count: 704
 series_index: [4]
 ---
 > Look at your mistakes long enough to learn from them, then put them behind you.

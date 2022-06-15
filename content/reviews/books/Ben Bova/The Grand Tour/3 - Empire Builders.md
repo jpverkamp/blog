@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267284
+goodreads_id: 267284
 cover: /embeds/books/empire-builders.jpg
-book/isbn: 0812511654
-book/isbn13: '9780812511659'
+isbn: 0812511654
+isbn13: '9780812511659'
 rating: 4
-book/pages: 416
+page_count: 416
 series_index: [3]
 ---
 In {{< goodreads book="Powersat" >}}, the big bads were terrorists. In {{< goodreads book="Privateers" >}}, the Russians. In {{< goodreads book="The Empire Builders" >}} it's... global warming and the mob?

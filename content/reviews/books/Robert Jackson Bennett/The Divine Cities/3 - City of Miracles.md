@@ -8,10 +8,10 @@ reviews/series:
 - The Divine Cities
 reviews/authors:
 - Robert Jackson Bennett
-book/goodreads_id: 31557062
+goodreads_id: 31557062
 cover: /embeds/books/city-of-miracles.jpg
 rating: 5
-book/pages: 466
+page_count: 466
 series_index: [3]
 ---
 {{< goodreads book="City of Miracles" text=" City of Miracles " >}} is a bizarre, fantastic end to a bizarre, fantastic series. Once again with another point of view, this time we follow Sigrud, with Shara and Mulaghesh both taking minor background roles, what with Shara dying in the first few pages... Hey. It's not a spoiler, if it happens that early in the book...  {{< spoiler >}}Plus, you know she always has another trick up her sleeve!{{< /spoiler >}}  ).  

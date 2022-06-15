@@ -8,10 +8,10 @@ reviews/series:
 - Locke & Key
 reviews/authors:
 - Joe Hill
-book/goodreads_id: 6120349
+goodreads_id: 6120349
 cover: /embeds/books/locke-key-vol-2-head-games.jpg
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [2]
 ---
 Okay last time around, we were introduced to Keyhose, to the Well (and the creepy denizen thereof). Nice and creepy. But of course, this time around, we have to go a few levels further...  

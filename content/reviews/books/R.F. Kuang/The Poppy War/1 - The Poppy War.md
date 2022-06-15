@@ -12,12 +12,12 @@ bingo-data:
   - 1x2+
 reviews/authors:
 - R.F. Kuang
-book/goodreads_id: 35068705
+goodreads_id: 35068705
 cover: /embeds/books/the-poppy-war.jpg
-book/isbn: 0062662597
-book/isbn13: '9780062662590'
+isbn: 0062662597
+isbn13: '9780062662590'
 rating: 5
-book/pages: 531
+page_count: 531
 series_index: [1]
 ---
 > War doesn't determine who's right. War determines who remains.

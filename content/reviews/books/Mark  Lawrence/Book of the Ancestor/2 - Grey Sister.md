@@ -8,10 +8,10 @@ reviews/series:
 - Book of the Ancestor
 reviews/authors:
 - Mark  Lawrence
-book/goodreads_id: 35530652
+goodreads_id: 35530652
 cover: /embeds/books/grey-sister.jpg
 rating: 4
-book/pages: 432
+page_count: 432
 series_index: [2]
 ---
 > NONA GREY RAISES her head and regards her foe through midnight eyes. Perhaps

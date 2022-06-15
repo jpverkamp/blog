@@ -8,12 +8,12 @@ reviews/series:
 - Rama
 reviews/authors:
 - Arthur C. Clarke
-book/goodreads_id: 112517
+goodreads_id: 112517
 cover: /embeds/books/rama-revealed.jpg
-book/isbn: '1857232526'
-book/isbn13: '9781857232523'
+isbn: '1857232526'
+isbn13: '9781857232523'
 rating: 4
-book/pages: 633
+page_count: 633
 series_index: [4]
 ---
 In my opinion, this was by far the best of the sequels.  

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 873
+goodreads_id: 873
 cover: /embeds/books/fullmetal-alchemist-vol-2.jpg
-book/isbn: '1591169232'
-book/isbn13: '9781591169239'
+isbn: '1591169232'
+isbn13: '9781591169239'
 rating: 5
-book/pages: 182
+page_count: 182
 series_index: [2]
 ---
 {{< goodreads book="Fullmetal Alchemist, Vol. 2" >}} sees the introduction of a number of the other National Alchemists, with their ridiculous names  

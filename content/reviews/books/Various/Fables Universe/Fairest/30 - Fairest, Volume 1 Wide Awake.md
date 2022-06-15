@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 13536522
+goodreads_id: 13536522
 cover: /embeds/books/fairest-volume-1-wide-awake.jpg
-book/isbn: '1401235506'
-book/isbn13: '9781401235505'
+isbn: '1401235506'
+isbn13: '9781401235505'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [0, 30]
 ---
 Another day, another Fables subseries. In a nutshell, we have the Winter Queen (back again for the first time in a while) and Sleeping Beauty, both woken by 'true loves' kiss' gone all complicated, as things are wont to do.  

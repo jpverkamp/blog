@@ -8,10 +8,10 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 19108356
+goodreads_id: 19108356
 cover: /embeds/books/mystery-in-the-sand.jpg
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [16]
 ---
 "This is the funniest thing," said Benny. "Here we are at Aunt Jane and Uncle Andy's new trailer at the beach. A day or so ago we were at home without the least idea of going anywhere at all."  

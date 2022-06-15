@@ -10,12 +10,12 @@ bingo-data:
   - 1x5+
 reviews/authors:
 - Maggie Stiefvater
-book/goodreads_id: 10626594
+goodreads_id: 10626594
 cover: /embeds/books/the-scorpio-races.jpg
-book/isbn: 054522490X
-book/isbn13: '9780545224901'
+isbn: 054522490X
+isbn13: '9780545224901'
 rating: 3
-book/pages: 409
+page_count: 409
 ---
 > There are moments that you'll remember for the rest of your life and there are moments that you think you'll remember for the rest of your life, and it's not often they turn out to be the same moment.
 

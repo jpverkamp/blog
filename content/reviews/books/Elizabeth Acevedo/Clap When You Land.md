@@ -5,10 +5,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Elizabeth Acevedo
-book/goodreads_id: 52516332
+goodreads_id: 52516332
 cover: /embeds/books/clap-when-you-land.jpg
 rating: 5
-book/pages: 432
+page_count: 432
 ---
 I was raised so damn Dominican
     Spanish my first language

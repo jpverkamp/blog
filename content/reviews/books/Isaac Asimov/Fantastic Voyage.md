@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Isaac Asimov
-book/goodreads_id: 83539
+goodreads_id: 83539
 cover: /embeds/books/fantastic-voyage.jpg
-book/isbn: '0553275720'
-book/isbn13: '9780553275728'
+isbn: '0553275720'
+isbn13: '9780553275728'
 rating: 4
-book/pages: 186
+page_count: 186
 ---
 Well that's a bizarre little story. On one hand, it's 1960s scifi in a nutshell, full of tensions about the 'Other Side' (obvious enough), weird but fascinating scientific gadgets and ideas, sexism, and with odd pacing and dialog. It's pretty much what I remember from other Asimov novels, although it's been a while.  
 

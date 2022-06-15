@@ -8,10 +8,10 @@ reviews/series:
 - The Frontiers Saga
 reviews/authors:
 - Ryk Brown
-book/goodreads_id: 13575890
+goodreads_id: 13575890
 cover: /embeds/books/the-legend-of-corinair.jpg
 rating: 4
-book/pages: 282
+page_count: 282
 series_index: [3]
 ---
 Now we're getting somewhere.  

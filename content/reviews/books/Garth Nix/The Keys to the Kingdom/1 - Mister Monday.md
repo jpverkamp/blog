@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 47613
+goodreads_id: 47613
 cover: /embeds/books/mister-monday.jpg
-book/isbn: 0439856264
-book/isbn13: '9780439856263'
+isbn: 0439856264
+isbn13: '9780439856263'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [1]
 ---
 I'm pretty sure that Arthur died. He had a massive asthma attack, and, as his oxygen starved brain struggled its last, he hallucinated all of the rest. How else do you describe just how ... odd this book is.  

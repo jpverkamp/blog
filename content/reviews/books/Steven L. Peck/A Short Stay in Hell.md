@@ -6,12 +6,12 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - Steven L. Peck
-book/goodreads_id: 13456414
+goodreads_id: 13456414
 cover: /embeds/books/a-short-stay-in-hell.jpg
-book/isbn: 098374842X
-book/isbn13: '9780983748427'
+isbn: 098374842X
+isbn13: '9780983748427'
 rating: 5
-book/pages: 104
+page_count: 104
 ---
 I was reading about the Borges "The Library of Babel" all about a huge (albeit finite) library containing every book that could ever be written (so long as it contains 410 pages containing 40 lines of 80 characters each), which reminded me of the short story A Short Stay in Hell, so I re-read it.  
 

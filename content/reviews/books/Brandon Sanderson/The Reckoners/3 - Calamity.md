@@ -8,12 +8,12 @@ reviews/series:
 - The Reckoners
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 15704486
+goodreads_id: 15704486
 cover: /embeds/books/calamity.jpg
-book/isbn: 0385743602
-book/isbn13: '9780385743600'
+isbn: 0385743602
+isbn13: '9780385743600'
 rating: 5
-book/pages: 424
+page_count: 424
 series_index: [3]
 ---
 Reading some of the other reviews on Goodreads, I was afraid that Calamity wouldn't live up to the expectation of the previous two Reckoners books. Luckily, at least so far as I'm concerned, it not only met the expectations I had for it, it exceeded them.  

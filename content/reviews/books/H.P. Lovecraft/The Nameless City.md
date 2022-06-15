@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.P. Lovecraft
-book/goodreads_id: 6505012
+goodreads_id: 6505012
 cover: /embeds/books/the-nameless-city.jpg
 rating: 3
-book/pages: 23
+page_count: 23
 ---
 So. That's Lovecraft.  
 

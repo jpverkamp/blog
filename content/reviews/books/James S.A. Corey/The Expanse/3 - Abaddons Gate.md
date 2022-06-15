@@ -8,10 +8,10 @@ reviews/series:
 - The Expanse
 reviews/authors:
 - James S.A. Corey
-book/goodreads_id: 16131032
+goodreads_id: 16131032
 cover: /embeds/books/abaddons-gate.jpg
 rating: 5
-book/pages: 539
+page_count: 539
 series_index: [3]
 ---
 > Holden was starting to feel like they were all monkeys playing with a microwave. Push a button, a light comes on inside, so it’s a light. Push a different button and stick your hand inside, it burns you, so it’s a weapon. Learn to open and close the door, it’s a place to hide things. Never grasping what it actually did, and maybe not even having the framework necessary to figure it out. No monkey ever reheated a frozen burrito.

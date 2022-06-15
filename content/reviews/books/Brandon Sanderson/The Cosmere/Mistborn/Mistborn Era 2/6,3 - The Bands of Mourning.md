@@ -10,10 +10,10 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 18739426
+goodreads_id: 18739426
 cover: /embeds/books/the-bands-of-mourning.jpg
 rating: 5
-book/pages: 448
+page_count: 448
 series_index: [6, 3, 0]
 ---
 Sanderson has this tendency to completely change the world in ways that you'd never think could possibly work... and yet pull them off. He did it between the first and second Mistborn books and he just did it again.  

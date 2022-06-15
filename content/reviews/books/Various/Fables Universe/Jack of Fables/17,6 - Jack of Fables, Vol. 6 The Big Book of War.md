@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 6378575
+goodreads_id: 6378575
 cover: /embeds/books/jack-of-fables-vol-6-the-big-book-of-war.jpg
-book/isbn: '1401225004'
-book/isbn13: '9781401225001'
+isbn: '1401225004'
+isbn13: '9781401225001'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [6, 17]
 ---
 More Jack! And this it's the big battle schene in this universe, much like in {{< goodreads book="Fables, Vol. 11: War and Pieces" text=" Fables, Vol. 11: War and Pieces " >}} . Gary (the Pathetic Fallacy) really shines here:  

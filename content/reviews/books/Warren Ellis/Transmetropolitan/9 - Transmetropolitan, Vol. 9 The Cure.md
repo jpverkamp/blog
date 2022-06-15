@@ -8,12 +8,12 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22425
+goodreads_id: 22425
 cover: /embeds/books/transmetropolitan-vol-9-the-cure.jpg
-book/isbn: '1563899884'
-book/isbn13: '9781563899881'
+isbn: '1563899884'
+isbn13: '9781563899881'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [9]
 ---
 Oh... we're getting on to the end. It's all going to come down to if the President can tie up his loose ends before Spider manages to ferret them out (and I'm betting on Spider).  

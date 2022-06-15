@@ -8,10 +8,10 @@ reviews/series:
 - The Iron Druid Chronicles
 reviews/authors:
 - Kevin Hearne
-book/goodreads_id: 16280689
+goodreads_id: 16280689
 cover: /embeds/books/staked.jpg
 rating: 4
-book/pages: 336
+page_count: 336
 series_index: [8]
 ---
 It looks like I started reviewing individual books after I read the first seven Iron Druid books, so this is my first individual review. I reviewed the first seven all together on my blog: [https://blog.jverkamp.com/2015/02/20/...](https://blog.jverkamp.com/2015/02/20/the- iron-druid-chronicles/)  

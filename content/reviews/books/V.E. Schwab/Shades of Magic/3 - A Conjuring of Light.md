@@ -8,12 +8,12 @@ reviews/series:
 - Shades of Magic
 reviews/authors:
 - V.E. Schwab
-book/goodreads_id: 29939230
+goodreads_id: 29939230
 cover: /embeds/books/a-conjuring-of-light.jpg
-book/isbn: 0765387468
-book/isbn13: '9780765387462'
+isbn: 0765387468
+isbn13: '9780765387462'
 rating: 5
-book/pages: 624
+page_count: 624
 series_index: [3]
 ---
 And so it ends. Where {{< goodreads book="A Gathering of Shadows" >}} was the bright(ish) interlude, {{< goodreads book="A Conjuring of Light" >}} goes dark quick. The magic that killed Black London is free in Red London and trying it's damnedest to ... take over the world? It's a little unclear. I guess a piece of sentient magic gets a pass on the 'evil for the sake of being evil' card.  

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 4341085
+goodreads_id: 4341085
 cover: /embeds/books/fullmetal-alchemist-vol-18.jpg
-book/isbn: '1421525364'
-book/isbn13: '9781421525365'
+isbn: '1421525364'
+isbn13: '9781421525365'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [18]
 ---
 Hooooly crap. Another Homunculos: Pride. And not at all who I would have expected! Crazy chimera fight (those are still a thing, remember?) and a bit more development and growth from May.  

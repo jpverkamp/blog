@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files Graphic Novels
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 23137382
+goodreads_id: 23137382
 cover: /embeds/books/jim-butchers-the-dresden-files-war-cry.jpg
-book/isbn: '1606905740'
-book/isbn13: '9781606905746'
+isbn: '1606905740'
+isbn13: '9781606905746'
 rating: 5
-book/pages: 143
+page_count: 143
 series_index: [4]
 ---
 {{< goodreads book="Jim Butcher's The Dresden Files: War Cry" text=" Jim Butcher's The Dresden Files: War Cry " >}} The second new Dresden comic!  

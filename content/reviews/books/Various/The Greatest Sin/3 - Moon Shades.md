@@ -9,10 +9,10 @@ reviews/series:
 reviews/authors:
 - Lee French
 - Erik Kort
-book/goodreads_id: 25464248
+goodreads_id: 25464248
 cover: /embeds/books/moon-shades.jpg
 rating: 4
-book/pages: 330
+page_count: 330
 series_index: [3]
 ---
 {{< goodreads book="Moon Shades" >}} is a bit of an odd book in that plotwise, it doesn't actually have much to do with either {{< goodreads book="The Fallen" >}} or especially the big events of {{< goodreads book="Harbinger" >}}, at least not until the last few chapters of the book. After everything, I expected more.  

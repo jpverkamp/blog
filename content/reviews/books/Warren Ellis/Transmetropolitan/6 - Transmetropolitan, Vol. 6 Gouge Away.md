@@ -8,12 +8,12 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22422
+goodreads_id: 22422
 cover: /embeds/books/transmetropolitan-vol-6-gouge-away.jpg
-book/isbn: '1563897962'
-book/isbn13: '9781563897962'
+isbn: '1563897962'
+isbn13: '9781563897962'
 rating: 4
-book/pages: 144
+page_count: 144
 series_index: [6]
 ---
 It continues!  

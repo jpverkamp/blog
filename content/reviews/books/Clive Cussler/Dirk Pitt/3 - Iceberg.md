@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41710
+goodreads_id: 41710
 cover: /embeds/books/iceberg.jpg
-book/isbn: 0425197387
-book/isbn13: '9780425197387'
+isbn: 0425197387
+isbn13: '9780425197387'
 rating: 3
-book/pages: 369
+page_count: 369
 series_index: [3]
 ---
 {{< goodreads book="Iceberg" text=" Iceberg " >}} opens with a solid enough set piece/action scene: a burnt out wreck of a luxary yacht, long since missing, found melted into an iceberg. One thing leads to another and Dirk Pitt stumbles into a cadre of billionaires with a plot to take over not only businesses but countries. For that--plot and set pieces--Iceberg is a solid enough read.  

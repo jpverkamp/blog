@@ -8,12 +8,12 @@ reviews/series:
 - Magic Ex Libris
 reviews/authors:
 - Jim C. Hines
-book/goodreads_id: 24316214
+goodreads_id: 24316214
 cover: /embeds/books/revisionary.jpg
-book/isbn: 0756409705
-book/isbn13: '9780756409708'
+isbn: 0756409705
+isbn13: '9780756409708'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [4]
 ---
 > For security reasons, no books will be permitted in the chamber during your testimony.

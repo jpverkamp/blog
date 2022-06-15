@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 22522686
+goodreads_id: 22522686
 cover: /embeds/books/fables-vol-21-happily-ever-after.jpg
-book/isbn: '1401251323'
-book/isbn13: '9781401251321'
+isbn: '1401251323'
+isbn13: '9781401251321'
 rating: 4
-book/pages: 200
+page_count: 200
 series_index: [21, 39]
 ---
 Fables feels like it's been running for perhaps a bit too long. And things are certainly not Happily Ever After...  

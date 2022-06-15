@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Lauren Beukes
-book/goodreads_id: 17137611
+goodreads_id: 17137611
 cover: /embeds/books/fairest-volume-2-the-hidden-kingdom.jpg
-book/isbn: '1401240216'
-book/isbn13: '9781401240219'
+isbn: '1401240216'
+isbn13: '9781401240219'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [0, 31]
 ---
 Back to Fairest (slightly out of order). This time we have Rapunzel in Japan, somehow or another, and another appearance of Jack--isn't he a Dragon now? Did I miss something?  

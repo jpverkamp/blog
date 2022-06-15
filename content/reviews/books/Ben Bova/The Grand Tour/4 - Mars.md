@@ -8,12 +8,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267282
+goodreads_id: 267282
 cover: /embeds/books/mars.jpg
-book/isbn: '2265071226'
-book/isbn13: '9782265071223'
+isbn: '2265071226'
+isbn13: '9782265071223'
 rating: 4
-book/pages: 607
+page_count: 607
 series_index: [4]
 ---
 My favorite of [ The Grand Tour ](https://www.goodreads.com/series/51185-the- grand-tour) books so far, by a decent margin.  

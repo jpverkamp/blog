@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 18077957
+goodreads_id: 18077957
 cover: /embeds/books/attack-on-titan-vol-11.jpg
-book/isbn: '1612626777'
-book/isbn13: '9781612626772'
+isbn: '1612626777'
+isbn13: '9781612626772'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [11]
 ---
 Onward to battle! More than ever before, we get some really big Titan versus Titan battles (crazy) and the barest of hints at just who and what the other side of the battle might be.  

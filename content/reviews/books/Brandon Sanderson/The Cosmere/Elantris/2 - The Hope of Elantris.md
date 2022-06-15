@@ -10,10 +10,10 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 10852065
+goodreads_id: 10852065
 cover: /embeds/books/the-hope-of-elantris.jpg
 rating: 5
-book/pages: 25
+page_count: 25
 series_index: [2, 0, 0]
 ---
 This is a cute little side story set during the climactic final scenes of the main Elantris storyline. Basically, it's a story that Sanderson had originally in mind for Elantris but cut due to pacing or other issues.  

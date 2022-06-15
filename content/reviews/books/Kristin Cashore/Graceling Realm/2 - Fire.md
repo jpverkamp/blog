@@ -8,12 +8,12 @@ reviews/series:
 - Graceling Realm
 reviews/authors:
 - Kristin Cashore
-book/goodreads_id: 6137154
+goodreads_id: 6137154
 cover: /embeds/books/fire.jpg
-book/isbn: 0803734611
-book/isbn13: '9780803734616'
+isbn: 0803734611
+isbn13: '9780803734616'
 rating: 4
-book/pages: 480
+page_count: 480
 series_index: [2]
 ---
 Fire is something of a bizarre 'sequel'. It's actually set chronologically before Graceling. For the most part, it's set in a different part of the world, separated from the previously known seven kingdoms by an (almost) impassible mountain range. And with one exception--that honestly doesn't make that much sense--there are no characters shared between the two books. Honestly, this joins the list of books that would have been much better had they not been marketed as a sequel or even being explicitly in the same world.  

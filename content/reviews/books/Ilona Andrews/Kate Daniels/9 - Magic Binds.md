@@ -8,12 +8,12 @@ reviews/series:
 - Kate Daniels
 reviews/authors:
 - Ilona Andrews
-book/goodreads_id: 17333174
+goodreads_id: 17333174
 cover: /embeds/books/magic-binds.jpg
-book/isbn: 0425270696
-book/isbn13: '9780425270691'
+isbn: 0425270696
+isbn13: '9780425270691'
 rating: 5
-book/pages: 328
+page_count: 328
 series_index: [9]
 ---
 >  “Did you run any of this by Curran?”  

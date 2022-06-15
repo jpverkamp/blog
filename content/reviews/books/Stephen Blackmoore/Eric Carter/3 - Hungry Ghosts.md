@@ -8,10 +8,10 @@ reviews/series:
 - Eric Carter
 reviews/authors:
 - Stephen Blackmoore
-book/goodreads_id: 24401093
+goodreads_id: 24401093
 cover: /embeds/books/hungry-ghosts.jpg
 rating: 5
-book/pages: 287
+page_count: 287
 series_index: [3]
 ---
 (language warning)  

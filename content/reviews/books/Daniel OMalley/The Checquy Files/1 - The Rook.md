@@ -8,12 +8,12 @@ reviews/series:
 - The Checquy Files
 reviews/authors:
 - Daniel O'Malley
-book/goodreads_id: 10836728
+goodreads_id: 10836728
 cover: /embeds/books/the-rook.jpg
-book/isbn: 0316098795
-book/isbn13: '9780316098793'
+isbn: 0316098795
+isbn13: '9780316098793'
 rating: 4
-book/pages: 496
+page_count: 496
 series_index: [1]
 ---
 > She came to a decision, pulled her feet out of the mire, and stepped carefully over the ring of bodies that were scattered around her. They were all motionless, and all of them were wearing latex gloves.

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 23506
+goodreads_id: 23506
 cover: /embeds/books/fullmetal-alchemist-vol-11.jpg
-book/isbn: '1421508389'
-book/isbn13: '9781421508382'
+isbn: '1421508389'
+isbn13: '9781421508382'
 rating: 5
-book/pages: 182
+page_count: 182
 series_index: [11]
 ---
 More worldbuilding! More Van Hohenheim! More angst!  

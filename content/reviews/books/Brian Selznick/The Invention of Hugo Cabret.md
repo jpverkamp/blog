@@ -6,11 +6,11 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - Brian Selznick
-book/goodreads_id: 26167889
+goodreads_id: 26167889
 cover: /embeds/books/the-invention-of-hugo-cabret.jpg
-book/isbn13: '9780545921947'
+isbn13: '9780545921947'
 rating: 5
-book/pages: 533
+page_count: 533
 ---
 That was a cute little book.  
 

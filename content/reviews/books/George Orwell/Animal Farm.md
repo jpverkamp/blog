@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - George Orwell
-book/goodreads_id: 7613
+goodreads_id: 7613
 cover: /embeds/books/animal-farm.jpg
-book/isbn: 0452284244
-book/isbn13: '9780452284241'
+isbn: 0452284244
+isbn13: '9780452284241'
 rating: 4
-book/pages: 122
+page_count: 122
 ---
 > The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.
 

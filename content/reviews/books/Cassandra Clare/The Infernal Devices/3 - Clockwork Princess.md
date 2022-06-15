@@ -8,12 +8,12 @@ reviews/series:
 - The Infernal Devices
 reviews/authors:
 - Cassandra Clare
-book/goodreads_id: 18335634
+goodreads_id: 18335634
 cover: /embeds/books/clockwork-princess.jpg
-book/isbn: '1406321346'
-book/isbn13: '9781406321340'
+isbn: '1406321346'
+isbn13: '9781406321340'
 rating: 4
-book/pages: 567
+page_count: 567
 series_index: [3]
 ---
 I'll admit, I was perhaps a little hard on {{< goodreads book="Clockwork Angel" text=" Clockwork Angel " >}} / {{< goodreads book="Clockwork Prince" text=" Clockwork Prince " >}} . But {{< goodreads book="Clockwork Princess" text=" Clockwork Princess " >}} is quite a bit better.  

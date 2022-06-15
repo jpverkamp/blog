@@ -8,12 +8,12 @@ reviews/series:
 - Kane Chronicles
 reviews/authors:
 - Rick Riordan
-book/goodreads_id: 12893742
+goodreads_id: 12893742
 cover: /embeds/books/the-serpents-shadow.jpg
-book/isbn: '1423140575'
-book/isbn13: '9781423140573'
+isbn: '1423140575'
+isbn13: '9781423140573'
 rating: 4
-book/pages: 406
+page_count: 406
 series_index: [3]
 ---
 A solid ending to the series. Once again the world will end in _n_ days and it's up to Sadie and Carter to save that day.  

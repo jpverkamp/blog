@@ -6,11 +6,11 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - David L. Craddock
-book/goodreads_id: 57863448
+goodreads_id: 57863448
 cover: /embeds/books/monsters-in-the-dark-the-making-of-x-com-ufo-defense.jpg
-book/isbn13: '9798705200948'
+isbn13: '9798705200948'
 rating: 5
-book/pages: 197
+page_count: 197
 ---
 X-COM holds a special place in my life. It was one of if not the very first computer games I bought. I played the heck out of that game; I bought the strategy guide (and got one for Apocalypse, even though I didn’t yet own it) and still fire up an emulator to give it a try every year or three. It’s just a wonderful tactics game, the like of which I’ve never really managed to find again—at least to my tastes.  
 

@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Mark Buckingham
-book/goodreads_id: 23846750
+goodreads_id: 23846750
 cover: /embeds/books/fairest-volume-5-the-clamour-for-glamour.jpg
-book/isbn: '1401254268'
-book/isbn13: '9781401254261'
+isbn: '1401254268'
+isbn13: '9781401254261'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [0, 40]
 ---
 Of all the the ways for Fairest to end, Reynard knocking up a random mundie girl, a murder mystery among the non-human fables, and the final tale of Goldielocks was not where I expected it to go.  

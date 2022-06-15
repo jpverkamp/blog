@@ -8,10 +8,10 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 39196374
+goodreads_id: 39196374
 cover: /embeds/books/attack-on-titan-vol-26.jpg
 rating: 5
-book/pages: 185
+page_count: 185
 series_index: [26]
 ---
 Battles in the street! Killing enemy civilians! Wait... aren't Eren and the Survey Corps supposed to be the good guys?  

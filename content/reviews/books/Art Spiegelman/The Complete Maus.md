@@ -5,12 +5,12 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Art Spiegelman
-book/goodreads_id: 15195
+goodreads_id: 15195
 cover: /embeds/books/the-complete-maus.jpg
-book/isbn: 0141014083
-book/isbn13: '9780141014081'
+isbn: 0141014083
+isbn13: '9780141014081'
 rating: 5
-book/pages: 296
+page_count: 296
 ---
 Maus. What's there even to say? It's a story about a son and a father. About growing up Jewish during the rise of the Nazi party and during the Holocaust. About the ways that dramatically changes the lives of even those survive.
 

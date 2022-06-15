@@ -8,12 +8,12 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22423
+goodreads_id: 22423
 cover: /embeds/books/transmetropolitan-vol-8-dirge.jpg
-book/isbn: '1563899531'
-book/isbn13: '9781563899539'
+isbn: '1563899531'
+isbn13: '9781563899539'
 rating: 5
-book/pages: 140
+page_count: 140
 series_index: [8]
 ---
 Well. That's a storm.  

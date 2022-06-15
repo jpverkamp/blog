@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 13531561
+goodreads_id: 13531561
 cover: /embeds/books/attack-on-titan-vol-2.jpg
-book/isbn: '1612620256'
-book/isbn13: '9781612620251'
+isbn: '1612620256'
+isbn13: '9781612620251'
 rating: 5
-book/pages: 189
+page_count: 189
 series_index: [2]
 ---
 Ooh boy.  

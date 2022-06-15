@@ -8,12 +8,12 @@ reviews/series:
 - Laundry Files
 reviews/authors:
 - Charles Stross
-book/goodreads_id: 14150
+goodreads_id: 14150
 cover: /embeds/books/the-jennifer-morgue.jpg
-book/isbn: '1930846452'
-book/isbn13: '9781930846456'
+isbn: '1930846452'
+isbn13: '9781930846456'
 rating: 5
-book/pages: 292
+page_count: 292
 series_index: [2]
 ---
 This is an excellent follow up to The Atrocity Archives.  

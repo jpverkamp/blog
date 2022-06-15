@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Death
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34502
+goodreads_id: 34502
 cover: /embeds/books/soul-music.jpg
-book/isbn: 057506689X
-book/isbn13: '9780575066892'
+isbn: 057506689X
+isbn13: '9780575066892'
 rating: 3
-book/pages: 424
+page_count: 424
 series_index: [16, 3]
 ---
 Soul Music fell somewhat flat for me.  

@@ -9,12 +9,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 768917
+goodreads_id: 768917
 cover: /embeds/books/the-aftermath.jpg
-book/isbn: '0765304147'
-book/isbn13: '9780765304148'
+isbn: '0765304147'
+isbn13: '9780765304148'
 rating: 3
-book/pages: 400
+page_count: 400
 series_index: [4, 12]
 ---
 As a standalone story, {{< goodreads book="The Aftermath" >}} would have been pretty good. It's an interesting story from a sci-fi take: a family on a space ship out in the belt, hauling ore. They're attacked. One member escapes back to the belt and the rest are sent out on a long orbit with a broken ship, years before they'll return to civilization.

@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 15799394
+goodreads_id: 15799394
 cover: /embeds/books/hellblazer-vol-5-dangerous-habits.jpg
-book/isbn: '1401238025'
-book/isbn13: '9781401238025'
+isbn: '1401238025'
+isbn13: '9781401238025'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [5]
 ---
 Weird, slow, and dark at first but then we get the Deadly Habits storyline. That’s one of the core Constantine storylines so far as I know and for good reason. 

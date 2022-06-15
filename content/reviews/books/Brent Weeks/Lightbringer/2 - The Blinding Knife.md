@@ -8,12 +8,12 @@ reviews/series:
 - Lightbringer
 reviews/authors:
 - Brent Weeks
-book/goodreads_id: 12499290
+goodreads_id: 12499290
 cover: /embeds/books/the-blinding-knife.jpg
-book/isbn: 031607991X
-book/isbn13: '9780316079914'
+isbn: 031607991X
+isbn13: '9780316079914'
 rating: 5
-book/pages: 671
+page_count: 671
 series_index: [2]
 ---
 The Blinding Knife is what a sequel should be. It takes the action and magic that made {{< goodreads book="The Black Prism" >}} good and made it better while toning down a lot of the exposition and over-characterization that made it a bit of a drag at times.  

@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - "Miran Lipova\u010Da"
-book/goodreads_id: 6593810
+goodreads_id: 6593810
 cover: /embeds/books/learn-you-a-haskell-for-great-good.jpg
 rating: 4
-book/pages: 176
+page_count: 176
 ---
 This is a re-read, although it's a been a few years. Actually, those years seem to have rather helped. Last time I around, I was reading through and everything made a lot of sense (I have a strong background in functional programming, so it wasn't new here). And then I hit monads and side effects and everything went bizarre.  
 

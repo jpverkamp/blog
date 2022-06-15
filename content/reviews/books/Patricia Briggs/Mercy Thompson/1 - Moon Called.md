@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 71811
+goodreads_id: 71811
 cover: /embeds/books/moon-called.jpg
-book/isbn: 0441013813
-book/isbn13: '9780441013814'
+isbn: 0441013813
+isbn13: '9780441013814'
 rating: 5
-book/pages: 289
+page_count: 289
 series_index: [1]
 ---
 Take a kitchen sink urban fantasy world (vampires and werewolves and Fae, oh my), toss in a few interesting twists and head it with a woman mechanic protagonist with a flair of Native American magic.  

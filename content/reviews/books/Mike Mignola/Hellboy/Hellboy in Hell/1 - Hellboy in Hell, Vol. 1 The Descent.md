@@ -9,12 +9,12 @@ reviews/series:
 - Hellboy in Hell
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 19546047
+goodreads_id: 19546047
 cover: /embeds/books/hellboy-in-hell-vol-1-the-descent.jpg
-book/isbn: '1616554444'
-book/isbn13: '9781616554446'
+isbn: '1616554444'
+isbn13: '9781616554446'
 rating: 5
-book/pages: 152
+page_count: 152
 series_index: [0, 1]
 ---
 If anyone could pull off continuing their story after dying and going to Hell... And not only that, but making for an even crazier story than when it was alive? It would be Hellboy.  

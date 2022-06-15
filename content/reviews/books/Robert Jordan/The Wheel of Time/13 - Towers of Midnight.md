@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 8253920
+goodreads_id: 8253920
 cover: /embeds/books/towers-of-midnight.jpg
-book/isbn: 0765325942
-book/isbn13: '9780765325945'
+isbn: 0765325942
+isbn13: '9780765325945'
 rating: 5
-book/pages: 863
+page_count: 863
 series_index: [13]
 ---
 {{< goodreads book="Towers of Midnight" >}} continues the final avalanche to the Last Battle, with Lan continuing to gathering followers, the Black Tower continuing to grow more and more corrupt, Perrin confronting the Whitecloaks (it's about time that storyline wraps up), and the newly healed Rand causing even more chaos than before.  

@@ -8,12 +8,12 @@ reviews/series:
 - Eric Carter
 reviews/authors:
 - Stephen Blackmoore
-book/goodreads_id: 15784263
+goodreads_id: 15784263
 cover: /embeds/books/dead-things.jpg
-book/isbn: '0756407745'
-book/isbn13: '9780756407742'
+isbn: '0756407745'
+isbn13: '9780756407742'
 rating: 5
-book/pages: 295
+page_count: 295
 series_index: [1]
 ---
 > Mages are born with a knack. Illusions, transformations, divinations. Some people are just better at some things than others. I got dead things. Yay me.

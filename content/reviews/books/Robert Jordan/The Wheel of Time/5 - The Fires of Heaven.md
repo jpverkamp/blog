@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 13895
+goodreads_id: 13895
 cover: /embeds/books/the-fires-of-heaven.jpg
-book/isbn: '1857232097'
-book/isbn13: '9781857232097'
+isbn: '1857232097'
+isbn13: '9781857232097'
 rating: 5
-book/pages: 912
+page_count: 912
 series_index: [5]
 ---
 The Fires of Heaven is mostly a book to extend what we've seen before.  

@@ -8,12 +8,12 @@ reviews/series:
 - His Dark Materials
 reviews/authors:
 - Philip Pullman
-book/goodreads_id: 18122
+goodreads_id: 18122
 cover: /embeds/books/the-amber-spyglass.jpg
-book/isbn: 0440238153
-book/isbn13: '9780440238157'
+isbn: 0440238153
+isbn13: '9780440238157'
 rating: 4
-book/pages: 465
+page_count: 465
 series_index: [3]
 ---
 {{< goodreads book="The Amber Spyglass" text=" The Amber Spyglass " >}} is really a sequel to {{< goodreads book="The Subtle Knife" text=" The Subtle Knife " >}} more than a conclusion to {{< goodreads book="The Golden Compass" text=" The Golden Compass " >}} . Most everything that I liked in the Golden Compass but was missing in The Subtle Knife is still missing here, while the new additions that annoyed me about The Subtle Knife are turned up to 11.  

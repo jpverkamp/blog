@@ -8,10 +8,10 @@ reviews/series:
 - Serenity
 reviews/authors:
 - Chris Roberson
-book/goodreads_id: 35275576
+goodreads_id: 35275576
 cover: /embeds/books/serenity-no-power-in-the-verse.jpg
 rating: 4
-book/pages: 152
+page_count: 152
 series_index: [5]
 ---
 And so it ends. As far as I can tell, this story takes place after Firely, Serenity, and any of the other graphic novels. We have everyone settling down into a new routing, Emma growing up, Inara in retirement (all down to Earth...). The main plotline follows the additional River-likes we saw last time around, but there are a few new twists. Enough that I could very well have seen a few episodes or a season of Firefly built around it. If only.  

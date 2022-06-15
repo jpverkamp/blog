@@ -7,9 +7,9 @@ reviews/series:
 - The Mysterious Benedict Society
 reviews/authors:
 - Trenton Lee Stewart
-book/goodreads_id: 40605329
+goodreads_id: 40605329
 cover: /embeds/books/the-mysterious-benedict-society.jpg
-book/pages: 497
+page_count: 497
 series_index: [1]
 ---
 Well that took a while to read. I read it outloud, part of a chapter a night many nights, and it still took a few months. Glad I did it though, it's a great book, especially for kids, but even more so to read aloud with them. 

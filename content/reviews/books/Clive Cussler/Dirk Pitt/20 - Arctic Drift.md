@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 2990950
+goodreads_id: 2990950
 cover: /embeds/books/arctic-drift.jpg
-book/isbn: 0399155295
-book/isbn13: '9780399155291'
+isbn: 0399155295
+isbn13: '9780399155291'
 rating: 4
-book/pages: 515
+page_count: 515
 series_index: [20]
 ---
 > “You heard what the man said,” Giordino replied. “We’re going to Anchorage. Anchorage, Alaska,” he repeated lovingly. “South of the Arctic Circle. Did ever a place sound so warm and inviting?” he asked with a contented grin.

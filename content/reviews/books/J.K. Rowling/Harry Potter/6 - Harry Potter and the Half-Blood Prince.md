@@ -8,10 +8,10 @@ reviews/series:
 - Harry Potter
 reviews/authors:
 - J.K. Rowling
-book/goodreads_id: 1
+goodreads_id: 1
 cover: /embeds/books/harry-potter-and-the-half-blood-prince.jpg
 rating: 5
-book/pages: 652
+page_count: 652
 series_index: [6]
 ---
 Harry Potter and the Half-Blood Prince is an excellent story and does quite a lot to offset how much I didn't care for Order of the Phoenix.  

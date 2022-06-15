@@ -6,10 +6,10 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Randy Pausch
-book/goodreads_id: 40611510
+goodreads_id: 40611510
 cover: /embeds/books/the-last-lecture.jpg
 rating: 5
-book/pages: 217
+page_count: 217
 ---
 {{< goodreads book="The Last Lecture" >}} is quite a book.  
 

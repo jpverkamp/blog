@@ -8,12 +8,12 @@ reviews/series:
 - Imperial Radch
 reviews/authors:
 - Ann Leckie
-book/goodreads_id: 20706284
+goodreads_id: 20706284
 cover: /embeds/books/ancillary-sword.jpg
-book/isbn: '0316246654'
-book/isbn13: '9780316246651'
+isbn: '0316246654'
+isbn13: '9780316246651'
 rating: 4
-book/pages: 359
+page_count: 359
 series_index: [2]
 ---
 This book was a bit odd so far as sequels go, shrinking the scope of the story significantly from the first book.  

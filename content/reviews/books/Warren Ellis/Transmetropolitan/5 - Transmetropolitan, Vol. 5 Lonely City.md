@@ -8,10 +8,10 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 20232821
+goodreads_id: 20232821
 cover: /embeds/books/transmetropolitan-vol-5-lonely-city.jpg
 rating: 4
-book/pages: 146
+page_count: 146
 series_index: [5]
 ---
 Onwards and halfwaywards. The election is over and Spider and co are on the scene.  

@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 18077954
+goodreads_id: 18077954
 cover: /embeds/books/attack-on-titan-vol-8.jpg
-book/isbn: '1612625479'
-book/isbn13: '9781612625478'
+isbn: '1612625479'
+isbn13: '9781612625478'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [8]
 ---
 Holy crap things just keep happening!  

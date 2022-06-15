@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Jim Bell
-book/goodreads_id: 22571516
+goodreads_id: 22571516
 cover: /embeds/books/the-interstellar-age-inside-the-forty-year-voyager-mission.jpg
 rating: 5
-book/pages: 324
+page_count: 324
 ---
 I love space. Space missions, thinking about other planets/worlds/alien life. It's all so cool to me. I also read a huge amount, primarily science fiction and fantasy. One thing I get less of though is non-fiction, and from time to time I try to fix that.  
 

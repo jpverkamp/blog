@@ -6,10 +6,10 @@ reviews/lists:
 - 2016 Book Reviews
 reviews/authors:
 - H.G. Wells
-book/goodreads_id: 11505756
+goodreads_id: 11505756
 cover: /embeds/books/the-time-machine.jpg
 rating: 4
-book/pages: 128
+page_count: 128
 ---
 The Time Machine is something of a science fiction classic, among the first (if not _the_ first well known time travel stories). As such, it reads a bit differently than more modern books of the same genre. Rather than dealing overmuch with character or plot, it takes an idea (a time machine!) and runs with it, exploring how such an idea might change the world and exploring our own world through the same.  
 

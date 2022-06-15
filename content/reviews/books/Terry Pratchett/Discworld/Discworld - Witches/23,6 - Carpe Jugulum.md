@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Witches
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34541
+goodreads_id: 34541
 cover: /embeds/books/carpe-jugulum.jpg
-book/isbn: 0061051586
-book/isbn13: '9780061051586'
+isbn: 0061051586
+isbn13: '9780061051586'
 rating: 4
-book/pages: 296
+page_count: 296
 series_index: [23, 6]
 ---
 > “Carpe Jugulum," read Agnes aloud. "That's... well, Carpe Diem is 'Sieze the Day,' so this means-"  

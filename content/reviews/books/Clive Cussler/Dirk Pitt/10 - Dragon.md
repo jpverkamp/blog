@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41694
+goodreads_id: 41694
 cover: /embeds/books/dragon.jpg
-book/isbn: '1416537805'
-book/isbn13: '9781416537809'
+isbn: '1416537805'
+isbn13: '9781416537809'
 rating: 4
-book/pages: 602
+page_count: 602
 series_index: [10]
 ---
 > [Dirk Pitt] had always believed that insurmountable odds were surmountable.

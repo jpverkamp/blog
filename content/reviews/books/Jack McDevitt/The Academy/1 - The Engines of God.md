@@ -8,12 +8,12 @@ reviews/series:
 - The Academy
 reviews/authors:
 - Jack McDevitt
-book/goodreads_id: 337048
+goodreads_id: 337048
 cover: /embeds/books/the-engines-of-god.jpg
-book/isbn: 0441002846
-book/isbn13: '9780441002849'
+isbn: 0441002846
+isbn13: '9780441002849'
 rating: 4
-book/pages: 422
+page_count: 422
 series_index: [1]
 ---
 I liked it.  

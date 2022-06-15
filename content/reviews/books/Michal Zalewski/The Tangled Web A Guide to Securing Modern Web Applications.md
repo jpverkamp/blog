@@ -6,12 +6,12 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Michal Zalewski
-book/goodreads_id: 11553604
+goodreads_id: 11553604
 cover: /embeds/books/the-tangled-web-a-guide-to-securing-modern-web-applications.jpg
-book/isbn: '1593273886'
-book/isbn13: '9781593273880'
+isbn: '1593273886'
+isbn13: '9781593273880'
 rating: 4
-book/pages: 320
+page_count: 320
 ---
 {{< goodreads book="The Tangled Web: A Guide to Securing Modern Web Applications" >}} is a fairly solid introduction to computer security in the context of web sites/browsers with one fairly major downside: it was published 7 years ago. In the context of the Internet, that's... quite a while.  
 

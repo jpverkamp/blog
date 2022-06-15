@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Bram Stoker
-book/goodreads_id: 35619410
+goodreads_id: 35619410
 cover: /embeds/books/dracula.jpg
 rating: 4
-book/pages: 340
+page_count: 340
 ---
 > It is the eve of St. George’s Day. Do you not know that to-night, when the > clock strikes midnight, all the evil things in the world will have full > sway?
 

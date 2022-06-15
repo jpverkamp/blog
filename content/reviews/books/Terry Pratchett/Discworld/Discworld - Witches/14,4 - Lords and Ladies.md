@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Witches
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34529
+goodreads_id: 34529
 cover: /embeds/books/lords-and-ladies.jpg
-book/isbn: 055215315X
-book/isbn13: '9780552153157'
+isbn: 055215315X
+isbn13: '9780552153157'
 rating: 4
-book/pages: 400
+page_count: 400
 series_index: [14, 4]
 ---
 Lords and Ladies continues more or less directly the events of Witches Abroad. It follows the trials and tribulations of the witches Weatherwax, Ogg, and Garlick.  

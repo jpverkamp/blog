@@ -8,10 +8,10 @@ reviews/series:
 - Myth Crossover
 reviews/authors:
 - Rosamund Hodge
-book/goodreads_id: 21570318
+goodreads_id: 21570318
 cover: /embeds/books/crimson-bound.jpg
 rating: 3
-book/pages: 448
+page_count: 448
 series_index: [0]
 ---
 Originally thought that this was supposed to be a retelling of Little Red Riding Hood, as {{< goodreads book="Cruel Beauty" >}} was for Beauty and the Beast. I saw it a lot more in the other and probably would have liked this a bit more had I not thought that.  

@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 9539
+goodreads_id: 9539
 cover: /embeds/books/the-shadow-rising.jpg
-book/isbn: 0812513738
-book/isbn13: '9780812513738'
+isbn: 0812513738
+isbn13: '9780812513738'
 rating: 5
-book/pages: 1007
+page_count: 1007
 series_index: [0]
 ---
 > Mat snorted. “I don’t want to be any bloody hero.”

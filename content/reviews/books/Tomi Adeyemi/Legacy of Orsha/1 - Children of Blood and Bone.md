@@ -8,12 +8,12 @@ reviews/series:
 - "Legacy of Or\xEFsha"
 reviews/authors:
 - Tomi Adeyemi
-book/goodreads_id: 34728667
+goodreads_id: 34728667
 cover: /embeds/books/children-of-blood-and-bone.jpg
-book/isbn: '1250170974'
-book/isbn13: '9781250170972'
+isbn: '1250170974'
+isbn13: '9781250170972'
 rating: 5
-book/pages: 544
+page_count: 544
 series_index: [1]
 ---
 > You crushed us to build your monarchy on the backs of our blood and bone. Your mistake wasn't keeping us alive. it was thinking we'd never fight back.

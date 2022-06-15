@@ -8,12 +8,12 @@ reviews/series:
 - Tales from Deckawoo Drive
 reviews/authors:
 - Kate DiCamillo
-book/goodreads_id: 20708766
+goodreads_id: 20708766
 cover: /embeds/books/leroy-ninker-saddles-up.jpg
-book/isbn: 0763663395
-book/isbn13: '9780763663391'
+isbn: 0763663395
+isbn13: '9780763663391'
 rating: 3
-book/pages: 90
+page_count: 90
 series_index: [1]
 ---
 > Yippie-i-oh. That is the life for me. A cowboy is who I was meant to be.

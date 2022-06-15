@@ -8,12 +8,12 @@ reviews/series:
 - The Academy
 reviews/authors:
 - Jack McDevitt
-book/goodreads_id: 352781
+goodreads_id: 352781
 cover: /embeds/books/omega.jpg
-book/isbn: 0441012108
-book/isbn13: '9780441012107'
+isbn: 0441012108
+isbn13: '9780441012107'
 rating: 4
-book/pages: 493
+page_count: 493
 series_index: [4]
 ---
 Omega continues on in much the same vein as the previous Academy books. Science fiction in a universe where life is remarkably rare and civilization even more so. This time though... we've found someone.  

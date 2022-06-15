@@ -9,10 +9,10 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 62530
+goodreads_id: 62530
 cover: /embeds/books/thud.jpg
 rating: 5
-book/pages: 439
+page_count: 439
 series_index: [34, 7]
 ---
 > "Quis custodiet ipsos custodes? Your grace."  

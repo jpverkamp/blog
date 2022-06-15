@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Cal Newport
-book/goodreads_id: 40672036
+goodreads_id: 40672036
 cover: /embeds/books/digital-minimalism-choosing-a-focused-life-in-a-noisy-world.jpg
 rating: 4
-book/pages: 302
+page_count: 302
 ---
 > The tycoons of social media have to stop pretending that they’re friendly nerd gods building a better world and admit they’re just tobacco farmers in T-shirts selling an addictive product to children. Because, let’s face it, checking your “likes” is the new smoking.
 

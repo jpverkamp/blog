@@ -8,12 +8,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 7619569
+goodreads_id: 7619569
 cover: /embeds/books/fables-werewolves-of-the-heartland.jpg
-book/isbn: '1401224792'
-book/isbn13: '9781401224790'
+isbn: '1401224792'
+isbn13: '9781401224790'
 rating: 5
-book/pages: 147
+page_count: 147
 series_index: [28]
 ---
 Another side story (there are only a few of these), digging a bit deeper into Bigby's past, specifically during World War II (which we'd already seen) and some of the unforseen fallout from that.  

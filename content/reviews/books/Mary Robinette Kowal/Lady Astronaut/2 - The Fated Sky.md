@@ -8,10 +8,10 @@ reviews/series:
 - Lady Astronaut
 reviews/authors:
 - Mary Robinette Kowal
-book/goodreads_id: 33081262
+goodreads_id: 33081262
 cover: /embeds/books/the-fated-sky.jpg
 rating: 5
-book/pages: 384
+page_count: 384
 series_index: [2]
 ---
 {{< goodreads book="The Fated Sky" >}} takes what {{< goodreads book="The Calculating Stars" >}} started and takes us on a journey to MARS!  

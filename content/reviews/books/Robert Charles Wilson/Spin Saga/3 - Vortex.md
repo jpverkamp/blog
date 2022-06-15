@@ -8,12 +8,12 @@ reviews/series:
 - Spin Saga
 reviews/authors:
 - Robert Charles Wilson
-book/goodreads_id: 9359796
+goodreads_id: 9359796
 cover: /embeds/books/vortex.jpg
-book/isbn: '0765323427'
-book/isbn13: '9780765323422'
+isbn: '0765323427'
+isbn13: '9780765323422'
 rating: 4
-book/pages: 331
+page_count: 331
 series_index: [3]
 ---
 After the strong opening in Spin and the someone meh followup with Axis, I wasn't expecting particularly much from Vortex. Consider me pleasantly surprised.  

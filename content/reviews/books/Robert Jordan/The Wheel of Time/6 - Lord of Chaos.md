@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 35231
+goodreads_id: 35231
 cover: /embeds/books/lord-of-chaos.jpg
-book/isbn: 0812513754
-book/isbn13: '9780812513752'
+isbn: 0812513754
+isbn13: '9780812513752'
 rating: 5
-book/pages: 1011
+page_count: 1011
 series_index: [6]
 ---
 > Let the {{< goodreads book="Lord of Chaos" text=" Lord of Chaos " >}} rule.

@@ -8,12 +8,12 @@ reviews/series:
 - Old Man's War
 reviews/authors:
 - John Scalzi
-book/goodreads_id: 2102600
+goodreads_id: 2102600
 cover: /embeds/books/zoes-tale.jpg
-book/isbn: 0765316986
-book/isbn13: '9780765316981'
+isbn: 0765316986
+isbn13: '9780765316981'
 rating: 4
-book/pages: 335
+page_count: 335
 series_index: [4]
 ---
 In a nutshell, Zoe's Tale is The Last Colony told from Zoe's point of view.  

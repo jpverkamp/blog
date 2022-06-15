@@ -8,12 +8,12 @@ reviews/series:
 - Kate Daniels
 reviews/authors:
 - Ilona Andrews
-book/goodreads_id: 17333180
+goodreads_id: 17333180
 cover: /embeds/books/magic-triumphs.jpg
-book/isbn: 0425270718
-book/isbn13: '9780425270714'
+isbn: 0425270718
+isbn13: '9780425270714'
 rating: 5
-book/pages: 327
+page_count: 327
 series_index: [10]
 ---
 That was actually somewhat surprising for an ending. I expected a knock down, drag out fight with Roland, but instead...  {{< spoiler >}}Dragons. Of course it had to be dragons.{{< /spoiler >}}  

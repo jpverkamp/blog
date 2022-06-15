@@ -8,10 +8,10 @@ reviews/series:
 - Magic Ex Libris
 reviews/authors:
 - Jim C. Hines
-book/goodreads_id: 15733416
+goodreads_id: 15733416
 cover: /embeds/books/libriomancer.jpg
 rating: 5
-book/pages: 321
+page_count: 321
 series_index: [1]
 ---
 Libriomancer has a lovely premise. Basically, books are magical. The more people you've had that have read the same edition of a given book, the more possible it is to magically pull various objections out of said book. Gutenberg took this principal with his first Bibles and founded an organization of Libriomancers that have existed up to the present day.  

@@ -5,12 +5,12 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Valentino Braitenberg
-book/goodreads_id: 483485
+goodreads_id: 483485
 cover: /embeds/books/vehicles-experiments-in-synthetic-psychology.jpg
-book/isbn: '0262521121'
-book/isbn13: '9780262521123'
+isbn: '0262521121'
+isbn13: '9780262521123'
 rating: 3
-book/pages: 168
+page_count: 168
 ---
 > This is an exercise in fictional science, or science fiction, if you like that better. Not for amusement: science fiction in the service of science. Or just science, if you agree that fiction is part of it, always was, and always will be as long as our brains are only minuscule fragments of the universe, much too small to hold all the facts of the world but not too idle to speculate about them.  
 

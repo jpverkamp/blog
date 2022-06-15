@@ -8,10 +8,10 @@ reviews/series:
 - Millennium
 reviews/authors:
 - Stieg Larsson
-book/goodreads_id: 2429135
+goodreads_id: 2429135
 cover: /embeds/books/the-girl-with-the-dragon-tattoo.jpg
 rating: 4
-book/pages: 480
+page_count: 480
 series_index: [1]
 ---
 It's not that often any more that I finish a book in a day. That should tell you something about what I thought about the Girl with the Dragon Tattoo. Especially when it isn't fantasy. It isn't science fiction. It isn't horror (at least not the supernatural sort). Really, it's more of a investigation / thriller. Not a genre that I read that often.  

@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Edgar Lee Masters
-book/goodreads_id: 10974854
+goodreads_id: 10974854
 cover: /embeds/books/spoon-river-anthology.jpg
 rating: 5
-book/pages: 146
+page_count: 146
 ---
 The {{< goodreads book="Spoon River Anthology" >}} is yet another of those books I last read in High School which came back up when I decided to branch out and read some more poetry. In this case, it was actually a whole production where each person in the class would memorize a different poem and then we made a platform in the woods, dressed up, and recited them. Pretty cool actually.  
 

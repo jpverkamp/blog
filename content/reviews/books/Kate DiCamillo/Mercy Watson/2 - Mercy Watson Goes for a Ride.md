@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Watson
 reviews/authors:
 - Kate DiCamillo
-book/goodreads_id: 37189
+goodreads_id: 37189
 cover: /embeds/books/mercy-watson-goes-for-a-ride.jpg
-book/isbn: '0763623326'
-book/isbn13: '9780763623326'
+isbn: '0763623326'
+isbn13: '9780763623326'
 rating: 3
-book/pages: 72
+page_count: 72
 series_index: [2]
 ---
 I don't usually review this short of a book, but I had a few words I wanted to say:  

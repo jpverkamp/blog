@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - Tomie dePaola
-book/goodreads_id: 23846060
+goodreads_id: 23846060
 cover: /embeds/books/the-magical-world-of-strega-nona-a-treasury.jpg
-book/isbn: 0399173455
-book/isbn13: '9780399173455'
+isbn: 0399173455
+isbn13: '9780399173455'
 rating: 5
-book/pages: 214
+page_count: 214
 ---
 Oh, these stories are absolutely delightful.  
 

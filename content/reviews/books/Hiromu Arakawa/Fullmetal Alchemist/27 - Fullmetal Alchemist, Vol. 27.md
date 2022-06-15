@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 11029854
+goodreads_id: 11029854
 cover: /embeds/books/fullmetal-alchemist-vol-27.jpg
-book/isbn: '1421539845'
-book/isbn13: '9781421539843'
+isbn: '1421539845'
+isbn13: '9781421539843'
 rating: 5
-book/pages: 224
+page_count: 224
 series_index: [27]
 ---
 And so it ends. {{< goodreads book="Fullmetal Alchemist, Vol. 26" >}} was absolutely bonkers, so to say that the final battle actually takes a step back and makes the ending all the more ... human, that's saying something.  

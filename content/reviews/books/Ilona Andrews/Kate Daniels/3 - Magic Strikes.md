@@ -8,12 +8,12 @@ reviews/series:
 - Kate Daniels
 reviews/authors:
 - Ilona Andrews
-book/goodreads_id: 4345498
+goodreads_id: 4345498
 cover: /embeds/books/magic-strikes.jpg
-book/isbn: 0441017029
-book/isbn13: '9780441017027'
+isbn: 0441017029
+isbn13: '9780441017027'
 rating: 5
-book/pages: 310
+page_count: 310
 series_index: [3]
 ---
 Norse and Hindu mythology (on top of what all we've had before)! Magical gladiator fights TO THE DEATH! Giant fight scenes! ACTUALLY LEARNING WHAT'S UP WITH KATE'S BACKSTORY!  

@@ -6,10 +6,10 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Robert Frost
-book/goodreads_id: 18936451
+goodreads_id: 18936451
 cover: /embeds/books/the-road-not-taken-and-other-poems.jpg
 rating: 4
-book/pages: 81
+page_count: 81
 ---
 On one hand, I read {{< goodreads author="Robert Frost" >}} many years ago. Perhaps I remember it all. I could tell you that say this is all just refreshing my memory.  
 

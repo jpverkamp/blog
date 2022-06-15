@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41700
+goodreads_id: 41700
 cover: /embeds/books/vixen-03.jpg
-book/isbn: 055358944X
-book/isbn13: '9780553589443'
+isbn: 055358944X
+isbn13: '9780553589443'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [5]
 ---
 {{< goodreads book="Vixen 03" text=" Vixen 03 " >}} was a surprisingly good listen. From the reviews, I expected something far worse. It's Pitt to the core, with crazy action scenes, ocean (more lake really) salvage, weird ships where they shouldn't be, and Pitt getting himself mixed up in situations he has no reason to be involved in. Oh, and a sprinkling of racism and misogyny. At least it's getting better?  

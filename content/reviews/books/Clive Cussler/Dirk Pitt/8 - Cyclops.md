@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41697
+goodreads_id: 41697
 cover: /embeds/books/cyclops.jpg
-book/isbn: 0671704648
-book/isbn13: '9780671704643'
+isbn: 0671704648
+isbn13: '9780671704643'
 rating: 4
-book/pages: 473
+page_count: 473
 series_index: [8]
 ---
 Okay, Cussler really jumped the shark (over the moon?) in {{< goodreads book="Cyclops" text=" Cyclops " >}} . After the mind control plot of {{< goodreads book="Deep Six" text=" Deep Six " >}} , I figured things would stay a bit more grounded this time around.  

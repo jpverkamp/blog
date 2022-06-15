@@ -8,12 +8,12 @@ reviews/series:
 - Codex Alera
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 133664
+goodreads_id: 133664
 cover: /embeds/books/academs-fury.jpg
-book/isbn: '0441013406'
-book/isbn13: '9780441013401'
+isbn: '0441013406'
+isbn13: '9780441013401'
 rating: 5
-book/pages: 702
+page_count: 702
 series_index: [2]
 ---
 {{< goodreads book="Furies of Calderon" >}} felt like fairly standard high fantasy. It had a Roman theme rather than the more common (in what I've read) Medieval European and elemental spirits for a magical theme, but it still had a fairly standard 'farmboy saves the day through strength of character and good triumphs over evil' sort of theme. There were hints of a wider world, but for the most part, it was a fairly self contained book.  

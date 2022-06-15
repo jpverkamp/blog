@@ -8,12 +8,12 @@ reviews/series:
 - Serenity
 reviews/authors:
 - Joss Whedon
-book/goodreads_id: 133765
+goodreads_id: 133765
 cover: /embeds/books/those-left-behind.jpg
-book/isbn: '1593074492'
-book/isbn13: '9781593074494'
+isbn: '1593074492'
+isbn13: '9781593074494'
 rating: 4
-book/pages: 96
+page_count: 96
 series_index: [1]
 ---
 Oh Firefly. A wonderful TV show, brutally murdered by _the man_. Aired out of order, canceled too soon, brought back as a movie, and then never let go by fans on the Internet. It's been 18 years... it's never going to come back.  

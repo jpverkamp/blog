@@ -8,12 +8,12 @@ reviews/series:
 - Rama
 reviews/authors:
 - Arthur C. Clarke
-book/goodreads_id: 112520
+goodreads_id: 112520
 cover: /embeds/books/rama-ii.jpg
-book/isbn: '2290032042'
-book/isbn13: '9782290032046'
+isbn: '2290032042'
+isbn13: '9782290032046'
 rating: 4
-book/pages: 512
+page_count: 512
 series_index: [2]
 ---
 This book feels rather different from Rendezvous with Rama.  

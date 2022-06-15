@@ -8,10 +8,10 @@ reviews/series:
 - Bobiverse
 reviews/authors:
 - Dennis E. Taylor
-book/goodreads_id: 32109569
+goodreads_id: 32109569
 cover: /embeds/books/we-are-legion.jpg
 rating: 5
-book/pages: 383
+page_count: 383
 series_index: [1]
 ---
 Well. That's a thing. A weirdly wonderful thing.  

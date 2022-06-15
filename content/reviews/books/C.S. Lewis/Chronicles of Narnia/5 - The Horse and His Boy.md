@@ -8,12 +8,12 @@ reviews/series:
 - Chronicles of Narnia
 reviews/authors:
 - C.S. Lewis
-book/goodreads_id: 84119
+goodreads_id: 84119
 cover: /embeds/books/the-horse-and-his-boy.jpg
-book/isbn: 0439861365
-book/isbn13: '9780439861366'
+isbn: 0439861365
+isbn13: '9780439861366'
 rating: 5
-book/pages: 224
+page_count: 224
 series_index: [5]
 ---
 I actually really enjoyed {{< goodreads book="The Horse and His Boy" >}}. It's the first book with a completely new main character. None of either the four original children or their cousin Eustace take up a main role. Although they do show up, it's in a more minor capacity. A nice way to shake things up.  

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 6408558
+goodreads_id: 6408558
 cover: /embeds/books/fullmetal-alchemist-vol-20.jpg
-book/isbn: '1421530341'
-book/isbn13: '9781421530345'
+isbn: '1421530341'
+isbn13: '9781421530345'
 rating: 5
-book/pages: 200
+page_count: 200
 series_index: [20]
 ---
 Ooooh my. A human traitor, a Homunculus rendered ... cute?, the fated meetings of Rose and Winry and Van Hohenheim and his children, a whole manufactored army (because of course) ... and the Armstrongs. Oh the Armstrongs. Things just keep escalating step by step. We're really getting into the endgame now!  

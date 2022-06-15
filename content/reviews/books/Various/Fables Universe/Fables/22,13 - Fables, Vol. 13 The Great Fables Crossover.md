@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 6503780
+goodreads_id: 6503780
 cover: /embeds/books/fables-vol-13-the-great-fables-crossover.jpg
-book/isbn: '1401225721'
-book/isbn13: '9781401225728'
+isbn: '1401225721'
+isbn13: '9781401225728'
 rating: 4
-book/pages: 224
+page_count: 224
 series_index: [13, 22]
 ---
 Oooh boy. This is a weird one. Jack and the Literals spill into the Farm, just as the Fabletown residents have been forced out by Dark problems of their own. So who comes first, the Literals or the Dark One? Well, perhaps the one that, with a stroke of the pen, can change the very nature of reality...  

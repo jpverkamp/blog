@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 47212
+goodreads_id: 47212
 cover: /embeds/books/storm-front.jpg
-book/isbn: 0451457811
-book/isbn13: '9780451457813'
+isbn: 0451457811
+isbn13: '9780451457813'
 rating: 5
-book/pages: 355
+page_count: 355
 series_index: [1]
 ---
 And so it begins.  

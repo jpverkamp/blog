@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 361081
+goodreads_id: 361081
 cover: /embeds/books/pacific-vortex.jpg
-book/isbn: 0553276328
-book/isbn13: '9780553276329'
+isbn: 0553276328
+isbn13: '9780553276329'
 rating: 4
-book/pages: 270
+page_count: 270
 series_index: [1]
 ---
 > Every ocean takes its toll of men and ships, yet none devours them with the voracious appetitive of the Pacific....Despite all this, the world's largest ocean tends to be a tranquil place; even its name means peaceful and mild of temper.

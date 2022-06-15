@@ -8,12 +8,12 @@ reviews/series:
 - Saga
 reviews/authors:
 - Brian K. Vaughan
-book/goodreads_id: 15704307
+goodreads_id: 15704307
 cover: /embeds/books/saga-vol-1.jpg
-book/isbn: '1607066017'
-book/isbn13: '9781607066019'
+isbn: '1607066017'
+isbn13: '9781607066019'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [1]
 ---
 I've been meaning to read these for a while, they have some of the best reviews among graphic novels ever, they have a fantastic premise (a fantasy world IN SPACE), and they're on comiXology Unlimited. What better time than the present?  

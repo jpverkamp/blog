@@ -11,10 +11,10 @@ bingo-data:
   - 4x5+
 reviews/authors:
 - Matt Haig
-book/goodreads_id: 52578297
+goodreads_id: 52578297
 cover: /embeds/books/the-midnight-library.jpg
 rating: 5
-book/pages: 288
+page_count: 288
 ---
 > Between life and death there is a library, and within that library, the > shelves go on forever. Every book provides a chance to try another life you > could have lived. To see how things would be if you had made other choices… > Would you have done anything different, if you had the chance to undo your > regrets?
 

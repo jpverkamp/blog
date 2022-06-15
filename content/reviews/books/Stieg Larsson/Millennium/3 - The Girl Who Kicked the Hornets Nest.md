@@ -8,12 +8,12 @@ reviews/series:
 - Millennium
 reviews/authors:
 - Stieg Larsson
-book/goodreads_id: 6892870
+goodreads_id: 6892870
 cover: /embeds/books/the-girl-who-kicked-the-hornets-nest.jpg
-book/isbn: 030726999X
-book/isbn13: '9780307269997'
+isbn: 030726999X
+isbn13: '9780307269997'
 rating: 3
-book/pages: 566
+page_count: 566
 series_index: [3]
 ---
 Given that Hornet's Nest kicks off immediately following the events of Played with Fire, I was hoping that it could keep up the momentum of the previous book and avoid the slow first half / crazy second half that the previous two books had suffered from. Unfortunately, no such luck. If anything, it takes even longer to get moving and the conclusion isn't quite as action packed as the previous novels.  

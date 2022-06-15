@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 158988
+goodreads_id: 158988
 cover: /embeds/books/fables-vol-9-sons-of-empire.jpg
-book/isbn: '1401213162'
-book/isbn13: '9781401213169'
+isbn: '1401213162'
+isbn13: '9781401213169'
 rating: 5
-book/pages: 202
+page_count: 202
 series_index: [9, 12]
 ---
 {{< goodreads book="Fables, Vol. 9: Sons of Empire" >}}. The calm before the storm. It's a number of somewhat lighter tales (relatively speaking!) showing how both sides are preparing to strike back.  

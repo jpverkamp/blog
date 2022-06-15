@@ -8,10 +8,10 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 23106013
+goodreads_id: 23106013
 cover: /embeds/books/battle-ground.jpg
 rating: 5
-book/pages: 432
+page_count: 432
 series_index: [17]
 ---
 > The real battle for your own soul isn't about falling from a great height; > it's about descending, or not, one choice at a time.

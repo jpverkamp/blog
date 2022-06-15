@@ -5,14 +5,15 @@ generated: true
 reviews/lists:
 - 2021 Book Reviews
 reviews/series:
+- The Cosmere
 - White Sand
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 39298848
+goodreads_id: 39298848
 cover: /embeds/books/white-sand-volume-3.jpg
 rating: 4
-book/pages: 160
-series_index: [3]
+page_count: 160
+series_index: [0, 3]
 ---
 Onward and conclusionward! All the political machinations to save the Sand Masters (and himself) are coming to a head. It's a fine enough central plot, even if the random assassinations / friend that doesn't get along well with his father / scientist from the other side of the world / bodyguard that hates you and you have to win over subplots really do get to be a bit random and disorientating.  
 

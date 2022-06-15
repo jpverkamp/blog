@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 6585201
+goodreads_id: 6585201
 cover: /embeds/books/changes.jpg
-book/isbn: 045146317X
-book/isbn13: '9780451463173'
+isbn: 045146317X
+isbn13: '9780451463173'
 rating: 5
-book/pages: 438
+page_count: 438
 series_index: [12]
 ---
 ** spoiler alert ** Damn.  

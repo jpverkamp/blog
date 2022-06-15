@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 156884
+goodreads_id: 156884
 cover: /embeds/books/mikes-mystery.jpg
-book/isbn: 0807551414
-book/isbn13: '9780807551417'
+isbn: 0807551414
+isbn13: '9780807551417'
 rating: 4
-book/pages: 128
+page_count: 128
 series_index: [5]
 ---
 So... the children own a town now? That's cool. And Mike's family ({{< goodreads book="Surprise Island" >}}) lives there. Such mystery!  

@@ -8,12 +8,12 @@ reviews/series:
 - Transmetropolitan
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 22421
+goodreads_id: 22421
 cover: /embeds/books/transmetropolitan-vol-4-the-new-scum.jpg
-book/isbn: '1563896273'
-book/isbn13: '9781563896279'
+isbn: '1563896273'
+isbn13: '9781563896279'
 rating: 4
-book/pages: 133
+page_count: 133
 series_index: [4]
 ---
 Mostly, it's a story about interviewing the candidates for election and answering that age old 'which is the lesser evil' sort of question. Or I suppose in this question, can Spider find enough to convince him not to go outright nuclear on both of them and screw the world over even worse?  

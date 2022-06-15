@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25101
+goodreads_id: 25101
 cover: /embeds/books/season-of-mists.jpg
-book/isbn: '1563890356'
-book/isbn13: '9781563890352'
+isbn: '1563890356'
+isbn13: '9781563890352'
 rating: 5
-book/pages: 217
+page_count: 217
 series_index: [4]
 ---
 > To reign is worth ambition though in Hell: Better to reign in Hell, then > serve in Heav'n.

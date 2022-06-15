@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 8219033
+goodreads_id: 8219033
 cover: /embeds/books/crescent-dawn.jpg
-book/isbn: 039915714X
-book/isbn13: '9780399157141'
+isbn: 039915714X
+isbn13: '9780399157141'
 rating: 3
-book/pages: 548
+page_count: 548
 series_index: [21]
 ---
 > The deliveryman smiled as he eyed the thick stack of currency. “I wonder if the Germans would pay this much to sink a ship and murder a general,” he said. “You wouldn’t happen to be working for the Kaiser, now, would you?”  

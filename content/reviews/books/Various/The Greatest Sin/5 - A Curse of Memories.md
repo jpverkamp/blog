@@ -9,10 +9,10 @@ reviews/series:
 reviews/authors:
 - Erik Kort
 - Lee French
-book/goodreads_id: 35609536
+goodreads_id: 35609536
 cover: /embeds/books/a-curse-of-memories.jpg
 rating: 4
-book/pages: 356
+page_count: 356
 series_index: [5]
 ---
 {{< goodreads book="A Curse of Memories" text=" A Curse of Memories " >}} continues the story of The Greatest Sin, this time in a 'closed house' sort of murder mystery. Fallen have been killed and now everyone is locked into the Tower until the perpetrator is found. At this point, you're not (and really shouldn't) start this far into a series... but if you've read this far, this is a more than adequate continuation of the story. It's only a bummer that (as of this writing), this is the end.  

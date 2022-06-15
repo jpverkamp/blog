@@ -8,10 +8,10 @@ reviews/series:
 - Kingsbridge
 reviews/authors:
 - Ken Follett
-book/goodreads_id: 5064
+goodreads_id: 5064
 cover: /embeds/books/world-without-end.jpg
 rating: 4
-book/pages: 1030
+page_count: 1030
 series_index: [0]
 ---
 {{< goodreads book="The Pillars of the Earth" >}} was quite a ride of historical fiction, introducing us the people of a small English city of Kingsbridge in the 12th century. When I learned that there was a sequel ({{< goodreads book="World Without End" >}}) set in the same town but hundreds of years later, I was intrigued. A timeskip with the same setting but different (descended) characters hundreds of years later isn't something I've often seen and it's fascinating when done well. Add in that World Without End is set during the years of the Plague... I was intrigued.  

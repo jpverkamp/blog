@@ -8,12 +8,12 @@ reviews/series:
 - Kane Chronicles
 reviews/authors:
 - Rick Riordan
-book/goodreads_id: 9067850
+goodreads_id: 9067850
 cover: /embeds/books/the-throne-of-fire.jpg
-book/isbn: '1423140567'
-book/isbn13: '9781423140566'
+isbn: '1423140567'
+isbn13: '9781423140566'
 rating: 4
-book/pages: 452
+page_count: 452
 series_index: [2]
 ---
 I don't really have particularly much to add for Throne of Fire that I didn't already say for The Red Pyramid.  

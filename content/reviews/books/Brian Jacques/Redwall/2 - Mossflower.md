@@ -8,11 +8,11 @@ reviews/series:
 - Redwall
 reviews/authors:
 - Brian Jacques
-book/goodreads_id: 201341
+goodreads_id: 201341
 cover: /embeds/books/mossflower.jpg
-book/isbn: '0441005764'
+isbn: '0441005764'
 rating: 5
-book/pages: 373
+page_count: 373
 series_index: [2]
 ---
 Huh. That was actually really good.  

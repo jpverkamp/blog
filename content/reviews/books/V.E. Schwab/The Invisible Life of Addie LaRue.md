@@ -6,12 +6,12 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - V.E. Schwab
-book/goodreads_id: 50623864
+goodreads_id: 50623864
 cover: /embeds/books/the-invisible-life-of-addie-larue.jpg
-book/isbn: 0765387565
-book/isbn13: '9780765387561'
+isbn: 0765387565
+isbn13: '9780765387561'
 rating: 5
-book/pages: 444
+page_count: 444
 ---
 > Seven freckles. One for every love she’d have, that’s what Estele had said, when the girl was still young. One for every life she’d lead. One for every god watching over her. Now, they mock her, those seven marks. Promises. Lies. She’s had no loves, she’s lived no lives, she’s met no gods, and now she is out of time.
 

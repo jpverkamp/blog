@@ -8,12 +8,12 @@ reviews/series:
 - John Cleaver
 reviews/authors:
 - Dan Wells
-book/goodreads_id: 8872180
+goodreads_id: 8872180
 cover: /embeds/books/i-dont-want-to-kill-you.jpg
-book/isbn: 0765322498
-book/isbn13: '9780765322494'
+isbn: 0765322498
+isbn13: '9780765322494'
 rating: 5
-book/pages: 320
+page_count: 320
 series_index: [3]
 ---
 Oof.  

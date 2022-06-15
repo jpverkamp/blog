@@ -6,10 +6,10 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Zach Barth
-book/goodreads_id: 46158812
+goodreads_id: 46158812
 cover: /embeds/books/zach-like-a-game-design-history.jpg
 rating: 4
-book/pages: 398
+page_count: 398
 ---
 I've played a number of Zachtronics games. [SpaceChem](http://www.zachtronics.com/spacechem/) and [Opus Magnum](http://www.zachtronics.com/opus-magnum/). [TIS-100](http://www.zachtronics.com/tis-100/) and [Ironclad Tactics](http://www.zachtronics.com/ironclad-tactics/). For a programmer/code geek/puzzle lover like me, they're a wonderful sort of thing.  
 

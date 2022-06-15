@@ -8,10 +8,10 @@ reviews/series:
 - The Umbrella Academy
 reviews/authors:
 - Gerard Way
-book/goodreads_id: 2795053
+goodreads_id: 2795053
 cover: /embeds/books/the-umbrella-academy-vol-1-the-apocalypse-suite.jpg
 rating: 5
-book/pages: 184
+page_count: 184
 series_index: [1]
 ---
 Well that is truely a bizarre read. I've been wanting to watch the show, but figured the written form is short enough, I could read it first. It's weirdly wonderful.  

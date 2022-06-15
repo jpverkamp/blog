@@ -8,12 +8,12 @@ reviews/series:
 - Skyward
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 36642458
+goodreads_id: 36642458
 cover: /embeds/books/skyward.jpg
-book/isbn: '1473217857'
-book/isbn13: '9781473217850'
+isbn: '1473217857'
+isbn13: '9781473217850'
 rating: 5
-book/pages: 513
+page_count: 513
 series_index: [1]
 ---
 > I imagined those broken rocks as the broken bodies of my enemies, their bones shattered, their trembling arms reaching upward in a useless gesture of total and complete defeat. I was a very odd little girl.

@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 9918889
+goodreads_id: 9918889
 cover: /embeds/books/the-boys-volume-8-highland-laddie.jpg
-book/isbn: '1606902075'
-book/isbn13: '9781606902073'
+isbn: '1606902075'
+isbn13: '9781606902073'
 rating: 3
-book/pages: 144
+page_count: 144
 series_index: [8]
 ---
 *Warning: NSFW*  

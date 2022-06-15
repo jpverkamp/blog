@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Jamie Delano
-book/goodreads_id: 13536298
+goodreads_id: 13536298
 cover: /embeds/books/hellblazer-vol-4-the-family-man.jpg
-book/isbn: '1401236901'
-book/isbn13: '9781401236908'
+isbn: '1401236901'
+isbn13: '9781401236908'
 rating: 4
-book/pages: 288
+page_count: 288
 series_index: [4]
 ---
 Better than Volume 3 by a long shot. Starts weird but interesting and gets better from there. I’ll reiterate though that I can’t really imagine buying these by issue, especially in real time. A volume has enough meat to it to sustain a storyline. 

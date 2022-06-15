@@ -8,12 +8,12 @@ reviews/series:
 - Alpha & Omega
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 7942786
+goodreads_id: 7942786
 cover: /embeds/books/fair-game.jpg
-book/isbn: '1841497967'
-book/isbn13: '9781841497969'
+isbn: '1841497967'
+isbn13: '9781841497969'
 rating: 5
-book/pages: 308
+page_count: 308
 series_index: [3]
 ---
 > People as old and powerful as he should never be given someone to love. For Anna he would destroy the world.

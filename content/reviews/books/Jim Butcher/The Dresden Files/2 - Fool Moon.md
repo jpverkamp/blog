@@ -8,10 +8,10 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 91477
+goodreads_id: 91477
 cover: /embeds/books/fool-moon.jpg
 rating: 5
-book/pages: 432
+page_count: 432
 series_index: [2]
 ---
 Two down.  

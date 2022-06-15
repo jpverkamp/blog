@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 19486421
+goodreads_id: 19486421
 cover: /embeds/books/skin-game.jpg
-book/isbn: 0451464397
-book/isbn13: '9780451464392'
+isbn: 0451464397
+isbn13: '9780451464392'
 rating: 5
-book/pages: 454
+page_count: 454
 series_index: [15]
 ---
 And then there was a heist.  

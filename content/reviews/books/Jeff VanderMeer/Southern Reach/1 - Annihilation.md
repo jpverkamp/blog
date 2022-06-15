@@ -13,12 +13,12 @@ bingo-data:
   - 4x3+
 reviews/authors:
 - Jeff VanderMeer
-book/goodreads_id: 17934530
+goodreads_id: 17934530
 cover: /embeds/books/annihilation.jpg
-book/isbn: 0374104093
-book/isbn13: '9780374104092'
+isbn: 0374104093
+isbn13: '9780374104092'
 rating: 4
-book/pages: 195
+page_count: 195
 series_index: [1]
 ---
 > You must understand how I felt then, how the surveyor must have felt: We > were scientists, trained to observe natural phenomena and the results of > human activity. We had not been trained to encounter what appeared to be the > uncanny. In unusual situations there can be a comfort in the presence of > even someone you think might be your enemy. Now we had come close to the > edges of something unprecedented, and less than a week into our mission we > had lost not just the linguist at the border but our anthropologist and our > psychologist.

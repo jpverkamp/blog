@@ -8,12 +8,12 @@ reviews/series:
 - Saga
 reviews/authors:
 - Brian K. Vaughan
-book/goodreads_id: 19358975
+goodreads_id: 19358975
 cover: /embeds/books/saga-vol-3.jpg
-book/isbn: '1607069318'
-book/isbn13: '9781607069317'
+isbn: '1607069318'
+isbn13: '9781607069317'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [3]
 ---
 They just keep getting better! Against the backdrop of a universe gone mad with all manner of weird beings trying to kill them... you have people that feel so real, with all the 'real' problems that come with it:  

@@ -8,12 +8,12 @@ reviews/series:
 - The Wheel of Time
 reviews/authors:
 - Robert Jordan
-book/goodreads_id: 1166599
+goodreads_id: 1166599
 cover: /embeds/books/the-gathering-storm.jpg
-book/isbn: '0765302306'
-book/isbn13: '9780765302304'
+isbn: '0765302306'
+isbn13: '9780765302304'
 rating: 5
-book/pages: 783
+page_count: 783
 series_index: [12]
 ---
 > “The end is near," Moridin said. "The Wheel has groaned its final rotation, the clock has lost its spring, the serpent heaves its final gasps.”

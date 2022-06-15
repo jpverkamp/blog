@@ -8,12 +8,12 @@ reviews/series:
 - Locke & Key
 reviews/authors:
 - Joe Hill
-book/goodreads_id: 16164271
+goodreads_id: 16164271
 cover: /embeds/books/locke-key-vol-6-alpha-omega.jpg
-book/isbn: '1613778538'
-book/isbn13: '9781613778531'
+isbn: '1613778538'
+isbn13: '9781613778531'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [6]
 ---
 One more story.  

@@ -13,10 +13,10 @@ bingo-data:
   - 4x1
 reviews/authors:
 - Martha Wells
-book/goodreads_id: 32758901
+goodreads_id: 32758901
 cover: /embeds/books/all-systems-red.jpg
 rating: 5
-book/pages: 155
+page_count: 155
 series_index: [1]
 ---
 Okay, I get what all the hype is about. Take a heavily armed cyborg/clone, designed entirely as muscle to defend the more squishy 'traditional' humans, have it turn off the software constraining it from killing everyone, add in a wonderfully snarky sense of humor... and see what happens. 

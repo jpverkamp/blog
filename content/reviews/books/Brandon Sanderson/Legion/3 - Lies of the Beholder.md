@@ -8,12 +8,12 @@ reviews/series:
 - Legion
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 37640636
+goodreads_id: 37640636
 cover: /embeds/books/lies-of-the-beholder.jpg
-book/isbn: 159606885X
-book/isbn13: '9781596068858'
+isbn: 159606885X
+isbn13: '9781596068858'
 rating: 4
-book/pages: 148
+page_count: 148
 series_index: [3]
 ---
 > “Who cares?” I said. “Yes, it’s all in my head. But pain is ‘all in my head’ too. Love is ‘all in my head.’ All the things that matter in life are the things you can’t measure! The things our brains make up! Being made-up doesn’t make them unimportant.”

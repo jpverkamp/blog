@@ -6,12 +6,12 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Blake Crouch
-book/goodreads_id: 27833670
+goodreads_id: 27833670
 cover: /embeds/books/dark-matter.jpg
-book/isbn: '1101904224'
-book/isbn13: '9781101904220'
+isbn: '1101904224'
+isbn13: '9781101904220'
 rating: 5
-book/pages: 340
+page_count: 340
 ---
 > We're more than the sum total of our choices, that all the paths we might have taken factor somehow into the math of our identity.
 

@@ -8,12 +8,12 @@ reviews/series:
 - The Umbrella Academy
 reviews/authors:
 - Gerard Way
-book/goodreads_id: 6413286
+goodreads_id: 6413286
 cover: /embeds/books/the-umbrella-academy-vol-2-dallas.jpg
-book/isbn: 159582345X
-book/isbn13: '9781595823458'
+isbn: 159582345X
+isbn13: '9781595823458'
 rating: 5
-book/pages: 184
+page_count: 184
 series_index: [2]
 ---
 Onwards and weirdwards!  

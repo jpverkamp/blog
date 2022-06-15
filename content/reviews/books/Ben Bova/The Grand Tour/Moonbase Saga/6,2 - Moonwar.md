@@ -9,12 +9,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267298
+goodreads_id: 267298
 cover: /embeds/books/moonwar.jpg
-book/isbn: 0380786982
-book/isbn13: '9780380786985'
+isbn: 0380786982
+isbn13: '9780380786985'
 rating: 4
-book/pages: 512
+page_count: 512
 series_index: [2, 6]
 ---
 {{< goodreads book="Moonwar" >}} finishes the story of {{< goodreads book="Moonrise" >}}, really establishing Moonbase as a power in the solar system in its own right and a refuge from the growing New Morality movements on Earth--especially when it comes to developing nano-technology.

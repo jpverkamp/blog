@@ -8,12 +8,12 @@ reviews/series:
 - Pendragon
 reviews/authors:
 - D.J. MacHale
-book/goodreads_id: 215543
+goodreads_id: 215543
 cover: /embeds/books/the-lost-city-of-faar.jpg
-book/isbn: '0743437322'
-book/isbn13: '9780743437325'
+isbn: '0743437322'
+isbn13: '9780743437325'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [2]
 ---
 In the continuing stories of Bobby Pendragon, this time around he has to save the ocean Territory of Cloral. It's a fascinating world, where at some point in the long past, the world flooded such that everyone now lives in floating cities. They have all sorts of neat water based technology and what seems like a pretty peaceful, fun loving society. Of course things are about to go wrong.  

@@ -8,12 +8,12 @@ reviews/series:
 - Night Angel
 reviews/authors:
 - Brent Weeks
-book/goodreads_id: 3754016
+goodreads_id: 3754016
 cover: /embeds/books/shadows-edge.jpg
-book/isbn: '0316033650'
-book/isbn13: '9780316033657'
+isbn: '0316033650'
+isbn13: '9780316033657'
 rating: 5
-book/pages: 636
+page_count: 636
 series_index: [2]
 ---
 Taken as a whole, Shadow's Edge takes everything (the good and the bad) of the first Night Angel book and cranks it up even further. On the plus side, the good becomes even better. It was hard to put this book down. On the down side, a lot of the first part of the book where Kylar tries to run from his powers and live a normal life is honestly fairly boring. Luckily it picks back up and really goes crazy by the end.  

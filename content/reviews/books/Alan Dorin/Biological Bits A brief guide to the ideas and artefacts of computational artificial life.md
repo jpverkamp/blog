@@ -6,12 +6,12 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Alan Dorin
-book/goodreads_id: 44011307
+goodreads_id: 44011307
 cover: /embeds/books/biological-bits-a-brief-guide-to-the-ideas-and-artefacts-of-computational-artificial-life.jpg
-book/isbn: 0646918710
-book/isbn13: '9780646918716'
+isbn: 0646918710
+isbn13: '9780646918716'
 rating: 3
-book/pages: 153
+page_count: 153
 ---
 Came across a [reddit thread](https://old.reddit.com/r/alife/comments/sls0rt/biological_bits_by_alan_dorin_great_introduction/) about this book. I've long been interested in alife, artificial evolution, simulated creatures, etc, and have been looking to add back in more non-fiction so I figured I'd go ahead and give it a whirl. 
 

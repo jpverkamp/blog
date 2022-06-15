@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 182372
+goodreads_id: 182372
 cover: /embeds/books/mountain-top-mystery.jpg
-book/isbn: 0590426788
-book/isbn13: '9780590426787'
+isbn: 0590426788
+isbn13: '9780590426787'
 rating: 3
-book/pages: 128
+page_count: 128
 series_index: [9]
 ---
 It's kind of strange that after half a dozen books of being on their own, we now have several in a row that always have Grandfather and other adults watching over them, even as they get older and (hopefully) wiser.  

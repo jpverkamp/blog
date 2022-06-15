@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 1610998
+goodreads_id: 1610998
 cover: /embeds/books/fullmetal-alchemist-vol-16.jpg
-book/isbn: '1421513811'
-book/isbn13: '9781421513812'
+isbn: '1421513811'
+isbn13: '9781421513812'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [16]
 ---
 Oh man. A bit of fallout from the war, going north (it's COLD!), and (re-)meeting another Armstrong. Exciting things and it doesn't have to even been brainbreakingly weird!  

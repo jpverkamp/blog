@@ -8,12 +8,12 @@ reviews/series:
 - Bright Smoke, Cold Fire
 reviews/authors:
 - Rosamund Hodge
-book/goodreads_id: 28448239
+goodreads_id: 28448239
 cover: /embeds/books/bright-smoke-cold-fire.jpg
-book/isbn: 0062369415
-book/isbn13: '9780062369413'
+isbn: 0062369415
+isbn13: '9780062369413'
 rating: 4
-book/pages: 437
+page_count: 437
 series_index: [1]
 ---
 Among the three Hodge books I've read thus far ({{< goodreads book="Cruel Beauty" >}} and {{< goodreads book="Crimson Bound" >}}), Bright Smoke, Cold Fire is by far my favorite, which is interesting, given that it has the lowest rating on Goodreads by almost half a point. It's actually the lowest rated full I've finished.  

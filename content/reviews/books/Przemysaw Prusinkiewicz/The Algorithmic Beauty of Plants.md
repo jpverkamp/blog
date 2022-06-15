@@ -6,10 +6,10 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/authors:
 - "Przemys\u0142aw Prusinkiewicz"
-book/goodreads_id: 944626
+goodreads_id: 944626
 cover: /embeds/books/the-algorithmic-beauty-of-plants.jpg
-book/isbn: 0387972978
-book/isbn13: '9780387972978'
+isbn: 0387972978
+isbn13: '9780387972978'
 rating: 5
 ---
 This... was a somewhat unepxected read.  

@@ -8,12 +8,12 @@ reviews/series:
 - Millennium
 reviews/authors:
 - Stieg Larsson
-book/goodreads_id: 5060378
+goodreads_id: 5060378
 cover: /embeds/books/the-girl-who-played-with-fire.jpg
-book/isbn: 0307269981
-book/isbn13: '9780307269980'
+isbn: 0307269981
+isbn13: '9780307269980'
 rating: 4
-book/pages: 503
+page_count: 503
 series_index: [2]
 ---
 The Girl with the Dragon Tattoo took a while to get into. It wasn't until Lisbeth and Blomkvist were finally in the same place perhaps halfway through the book that things really started moving.  

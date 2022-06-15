@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Peter Milligan
-book/goodreads_id: 52476989
+goodreads_id: 52476989
 cover: /embeds/books/hellblazer-vol-23-no-future.jpg
-book/isbn: '1779503059'
-book/isbn13: '9781779503053'
+isbn: '1779503059'
+isbn13: '9781779503053'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [23]
 ---
 An interesting collection. Constantine in India, looking for purity. Punk and the Conservatives. Nergal and Bast’s … cousin, maybe? And Papa Midnite backstory. A lot of leaning on the past, but neat stories. 

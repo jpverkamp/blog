@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 8785374
+goodreads_id: 8785374
 cover: /embeds/books/snuff.jpg
-book/isbn: 038561926X
-book/isbn13: '9780385619264'
+isbn: 038561926X
+isbn13: '9780385619264'
 rating: 4
-book/pages: 378
+page_count: 378
 series_index: [39, 8]
 ---
 And so it ends.  

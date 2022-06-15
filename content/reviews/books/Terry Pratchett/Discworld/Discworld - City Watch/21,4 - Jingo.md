@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - City Watch
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 47990
+goodreads_id: 47990
 cover: /embeds/books/jingo.jpg
-book/isbn: '0552154164'
-book/isbn13: '9780552154161'
+isbn: '0552154164'
+isbn13: '9780552154161'
 rating: 4
-book/pages: 461
+page_count: 461
 series_index: [21, 4]
 ---
 > Always be wary of any helpful item that weighs less than its operating manual.

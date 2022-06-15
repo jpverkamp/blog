@@ -10,12 +10,12 @@ reviews/series:
 - The Cosmere
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 68429
+goodreads_id: 68429
 cover: /embeds/books/the-well-of-ascension.jpg
-book/isbn: 0765316889
-book/isbn13: '9780765316882'
+isbn: 0765316889
+isbn13: '9780765316882'
 rating: 5
-book/pages: 590
+page_count: 590
 series_index: [2, 2, 0]
 ---
 Since last I read this book, I'd forgotten just how much happens in this book.  

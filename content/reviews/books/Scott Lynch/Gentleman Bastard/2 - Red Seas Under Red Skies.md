@@ -8,10 +8,10 @@ reviews/series:
 - Gentleman Bastard
 reviews/authors:
 - Scott Lynch
-book/goodreads_id: 40604556
+goodreads_id: 40604556
 cover: /embeds/books/red-seas-under-red-skies.jpg
 rating: 5
-book/pages: 578
+page_count: 578
 series_index: [2]
 ---
 >  “That's a sweet piece," said Jean, briefly forgetting to be aggravated. "You didn't snatch that off a street."  

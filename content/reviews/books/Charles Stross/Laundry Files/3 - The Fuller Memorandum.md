@@ -8,12 +8,12 @@ reviews/series:
 - Laundry Files
 reviews/authors:
 - Charles Stross
-book/goodreads_id: 7149287
+goodreads_id: 7149287
 cover: /embeds/books/the-fuller-memorandum.jpg
-book/isbn: 044101867X
-book/isbn13: '9780441018673'
+isbn: 044101867X
+isbn13: '9780441018673'
 rating: 5
-book/pages: 312
+page_count: 312
 series_index: [3]
 ---
 (Take 2, the internet ate my first review)  

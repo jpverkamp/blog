@@ -8,10 +8,10 @@ reviews/series:
 - Grimnoir Chronicles
 reviews/authors:
 - Larry Correia
-book/goodreads_id: 18195033
+goodreads_id: 18195033
 cover: /embeds/books/hard-magic.jpg
 rating: 5
-book/pages: 524
+page_count: 524
 series_index: [1]
 ---
 >  One general law, leading to the advancement of all organic beings, namely, multiply, vary, let the strongest live and the weakest die. The appearance of esoteric and etheral abiliites, magical fires and feats of strength, in recent decades are the purest demonstration of natural selection. Surely, in time, that general law will require the extinction of traditional man.  

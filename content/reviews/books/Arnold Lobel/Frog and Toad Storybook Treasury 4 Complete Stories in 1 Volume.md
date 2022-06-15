@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Arnold Lobel
-book/goodreads_id: 18085528
+goodreads_id: 18085528
 cover: /embeds/books/frog-and-toad-storybook-treasury-4-complete-stories-in-1-volume.jpg
-book/isbn: 0062292587
-book/isbn13: '9780062292582'
+isbn: 0062292587
+isbn13: '9780062292582'
 rating: 5
-book/pages: 256
+page_count: 256
 ---
 {{< goodreads book="Frog and Toad Storybook Treasury: 4 Complete Stories in 1 Volume!" text="Frog and Toad" >}} are wonderful, full stop. It's a collection of collections, with 4 parts, each of which has a handful (5?) of short stories. You can read the individual stories or go through them all back to back (as I did over the last few nights). The stories are thematically related, but there's no real plot between them, so no reason to read them in any particular order.  
 

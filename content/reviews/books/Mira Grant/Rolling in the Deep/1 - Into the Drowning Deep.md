@@ -8,10 +8,10 @@ reviews/series:
 - Rolling in the Deep
 reviews/authors:
 - Mira Grant
-book/goodreads_id: 34913896
+goodreads_id: 34913896
 cover: /embeds/books/into-the-drowning-deep.jpg
 rating: 4
-book/pages: 562
+page_count: 562
 series_index: [1]
 ---
 Well. That is certainly a book.  

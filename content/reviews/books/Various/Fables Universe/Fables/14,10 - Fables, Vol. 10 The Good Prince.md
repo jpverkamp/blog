@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 2147714
+goodreads_id: 2147714
 cover: /embeds/books/fables-vol-10-the-good-prince.jpg
-book/isbn: '1401216862'
-book/isbn13: '9781401216863'
+isbn: '1401216862'
+isbn13: '9781401216863'
 rating: 5
-book/pages: 240
+page_count: 240
 series_index: [10, 14]
 ---
 {{< goodreads book="Fables, Vol. 10: The Good Prince" text=" Fables, Vol. 10: The Good Prince " >}} . The story of Ambrose (Flycatcher).  

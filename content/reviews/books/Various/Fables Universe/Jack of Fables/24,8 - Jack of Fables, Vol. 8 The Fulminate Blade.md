@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 8440306
+goodreads_id: 8440306
 cover: /embeds/books/jack-of-fables-vol-8-the-fulminate-blade.jpg
-book/isbn: '1401229824'
-book/isbn13: '9781401229825'
+isbn: '1401229824'
+isbn13: '9781401229825'
 rating: 5
-book/pages: 128
+page_count: 128
 series_index: [8, 24]
 ---
 Sooo... meet the new Jack, better* than the old Jack?  

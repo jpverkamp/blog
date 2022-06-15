@@ -8,10 +8,10 @@ reviews/series:
 - Artemis Fowl
 reviews/authors:
 - Eoin Colfer
-book/goodreads_id: 2179276
+goodreads_id: 2179276
 cover: /embeds/books/the-time-paradox.jpg
 rating: 4
-book/pages: 391
+page_count: 391
 series_index: [6]
 ---
 So... time travel.  

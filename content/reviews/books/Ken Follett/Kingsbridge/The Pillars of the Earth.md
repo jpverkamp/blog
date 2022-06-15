@@ -8,10 +8,10 @@ reviews/series:
 - Kingsbridge
 reviews/authors:
 - Ken Follett
-book/goodreads_id: 5043
+goodreads_id: 5043
 cover: /embeds/books/the-pillars-of-the-earth.com/cover/9781429586764
 rating: 5
-book/pages: 976
+page_count: 976
 series_index: [0]
 ---
 > The most expensive part of building is the mistakes.

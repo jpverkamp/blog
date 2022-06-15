@@ -7,12 +7,12 @@ reviews/authors:
 - Joe Abercrombie
 reviews/series:
 - The First Law
-book/goodreads_id: 944073
+goodreads_id: 944073
 cover: /embeds/books/the-blade-itself.jpg
-book/isbn: 0575079797
-book/isbn13: '9780575079793'
+isbn: 0575079797
+isbn13: '9780575079793'
 rating: 5
-book/pages: 515
+page_count: 515
 series_index: [1]
 ---
 > Every man has his excuses, and the more vile the man becomes, the more touching the story has to be. What is my story now, I wonder?

@@ -8,12 +8,12 @@ reviews/series:
 - Alpha & Omega
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 18941694
+goodreads_id: 18941694
 cover: /embeds/books/dead-heat.jpg
-book/isbn: 0425256758
-book/isbn13: '9780425256756'
+isbn: 0425256758
+isbn13: '9780425256756'
 rating: 5
-book/pages: 324
+page_count: 324
 series_index: [4]
 ---
 Hope you like horses.  

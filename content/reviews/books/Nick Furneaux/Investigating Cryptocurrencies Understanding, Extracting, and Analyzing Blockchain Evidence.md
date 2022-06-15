@@ -7,12 +7,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Nick Furneaux
-book/goodreads_id: 38364996
+goodreads_id: 38364996
 cover: /embeds/books/investigating-cryptocurrencies-understanding-extracting-and-analyzing-blockchain-evidence.jpg
-book/isbn: '1119480574'
-book/isbn13: '9781119480570'
+isbn: '1119480574'
+isbn13: '9781119480570'
 rating: 5
-book/pages: 320
+page_count: 320
 ---
 I find Bitcoin and other cryptocurrencies endlessly fascinating. They hit a number of my personal interests, in particular low cryptography and level network protocols/data formats. I'm generally familiar with how blockchains work in general and have actually played a bit with demo implementations of the same technology. That being said, there are a lot of details on the business and variety between different technologies that I find less than knowledgeable about.  
 

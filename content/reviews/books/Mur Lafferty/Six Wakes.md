@@ -11,12 +11,12 @@ bingo-data:
   - 3x1+
 reviews/authors:
 - Mur Lafferty
-book/goodreads_id: 28962996
+goodreads_id: 28962996
 cover: /embeds/books/six-wakes.jpg
-book/isbn: 0316389684
-book/isbn13: '9780316389686'
+isbn: 0316389684
+isbn13: '9780316389686'
 rating: 5
-book/pages: 364
+page_count: 364
 ---
 In a nutshell, {{< goodreads book="Six Wakes" >}} is a closed room murder mystery in SPACE! With clones! What that gives us is an absolutely wonderful variation on the tropes. Because of cloning technology, you can very well have a murder mystery where the cast wake up to the gruesome (zero gee) murder of ... the entire cast. And because it's a generation ship in deep space, you very well know that one of the cast absolutely has to have been the muderer... Unless it was more than one.  
 

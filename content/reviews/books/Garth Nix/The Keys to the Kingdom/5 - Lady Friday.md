@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 17206
+goodreads_id: 17206
 cover: /embeds/books/lady-friday.jpg
-book/isbn: 0439700884
-book/isbn13: '9780439700887'
+isbn: 0439700884
+isbn13: '9780439700887'
 rating: 4
-book/pages: 320
+page_count: 320
 series_index: [5]
 ---
 It's interesting throughout the whole series, Nix has managed to combine a relatively formulaic story with new twists and weird new worlds in each and every book.  

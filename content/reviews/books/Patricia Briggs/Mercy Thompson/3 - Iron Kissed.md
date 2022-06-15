@@ -8,12 +8,12 @@ reviews/series:
 - Mercy Thompson
 reviews/authors:
 - Patricia Briggs
-book/goodreads_id: 1412138
+goodreads_id: 1412138
 cover: /embeds/books/iron-kissed.jpg
-book/isbn: '0441015662'
-book/isbn13: '9780441015665'
+isbn: '0441015662'
+isbn13: '9780441015665'
 rating: 5
-book/pages: 287
+page_count: 287
 series_index: [3]
 ---
 Iron Kissed gets into one of the most interesting parts of the Mercy Thompson universe: the Fae. They may have come out to the public a few decades ago, but only the least of the Fae. When a small pile of the greater Fae are brutally murdered, Mercy gets involved.  

@@ -8,12 +8,12 @@ reviews/series:
 - The Dresden Files
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 8058301
+goodreads_id: 8058301
 cover: /embeds/books/ghost-story.jpg
-book/isbn: 045146379X
-book/isbn13: '9780451463791'
+isbn: 045146379X
+isbn13: '9780451463791'
 rating: 5
-book/pages: 481
+page_count: 481
 series_index: [13]
 ---
 And then he was dead.  {{< spoiler >}}Ish.{{< /spoiler >}}  .  

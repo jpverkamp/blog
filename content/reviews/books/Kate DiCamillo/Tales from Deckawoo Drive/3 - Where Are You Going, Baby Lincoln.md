@@ -8,12 +8,12 @@ reviews/series:
 - Tales from Deckawoo Drive
 reviews/authors:
 - Kate DiCamillo
-book/goodreads_id: 28588031
+goodreads_id: 28588031
 cover: /embeds/books/where-are-you-going-baby-lincoln.jpg
-book/isbn: '0763673110'
-book/isbn13: '9780763673116'
+isbn: '0763673110'
+isbn13: '9780763673116'
 rating: 5
-book/pages: 96
+page_count: 96
 series_index: [3]
 ---
 I've started reading chapter books to my children at night. They get to chose (from what we have) and this is where we begin. I don't think I could have chosen a better first book.  

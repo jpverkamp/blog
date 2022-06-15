@@ -8,7 +8,7 @@ reviews/series:
 - Welcome to Night Vale
 reviews/authors:
 - Joseph Fink
-book/goodreads_id: 23129410
+goodreads_id: 23129410
 cover: /embeds/books/welcome-to-night-vale.jpg
 series_index: [1]
 ---

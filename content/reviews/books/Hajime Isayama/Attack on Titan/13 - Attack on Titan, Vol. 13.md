@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 19336279
+goodreads_id: 19336279
 cover: /embeds/books/attack-on-titan-vol-13.jpg
-book/isbn: '1612626793'
-book/isbn13: '9781612626796'
+isbn: '1612626793'
+isbn13: '9781612626796'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [13]
 ---
 Woo boy is this series bonkers.  

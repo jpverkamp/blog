@@ -8,12 +8,12 @@ reviews/series:
 - The Chronicles of Amber
 reviews/authors:
 - Roger Zelazny
-book/goodreads_id: 359581
+goodreads_id: 359581
 cover: /embeds/books/the-courts-of-chaos.jpg
-book/isbn: '9993911550'
-book/isbn13: '9789993911555'
+isbn: '9993911550'
+isbn13: '9789993911555'
 rating: 4
-book/pages: 189
+page_count: 189
 series_index: [5]
 ---
 > Good-bye and hello, as always.

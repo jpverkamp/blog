@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 71252
+goodreads_id: 71252
 cover: /embeds/books/the-kindly-ones.jpg
-book/isbn: '1563892049'
-book/isbn13: '9781563892042'
+isbn: '1563892049'
+isbn13: '9781563892042'
 rating: 5
-book/pages: 352
+page_count: 352
 series_index: [9]
 ---
 More than ever before, we're seeing things from the past Sandman stories come back to haunt Dream. We have Lyta Hall and her baby (from way back in the beginning), Nuala of the Fae, and the Corinthian (man he's creepy) all back and ready to wreck havoc (in wildly varied ways). And that ending... knowing there's only one more book makes me really look forward to finishing this series, as weird as that sounds.  

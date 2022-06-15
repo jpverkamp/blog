@@ -8,12 +8,12 @@ reviews/series:
 - Powder Mage
 reviews/authors:
 - Brian  McClellan
-book/goodreads_id: 15790883
+goodreads_id: 15790883
 cover: /embeds/books/promise-of-blood.jpg
-book/isbn: 0316219037
-book/isbn13: '9780316219037'
+isbn: 0316219037
+isbn13: '9780316219037'
 rating: 4
-book/pages: 545
+page_count: 545
 series_index: [1]
 ---
 I'm not entirely sure what to think about this book.  

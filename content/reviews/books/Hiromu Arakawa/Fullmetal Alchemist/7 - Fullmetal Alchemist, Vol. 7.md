@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 82637
+goodreads_id: 82637
 cover: /embeds/books/fullmetal-alchemist-vol-7.jpg
-book/isbn: '1421504588'
-book/isbn13: '9781421504582'
+isbn: '1421504588'
+isbn13: '9781421504582'
 rating: 5
-book/pages: 178
+page_count: 178
 series_index: [7]
 ---
 These books are wonderful.  

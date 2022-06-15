@@ -5,12 +5,12 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Alan Moore
-book/goodreads_id: 5805
+goodreads_id: 5805
 cover: /embeds/books/v-for-vendetta.jpg
-book/isbn: '1401207928'
-book/isbn13: '9781401207922'
+isbn: '1401207928'
+isbn13: '9781401207922'
 rating: 4
-book/pages: 296
+page_count: 296
 ---
 That’s quite a story; quite a world. I only vaguely remember the film, but I still hear Hugo Weaving’s voice as V and Natalie Portman as Evey. The bones of what I remember match though. A story of a world gone well over the edge and a man determined to bring it back—but at what cost?
 

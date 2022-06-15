@@ -8,10 +8,10 @@ reviews/series:
 - Artemis Fowl
 reviews/authors:
 - Eoin Colfer
-book/goodreads_id: 114955
+goodreads_id: 114955
 cover: /embeds/books/the-arctic-incident.jpg
 rating: 5
-book/pages: 398
+page_count: 398
 series_index: [2]
 ---
 Two intermixed plotlines this time around.  

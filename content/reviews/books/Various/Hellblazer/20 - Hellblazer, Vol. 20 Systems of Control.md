@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Mike Carey
-book/goodreads_id: 40003443
+goodreads_id: 40003443
 cover: /embeds/books/hellblazer-vol-20-systems-of-control.jpg
-book/isbn: '1401285694'
-book/isbn13: '9781401285692'
+isbn: '1401285694'
+isbn13: '9781401285692'
 rating: 5
-book/pages: 328
+page_count: 328
 series_index: [20]
 ---
 Constantine gets his Mojo back. 

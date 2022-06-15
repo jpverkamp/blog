@@ -8,12 +8,12 @@ reviews/series:
 - Newsflesh
 reviews/authors:
 - Mira Grant
-book/goodreads_id: 7094569
+goodreads_id: 7094569
 cover: /embeds/books/feed.jpg
-book/isbn: 0316081051
-book/isbn13: '9780316081054'
+isbn: 0316081051
+isbn13: '9780316081054'
 rating: 4
-book/pages: 599
+page_count: 599
 series_index: [1]
 ---
 Brains.  

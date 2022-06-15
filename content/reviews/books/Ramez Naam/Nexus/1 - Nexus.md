@@ -8,12 +8,12 @@ reviews/series:
 - Nexus
 reviews/authors:
 - Ramez Naam
-book/goodreads_id: 13642710
+goodreads_id: 13642710
 cover: /embeds/books/nexus.jpg
-book/isbn: 0857662937
-book/isbn13: '9780857662934'
+isbn: 0857662937
+isbn13: '9780857662934'
 rating: 5
-book/pages: 460
+page_count: 460
 series_index: [1]
 ---
 It's been a while since I've read near future science fiction that wasn't overly apocalyptic. This was a good re-introduction thereto.  

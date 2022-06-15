@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Death
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 386372
+goodreads_id: 386372
 cover: /embeds/books/mort.jpg
-book/isbn: 0061020680
-book/isbn13: '9780061020681'
+isbn: 0061020680
+isbn13: '9780061020681'
 rating: 5
-book/pages: 243
+page_count: 243
 series_index: [4, 1]
 ---
 > Tʜᴇʀᴇ's ɴᴏ ᴊᴜsᴛɪᴄᴇ, ᴛʜᴇʀᴇ's ᴊᴜsᴛ ᴍᴇ. —Death

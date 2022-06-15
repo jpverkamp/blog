@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 5973711
+goodreads_id: 5973711
 cover: /embeds/books/fables-vol-12-the-dark-ages.jpg
-book/isbn: '1401223168'
-book/isbn13: '9781401223168'
+isbn: '1401223168'
+isbn13: '9781401223168'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [12, 21]
 ---
 And so it ends... or perhaps it only begins?  

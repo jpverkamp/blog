@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Warren Ellis
-book/goodreads_id: 26150633
+goodreads_id: 26150633
 cover: /embeds/books/hellblazer-vol-13-haunted.jpg
-book/isbn: '1401261418'
-book/isbn13: '9781401261412'
+isbn: '1401261418'
+isbn13: '9781401261412'
 rating: 4
-book/pages: 333
+page_count: 333
 series_index: [13]
 ---
 One heck of a crazy longer story (Haunted, one of the best of that length) and a bunch of shorter ones, ranging from not much to really good. 

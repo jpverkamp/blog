@@ -8,12 +8,12 @@ reviews/series:
 - The Sandman
 reviews/authors:
 - Neil Gaiman
-book/goodreads_id: 25105
+goodreads_id: 25105
 cover: /embeds/books/brief-lives.jpg
-book/isbn: '1563891379'
-book/isbn13: '9781563891373'
+isbn: '1563891379'
+isbn13: '9781563891373'
 rating: 5
-book/pages: 256
+page_count: 256
 series_index: [7]
 ---
 Destruction of the Endless is missing (and has been missing for a very long time). Delerium--the strangest by far--seeks him.  

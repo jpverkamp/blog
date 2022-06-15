@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41698
+goodreads_id: 41698
 cover: /embeds/books/deep-six.jpg
-book/isbn: '1416516859'
-book/isbn13: '9781416516859'
+isbn: '1416516859'
+isbn13: '9781416516859'
 rating: 4
-book/pages: 535
+page_count: 535
 series_index: [7]
 ---
 With each Dirk Pitt novels, the world Clive Cussler is building seems to get more and more intense and diverge further from the world we live in. We started with simple salvage and simple enough (although extensive) smuggling and drugs. And then they raised the Titanic. And found a treaty to add Canada to the United States.  

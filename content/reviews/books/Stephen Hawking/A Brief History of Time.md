@@ -6,12 +6,12 @@ reviews/lists:
 - 2018 Book Reviews
 reviews/authors:
 - Stephen Hawking
-book/goodreads_id: 3869
+goodreads_id: 3869
 cover: /embeds/books/a-brief-history-of-time.jpg
-book/isbn: 0553380168
-book/isbn13: '9780553380163'
+isbn: 0553380168
+isbn13: '9780553380163'
 rating: 5
-book/pages: 213
+page_count: 213
 ---
 Oof. That's an intense book.  
 

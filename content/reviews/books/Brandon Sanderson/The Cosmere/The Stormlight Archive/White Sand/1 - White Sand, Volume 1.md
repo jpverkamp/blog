@@ -5,16 +5,17 @@ generated: true
 reviews/lists:
 - 2021 Book Reviews
 reviews/series:
+- The Cosmere
 - White Sand
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 28862254
+goodreads_id: 28862254
 cover: /embeds/books/white-sand-volume-1.jpg
-book/isbn: '1606908855'
-book/isbn13: '9781606908853'
+isbn: '1606908855'
+isbn13: '9781606908853'
 rating: 4
-book/pages: 160
-series_index: [1]
+page_count: 160
+series_index: [0, 1]
 ---
 White Sand has something of an odd story. It's the first novel Sanderson finished (and also the 7th, a complete rewrite), but in prose form was never published. You can get it if you ask him (I think signing up for the newsletter? It's been a few years) and I read it back in 2016.  
 

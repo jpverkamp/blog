@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 8601702
+goodreads_id: 8601702
 cover: /embeds/books/fables-vol-15-rose-red.jpg
-book/isbn: '1401230008'
-book/isbn13: '9781401230005'
+isbn: '1401230008'
+isbn13: '9781401230005'
 rating: 5
-book/pages: 256
+page_count: 256
 series_index: [15, 26]
 ---
 Totenkinder (now Bellflower) has a plan, but she's not going to let anyone else in. So instead, we're going to deal with the fall of Rose Red after the death of Boy Blue and a shock from her past strong enough to shake her out of it.  

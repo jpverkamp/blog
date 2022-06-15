@@ -8,12 +8,12 @@ reviews/series:
 - The Boys
 reviews/authors:
 - Garth Ennis
-book/goodreads_id: 4184715
+goodreads_id: 4184715
 cover: /embeds/books/the-boys-volume-3-good-for-the-soul.jpg
-book/isbn: '1933305924'
-book/isbn13: '9781933305929'
+isbn: '1933305924'
+isbn13: '9781933305929'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [3]
 ---
 *Warning: NSFW*  

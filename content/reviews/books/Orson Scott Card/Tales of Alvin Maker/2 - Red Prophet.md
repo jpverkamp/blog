@@ -8,12 +8,12 @@ reviews/series:
 - Tales of Alvin Maker
 reviews/authors:
 - Orson Scott Card
-book/goodreads_id: 7968
+goodreads_id: 7968
 cover: /embeds/books/red-prophet.jpg
-book/isbn: 0812524268
-book/isbn13: '9780812524260'
+isbn: 0812524268
+isbn13: '9780812524260'
 rating: 3
-book/pages: 311
+page_count: 311
 series_index: [2]
 ---
 Take a little [Magical Native American](http://tvtropes.org/pmwiki/pmwiki.php/Main/MagicalNativeAmerican), a little [Noble Savage](http://tvtropes.org/pmwiki/pmwiki.php/Main/NobleSavage), and a little [White Man's Burden](http://tvtropes.org/pmwiki/pmwiki.php/Main/WhiteMansBurden) and you get a pretty good idea of what Red Prophet is like.  

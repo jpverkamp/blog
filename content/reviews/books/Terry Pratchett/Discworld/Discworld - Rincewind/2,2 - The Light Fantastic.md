@@ -9,12 +9,12 @@ reviews/series:
 - Discworld - Rincewind
 reviews/authors:
 - Terry Pratchett
-book/goodreads_id: 34506
+goodreads_id: 34506
 cover: /embeds/books/the-light-fantastic.jpg
-book/isbn: '0061020702'
-book/isbn13: '9780061020704'
+isbn: '0061020702'
+isbn13: '9780061020704'
 rating: 4
-book/pages: 277
+page_count: 277
 series_index: [2, 2]
 ---
 I still feel like The Light Fantastic and The Color of Magic could really be combined into a single larger novel, given that the second takes off running pretty much where there first went off... and promptly dumps Rincewind and Twoflower back onto the disc somehow.  

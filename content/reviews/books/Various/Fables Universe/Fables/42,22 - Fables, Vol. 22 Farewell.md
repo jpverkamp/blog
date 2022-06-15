@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 23012547
+goodreads_id: 23012547
 cover: /embeds/books/fables-vol-22-farewell.jpg
-book/isbn: '1401252338'
-book/isbn13: '9781401252335'
+isbn: '1401252338'
+isbn13: '9781401252335'
 rating: 5
-book/pages: 160
+page_count: 160
 series_index: [22, 42]
 ---
 And so it ends. It's been an awfully long strange trip, that probably overstayed it's welcome just a bit. But on the whole it's been quite the story and I'm glad to have read it.  

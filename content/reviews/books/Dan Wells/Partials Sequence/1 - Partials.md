@@ -8,12 +8,12 @@ reviews/series:
 - Partials Sequence
 reviews/authors:
 - Dan Wells
-book/goodreads_id: 12476820
+goodreads_id: 12476820
 cover: /embeds/books/partials.jpg
-book/isbn: '0062071041'
-book/isbn13: '9780062071040'
+isbn: '0062071041'
+isbn13: '9780062071040'
 rating: 4
-book/pages: 468
+page_count: 468
 series_index: [1]
 ---
 The story of Partials takes place 11 years after humanity lost a terrible war. Basically, we created super soldiers (Partials) to fight for us. Of course, after they won the war they turned on us... Worse yet, right at the same time, there was a virus which killed 99.96% of humanity--including any new pregnancies.  

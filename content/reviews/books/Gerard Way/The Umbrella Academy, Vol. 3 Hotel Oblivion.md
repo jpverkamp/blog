@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Gerard Way
-book/goodreads_id: 21801668
+goodreads_id: 21801668
 cover: /embeds/books/the-umbrella-academy-vol-3-hotel-oblivion.jpg
-book/isbn: '1506711421'
-book/isbn13: '9781506711423'
+isbn: '1506711421'
+isbn13: '9781506711423'
 rating: 4
-book/pages: 216
+page_count: 216
 ---
 And so it ends... (for now?)  
 

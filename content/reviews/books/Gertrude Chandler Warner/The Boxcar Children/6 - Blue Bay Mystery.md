@@ -8,12 +8,12 @@ reviews/series:
 - The Boxcar Children
 reviews/authors:
 - Gertrude Chandler Warner
-book/goodreads_id: 906072
+goodreads_id: 906072
 cover: /embeds/books/blue-bay-mystery.jpg
-book/isbn: 0807507946
-book/isbn13: '9780807507940'
+isbn: 0807507946
+isbn13: '9780807507940'
 rating: 4
-book/pages: 157
+page_count: 157
 series_index: [6]
 ---
 Vacation this summer? Let's get purposely stranded on a tropical island!  

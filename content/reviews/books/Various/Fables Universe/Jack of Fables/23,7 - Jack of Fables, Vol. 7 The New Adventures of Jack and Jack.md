@@ -9,12 +9,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 7424524
+goodreads_id: 7424524
 cover: /embeds/books/jack-of-fables-vol-7-the-new-adventures-of-jack-and-jack.jpg
-book/isbn: '1401227120'
-book/isbn13: '9781401227128'
+isbn: '1401227120'
+isbn13: '9781401227128'
 rating: 4
-book/pages: 128
+page_count: 128
 series_index: [7, 23]
 ---
 And now we return you to our regularly scheduled Jack of the Fables, where things are getting increasinly weirdly meta.  

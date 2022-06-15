@@ -8,12 +8,12 @@ reviews/series:
 - Pendragon
 reviews/authors:
 - D.J. MacHale
-book/goodreads_id: 536982
+goodreads_id: 536982
 cover: /embeds/books/the-never-war.jpg
-book/isbn: '1597372552'
-book/isbn13: '9781597372558'
+isbn: '1597372552'
+isbn13: '9781597372558'
 rating: 4
-book/pages: 352
+page_count: 352
 series_index: [3]
 ---
 > “You want to know why we're the ones responsible?" Gunny asked.  

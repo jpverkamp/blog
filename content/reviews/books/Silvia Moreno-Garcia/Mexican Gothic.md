@@ -11,12 +11,12 @@ bingo-data:
   - 2x3+
 reviews/authors:
 - Silvia Moreno-Garcia
-book/goodreads_id: 53152636
+goodreads_id: 53152636
 cover: /embeds/books/mexican-gothic.jpg
-book/isbn: 0525620788
-book/isbn13: '9780525620785'
+isbn: 0525620788
+isbn13: '9780525620785'
 rating: 5
-book/pages: 301
+page_count: 301
 ---
 The reviews of {{< goodreads book="Mexican Gothic" text=" Mexican Gothic " >}} are ... divided to say the least. There's more than a handfull of glowing five star reviews and a smaller but still significant number that just didn't get what the fuss was about. Halfway through... I totally get it.  
 

@@ -6,11 +6,11 @@ reviews/lists:
 - 2019 Book Reviews
 reviews/authors:
 - Frank Herbert
-book/goodreads_id: 43419431
+goodreads_id: 43419431
 cover: /embeds/books/dune.jpg
-book/isbn: 059309932X
-book/isbn13: '9780593099322'
-book/pages: 658
+isbn: 059309932X
+isbn13: '9780593099322'
+page_count: 658
 ---
 >  I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.  
 

@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 41696
+goodreads_id: 41696
 cover: /embeds/books/black-wind.jpg
-book/isbn: '0425204235'
-book/isbn13: '9780425204238'
+isbn: '0425204235'
+isbn13: '9780425204238'
 rating: 3
-book/pages: 639
+page_count: 639
 series_index: [18]
 ---
 After 18 of these, they're starting to sound awfully familiar. Basically, combine a bit of the Japanese influence from {{< goodreads book="Dragon" >}} and a bit of the mysterious deaths on islands from {{< goodreads book="Shock Wave" >}} and you have {{< goodreads book="Black Wind" >}}. Doesn't make it bad by any stretch of the imagination... just samey.  

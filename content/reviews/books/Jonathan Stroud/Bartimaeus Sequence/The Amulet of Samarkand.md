@@ -8,12 +8,12 @@ reviews/series:
 - Bartimaeus Sequence
 reviews/authors:
 - Jonathan Stroud
-book/goodreads_id: 334123
+goodreads_id: 334123
 cover: /embeds/books/the-amulet-of-samarkand.jpg
-book/isbn: 078681859X
-book/isbn13: '9780786818594'
+isbn: 078681859X
+isbn13: '9780786818594'
 rating: 5
-book/pages: 462
+page_count: 462
 series_index: [0]
 ---
 > And then, as if written by the hand of a bad novelist, an incredible thing happened.

@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 82638
+goodreads_id: 82638
 cover: /embeds/books/fullmetal-alchemist-vol-13.jpg
-book/isbn: '1421511584'
-book/isbn13: '9781421511580'
+isbn: '1421511584'
+isbn13: '9781421511580'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [13]
 ---
 Portals! Father! What is even going ON?!  

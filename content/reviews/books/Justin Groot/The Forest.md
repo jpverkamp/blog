@@ -6,10 +6,10 @@ reviews/lists:
 - 2018 Book Reviews
 reviews/authors:
 - Justin Groot
-book/goodreads_id: 28001090
+goodreads_id: 28001090
 cover: /embeds/books/the-forest.jpg
 rating: 4
-book/pages: 158
+page_count: 158
 ---
 {{< goodreads book="The Forest" >}} came out of [/r/WritingPrompts](https://www.reddit.com/r/WritingPrompts/comments/2ueggh/wp_instead_of_oceans_they_are_all_big_forests/co7rxc7/):  
 

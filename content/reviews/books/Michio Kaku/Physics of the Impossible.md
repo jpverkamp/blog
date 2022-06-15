@@ -5,12 +5,12 @@ reviews/lists:
 - 2022 Book Reviews
 reviews/authors:
 - Michio Kaku
-book/goodreads_id: 1168341
+goodreads_id: 1168341
 cover: /embeds/books/physics-of-the-impossible.jpg
-book/isbn: 0385520697
-book/isbn13: '9780385520690'
+isbn: 0385520697
+isbn13: '9780385520690'
 rating: 5
-book/pages: 329
+page_count: 329
 ---
 Physics of the Impossible is a really great book. It goes into a wide variety of primarily science fictional topics in decreasingly order of likelihood and gets into how each works (so far as they do work with what we know now) and what it would take to make them possible. There's just enough scientific background that I understood most of it and could stretch for the rest, with pointers for what to search for to learn more, which is always a good way to go. 
 

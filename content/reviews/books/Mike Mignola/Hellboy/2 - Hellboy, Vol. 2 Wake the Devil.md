@@ -8,12 +8,12 @@ reviews/series:
 - Hellboy
 reviews/authors:
 - Mike Mignola
-book/goodreads_id: 102459
+goodreads_id: 102459
 cover: /embeds/books/hellboy-vol-2-wake-the-devil.jpg
-book/isbn: '1593070950'
-book/isbn13: '9781593070953'
+isbn: '1593070950'
+isbn13: '9781593070953'
 rating: 5
-book/pages: 144
+page_count: 144
 series_index: [2]
 ---
 ![](/embeds/books/attachments/hellboy-vol-2-wake-the-devil-x-1.jpg)  

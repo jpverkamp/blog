@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Peter Milligan
-book/goodreads_id: 45429584
+goodreads_id: 45429584
 cover: /embeds/books/hellblazer-vol-22-regeneration.jpg
-book/isbn: '1401295681'
-book/isbn13: '9781401295684'
+isbn: '1401295681'
+isbn13: '9781401295684'
 rating: 4
-book/pages: 260
+page_count: 260
 series_index: [22]
 ---
 Some holiday cheer (nothing deep but they’re neat enough), a new girl gone very very wrong, and Chas getting to be the hero. A good volume. 

@@ -8,10 +8,10 @@ reviews/series:
 - Boundary Magic
 reviews/authors:
 - Melissa F. Olson
-book/goodreads_id: 24369122
+goodreads_id: 24369122
 cover: /embeds/books/boundary-crossed.jpg
 rating: 4
-book/pages: 302
+page_count: 302
 series_index: [1]
 ---
 > The third time I died was early on a Monday morning, a week after Labor Day.

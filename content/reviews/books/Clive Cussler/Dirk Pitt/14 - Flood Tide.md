@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 559889
+goodreads_id: 559889
 cover: /embeds/books/flood-tide.jpg
-book/isbn: '0671000314'
-book/isbn13: '9780671000318'
+isbn: '0671000314'
+isbn13: '9780671000318'
 rating: 5
-book/pages: 560
+page_count: 560
 series_index: [14]
 ---
 > Pitt also studied the shattered windshield, the splintered engine hatch, the holes stitched across the bow, the wisp of dark smoke rising from the engine compartment. "If you'd arrived two seconds later, Admiral Sandecker would be stuck with the chore of writing my eulogy."  

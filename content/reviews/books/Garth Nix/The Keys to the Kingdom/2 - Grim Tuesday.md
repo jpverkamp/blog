@@ -8,12 +8,12 @@ reviews/series:
 - The Keys to the Kingdom
 reviews/authors:
 - Garth Nix
-book/goodreads_id: 47620
+goodreads_id: 47620
 cover: /embeds/books/grim-tuesday.jpg
-book/isbn: 0439703700
-book/isbn13: '9780439703703'
+isbn: 0439703700
+isbn13: '9780439703703'
 rating: 4
-book/pages: 336
+page_count: 336
 series_index: [2]
 ---
 Of course they're all going to take place over a week (Earth time)...  

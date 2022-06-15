@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 22716573
+goodreads_id: 22716573
 cover: /embeds/books/attack-on-titan-vol-15.jpg
-book/isbn: '1612629792'
-book/isbn13: '9781612629797'
+isbn: '1612629792'
+isbn13: '9781612629797'
 rating: 5
-book/pages: 192
+page_count: 192
 series_index: [15]
 ---
 Woo boy. More twists and turns on the Titan front, more on the whole revolution front, and just a whole pile of madness in general.  

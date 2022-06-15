@@ -8,12 +8,12 @@ reviews/series:
 - Fables Universe
 reviews/authors:
 - Bill Willingham
-book/goodreads_id: 21322
+goodreads_id: 21322
 cover: /embeds/books/fables-1001-nights-of-snowfall.jpg
-book/isbn: '1401203671'
-book/isbn13: '9781401203672'
+isbn: '1401203671'
+isbn13: '9781401203672'
 rating: 4
-book/pages: 140
+page_count: 140
 series_index: [11]
 ---
 {{< goodreads book="Fables: 1001 Nights of Snowfall" text=" Fables: 1001 Nights of Snowfall " >}} . [ One Thousand and One Nights ](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights) [^funfact], if the storyteller were Snow White, captured on her way to the Arabian Fables to make a pact against the Adversary.  

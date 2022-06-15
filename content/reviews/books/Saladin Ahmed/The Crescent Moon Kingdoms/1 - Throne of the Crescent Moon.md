@@ -8,12 +8,12 @@ reviews/series:
 - The Crescent Moon Kingdoms
 reviews/authors:
 - Saladin Ahmed
-book/goodreads_id: 11487807
+goodreads_id: 11487807
 cover: /embeds/books/throne-of-the-crescent-moon.jpg
-book/isbn: '0756407117'
-book/isbn13: '9780756407117'
+isbn: '0756407117'
+isbn13: '9780756407117'
 rating: 5
-book/pages: 274
+page_count: 274
 series_index: [1]
 ---
 I really liked this book.  

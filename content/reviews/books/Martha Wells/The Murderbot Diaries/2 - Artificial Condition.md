@@ -7,10 +7,10 @@ reviews/series:
 - The Murderbot Diaries
 reviews/authors:
 - Martha Wells
-book/goodreads_id: 36223860
+goodreads_id: 36223860
 cover: /embeds/books/artificial-condition.jpg
 rating: 5
-book/pages: 149
+page_count: 149
 series_index: [2]
 ---
 > When constructs were first developed, they were originally supposed to have a pre-sentient level of intelligence, like the dumber variety of bot. But you can’t put something as dumb as a hauler bot in charge of security for anything without spending even more money for expensive company-employed human supervisors. So they made us smarter. The anxiety and depression were side effects.

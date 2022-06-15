@@ -8,12 +8,12 @@ reviews/series:
 - The Borrowers
 reviews/authors:
 - Mary Norton
-book/goodreads_id: 145386
+goodreads_id: 145386
 cover: /embeds/books/the-borrowers-avenged.jpg
-book/isbn: 015204731X
-book/isbn13: '9780152047313'
+isbn: 015204731X
+isbn13: '9780152047313'
 rating: 4
-book/pages: 298
+page_count: 298
 series_index: [5]
 ---
 That's a bit of an odd ending.  

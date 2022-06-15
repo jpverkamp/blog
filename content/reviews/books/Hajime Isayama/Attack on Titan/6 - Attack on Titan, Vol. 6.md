@@ -8,12 +8,12 @@ reviews/series:
 - Attack on Titan
 reviews/authors:
 - Hajime Isayama
-book/goodreads_id: 17262714
+goodreads_id: 17262714
 cover: /embeds/books/attack-on-titan-vol-6.jpg
-book/isbn: '1612622550'
-book/isbn13: '9781612622552'
+isbn: '1612622550'
+isbn13: '9781612622552'
 rating: 5
-book/pages: 208
+page_count: 208
 series_index: [6]
 ---
 Whoo boy onward we go. People (at least the Survey folks) are really beginning to more or less accept Eren and that he might actually not be the only human that can Titan (or Titan that can human?). It's a mission to discover the past and whatever other secrets that might be happening and all sorts of crazy things happen:  

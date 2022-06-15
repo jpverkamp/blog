@@ -8,12 +8,12 @@ reviews/series:
 - Fullmetal Alchemist
 reviews/authors:
 - Hiromu Arakawa
-book/goodreads_id: 866
+goodreads_id: 866
 cover: /embeds/books/fullmetal-alchemist-vol-9.jpg
-book/isbn: 142150460X
-book/isbn13: '9781421504605'
+isbn: 142150460X
+isbn13: '9781421504605'
 rating: 5
-book/pages: 178
+page_count: 178
 series_index: [9]
 ---
 Man this story is getting crazy. Both in the worldbuild aspects (we keep learning more about how souls/homunculi/chimeras work) and in a more 'traditional' sort: death and PTSD. It's so well written and drawn. I'm quite enjoying this.  

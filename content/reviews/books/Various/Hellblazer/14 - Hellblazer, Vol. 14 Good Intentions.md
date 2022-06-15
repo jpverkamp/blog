@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Brian Azzarello
-book/goodreads_id: 28007964
+goodreads_id: 28007964
 cover: /embeds/books/hellblazer-vol-14-good-intentions.jpg
-book/isbn: '1401263739'
-book/isbn13: '9781401263737'
+isbn: '1401263739'
+isbn13: '9781401263737'
 rating: 4
-book/pages: 384
+page_count: 384
 series_index: [14]
 ---
 That’s a few hard hitting stories. Hard Times is about Constantine in prison. Weird art style and hard to read. Good Intentions is the aftermath… people are terrible. Freezes Over it’s a pretty good locked room mystery with just the possibility of something more. 

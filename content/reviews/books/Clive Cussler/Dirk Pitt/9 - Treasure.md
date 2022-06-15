@@ -8,12 +8,12 @@ reviews/series:
 - Dirk Pitt
 reviews/authors:
 - Clive Cussler
-book/goodreads_id: 85737
+goodreads_id: 85737
 cover: /embeds/books/treasure.jpg
-book/isbn: '0671704656'
-book/isbn13: '9780671704650'
+isbn: '0671704656'
+isbn13: '9780671704650'
 rating: 4
-book/pages: 547
+page_count: 547
 series_index: [9]
 ---
 How do you connect a plane crash based on two overlapping terrorist plots, hidden mob-like family, a Mexican revolution based on bringing back the might of the Aztec empire, an Egyptian revolution based on fundamental Islam, a Roman ship far from where any Roman ship has any right to be, and the lost Library of Alexandria?  

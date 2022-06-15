@@ -7,12 +7,12 @@ reviews/series:
 - Hellblazer
 reviews/authors:
 - Jamie Delano
-book/goodreads_id: 13228111
+goodreads_id: 13228111
 cover: /embeds/books/hellblazer-vol-3-the-fear-machine.jpg
-book/isbn: '1401235190'
-book/isbn13: '9781401235192'
+isbn: '1401235190'
+isbn13: '9781401235192'
 rating: 4
-book/pages: 239
+page_count: 239
 series_index: [3]
 ---
 Not terrible, but also not great. It starts very slowly with a hippie commune and takes a few issues to get going and gets downright weird at a few points. But enjoyable enough after that.

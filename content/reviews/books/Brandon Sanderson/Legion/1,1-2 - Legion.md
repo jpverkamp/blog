@@ -8,10 +8,10 @@ reviews/series:
 - Legion
 reviews/authors:
 - Brandon Sanderson
-book/goodreads_id: 13452375
+goodreads_id: 13452375
 cover: /embeds/books/legion.jpg
 rating: 4
-book/pages: 88
+page_count: 88
 series_index: [1]
 ---
 After reading so may of Sanderson's cosmere novels, it's a bit odd to read one that isn't. There's still a 'Sanderson feel' to it, both in how the characters think and interact and also in this novel's version of a magic system.  

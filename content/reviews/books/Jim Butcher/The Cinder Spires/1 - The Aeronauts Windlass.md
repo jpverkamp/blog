@@ -8,12 +8,12 @@ reviews/series:
 - The Cinder Spires
 reviews/authors:
 - Jim Butcher
-book/goodreads_id: 24876258
+goodreads_id: 24876258
 cover: /embeds/books/the-aeronauts-windlass.jpg
-book/isbn: 0451466802
-book/isbn13: '9780451466808'
+isbn: 0451466802
+isbn13: '9780451466808'
 rating: 5
-book/pages: 630
+page_count: 630
 series_index: [1]
 ---
 Well. He did it again.  

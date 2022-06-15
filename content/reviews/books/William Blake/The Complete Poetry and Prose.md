@@ -6,12 +6,12 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - William Blake
-book/goodreads_id: 782580
+goodreads_id: 782580
 cover: /embeds/books/the-complete-poetry-and-prose.jpg
-book/isbn: 0385152132
-book/isbn13: '9780385152136'
+isbn: 0385152132
+isbn13: '9780385152136'
 rating: 4
-book/pages: 1024
+page_count: 1024
 ---
 A long time ago (in high school), I was told by a teacher that he liked my poetry. It reminded him of William Blake. It's the sort of comment that sticks with you. For me, I still remember it from time to time a decade and change later. It's been a while since I've read any Blake, so perhaps it's time for another go.
 

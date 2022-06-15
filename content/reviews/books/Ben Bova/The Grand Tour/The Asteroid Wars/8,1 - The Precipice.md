@@ -9,12 +9,12 @@ reviews/series:
 - The Grand Tour
 reviews/authors:
 - Ben Bova
-book/goodreads_id: 267302
+goodreads_id: 267302
 cover: /embeds/books/the-precipice.jpg
-book/isbn: 0812579895
-book/isbn13: '9780812579895'
+isbn: 0812579895
+isbn13: '9780812579895'
 rating: 4
-book/pages: 432
+page_count: 432
 series_index: [1, 8]
 ---
 {{< goodreads book="The Precipice" text=" The Precipice" >}} does two things rather well: it introduces technology that will change the Grand Tour universe and it makes me actually ... kind of like Dan Randolph.
