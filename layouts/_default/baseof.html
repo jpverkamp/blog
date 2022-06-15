@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html onclick >
 <head>
-    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{- if .Draft -}}[DRAFT]{{- end -}}{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,6 +18,7 @@
 
         <div id="page-content-wrapper">
             <div id="page-content">
+            {{- if .Draft -}}<h1 style="color: red;">WARNING: DRAFT</h1>{{- end -}}
             {{- block "main" . }}{{ end -}}
             </div>
         </div>
