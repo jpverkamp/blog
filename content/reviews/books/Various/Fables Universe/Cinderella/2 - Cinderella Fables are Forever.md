@@ -15,7 +15,7 @@ isbn: '1401233856'
 isbn13: '9781401233853'
 rating: 5
 page_count: 154
-series_index: [0, 27]
+series_index: [2, 27]
 ---
 {{< goodreads book="Cinderella: Fables are Forever" >}} in a nutshell:  
 

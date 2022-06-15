@@ -15,7 +15,7 @@ isbn: '1401245935'
 isbn13: '9781401245931'
 rating: 5
 page_count: 144
-series_index: [0, 32]
+series_index: [3, 32]
 ---
 So.  {{< spoiler >}}Charming{{< /spoiler >}}  survived. And now he's a Maharaja in a world of Indian Fables. I guess I shouldn't really be surprised.  
 

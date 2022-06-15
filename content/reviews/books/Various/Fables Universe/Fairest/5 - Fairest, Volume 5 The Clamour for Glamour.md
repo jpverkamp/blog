@@ -15,7 +15,7 @@ isbn: '1401254268'
 isbn13: '9781401254261'
 rating: 5
 page_count: 144
-series_index: [0, 40]
+series_index: [5, 40]
 ---
 Of all the the ways for Fairest to end, Reynard knocking up a random mundie girl, a murder mystery among the non-human fables, and the final tale of Goldielocks was not where I expected it to go.  
 
