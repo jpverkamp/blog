@@ -18,7 +18,11 @@
             {{- if (or (in $squares $index) (in $squares $indexHard)) -}}
             <a href="{{ $page.Permalink }}">
                 <figure>
+                    {{ if isset .Params "cover" }}
+                    <img src="{{ .Params.cover }}">
+                    {{ else }}
                     {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+                    {{ end }} 
                         <figcaption>{{ .Title }}</figcaption>
                 </figure>
             </a>
