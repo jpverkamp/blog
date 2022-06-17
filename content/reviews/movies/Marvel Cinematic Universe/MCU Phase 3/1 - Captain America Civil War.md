@@ -10,6 +10,25 @@ source:
 - Disney+
 cover: /embeds/movies/captain-america-civil-war.jpg
 series_index: [13, 1]
+imdb_id: '3498820'
+reviews/cinematographers:
+- Trent Opaloch
+reviews/composers:
+- Henry Jackman
+reviews/directors:
+- Anthony Russo
+- Joe Russo
+reviews/editors:
+- Jeffrey Ford
+- Matthew Schmidt
+reviews/writers:
+- Christopher Markus
+- Stephen McFeely
+- Joe Simon
+- Jack Kirby
+- Mark Millar
+- Steven McNiven
+reviews/year: 2016
 ---
 Captain America: Civil War isn't really a Captain America movie. While it deals with the Winter Solder to some extent, as much as that it's an Iron Man movie since {{< spoiler >}}he killed Stark's parents...{{< /spoiler >}}. But really, it's an Avengers movie. Everyone shows up, takes sides, and eventually ends up a great big superhero fight. And It... Is... Spectacular. In my opinion, it's the best MCU movie to this point, beating out any of the solo outings and even the first two Avengers movies.
 

@@ -4,6 +4,21 @@ date: 2012-06-05 04:55:16
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/snow-white.jpg
+imdb_id: '1735898'
+reviews/cinematographers:
+- Greig Fraser
+reviews/composers:
+- James Newton Howard
+reviews/directors:
+- Rupert Sanders
+reviews/editors:
+- Conrad Buff IV
+- Neil Smith
+reviews/writers:
+- Evan Daugherty
+- John Lee Hancock
+- Hossein Amini
+reviews/year: 2012
 ---
 Oof. I guess it was pretty. That's something. There were some really technically impressive scenes, like the stag and the dwarves and the glittery mirror warrior things.
 

@@ -4,6 +4,18 @@ date: 2021-10-24
 reviews/lists:
 - 2021 Movie Reviews
 cover: /embeds/movies/knives-out.jpg
+imdb_id: '8946378'
+reviews/cinematographers:
+- Steve Yedlin
+reviews/composers:
+- Nathan Johnson
+reviews/directors:
+- Rian Johnson
+reviews/editors:
+- Bob Ducsay
+reviews/writers:
+- Rian Johnson
+reviews/year: 2019
 ---
 
 > Lieutenant Elliott: I'm sorry this is an open and shut case of suicide and quite frankly Benny we are getting to the point where I have to ask you what we're doing here.

@@ -4,6 +4,22 @@ date: 2013-07-26 04:55:23
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/ripd.jpg
+imdb_id: 0790736
+reviews/cinematographers:
+- "Alwin H. K\xFCchler"
+reviews/composers:
+- Christophe Beck
+reviews/directors:
+- Robert Schwentke
+reviews/editors:
+- Mark Helfrich
+reviews/writers:
+- Phil Hay
+- Matt Manfredi
+- David Dobkin
+- Peter M. Lenkov
+- Lucas Marangon
+reviews/year: 2013
 ---
  I've heard it said that R.I.P.D is essentially Men in Black with undead instead of aliens. I can see where they're coming from, but there's a decent bit that doesn't quite match up.
 

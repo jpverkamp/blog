@@ -4,6 +4,18 @@ date: 2013-10-12
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/don-jon.jpg
+imdb_id: '2229499'
+reviews/cinematographers:
+- Thomas Kloss
+reviews/composers:
+- Nathan Johnson
+reviews/directors:
+- Joseph Gordon-Levitt
+reviews/editors:
+- Lauren Zuckerman
+reviews/writers:
+- Joseph Gordon-Levitt
+reviews/year: 2013
 ---
 This is going to be a hard one[^1]. I went with my wife on the suggestion of a friend of hers--I think perhaps something was lost in translations. It's certainly not the usual sort of movie that either she or I usually goes for.
 

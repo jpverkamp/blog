@@ -9,6 +9,22 @@ source:
 - Disney+
 cover: /embeds/movies/pirates-of-the-caribbean-at-world-s-end.jpg
 series_index: [3]
+imdb_id: 0449088
+reviews/cinematographers:
+- Dariusz Wolski
+reviews/composers:
+- Hans Zimmer
+reviews/directors:
+- Gore Verbinski
+reviews/editors:
+- Stephen E. Rivkin
+- Craig Wood
+reviews/writers:
+- Ted Elliott
+- Terry Rossio
+- Stuart Beattie
+- Jay Wolpert
+reviews/year: 2007
 ---
 There is so much to love about this movie. 
 

@@ -4,6 +4,20 @@ date: 2013-11-10
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/enders-game.jpg
+imdb_id: '1731141'
+reviews/cinematographers:
+- Donald McAlpine
+reviews/composers:
+- Steve Jablonsky
+reviews/directors:
+- Gavin Hood
+reviews/editors:
+- Lee Smith
+- Zach Staenberg
+reviews/writers:
+- Gavin Hood
+- Orson Scott Card
+reviews/year: 2013
 ---
 This one definitely goes on that list of movies I never thought would get made.
 

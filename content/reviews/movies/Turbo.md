@@ -4,6 +4,20 @@ date: 2013-07-28 04:55:28
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/turbo.jpg
+imdb_id: '1860353'
+reviews/cinematographers:
+- Chris Stover
+reviews/composers:
+- Henry Jackman
+reviews/directors:
+- David Soren
+reviews/editors:
+- James Ryan
+reviews/writers:
+- David Soren
+- Darren Lemke
+- Robert Siegel
+reviews/year: 2013
 ---
 There's a saying in science fiction: you get one free pass; one thing that you're allowed to just let the audience assume. This could be the existence of the warp drive / replicators in Star Trek or the force in Star Wars.
 

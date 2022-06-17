@@ -6,6 +6,27 @@ reviews/lists:
 source:
 - HBOMax
 cover: /embeds/movies/space-jam-a-new-legacy.jpg
+imdb_id: '3554046'
+reviews/cinematographers:
+- Salvatore Totino
+reviews/composers:
+- Kris Bowers
+reviews/directors:
+- Malcolm D. Lee
+reviews/editors:
+- Bob Ducsay
+reviews/writers:
+- Leo Benvenuti
+- Steve Rudnick
+- Timothy Harris
+- Herschel Weingrod
+- Juel Taylor
+- Tony Rettenmaier
+- Keenan Coogler
+- Terence Nance
+- Jesse Gordon
+- Celeste Ballard
+reviews/year: 2021
 ---
 
 > Bugs Bunny: So, you want me, a talking cartoon bunny, to play with you, an NBA superstar, in a high-stakes basketball game? 

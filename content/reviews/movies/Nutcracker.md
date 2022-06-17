@@ -4,6 +4,19 @@ date: 2021-12-11
 reviews/lists:
 - 2021 Movie Reviews
 cover: /embeds/movies/nutcracker.jpg
+imdb_id: 0091658
+reviews/cinematographers:
+- Stephen H. Burum
+reviews/directors:
+- Carroll Ballard
+reviews/editors:
+- John Nutt
+- Michael Silvers
+reviews/writers:
+- Kent Stowell
+- Maurice Sendak
+- E.T.A. Hoffmann
+reviews/year: 1986
 ---
 Well that's a truly bizarre adaptation of the Nutcracker. Or I suppose all of the other versions are bizarre, given that this is supposed to be as 'close as possible' to the original Maurice Sendak version. 
 

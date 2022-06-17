@@ -9,6 +9,26 @@ source:
 - Disney+
 cover: /embeds/movies/moana.jpg
 series_index: [56]
+imdb_id: '3521164'
+reviews/composers:
+- Mark Mancina
+reviews/directors:
+- Ron Clements
+- John Musker
+- Don Hall
+- Chris Williams
+reviews/editors:
+- Jeff Draheim
+reviews/writers:
+- Jared Bush
+- Ron Clements
+- John Musker
+- Chris Williams
+- Don Hall
+- Pamela Ribon
+- Aaron Kandell
+- Jordan Kandell
+reviews/year: 2016
 ---
 > 🎵 You're welcome. 🎵
 

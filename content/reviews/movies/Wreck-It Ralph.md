@@ -4,6 +4,21 @@ date: 2012-11-05 04:15:54
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/wreck-it.jpg
+imdb_id: '1772341'
+reviews/cinematographers:
+- Rob Dressel
+reviews/composers:
+- Henry Jackman
+reviews/directors:
+- Rich Moore
+reviews/editors:
+- Tim Mertens
+reviews/writers:
+- Rich Moore
+- Phil Johnston
+- Jim Reardon
+- Jennifer Lee
+reviews/year: 2012
 ---
 Okay, now that was just a fun movie.  Sometimes, when you have what's ostensibly a kid's movie, you get what basically amounts to a {{<crosslink text="pile of juvenile humor" title="Hotel Transylvania">}}. Granted, Wreck-It Ralph had a few such moments (duty/doody), but in those cases they came from the adorable little girl, so it just felt much more organic than when you had adult characters doing the same.
 

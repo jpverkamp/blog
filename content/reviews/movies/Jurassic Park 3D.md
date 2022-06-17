@@ -4,6 +4,19 @@ date: 2013-05-02 04:55:53
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/jurassic-park-3d.jpg
+imdb_id: 0107290
+reviews/cinematographers:
+- Dean Cundey
+reviews/composers:
+- John Williams
+reviews/directors:
+- Steven Spielberg
+reviews/editors:
+- Michael Kahn
+reviews/writers:
+- Michael Crichton
+- David Koepp
+reviews/year: 1993
 ---
  I wasn't actually sure if I wanted to add this to my 2013 Movie Rankings, since really this isn't a new movie for 2013. But in the end, it is a movie and I did see it, so it seems worthwhile to post about. :smile:
 

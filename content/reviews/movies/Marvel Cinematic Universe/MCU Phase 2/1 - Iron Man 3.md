@@ -14,6 +14,26 @@ cover: /embeds/movies/iron-man-3.jpg
 series_index: [7, 1]
 aliases: 
 - /2013/05/06/iron-man-3/
+imdb_id: '1300854'
+reviews/cinematographers:
+- John Toll
+reviews/composers:
+- Brian Tyler
+reviews/directors:
+- Shane Black
+reviews/editors:
+- Peter S. Elliot
+- Jeffrey Ford
+reviews/writers:
+- Drew Pearce
+- Shane Black
+- Stan Lee
+- Don Heck
+- Larry Lieber
+- Jack Kirby
+- Warren Ellis
+- Adi Granov
+reviews/year: 2013
 ---
 For some reason, I Iron Man 3 as a fairly week entry, but looking back to when I last watched it in theaters ([see below](#original-2013-review))... I actually liked it about as much then I do now.
 

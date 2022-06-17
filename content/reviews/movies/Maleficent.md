@@ -4,6 +4,27 @@ date: 2014-06-14
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/maleficent.jpg
+imdb_id: '1587310'
+reviews/cinematographers:
+- Dean Semler
+reviews/composers:
+- James Newton Howard
+reviews/directors:
+- Robert Stromberg
+reviews/editors:
+- Chris Lebenzon
+- Richard Pearson
+reviews/writers:
+- Linda Woolverton
+- Charles Perrault
+- Milt Banta
+- Winston Hibler
+- Bill Peet
+- Erdman Penner
+- Joe Rinaldi
+- Ted Sears
+- Ralph Wright
+reviews/year: 2014
 ---
 Maleficient was magnificent.
 

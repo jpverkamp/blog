@@ -31,10 +31,13 @@ permalinks:
 
 taxonomies:
     series: series
-
+    
     reviews/list: reviews/lists
     reviews/series: reviews/series
     reviews/authors: reviews/authors
+    reviews/directors: reviews/directors
+    reviews/writers: reviews/writers
+    reviews/year: reviews/year
 
     photography/type: photography/types
 

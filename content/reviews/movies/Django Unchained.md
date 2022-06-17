@@ -4,6 +4,16 @@ date: 2013-01-23 03:00:45
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/django-unchained.jpg
+imdb_id: '1853728'
+reviews/cinematographers:
+- Robert Richardson
+reviews/directors:
+- Quentin Tarantino
+reviews/editors:
+- Fred Raskin
+reviews/writers:
+- Quentin Tarantino
+reviews/year: 2012
 ---
  When I went into Django Unchained, I knew it was a Quentin Tarantino film and a relatively controversial one at that (and for him, that's saying something). Coming out of it, now I know one more: that was one heck of a movie.
 

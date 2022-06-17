@@ -4,6 +4,20 @@ date: 2012-08-16 04:55:23
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/bourne-legacy.jpg
+imdb_id: '1194173'
+reviews/cinematographers:
+- Robert Elswit
+reviews/composers:
+- James Newton Howard
+reviews/directors:
+- Tony Gilroy
+reviews/editors:
+- John Gilroy
+reviews/writers:
+- Tony Gilroy
+- Dan Gilroy
+- Robert Ludlum
+reviews/year: 2012
 ---
 So what do you get if you make a Bourne movie and take out Bourne?
 

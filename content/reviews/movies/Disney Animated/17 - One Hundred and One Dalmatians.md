@@ -9,6 +9,20 @@ source:
 - Disney+
 cover: /embeds/movies/one-hundred-and-one-dalmatians.jpg
 series_index: [17]
+imdb_id: '0055254'
+reviews/composers:
+- George Bruns
+reviews/directors:
+- Clyde Geronimi
+- Hamilton Luske
+- Wolfgang Reitherman
+reviews/editors:
+- Roy M. Brewer Jr.
+- Donald Halliday
+reviews/writers:
+- Bill Peet
+- Dodie Smith
+reviews/year: 1961
 ---
 60 years ago. Dang. And you know? It holds up. The action is solid and story aren't overly complicated but enjoyable, the animation really works (despite/because of the limitations of the time), and the villains are unambiguous and scary but not overly so. Perhaps best of all, it's the story of an absolute pile of talking dogs. What's not to love? 
 

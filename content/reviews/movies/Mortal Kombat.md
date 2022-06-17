@@ -6,6 +6,23 @@ reviews/lists:
 source:
 - HBOMax
 cover: /embeds/movies/mortal-kombat.jpg
+imdb_id: 0293429
+reviews/cinematographers:
+- Germain McMicking
+reviews/composers:
+- Benjamin Wallfisch
+reviews/directors:
+- Simon McQuoid
+reviews/editors:
+- Scott Gray
+- Dan Lebental
+reviews/writers:
+- Greg Russo
+- Dave Callaham
+- Oren Uziel
+- Ed Boon
+- John Tobias
+reviews/year: 2021
 ---
 > Shang Tsung: FINISH THEM! 
 

@@ -9,6 +9,23 @@ source:
 - Disney+
 cover: /embeds/movies/finding-nemo.jpg
 series_index: [5]
+imdb_id: '0266543'
+reviews/cinematographers:
+- Sharon Calahan
+- Jeremy Lasky
+- Jericca Cleland
+reviews/composers:
+- Thomas Newman
+reviews/directors:
+- Andrew Stanton
+- Lee Unkrich
+reviews/editors:
+- David Ian Salter
+reviews/writers:
+- Andrew Stanton
+- Bob Peterson
+- David Reynolds
+reviews/year: 2003
 ---
 
 Finding Nemo is a delightful children's movie. It's the story of a worrying dad (Marlin), a son (Nemo) trying to grow into his own self, the trouble that causes, and the lengths family can go through for one another. 

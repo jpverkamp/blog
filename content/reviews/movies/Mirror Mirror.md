@@ -4,6 +4,21 @@ date: 2012-04-02 16:55:56
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/mirror-mirror.jpg
+imdb_id: '1667353'
+reviews/cinematographers:
+- Brendan Galvin
+reviews/composers:
+- Alan Menken
+reviews/directors:
+- Tarsem Singh
+reviews/editors:
+- Robert Duffy
+- Nick Moore
+reviews/writers:
+- Marc Klein
+- Jason Keller
+- Melisa Wallack
+reviews/year: 2012
 ---
 Mirror Mirror was cute enough for a retelling of that old Snow White story, but I don't think it has quite the strength to stand on cuteness alone. Visually, it's beautiful, but that's all it is. It feels like a series of set pieces each of them self satisfied in a rather distracting manner.
 

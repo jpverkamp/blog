@@ -10,6 +10,25 @@ source:
 - Disney+
 cover: /embeds/movies/thor.jpg
 series_index: [4, 4]
+imdb_id: 0800369
+reviews/cinematographers:
+- Haris Zambarloukos
+reviews/composers:
+- Patrick Doyle
+reviews/directors:
+- Kenneth Branagh
+reviews/editors:
+- Paul Rubell
+reviews/writers:
+- Ashley Miller
+- Zack Stentz
+- Don Payne
+- J. Michael Straczynski
+- Mark Protosevich
+- Stan Lee
+- Larry Lieber
+- Jack Kirby
+reviews/year: 2011
 ---
 Thor is an odd sort of movie for the {{< wikipedia "Marvel Cinematic Universe" >}}. On one hand, it's our first foray into the more 'magical' side of the universe, with ancient Gods and the like. Although in this universe, we're led to believe that it's really just highly advanced science. On the other hand, despite a worlds spanning plot (literally, 3 of them), it still feels oddly ... small. 
 

@@ -8,6 +8,23 @@ reviews/series:
 source: 
 - Disney+
 series_index: [1]
+imdb_id: 0114709
+reviews/composers:
+- Randy Newman
+reviews/directors:
+- John Lasseter
+reviews/editors:
+- Robert Gordon
+- Lee Unkrich
+reviews/writers:
+- John Lasseter
+- Pete Docter
+- Andrew Stanton
+- Joe Ranft
+- Joss Whedon
+- Joel Cohen
+- Alec Sokolow
+reviews/year: 1995
 ---
 {{<figure class="cover-image" src="/embeds/movies/toy-story.jpg">}}
 

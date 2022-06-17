@@ -7,7 +7,30 @@ cover: /embeds/movies/the-amazing-spider-man-2.jpg
 reviews/series:
 - Spider-Man 
 - The Amazing Spider-Man
-series_index: [4, 2]
+series_index: [5, 2]
+imdb_id: '1872181'
+reviews/cinematographers:
+- Dan Mindel
+reviews/composers:
+- Michael Einziger
+- Junkie XL
+- Andrew Kawczynski
+- Johnny Marr
+- Steve Mazzaro
+- Pharrell Williams
+- Hans Zimmer
+reviews/directors:
+- Marc Webb
+reviews/editors:
+- Pietro Scalia
+reviews/writers:
+- Alex Kurtzman
+- Roberto Orci
+- Jeff Pinkner
+- James Vanderbilt
+- Stan Lee
+- Steve Ditko
+reviews/year: 2014
 ---
 I think that--for once--I was the perfect audience for this movie. Just geeky enough that I enjoy a good Spider-Man movie, but not so geeky that whatever changes they made from the comics are going to jump out / particularly bother me.
 

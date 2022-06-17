@@ -9,6 +9,43 @@ source:
 - Disney+
 cover: /embeds/movies/pocahontas.jpg
 series_index: [33]
+imdb_id: 0114148
+reviews/composers:
+- Alan Menken
+reviews/directors:
+- Mike Gabriel
+- Eric Goldberg
+reviews/editors:
+- H. Lee Peterson
+reviews/writers:
+- Carl Binder
+- Susannah Grant
+- Philip LaZebnik
+- Glen Keane
+- Joe Grant
+- Ralph Zondag
+- Burny Mattinson
+- Ed Gombert
+- Kaan Kalyon
+- Francis Glebas
+- Rob Gibbs
+- Bruce Morris
+- Todd Kurosawa
+- Duncan Marjoribanks
+- Chris Buck
+- Andrew Chapman
+- Randy Cartwright
+- Will Finn
+- Broose Johnson
+- T. Daniel Hofstedt
+- David Pruiksma
+- Nik Ranieri
+- Vincent DeFrances
+- Tom Mazzocco
+- Don Dougherty
+- Jorgen Klubien
+- Mike Gabriel
+reviews/year: 1995
 ---
 One of my favorites of the Disney animated classics. It's a straight forward enough story that at least takes some pains to show the terrible way that European settlers treated Native Americans and shows that people are people and will often try to do the right thing, given a chance. The music is wonderful and the animation is really quite something that up even today.
 

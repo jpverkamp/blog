@@ -10,6 +10,26 @@ source:
 - Disney+
 cover: /embeds/movies/ant-man-and-the-wasp.jpg
 series_index: [20, 8]
+imdb_id: '5095030'
+reviews/cinematographers:
+- Dante Spinotti
+reviews/composers:
+- Christophe Beck
+reviews/directors:
+- Peyton Reed
+reviews/editors:
+- Dan Lebental
+- Craig Wood
+reviews/writers:
+- Chris McKenna
+- Erik Sommers
+- Paul Rudd
+- Andrew Barrer
+- Gabriel Ferrari
+- Stan Lee
+- Larry Lieber
+- Jack Kirby
+reviews/year: 2018
 ---
 Ant-Man and his daughter are adorable. Especially with Luis' help. Luis is wonderful. Everyone playing Luis as he describes everyone. And Paul Rudd playing Janet van Dyne.  Add to that the interactions with/introduction of Jimmy Woo. 
 

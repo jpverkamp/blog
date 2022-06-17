@@ -4,6 +4,19 @@ date: 2013-07-07 04:55:06
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/despicable-me-2.jpg
+imdb_id: '1690953'
+reviews/composers:
+- Heitor Pereira
+- Pharrell Williams
+reviews/directors:
+- Pierre Coffin
+- Chris Renaud
+reviews/editors:
+- Gregory Perler
+reviews/writers:
+- Cinco Paul
+- Ken Daurio
+reviews/year: 2013
 ---
 I'll just cut right to the chase: if you liked the first Despicable Me, you'll almost surely like this one just as well. Heck, you might even like it a bit more.
 

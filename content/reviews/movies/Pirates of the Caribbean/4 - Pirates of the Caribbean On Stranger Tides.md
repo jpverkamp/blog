@@ -9,6 +9,23 @@ source:
 - Disney+
 cover: /embeds/movies/pirates-of-the-caribbean-on-stranger-tides.jpg
 series_index: [4]
+imdb_id: '1298650'
+reviews/cinematographers:
+- Dariusz Wolski
+reviews/composers:
+- Hans Zimmer
+reviews/directors:
+- Rob Marshall
+reviews/editors:
+- David Brenner
+- Wyatt Smith
+reviews/writers:
+- Ted Elliott
+- Terry Rossio
+- Stuart Beattie
+- Jay Wolpert
+- Tim Powers
+reviews/year: 2011
 ---
 Pirates of the Caribbean... without Bloom or Knightly? At least they still have Johnny Depp I suppose. And Barbossa--ish. 
 

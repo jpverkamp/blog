@@ -9,32 +9,17 @@
             Review: {{ .Title -}}       
         </h1>
 
-        <ul>      
-            {{- if isset .Params "reviews/authors" -}}
-            {{- range $author := index .Params "reviews/authors" }}
-            <li class="entry-subtitle">
-                By: <a href="/reviews/authors/{{ $author | urlize }}"> 
-                    {{- $author -}}
-                </a>
-            </li>
+        {{- if isset .Params "reviews/series" -}}
+        {{- range $i, $series := index .Params "reviews/series" }}
+        <h2 class="entry-subtitle">
+            Series: <a href="/reviews/series/{{ $series | urlize }}">{{- $series -}}</a>
+            {{- if isset $.Params "series_index" -}}
+                {{- $series_index := index (index $.Params "series_index") $i }}
+                {{- if (gt $series_index 0) }}: #{{ $series_index }}{{- end -}}
             {{- end -}}
-            {{- end -}}
-
-            {{- if isset .Params "reviews/series" -}}
-            {{- range $i, $series := index .Params "reviews/series" }}
-            <li class="entry-subtitle">
-                <a href="/reviews/series/{{ $series | urlize }}">
-                    {{- $series -}} 
-                    
-                </a>
-                {{- if isset $.Params "series_index" -}}
-                    {{- $series_index := index (index $.Params "series_index") $i }}
-                    {{- if (gt $series_index 0) }}: #{{ $series_index }}{{- end -}}
-                {{- end -}}
-            </li>
-            {{- end -}}
-            {{- end -}}
-        </ul>
+        </h2>
+        {{- end -}}
+        {{- end -}}
 
         <div class="entry-meta">
             {{- if not .Date.IsZero -}}

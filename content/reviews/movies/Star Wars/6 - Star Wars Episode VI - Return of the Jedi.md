@@ -9,6 +9,24 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-vi---return-of-the-jedi.jpg
 series_index: [6]
+imdb_id: 0086190
+reviews/cinematographers:
+- Alan Hume
+- Alec Mills
+reviews/composers:
+- John Williams
+reviews/directors:
+- Richard Marquand
+reviews/editors:
+- Sean Barton
+- T.M. Christopher
+- Duwayne Dunham
+- Marcia Lucas
+- George Lucas
+reviews/writers:
+- Lawrence Kasdan
+- George Lucas
+reviews/year: 1983
 ---
 You know, that is a really solid movie. I know a lot of people prefer Empire, but for whatever reason, I've always liked Return of the Jedi more. That holds true even more, although I have to say that there are a few (possibly nostalgia fueled) particulars that I like more before the special editions changed things.
 

@@ -4,6 +4,19 @@ date: 2012-12-11 04:55:10
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/life-of-pi.jpg
+imdb_id: 0454876
+reviews/cinematographers:
+- Claudio Miranda
+reviews/composers:
+- Mychael Danna
+reviews/directors:
+- Ang Lee
+reviews/editors:
+- Tim Squyres
+reviews/writers:
+- Yann Martel
+- David Magee
+reviews/year: 2012
 ---
  "I have a story that will make you believe in God."
 

@@ -10,6 +10,21 @@ source:
 - Theater
 cover: /embeds/movies/black-widow.jpg
 series_index: [24, 1]
+imdb_id: '3480822'
+reviews/cinematographers:
+- Gabriel Beristain
+reviews/composers:
+- Lorne Balfe
+reviews/directors:
+- Cate Shortland
+reviews/editors:
+- Leigh Folsom Boyd
+- Matthew Schmidt
+reviews/writers:
+- Eric Pearson
+- Jac Schaeffer
+- Ned Benson
+reviews/year: 2021
 ---
 The first time I've been to theaters since... {{< crosslink "Avengers: Endgame" >}}. Man it's been a weird few years. Which actually wraps up Black Widow pretty well.
 

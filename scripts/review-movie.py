@@ -13,15 +13,17 @@ from PIL import Image
 
 coloredlogs.install(logging.INFO)
 
-api = imdb.IMDb()
+api = imdb.Cinemagoer()
 
 TARGET_COVER_SIZE = (214, 317)
 BLOG_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')
 COVER_DIR = os.path.join(BLOG_DIR, 'static', 'embeds')
 REVIEW_BASE_DIR = os.path.join(BLOG_DIR, 'content', 'reviews')
 
+
 def slugify(text):
     return re.sub('[^a-z0-9-]+', '-', text.lower()).strip('-')
+
 
 while True:
     date = str(datetime.date.today())
@@ -47,6 +49,62 @@ while True:
         continue
 
     movie = movies[choice]
+    more_data = api.get_movie(movie.getID())
+
+    additional_headers = {}
+    keys = {
+        'imdbID': 'imdb_id',
+        'year': 'reviews/year',
+        'director': 'reviews/directors',
+        'writer': 'reviews/writers',
+        'composer': 'reviews/composers',
+        'cinematographer': 'reviews/cinematographers',
+        'editor': 'reviews/editors',
+    }
+    for key, header_key in keys.items():
+        value = more_data[key]
+
+        if isinstance(value, list):
+            value2 = []
+            for v in value:
+                v = str(v)
+
+                if v == 'None' or v == '':
+                    continue
+                if v in value2:
+                    continue
+
+                value2.append(v)
+            value = value2
+
+        additional_headers[header_key] = value
+
+    additional_headers['reviews/cast'] = {person['name']: str(person.currentRole) for person in more_data['cast']}
+
+    # Ask for series information
+    series_input = input('Part of a series? (ex "The Matrix #1" (multiple comma delimited) or leave blank to skip) ')
+    if series_input:
+        additional_headers['reviews/series'] = []
+        additional_headers['series_index'] = []
+
+        for series in series_input.split(','):
+            series_index = series.strip().split(' #')
+
+        series, index = series.split(' #')
+        series = series.strip()
+
+        if index.isdigit():
+            index = int(index)
+        else:
+            try:
+                index = float(index)
+            except ValueError:
+                pass
+
+        additional_headers['reviews/series'].append(series)
+        additional_headers['series_index'].append(index)
+    else:
+        series = None
 
     # Potentially fix the title provided if it's not a perfect match
     if title != movie['title']:
@@ -73,11 +131,16 @@ while True:
     if content_type == 'tv':
         review_dir = os.path.join(REVIEW_BASE_DIR, 'tv')
     else:
-        review_dir = os.path.join(REVIEW_BASE_DIR, content_type, year)
+        if series:
+            review_dir = os.path.join(REVIEW_BASE_DIR, content_type, series)
+            review_filename = f'{index} - {title}.md'
+
+        else:
+            review_dir = os.path.join(REVIEW_BASE_DIR, content_type)
+            review_filename = f'{title}.md'
 
     os.makedirs(review_dir, exist_ok=True)
-    
-    review_filename = f'{date}-{slug}.md'  
+
     if os.path.exists(os.path.join(review_dir, review_filename)):
         if not input(f'{review_filename} already exists, overwrite? (yN) ').lower().startswith('y'):
             continue
@@ -89,13 +152,10 @@ while True:
 title: "{title}"
 date: {date}
 draft: True
+cover: /embeds/{content_type}/{slug}.jpg
 reviews/lists:
 - {year} {"TV" if content_type == "tv" else "Movie"} Reviews
-''')
-        #yaml.dump({'data': {'imdb': dict(movie)}}, fout, default_flow_style=False)
-        fout.write(f'''---
-{{{{< figure class="cover-image" src="/embeds/{content_type}/{slug}.jpg" >}}}}
-
+{yaml.dump(additional_headers)}---
 ''')
     print()
 

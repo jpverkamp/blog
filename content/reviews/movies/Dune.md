@@ -6,6 +6,21 @@ reviews/lists:
 source:
 - HBOMax
 cover: /embeds/movies/dune.jpg
+imdb_id: '1160419'
+reviews/cinematographers:
+- Greig Fraser
+reviews/composers:
+- Hans Zimmer
+reviews/directors:
+- Denis Villeneuve
+reviews/editors:
+- Joe Walker
+reviews/writers:
+- Jon Spaihts
+- Denis Villeneuve
+- Eric Roth
+- Frank Herbert
+reviews/year: 2021
 ---
 > Lady Jessica Atreides: I must not fear. Fear is the mind-killer. Fear is the little death that brings obliteration. I will face my fear and I will permit it to pass over me and through me. And when it has gone past... I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain. 
 

@@ -6,8 +6,26 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 4
+- Spider-Man 
+- Tom Holland's Spider-Man
 cover: /embeds/movies/spider-man-no-way-home.jpg
-series_index: [27, 4]
+series_index: [27, 4, 8, 3]
+imdb_id: '10872600'
+reviews/cinematographers:
+- Mauro Fiore
+reviews/composers:
+- Michael Giacchino
+reviews/directors:
+- Jon Watts
+reviews/editors:
+- Leigh Folsom Boyd
+- Jeffrey Ford
+reviews/writers:
+- Chris McKenna
+- Erik Sommers
+- Stan Lee
+- Steve Ditko
+reviews/year: 2021
 ---
 Finally got around to watching this. I'm so glad I did, it's hilarious and an aboslute blast of nostalgia. Similar to {{<crosslink "Avengers: Endgame">}}, I don't know know if this would possibly hold up without the weight of all of the movies that came before it (I doubt it), but with that weight--it's really really good. 
 

@@ -4,6 +4,24 @@ date: 2013-06-28 04:55:20
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/world-war-z.jpg
+imdb_id: 0816711
+reviews/cinematographers:
+- Ben Seresin
+- Robert Richardson
+reviews/composers:
+- Marco Beltrami
+reviews/directors:
+- Marc Forster
+reviews/editors:
+- Roger Barton
+- Matt Chesse
+reviews/writers:
+- Matthew Michael Carnahan
+- Drew Goddard
+- Damon Lindelof
+- J. Michael Straczynski
+- Max Brooks
+reviews/year: 2013
 ---
 <a title="World War Z on amazon.com" href="http://www.amazon.com/gp/product/0770437400/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0770437400&amp;linkCode=as2&amp;tag=jverkampcom-20">World War Z</a> is a pretty awesome book, showing the aftermath of a decade long zombie war, accounting for the various changes (religious, political, and otherwise) that such an event would bring about. If you haven't read it (and aren't completely anti-zombie), I can't recommend it enough. It's really a neat book.
 

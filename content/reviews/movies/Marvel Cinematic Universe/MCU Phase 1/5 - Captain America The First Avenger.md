@@ -10,6 +10,22 @@ source:
 - Disney+
 cover: /embeds/movies/captain-america.jpg
 series_index: [5, 5]
+imdb_id: 0458339
+reviews/cinematographers:
+- Shelly Johnson
+reviews/composers:
+- Alan Silvestri
+reviews/directors:
+- Joe Johnston
+reviews/editors:
+- Robert Dalva
+- Jeffrey Ford
+reviews/writers:
+- Christopher Markus
+- Stephen McFeely
+- Joe Simon
+- Jack Kirby
+reviews/year: 2011
 ---
 
 Now that is how you do a super hero movie. 

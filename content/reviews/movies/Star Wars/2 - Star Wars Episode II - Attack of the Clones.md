@@ -9,6 +9,22 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-ii---attack-of-the-clones.jpg
 series_index: [2]
+imdb_id: '0121765'
+reviews/cinematographers:
+- David Tattersall
+reviews/composers:
+- John Williams
+reviews/directors:
+- George Lucas
+reviews/editors:
+- Ben Burtt
+- George Lucas
+reviews/writers:
+- George Lucas
+- Jonathan Hales
+- John Ostrander
+- Jan Duursema
+reviews/year: 2002
 ---
 Onward! 
 

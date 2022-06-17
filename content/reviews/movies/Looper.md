@@ -4,6 +4,18 @@ date: 2012-10-01 04:55:02
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/looper.jpg
+imdb_id: '1276104'
+reviews/cinematographers:
+- Steve Yedlin
+reviews/composers:
+- Nathan Johnson
+reviews/directors:
+- Rian Johnson
+reviews/editors:
+- Bob Ducsay
+reviews/writers:
+- Rian Johnson
+reviews/year: 2012
 ---
 Looper did three things really well:
 

@@ -7,6 +7,20 @@ reviews/series:
 - Disney Animated
 cover: /embeds/movies/frozen.jpg
 series_index: [53]
+imdb_id: '2294629'
+reviews/composers:
+- Christophe Beck
+reviews/directors:
+- Chris Buck
+- Jennifer Lee
+reviews/editors:
+- Jeff Draheim
+reviews/writers:
+- Jennifer Lee
+- Hans Christian Andersen
+- Chris Buck
+- Shane Morris
+reviews/year: 2013
 ---
 Whoa.
 

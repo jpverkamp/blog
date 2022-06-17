@@ -4,6 +4,22 @@ date: 2014-10-28
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/edge-of-tomorrow.jpg
+imdb_id: '1631867'
+reviews/cinematographers:
+- Dion Beebe
+reviews/composers:
+- Christophe Beck
+reviews/directors:
+- Doug Liman
+reviews/editors:
+- James Herbert
+- Laura Jennings
+reviews/writers:
+- Christopher McQuarrie
+- Jez Butterworth
+- John-Henry Butterworth
+- Hiroshi Sakurazaka
+reviews/year: 2014
 ---
 Disclaimer time: I have a full time job now. And a baby at home. Some combination of these things means that I have nowhere near as much time to go see movies as I once did. So it goes.
 

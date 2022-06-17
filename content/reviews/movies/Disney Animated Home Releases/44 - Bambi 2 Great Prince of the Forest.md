@@ -1,5 +1,5 @@
 ---
-title: "Bambi and the Great Prince of the Forest"
+title: "Bambi 2: The Great Prince of the Forest"
 date: 2021-12-04
 reviews/lists:
 - 2021 Movie Reviews

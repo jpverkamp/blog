@@ -4,6 +4,17 @@ date: 2021-01-25
 reviews/lists:
 - 2021 Movie Reviews
 cover: /embeds/movies/a-clockwork-orange.jpg
+imdb_id: 0066921
+reviews/cinematographers:
+- John Alcott
+reviews/directors:
+- Stanley Kubrick
+reviews/editors:
+- Bill Butler
+reviews/writers:
+- Stanley Kubrick
+- Anthony Burgess
+reviews/year: 1971
 ---
 
 It turns out that a {{<crosslink text="very strange book" title="A Clockwork Orange">}} makes for an even strange film. Who would have thought?

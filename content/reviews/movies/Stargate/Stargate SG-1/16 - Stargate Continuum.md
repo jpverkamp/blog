@@ -10,6 +10,20 @@ source:
 - Hoopla
 cover: /embeds/movies/stargate-continuum.jpg
 series_index: [16, 10.2]
+imdb_id: 0929629
+reviews/cinematographers:
+- Peter F. Woeste
+reviews/composers:
+- Joel Goldsmith
+reviews/directors:
+- Martin Wood
+reviews/editors:
+- Brad Rines
+reviews/writers:
+- Brad Wright
+- Dean Devlin
+- Jonathan Glassner
+reviews/year: 2008
 ---
 That was a far better movie (in my opinion) than {{<crosslink "Stargate: The Ark of Truth">}}. It basically felt like a slightly higher budget two part episode (although those already tended to be good) of the series and actually gave a chance to say goodbye to a few more people: In particularly Ba'al (RIP) and O'Neill, who really needed it. Not to mention a callback to the real villains of the show: The Goa'uld. 
 

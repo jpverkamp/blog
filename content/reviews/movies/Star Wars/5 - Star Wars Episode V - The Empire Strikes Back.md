@@ -9,6 +9,23 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-v---the-empire-strikes-back.jpg
 series_index: [5]
+imdb_id: 0080684
+reviews/cinematographers:
+- Peter Suschitzky
+reviews/composers:
+- John Williams
+reviews/directors:
+- Irvin Kershner
+reviews/editors:
+- T.M. Christopher
+- Paul Hirsch
+- George Lucas
+- Marcia Lucas
+reviews/writers:
+- Leigh Brackett
+- Lawrence Kasdan
+- George Lucas
+reviews/year: 1980
 ---
 Woo! Big icy battles on land in and the sky/space around Hoth, training with a real (short) Jedi Master (and they're all supposed to be dead), meetings between old friends--who may not be too thrilled about losing in cards all those years ago--another confrontation between Luke and Vadar, and the big bad reveal. Which... seriously. His name is literally {{< spoiler >}}Dark Father{{</ spoiler >}}. 
 

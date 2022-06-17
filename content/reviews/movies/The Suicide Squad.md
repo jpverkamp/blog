@@ -6,6 +6,19 @@ reviews/lists:
 source:
 - HBOMax
 cover: /embeds/movies/the-suicide-squad.jpg
+imdb_id: '6334354'
+reviews/cinematographers:
+- Henry Braham
+reviews/composers:
+- John Murphy
+reviews/directors:
+- James Gunn
+reviews/editors:
+- Fred Raskin
+- Christian Wagner
+reviews/writers:
+- James Gunn
+reviews/year: 2021
 ---
 Oh, that is a glorious movie. Exactly what an R rated half-satirical superhero movie should be. 
 

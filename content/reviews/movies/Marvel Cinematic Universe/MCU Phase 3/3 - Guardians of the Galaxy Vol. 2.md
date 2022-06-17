@@ -10,6 +10,31 @@ source:
 - Disney+
 cover: /embeds/movies/guardians-of-the-galaxy-vol-2.jpg
 series_index: [15, 3]
+imdb_id: '3896198'
+reviews/cinematographers:
+- Henry Braham
+reviews/composers:
+- Tyler Bates
+reviews/directors:
+- James Gunn
+reviews/editors:
+- Fred Raskin
+- Craig Wood
+reviews/writers:
+- James Gunn
+- Dan Abnett
+- Andy Lanning
+- Steve Englehart
+- Steve Gan
+- Jim Starlin
+- Stan Lee
+- Larry Lieber
+- Jack Kirby
+- Bill Mantlo
+- Keith Giffen
+- Steve Gerber
+- Val Mayerik
+reviews/year: 2017
 ---
 
 After the surprisingly awesome {{< crosslink "Guardians of the Galaxy" >}}, it was really a question of: could they do it again? The answer, a resounding... sort of?

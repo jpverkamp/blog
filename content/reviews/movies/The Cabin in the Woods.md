@@ -4,6 +4,19 @@ date: 2012-04-18 16:55:52
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/cabin-in-the-woods.jpg
+imdb_id: '1259521'
+reviews/cinematographers:
+- Peter Deming
+reviews/composers:
+- David Julyan
+reviews/directors:
+- Drew Goddard
+reviews/editors:
+- Lisa Lassek
+reviews/writers:
+- Joss Whedon
+- Drew Goddard
+reviews/year: 2011
 ---
 I generally don't go for horror movies, but the general premise intrigued me. And it doesn't hurt that Joss Whedon co-wrote it. He's had his ups and downs, but in general he's earned at least a second look in my book.
 

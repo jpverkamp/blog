@@ -9,6 +9,23 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-ix---the-rise-of-skywalker.jpg
 series_index: [9]
+imdb_id: '2527338'
+reviews/cinematographers:
+- Dan Mindel
+reviews/composers:
+- John Williams
+reviews/directors:
+- J.J. Abrams
+reviews/editors:
+- Maryann Brandon
+- Stefan Grube
+reviews/writers:
+- Chris Terrio
+- J.J. Abrams
+- Derek Connolly
+- Colin Trevorrow
+- George Lucas
+reviews/year: 2019
 ---
 Given the internet's backlast, I exepcted a lot worse. At least to me, The Rise of Skywalker did a pretty decent job of closing the loop on the saga that began a long time ago with the rise of Palpatine and the fall of Anakin Skywalker. Really, that's the entire story, and you get that here in spades. 
 

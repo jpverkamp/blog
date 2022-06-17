@@ -4,6 +4,20 @@ date: 2013-02-27 04:55:16
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/warm-bodies.jpg
+imdb_id: '1588173'
+reviews/cinematographers:
+- Javier Aguirresarobe
+reviews/composers:
+- Marco Beltrami
+- Buck Sanders
+reviews/directors:
+- Jonathan Levine
+reviews/editors:
+- Nancy Richardson
+reviews/writers:
+- Isaac Marion
+- Jonathan Levine
+reviews/year: 2013
 ---
 I'm not sure that a year ago I would have ever thought that a zomromcom could possibly be a thing. There's just something about zombies... Zombies are supposed to be mindless killing machines. They're supposed to be an analogue for the darker aspects of mindless mobs, a swarming mass that protagonists can mow down by the dozen without feelings of remorse. They're not supposed to fall in love.
 

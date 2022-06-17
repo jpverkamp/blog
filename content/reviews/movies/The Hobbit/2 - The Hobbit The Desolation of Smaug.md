@@ -7,6 +7,22 @@ cover: /embeds/movies/the-hobbit-the-desolation-of-smaug.jpg
 reviews/series:
 - The Hobbit
 series_index: [2]
+imdb_id: '1170358'
+reviews/cinematographers:
+- Andrew Lesnie
+reviews/composers:
+- Howard Shore
+reviews/directors:
+- Peter Jackson
+reviews/editors:
+- Jabez Olssen
+reviews/writers:
+- Fran Walsh
+- Philippa Boyens
+- Peter Jackson
+- Guillermo del Toro
+- J.R.R. Tolkien
+reviews/year: 2013
 ---
 Unless something bizarre happens, this will be the last movie of the year. Fitting, since a year and change ago, {{<crosslink "The Hobbit: An Unexpected Journey">}} was my last film of 2012[^1]
 

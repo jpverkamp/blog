@@ -9,6 +9,28 @@ source:
 - Disney+
 cover: /embeds/movies/the-many-adventures-of-winnie-the-pooh.jpg
 series_index: [22]
+imdb_id: '0076363'
+reviews/composers:
+- Buddy Baker
+reviews/directors:
+- John Lounsbery
+- Wolfgang Reitherman
+- Ben Sharpsteen
+reviews/editors:
+- Tom Acosta
+- James Melton
+reviews/writers:
+- A.A. Milne
+- Larry Clemmons
+- Ralph Wright
+- Vance Gerry
+- Xavier Atencio
+- Ken Anderson
+- Julius Svendsen
+- Ted Berman
+- Eric Cleworth
+- Winston Hibler
+reviews/year: 1977
 ---
 The Many Adventures of Winnie the Pooh is just delightful--and a blast of nostalgia on top of that. I didn't manage to actually watch all of the Disney classic growing up (still haven't), but I definiately watched this one. And now, after reading many of the stories to my children, it's a delight to be able to share the video form with them as well!
 

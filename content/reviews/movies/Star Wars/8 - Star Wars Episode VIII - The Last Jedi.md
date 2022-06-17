@@ -9,6 +9,19 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-viii---the-last-jedi.jpg
 series_index: [8]
+imdb_id: '2527336'
+reviews/cinematographers:
+- Steve Yedlin
+reviews/composers:
+- John Williams
+reviews/directors:
+- Rian Johnson
+reviews/editors:
+- Bob Ducsay
+reviews/writers:
+- Rian Johnson
+- George Lucas
+reviews/year: 2017
 ---
 More Star Wars! I remember being... somewhat disappointed. Tonally, they got away from the nostalgia of the Force Awakens. There are still some absolutely beautiful/powerful moments (the final battles over the salt flats or whatever those were were pretty cool), but not quite as strong as it was before. And there are all sorts of things that just feel 'less magical' and more movie driven than anything. 
 

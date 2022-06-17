@@ -10,6 +10,22 @@ source:
 - Disney+
 cover: /embeds/movies/black-panther.jpg
 series_index: [18, 6]
+imdb_id: '1825683'
+reviews/cinematographers:
+- Rachel Morrison
+reviews/composers:
+- "Ludwig G\xF6ransson"
+reviews/directors:
+- Ryan Coogler
+reviews/editors:
+- Debbie Berman
+- Michael P. Shawver
+reviews/writers:
+- Ryan Coogler
+- Joe Robert Cole
+- Stan Lee
+- Jack Kirby
+reviews/year: 2018
 ---
 
 That's a very solid movie. The casting is top notch, the style is wonderfully afrofuturistic, and the plot/motivation is interesting enough. 

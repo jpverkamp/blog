@@ -4,6 +4,17 @@ date: 2012-12-05 04:10:29
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/rise-of-the-guardians.jpg
+imdb_id: '1446192'
+reviews/composers:
+- Alexandre Desplat
+reviews/directors:
+- Peter Ramsey
+reviews/editors:
+- Joyce Arrastia
+reviews/writers:
+- David Lindsay-Abaire
+- William Joyce
+reviews/year: 2012
 ---
 So what do you get when you put Santa, the Easter Bunny, the Tooth Fairy, the Sandman, and Jack Frost all together in a movie? Well, I'm still not entirely sure, but it's entirely possible that you'll end up with something approaching Rise of the Guardians.
 

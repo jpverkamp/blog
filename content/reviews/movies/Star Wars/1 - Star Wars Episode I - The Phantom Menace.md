@@ -9,6 +9,19 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-i---the-phantom-menace.jpg
 series_index: [1]
+imdb_id: 0120915
+reviews/cinematographers:
+- David Tattersall
+reviews/composers:
+- John Williams
+reviews/directors:
+- George Lucas
+reviews/editors:
+- Ben Burtt
+- Paul Martin Smith
+reviews/writers:
+- George Lucas
+reviews/year: 1999
 ---
 Oh, that opening score. The title crawl. That's a blast of nostalgia right there. I'm too young to have seen the original trilogy in theaters, but I watched the VHS tapes what felt like a million times. When The Phantom Menace came out, that was *right* in my wheelhouse. I don't remember how many times I saw that movie in theaters. 
 

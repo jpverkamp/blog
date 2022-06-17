@@ -1,7 +1,15 @@
 {{ define "main" }}
+    <header>    
+		<h1 class="entry-title">
+            Reviews by series
+        </h1>
+    </header>
+
+    {{- if .Content -}}
     <div class="entry-content">
         {{- .Content -}}
     </div>
+    {{- end -}}
 
     <article class="li">
     	<div class="entry-content">

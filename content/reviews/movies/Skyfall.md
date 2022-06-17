@@ -4,6 +4,21 @@ date: 2012-11-11 04:55:40
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/skyfall.jpg
+imdb_id: '1074638'
+reviews/cinematographers:
+- Roger Deakins
+reviews/composers:
+- Thomas Newman
+reviews/directors:
+- Sam Mendes
+reviews/editors:
+- Stuart Baird
+reviews/writers:
+- Neal Purvis
+- Robert Wade
+- John Logan
+- Ian Fleming
+reviews/year: 2012
 ---
 In the past few years, I've watched each of the previous Bond films at least twice, once in a semi-random order as they came up and then again in sequential order. So when I say that Skyfall was both more of a Bond film than either of the previous two Daniel Craig films, yet still not really a Bond film at all, that's the basis I'm coming from.
 

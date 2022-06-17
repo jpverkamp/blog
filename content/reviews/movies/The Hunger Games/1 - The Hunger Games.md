@@ -4,6 +4,22 @@ date: 2012-03-30 16:55:05
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/hunger-games.jpg
+imdb_id: '1392170'
+reviews/cinematographers:
+- Tom Stern
+reviews/composers:
+- James Newton Howard
+reviews/directors:
+- Gary Ross
+reviews/editors:
+- Christopher S. Capp
+- Stephen Mirrione
+- Juliette Welfling
+reviews/writers:
+- Gary Ross
+- Suzanne Collins
+- Billy Ray
+reviews/year: 2012
 ---
 I have a confession to make. I have not read the Hunger Games books. That being said, most everyone that I know has so when they wanted to go see the Hunger Games, I went along with them.
 

@@ -4,6 +4,19 @@ date: 2022-01-02
 reviews/lists:
 - 2022 Movie Reviews
 cover: /embeds/movies/the-grinch.jpg
+imdb_id: '2709692'
+reviews/composers:
+- Danny Elfman
+reviews/directors:
+- Yarrow Cheney
+- Scott Mosier
+reviews/editors:
+- Chris Cartagena
+reviews/writers:
+- Michael LeSieur
+- Tommy Swerdlow
+- Dr. Seuss
+reviews/year: 2018
 ---
 Perhaps it's nostalgia speaking, but I really miss the 1966 How the Grinch Stole Christmas! It was basically a reading of the book with a great narrator (Boris Karloff, who amusingly is best known for a bunch of 1930-40s horror films) and a few new songs that really fit the Seuss style. Given that the Grinch is probably in my top 5 Seuss books overall, of course I like it. 
 

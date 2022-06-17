@@ -4,6 +4,20 @@ date: 2013-04-04 04:55:12
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/gi-joe-retaliation.jpg
+imdb_id: '1583421'
+reviews/cinematographers:
+- Stephen F. Windon
+reviews/composers:
+- Henry Jackman
+reviews/directors:
+- Jon M. Chu
+reviews/editors:
+- Roger Barton
+- Jim May
+reviews/writers:
+- Rhett Reese
+- Paul Wernick
+reviews/year: 2013
 ---
 It's not every day that you get such a perfect example of sequelitis.
 

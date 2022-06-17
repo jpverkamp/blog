@@ -4,6 +4,20 @@ date: 2013-07-19 04:55:19
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/pacific-rim.jpg
+imdb_id: '1663662'
+reviews/cinematographers:
+- Guillermo Navarro
+reviews/composers:
+- Ramin Djawadi
+reviews/directors:
+- Guillermo del Toro
+reviews/editors:
+- Peter Amundson
+- John Gilroy
+reviews/writers:
+- Travis Beacham
+- Guillermo del Toro
+reviews/year: 2013
 ---
 Pacific Rim is one heck of a movie. Just based on the trailers, we were promised giant robots, bigger monsters, rocket powered punches, and a ship turned sword. We got all of that and more in just over two hours of the best action movie I've seen in rather a while.
 

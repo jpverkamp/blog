@@ -9,6 +9,23 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-iv---a-new-hope.jpg
 series_index: [4]
+imdb_id: 0076759
+reviews/cinematographers:
+- Gilbert Taylor
+reviews/composers:
+- John Williams
+reviews/directors:
+- George Lucas
+reviews/editors:
+- Richard Chew
+- T.M. Christopher
+- Paul Hirsch
+- Marcia Lucas
+- John Jympson
+- George Lucas
+reviews/writers:
+- George Lucas
+reviews/year: 1977
 ---
 
 There it is. A New Hope. The Star Wars I grew up on. 

@@ -11,6 +11,30 @@ reviews/series:
 cover: /embeds/movies/guardians-of-the-galaxy.jpg
 series_index: [10, 4]
 aliases: /2014/08/05/guardians-of-the-galaxy
+imdb_id: '2015381'
+reviews/cinematographers:
+- Ben Davis
+reviews/composers:
+- Tyler Bates
+reviews/directors:
+- James Gunn
+reviews/editors:
+- Fred Raskin
+- Hughes Winborne
+- Craig Wood
+reviews/writers:
+- James Gunn
+- Nicole Perlman
+- Dan Abnett
+- Andy Lanning
+- Bill Mantlo
+- Keith Giffen
+- Jim Starlin
+- Steve Englehart
+- Steve Gan
+- Steve Gerber
+- Val Mayerik
+reviews/year: 2014
 ---
 I had forgotten just how *fun* Guardians of the Galaxy is. Back when I [first reviewed it in 2014](#original-2014-review), it surprised me with how different it was and just how much it opened up the Marvel Universe. Well, we've seen some pretty crazy things since then (Thor Ragnarok springs to mind), but it's still a pretty crazy movie. I mean, come on. It's a man obsessed with classic rock, a badass green woman assassin, an overly literal shirtless wrestler, a cybernetically enhanced racoon, and a speaking tree [^iamgroot] [^wearegroot]. Add in the first real hints of the Infinity Stones, Thanos as the continuing 'bigger bad', and you have a pretty impactful movie. 
 

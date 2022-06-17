@@ -7,6 +7,22 @@ cover: /embeds/movies/the-hobbit.jpg
 reviews/series:
 - The Hobbit
 series_index: [1]
+imdb_id: 0903624
+reviews/cinematographers:
+- Andrew Lesnie
+reviews/composers:
+- Howard Shore
+reviews/directors:
+- Peter Jackson
+reviews/editors:
+- Jabez Olssen
+reviews/writers:
+- Fran Walsh
+- Philippa Boyens
+- Peter Jackson
+- Guillermo del Toro
+- J.R.R. Tolkien
+reviews/year: 2012
 ---
  I think the movie poster right over there is perhaps a perfect example of one my major gripes with the first new Hobbit movie:
 

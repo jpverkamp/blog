@@ -10,6 +10,31 @@ source:
 - Disney+
 cover: /embeds/movies/avengers-infinity-war.jpg
 series_index: [19, 7]
+imdb_id: '4154756'
+reviews/cinematographers:
+- Trent Opaloch
+reviews/composers:
+- Alan Silvestri
+reviews/directors:
+- Anthony Russo
+- Joe Russo
+reviews/editors:
+- Jeffrey Ford
+- Matthew Schmidt
+reviews/writers:
+- Christopher Markus
+- Stephen McFeely
+- Stan Lee
+- Jack Kirby
+- Joe Simon
+- Steve Englehart
+- Steve Gan
+- Bill Mantlo
+- Keith Giffen
+- Jim Starlin
+- Larry Lieber
+- Don Heck
+reviews/year: 2018
 ---
 
 All that. Ten years. 18 movies. Dozens of huge name actors and crossovers, all leading to this. {{< crosslink "The Avengers" >}} gave us a team up, but Infinity War turned it all up to 11. The battle scenes are insane (especially that final battle in Wakanda, especially especially the return of Thor), the villain--Josh Brolin as Thanos--is powerful and {{< spoiler >}}ACTUALLY GETS A CHANCE TO WIN{{</ spoiler >}}, and I absolutely love seeing the interplay between all of the characters.

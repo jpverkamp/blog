@@ -10,6 +10,25 @@ source:
 - Disney+
 cover: /embeds/movies/iron-man.jpg
 series_index: [1, 1]
+imdb_id: '0371746'
+reviews/cinematographers:
+- Matthew Libatique
+reviews/composers:
+- Ramin Djawadi
+reviews/directors:
+- Jon Favreau
+reviews/editors:
+- Dan Lebental
+reviews/writers:
+- Mark Fergus
+- Hawk Ostby
+- Art Marcum
+- Matt Holloway
+- Stan Lee
+- Don Heck
+- Larry Lieber
+- Jack Kirby
+reviews/year: 2008
 ---
 Way back in 2008, I don't think anyone had the slightest idea how far the Marvel Cinematic Universe would go. Taking a less well known superhero (face it, before this few knew who Iron Man was), attaching him to a talented but troubled actor (Robert Downy Jr was an amazing cast) and make a fairly stock standard action movie and... build a media empire that would span more than 12 years and 20 films (so far...).
 

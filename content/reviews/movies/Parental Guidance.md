@@ -4,6 +4,19 @@ date: 2013-01-28 04:55:57
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/parental-guidance.jpg
+imdb_id: '1047540'
+reviews/cinematographers:
+- Dean Semler
+reviews/composers:
+- Marc Shaiman
+reviews/directors:
+- Andy Fickman
+reviews/editors:
+- Kent Beyda
+reviews/writers:
+- Lisa Addario
+- Joe Syracuse
+reviews/year: 2012
 ---
  Sometimes you just need to unwind and watch something on the sillier side of life. Parental Guidance is exactly that sort of movie.
 

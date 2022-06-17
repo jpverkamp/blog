@@ -4,6 +4,28 @@ date: 2012-11-06 04:00:20
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/cloud-atlas.jpg
+imdb_id: '1371111'
+reviews/cinematographers:
+- Frank Griebe
+- John Toll
+reviews/composers:
+- Reinhold Heil
+- Johnny Klimek
+- Tom Tykwer
+reviews/directors:
+- Tom Tykwer
+- Lana Wachowski
+- Lilly Wachowski
+reviews/editors:
+- Alexander Berner
+- Claus Wehlisch
+reviews/writers:
+- David Mitchell
+- Lana Wachowski
+- Tom Tykwer
+- Lilly Wachowski
+- Chris Lindsay
+reviews/year: 2012
 ---
 I wanted to make sure that I caught Cloud Atlas while it was in theaters, so that meant that I pretty much had to go this week. Between the 23 local screens, only 1 is still showing it and that only for three showings per day. I give it until the end of the week, maybe next week at tops before it's gone.
 

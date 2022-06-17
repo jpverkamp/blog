@@ -4,6 +4,23 @@ date: 2013-06-23 04:55:32
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/monsters-university.jpg
+imdb_id: '1453405'
+reviews/cinematographers:
+- Jean-Claude Kalache
+reviews/composers:
+- Randy Newman
+reviews/directors:
+- Dan Scanlon
+reviews/editors:
+- Greg Snyder
+reviews/writers:
+- Dan Scanlon
+- Daniel Gerson
+- Robert L. Baird
+reviews/year: 2013
+reviews/series:
+- Pixar
+series_index: [13]
 ---
 Given how relatively few films they've put out, it's fairly impressive how Pixar has already shown us that they know how to do a sequel well (Toy Story 2/3) and they've found out how to do it now quite so well (Cars 2). So how does Monsters University do?
 

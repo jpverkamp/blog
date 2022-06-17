@@ -12,6 +12,27 @@ cover: /embeds/movies/thor-the-dark-world.jpg
 series_index: [8, 2]
 aliases:
 - /2013/11/29/thor-the-dark-world-2021/
+imdb_id: '1981115'
+reviews/cinematographers:
+- Kramer Morgenthau
+reviews/composers:
+- Brian Tyler
+reviews/directors:
+- Alan Taylor
+reviews/editors:
+- Dan Lebental
+- Wyatt Smith
+reviews/writers:
+- Christopher L. Yost
+- Christopher Markus
+- Stephen McFeely
+- Don Payne
+- Robert Rodat
+- Stan Lee
+- Larry Lieber
+- Jack Kirby
+- Walter Simonson
+reviews/year: 2013
 ---
 One problem that comic book universes in general and the MCU in specific have always had is that of scale. How in the world do you have a man in a suit, a literal 'god', a rage monster, a super soldier, and a couple ... regular people ever interact on the same scale? For the most part, it's hand waved away. Everyone is paired up with an opponent of roughly the same power level and we move on with our lives. 
 

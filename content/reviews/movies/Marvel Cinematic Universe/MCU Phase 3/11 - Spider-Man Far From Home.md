@@ -6,8 +6,26 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- Spider-Man 
+- Tom Holland's Spider-Man
 cover: /embeds/movies/spider-man-far-from-home.jpg
-series_index: [23, 11]
+series_index: [23, 11, 7, 2]
+imdb_id: '6320628'
+reviews/cinematographers:
+- Matthew J. Lloyd
+reviews/composers:
+- Michael Giacchino
+reviews/directors:
+- Jon Watts
+reviews/editors:
+- Leigh Folsom Boyd
+- Dan Lebental
+reviews/writers:
+- Chris McKenna
+- Erik Sommers
+- Stan Lee
+- Steve Ditko
+reviews/year: 2019
 ---
 
 As much as I loved {{< crosslink "Spider-Man: Homecoming" >}}, Spider-Man: Far From Home takes what made it great and turns it up a few levels *even further*.

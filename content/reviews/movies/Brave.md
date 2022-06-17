@@ -4,6 +4,21 @@ date: 2012-06-25 04:55:34
 reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/brave.jpg
+imdb_id: '1217209'
+reviews/composers:
+- Patrick Doyle
+reviews/directors:
+- Mark Andrews
+- Brenda Chapman
+- Steve Purcell
+reviews/editors:
+- Nicholas C. Smith
+reviews/writers:
+- Brenda Chapman
+- Mark Andrews
+- Steve Purcell
+- Irene Mecchi
+reviews/year: 2012
 ---
 I think that if Brave where made by anyone other than Pixar, I would have absolutely loved it. Granted, that's not really a fair comparison, but I just can't shake the feeling.
 

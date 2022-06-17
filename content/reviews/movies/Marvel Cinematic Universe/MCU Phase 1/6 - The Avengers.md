@@ -11,6 +11,20 @@ cover: /embeds/movies/the-avengers.jpg
 series_index: [6, 6]
 aliases:
 - /2012/05/08/the-avengers
+imdb_id: 0848228
+reviews/cinematographers:
+- Seamus McGarvey
+reviews/composers:
+- Alan Silvestri
+reviews/directors:
+- Joss Whedon
+reviews/editors:
+- Jeffrey Ford
+- Lisa Lassek
+reviews/writers:
+- Joss Whedon
+- Zak Penn
+reviews/year: 2012
 ---
 Hooo boy. When I [first saw this movie](#original-2012-review) (in theaters, in the before times), I was pretty much blown away. It was a big budget, box office smasher of a movie, bringing together an entire series of super hero movies in one giant box office smash. It was something that had never really been done before... and they managed to actually pull it off. And not only that (knowing what I do now), it was the start of something **even bigger**. Absolutely bonkers to believe. 
 

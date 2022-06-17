@@ -10,6 +10,31 @@ source:
 - Disney+
 cover: /embeds/movies/avengers-endgame.jpg
 series_index: [22, 10]
+imdb_id: '4154796'
+reviews/cinematographers:
+- Trent Opaloch
+reviews/composers:
+- Alan Silvestri
+reviews/directors:
+- Anthony Russo
+- Joe Russo
+reviews/editors:
+- Jeffrey Ford
+- Matthew Schmidt
+reviews/writers:
+- Christopher Markus
+- Stephen McFeely
+- Stan Lee
+- Jack Kirby
+- Joe Simon
+- Steve Englehart
+- Steve Gan
+- Bill Mantlo
+- Keith Giffen
+- Jim Starlin
+- Larry Lieber
+- Don Heck
+reviews/year: 2019
 ---
 
 Wow. 

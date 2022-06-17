@@ -10,6 +10,24 @@ source:
 - Disney+
 cover: /embeds/movies/captain-marvel.jpg
 series_index: [21, 9]
+imdb_id: '4154664'
+reviews/cinematographers:
+- Ben Davis
+reviews/composers:
+- Pinar Toprak
+reviews/directors:
+- Anna Boden
+- Ryan Fleck
+reviews/editors:
+- Debbie Berman
+- Elliot Graham
+reviews/writers:
+- Anna Boden
+- Ryan Fleck
+- Geneva Robertson-Dworet
+- Nicole Perlman
+- Meg LeFauve
+reviews/year: 2019
 ---
 
 Captain Marvel is a bit of an odd movie. It's a straight up superhero origin story with a bit more of a cosmic twist than many we've seen (other than Guardians of the Galaxy... and Thor...) It's something of a prequel--in that it's chronologically set before any of the other Marvel movies other than the beginning of Captain America. It's got a hero in Captain Marvel with a grab bag of vaguely defined glowy energy powers with memory issues who has to go on a journey and power up to her final form. 

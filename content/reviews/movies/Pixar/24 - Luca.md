@@ -9,6 +9,25 @@ source:
 - Disney+
 cover: /embeds/movies/luca.jpg
 series_index: [24]
+imdb_id: '12801262'
+reviews/cinematographers:
+- David Juan Bianchi
+- Kim White
+reviews/composers:
+- Dan Romer
+reviews/directors:
+- Enrico Casarosa
+reviews/editors:
+- Catherine Apple
+- Jason Hudak
+reviews/writers:
+- Enrico Casarosa
+- Jesse Andrews
+- Simon Stephenson
+- Mike Jones
+- Julie Lynn
+- Randall Green
+reviews/year: 2021
 ---
 
 Luca is something of an odd beast. It's a cute little movie about two young sea monster boys who journey out onto land--where so long as they don't get wet, they transform to look like humans. Wacky hijinks ensue, there's a meetcute with a young girl, a big race scenes, some quickly resolved drama, and everyone lives happily ever after.

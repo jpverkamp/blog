@@ -9,6 +9,23 @@ reviews/series:
 - The Matrix
 cover: /embeds/movies/the-matrix-resurrections.jpg
 series_index: [3]
+imdb_id: '10838180'
+reviews/cinematographers:
+- Daniele Massaccesi
+- John Toll
+reviews/composers:
+- Johnny Klimek
+- Tom Tykwer
+reviews/directors:
+- Lana Wachowski
+reviews/editors:
+- Joseph Jett Sally
+reviews/writers:
+- Lana Wachowski
+- David Mitchell
+- Aleksandar Hemon
+- Lilly Wachowski
+reviews/year: 2021
 ---
 > Whoa.
 

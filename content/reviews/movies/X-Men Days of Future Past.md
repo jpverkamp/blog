@@ -4,6 +4,23 @@ date: 2014-06-08
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/x-men-days-of-future-past.jpg
+imdb_id: '1877832'
+reviews/cinematographers:
+- Newton Thomas Sigel
+reviews/composers:
+- John Ottman
+reviews/directors:
+- Bryan Singer
+reviews/editors:
+- Michael Louis Hill
+- John Ottman
+reviews/writers:
+- Simon Kinberg
+- Jane Goldman
+- Matthew Vaughn
+- Jack Kirby
+- Stan Lee
+reviews/year: 2014
 ---
 After the awesome first two films, the relative failures of The Last Stand and the Wolverine(s), and the return to form of First Class, I was cautiously hopeful for Days of Future Past. It had potential--near full casts of both sets of X-Men?--but potential doesn't necessarily mean good.
 

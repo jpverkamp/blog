@@ -9,6 +9,27 @@ source:
 - Disney+
 cover: /embeds/movies/encanto.jpg
 series_index: [60]
+imdb_id: '2953050'
+reviews/cinematographers:
+- Alessandro Jacomini
+- Daniel Rice
+- Nathan Warner
+reviews/composers:
+- Germaine Franco
+reviews/directors:
+- Jared Bush
+- Byron Howard
+- Charise Castro Smith
+reviews/editors:
+- Jeremy Milton
+reviews/writers:
+- Charise Castro Smith
+- Jared Bush
+- Byron Howard
+- Jason Hand
+- Nancy Kruse
+- Lin-Manuel Miranda
+reviews/year: 2021
 ---
 Disney has really been doing quite well the last 12 years. Tangled, Wreck-It Ralph, Frozen, Big Hero 6, Moana, and now Encanto? (I haven't seen Raya yet) All really solid films. Encanto specifically, I really enjoyed. It's got great songs, fun characters, beautiful animation, and a lovely story. It's fun to see a story based on yet another culture--Columbia this time--Disney is really doing that well. Overall, I wouldn't quite put it to the level of Moana, but it's just about there. 
 

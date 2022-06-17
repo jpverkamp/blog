@@ -3,6 +3,12 @@
 {{ end }}
 
 {{ define "main" }}
+    <header>    
+		<h1 class="entry-title">
+            Review: {{ .Title -}}       
+        </h1>
+    </header>
+
     <div class="entry-content">
         {{- .Content -}}
     </div>

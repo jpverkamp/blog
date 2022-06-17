@@ -10,6 +10,25 @@ source:
 - Disney+
 cover: /embeds/movies/ant-man.jpg
 series_index: [12, 6]
+imdb_id: 0478970
+reviews/cinematographers:
+- Russell Carpenter
+reviews/composers:
+- Christophe Beck
+reviews/directors:
+- Peyton Reed
+reviews/editors:
+- Dan Lebental
+- Colby Parker Jr.
+reviews/writers:
+- Edgar Wright
+- Joe Cornish
+- Adam McKay
+- Paul Rudd
+- Stan Lee
+- Larry Lieber
+- Jack Kirby
+reviews/year: 2015
 ---
 
 Continuing in the set of Marvel movies that came out after I stopped going to theaters quite so much / reviewing movies in 2014, we have Ant-Man! 

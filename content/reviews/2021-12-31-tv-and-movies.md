@@ -13,7 +13,7 @@ Overall, I watched:
 
 * 55 movies
     * 25 from the [Marvel Cinematic Universe](/reviews/series/marvel-cinematic-universe/)
-    * 5 Disney Animated Classics + 1 Home Release sequel ({{< crosslink "Bambi and the Great Prince of the Forest" >}})
+    * 5 Disney Animated Classics + 1 Home Release sequel ({{< crosslink "Bambi 2: The Great Prince of the Forest" >}})
     * 35 on Disney+ (mostly the MCU + kid's movies above)
     * 8 on HBOMax (new releases!)
     * 2 in theaters (oh Covid and having a baby...)

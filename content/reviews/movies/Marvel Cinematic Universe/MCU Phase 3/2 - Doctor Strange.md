@@ -10,6 +10,23 @@ source:
 - Disney+
 cover: /embeds/movies/doctor-strange.jpg
 series_index: [14, 2]
+imdb_id: '1211837'
+reviews/cinematographers:
+- Ben Davis
+reviews/composers:
+- Michael Giacchino
+reviews/directors:
+- Scott Derrickson
+reviews/editors:
+- Sabrina Plisco
+- Wyatt Smith
+reviews/writers:
+- Jon Spaihts
+- Scott Derrickson
+- C. Robert Cargill
+- Stan Lee
+- Steve Ditko
+reviews/year: 2016
 ---
 > Wong: While heroes like the Avengers protect the world from physical dangers, we sorcerers safeguard it against more mystical threats. 
 

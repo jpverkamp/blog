@@ -4,6 +4,18 @@ date: 2014-07-26
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/lucy.jpg
+imdb_id: '2872732'
+reviews/cinematographers:
+- Thierry Arbogast
+reviews/composers:
+- "\xC9ric Serra"
+reviews/directors:
+- Luc Besson
+reviews/editors:
+- Julien Rey
+reviews/writers:
+- Luc Besson
+reviews/year: 2014
 ---
 If only the writers had used more than 10% of their brains to come up with a better basis for their film...
 

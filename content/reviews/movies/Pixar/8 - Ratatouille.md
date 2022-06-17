@@ -9,6 +9,22 @@ source:
 - Disney+
 cover: /embeds/movies/ratatouille.jpg
 series_index: [8]
+imdb_id: 0382932
+reviews/composers:
+- Michael Giacchino
+reviews/directors:
+- Brad Bird
+- Jan Pinkava
+reviews/editors:
+- Darren T. Holmes
+reviews/writers:
+- Brad Bird
+- Jan Pinkava
+- Jim Capobianco
+- Emily Cook
+- Kathy Greenberg
+- Bob Peterson
+reviews/year: 2007
 ---
 Well that's just a delightful movie. 
 

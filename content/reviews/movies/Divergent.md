@@ -4,6 +4,21 @@ date: 2014-03-29
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/divergent.jpg
+imdb_id: '1840309'
+reviews/cinematographers:
+- "Alwin H. K\xFCchler"
+reviews/composers:
+- Junkie XL
+reviews/directors:
+- Neil Burger
+reviews/editors:
+- Richard Francis-Bruce
+- Nancy Richardson
+reviews/writers:
+- Evan Daugherty
+- Vanessa Taylor
+- Veronica Roth
+reviews/year: 2014
 ---
 Well, it's better than {{<crosslink "The Hunger Games: Catching Fire">}}[^1]
 

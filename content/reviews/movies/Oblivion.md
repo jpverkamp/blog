@@ -4,6 +4,22 @@ date: 2013-04-25 04:55:29
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/oblivion.jpg
+imdb_id: '1483013'
+reviews/cinematographers:
+- Claudio Miranda
+reviews/composers:
+- Anthony Gonzalez
+- M83
+- Joseph Trapanese
+reviews/directors:
+- Joseph Kosinski
+reviews/editors:
+- Richard Francis-Bruce
+reviews/writers:
+- Karl Gajdusek
+- Michael Arndt
+- Joseph Kosinski
+reviews/year: 2013
 ---
 Oblivion surprised me. With all of the reviews I read ahead of time (<a title="io9 Oblivion review" href="http://io9.com/oblivion-has-its-meh-moments-but-one-hell-of-a-satisfy-476457815">io9</a>, <a title="Escape to the Movies Oblivion review" href="http://www.escapistmagazine.com/videos/view/escape-to-the-movies/7157-Oblivion">Escape to the Movies</a>, <a title="Schlock Mercenary Oblivion review" href="http://www.schlockmercenary.com/blog/oblivion-movie-review">Schlock Mercenary</a>), I was expecting a pretty yet ultimately without depth, science fiction mystery/action piece[^1] What I got... was a pretty yet ultimately without *much* depth, science fiction mystery/action piece[^2]
 

@@ -4,6 +4,19 @@ date: 2013-09-10 04:55:45
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/the-mortal-instruments.jpg
+imdb_id: '1538403'
+reviews/cinematographers:
+- Geir Hartly Andreassen
+reviews/composers:
+- "Atli \xD6rvarsson"
+reviews/directors:
+- Harald Zwart
+reviews/editors:
+- Jacqueline Carmody
+reviews/writers:
+- Jessica Postigo
+- Cassandra Clare
+reviews/year: 2013
 ---
 The Mortal Instruments comes with a fair amount of baggage. It's a young adult urban fantasy series of five (with a sixth on the way) in a genre that by default seems to invite comparisons to Twilight[^1] and Harry Potter [^2]. There are love triangles galore[^3] which in the movie at least seem somewhat arbitrary. And then there's the whole history with author {{< wikipedia page="Cassandra Clare" text="Cassandra Clare's" >}} history in fan fiction[^4].
 

@@ -10,6 +10,23 @@ source:
 - Disney+
 cover: /embeds/movies/iron-man-2.jpg
 series_index: [3, 3]
+imdb_id: '1228705'
+reviews/cinematographers:
+- Matthew Libatique
+reviews/composers:
+- John Debney
+reviews/directors:
+- Jon Favreau
+reviews/editors:
+- Dan Lebental
+- Richard Pearson
+reviews/writers:
+- Justin Theroux
+- Stan Lee
+- Don Heck
+- Larry Lieber
+- Jack Kirby
+reviews/year: 2010
 ---
 I vaguely remember Iron Man 2 being a much weaker movie than the first Iron Man, but you know, it's actually really good. The action is great, especially the fight scenes with the electro whips and between Iron Man and (not yet named) War Machine. Good stuff. 
 

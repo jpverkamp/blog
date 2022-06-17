@@ -4,6 +4,22 @@ date: 2013-03-13 03:00:44
 reviews/lists:
 - 2013 Movie Reviews
 cover: /embeds/movies/jack-the-giant-slayer.jpg
+imdb_id: '1351685'
+reviews/cinematographers:
+- Newton Thomas Sigel
+reviews/composers:
+- John Ottman
+reviews/directors:
+- Bryan Singer
+reviews/editors:
+- Bob Ducsay
+- John Ottman
+reviews/writers:
+- Darren Lemke
+- Christopher McQuarrie
+- Dan Studney
+- David Dobkin
+reviews/year: 2013
 ---
 It's hard to count the number of things that went sideways in Jack the Giant Slayer.
 

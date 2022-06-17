@@ -10,6 +10,27 @@ source:
 - Disney+
 cover: /embeds/movies/thor-ragnarok.jpg
 series_index: [17, 5]
+imdb_id: '3501632'
+reviews/cinematographers:
+- Javier Aguirresarobe
+reviews/composers:
+- Mark Mothersbaugh
+reviews/directors:
+- Taika Waititi
+reviews/editors:
+- Zene Baker
+- Joel Negron
+reviews/writers:
+- Eric Pearson
+- Craig Kyle
+- Christopher L. Yost
+- Stan Lee
+- Larry Lieber
+- Jack Kirby
+- Greg Pak
+- Walter Simonson
+- Carlo Pagulayan
+reviews/year: 2017
 ---
 
 Ooh, that poster. *le kiss*

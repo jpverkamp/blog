@@ -7,6 +7,20 @@ cover: /embeds/movies/the-hunger-games-catching-fire.jpg
 reviews/series:
 - The Hunger Games
 series_index: [2]
+imdb_id: '1951264'
+reviews/cinematographers:
+- Jo Willems
+reviews/composers:
+- James Newton Howard
+reviews/directors:
+- Francis Lawrence
+reviews/editors:
+- Alan Edward Bell
+reviews/writers:
+- Simon Beaufoy
+- Michael Arndt
+- Suzanne Collins
+reviews/year: 2013
 ---
 Well... it's still better than Twilight.
 

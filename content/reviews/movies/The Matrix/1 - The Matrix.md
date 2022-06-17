@@ -9,6 +9,20 @@ reviews/series:
 - The Matrix
 cover: /embeds/movies/the-matrix.jpg
 series_index: [1]
+imdb_id: 0133093
+reviews/cinematographers:
+- Bill Pope
+reviews/composers:
+- Don Davis
+reviews/directors:
+- Lana Wachowski
+- Lilly Wachowski
+reviews/editors:
+- Zach Staenberg
+reviews/writers:
+- Lilly Wachowski
+- Lana Wachowski
+reviews/year: 1999
 ---
 Oh the Matrix. This movie came out at just the perfect time for me--I wasn't into the counter culture as much, but even then I was messing around with computers and hacking--and I absolutely love every minute of it. It stands up even today, with a retrofuturistic sort of vibe that really still works even though it's been twenty years. 
 

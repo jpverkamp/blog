@@ -9,6 +9,22 @@ source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-vii---the-force-awakens.jpg
 series_index: [7]
+imdb_id: '2488496'
+reviews/cinematographers:
+- Dan Mindel
+reviews/composers:
+- John Williams
+reviews/directors:
+- J.J. Abrams
+reviews/editors:
+- Maryann Brandon
+- Mary Jo Markey
+reviews/writers:
+- Lawrence Kasdan
+- J.J. Abrams
+- Michael Arndt
+- George Lucas
+reviews/year: 2015
 ---
 Woo, new Star Wars! I remember the hype when The Force Awakens first came out. It was pretty crazy to see new Star Wars for the first time (second time?) in years. And it's pretty dang cool. It's shinier than the original trilogy, a bit less stuck in the weeds (trade blockades!) than the prequels, and it leans *hard* on nostalgia. Overall, it's Star Wars! Could they have done something newer and more unique? Sure they could have. 
 

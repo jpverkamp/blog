@@ -13,6 +13,26 @@ cover: /embeds/movies/captain-america-the-winter-soldier.jpg
 series_index: [9, 3]
 aliases: 
 - /2014/04/05/captain-america-the-winter-soldier/
+imdb_id: '1843866'
+reviews/cinematographers:
+- Trent Opaloch
+reviews/composers:
+- Henry Jackman
+reviews/directors:
+- Anthony Russo
+- Joe Russo
+reviews/editors:
+- Jeffrey Ford
+- Matthew Schmidt
+reviews/writers:
+- Christopher Markus
+- Stephen McFeely
+- Joe Simon
+- Jack Kirby
+- Steve Epting
+- Ed Brubaker
+- Michael Lark
+reviews/year: 2014
 ---
 From {{<crosslink text="one of the weakest" title="Thor: The Dark World">}} MCU movies to one of the strongest. I loved the first solo entry of Captain American and the second is even better. Much like {{<crosslink text="last time" title="Captain America: The Winter Soldier">}}, I very much enjoyed this movie. 
 

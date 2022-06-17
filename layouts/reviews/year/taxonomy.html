@@ -1,0 +1,34 @@
+{{ define "main" }}
+    <h1 class="entry-title">
+        Reviews by year released: {{ .Title -}}       
+    </h1>
+
+    <div class="entry-content">
+        {{- .Content -}}
+    </div>
+
+    {{/* partial "taxonomy-list.html" . */}}
+
+    <div class="cover-list">        
+        {{- range $i, $page := .Pages.ByTitle -}}
+        <figure class="cover-image">
+        <a href="{{ .Permalink }}">
+            {{- if isset .Params "cover" -}}
+                <img src="{{ .Params.cover }}" />
+            {{- else -}}
+                {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+            {{- end -}}
+        </a>
+        </figure>
+        {{- end -}}
+    </div>
+
+    <ul>
+        {{- range .Pages.ByTitle -}}
+        {{- $page := . -}}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>{{- partial "series.html" . -}}
+        </li>
+        {{- end -}}
+    </ul>
+{{- end -}}

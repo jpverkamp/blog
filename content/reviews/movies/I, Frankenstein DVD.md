@@ -4,6 +4,21 @@ date: 2014-11-01
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/i-frankenstein.jpg
+imdb_id: '1418377'
+reviews/cinematographers:
+- Ross Emery
+reviews/composers:
+- Reinhold Heil
+- Johnny Klimek
+reviews/directors:
+- Stuart Beattie
+reviews/editors:
+- Marcus D'Arcy
+reviews/writers:
+- Stuart Beattie
+- Kevin Grevioux
+- Mary Shelley
+reviews/year: 2014
 ---
 Wait, is it <a href="http://www.imdb.com/title/tt0320691/?ref_=fn_al_tt_1">2003 again</a>?
 

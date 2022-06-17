@@ -9,6 +9,21 @@ source:
 - Disney+
 cover: /embeds/movies/the-rescuers-down-under.jpg
 series_index: [29]
+imdb_id: '0100477'
+reviews/composers:
+- Bruce Broughton
+reviews/directors:
+- Hendel Butoy
+- Mike Gabriel
+reviews/editors:
+- Michael Kelly
+reviews/writers:
+- Jim Cox
+- Karey Kirkpatrick
+- Byron Simpson
+- Joe Ranft
+- Margery Sharp
+reviews/year: 1990
 ---
 
 Well that's an absolute blast of childhood nostalgia. We had this movie on VHS when I was little and I remember watching the heck out of it, although I haven't otherwise seen it in decades now. Truth be told, it wasn't until recently that I realized it was even a sequel...

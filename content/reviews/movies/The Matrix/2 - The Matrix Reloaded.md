@@ -9,6 +9,20 @@ reviews/series:
 - The Matrix
 cover: /embeds/movies/the-matrix-reloaded.jpg
 series_index: [2]
+imdb_id: '0234215'
+reviews/cinematographers:
+- Bill Pope
+reviews/composers:
+- Don Davis
+reviews/directors:
+- Lana Wachowski
+- Lilly Wachowski
+reviews/editors:
+- Zach Staenberg
+reviews/writers:
+- Lilly Wachowski
+- Lana Wachowski
+reviews/year: 2003
 ---
 > Morpheus: [Morpheus addresses the people of Zion] Zion, hear me! It is true, what many of you have heard. The machines have gathered an army and as I speak, that army is drawing nearer to our home.
 > 

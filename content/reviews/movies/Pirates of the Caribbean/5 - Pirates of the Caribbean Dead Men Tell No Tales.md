@@ -9,6 +9,24 @@ source:
 - Disney+
 cover: /embeds/movies/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg
 series_index: [5]
+imdb_id: '1790809'
+reviews/cinematographers:
+- Paul Cameron
+reviews/composers:
+- Geoff Zanelli
+reviews/directors:
+- "Joachim R\xF8nning"
+- Espen Sandberg
+reviews/editors:
+- Roger Barton
+- Leigh Folsom Boyd
+reviews/writers:
+- Jeff Nathanson
+- Terry Rossio
+- Ted Elliott
+- Stuart Beattie
+- Jay Wolpert
+reviews/year: 2017
 ---
 After the smash hit of the first three and the downer that was {{<crosslink "On Stranger Tides">}}, I was cautiously hopeful that they could pull something off with Dead Men Tell No Tales. And... they did? Sort of? 
 

@@ -10,6 +10,24 @@ source:
 - Disney+
 cover: /embeds/movies/avengers-age-of-ultron.jpg
 series_index: [11, 5]
+imdb_id: '2395427'
+reviews/cinematographers:
+- Ben Davis
+reviews/composers:
+- Danny Elfman
+- Brian Tyler
+reviews/directors:
+- Joss Whedon
+reviews/editors:
+- Jeffrey Ford
+- Lisa Lassek
+reviews/writers:
+- Joss Whedon
+- Stan Lee
+- Jack Kirby
+- Joe Simon
+- Jim Starlin
+reviews/year: 2015
 ---
 
 > Hawkeye: The city is flying and we're fighting an army of robots. And I have a bow and arrow. Nothing makes sense. 

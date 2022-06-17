@@ -6,6 +6,22 @@ reviews/lists:
 source:
 - HBOMax
 cover: /embeds/movies/godzilla-vs-kong.jpg
+imdb_id: '5034838'
+reviews/cinematographers:
+- Ben Seresin
+reviews/composers:
+- Junkie XL
+reviews/directors:
+- Adam Wingard
+reviews/editors:
+- Josh Schaeffer
+reviews/writers:
+- Terry Rossio
+- Michael Dougherty
+- Zach Shields
+- Eric Pearson
+- Max Borenstein
+reviews/year: 2021
 ---
 You know, that was more enjoyable than I think it had any right to be. It's the sort of movie that would have been far more spectacular on a big screen, but I haven't been to the theaters in a while, so I'll take smaller. 
 

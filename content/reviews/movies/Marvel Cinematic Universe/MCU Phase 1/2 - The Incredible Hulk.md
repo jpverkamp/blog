@@ -10,6 +10,22 @@ source:
 - Disney+
 cover: /embeds/movies/the-incredible-hulk.jpg
 series_index: [2, 2]
+imdb_id: 0800080
+reviews/cinematographers:
+- Peter Menzies Jr.
+reviews/composers:
+- Craig Armstrong
+reviews/directors:
+- Louis Leterrier
+reviews/editors:
+- Rick Shaine
+- Vincent Tabaillon
+- John Wright
+reviews/writers:
+- Zak Penn
+- Stan Lee
+- Jack Kirby
+reviews/year: 2008
 ---
 > Bruce Banner: [in a poor Portuguese] Don't make me hungry. You wouldn't like me when I'm hungry.
 > 

@@ -4,6 +4,27 @@ date: 2014-02-15
 reviews/lists:
 - 2014 Movie Reviews
 cover: /embeds/movies/the-lego-movie.jpg
+imdb_id: '1490017'
+reviews/cinematographers:
+- Pablo Plaisted
+- Barry Peterson
+reviews/composers:
+- Mark Mothersbaugh
+reviews/directors:
+- Phil Lord
+- Christopher Miller
+reviews/editors:
+- David Burrows
+- Chris McKay
+reviews/writers:
+- Phil Lord
+- Christopher Miller
+- Dan Hageman
+- Kevin Hageman
+- Ole Kirk Christiansen
+- Godtfred Kirk Christiansen
+- Jens Nygaard Knudsen
+reviews/year: 2014
 ---
 ♫ Everything is awesome! ♫
 

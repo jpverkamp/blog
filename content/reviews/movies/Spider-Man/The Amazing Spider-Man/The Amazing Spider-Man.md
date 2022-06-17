@@ -8,6 +8,24 @@ reviews/series:
 - Spider-Man 
 - The Amazing Spider-Man
 series_index: [4, 1]
+imdb_id: 0948470
+reviews/cinematographers:
+- John Schwartzman
+reviews/composers:
+- James Horner
+reviews/directors:
+- Marc Webb
+reviews/editors:
+- Alan Edward Bell
+- Michael McCusker
+- Pietro Scalia
+reviews/writers:
+- James Vanderbilt
+- Alvin Sargent
+- Steve Kloves
+- Stan Lee
+- Steve Ditko
+reviews/year: 2012
 ---
 Why do we have another Spider-Man movie? Granted, I liked it more than any of the previous three, but it just feels too soon. Of course people are going to compare it to the previous movies.
 

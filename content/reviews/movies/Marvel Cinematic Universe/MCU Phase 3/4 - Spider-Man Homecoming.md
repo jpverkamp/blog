@@ -6,8 +6,32 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- Spider-Man 
+- Tom Holland's Spider-Man
 cover: /embeds/movies/spider-man-homecoming.jpg
-series_index: [16, 4]
+series_index: [16, 4, 6, 1]
+imdb_id: '2250912'
+reviews/cinematographers:
+- Salvatore Totino
+reviews/composers:
+- Michael Giacchino
+reviews/directors:
+- Jon Watts
+reviews/editors:
+- Debbie Berman
+- Dan Lebental
+reviews/writers:
+- Jonathan Goldstein
+- John Francis Daley
+- Jon Watts
+- Christopher Ford
+- Chris McKenna
+- Erik Sommers
+- Stan Lee
+- Steve Ditko
+- Joe Simon
+- Jack Kirby
+reviews/year: 2017
 ---
 *That* is a truly delightful Spider-Man movie. It's a bit weird seeing him introduced *after* the events of {{<crosslink "Captain America: Civil War">}}) and completely skipping how he became Spider-Man in the first place... but it works. I really like the entire plot, dealing with the fallout of the Avengers / super-hero activity and how normal people try to live their lives around it--and what happens when the powers that be step in and take that away from them. Excellent villain fuel. It's a little silly that {{< spoiler >}}the Vulture ends up being Spider-Man's crush's father...{{</ spoiler >}}, but I suppose that's the sort of thing you expect from superhero films. Plotwise, it's a solid, fun action film. 
 

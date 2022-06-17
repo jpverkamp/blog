@@ -9,6 +9,22 @@ source:
 - Disney+
 cover: /embeds/movies/pirates-of-the-caribbean-dead-man-s-chest.jpg
 series_index: [2]
+imdb_id: 0383574
+reviews/cinematographers:
+- Dariusz Wolski
+reviews/composers:
+- Hans Zimmer
+reviews/directors:
+- Gore Verbinski
+reviews/editors:
+- Stephen E. Rivkin
+- Craig Wood
+reviews/writers:
+- Ted Elliott
+- Terry Rossio
+- Stuart Beattie
+- Jay Wolpert
+reviews/year: 2006
 ---
 {{<crosslink "Pirates of the Caribbean: The Curse of the Black Pearl">}} was surprisingly good. So of course they're going to make a sequel and turn everything up to 11. More Johnny Depp (yay)! More love triangles (boo)! More supernatural beasties (awesome)! More mythology (sweet)!
 

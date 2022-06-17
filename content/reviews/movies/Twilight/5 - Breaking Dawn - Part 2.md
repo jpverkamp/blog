@@ -7,6 +7,14 @@ cover: /embeds/movies/breaking-dawn.jpg
 reviews/series:
 - Twilight
 series_index: [5]
+imdb_id: '9455010'
+reviews/directors:
+- Sean Moore
+reviews/editors:
+- Sean Moore
+reviews/writers:
+- Sean Moore
+reviews/year: 2013
 ---
 Yes. I went to see Breaking Dawn Part 2. And believe it or not, it actually *wasn't terrible*.
 
