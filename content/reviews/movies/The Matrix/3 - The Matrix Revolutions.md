@@ -1,7 +1,6 @@
 ---
 title: "The Matrix Revolutions"
 date: 2022-06-14
-draft: True
 cover: /embeds/movies/the-matrix-revolutions.jpg
 reviews/lists:
 - 2022 Movie Reviews

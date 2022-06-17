@@ -1,7 +1,6 @@
 ---
 title: "Constantine"
 date: 2022-06-17
-draft: True
 cover: /embeds/movies/constantine.jpg
 reviews/lists:
 - 2022 Movie Reviews
