@@ -19,7 +19,6 @@ import: import-flickr import-goodreads
 
 run:
 	hugo server --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
-	make desync
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
@@ -30,15 +29,8 @@ build:
 
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
-	make desync
 
 deploy: build
 	cd public; git add .
 	cd public; git commit -m "Automatic deployment (${LAST_COMMIT})"
 	cd public; git push origin master
-
-desync: 
-	xattr -w com.dropbox.ignored 1 resources
-	xattr -w com.dropbox.ignored 1 cache
-	xattr -w com.dropbox.ignored 1 public
-	xattr -w com.dropbox.ignored 1 _cache
