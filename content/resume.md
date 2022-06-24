@@ -1,10 +1,16 @@
 ---
-title: Resume
+title: Resume @ John-Paul Verkamp
 type: page
 comments: False
 ---
+## Contact me
 
-[Contact me](mailto:resume@jverkamp.com)
+* Phone 812.661.8691
+* Email: resume@jverkamp.com
+* LinkedIn: https://www.linkedin.com/in/jpv0/
+* Website: https://blog.jverkamp.com/
+* Resume: https://blog.jverkamp.com/resume/
+* Github: https://github.com/jpverkamp/
 
 ---
 
@@ -12,19 +18,17 @@ comments: False
 
 ### 2020 -- 2022: [Ethos Life](https://www.ethoslife.com/)
 
-#### Senior Security Engineer
+#### Senior Security Engineer (Remote)
 
-* Implemented, maintained, and worked as product design partner with third party solutions for: an AI based WAF and fraud detection, a zero-trust networking solution, and a low level system monitoring solution on workstations and cloud servers. 
+* Implemented, maintained, and worked as product design partner with third party solutions for: an [AI based WAF and fraud detection](https://www.traceable.ai/), a [zero-trust networking solution](https://www.banyansecurity.io/), and a [low level system monitoring solution on workstations and cloud servers](https://www.uptycs.com/). 
 
-* Automated internal access control audits between various systems; participated in SOC2 based audits.
+* Automated internal access control audits between various systems using [flow based automation systems](https://www.tines.com/) and custom scripts; participated in SOC2 based audits.
 
 * Implemented centralized vulnerability management system. 
 
 ### 2013 -- 2020: [Edmodo](https://edmodo.com/)
 
-#### Senior Security/Operations Engineer
-
-Onsite 2013-2015, remote 2015-present
+#### Senior Security/Operations Engineer (Onsite in 2013 to Remote in 2016)
 
 #### Security
 
