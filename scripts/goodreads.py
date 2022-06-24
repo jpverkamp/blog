@@ -21,7 +21,7 @@ from PIL import Image
 
 import coloredlogs
 
-BYPASS_CACHE = False
+BYPASS_CACHE = True
 
 markdowner = html2text.HTML2Text()
 
@@ -292,6 +292,21 @@ def get_book(query):
             'id': data['id'],
             'key': config['goodreads']['key'],
         })
+
+        keys = [
+            ('book/isbn', 'isbn'),
+            ('book/isbn13', 'isbn13'),
+            ('book/num_pages', 'page_count'),
+        ]
+
+        print(xml.etree.ElementTree.tostring(api_data))
+
+        print(api_data.find('book/isbn').text.strip())
+        exit()
+
+        for src_key, dst_key in keys:
+            if value := api_data.find(src_key):
+                data[dst_key] = value.text.strip()
 
         title, series, index = split_title(api_data.find('book/title').text.strip())
         if not data.get('name'):

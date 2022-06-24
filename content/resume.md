@@ -10,7 +10,7 @@ comments: False
 
 ## Industry Experience
 
-### 2020 -- present: [Ethos Life](https://www.ethoslife.com/)
+### 2020 -- 2022: [Ethos Life](https://www.ethoslife.com/)
 
 #### Senior Security Engineer
 

@@ -1339,25 +1339,22 @@ Mistborn:
   id: 40910
   name: Mistborn
   url: /series/40910.mistborn
-
+Mistborn - Alloy Era:
+  books: {}
+  id: 123082
+  name: Mistborn - Alloy Era
+  url: /series/123082.mistborn---alloy-era
 Mistborn Era 1:
   books:
     1: The Final Empire
     2: The Well of Ascension
     3: The Hero of Ages
-
 Mistborn Era 2:
   books:
     1: The Alloy of Law
     2: Shadows of Self
     3: The Bands of Mourning
     4: The Lost Metal
-
-Mistborn - Alloy Era:
-  books: {}
-  id: 123082
-  name: Mistborn - Alloy Era
-  url: /series/123082.mistborn---alloy-era
 Moonbase Saga:
   books:
     1: Moonrise
