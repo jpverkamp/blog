@@ -41,7 +41,7 @@ const TOKEN_PATTERNS = [
 ]
 ```
 
-For the most part, they're all unique. Brackets (`()[]{}`) are all treated as their own thing, since those will define `params`, `lists`, and `groups` (respectively, see [my previous post]({{<ref "2022-02-23-runelang-language-specification">}})). `,` is a token that should only be used in `params`, but does break up tokens in that case. Likewise `:` is only used in `kwargs` during `param` parsing. They we have literal booleans. After that, we start getting slightly more interesting, with numbers!
+For the most part, they're all unique. Brackets (`()[]{}`) are all treated as their own thing, since those will define `params`, `lists`, and `groups` (respectively, see [my previous post]({{<ref "1 - Language Specification">}})). `,` is a token that should only be used in `params`, but does break up tokens in that case. Likewise `:` is only used in `kwargs` during `param` parsing. They we have literal booleans. After that, we start getting slightly more interesting, with numbers!
 
 * Hexadecimal literals: `0x__`
 * Fractions: `_/_`

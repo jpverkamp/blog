@@ -13,7 +13,7 @@ series:
 ---
 I'm still here! And less sick now. 
 
-Last time(s), we [described]({{<ref "2022-02-23-runelang-language-specification">}}) and [lexed]({{<ref "2022-02-24-runelang-the-lexer.md" >}}) Runelang! This time around, let's take the lexed tokens and go one step further and parse them!
+Last time(s), we {{<crosslink text="described" title="Runelang: Language Specification">}} and {{<crosslink text="lexed" title="Runelang: The Lexer">}}) Runelang! This time around, let's take the lexed tokens and go one step further and parse them!
 
 So, how do we go about this? With a {{<wikipedia "recursive descent parser">}}! 
 

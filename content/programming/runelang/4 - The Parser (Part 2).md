@@ -11,7 +11,7 @@ programming/topics:
 series:
 - Runelang in the Browser
 ---
-[Earlier this week]({{<ref "2022-03-15-runelang-the-parser-part-1">}}), we started parsing, getting through groups, nodes, params, and lists. A pretty good start, but it also leaves out two very powerful things (expressions and defines), one of which we absolutely do need to start actually evaluating things: expressions. Since we use them in every param, we pretty much need to know how to parse them, so let's do it!
+{{<crosslink text="Earlier this week" title="Runelang: The Parser (Part 1)">}}, we started parsing, getting through groups, nodes, params, and lists. A pretty good start, but it also leaves out two very powerful things (expressions and defines), one of which we absolutely do need to start actually evaluating things: expressions. Since we use them in every param, we pretty much need to know how to parse them, so let's do it!
 
 <!--more-->
 
