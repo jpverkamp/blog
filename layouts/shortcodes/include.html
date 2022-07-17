@@ -1,2 +1,6 @@
-{{ $content := readFile (printf "%s/%s" $.Page.File.Dir (.Get 0)) | safeHTML }}
-{{ $content | safeHTML }}
+{{ if $.Page.File }}
+    {{ $content := readFile (printf "%s/%s" $.Page.File.Dir (.Get 0)) | safeHTML }}
+    {{ $content | safeHTML }}
+{{ else }}
+    {{ errorf "[include] Unable to render include %q for %q" (.Get 0) $.Page }}
+{{ end }}

@@ -1,4 +1,8 @@
-{{ $rawContent := readFile (printf "%s/%s" $.Page.File.Dir (.Get 1)) }}
-{{ $content := printf "```%s\n%s\n```" (.Get 0) $rawContent }}
+{{ if $.Page.File }}
+    {{ $rawContent := readFile (printf "%s/%s" $.Page.File.Dir (.Get 1)) }}
+    {{ $content := printf "```%s\n%s\n```" (.Get 0) $rawContent }}
 
-{{ $content | markdownify }}
+    {{ $content | markdownify }}
+{{ else }}
+    {{ errorf "[source] Unable to render include %q (format: %q) for %q" (.Get 1) (.Get 0) $.Page }}
+{{ end }}
