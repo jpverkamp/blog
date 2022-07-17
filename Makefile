@@ -20,6 +20,9 @@ import: import-flickr import-goodreads
 run:
 	hugo server --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
 
+debug:
+	hugo server --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80 --debug
+
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
 	cd public; git wipe; git pull --rebase --prune
