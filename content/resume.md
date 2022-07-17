@@ -12,6 +12,7 @@ comments: False
 * Resume: https://blog.jverkamp.com/resume/
 * Github: https://github.com/jpverkamp/
 
+
 ---
 
 ## Industry Experience
@@ -25,6 +26,8 @@ comments: False
 * Automated internal access control audits between various systems using [flow based automation systems](https://www.tines.com/) and custom scripts; participated in SOC2 based audits.
 
 * Implemented centralized vulnerability management system. 
+
+* Set up a logging and inventory system to synchronize and detect oddities between various systems used by IT, infrastructure, and employees at the company. 
 
 ### 2013 -- 2020: [Edmodo](https://edmodo.com/)
 
@@ -88,22 +91,6 @@ Updated legacy inventory management system while following US Navy coding standa
 
 Designed, tested, and implemented medical imaging plug-ins for Adobe Photoshop and Acrobat meeting ISO-13485 standards for medical devices.
 
----
-## Education
-
-### 2011 -- 2014: [Indiana University](https://cs.indiana.edu/)
-
-#### MS in Computer Science
-
-Thesis topic: Security and internet censorship; Minor: Compilers
-
-Originally in the PhD program; passed qualification exams; left with my advisor to join the private sector
-
-### 2006 -- 2010: [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/)
-
-#### BS in Computer Science and Mathematics
-
----
 
 # Research Experience
 
@@ -122,3 +109,32 @@ Analysed one month of Tweets for each of five incidents where political forces u
 ### Inferring the Mechanics of Web Censorship Around the World ([USENIX FOCI '12](https://www.usenix.org/conference/foci12))
 
 Performed an in-depth study of censorship in 11 countries around the world; created a taxonomy of censorship techniques in practice today.
+
+---
+## Education
+
+### 2011 -- 2014: [Indiana University](https://cs.indiana.edu/)
+
+#### MS in Computer Science
+
+Thesis topic: Security and internet censorship; Minor: Compilers
+
+Originally in the PhD program; passed qualification exams; left with my advisor to join the private sector
+
+### 2006 -- 2010: [Rose-Hulman Institute of Technology](https://www.rose-hulman.edu/)
+
+#### BS in Computer Science and Mathematics
+
+---
+
+## Skills
+
+* Security: 10+ years in application layer and infrastructure layer security, specializing in web security, authentication, TLS/HTTPS, and email security (DMARC, DKIM, SPF).
+
+* Languages: 10+ years experience with Python, JavaScript, Ruby, Go, Scheme/Racket, and PHP. 5+ years experience with Java, .NET (C# and F#). Some experience with Rust, C++, and various Assembly languages. Can read and review from a security perspective code in just about any other language. 
+
+* Server software: Apache, nginx, MySQL, SQLite, PostgreSQL
+  
+* Operating systems: Most experience with macOS and Linux, some experience with Windows.
+
+* Cloud: 10+ years with AWS (in particular EC2, CloudFront, and S3). 
