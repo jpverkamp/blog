@@ -118,7 +118,7 @@ while True:
 
     path_parts = [REVIEW_BASE_DIR, 'books', data['reviews/authors'][0]]
 
-    if data['reviews/series']:
+    if data.get('reviews/series'):
         path_parts.append(data['reviews/series'][0])
         path_parts.append(f'{data["series_index"][0]} - {data["title"]}.md')
     else:
