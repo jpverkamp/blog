@@ -101,12 +101,53 @@ while True:
 
         data['cover'] = f'/embeds/books/{cover_filename}'
 
-    elif title_el := soup.select_one('h1[data-testid="bookTitle"]'):
-        logging.warning('- Loading data from new format')
-        logging.warning('- Not sure how to process this yet')
-        break
-
+    elif title_el := soup.select_one('div.BookPageTitleSection h1'):
+        logging.info('- Loading data from new format')
         data['title'] = title_el.text.strip()
+
+        if series_el := soup.select_one('div.BookPageTitleSection h3'):
+            print(series_el.text.strip().strip('()'))
+            series, index = series_el.text.strip().strip('()').rsplit('#', 1)
+            series = series.strip()
+            index = index.strip()
+
+            if index.isdigit():
+                index = int(index)
+            else:
+                try:
+                    index = float(index)
+                except ValueError:
+                    pass
+
+            data['reviews/series'] = [series]
+            data['series_index'] = [index]
+
+            data['reviews/authors'] = [
+                el.text.strip()
+                for el in soup.select('div.BookPageMetadataSection div.ContributorLinksList a.ContributorLink')
+            ]
+
+            for row in soup.select('div.DeskListItem'):
+                if el := row.select_one('dt'):
+                    if el.text.strip().lower() == 'isbn':
+                        value = row.select_one('dd').text.strip()
+                        data['isbn'] = value.split()[0]
+
+                        if 'isbn13' in value.lower():
+                            data['isbn13'] = value.split()[-1].strip(')')
+
+            data['page_count'] = int(soup.select_one('[data-testid="pagesFormat"]').text.strip().split()[0])
+
+            cover_url = soup.select_one('div.BookCover img').attrs['src']
+            cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
+            cover_path = os.path.join(COVER_DIR, 'books', cover_filename)
+            logging.info(f'- Saving cover {cover_filename} <- {cover_url}')
+
+            image = Image.open(requests.get(cover_url, stream=True).raw)
+            image = image.resize(TARGET_COVER_SIZE)
+            image.save(cover_path)
+
+            data['cover'] = f'/embeds/books/{cover_filename}'
 
     else:
         logging.warning('- Unknown page format')
