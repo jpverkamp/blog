@@ -1,7 +1,6 @@
 ---
 cover: /embeds/books/last-argument-of-kings.jpg
 date: '2022-07-17 23:00:00'
-draft: true
 goodreads_id: 944076
 isbn: 0575077905
 isbn13: '9780575077904'
