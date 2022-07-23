@@ -30,6 +30,8 @@ generated: true
 {description}
 
 {{{{< flickr set="{id}" >}}}}
+
+<!--more-->
 '''
 
 def fix_content_objects(obj):

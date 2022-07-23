@@ -8,3 +8,5 @@ generated: true
 First day hike again! More of a first day play in the water with all the rain and flooding, but still a lot of fun.
 
 {{< flickr set="72177720295660412" >}}
+
+<!--more-->
