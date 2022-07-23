@@ -131,10 +131,10 @@ Originally in the PhD program; passed qualification exams; left with my advisor 
 
 * Security: 10+ years in application layer and infrastructure layer security, specializing in web security, authentication, TLS/HTTPS, and email security (DMARC, DKIM, SPF).
 
-* Languages: 10+ years experience with Python, JavaScript, Ruby, Go, Scheme/Racket, and PHP. 5+ years experience with Java, .NET (C# and F#). Some experience with Rust, C++, and various Assembly languages. Can read and review from a security perspective code in just about any other language. 
+* Languages: 10+ years experience with Python, JavaScript, Ruby, Go, Scheme/Racket, Bash, and PHP. 5+ years experience with Java, .NET (C# and F#). Some experience with Rust, C++, and various Assembly languages. Can read and review from a security perspective code in just about any other language. 
 
 * Server software: Apache, nginx, MySQL, SQLite, PostgreSQL
   
-* Operating systems: Most experience with macOS and Linux, some experience with Windows.
+* Operating systems: Most experience with macOS and Linux (20+ years), some experience with Windows.
 
 * Cloud: 10+ years with AWS (in particular EC2, CloudFront, and S3). 
