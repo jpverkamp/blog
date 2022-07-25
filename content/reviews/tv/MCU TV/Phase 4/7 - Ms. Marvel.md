@@ -1,7 +1,6 @@
 ---
 title: "Ms. Marvel"
 date: 2022-07-23
-draft: True
 cover: /embeds/tv/ms-marvel.jpg
 reviews/lists:
 - 2022 TV Reviews
