@@ -62,6 +62,9 @@ while True:
         'editor': 'reviews/editors',
     }
     for key, header_key in keys.items():
+        if key not in more_data:
+            continue
+
         value = more_data[key]
 
         if isinstance(value, list):
@@ -130,6 +133,7 @@ while True:
     # Create post
     if content_type == 'tv':
         review_dir = os.path.join(REVIEW_BASE_DIR, 'tv')
+        review_filename = f'{title}.md'
     else:
         if series:
             review_dir = os.path.join(REVIEW_BASE_DIR, content_type, series)
