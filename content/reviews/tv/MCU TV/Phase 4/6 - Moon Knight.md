@@ -26,11 +26,11 @@ Overall, it's probably my favorite of the MCU TV shows so far... I'll have to re
 
 Thoughts on individual episodes (potential spoilers):
 
-1. The Goldfish Problem
+1. *The Goldfish Problem*
 
     Wow. That's quite an opening. First time in a while it's someone I have no background on. 
 
-2. Summon the Suit
+2. *Summon the Suit*
 
     Poor Steven. Such a bizarre double life. Layla is pretty cool though!
 
@@ -38,13 +38,13 @@ Thoughts on individual episodes (potential spoilers):
 
     Harrow being a {{<spoiler>}}former avatar{{</spoiler>}} (assuming he's telling the truth) is a fascinating twist. 
 
-3. The Friendly Type
+3. *The Friendly Type*
 
     Suddenly a whole bunch of Avatars and gods. I wonder how in the world that interacts with the rest of the MCU... Neat either way. 
 
     Also... are there more personalities than Marc and Steven? Oh my. 
 
-4. The Tomb
+4. *The Tomb*
 
    Layla gets to be a badass!
 
@@ -52,13 +52,13 @@ Thoughts on individual episodes (potential spoilers):
 
    And then suddenly... it all goes white. That... was jarring. 
    
-5. Asylum
+5. *Asylum*
 
     Tawaret. Wonderfully weird. 
 
     And then all the trauma of learning which was the original... and which was created to make better memories. 
 
-6. Gods and Monsters
+6. *Gods and Monsters*
 
     Well that's very Marvely. We have gods as large as pyramids mirroring the fight of their mortal avatars, souls flying through the sky, impossible physical stunts, and no real repercussions. But still, it's a fun episode. 
 

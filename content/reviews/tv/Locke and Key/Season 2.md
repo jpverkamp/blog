@@ -20,17 +20,17 @@ I so very look forward to Season 3! (see the end)
 
 Mini-reviews for each episode (potential spoilers as we go):
 
-1. The Premiere
+1. *The Premiere*
 
    We've had some relatively supernatural/cosmic horror bits in teh first season... but now with that intro we're really getting into it. Cool!
 
-2. The Head and the Heart
+2. *The Head and the Heart*
 
    Expanding into new characters! And complications with old ones. Good times.
 
    Imagine that ending though. {{<spoiler>}}Erin Voss wakes up after being locked up in her own head for _decades_.{{</spoiler>}}
 
-3. Small World
+3. *Small World*
 
    Nina and Josh are adorable; I wish them the best... but that has to end badly, right? Oy oy oy.
 
@@ -42,11 +42,11 @@ Mini-reviews for each episode (potential spoilers as we go):
 
    {{<spoiler>}}And Duncan getting his memories back... dang. Probably a new ally, but at what cost?!{{</spoiler>}}
 
-4. Forget Me Not
+4. *Forget Me Not*
 
    For a moment there, I really thought the Anywhere Key could even take them into the book... It couldn't, could it?
 
-5. Past is Prologue
+5. *Past is Prologue*
 
    Poor broken Duncan :\
 
@@ -54,7 +54,7 @@ Mini-reviews for each episode (potential spoilers as we go):
 
    Poor broken ({{<spoiler>}}demon{{</spoiler>}}) Eden.
 
-6. The Maze
+6. *The Maze*
 
    And now they know {{<spoiler>}}they killed Ellie{{</spoiler>}}. The idea that the keys eventually lead to evil... Maybe nto entirely wrong there.
 
@@ -62,21 +62,21 @@ Mini-reviews for each episode (potential spoilers as we go):
    >
    > Bode: Oh, are they... what do you call those things... iPods?
 
-7. Best Laid Plans
+7. *Best Laid Plans*
 
    Fighting back! Things are going to be escalating now...
 
-8. Irons in the Fire
+8. *Irons in the Fire*
 
    All the flashbacks!
 
    Kevin Durand as Frederick Gideon in teh flashbacks is fun seeing him again. Been a bit, since X-Men, Lost, and of course Stargate.
 
-9. Alpha and Omega
+9. *Alpha and Omega*
 
    Everything coming to a head! Duncan passing on the Maker torch to Tyler is awesome.
 
-10. Cliffhanger
+10. *Cliffhanger*
 
    Angel/Wings Key! Showdown with the the Demon Key! The Alpha Key!
 

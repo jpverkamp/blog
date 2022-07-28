@@ -20,7 +20,7 @@ Man that's a crazy show. Well worth the show (warning, it is dark, although not 
 
 Reviews of individual episodes (potential spoilers if you read them all ahead):
 
-1. Welcome to Matheson
+1. *Welcome to Matheson*
 
    > I know what I have to do
    >
@@ -32,7 +32,7 @@ Reviews of individual episodes (potential spoilers if you read them all ahead):
 
    Also, huh. It's Bode (two syllables), not Bode (one). The fun times of reading things first.
 
-2. Trapper / Keeper
+2. *Trapper / Keeper*
 
    > Bode: That's how this sort of thing always works. Only kids can get into Narnia.
 
@@ -40,23 +40,23 @@ Reviews of individual episodes (potential spoilers if you read them all ahead):
 
    So much trauma to start to work through. So much history to discover.
 
-3. Head Games
+3. *Head Games*
 
    Not having the literal top of their heads coming off like in the comics is a bit of a bummer, but given the change in medium, I think it works.
 
    So many broken people.
 
-4. The Keepers of the Keys
+4. *The Keepers of the Keys*
 
    Kinsey {{<spoiler>}}removed her fear with the Head Key{{</spoiler>}} and is riding high! For now...
 
    > Body: Hey. No fighting in front of the bacon.
 
-5. Family Tree
+5. *Family Tree*
 
    Oh, now the power starts corrupting them. That certainly got dark in a hurry.
 
-6. The Black Door
+6. *The Black Door*
 
    All of the crazy bonkers places keys are hidden in this house. I wonder if they're always there, or only when they want to be found?
 
@@ -66,7 +66,7 @@ Reviews of individual episodes (potential spoilers if you read them all ahead):
 
    And that... is a creepy door.
 
-7. Dissection
+7. *Dissection*
 
    Sam's back! Oh Dodge.
 
@@ -74,7 +74,7 @@ Reviews of individual episodes (potential spoilers if you read them all ahead):
 
    Intense.
 
-8. Ray of F\*\*king Sunshine
+8. *Ray of F\*\*king Sunshine*
 
    Oy.
 
@@ -84,7 +84,7 @@ Reviews of individual episodes (potential spoilers if you read them all ahead):
 
    Such a very crazy show.
 
-9. Echoes
+9. *Echoes*
 
    THE CROWN! Which is ... not really a key at all? (But needs one)
 
@@ -96,7 +96,7 @@ Reviews of individual episodes (potential spoilers if you read them all ahead):
 
    Billie Eilish really fits.
 
-10. Crown of Shadows
+10. *Crown of Shadows*
 
     Go BODE!
 

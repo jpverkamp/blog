@@ -26,19 +26,19 @@ Onward to season 2!
 
 Thoughts, episode by episode--potential spoilers:
 
-1. We Only See Each Other at Weddings and Funerals
+1. *We Only See Each Other at Weddings and Funerals*
 
     Well that's quite a cast. Super powered super team? Super corrupt and somehow... human.
 
     The dance party was ridiculous... but given their somewhat--complicated--upbringing... it works. Hilarious and awesome to watch.
 
-2. Run Boy Run
+2. *Run Boy Run*
 
     Oh Klaus... He's absolutely bonkers. It's pretty spectacular.
 
     It's been long enough that I only vaguely remember what actually ended the world... but if it's the same, I can totally see it coming.
 
-3. Extra Ordinary
+3. *Extra Ordinary*
 
     I take it back. Klaus isn't the crazy one. They're all the crazy one. Man they're all messed up.
 
@@ -46,13 +46,13 @@ Thoughts, episode by episode--potential spoilers:
 
     Poor Klaus?
 
-4. Man on the Moon
+4. *Man on the Moon*
 
     Weird animal mask secret agents dance party go?
 
     Oh Klaus, how thou hast embraced thine madness.
 
-5. Number Five
+5. *Number Five*
 
     Right... that's what Number Five was up to in the future and what's with Hazel and Cha-Cha. It's all coming back to me... and all coming together.
 
@@ -60,7 +60,7 @@ Thoughts, episode by episode--potential spoilers:
 
     I love subtitles sometimes.
 
-6. The Day That Wasn't
+6. *The Day That Wasn't*
 
     Or--'what happened to Klaus'.
 
@@ -68,7 +68,7 @@ Thoughts, episode by episode--potential spoilers:
 
     Quite a last minute!
 
-7. The Day That Was
+7. *The Day That Was*
 
     One moment—or a lifetime of moments—that’s all it takes to make a villain.
 
@@ -96,13 +96,13 @@ Thoughts, episode by episode--potential spoilers:
 
     > We have a great job. The best job. We get to visit exotic places, meet new people, and then kill 'em.
 
-8. I Heard a Rumor
+8. *I Heard a Rumor*
 
     Oh… that was a terrible thing to make one young girl do to another. Just as the boys are coming together, everything falls apart.
 
     He knew. All along he knew. All that rage.
 
-9. Changes
+9. *Changes*
 
     > Where has it gotten me? Nowhere.
     > 
@@ -118,7 +118,7 @@ Thoughts, episode by episode--potential spoilers:
 
     And now the pieces are all in place. effect is cause, revenge is coming.
 
-10. The White Violin
+10. *The White Violin*
 
     Time cop boss is terrifying. Vanya is terrifying. The end of the world is coming.
 

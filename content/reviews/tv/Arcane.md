@@ -17,7 +17,7 @@ Well worth a watch.
 
 Reviews for each episode (spoilers):
 
-1. Welcome to the Playground
+1. *Welcome to the Playground*
 
    That is a spectacular opening. And absolutely beautiful animation. Wow.
 
@@ -25,7 +25,7 @@ Reviews for each episode (spoilers):
 
    I love the relational between Vi and Powder… and also their father figure Vander. And the rest of their team. Such styling, such personality.
 
-2. Some Mysteries are Better Left Unsolved
+2. *Some Mysteries are Better Left Unsolved*
 
    > Last time I checked, science didn’t require illegal equipment.
 
@@ -37,13 +37,13 @@ Reviews for each episode (spoilers):
 
    Bit weird that there’s only one of what Heimdinger and the robot guy (so far).
 
-3. The Base Violence Necessary for Change
+3. *The Base Violence Necessary for Change*
 
    Dang this is an intense show. Forbidden research into magic/hextech, up against a deadline and hundreds of years of historical experience. Old rivalries back to wreck the world. All sorts of things going on at once.
 
    Also, Powder's {{<spoiler>}}magic crystal bomb... finally being the wone that works, after all that{{</spoiler>}}. Oy.
 
-4. Happy Progress Day
+4. *Happy Progress Day*
 
    Time skip! Jayce has made good on his hextech and everything is happy and shiny... or is it? (of course not)
 
@@ -51,7 +51,7 @@ Reviews for each episode (spoilers):
 
    I thought the first three episodes were good, but _this_ just turned things up significantly.
 
-5. Everybody Wants to be My Enemy
+5. *Everybody Wants to be My Enemy*
 
    The present/future timeline is certainly something. Oh Powder/Jinx. Oh Vi. Oh Jayce. Oh everyone.
 
@@ -67,17 +67,17 @@ Reviews for each episode (spoilers):
    >
    > Caitlyn: Shut up.
 
-6. When These Walls Come Tumbling Down
+6. *When These Walls Come Tumbling Down*
 
    Corruption and betrayal. Reunions that don't go as expected.
 
    Man this is a crazy show.
 
-7. The Boy Savior
+7. *The Boy Savior*
 
    Everyone making decisions they're going to regret...
 
-8. Oil and Water
+8. *Oil and Water*
 
    > Vi: Topside and bottom. Oil and water. That's all there is.
 
@@ -85,7 +85,7 @@ Reviews for each episode (spoilers):
 
    I've never actually played League of Legends... but I'm pretty sure I can see a few of the characters that have to be in the game taking form...
 
-9. The Monster You Created
+9. *The Monster You Created*
 
    > Jayce: Take those off.
    >

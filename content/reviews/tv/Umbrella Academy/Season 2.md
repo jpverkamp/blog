@@ -22,25 +22,25 @@ I quite enjoyed it. And there's still *plenty* of room left for Season 3. A quic
 
 Episode by episode thoughts--definitely a few spoilers, but with how much everything twists and turns and changes... that may not be as huge a deal as in some shows. :
 
-1. Right Back Where We Started
+1. *Right Back Where We Started*
 
     > What the hell did we do?
 
     That is one glorious opening. Dropped off scattered throughout time, then everyone is fully powered up, and finally realize things have gone waaaay sideways. Beautiful.
 
-2. The Frankel Footage
+2. *The Frankel Footage*
 
     She's BACK! And ... he's got a fish in a tank for a head. AND… {{<spoiler>}}Hargreeves!{{</spoiler>}}. This is quite a show.
 
-3. The Swedish Job
+3. *The Swedish Job*
 
     Of course everyone is involved. And meeting Vanya goes well. Of course.
 
-4. The Majestic 12
+4. *The Majestic 12*
 
     Poor Klaus. Poor Allison. Poor Vanya. Poor Luther. Poor Diego. Poor everyone.
 
-5. Valhalla
+5. *Valhalla*
 
     Seeing the origin of Pogo is pretty cool!
 
@@ -48,7 +48,7 @@ Episode by episode thoughts--definitely a few spoilers, but with how much everyt
 
     Man the music in this show in general is great. This show in specifically. A great arrangement of _Bad Guy_ and Swedish _Hello_ (which totally fits).
 
-6. A Light Supper
+6. *A Light Supper*
 
     Dinner with dad. I'm sure this will go well.
 
@@ -56,13 +56,13 @@ Episode by episode thoughts--definitely a few spoilers, but with how much everyt
 
     The heart to heart with Five was ... fascinating.
 
-7. Öga for Öga
+7. *Öga for Öga*
 
     And then there was one…
 
     Also a way out which of course fails. Good times. 
 
-8. The Seven Stages
+8. *The Seven Stages*
 
     Fives! And it was Vanya all along. 
 
@@ -70,7 +70,7 @@ Episode by episode thoughts--definitely a few spoilers, but with how much everyt
 
     > I really wish I had time for the nervous breakdown you so deserve. 
 
-9. 743
+9. *743*
 
     > The Handler: Darling, blood is thicker than water. But you can drown in either.
 
@@ -78,7 +78,7 @@ Episode by episode thoughts--definitely a few spoilers, but with how much everyt
 
     Pretty sure each fix makes things worse. Oh that ending though. 
 
-10. The End of Something
+10. *The End of Something*
 
     Have they learned *nothing*… Oh. Maybe there is hope after all. 
 

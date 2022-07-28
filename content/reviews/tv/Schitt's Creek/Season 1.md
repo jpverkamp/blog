@@ -24,7 +24,7 @@ Worth giving a few episodes a try. It gets better throughout the season.
 
 Individual episodes (spoilers, but for a show like this... do you really care?):
 
-1. Out Cup Runneth Over
+1. *Out Cup Runneth Over*
 
    Oh my. A very different kind of show.
 
@@ -46,19 +46,19 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    I feel bad for them… which I don’t think is the expected outcome.
 
-2. The Drip
+2. *The Drip*
 
    I don’t know which was worse… the sinner party ir the tailgate party.
 
    This… is _not_ my usual kind of show.
 
-3. Don’t Worry, It’s His Sister
+3. *Don’t Worry, It’s His Sister*
 
     <gif>
 
    > People come from all over to take a picture
 
-4. Bad Parents
+4. *Bad Parents*
 
    > Johnny Rose: Your mother and I have been talking, and we've come to the realization that we've not been very good parents.
    >
@@ -78,11 +78,11 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    Stevie is too good for this town.
 
-5. The Cabin
+5. *The Cabin*
 
    Of course it’s the wrong cabin. Woooow.
 
-6. Wine and Roses
+6. *Wine and Roses*
 
    > Herb Ertlinger: Well, it's fruit wine, which in itself is exciting, but the most exciting thing is that all our fruit is 100% insecticide free!
    >
@@ -96,7 +96,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    Starting to settle in?
 
-7. Turkey Shoot
+7. *Turkey Shoot*
 
    > Mutt: Yeah, we went to high school together. I think you'd be good for each other.
    >
@@ -114,7 +114,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    And Jocelyn’s here’s the truth moment… was a welcome surprise.
 
-8. Allez-Vous
+8. *Allez-Vous*
 
    > Moira: It's for me! Thinking of you! "Dear M., hope this helps, I only wish I could do more, xoxo, J.S.P." Justine St. Pierre! David, one of my dear friends is finally reaching out, and you know what, I knew it would be Justine. She can be an angry drunk, but we were always close.
    >
@@ -124,7 +124,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    Oh this episode.
 
-9. Carl’s Funeral
+9. *Carl’s Funeral*
 
    A funeral for the brother you don’t know of the guy who’s cabin you broke into to have sex, small town motel parties, and learning that perhaps the town vet loves dogs.
 
@@ -134,7 +134,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    It’s fascinating watching the kids starting to fit in… and the parents will get there as well.
 
-10. Honeymoon
+10. *Honeymoon*
 
    David and Stevie. So awkward.
 
@@ -142,7 +142,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    Surprise couples dinner party. Also also so so awkward.
 
-11. Little Sister
+11. *Little Sister*
 
    Younger sister doing better now. oof.
 
@@ -152,7 +152,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    Mutt and Twyla. Just… oof.
 
-12. Surprise Party
+12. *Surprise Party*
 
    > Roland Schitt: I'm here to personally invite the two of you to, uhm, a, uh, annual, uhm, elegant, dress-up event that Jocelyn is hosting, uhm, well, no I'm not inviting you, but I'm saying we're... we'll see each other there, at the very big event that Jocelyn is hosting-the whole town will go to this event, they'll all be dressed up, and, uhm, did I, did I say that it's a fundraiser? Oh, sorry Johnny, let me start over here...
 
@@ -160,7 +160,7 @@ Individual episodes (spoilers, but for a show like this... do you really care?):
 
    And then everything goes increasingly sideways.
 
-13. Town For Sale 
+13. *Town For Sale *
 
    Last episode of season 1? They’re not getting out…
 

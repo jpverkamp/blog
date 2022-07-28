@@ -20,7 +20,7 @@ A fun season. Onward we barrel towards the end.
 
 Individual episodes (spoileries):
 
-1. Dead Guy in Room 4
+1. *Dead Guy in Room 4*
 
     And… we’re back.
 
@@ -28,7 +28,7 @@ Individual episodes (spoileries):
     >
     > Alexis: I don't think you want people answering that question.
 
-2. Pregnancy Test
+2. *Pregnancy Test*
 
     > David: I’m sorry I’m not a condom.
 
@@ -36,13 +36,13 @@ Individual episodes (spoileries):
 
     Also… throuple guy. Poor Patrick.
 
-3. Asbestos Fest
+3. *Asbestos Fest*
 
     Moira… woo. Couldn’t care much less about her.
 
     OTOH, Alexis schooling David and Patrick based on her varied experience? Excellent. Roland’s friend… actually being Roland not actually surprising.
 
-4. Girls’ Night
+4. *Girls’ Night*
 
     > David: Okay, I have never heard someone say so many wrong things, one after the other, consecutively, in a row.
     >
@@ -54,7 +54,7 @@ Individual episodes (spoileries):
 
     Alexis growing up is fascinating.
 
-5. RIP Moira Rose
+5. *RIP Moira Rose*
 
     > Johnny: Look, Jocelyn, the last thing I want is for this conversation to get uncomfortable. Oh boy. But-but there is a delicate issue that I wanted to talk about.
     >
@@ -66,13 +66,13 @@ Individual episodes (spoileries):
 
     Also, daw Alexis and Ted and Heather. So much better than the high school plotline.
 
-6. Open Mic
+6. *Open Mic*
 
     David’s anxiety is hard to watch. Stevie’s anxiety is hard to watch. Moira is just in general hard to watch.
 
     Patrick is adorable though!
 
-7. The Barbecue
+7. *The Barbecue*
 
     > All right.
     >
@@ -99,7 +99,7 @@ Individual episodes (spoileries):
 
     Also also also David… did not call that.
 
-8. The Jazzaguy
+8. *The Jazzaguy*
 
     Johnny can sing! Moira can’t take it!
 
@@ -115,7 +115,7 @@ Individual episodes (spoileries):
     >
     > Stevie: Okay, well, if we're being honest, I don't think I've ever had one, either.
 
-9. The Olive Branch
+9. *The Olive Branch*
 
     Graduating from college! With a degree in … pubic relations no less. Funny that they spent far more screen time on High School.
 
@@ -123,7 +123,7 @@ Individual episodes (spoileries):
 
     Moira stealing Alexis’ idea… Totally Moira.
 
-10. Baby Sprinkle
+10. *Baby Sprinkle*
 
     Volunteered baby shower, an overblown rich girl from the past, and an intimacy consultant.
 
@@ -135,7 +135,7 @@ Individual episodes (spoileries):
 
     > David: This is why I hate babies.
 
-11. The Rollout
+11. *The Rollout*
 
     Johnny poison oak’s everyone.
 
@@ -143,11 +143,11 @@ Individual episodes (spoileries):
 
     Moira’s a liar. Oy. I guess even doing the right thing for a bad reason is still something?
 
-12. Singles Week
+12. *Singles Week*
 
     Moira is an ass. Alexis and David are growing up wonderfully though.
 
-13. Merry Christmas, Johnny Rose
+13. *Merry Christmas, Johnny Rose*
 
     > I thought you were Jewish?
     >

@@ -56,7 +56,7 @@ It's so hard to rank these any more, since there's just so much to love in the M
 
 ## Episode by episode thoughts (Spoilers)
 
-1. Generation Why
+1. *Generation Why*
 
    Avengercon! Ant-Man has a podcast! 
 
@@ -64,7 +64,7 @@ It's so hard to rank these any more, since there's just so much to love in the M
 
    I’m curious: did the bangle grant the powers or just unlock something she had already?
 
-2. Crushed
+2. *Crushed*
 
    Training montage go!
 
@@ -72,7 +72,7 @@ It's so hard to rank these any more, since there's just so much to love in the M
 
    Poor confused Yusuf. 
 
-3. Destined 
+3. *Destined *
 
    Aliens!! There are so many random groups on Earth. That’s comics for you. 
 
@@ -80,13 +80,13 @@ It's so hard to rank these any more, since there's just so much to love in the M
 
    Brown Jovi!
 
-4. Seeing Red
+4. *Seeing Red*
 
    Pakistan! Seems impressively sudden. Neat world building though!
 
    It’s extra amusing as the main actress is from Pakistan and moved to Canada. 
 
-5. Time and Again
+5. *Time and Again*
 
    And that’s… how I met your great grandmother. 
 
@@ -94,7 +94,7 @@ It's so hard to rank these any more, since there's just so much to love in the M
 
    And what in the world are they going to do with the last episode? … last two minutes: oh. There!
 
-6. No Normal
+6. *No Normal*
 
    Her family is so adorable. 
 

@@ -20,13 +20,13 @@ Not a show I normally would have chosen, but I'm glad to have watched it. Onward
 
 Ongoing thoughts (spoilers):
 
-1.  Smoke Signals
+1. * Smoke Signals*
 
     Moments have passed! Moira is nuts, Alexis is off to the Galapagos Islands, and David and Patrick are going to get married!
 
     > You mixed up the day and the month on your ticket again, - didn't you?
 
-2.  The Incident
+2. * The Incident*
 
     > Patrick Brewer: David! It's okay!
     >
@@ -50,13 +50,13 @@ Ongoing thoughts (spoilers):
 
     Also: Hotel empire! Of course Roland is Rolanding.
 
-3.  The Job Interview
+3. * The Job Interview*
 
     Ted the Turtle. That is all.
 
     Also Stevie vs. David; competitive job interview, go! That was amusing.
 
-4. Maid of Honor
+4. *Maid of Honor*
 
     The Crows movie is such a strange thing. 
 
@@ -64,27 +64,27 @@ Ongoing thoughts (spoilers):
 
     Also… totally lying about the agent. 
 
-5. The Premiere 
+5. *The Premiere *
 
     Patrick is adorable on dentistry drugs. 
 
-6. The Wingman
+6. *The Wingman*
 
     Poor sad Bob? Bit of a weird plot. 
 
     Alexis weighing impressive career opportunities versus Ted… oh, how they’ve grown. 
 
-7. Moira Rosé
+7. *Moira Rosé*
 
     Totally a cult. Totally too much wine. 
 
-8. The Presidential
+8. *The Presidential*
 
     Ted! Oh. Ted. Oh that was quite a way to go for that particular plot line. 
 
     Both Johnny and Roland (badly) imitating JFK was adorable. 
 
-9. Rebound
+9. *Rebound*
 
     Moira has 6 episodes to redeem herself! Nah. 
 
@@ -92,23 +92,23 @@ Ongoing thoughts (spoilers):
 
     Alexis dating … a grandfather as a rebound. That’s certainly a thing. 
 
-10. Sunrise, Sunset
+10. *Sunrise, Sunset*
 
     David has expensive tastes. This shouldn’t be a surprise. Johnny is so proud. Also not. 
 
     Also so many faces I recognize! Clifton Sparks and Saul Rubinek!
 
-11. The Bachelor Party
+11. *The Bachelor Party*
 
     David is such a bridezilla. An escape room sounds like a terribly great idea. 
 
     The return of Larry Air!
 
-12. The Pitch
+12. *The Pitch*
 
     Thought they’d gotten over wanting to get out long ago. Moira causing trouble, Alexis makes sense, but… why does David beed to leave?
 
-13. Start Spreading the News
+13. *Start Spreading the News*
 
     Turns out Twyla is so not into it for the money. That’s hilarious. 
 
@@ -116,7 +116,7 @@ Ongoing thoughts (spoilers):
 
     And and the Jazzagals tearing up. Daw. 
 
-14. Happy Ending
+14. *Happy Ending*
 
     🎵 It's like rain on your wedding day 🎵
 

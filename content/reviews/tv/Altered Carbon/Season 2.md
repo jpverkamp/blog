@@ -18,7 +18,7 @@ So... that's a huge bummer. They swapped out most of the cast, kept one that... 
 
 Mini-reviews for two episodes:
 
-1. Phantom Lady 
+1. *Phantom Lady *
 
     ... Poe?
 
@@ -32,7 +32,7 @@ Mini-reviews for two episodes:
 
     It certainly feels different. Like a different story based on the same world. But it has some potential. 
 
-2. Payment Deferred
+2. *Payment Deferred*
 
     A part dog/wolf sleeve? Word addition. 
 

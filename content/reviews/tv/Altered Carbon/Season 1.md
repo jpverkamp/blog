@@ -28,19 +28,19 @@ That's quite a spectacular show. Well worth the watch. Now the confusing it... {
 
 Reviews of individual episodes (potential spoilers for previous episodes in each):
 
-1. Out of the Past
+1. *Out of the Past*
 
    Sex! Violence! So much worldbuilding!
 
    The glimpses of people abusing and rebelling against essentially eternal life in new bodies is petty cool.
 
-2. Fallen Angel
+2. *Fallen Angel*
 
    Kovacs on the job! Stumbling into all sorts of other issues--who knows yet how it's all related.
 
    Also Poe is kind of awesome. Weird as heck, but awesome. The AI poker game was... unusual.
 
-3. In a Lonely Place
+3. *In a Lonely Place*
 
    The Patchwork Man. Kids reading scary stories to one another is great. Gets dark of course�
 
@@ -50,13 +50,13 @@ Reviews of individual episodes (potential spoilers for previous episodes in each
 
    So many worldbuilding complications. A married couple fighting to the death, time and time again to provide for their children. A daughter sleeping around in her mother's body. A man sleeved into a snake.
 
-4. Force of Evil
+4. *Force of Evil*
 
    Virtual reality torture. They plug you and and can kill you over and over again. Good times.
 
    Also sleeving grandma--into a tattooed biker sort--for Dia de Los Meurtos. Oh the possibilities of this worldbuilding.
 
-5. The Wrong Man
+5. *The Wrong Man*
 
    As if Bancroft weren't enough, apparently Kovacs' new body has some baggage of its own. Good times.
 
@@ -64,7 +64,7 @@ Reviews of individual episodes (potential spoilers for previous episodes in each
 
    New wrinkles: 3d printed and synthetic sleeves. I do wonder why 3d printed sleeves are so rare. Grow some algae or something for the biomatter and go ham on new sleeves for everyone.
    
-6. Man With My Face
+6. *Man With My Face*
 
    There are so many fascinating characters in this show and we're still picking up more. Glad to see Ortega made it. Upgraded too. 
 
@@ -72,7 +72,7 @@ Reviews of individual episodes (potential spoilers for previous episodes in each
 
    Dimi is a fantastically twisted character. 
 
-7. Nora Inu
+7. *Nora Inu*
 
    Young Kovacs! Oh my. 
 
@@ -84,7 +84,7 @@ Reviews of individual episodes (potential spoilers for previous episodes in each
 
    ... {{<spoiler>}}Quell invented Stacks?{{</spoiler>}}. That's a twist. I like it. 
 
-8. Clash by Night
+8. *Clash by Night*
 
    Dang. I hadn't made the full connection to just how much Rei had done. 
 
@@ -92,7 +92,7 @@ Reviews of individual episodes (potential spoilers for previous episodes in each
    >
    > I believe you're my sister's bitch. 
 
-9. Rage in Heaven
+9. *Rage in Heaven*
 
    > Kovacs: Where have you been?
    >
@@ -102,7 +102,7 @@ Reviews of individual episodes (potential spoilers for previous episodes in each
 
    Also... Head in the Clouds is *insane*. 
 
-10. The Killers
+10. *The Killers*
 
     Not sure which will mess up Ortega more... the torture or the truth. 
 

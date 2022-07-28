@@ -21,7 +21,7 @@ Still a very quick watch. Onward to season 3.
 
 Individual episodes (potentially a touch spoilery):
 
-1. Finding David
+1. *Finding David*
 
    > David Rose: You know, I'm not sure I'm even ready to come home yet.
    >
@@ -37,7 +37,7 @@ Individual episodes (potentially a touch spoilery):
    >
    > Aaron: Not always. Have a safe trip.
 
-2. Family Dinner
+2. *Family Dinner*
 
    Of course none of them can cook. 
 
@@ -53,11 +53,11 @@ Individual episodes (potentially a touch spoilery):
 
    Also… They need to get off this Alexis plot. Seriously. 
 
-3. Jazzagals
+3. *Jazzagals*
 
    Moira is an ass, Bob and John certainly have … a dynamic, and Mutt and David interacting is hilarious. 
 
-4. Estate Sale
+4. *Estate Sale*
 
    > David Rose: I don't have a lot to my name right now, but I do have one thing.
    >
@@ -69,7 +69,7 @@ Individual episodes (potentially a touch spoilery):
 
    Alexis learning how to ride a bike is hilarious. 
 
-5. Bob’s Bagels
+5. *Bob’s Bagels*
 
    Everyone getting jobs! Or sick. 
 
@@ -83,7 +83,7 @@ Individual episodes (potentially a touch spoilery):
 
    Moira actually being more or less motherly? A surprise, but a nice one. 
 
-6. Moira vs. Town Council
+6. *Moira vs. Town Council*
 
    John is passionate! About … taxes. I suppose that’s how they got in this mess. Poor clueless David. 
 
@@ -91,7 +91,7 @@ Individual episodes (potentially a touch spoilery):
 
    Despite the name … I care not for Moira randomly complaining. 
 
-7. The Candidate
+7. *The Candidate*
 
    Everyone running for Council!
 
@@ -111,7 +111,7 @@ Individual episodes (potentially a touch spoilery):
    >
    > Stevie: Oh, this is gonna be fun.
 
-8. Milk Money
+8. *Milk Money*
 
    I appreciate Bob’s newer, less clueless, more snarky self. 
 
@@ -119,7 +119,7 @@ Individual episodes (potentially a touch spoilery):
 
    The politics plot is … strange. Moira is strange. I still don’t care for her. 
 
-9. Moira’s Nudes
+9. *Moira’s Nudes*
 
    > Moira: Then allow me to offer you some advice. 
    >
@@ -139,7 +139,7 @@ Individual episodes (potentially a touch spoilery):
 
    Well that’s certainly a thing. 
 
-10. Ronnie’s Party 
+10. *Ronnie’s Party *
 
    > Moira: Those two are not as simple minded as we thought. 
    >
@@ -153,7 +153,7 @@ Individual episodes (potentially a touch spoilery):
 
    Also also also… Moira and Johnny are clueless and are more about themselves. Room for growth?
 
-11. The Motel Guest
+11. *The Motel Guest*
 
    Johnny and Jocelyn, awkward but I get it. 
 
@@ -161,11 +161,11 @@ Individual episodes (potentially a touch spoilery):
 
    Also, I wonder how long it’s actually going to take one of them to move out…
 
-12. Lawn Signs
+12. *Lawn Signs*
 
    Turns out… David can pretend to be fancy and get some money out of things. 
 
-13. Happy Anniversary
+13. *Happy Anniversary*
 
    Aw. Rich people are unintentionally cruel. And Johnny actually takes a stand. Go for him! (And calls the Schitts friends!)
 
