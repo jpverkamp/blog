@@ -13,9 +13,9 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 2x1+
-  - 3x1+
-  - 4x1+
+#  - 2x1+
+#  - 3x1+
+  - 4x2+
 ---
 Take the timeloop premise of Groundhog Day (et al), apply it to lifetimes, add a few neat worldbuilding twists, break things up with a cataclysm coming back through time... and you have The First Fifteen Lives of Harry August. I love all of those things, so of course, I love this book as well. :D
 

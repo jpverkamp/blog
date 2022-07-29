@@ -18,10 +18,10 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 5x5
+#  - 5x5
   - 4x4+
-  - 4x2+
-  - 1x2+
+#  - 4x2+
+#  - 1x2+
 rating: 4
 ---
 > Well, it did what Outside usually did in stories. Showed up. Violated all the known laws of physics. Killed some people and drove the rest mad.

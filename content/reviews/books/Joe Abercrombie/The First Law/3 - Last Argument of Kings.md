@@ -15,6 +15,11 @@ reviews/series:
 series_index:
 - 3
 title: Last Argument of Kings
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 5x1+
 ---
 > I have learned all kinds of things from my many mistakes. The one thing I never learn is to stop making them.
 

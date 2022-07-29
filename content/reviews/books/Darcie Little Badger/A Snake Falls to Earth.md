@@ -13,9 +13,9 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 2x1+
+#  - 2x1+
   - 5x2+
-  - 5x3+
+#  - 5x3+
 ---
 I do love stories that take mythology I don't know as well and expands on it. In this case, the Lipan (Apache) people of what became the southwestern US down into Mexico. The idea of a world inhabited by animal people--those that can shape shift between an animal and a human form--that was once connected to Earth... and now is not. 
 

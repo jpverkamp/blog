@@ -10,7 +10,7 @@ bingo:
 bingo-data:
   2022 Book Bingo:
   - 5x4+
-  - 4x1
+#  - 4x1
 reviews/authors:
 - Martha Wells
 goodreads_id: 32758901

@@ -7,11 +7,11 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 1x4+
-  - 2x1+
+#  - 1x4+
+#  - 2x1+
   - 2x5+
-  - 4x1
-  - 5x3+
+#  - 4x1
+#  - 5x3+
 reviews/authors:
 - John Milton
 goodreads_id: 15997

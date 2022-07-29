@@ -14,11 +14,6 @@ isbn13: '9780575079793'
 rating: 5
 page_count: 515
 series_index: [1]
-bingo:
-- 2022 Book Bingo
-bingo-data:
-  2022 Book Bingo:
-  - 2x2
 ---
 > Every man has his excuses, and the more vile the man becomes, the more touching the story has to be. What is my story now, I wonder?
 

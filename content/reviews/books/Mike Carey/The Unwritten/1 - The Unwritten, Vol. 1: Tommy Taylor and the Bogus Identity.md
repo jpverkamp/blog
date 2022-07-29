@@ -21,7 +21,7 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 1x3+
+#  - 1x3+
   - 3x1+
 rating: 4
 ---

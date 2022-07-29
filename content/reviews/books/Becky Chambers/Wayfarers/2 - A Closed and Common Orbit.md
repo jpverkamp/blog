@@ -9,8 +9,8 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 4x1
-  - 4x4+
+#  - 4x1
+#  - 4x4+
   - 5x5
 reviews/authors:
 - Becky Chambers
