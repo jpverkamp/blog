@@ -88,7 +88,10 @@ while True:
                     if 'isbn13' in value.lower():
                         data['isbn13'] = value.split()[-1].strip(')')
 
-        data['page_count'] = int(soup.select_one('[itemprop="numberOfPages"]').text.strip().split()[0])
+        try:
+            data['page_count'] = int(soup.select_one('[itemprop="numberOfPages"]').text.strip().split()[0])
+        except:
+            pass
 
         cover_url = soup.select_one('.bookCoverPrimary img').attrs['src']
         cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
