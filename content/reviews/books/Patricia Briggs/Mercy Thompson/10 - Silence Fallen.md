@@ -4,8 +4,6 @@ date: 2019-03-20
 generated: true
 reviews/lists:
 - 2019 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 30687916
@@ -14,7 +12,10 @@ isbn: 0425281272
 isbn13: '9780425281277'
 rating: 5
 page_count: 371
-series_index: [10]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [10, 14]
 ---
 I last read (/ listened to) the Mercy Thompson books back in 2016, so I thought it was about time to go through the series (plus the Alpha and Omega books) again. Imagine my delight when I saw both series had a new entry!  
 

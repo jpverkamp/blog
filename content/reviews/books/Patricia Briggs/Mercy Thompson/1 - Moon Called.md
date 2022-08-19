@@ -4,8 +4,6 @@ date: 2016-07-18
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 71811
@@ -14,7 +12,10 @@ isbn: 0441013813
 isbn13: '9780441013814'
 rating: 5
 page_count: 289
-series_index: [1]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [1, 1]
 ---
 Take a kitchen sink urban fantasy world (vampires and werewolves and Fae, oh my), toss in a few interesting twists and head it with a woman mechanic protagonist with a flair of Native American magic.  
 

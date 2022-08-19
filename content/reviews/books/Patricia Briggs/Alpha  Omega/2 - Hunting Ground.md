@@ -4,8 +4,6 @@ date: 2016-09-23
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Alpha & Omega
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 5292853
@@ -14,7 +12,10 @@ isbn: 044101738X
 isbn13: '9780441017386'
 rating: 5
 page_count: 286
-series_index: [2]
+reviews/series:
+- Alpha & Omega
+- Mercy Thompson World
+series_index: [2, 3]
 ---
 This time around, we leave the icy mountains to instead to head to Seattle. Long story short, the werewolves are coming out as the Fae did back in the 80s (in this universe). In order to make the transition a bit smoother, Charles and Anna are traveling to Seattle as representatives of the Marrok in order to meet with various delegations of the European wolves.  
 

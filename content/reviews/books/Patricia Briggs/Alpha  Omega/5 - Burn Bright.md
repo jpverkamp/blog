@@ -4,8 +4,6 @@ date: 2019-04-09
 generated: true
 reviews/lists:
 - 2019 Book Reviews
-reviews/series:
-- Alpha & Omega
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 35839437
@@ -14,7 +12,10 @@ isbn: 0425281310
 isbn13: '9780425281314'
 rating: 5
 page_count: 308
-series_index: [5]
+reviews/series:
+- Alpha & Omega
+- Mercy Thompson World
+series_index: [5, 15]
 ---
 > It’s bad to have an enemy with the kinds of resources these people apparently have—but it is infinitely worse to have crazy people as enemies.
 

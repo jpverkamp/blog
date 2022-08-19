@@ -4,8 +4,6 @@ date: 2016-09-20
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Alpha & Omega
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 2355575
@@ -14,7 +12,10 @@ isbn: '0441016154'
 isbn13: '9780441016150'
 rating: 5
 page_count: 294
-series_index: [1]
+reviews/series:
+- Alpha & Omega
+- Mercy Thompson World
+series_index: [1, 2]
 ---
 First off: no, you didn't miss anything. This book really does start a few days after Anna's and Charles' are mated, skipping to the end of what essentially makes up the Alpha and Omega short story. It's a bit of a rough start, especially since so much of Anna's character comes from those events that we never actually see, but I think it works.  
 

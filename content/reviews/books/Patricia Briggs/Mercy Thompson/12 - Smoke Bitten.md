@@ -4,8 +4,6 @@ date: 2021-06-03 00:00:00
 generated: true
 reviews/lists:
 - 2021 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 44571368
@@ -14,7 +12,10 @@ isbn: '0440001552'
 isbn13: '9780440001553'
 rating: 5
 page_count: 352
-series_index: [12]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [12, 17]
 ---
 Two in a row! It's like Christmas! If Christmas was chuck full of creepy uberpowerful fae...  
 

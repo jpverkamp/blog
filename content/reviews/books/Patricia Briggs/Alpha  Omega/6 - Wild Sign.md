@@ -4,8 +4,6 @@ date: 2021-04-13 00:00:00
 generated: true
 reviews/lists:
 - 2021 Book Reviews
-reviews/series:
-- Alpha & Omega
 bingo:
 - 2021 Book Bingo
 bingo-data:
@@ -19,7 +17,10 @@ isbn: 0440001587
 isbn13: '9780440001584'
 rating: 5
 page_count: 368
-series_index: [6]
+reviews/series:
+- Alpha & Omega
+- Mercy Thompson World
+series_index: [6, 18]
 ---
 The Mercyverse books (both Mercy Thompason and Alpha & Omega) are one of the few series of books I'll come back to every few years for a complete reread, or in this case, a re-listen. Something that's made all the better when you get to the end and there are new books to add to the old favorites!  
 

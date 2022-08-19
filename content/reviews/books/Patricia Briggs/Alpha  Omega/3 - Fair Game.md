@@ -4,8 +4,6 @@ date: 2016-09-26
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Alpha & Omega
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 7942786
@@ -14,7 +12,10 @@ isbn: '1841497967'
 isbn13: '9781841497969'
 rating: 5
 page_count: 308
-series_index: [3]
+reviews/series:
+- Alpha & Omega
+- Mercy Thompson World
+series_index: [3, 9]
 ---
 > People as old and powerful as he should never be given someone to love. For Anna he would destroy the world.
 

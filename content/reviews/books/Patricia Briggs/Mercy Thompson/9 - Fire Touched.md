@@ -4,8 +4,6 @@ date: 2016-09-15
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 25776210
@@ -14,7 +12,10 @@ isbn: '0425256766'
 isbn13: '9780425256763'
 rating: 5
 page_count: 342
-series_index: [9]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [9, 13]
 ---
 In some ways, Fire Touched manages to back down from the scale of the previous two books. We're no longer fighting primordial spirits or gods, but rather "just" the Fae. Of course, as we see through the course of the book, there are some Fae who might as well be gods.  
 

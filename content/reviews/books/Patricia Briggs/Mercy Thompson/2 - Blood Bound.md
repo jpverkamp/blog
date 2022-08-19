@@ -14,7 +14,10 @@ isbn: 0441014739
 isbn13: '9780441014736'
 rating: 5
 page_count: 292
-series_index: [2]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [2, 4]
 ---
 Blood Bound follows Mercy Thompson as Stefan the vampire calls in a favor owed from the events of the first book. What follows is a violent, blood soaked look into the darker parts of the world Patricia Briggs has built.  
 

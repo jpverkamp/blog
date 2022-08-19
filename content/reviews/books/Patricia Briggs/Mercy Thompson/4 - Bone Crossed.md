@@ -4,8 +4,6 @@ date: 2016-08-08
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 3128411
@@ -14,7 +12,10 @@ isbn: '1841496863'
 isbn13: '9781841496863'
 rating: 5
 page_count: 300
-series_index: [4]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [4, 6]
 ---
 Back to vampires for a little while.  
 

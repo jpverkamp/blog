@@ -4,8 +4,6 @@ date: 2016-09-03
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 13413589
@@ -14,7 +12,10 @@ isbn: '0441020011'
 isbn13: '9780441020010'
 rating: 5
 page_count: 342
-series_index: [7]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [7, 10]
 ---
 Frost Burned feels almost like two novels sort of smooshed together. In starts out with something of a bang with the entire pack getting kidnapped by people apparently mad enough to take on an entire pack of werewolves at once. By the second half though, that's shifted into a little bit of Fae and a lotta bit of vampire trouble which--don't get me wrong--is related, but feels like a different sort of book.  
 

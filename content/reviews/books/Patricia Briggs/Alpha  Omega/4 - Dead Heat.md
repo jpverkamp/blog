@@ -4,8 +4,6 @@ date: 2016-10-01
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Alpha & Omega
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 18941694
@@ -14,7 +12,10 @@ isbn: 0425256758
 isbn13: '9780425256756'
 rating: 5
 page_count: 324
-series_index: [4]
+reviews/series:
+- Alpha & Omega
+- Mercy Thompson World
+series_index: [4, 12]
 ---
 Hope you like horses.  
 

@@ -4,8 +4,6 @@ date: 2016-08-11
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 6587387
@@ -14,7 +12,10 @@ isbn: 044101819X
 isbn13: '9780441018192'
 rating: 5
 page_count: 342
-series_index: [5]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [5, 7]
 ---
 No more vampires, which is a plus for me at least. Your milage may vary. Instead we get a mix of wolves and Fae, which in my opinion are the best parts of the Mercyverse worldbuilding.  
 

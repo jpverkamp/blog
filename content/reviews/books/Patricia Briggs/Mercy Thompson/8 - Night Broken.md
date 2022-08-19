@@ -4,8 +4,6 @@ date: 2016-09-06
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 17562900
@@ -14,7 +12,10 @@ isbn: 042525674X
 isbn13: '9780425256749'
 rating: 5
 page_count: 341
-series_index: [8]
+reviews/series:
+- Mercy Thompson
+- Mercy Thompson World
+series_index: [8, 11]
 ---
 Interesting thing about tight first person point of view: when the main character feels strongly about another character, it comes through really strongly. Take for example Christy, Adam's ex-wife. On one hand, I'm sure she's not quite as bad as she appears, given that all we see is from Mercy's point of view. On the other hand, she's really a fairly troubled person.  
 
