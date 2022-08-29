@@ -1,7 +1,6 @@
 ---
 cover: /embeds/books/shifting-shadows.jpg
 date: '2022-08-13'
-draft: true
 goodreads_id: 20821263
 page_count: 450
 rating: -1

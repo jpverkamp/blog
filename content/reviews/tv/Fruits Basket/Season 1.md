@@ -1,7 +1,6 @@
 ---
 title: "Fruits Basket: Season 1"
 date: 2022-07-26
-draft: True
 cover: /embeds/tv/fruits-basket.jpg
 reviews/lists:
 - 2022 TV Reviews
