@@ -1,7 +1,6 @@
 ---
 cover: /embeds/books/the-bone-ships.jpg
 date: '2022-09-03'
-draft: true
 goodreads_id: 43521682
 page_count: 512
 rating: -1
