@@ -6,5 +6,7 @@
     {{- $.Scratch.Add "docurl" "https://docs.python.org/3/search.html?q=%s" -}}
 {{- else if eq (.Get 0) "godot" -}}
     {{- $.Scratch.Add "docurl" "https://docs.godotengine.org/en/stable/search.html?q=%s&check_keywords=yes&area=default" -}}
+{{- else if eq (.Get 0) "rust" -}}
+    {{- $.Scratch.Add "docurl" "https://docs.rs/%s/latest/%s/" -}}
 {{- end -}}
 <code><a href="{{- replace ($.Scratch.Get "docurl") "%s" (.Get 1) -}}">{{- .Get 1 -}}</a></code>
