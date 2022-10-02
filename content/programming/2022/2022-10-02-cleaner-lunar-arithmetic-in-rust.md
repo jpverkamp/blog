@@ -139,25 +139,7 @@ For this, you get a family of macros that let you implement one of the possible 
 #[macro_use] extern crate impl_ops;
 use std::ops;
 
-#[derive(Debug)]
-pub struct LunarInteger(Vec<u8>);
-
-impl LunarInteger {
-    pub fn new(n: u32) -> Self {
-        let digits = n.to_string().chars().map(|d| d.to_digit(10).unwrap() as u8).rev().collect();
-        Self(digits)
-    }
-    
-    pub fn value(&self) -> u32 {
-        self.0.iter().rev().map(|d| d.to_string()).collect::<String>().parse().unwrap()
-    }
-}
-
-impl fmt::Display for LunarInteger {
-    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        self.value().fmt(f)
-    }
-}
+// ...
 
 impl_op_ex!(+ |la: &LunarInteger, lb: &LunarInteger| -> LunarInteger {
     // Iterate over digits of both from least to most significant 
