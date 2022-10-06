@@ -80,5 +80,37 @@
         </li>
         {{- end -}}
     {{- end -}}
+
+    {{- if (isset .Params "bingo-data") -}}
+        {{- range $k, $vs := index .Params "bingo-data" -}}
+            {{- $.Scratch.Set "bingo-page" false }}
+            {{- range $maybeBingoPage := $.Site.AllPages -}}
+                {{- if (and (eq $maybeBingoPage.Type "reviews") (eq ($maybeBingoPage.Title | lower) ($k | lower))) -}}
+                    {{- $.Scratch.Set "bingo-page" $maybeBingoPage -}}
+                {{- end -}}
+            {{- end -}}
+            {{- $bingoPage := $.Scratch.Get "bingo-page" -}}
+            {{- if $bingoPage -}}
+            <ul class="taxonomy-keys">
+                <li>
+                    <a class="taxonomy-key" href="{{ $bingoPage.Permalink }}">{{ $bingoPage.Title }}</a>
+                    <ul class="taxonomy-values">
+                    {{- range $v := $vs -}}
+                        {{- $row := sub (int (substr $v 0 1)) 1 -}}
+                        {{- $col := sub (int (substr $v 2 1)) 1 -}}
+                        {{- range $bingoTitle, $bingoEntries := $.Site.Data.bingo -}}
+                            {{- if eq $k ($bingoTitle | lower ) -}}
+                                <li>
+                                    {{ index (index $bingoEntries $row) $col | markdownify }}
+                                </li>      
+                            {{- end -}}
+                        {{- end -}}
+                    {{- end -}}
+                    </ul>
+                </li>
+            </ul>
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
     </ul>
 </div>
