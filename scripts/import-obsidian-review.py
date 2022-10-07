@@ -13,9 +13,9 @@ SRC_ROOT = '/Users/jp/Library/Mobile Documents/iCloud~md~obsidian/Documents'
 DST_ROOT = os.path.join(os.path.dirname(__file__), '..')
 
 EMBED_PATHS = {
-    'tv': os.path.join(DST_ROOT, 'static/embeds/tv'),
-    'movie': os.path.join(DST_ROOT, 'static/embeds/movie'),
-    'book': os.path.join(DST_ROOT, 'static/embeds/books/attachments'),
+    'tv': 'embeds/tv',
+    'movie': 'embeds/movies/attachments',
+    'book': 'embeds/books/attachments',
 }
 
 @click.command()
@@ -66,8 +66,8 @@ def import_obsidian(mode, path):
         
         dst_hash = hashlib.sha256(dst_bytes).hexdigest()[:6]
         dst_file = f'{slug}-{dst_hash}.{extension}'
-        dst_path = os.path.join(EMBED_PATHS[mode], dst_file)
-        dst_link = f'/embeds/books/attachments/{dst_file}'
+        dst_path = os.path.join(DST_ROOT, 'static', EMBED_PATHS[mode], dst_file)
+        dst_link = f'/{EMBED_PATHS[mode]}/{dst_file}'
 
         content = content.replace(f'![[{src_file}]]', f'![]({dst_link})')
 
