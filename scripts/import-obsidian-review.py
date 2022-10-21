@@ -13,7 +13,7 @@ SRC_ROOT = '/Users/jp/Library/Mobile Documents/iCloud~md~obsidian/Documents'
 DST_ROOT = os.path.join(os.path.dirname(__file__), '..')
 
 EMBED_PATHS = {
-    'tv': 'embeds/tv',
+    'tv': 'embeds/tv/attachments',
     'movie': 'embeds/movies/attachments',
     'book': 'embeds/books/attachments',
 }
@@ -73,6 +73,8 @@ def import_obsidian(mode, path):
 
         with open(dst_path, 'wb') as f:
             f.write(dst_bytes)
+
+    content = re.sub(r'\n+', '\n\n', content)
 
     print(content)
 
