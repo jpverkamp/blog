@@ -26,3 +26,5 @@ It's a very cool root for the story and Barker only takes it from there with uni
 I do quite enjoy the characters as well. Setting the story around a prison ship? Not that unusual, but I really do love how much Barker makes the reader care for the people on it--and to see them grow together as a grow. Lucky Maes is of course awesome as well--and I do love the more alien birdman. Want to see what more is going on there for sure. 
 
 Overall, a great book and I'm glad to have read it. Onward to the sequels!
+
+<!--more-->
