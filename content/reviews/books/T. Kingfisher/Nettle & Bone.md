@@ -11,6 +11,11 @@ reviews/authors:
 reviews/lists:
 - 2022 Book Reviews
 title: Nettle & Bone
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 3x2+
 ---
 > The trees were full of crows and the woods were full of madmen.
 > 
