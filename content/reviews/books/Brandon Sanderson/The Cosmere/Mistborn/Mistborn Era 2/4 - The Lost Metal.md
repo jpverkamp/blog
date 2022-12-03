@@ -1,7 +1,6 @@
 ---
 cover: /embeds/books/the-lost-metal.jpg
 date: '2022-11-27'
-draft: true
 goodreads_id: 23947089
 isbn: 0765391198
 isbn13: '9780765391193'
