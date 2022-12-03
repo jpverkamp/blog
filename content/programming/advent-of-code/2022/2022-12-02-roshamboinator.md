@@ -1,5 +1,5 @@
 ---
-title: "AoC 2022 Day 1: Roshamboinator"
+title: "AoC 2022 Day 2: Roshamboinator"
 date: 2022-12-02 00:00:03
 programming/languages:
 - Rust
