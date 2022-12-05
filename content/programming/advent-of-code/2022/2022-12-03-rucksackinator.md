@@ -78,7 +78,7 @@ $ ./target/release/03-rucksackinator 1 data/03.txt
 took 2.813541ms
 ```
 
-#### **Part 3:** Instead, group each set of 3 inputs. Find the one character that occurs in each of the three lines of each group. Score as before. 
+#### **Part 2:** Instead, group each set of 3 inputs. Find the one character that occurs in each of the three lines of each group. Score as before. 
 
 This isn't actually *that* much different:
 

@@ -79,7 +79,7 @@ fn part1(filename: &Path) -> String {
 
 That's pretty minimal. Is it actually more or less readable? I think it's pretty decent at least. 
 
-#### **Part 3:** Instead, count how many spans have one overlapping the other at all. 
+#### **Part 2:** Instead, count how many spans have one overlapping the other at all. 
 
 Okay, expand the implementation of `Span`:
 
