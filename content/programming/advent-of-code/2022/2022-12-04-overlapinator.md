@@ -28,7 +28,11 @@ impl Span {
 
         Span {
             min: min.parse::<isize>().expect("min is not an integer"),
-            max: max.strip_prefix("-").expect("malformed prefix, missing dash").parse::<isize>().expect("max is not an integer"),
+            max: max
+                .strip_prefix("-")
+                .expect("malformed prefix, missing dash")
+                .parse::<isize>()
+                .expect("max is not an integer"),
         }
     }
 
@@ -42,7 +46,14 @@ fn parse(lines: &Vec<String>) -> Vec<(Span, Span)> {
 
     for line in lines {
         let (left, right) = line.split_at(line.find(",").expect("missing comma in line"));
-        result.push((Span::new(left), Span::new(right.strip_prefix(",").expect("malformed prefix, missing comma"))))
+        result.push((
+            Span::new(left),
+            Span::new(
+                right
+                    .strip_prefix(",")
+                    .expect("malformed prefix, missing comma"),
+            ),
+        ))
     }
 
     result
@@ -71,9 +82,11 @@ That works well enough, but one downside is that we're allocating memory for the
 
 ```rust
 fn part1(filename: &Path) -> String {
-    parse(&read_lines(filename)).iter().filter(
-        |pair| pair.0.contains(&pair.1) || pair.1.contains(&pair.0)
-    ).count().to_string()
+    parse(&read_lines(filename))
+        .iter()
+        .filter(|pair| pair.0.contains(&pair.1) || pair.1.contains(&pair.0))
+        .count()
+        .to_string()
 }
 ```
 
@@ -98,9 +111,11 @@ A bit messier, but it needs to be to deal properly with the single value edge ca
 
 ```rust
 fn part2(filename: &Path) -> String {
-    parse(&read_lines(filename)).iter().filter(
-        |pair| pair.0.overlaps(&pair.1)
-    ).count().to_string()
+    parse(&read_lines(filename))
+        .iter()
+        .filter(|pair| pair.0.overlaps(&pair.1))
+        .count()
+        .to_string()
 }
 ```
 

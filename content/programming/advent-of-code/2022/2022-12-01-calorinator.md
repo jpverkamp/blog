@@ -57,7 +57,12 @@ And with all that boilerplate out of the way, it's not much code at all to solve
 ```rust
 fn part1(filename: &Path) -> String {
     let elves = read(filename);
-    elves.iter().max().expect("no Elves found, can't take max").calories.to_string()
+    elves
+        .iter()
+        .max()
+        .expect("no Elves found, can't take max")
+        .calories
+        .to_string()
 }
 ```
 

@@ -108,12 +108,18 @@ fn part1(filename: &Path) -> String {
     let mut result = String::new();
 
     for line in read_lines(filename) {
-        let index = first_duplicate_at(&line, 4).expect("must have a duplicate").to_string();
+        let index = first_duplicate_at(&line, 4)
+            .expect("must have a duplicate")
+            .to_string();
         result.push_str(&index);
         result.push('\n');
     }
-    
-    String::from(result.strip_suffix('\n').expect("must return at least one value"))
+
+    String::from(
+        result
+            .strip_suffix('\n')
+            .expect("must return at least one value"),
+    )
 }
 ```
 
@@ -128,12 +134,18 @@ fn part2(filename: &Path) -> String {
     let mut result = String::new();
 
     for line in read_lines(filename) {
-        let index = first_duplicate_at(&line, 14).expect("must have a duplicate").to_string();
+        let index = first_duplicate_at(&line, 14)
+            .expect("must have a duplicate")
+            .to_string();
         result.push_str(&index);
         result.push('\n');
     }
-    
-    String::from(result.strip_suffix('\n').expect("must return at least one value"))
+
+    String::from(
+        result
+            .strip_suffix('\n')
+            .expect("must return at least one value"),
+    )
 }
 ```
 

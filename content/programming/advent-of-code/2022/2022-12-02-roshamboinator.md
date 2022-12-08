@@ -45,7 +45,7 @@ impl Play {
             'A' | 'X' => Rock,
             'B' | 'Y' => Paper,
             'C' | 'Z' => Scissors,
-            _ => panic!("unknown play: {:?}", c)
+            _ => panic!("unknown play: {:?}", c),
         }
     }
 
@@ -60,15 +60,13 @@ impl Play {
     }
 
     fn vs(self, other: Play) -> Outcome {
-        use Play::*;
         use Outcome::*;
+        use Play::*;
 
         match (self, other) {
             (a, b) if a == b => Draw,
 
-            (Rock, Scissors)
-            | (Scissors, Paper)
-            | (Paper, Rock) => Win,
+            (Rock, Scissors) | (Scissors, Paper) | (Paper, Rock) => Win,
 
             _ => Lose,
         }
@@ -146,10 +144,9 @@ impl Outcome {
 And now we can actually determine the plays:
 
 ```rust
-
 fn part2(filename: &Path) -> String {
-    use Play::*;
     use Outcome::*;
+    use Play::*;
 
     let mut total_score = 0;
 
@@ -162,18 +159,18 @@ fn part2(filename: &Path) -> String {
                 Rock => Scissors,
                 Scissors => Paper,
                 Paper => Rock,
-            }
+            },
             Draw => them,
             Win => match them {
                 Rock => Paper,
                 Scissors => Rock,
                 Paper => Scissors,
-            }
+            },
         };
 
         total_score += us.value() + goal.value();
     }
-    
+
     total_score.to_string()
 }
 ```

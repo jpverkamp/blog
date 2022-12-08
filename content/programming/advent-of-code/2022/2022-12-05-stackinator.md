@@ -102,13 +102,25 @@ impl Instruction {
 
         for line in lines {
             let mut parts = line.split_ascii_whitespace();
-            
-            // Note: nth consumes previous values
-            let qty = parts.nth(1).expect("part 2 is qty").parse::<usize>().expect("part 2 must be a uint");
-            let src = parts.nth(1).expect("part 4 is src").parse::<usize>().expect("part 4 must be a uint");
-            let dst = parts.nth(1).expect("part 6 is dst").parse::<usize>().expect("part 6 must be a uint");
 
-            result.push(Instruction{ qty, src, dst });
+            // Note: nth consumes previous values
+            let qty = parts
+                .nth(1)
+                .expect("part 2 is qty")
+                .parse::<usize>()
+                .expect("part 2 must be a uint");
+            let src = parts
+                .nth(1)
+                .expect("part 4 is src")
+                .parse::<usize>()
+                .expect("part 4 must be a uint");
+            let dst = parts
+                .nth(1)
+                .expect("part 6 is dst")
+                .parse::<usize>()
+                .expect("part 6 must be a uint");
+
+            result.push(Instruction { qty, src, dst });
         }
 
         result
@@ -124,7 +136,10 @@ Now finally, a function to `apply` an `Instruction` to a `Warehouse`:
 impl Warehouse {
     fn apply(&mut self, instruction: &Instruction) {
         for _ in 0..instruction.qty {
-            let value = self.stacks[instruction.src - 1].data.pop().expect("tried to pop from empty stack");
+            let value = self.stacks[instruction.src - 1]
+                .data
+                .pop()
+                .expect("tried to pop from empty stack");
             self.stacks[instruction.dst - 1].data.push(value);
         }
     }
@@ -134,18 +149,19 @@ impl Warehouse {
 And a function to get the final result:
 
 ```rust
-impl Warehouse {
     fn tops(&self) -> String {
         let mut result = String::new();
 
         for stack in self.stacks.iter() {
-            let c = stack.data.last().expect("each stack should have at least one item");
+            let c = stack
+                .data
+                .last()
+                .expect("each stack should have at least one item");
             result.push(*c);
         }
 
         result
     }
-}
 ```
 
 Pretty clean. We do need one last bit of boilerplate to be able to split the input based on the two parts (separated by an empty line) though:
@@ -153,16 +169,19 @@ Pretty clean. We do need one last bit of boilerplate to be able to split the inp
 ```rust
 fn parse(filename: &Path) -> (Warehouse, Vec<Instruction>) {
     let mut lines = read_lines(filename);
-    let split_index = lines.iter().position(|line| line.len() == 0).expect("should have empty line");
+    let split_index = lines
+        .iter()
+        .position(|line| line.len() == 0)
+        .expect("should have empty line");
     let instruction_lines = lines.split_off(split_index + 1);
-    
+
     // Ignore the indexes and empty line
     lines.pop();
     lines.pop();
 
     let warehouse = Warehouse::from(&lines);
     let instructions = Instruction::list_from(&instruction_lines);
-    
+
     (warehouse, instructions)
 }
 ```
@@ -195,11 +214,18 @@ impl Warehouse {
         let mut values = LinkedList::new();
 
         for _ in 0..instruction.qty {
-            values.push_back(self.stacks[instruction.src - 1].data.pop().expect("tried to pop from empty stack"));
+            values.push_back(
+                self.stacks[instruction.src - 1]
+                    .data
+                    .pop()
+                    .expect("tried to pop from empty stack"),
+            );
         }
 
         for _ in 0..instruction.qty {
-            self.stacks[instruction.dst - 1].data.push(values.pop_back().expect("must pop as many as we pushed"));
+            self.stacks[instruction.dst - 1]
+                .data
+                .push(values.pop_back().expect("must pop as many as we pushed"));
         }
     }
 }

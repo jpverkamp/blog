@@ -55,15 +55,21 @@ fn part1(filename: &Path) -> String {
 
     let rucksacks: Vec<Rucksack> = lines.into_iter().map(Rucksack::new).collect();
 
-    let uniques: Vec<Vec<&char>> = rucksacks.iter().map(
-        |r| r.left.intersection(&r.right).collect()
-    ).collect();
+    let uniques: Vec<Vec<&char>> = rucksacks
+        .iter()
+        .map(|r| r.left.intersection(&r.right).collect())
+        .collect();
 
-    let priorities: Vec<Vec<u32>> = uniques.into_iter().map(
-        |ls| ls.into_iter().map(rucksack_priority).collect()
-    ).collect();
+    let priorities: Vec<Vec<u32>> = uniques
+        .into_iter()
+        .map(|ls| ls.into_iter().map(rucksack_priority).collect())
+        .collect();
 
-    priorities.into_iter().map(|ls| ls.iter().sum::<u32>()).sum::<u32>().to_string()
+    priorities
+        .into_iter()
+        .map(|ls| ls.iter().sum::<u32>())
+        .sum::<u32>()
+        .to_string()
 }
 ```
 
@@ -83,7 +89,6 @@ took 2.813541ms
 This isn't actually *that* much different:
 
 ```rust
-
 fn part2(filename: &Path) -> String {
     let lines: Vec<String> = read_lines(filename);
 
@@ -91,17 +96,29 @@ fn part2(filename: &Path) -> String {
 
     let groups: Vec<&[Rucksack]> = rucksacks.chunks(3).collect();
 
-    let uniques: Vec<HashSet<char>> = groups.into_iter().map(
-        |g| g[0].all
-            .intersection(&g[1].all).copied().collect::<HashSet<char>>()
-            .intersection(&g[2].all).copied().collect()
-    ).collect();
+    let uniques: Vec<HashSet<char>> = groups
+        .into_iter()
+        .map(|g| {
+            g[0].all
+                .intersection(&g[1].all)
+                .copied()
+                .collect::<HashSet<char>>()
+                .intersection(&g[2].all)
+                .copied()
+                .collect()
+        })
+        .collect();
 
-    let priorities: Vec<Vec<u32>> = uniques.into_iter().map(
-        |ls| ls.iter().map(rucksack_priority).collect()
-    ).collect();
+    let priorities: Vec<Vec<u32>> = uniques
+        .into_iter()
+        .map(|ls| ls.iter().map(rucksack_priority).collect())
+        .collect();
 
-    priorities.into_iter().map(|ls| ls.iter().sum::<u32>()).sum::<u32>().to_string()
+    priorities
+        .into_iter()
+        .map(|ls| ls.iter().sum::<u32>())
+        .sum::<u32>()
+        .to_string()
 }
 ```
 
