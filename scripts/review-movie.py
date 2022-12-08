@@ -32,23 +32,28 @@ while True:
 
     title = input('Title: ')
 
-    print()
-    movies = api.search_movie(title)
-    for i, movie in enumerate(movies[:10], 1):
-        print(i, f'{movie.get("title")} ({movie.get("year")}, {movie.get("kind")}) ')
-    choice = input('Selection (1-10, leave blank to skip): ')
-    print()
+    if title.startswith('tt'):
+        movie = api.get_movie(title[2:])
 
-    try:
-        choice = int(choice) - 1
-        if choice < 0 or choice >= 10:
-            raise ValueError('Out of bounds')
-    except ValueError:
-        print('Invalid choice')
+    else:
         print()
-        continue
+        movies = api.search_movie(title)
+        for i, movie in enumerate(movies[:10], 1):
+            print(i, f'{movie.get("title")} ({movie.get("year")}, {movie.get("kind")}) ')
+        choice = input('Selection (1-10, leave blank to skip): ')
+        print()
 
-    movie = movies[choice]
+        try:
+            choice = int(choice) - 1
+            if choice < 0 or choice >= 10:
+                raise ValueError('Out of bounds')
+        except ValueError:
+            print('Invalid choice')
+            print()
+            continue
+
+        movie = movies[choice]
+
     more_data = api.get_movie(movie.getID())
 
     additional_headers = {}
