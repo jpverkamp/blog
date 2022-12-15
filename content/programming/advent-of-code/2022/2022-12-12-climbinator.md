@@ -195,10 +195,10 @@ fn part1(filename: &Path) -> String {
                 print!(
                     "{}",
                     match distance_map.directions[[x, y]] {
-                        Point { x: 0, y: 1 } => 'v',
-                        Point { x: 0, y: -1 } => '^',
-                        Point { x: 1, y: 0 } => '>',
-                        Point { x: -1, y: 0 } => '<',
+                        Point { x: 0, y: 1 } => '^',
+                        Point { x: 0, y: -1 } => 'v',
+                        Point { x: 1, y: 0 } => '<',
+                        Point { x: -1, y: 0 } => '>',
                         _ => '.',
                     }
                 );
@@ -232,13 +232,13 @@ $ ./target/debug/12-climbinator 1 data/12-test.txt
   30  27  26   9   8   7   6  19
   29  28  25  24  23  22  21  20
 
-^^^^>>>>
-<^^^^>>v
-^^^^<.vv
-^<^<<<vv
-<v<<<<<v
+vvvv<<<<
+>vvvv<<^
+vvvv>.^^
+v>v>>>^^
+>^>>>>>^
 31
-took 1.398833ms
+took 312.958µs
 ```
 
 And even cooler for my full test data:
@@ -286,49 +286,49 @@ And even cooler for my full test data:
  390 389 390 391 392 393 394 395  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  347 346 345 344 343 342 341 340 339 338 337 336 335 334 333 332 331  .   .  326 325 324 323 322 321 320 319 318 317 316 315 314 313 312 311  .   .   .   .   . 
  391 390 391 392 393 394 395  .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .   .  345 344 343 342 341 340 339 338 337 336 335 334 333 332 331 330 329 328 327 326 325 324 323 322 321 320 319 318 317 316 315 314 313  .   .   .   .   .   . 
 
-^^^^^^^^....^^^^>>>>>......^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^<^^^......
-^^^^^>>^....^^^^..........<<<<<<<<<<<<<<<<<<<^^^^^^^^^^^^<^^^......
-^^^^^<^^....^^^^...........vvv..vvvvvvvvvvv..^^^^^^^^^^^^<^^^^.....
-^^^>>>^^^..^^^^^.................vvvvvvvvvv>.^^^^^^^^^^^^<^^^^^^...
-^^>^vv^^^<^^^^^^^................vvvvvvvvvv..<<^^^^^<^^^^<^^^^^^...
-^^^^^v^^^<^^^^^^^.......^^.......vvvvvvvvvv>^^^<<^^^.^^^^<^^^^^^..^
-^^<<<^^^^<^^^^^^^^.....<<<<<<<<<<vvvvvvvvv^^^^^^^<^^^^^^^<<<<^^^^^^
-^^^^^^^^^<^^^^^^>>.....vvvvvvvvvvvvvvvv..<<<<<<^^^<^^^^>>>v..^^^^^^
-^^^^^^^^><<^^^^^.v>>...vvvvvvvvvvvvvvvv.<vvv^^^<^^^<^^^...v..^^^^^^
-^^^^>^^>...^^^^^..v...<vvvvvvvvvvvvvvvv<vvv^^^^^<^^^<^^^^....<<^^^^
-^^^^<^^....^^^^^.....<vvvvvvvvvvvvvvvv<vvv<<<<<^^<^^^<<^^^^....^^^^
-^^^^^^^....^^^^>>......v...vvvvvvvvvv<vvv<vv^^^<^^<^^^^<<^^^...^^^^
-^^>>>^^^...^^^^........v....vvvvvvv<<vvv<vv^^^^^<^^<^^^^^<<^^^.^^^^
-^^^^^^^^^^^^^^^........v....vvvvv<<vvvv<vvv<<<^^^^^^<<<^^^^<^^^>>>>
-^^<<<<^^^^^^^^^^^^..<<<v...<vvv<<vvv<<<vvv<vv^<^^<^^^^^<<^^^^^^vvvv
-^^^v^^^^^^^^^>>>>>..vvvv<<<vvvvvvvv<vvvvv<vv^^^<^^<<<^^^^^^^^^^vvvv
-^^^^^^<^^^^^>.vvv.<<vvvvvvvvvv<vvv<vv<<<<vvv^^^^^^^^^<<^^^^^^^^vvvv
-^^^^^^^^^>>>...v...vvvvvvvvvvvvvv<vvvvvvvvvv^^^^<<<<^^^^^^^^^^^vvvv
-^^^^^>>^^..........vvvvvvvv.vvvvvvvv<vvv^^^<^^^^^^^^^^>^^^^^^^^vvvv
-^^>>>^^^^..........vvvvvvv..vvvvvvvvvvv^^^^<<<^^^^^>^^^^^^^^^^>vvvv
-^^^vv^^^^..........vvvv.....v.vvvvvvvvv<^^^.>>>>>>>^^>^^>^^>^^<vvvv
-^^^^^^^^^...........vvv........vv>vv>vv><<<<vvvvv^^^>^^>^^>^^>vvvvv
-^^^^^^^^^...........vvv>>....^^vvvvvv>vv>>vvvvvvv<^^^^>^^^^^^<vvvvv
-^^^^^^^^^^^......^^.vvvv.....<^^vv>vvv>vv<vvvvvvv>^^^^^^^>^^>vvvvvv
-^^^^^^^^^^^^^^...<<<vvvv..^...^^^vv>vvvvvvvvv^^vvv^^^^<^^^^^<vvvvvv
-^^^^^^^^^^^^^^...vvvvvvv.^^...^^^vvvvvvvvvv>>>>>>>>>^^^^^^^^vvvvvvv
-<<<<<<<<<<<<<<<<<vvvvvvv>>>^^^^^^vvvvvvvvvvvv^^vvvvv^^^^^^^^vvvvvvv
-vv>>>vv^^vvvvvvvvvvvvvvvvv^^^<<<^^vvvvvvv>vvv^^^vvvv^^>^^^^^.vvvvvv
-vvvv<v<^^^^^vvvvvvvvvvvvv^^^^...<^vvvvvvvv>>>>>>>>>>>>^^^^^^.vvvvvv
-vvv<vv>^^^^^vvvvvvv...vv^^^^^....^vvvvvvvvvvv^^vvvvvvv^^^^^>.vvvvvv
-vvv>v^^^^^^^vvvvvvv....^^^^^^....^vv>vv>>vv^^^^^^^vv^^^^>^^....vvvv
-vvvv>>>>>>>>>vvvvvv....^^^^^^...^^vvvvvvv>>>>>>>>>>>>>>>^^^....vvvv
-vvvvvvvvvvvvvvvvvvv....^^^^^^^^^^^^vv>vvvvvvv^^^vvvvvvv^^^>...<vvvv
-vvvvvvvvvv^v<vvvvvv>..<^^^^^^^^^^^^vvv>>>>>>>>>>>>>>>>>>>>...<vvvvv
-vv>vvvvvv<<<vvvvvvvv...<<<<<<^^^^^^^vvvvvvvvvvvvvvvvvvvvv^...vvvvvv
-vvv>>vvvv.vvvvvvvvvv....vvv..^^^^^^^^vvvvvvv.....vvvvvv<<<<<<vvvvvv
-vvvvvvvvv...v...vvvv....v....^^^^^^^^^^^^^^^....<<<<<<<vvvvvvvv...v
-vvvvvvvvv.......vvvv.........^^^^^^^^^^^^^^^...<vvvvvvvvvvvvvvv>...
-vvvv>vvvv......<vvv........^^^^^^^^^^^^^^^^^>..vvvvvvvvvvvvvvvvv...
-vvvvvvvv...................<^^^^^^^^^^^^^^^^..<vvvvvvvvvvvvvvv.....
-vvvvvvv.....................<<<<<<<<<<<<<<<<<<vvvvvvvvvvvvvvv......
+vvvvvvvv....vvvv<<<<<......vvvvvvvvvvvvvvvvvvvvvvvvvvvvvv>vvv......
+vvvvv<<v....vvvv..........>>>>>>>>>>>>>>>>>>>vvvvvvvvvvvv>vvv......
+vvvvv>vv....vvvv...........^^^..^^^^^^^^^^^..vvvvvvvvvvvv>vvvv.....
+vvv<<<vvv..vvvvv.................^^^^^^^^^^<.vvvvvvvvvvvv>vvvvvv...
+vv<v^^vvv>vvvvvvv................^^^^^^^^^^..>>vvvvv>vvvv>vvvvvv...
+vvvvv^vvv>vvvvvvv.......vv.......^^^^^^^^^^<vvv>>vvv.vvvv>vvvvvv..v
+vv>>>vvvv>vvvvvvvv.....>>>>>>>>>>^^^^^^^^^vvvvvvv>vvvvvvv>>>>vvvvvv
+vvvvvvvvv>vvvvvv<<.....^^^^^^^^^^^^^^^^..>>>>>>vvv>vvvv<<<^..vvvvvv
+vvvvvvvv<>>vvvvv.^<<...^^^^^^^^^^^^^^^^.>^^^vvv>vvv>vvv...^..vvvvvv
+vvvv<vv<...vvvvv..^...>^^^^^^^^^^^^^^^^>^^^vvvvv>vvv>vvvv....>>vvvv
+vvvv>vv....vvvvv.....>^^^^^^^^^^^^^^^^>^^^>>>>>vv>vvv>>vvvv....vvvv
+vvvvvvv....vvvv<<......^...^^^^^^^^^^>^^^>^^vvv>vv>vvvv>>vvv...vvvv
+vv<<<vvv...vvvv........^....^^^^^^^>>^^^>^^vvvvv>vv>vvvvv>>vvv.vvvv
+vvvvvvvvvvvvvvv........^....^^^^^>>^^^^>^^^>>>vvvvvv>>>vvvv>vvv<<<<
+vv>>>>vvvvvvvvvvvv..>>>^...>^^^>>^^^>>>^^^>^^v>vv>vvvvv>>vvvvvv^^^^
+vvv^vvvvvvvvv<<<<<..^^^^>>>^^^^^^^^>^^^^^>^^vvv>vv>>>vvvvvvvvvv^^^^
+vvvvvv>vvvvv<.^^^.>>^^^^^^^^^^>^^^>^^>>>>^^^vvvvvvvvv>>vvvvvvvv^^^^
+vvvvvvvvv<<<...^...^^^^^^^^^^^^^^>^^^^^^^^^^vvvv>>>>vvvvvvvvvvv^^^^
+vvvvv<<vv..........^^^^^^^^.^^^^^^^^>^^^vvv>vvvvvvvvvv<vvvvvvvv^^^^
+vv<<<vvvv..........^^^^^^^..^^^^^^^^^^^vvvv>>>vvvvv<vvvvvvvvvv<^^^^
+vvv^^vvvv..........^^^^.....^.^^^^^^^^^>vvv.<<<<<<<vv<vv<vv<vv>^^^^
+vvvvvvvvv...........^^^........^^<^^<^^<>>>>^^^^^vvv<vv<vv<vv<^^^^^
+vvvvvvvvv...........^^^<<....vv^^^^^^<^^<<^^^^^^^>vvvv<vvvvvv>^^^^^
+vvvvvvvvvvv......vv.^^^^.....>vv^^<^^^<^^>^^^^^^^<vvvvvvv<vv<^^^^^^
+vvvvvvvvvvvvvv...>>>^^^^..v...vvv^^<^^^^^^^^^vv^^^vvvv>vvvvv>^^^^^^
+vvvvvvvvvvvvvv...^^^^^^^.vv...vvv^^^^^^^^^^<<<<<<<<<vvvvvvvv^^^^^^^
+>>>>>>>>>>>>>>>>>^^^^^^^<<<vvvvvv^^^^^^^^^^^^vv^^^^^vvvvvvvv^^^^^^^
+^^<<<^^vv^^^^^^^^^^^^^^^^^vvv>>>vv^^^^^^^<^^^vvv^^^^vv<vvvvv.^^^^^^
+^^^^>^>vvvvv^^^^^^^^^^^^^vvvv...>v^^^^^^^^<<<<<<<<<<<<vvvvvv.^^^^^^
+^^^>^^<vvvvv^^^^^^^...^^vvvvv....v^^^^^^^^^^^vv^^^^^^^vvvvv<.^^^^^^
+^^^<^vvvvvvv^^^^^^^....vvvvvv....v^^<^^<<^^vvvvvvv^^vvvv<vv....^^^^
+^^^^<<<<<<<<<^^^^^^....vvvvvv...vv^^^^^^^<<<<<<<<<<<<<<<vvv....^^^^
+^^^^^^^^^^^^^^^^^^^....vvvvvvvvvvvv^^<^^^^^^^vvv^^^^^^^vvv<...>^^^^
+^^^^^^^^^^v^>^^^^^^<..>vvvvvvvvvvvv^^^<<<<<<<<<<<<<<<<<<<<...>^^^^^
+^^<^^^^^^>>>^^^^^^^^...>>>>>>vvvvvvv^^^^^^^^^^^^^^^^^^^^^v...^^^^^^
+^^^<<^^^^.^^^^^^^^^^....^^^..vvvvvvvv^^^^^^^.....^^^^^^>>>>>>^^^^^^
+^^^^^^^^^...^...^^^^....^....vvvvvvvvvvvvvvv....>>>>>>>^^^^^^^^...^
+^^^^^^^^^.......^^^^.........vvvvvvvvvvvvvvv...>^^^^^^^^^^^^^^^<...
+^^^^<^^^^......>^^^........vvvvvvvvvvvvvvvvv<..^^^^^^^^^^^^^^^^^...
+^^^^^^^^...................>vvvvvvvvvvvvvvvv..>^^^^^^^^^^^^^^^.....
+^^^^^^^.....................>>>>>>>>>>>>>>>>>>^^^^^^^^^^^^^^^......
 383
-took 22.88925ms
+took 5.869291ms
 ```
 
 It's huge, but that's so cool to look at. I particularly like being able to see the ridges (regions of `.`) where there's no way to actually climb up onto them from any direction and how that makes choke points. 
