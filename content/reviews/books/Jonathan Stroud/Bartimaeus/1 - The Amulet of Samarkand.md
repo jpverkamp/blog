@@ -5,7 +5,7 @@ generated: true
 reviews/lists:
 - 2018 Book Reviews
 reviews/series:
-- Bartimaeus Sequence
+- Bartimaeus
 reviews/authors:
 - Jonathan Stroud
 goodreads_id: 334123

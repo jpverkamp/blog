@@ -12,7 +12,7 @@ goodreads_id: 5043
 cover: /embeds/books/the-pillars-of-the-earth.com/cover/9781429586764
 rating: 5
 page_count: 976
-series_index: [0]
+series_index: [1]
 ---
 > The most expensive part of building is the mistakes.
 
