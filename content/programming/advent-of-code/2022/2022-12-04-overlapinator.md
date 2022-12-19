@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Camp Cleanup](https://adventofcode.com/2022/day/4)
 
-#### **Part 1:** Given a list of pairs of spans (of the form a-b,x-y) count how many spans have one span entirely contained within the other.
+## Part 1
+
+> Given a list of pairs of spans (of the form a-b,x-y) count how many spans have one span entirely contained within the other.
 
 <!--more-->
 
@@ -92,7 +94,9 @@ fn part1(filename: &Path) -> String {
 
 That's pretty minimal. Is it actually more or less readable? I think it's pretty decent at least. 
 
-#### **Part 2:** Instead, count how many spans have one overlapping the other at all. 
+## Part 2
+
+> Instead, count how many spans have one overlapping the other at all. 
 
 Okay, expand the implementation of `Span`:
 
@@ -119,7 +123,7 @@ fn part2(filename: &Path) -> String {
 }
 ```
 
-#### Performance
+## Performance
 
 Quick. 
 

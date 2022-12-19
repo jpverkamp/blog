@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Distress Signal](https://adventofcode.com/2022/day/13)
 
-#### **Part 1:** Given pairs of `Signal`s (where a `Signal` is a nested list ;example: `[[1],[2,3,4]]`), count how many pairs are 'in order'. 
+## Part 1
+
+> Given pairs of `Signal`s (where a `Signal` is a nested list ;example: `[[1],[2,3,4]]`), count how many pairs are 'in order'. 
 
 One `Signal` is less than the other if: 
 
@@ -184,7 +186,9 @@ fn part1(filename: &Path) -> String {
 
 Grab the pairs of `Signal`, compare with `s1 < s2` (how cool is that) and sum of the indexes in the right order. 
 
-#### **Part 2:** Take all `Signal`s and add two special 'divider' values: `[[2]]` and `[[6]]`. Sort the entire list and return the product of the indices where the 'dividers' end up.
+## Part 2
+
+> Take all `Signal`s and add two special 'divider' values: `[[2]]` and `[[6]]`. Sort the entire list and return the product of the indices where the 'dividers' end up.
 
 Nothing new to do here, just literally turn it into code:
 
@@ -219,7 +223,7 @@ fn part2(filename: &Path) -> String {
 
 `signals.iter().position` was a fun little bit to find the dividers. I do like writing mostly-{{<wikipedia "functional programming">}} style Rust. 
 
-#### Performance
+## Performance
 
 We're really not doing much, the heavy part is the parsing honestly. So it's fast:
 

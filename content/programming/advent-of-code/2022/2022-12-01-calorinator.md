@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Calorie Counting](https://adventofcode.com/2022/day/1)
 
-#### **Part 1:** Given multiple lists of numbers, find the list with the largest sum. 
+## Part 1
+
+> Given multiple lists of numbers, find the list with the largest sum. 
 
 <!--more-->
 
@@ -89,7 +91,9 @@ $ ./target/release/01-calorinator 1 data/01.txt
 took 1.065458ms
 ```
 
-#### **Part 2:** Find the total of the three lists with the individual largest sums. 
+## Part 2
+
+> Find the total of the three lists with the individual largest sums. 
 
 That's kind of neat. I feel like implementing {{<doc rust Sum>}} should do it. (Yes, I could just explicitly get the top 3). Unfortunately, I can't get that one for free. But it's clean enough to write:
 

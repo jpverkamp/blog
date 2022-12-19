@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Regolith Reservoir](https://adventofcode.com/2022/day/14)
 
-#### **Part 1:** Given a series of walls as input, run a {{<wikipedia "falling sand">}} simulation until any new sand falls of the map. Count how many grains of sand we end up with. 
+## Part 1
+
+> Given a series of walls as input, run a {{<wikipedia "falling sand">}} simulation until any new sand falls of the map. Count how many grains of sand we end up with. 
 
 <!--more-->
 
@@ -245,7 +247,9 @@ Once a single grain has fallen out of the simulation, we know all the rest of th
 
 Well, check `performance` for how much faster. It turns out Rust is *really* fast, so it's not actually that much better. But it really did help with rendering that movie up there. Since we have significantly fewer frames, it's much easier to deal with. 
 
-#### **Part 2:** Add an infinite floor two pixels below the previous lower bound. Count the settled sand again. 
+## Part 2
+
+> Add an infinite floor two pixels below the previous lower bound. Count the settled sand again. 
 
 ```rust
 fn part2(filename: &Path) -> String {
@@ -293,7 +297,7 @@ Here is where the optimization really comes in handy. It turns out that it takes
 
 I *tried* to render the full thing to a video... but turning 1.5M pngs into a video... didn't go well. So only one for you this time. And it's still pretty slow once it gets to the final fill. 
 
-#### Performance
+## Performance
 
 Here are the numbers for both one at a time and every other frame. 
 

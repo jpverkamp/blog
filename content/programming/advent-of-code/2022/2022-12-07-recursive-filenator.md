@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [No Space Left On Device](https://adventofcode.com/2022/day/7)
 
-#### **Part 1:** Give the output of a very simple shell with only the commands `cd` and `ls` (the output of which is either `"dir" name` for directories or `size name` for files), find the largest directory (disk usage calculated recursively) with a size no greater than 100,000. 
+## Part 1
+
+> Give the output of a very simple shell with only the commands `cd` and `ls` (the output of which is either `"dir" name` for directories or `size name` for files), find the largest directory (disk usage calculated recursively) with a size no greater than 100,000. 
 
 <!--more-->
 
@@ -304,7 +306,9 @@ One thing probably worth mentioning is that I implemented (and used here) an `it
 
 I may go back and change previous days over to this model. 
 
-#### **Part 2:** Assume this virtual disk has total available space of `70,000,000`. You need `30,000,000` free. Find the smallest directory (recursively) you can delete that would leave you with `30,000,000` free and return it's size. 
+## Part 2
+
+> Assume this virtual disk has total available space of `70,000,000`. You need `30,000,000` free. Find the smallest directory (recursively) you can delete that would leave you with `30,000,000` free and return it's size. 
 
 I definitely made this more verbose than I needed to calculate this target. So it goes. 
 
@@ -350,7 +354,7 @@ fn part2(filename: &Path) -> String {
 
 I do enjoy the programs where the final wrapper for part 2 is mostly done by properly engineering part 1. :smile:
 
-#### Performance
+## Performance
 
 Fast:
 

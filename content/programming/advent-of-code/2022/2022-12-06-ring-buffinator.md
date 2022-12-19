@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Tuning Trouble](https://adventofcode.com/2022/day/6)
 
-#### **Part 1:** Given input as a list of characters, find the index of the first {{<wikipedia "sliding window">}} (size 4) where all of the characters are distinct.
+## Part 1
+
+> Given input as a list of characters, find the index of the first {{<wikipedia "sliding window">}} (size 4) where all of the characters are distinct.
 
 <!--more-->
 
@@ -125,7 +127,9 @@ fn part1(filename: &Path) -> String {
 
 And we're done. I didn't need to do that for my main problem, but I put multiple test cases in my `06-test.txt` file and this lets me deal with that. 
 
-#### **Part 2:** Do the same with a ring buffer size of 14. 
+## Part 2
+
+> Do the same with a ring buffer size of 14. 
 
 Abstraction for the win!
 
@@ -151,7 +155,7 @@ fn part2(filename: &Path) -> String {
 
 Literally just add 1 character. I guess I could have abstracted that, but :shrug:
 
-#### Performance
+## Performance
 
 ```bash
 $ ./target/release/06-ring-bufferinator 1 data/06.txt

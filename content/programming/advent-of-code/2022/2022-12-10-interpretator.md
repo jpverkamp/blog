@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)
 
-#### **Part 1:** Implement a simple virtual machine with two instructions: `nop` which does nothing for 1 cycles and `addx $n` which adds `$n` to the `X` register (initial value 1) in two cycles. Calculate the sum of `cycle * X` for the cycles 20, 60, 100, 140, 180, 220. 
+## Part 1
+
+> Implement a simple virtual machine with two instructions: `nop` which does nothing for 1 cycles and `addx $n` which adds `$n` to the `X` register (initial value 1) in two cycles. Calculate the sum of `cycle * X` for the cycles 20, 60, 100, 140, 180, 220. 
 
 <!--more-->
 
@@ -246,7 +248,9 @@ fn part1(filename: &Path) -> String {
 
 And it even has the `debug_assertions` code to print out the current state of the VM at each tick! 
 
-#### **Part 2:** Simulate an old fashioned monitor that works by displaying one bit at a time, across each row and then down to the next row. Each tick, display a `#` if the current value of the `X` register is +-1 the current bit being displayed, otherwise, `.`. 
+## Part 2
+
+> Simulate an old fashioned monitor that works by displaying one bit at a time, across each row and then down to the next row. Each tick, display a `#` if the current value of the `X` register is +-1 the current bit being displayed, otherwise, `.`. 
 
 Check out {{<wikipedia "racing the beam">}}. It's something that you could do to really get some extra performance out of the *old* video game systems. Not so much an issue with modern computers. Fascinating what different trade offs have been made over the years. 
 
@@ -289,7 +293,7 @@ fn part2(filename: &Path) -> String {
 
 That's a pretty neat function and I think easy enough to understand. It does hardcode the sprite as a 3px wide block, but so it goes. 
 
-#### Performance
+## Performance
 
 ```bash
 $ ./target/release/10-interpretator 1 data/10.txt

@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)
 
-#### **Part 1:** There are a collections of `Sensor`s and `Beacon`s. As input, you are given the `Beacon` closest to each `Sensor` (using {{<wikipedia "Manhattan Distance">}}). If a `Beacon` is not closest to any sensor, it will not appear in this list. Calculate how many points in the given row (`y=2000000`) cannot contain a `Beacon`. 
+## Part 1
+
+> There are a collections of `Sensor`s and `Beacon`s. As input, you are given the `Beacon` closest to each `Sensor` (using {{<wikipedia "Manhattan Distance">}}). If a `Beacon` is not closest to any sensor, it will not appear in this list. Calculate how many points in the given row (`y=2000000`) cannot contain a `Beacon`. 
 
 <!--more-->
 
@@ -286,7 +288,9 @@ That's it. We do have a special case, since the test data and 'real' data care a
 
 Nice. 
 
-#### **Part 2:** For `0 <= x <= 4000000` and `0 <= y <= 4000000`, there is exactly one point that could be an additional beacon. Find that point and calculate `x * 4000000 + y`.
+## Part 2
+
+> For `0 <= x <= 4000000` and `0 <= y <= 4000000`, there is exactly one point that could be an additional beacon. Find that point and calculate `x * 4000000 + y`.
 
 Interesting. For this one, we don't actually want the unbounded ranges, we want to specifically limit them to the above. To do that, we don't want `union`, but rather `intersection`:
 
@@ -394,7 +398,7 @@ fn part2(filename: &Path) -> String {
 
 I did have a gotcha, dealing with the `Beacon`s that were on the border again, thus the `map.sensors.iter().any`. It's not perfect, but I think it's clear enough. And it works!
 
-#### Performance
+## Performance
 
 Still quick!
 

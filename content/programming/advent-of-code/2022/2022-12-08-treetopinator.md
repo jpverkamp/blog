@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Treetop Tree House](https://adventofcode.com/2022/day/8)
 
-#### **Part 1:** Given a grid of numbers, count how many of these numbers have a direct path in any cardinal direction to the edge of the grid. 
+## Part 1
+
+> Given a grid of numbers, count how many of these numbers have a direct path in any cardinal direction to the edge of the grid. 
 
 <!--more-->
 
@@ -291,7 +293,9 @@ took 231.958µs
 
 Why yes. That is the {{<wikipedia kanji>}} for tree. :smile: I used 一 'one' mostly to contrast with it. 
 
-#### **Part 2:** For each number, calculate the distance in each cardinal direction up to and including the first number equal to or larger. Multiply these numbers together. Find the largest such product. 
+## Part 2
+
+> For each number, calculate the distance in each cardinal direction up to and including the first number equal to or larger. Multiply these numbers together. Find the largest such product. 
 
 Unfortunately, I won't be able really use the same function again. I could probably modify part 1 to be compatible with what I need for part 2, but ... I'm not going to.
 
@@ -543,7 +547,7 @@ $ ./target/debug/08-treetopinator 2 data/08-test.txt
 took 376.625µs
 ```
 
-#### Performance
+## Performance
 
 Still too fast to optimize much:
 

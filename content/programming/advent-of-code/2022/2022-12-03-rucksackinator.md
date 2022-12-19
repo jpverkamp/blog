@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Rucksack Reorganization](https://adventofcode.com/2022/day/3)
 
-#### **Part 1:** Take a list of characters. For each line, split the line exactly in half and find the one character that's in both halves. Assign a-z to values 1-26 and A-Z to 27-52. Sum these values. 
+## Part 1
+
+> Take a list of characters. For each line, split the line exactly in half and find the one character that's in both halves. Assign a-z to values 1-26 and A-Z to 27-52. Sum these values. 
 
 <!--more-->
 
@@ -84,7 +86,9 @@ $ ./target/release/03-rucksackinator 1 data/03.txt
 took 2.813541ms
 ```
 
-#### **Part 2:** Instead, group each set of 3 inputs. Find the one character that occurs in each of the three lines of each group. Score as before. 
+## Part 2
+
+> Instead, group each set of 3 inputs. Find the one character that occurs in each of the three lines of each group. Score as before. 
 
 This isn't actually *that* much different:
 

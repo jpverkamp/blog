@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)
 
-#### **Part 1:** Given a height map, find the shortest path between two points such that the path can descend any distance but can only climb by a maximum of 1. 
+## Part 1
+
+> Given a height map, find the shortest path between two points such that the path can descend any distance but can only climb by a maximum of 1. 
 
 <!--more-->
 
@@ -337,7 +339,9 @@ Very cool.
 
 On to part 2!
 
-#### **Part 2:** Expand the search to any point with height 1 (not just the `S`). Find the minimum distance.
+## Part 2
+
+> Expand the search to any point with height 1 (not just the `S`). Find the minimum distance.
 
 This one delightfully didn't changes to the underlying code, just scanning over the `distance_map`:
 
@@ -368,7 +372,7 @@ fn part2(filename: &Path) -> String {
 }
 ```
 
-#### Performance
+## Performance
 
 Whee!
 

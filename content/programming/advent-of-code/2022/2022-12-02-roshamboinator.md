@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Rock Paper Scissors](https://adventofcode.com/2022/day/2)
 
-#### **Part 1:** Given a list of Rock Paper Scissors matches with A,B,C or X,Y,Z corresponding to those plays and scoring 1,2,3 points for your play plus 0,3,6 for a loss, draw, or win, what is your total score. 
+## Part 1
+
+> Given a list of Rock Paper Scissors matches with A,B,C or X,Y,Z corresponding to those plays and scoring 1,2,3 points for your play plus 0,3,6 for a loss, draw, or win, what is your total score. 
 
 <!--more-->
 
@@ -122,7 +124,9 @@ took 752.791µs
 
 Cool. 
 
-#### **Part 2:** Now treat input X,Y,Z as you needing to lose, draw, or win respectively. Determine the move that gives that outcome and calculate the score as before. 
+## Part 2
+
+> Now treat input X,Y,Z as you needing to lose, draw, or win respectively. Determine the move that gives that outcome and calculate the score as before. 
 
 We have most of this, but we do need a new constructor to load the `Outcome`:
 

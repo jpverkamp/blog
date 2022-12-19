@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Rope Bridge](https://adventofcode.com/2022/day/9)
 
-#### **Part 1:** Simulate two connected links such that whenever the first link (head) moves, the tail moves to follow according to the following rules:
+## Part 1
+
+> Simulate two connected links such that whenever the first link (head) moves, the tail moves to follow according to the following rules:
 
 * If the tail is at the same location as head, don't move
 * If the tail is adjacent to the head (orthogonal or diagonal), don't move
@@ -251,7 +253,9 @@ fn part1(filename: &Path) -> String {
 
 And that's it. Voila. 
 
-#### **Part 2:** Increase the number of linked elemnts to 10. Count how many unique spaces the last element of the chain visits. 
+## Part 2
+
+> Increase the number of linked elemnts to 10. Count how many unique spaces the last element of the chain visits. 
 
 Now that's an interesting twist. Originally, I wanted to do something like this:
 
@@ -362,7 +366,7 @@ Mostly, to verify that both do the same thing, which of course they do.
 
 One thing that I kind of want to do is visualize this, but it's already been a long day. Perhaps I'll work it out another day. 
 
-#### Performance
+## Performance
 
 ```bash
 $ ./target/release/09-ropeinator 1 data/09.txt

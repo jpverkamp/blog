@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Supply Stacks](https://adventofcode.com/2022/day/5)
 
-#### **Part 1:** Given a list of stacks of *syntax 1* and instructions in the form *syntax 2*, apply each instruction to pop `qty` items from the stack `src` and put them on `dst` one at a time. 
+## Part 1
+
+> Given a list of stacks of *syntax 1* and instructions in the form *syntax 2*, apply each instruction to pop `qty` items from the stack `src` and put them on `dst` one at a time. 
 
 ```text
 Syntax 1: Stacks
@@ -204,7 +206,9 @@ fn part1(filename: &Path) -> String {
 
 Cool!
 
-#### **Part 2:** Do the same, except instead of moving `qty` items one at a time, pick up the entire `qty` items and move them all at once (thus preserving the original order). 
+## Part 2
+
+> Do the same, except instead of moving `qty` items one at a time, pick up the entire `qty` items and move them all at once (thus preserving the original order). 
 
 Just need a new apply function:
 
@@ -243,7 +247,7 @@ fn part2(filename: &Path) -> String {
 
 And for this, we actually do want a `LinkedList`, since that allows {{<inline-latex "O(1)" >}} push and pop from both ends, so we can have {{<wikipedia FIFO>}} instead of {{<wikipedia FILO>}}. 
 
-#### Performance
+## Performance
 
 ```bash
 $ ./target/release/05-stackinator 1 data/05.txt

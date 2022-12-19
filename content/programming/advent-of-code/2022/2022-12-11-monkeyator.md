@@ -10,7 +10,9 @@ series:
 ---
 ### Source: [Monkey in the Middle](https://adventofcode.com/2022/day/11)
 
-#### **Part 1:** Simulate a collection of 'monkeys'. Each monkey will have a number of items which it will then apply a mathematical operation to, then always divide by 3, then test divisibility to pass to one of two other monkeys. Return as answer the product of the two highest number of times a monkey applies it's main function to individual items after 20 steps. 
+## Part 1
+
+> Simulate a collection of 'monkeys'. Each monkey will have a number of items which it will then apply a mathematical operation to, then always divide by 3, then test divisibility to pass to one of two other monkeys. Return as answer the product of the two highest number of times a monkey applies it's main function to individual items after 20 steps. 
 
 Note: Monkeys will always be evaluated in order (so monkey 1 will evaluate any items passed by monkey 0 again in the same round). 
 
@@ -256,7 +258,9 @@ Making a copy to `sort_by` is a bit weird, but it works.
 
 Onward!
 
-#### **Part 2:** Remove the 'divide by 3' requirement and run the simulation for 10,000 steps. 
+## Part 2
+
+> Remove the 'divide by 3' requirement and run the simulation for 10,000 steps. 
 
 > Unfortunately, that relief was all that was keeping your worry levels from reaching ridiculous levels. You'll need to find another way to keep your worry levels manageable.
  
@@ -398,7 +402,7 @@ In any case, changing to `Fn` and allowing closures works great.
 
 An interesting finding. 
 
-#### Performance
+## Performance
 
 ```bash
 $ ./target/release/11-monkeyator 1 data/11.txt
