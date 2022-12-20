@@ -509,7 +509,122 @@ Tick 5
 	[state 9=JJ] State(total: 60, current: 20, steps: [Move(1, "DD"), Enable, Move(1, "AA"), Move(1, "II"), Move(1, "JJ")])
 ```
 
+### Edit 2: Dec 20: A Priority Queue
 
+Continuing with the theme of making it faster, I decided to rewrite the `max_flow` function. Instead of being recursive, I'm going to keep the states to check in a {{<wikipedia "priority queue">}}, with the priority being the current flow. 
+
+The code isn't *that* different:
+
+```rust
+
+// Flow algorithms for a cave
+impl Cave {
+    // Find the steps for maximizing flow from a single location with a single agent
+    fn max_flow(self, start: String, fuel: usize) -> (usize, Vec<usize>) {
+        let mut queue = PriorityQueue::new();
+        queue.push((fuel, vec![self.indexes[start.as_str()]]), 0);
+
+        let mut best = (0, vec![0]);
+
+        while !queue.is_empty() {
+            let ((fuel, path), pressure) = queue.pop().unwrap();
+
+            if pressure > best.0 {
+                best = (pressure, path.clone());
+            }
+
+            for i in 0..self.size {
+                let d = self.distances[[*path.last().unwrap(), i]];
+
+                if path.contains(&i) 
+                    || self.flow_rates[i] == 0
+                    || d + 1 > fuel {
+                    continue;
+                }
+
+                let mut new_path = path.clone();
+                new_path.push(i);
+
+                queue.push(
+                    (fuel - d - 1, new_path),
+                    pressure + (fuel - d - 1) * self.flow_rates[i]
+                );
+            }
+        }
+
+        best
+    }
+}
+```
+
+Makes for shorter, cleaner code too.
+
+```bash
+$ cargo run --release --bin 16-pressurinator 1 data/16.txt
+
+    Finished release [optimized] target(s) in 0.06s
+     Running `target/release/16-pressurinator 1 data/16.txt`
+1720
+took 100.268375ms
+```
+
+But... do I actually need a `PriorityQueue`? Since I'm actually going through all of the options anyways, and I don't actually care about the order that much, can't I just use a `Vec` as a stack?
+
+```rust
+
+// Flow algorithms for a cave
+impl Cave {
+    // Find the steps for maximizing flow from a single location with a single agent
+    fn max_flow(self, start: String, fuel: usize) -> (usize, Vec<usize>) {
+        let mut queue = Vec::new();
+        queue.push((0, fuel, vec![self.indexes[start.as_str()]]));
+        
+        let mut best = (0, vec![0]);
+
+        while !queue.is_empty() {
+            let (pressure, fuel, path) = queue.pop().unwrap();
+
+            if pressure > best.0 {
+                best = (pressure, path.clone());
+            }
+
+            for i in 0..self.size {
+                let d = self.distances[[*path.last().unwrap(), i]];
+
+                if path.contains(&i) 
+                    || self.flow_rates[i] == 0
+                    || d + 1 > fuel {
+                    continue;
+                }
+
+                let mut new_path = path.clone();
+                new_path.push(i);
+
+                queue.push((
+                    pressure + (fuel - d - 1) * self.flow_rates[i],
+                    fuel - d - 1,
+                    new_path,
+                ));
+            }
+        }
+
+        best
+    }
+}
+```
+
+And it's another step faster yet:
+
+```bash
+cargo run --release --bin 16-pressurinator 1 data/16.txt
+
+    Finished release [optimized] target(s) in 0.04s
+     Running `target/release/16-pressurinator 1 data/16.txt`
+1720
+took 72.882875ms
+```
+
+And that's on my full test code which was previously running in about twice that time. Now... I just have to figure out how to apply that to part 2. 
 
 ## Part 2
 
@@ -1086,5 +1201,6 @@ The bad news is... that's apparently not actually my answer. But apparently:
 That's kind of hilarious. 
 
 Back to the drawing board!
+
 
 <!-- ## Performance -->
