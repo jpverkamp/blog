@@ -1044,5 +1044,47 @@ Like I said, to be continued...
 
 Certainly one of the most interesting problems so far this year!
 
+### Edit Dec 20: Let it run!
+
+So the good news is:
+
+```bash
+cargo run --release --bin 16-pressurinator 2 data/16.txt
+
+    Finished release [optimized] target(s) in 0.15s
+     Running `target/release/16-pressurinator 2 data/16.txt`
+StepMulti { fuel: 26, per_tick_flow: 0, data: Schedule { agent: 0, distance: 2, target: "CA" } }
+StepMulti { fuel: 26, per_tick_flow: 0, data: Schedule { agent: 1, distance: 2, target: "TU" } }
+StepMulti { fuel: 26, per_tick_flow: 0, data: AdvanceTime { ticks: 3, activations: [(0, "CA"), (1, "TU")] } }
+StepMulti { fuel: 23, per_tick_flow: 24, data: Schedule { agent: 0, distance: 3, target: "FP" } }
+StepMulti { fuel: 23, per_tick_flow: 24, data: Schedule { agent: 1, distance: 2, target: "UK" } }
+StepMulti { fuel: 23, per_tick_flow: 24, data: AdvanceTime { ticks: 3, activations: [(1, "UK")] } }
+StepMulti { fuel: 20, per_tick_flow: 42, data: Schedule { agent: 1, distance: 3, target: "EK" } }
+StepMulti { fuel: 20, per_tick_flow: 42, data: AdvanceTime { ticks: 1, activations: [(0, "FP")] } }
+StepMulti { fuel: 19, per_tick_flow: 47, data: Schedule { agent: 0, distance: 2, target: "YH" } }
+StepMulti { fuel: 19, per_tick_flow: 47, data: AdvanceTime { ticks: 3, activations: [(0, "YH"), (1, "EK")] } }
+StepMulti { fuel: 16, per_tick_flow: 87, data: Schedule { agent: 0, distance: 2, target: "UX" } }
+StepMulti { fuel: 16, per_tick_flow: 87, data: Schedule { agent: 1, distance: 3, target: "GW" } }
+StepMulti { fuel: 16, per_tick_flow: 87, data: AdvanceTime { ticks: 3, activations: [(0, "UX")] } }
+StepMulti { fuel: 13, per_tick_flow: 110, data: Schedule { agent: 0, distance: 2, target: "AR" } }
+StepMulti { fuel: 13, per_tick_flow: 110, data: AdvanceTime { ticks: 1, activations: [(1, "GW")] } }
+StepMulti { fuel: 12, per_tick_flow: 126, data: Schedule { agent: 1, distance: 2, target: "JT" } }
+StepMulti { fuel: 12, per_tick_flow: 126, data: AdvanceTime { ticks: 2, activations: [(0, "AR")] } }
+StepMulti { fuel: 10, per_tick_flow: 146, data: Schedule { agent: 0, distance: 8, target: "JF" } }
+StepMulti { fuel: 10, per_tick_flow: 146, data: AdvanceTime { ticks: 1, activations: [(1, "JT")] } }
+StepMulti { fuel: 9, per_tick_flow: 168, data: DoNothing }
+2536
+took 9366.7117265s
+```
+
+2.5 hours, but it finished!
+
+The bad news is... that's apparently not actually my answer. But apparently:
+
+> That's not the right answer; your answer is too low. Curiously, it's the right answer for someone else; you might be logged in to the wrong account or just unlucky.
+
+That's kind of hilarious. 
+
+Back to the drawing board!
 
 <!-- ## Performance -->
