@@ -8,7 +8,9 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Proboscidea Volcanium](https://adventofcode.com/2022/day/16)
+## Source: [Proboscidea Volcanium](https://adventofcode.com/2022/day/16)
+
+{{<toc>}}
 
 ## Part 1
 
@@ -509,7 +511,7 @@ Tick 5
 	[state 9=JJ] State(total: 60, current: 20, steps: [Move(1, "DD"), Enable, Move(1, "AA"), Move(1, "II"), Move(1, "JJ")])
 ```
 
-### Edit 2: Dec 20: A Priority Queue
+### A Priority Queue (Edit 2, Dec 20)
 
 Continuing with the theme of making it faster, I decided to rewrite the `max_flow` function. Instead of being recursive, I'm going to keep the states to check in a {{<wikipedia "priority queue">}}, with the priority being the current flow. 
 
@@ -1159,7 +1161,7 @@ Like I said, to be continued...
 
 Certainly one of the most interesting problems so far this year!
 
-### Edit Dec 20: Let it run!
+### Let it run! (Edit, Dec 20)
 
 So the good news is:
 
@@ -1202,5 +1204,449 @@ That's kind of hilarious.
 
 Back to the drawing board!
 
+### Queues to the rescue (Edit 3, Dec 20)
 
-<!-- ## Performance -->
+Okay, I've rewritten the code 
+
+```rust
+impl Cave {
+    fn max_flow_multi(self, start: String, fuel: usize, agents: usize) -> (usize, Vec<Vec<usize>>) {
+        let mut queue = Vec::new();
+        let start_path = vec![self.indexes[start.as_str()]];
+
+        queue.push((0, vec![fuel; agents], vec![start_path.clone(); agents]));
+
+        let start = Instant::now();
+        let mut tick = Instant::now();
+        let mut count = 0;
+
+        let mut best = (0, vec![start_path.clone(); agents]);
+        while !queue.is_empty() {
+            let (pressure, enabled, fuels, paths) = queue.pop().unwrap();
+            count += 1;
+
+            seen.insert((fuels.clone(), paths.clone()));
+
+            if pressure > best.0 {
+                best = (pressure, paths.clone());
+            }
+
+            // For each path and each next node to visit:
+            // - check if the node is worth visiting (no duplicates, has flow, can reach)
+            // - if so, add that as a possibility
+            for (path_i, path) in paths.iter().enumerate() {
+                for next_i in 0..self.size {
+                    let d = self.distances[[*path.last().unwrap(), next_i]];
+
+                    if paths.iter().any(|path| path.contains(&next_i))
+                        || self.flow_rates[next_i] == 0
+                        || d + 1 > fuels[path_i]
+                    {
+                        continue;
+                    }
+
+                    let mut new_paths = paths.clone();
+                    new_paths[path_i].push(next_i);
+
+                    let mut new_fuels = fuels.clone();
+                    new_fuels[path_i] -= d + 1;
+
+                    queue.push((
+                        pressure + (fuels[path_i] - d - 1) * self.flow_rates[next_i],
+                        new_fuels,
+                        new_paths,
+                    ));
+                }
+            }
+        }
+
+        best
+    }
+}
+```
+
+And... we've got a working solution! (With test output enabled).
+
+```bash
+$ AOC16_PRINT_PROGRESS=true cargo run --release --bin 16-pressurinator 2 data/16.txt 
+
+new best: pressure=198, extra fuel=[26, 22], paths: [2=AA]; [2=AA, 57=ZJ]
+new best: pressure=498, extra fuel=[26, 15], paths: [2=AA]; [2=AA, 57=ZJ, 56=AR]
+...
+new best: pressure=2278, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 56=AR, 53=YH, 10=UX, 49=LE]
+new best: pressure=2284, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 56=AR, 53=YH, 10=UX, 48=FP, 49=LE]
+After 5s, examined 4629791 states, pruned 0, seen skipped 0, 115 in queue
+new best: pressure=2293, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 56=AR, 10=UX, 53=YH, 52=DM, 48=FP]
+new best: pressure=2296, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 56=AR, 10=UX, 53=YH, 52=DM, 45=BO]
+new best: pressure=2312, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 56=AR, 10=UX, 53=YH, 49=LE]
+new best: pressure=2328, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 56=AR, 10=UX, 53=YH, 48=FP, 49=LE]
+After 10s, examined 9140709 states, pruned 0, seen skipped 0, 108 in queue
+After 15s, examined 13547476 states, pruned 0, seen skipped 0, 113 in queue
+After 20s, examined 17649720 states, pruned 0, seen skipped 0, 116 in queue
+After 25s, examined 21287456 states, pruned 0, seen skipped 0, 107 in queue
+After 30s, examined 25016730 states, pruned 0, seen skipped 0, 130 in queue
+new best: pressure=2418, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 56=AR, 10=UX, 52=DM, 48=FP]
+new best: pressure=2421, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 56=AR, 10=UX, 52=DM, 45=BO]
+new best: pressure=2437, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 56=AR, 10=UX, 49=LE]
+new best: pressure=2453, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 56=AR, 10=UX, 48=FP, 49=LE]
+After 35s, examined 28908560 states, pruned 0, seen skipped 0, 132 in queue
+After 40s, examined 32720919 states, pruned 0, seen skipped 0, 107 in queue
+After 45s, examined 36323227 states, pruned 0, seen skipped 0, 120 in queue
+After 50s, examined 39991418 states, pruned 0, seen skipped 0, 109 in queue
+new best: pressure=2460, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 10=UX, 56=AR, 49=LE, 48=FP]
+new best: pressure=2481, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE]
+After 55s, examined 44030437 states, pruned 0, seen skipped 0, 118 in queue
+After 60s, examined 48168693 states, pruned 0, seen skipped 0, 106 in queue
+...
+After 1610s, examined 1404049877 states, pruned 0, seen skipped 0, 101 in queue
+After 1615s, examined 1408789336 states, pruned 0, seen skipped 0, 125 in queue
+new best: pressure=2491, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 57=ZJ, 40=CA, 38=JF]
+new best: pressure=2496, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 52=DM, 57=ZJ, 40=CA]
+new best: pressure=2499, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 49=LE, 40=CA]
+new best: pressure=2503, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 49=LE, 38=JF]
+new best: pressure=2517, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 48=FP, 49=LE, 40=CA]
+new best: pressure=2519, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 48=FP, 49=LE, 38=JF]
+new best: pressure=2529, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 48=FP, 40=CA, 38=JF]
+After 1620s, examined 1413401408 states, pruned 0, seen skipped 0, 117 in queue
+After 1625s, examined 1418009194 states, pruned 0, seen skipped 0, 114 in queue
+...
+After 1790s, examined 1570622231 states, pruned 0, seen skipped 0, 88 in queue
+After 1795s, examined 1575400277 states, pruned 0, seen skipped 0, 90 in queue
+new best: pressure=2535, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 49=LE, 40=CA, 38=JF]
+new best: pressure=2541, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 49=LE, 38=JF, 40=CA]
+new best: pressure=2558, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE, 40=CA]
+new best: pressure=2562, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE, 38=JF]
+new best: pressure=2571, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 40=CA, 38=JF]
+After 1800s, examined 1579723741 states, pruned 0, seen skipped 0, 122 in queue
+After 1805s, examined 1584409877 states, pruned 0, seen skipped 0, 108 in queue
+...
+After 2400s, examined 2141415612 states, pruned 0, seen skipped 0, 97 in queue
+After 2405s, examined 2145881260 states, pruned 0, seen skipped 0, 98 in queue
+After 2410s, examined -2144238898 states, pruned 0, seen skipped 0, 100 in queue
+After 2415s, examined -2139331679 states, pruned 0, seen skipped 0, 99 in queue
+// 'lol. Oops. I examined more than i32::MAX states :smile:'
+// 'Since it takes ~45 minutes to even get to that state, I am not going to fix it now'
+...
+// 'Here we go again, back in the positives!'
+After 5055s, examined 188736513 states, pruned 0, seen skipped 0, 89 in queue
+After 5060s, examined 192958619 states, pruned 0, seen skipped 0, 108 in queue
+// 'After almost 1.5 hours, found the best answer'
+new best: pressure=2582, extra fuel=[3, 9], paths: [2=AA, 40=CA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE]; [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]
+// 'But we are not done yet! What if something even *better* is out there...'
+After 5065s, examined 197635931 states, pruned 0, seen skipped 0, 97 in queue
+After 5070s, examined 201800520 states, pruned 0, seen skipped 0, 95 in queue
+```
+
+It's the same basic solution as [the single agent priority queue]({{< ref "#a-priority-queue-edit-2-dec-20" >}}), albeit with multiple agents. Rather than previous solutions where I tried to keep track of where each agent was in the simulation and step through all at once, I'm doing a bit more of a brute force solution. 
+
+To generate new states: For each agent, consider each possible next step add them to the stack. This means that we'll look into the solutions where one agent takes all of the moves and the other takes none up through even splits. 
+
+Let's see if we can make it better. 
+
+### Optimization: `remaining_best_case` (Edit 4, Dec 21)
+
+After a nice sleep, I have a few optimizations that I think we can use. First, we are keeping track of the best scene solution as we go. So, similar to how A* works, if we can given an upper bound for the *best* we can possibly do... and even that isn't good enough to match what we already have, then there's no point in looking further down that path. 
+
+To do that, for each state that we pop off the queue:
+
+```rust
+let enable_prune_optimization = env::var("AOC16_OPT_PRUNE").is_ok();
+let mut prune_count = 0;
+
+let mut best = (0, vec![start_path.clone(); agents]);
+while !queue.is_empty() {
+    let (pressure, fuels, paths) = queue.pop().unwrap();
+    
+    if pressure > best.0 {
+        best = (pressure, paths.clone());
+    }
+
+    if enable_prune_optimization {
+        // Calculate the best case remaining flow and stop if we can't hit it
+        // For each node:
+        let remaining_best_case = self
+            .flow_rates
+            .iter()
+            .enumerate()
+            .map(|(i, f)| {
+                // If it's already on, ignore it
+                if paths.iter().any(|path| path.contains(&i)) {
+                    0
+                } else {
+                    // Otherwise, for each agent, find the agent that would be best
+                    // This is defined as the flow rate * the fuel left after moving to that node
+                    // Take the best case here
+                    // This will over estimate, since it assumes each node can go to all nodes at once
+                    paths
+                        .iter()
+                        .enumerate()
+                        .map(|(pi, p)| {
+                            let d = self.distances[[*p.last().unwrap(), i]];
+                            if d + 1 <= fuels[pi] {
+                                f * (fuels[pi] - d - 1)
+                            } else {
+                                0
+                            }
+                        })
+                        .max()
+                        .unwrap()
+                }
+            })
+            .sum::<usize>();
+
+        // If even the best case isn't good enough, don't consider any more cases on this branch
+        if pressure + remaining_best_case < best.0 {
+            prune_count += 1;
+            continue;
+        }
+    }
+
+    ...
+}
+```
+
+I went through a few different iterations of this. At first, I only took whichever of the agents had the most fuel left and multiplied that by the total maximum flow left. That certainly gave an upper bound. But this instead gives a much tighter one by:
+
+* For each valve that is not enabled:
+  * For each agent:
+    * Calculate the flow that would be generated if that agent went immediately to turn this on
+  * Take the maximum value from each agent
+* Sum these values
+
+This does given an impossible value, because it essentially is sending each agent to all of the nodes it's closest to at the very same time, but in practice, this is a good balance of a good upper bound (the answer will be no higher than this) and quick enough to calculate. 
+
+Putting it into practice:
+
+```bash
+$ AOC16_PRINT_PROGRESS=true AOC16_OPT_PRUNE=true cargo run --release --bin 16-pressurinator 2 data/16.txt
+
+new best: pressure=198, extra fuel=[26, 22], paths: [2=AA]; [2=AA, 57=ZJ]
+new best: pressure=498, extra fuel=[26, 15], paths: [2=AA]; [2=AA, 57=ZJ, 56=AR]
+...
+new best: pressure=2562, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE, 38=JF]
+new best: pressure=2571, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 40=CA, 38=JF]
+After 5s, examined 6149307 states, pruned 5505822, 89 in queue
+new best: pressure=2582, extra fuel=[3, 9], paths: [2=AA, 40=CA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE]; [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]
+After 10s, examined 12418080 states, pruned 11143082, 96 in queue
+After 15s, examined 18347378 states, pruned 16449571, 106 in queue
+After 20s, examined 24461538 states, pruned 21933515, 79 in queue
+After 25s, examined 30916652 states, pruned 27741938, 98 in queue
+After 30s, examined 37409349 states, pruned 33567664, 65 in queue
+After 35s, examined 43763543 states, pruned 39260996, 57 in queue
+[Final] After 39.43722s, examined 49025754 states, pruned 43992685, 0 in queue
+
+2582
+took 39.439913125s
+```
+
+So rather than having to go through ??? states, I only had to calculate 49 million of them and managed to prune another 4.3 million directly (which means I pruned ??? indirectly). Not so bad!
+
+Especially when you look at the RAM usage:
+
+{{< figure src="/embeds/2022/aoc16-even-better.png" >}}
+
+That's almost hilarious given that we started at ~60 GB... 
+
+And we're under a minute, so we could just end now... but I think there's one more trick, since we're using so little ram. 
+
+### Optimization: `seen_skip` (Edit 4, Dec 21)
+
+Last trick: We aren't caching the results any more, but there are still cases where we end up looking into the same state more than once. If that happens, then all the branches from there (that aren't otherwise pruned) will be checked more than once. 
+
+So why don't we keep a simple `HashSet` that holds all of the states we've seen. As a bonus, since we're not storing the pressure going back but rather as we go, we don't have to cache based on that. Just the `fuels` and `paths`:
+
+```rust
+let enable_seen_optimization = env::var("AOC16_OPT_SEEN").is_ok();
+let mut seen = HashSet::new();
+let mut seen_skip_count = 0;
+
+let mut best = (0, vec![start_path.clone(); agents]);
+while !queue.is_empty() {
+    let (pressure, fuels, paths) = queue.pop().unwrap();
+    count += 1;
+
+    if enable_seen_optimization {
+        seen.insert((fuels.clone(), paths.clone()));
+    }
+    
+    if pressure > best.0 {
+        best = (pressure, paths.clone());
+    }
+
+    // For each path and each next node to visit:
+    // - check if the node is worth visiting (no duplicates, has flow, can reach)
+    // - if so, add that as a possibility
+    for (path_i, path) in paths.iter().enumerate() {
+        for next_i in 0..self.size {
+            let d = self.distances[[*path.last().unwrap(), next_i]];
+
+            if paths.iter().any(|path| path.contains(&next_i))
+                || self.flow_rates[next_i] == 0
+                || d + 1 > fuels[path_i]
+            {
+                continue;
+            }
+
+            let mut new_paths = paths.clone();
+            new_paths[path_i].push(next_i);
+
+            let mut new_fuels = fuels.clone();
+            new_fuels[path_i] -= d + 1;
+
+            if enable_seen_optimization {
+                if seen.contains(&(new_fuels.clone(), new_paths.clone())) {
+                    seen_skip_count += 1;
+                    continue;
+                }
+            }
+
+            queue.push((
+                pressure + (fuels[path_i] - d - 1) * self.flow_rates[next_i],
+                new_fuels,
+                new_paths,
+            ));
+        }
+    }
+}
+```
+
+It's certainly much easier code!
+
+And let it run:
+
+```bash
+$ AOC16_PRINT_PROGRESS=true AOC16_OPT_SEEN=true cargo run --release --bin 16-pressurinator 2 data/16.txt
+
+...
+new best: pressure=2437, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 56=AR, 10=UX, 49=LE]
+new best: pressure=2453, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 56=AR, 10=UX, 48=FP, 49=LE]
+After 5s, examined 1835009 states, pruned 0, seen skipped 1753459, 89 in queue
+new best: pressure=2460, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 10=UX, 56=AR, 49=LE, 48=FP]
+new best: pressure=2481, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 57=ZJ, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE]
+After 10s, examined 3676455 states, pruned 0, seen skipped 3595186, 136 in queue
+After 15s, examined 6101511 states, pruned 0, seen skipped 5995146, 125 in queue
+...
+After 61s, examined 18760775 states, pruned 0, seen skipped 18588534, 102 in queue
+After 66s, examined 20841264 states, pruned 0, seen skipped 20436456, 91 in queue
+new best: pressure=2491, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 57=ZJ, 40=CA, 38=JF]
+new best: pressure=2496, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 52=DM, 57=ZJ, 40=CA]
+After 71s, examined 22839969 states, pruned 0, seen skipped 22619589, 110 in queue
+new best: pressure=2499, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 49=LE, 40=CA]
+new best: pressure=2503, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 49=LE, 38=JF]
+new best: pressure=2517, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 48=FP, 49=LE, 40=CA]
+new best: pressure=2519, extra fuel=[9, 1], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 48=FP, 49=LE, 38=JF]
+new best: pressure=2529, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 56=AR, 10=UX, 48=FP, 40=CA, 38=JF]
+After 76s, examined 24932281 states, pruned 0, seen skipped 24794833, 106 in queue
+After 81s, examined 27003104 states, pruned 0, seen skipped 26778550, 101 in queue
+After 86s, examined 28932748 states, pruned 0, seen skipped 28657995, 106 in queue
+new best: pressure=2535, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 49=LE, 40=CA, 38=JF]
+new best: pressure=2541, extra fuel=[9, 0], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 49=LE, 38=JF, 40=CA]
+new best: pressure=2558, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE, 40=CA]
+new best: pressure=2562, extra fuel=[9, 2], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE, 38=JF]
+new best: pressure=2571, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 40=CA, 38=JF]
+After 254s, examined 29360129 states, pruned 0, seen skipped 29071617, 93 in queue
+After 259s, examined 30150593 states, pruned 0, seen skipped 30046623, 125 in queue
+...
+After 1130s, examined 77331070 states, pruned 0, seen skipped 76852978, 111 in queue
+After 1135s, examined 78015975 states, pruned 0, seen skipped 77488650, 91 in queue
+new best: pressure=2582, extra fuel=[3, 9], paths: [2=AA, 40=CA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE]; [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]
+After 1140s, examined 78565285 states, pruned 0, seen skipped 78053151, 72 in queue
+After 1145s, examined 79133865 states, pruned 0, seen skipped 78708279, 101 in queue
+...
+After 5556s, examined 153816325 states, pruned 0, seen skipped 153169389, 62 in queue
+After 5561s, examined 154058540 states, pruned 0, seen skipped 153651769, 22 in queue
+[Final] After 5564.9927s, examined 154092423 states, pruned 0, seen skipped 153988506, 0 in queue
+
+2582
+took 5565.1033s
+```
+
+Oof. Well... that's not great. Mostly because it's eating 10s of GB of RAM again. But that's not actually the real benefit. 
+
+On the plus side, we're examining 154 million states and explicitly skipping another 154 million (amusing those are so close, mirror symmetry between the agents? I didn't actually account for that...), with ??? implicitly skipped. So there's something here, we just don't have enough RAM to do it. 
+
+But what really shines is if you turn on both at once:
+
+```bash
+$ AOC16_PRINT_PROGRESS=true AOC16_OPT_PRUNE=true AOC16_OPT_SEEN=true cargo run --release --bin 16-pressurinator 2 data/16.txt
+
+new best: pressure=198, extra fuel=[26, 22], paths: [2=AA]; [2=AA, 57=ZJ]
+new best: pressure=498, extra fuel=[26, 15], paths: [2=AA]; [2=AA, 57=ZJ, 56=AR]
+...
+new best: pressure=2571, extra fuel=[9, 3], paths: [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]; [2=AA, 53=YH, 10=UX, 56=AR, 48=FP, 40=CA, 38=JF]
+new best: pressure=2582, extra fuel=[3, 9], paths: [2=AA, 40=CA, 53=YH, 10=UX, 56=AR, 48=FP, 49=LE]; [2=AA, 46=TU, 39=UK, 19=EK, 42=GW, 6=JT]
+After 5s, examined 3409689 states, pruned 3046753, seen skipped 395207, 73 in queue
+After 10s, examined 5778507 states, pruned 5155304, seen skipped 774332, 47 in queue
+[Final] After 10.216912s, examined 5871899 states, pruned 5233589, seen skipped 847204, 0 in queue
+
+2582
+took 12.029340416s
+```
+
+Now that's what we're talking about. By pruning branches *and* skipping states we've already seen, we've managed to get the runtime down to only 10 seconds, another 4x speedup over just pruning. And this time, we did end up going through 5.8 million states, pruning and skipping another ~6 million. Now that's what I'm talking about! 
+
+It does use a decent amount of RAM, but < 8GB, which well fits within my machine. Always tradeoffs there. 
+
+At this point, I think I'm finally ready to give this one a rest. :)
+
+### Threading
+
+I did actually write up a threaded version using `Arc<Mutex<...>>` for most of the data structures. It's neat... but not any faster. You can check out the code [on github](https://github.com/jpverkamp/advent-of-code/blob/master/2022/src/bin/16-pressurinator.rs#L328-L536) if you're interested.
+
+## Graphviz visualizations
+
+Well, almost. One fun thing I did while I was working through this problem:
+
+{{< figure src="/embeds/2022/aoc16-test.svg" >}}
+
+Turned the maps into [Graphviz](visualizations), using [GraphvizOnline](https://dreampuf.github.io/GraphvizOnline/) to render them (although I do have it installed, having the live output was nice). Essentially, I copied the input, and for each line like this:
+
+```text
+Valve BB has flow rate=13; tunnels lead to valves CC, AA
+```
+
+I generated:
+
+```text
+graph {
+    // If flow rate = 0
+    AA [style=dashed]
+    ... 
+
+    // If flow rate > 0, includes flow rate
+    BB [shape=doublecircle, label="BB\n13"]
+    ... 
+
+    // Edges (doubled edges are because I generated both)
+    BB -- CC, AA
+    ... 
+}
+```
+
+The full map looks even cooler:
+
+{{< figure src="/embeds/2022/aoc16.svg" >}}
+
+I kind of want to animate the agents and flow over each step... but I've already spent entirely too much time on this problem. :smile:
+
+## Performance
+
+I've done so many iterations of this at this point... here's a table:
+
+| Part | Algorithm       | Opt: Prune | Opt: Skip | Time   | RAM     | Examined | Pruned | Skipped |
+|------|-----------------|------------|-----------|--------|---------|----------|--------|---------|
+| 1    | recursive       | [1]        | [1]       | 175ms  | [2]     | --       | --     | --      |
+| 1    | `PriorityQueue` | [1]        | [1]       | 100ms  | [2]     | --       | --     | --      |
+| 1    | stack (`Vec`)   | [1]        | [1]       | 72ms   | [2]     | --       | --     | --      |
+| 2    | stack (`Vec`)   | no         |  no       | >2 hr  | < 10 MB | > 8B     | --     | --      |
+| 2    | stack (`Vec`)   | no         | yes       | 1.5 hr |  30 GB  | 154M     | --     | 154M    |
+| 2    | stack (`Vec`)   | yes        |  no       | 39 s   | < 10 MB | 49M      | 4.3M   | --      |
+| 2    | stack (`Vec`)   | yes        | yes       | 12 s   | < 8 GB  | 5.8M     | 5.2M   | 800k    |
+
+Notes:
+
+1. Not much point in optimizing these, they're fast enough already. 
+2. Likewise, they finish so fast, I don't actually see how much RAM it's using. 
+3. This value actually wrapped the `i32` I was using. Twice. 
+
+Not too bad!

@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Tuning Trouble](https://adventofcode.com/2022/day/6)
+## Source: [Tuning Trouble](https://adventofcode.com/2022/day/6)
 
 ## Part 1
 

@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [No Space Left On Device](https://adventofcode.com/2022/day/7)
+## Source: [No Space Left On Device](https://adventofcode.com/2022/day/7)
 
 ## Part 1
 

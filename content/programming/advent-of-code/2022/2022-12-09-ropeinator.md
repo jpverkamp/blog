@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Rope Bridge](https://adventofcode.com/2022/day/9)
+## Source: [Rope Bridge](https://adventofcode.com/2022/day/9)
 
 ## Part 1
 

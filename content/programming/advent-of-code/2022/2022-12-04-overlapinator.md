@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Camp Cleanup](https://adventofcode.com/2022/day/4)
+## Source: [Camp Cleanup](https://adventofcode.com/2022/day/4)
 
 ## Part 1
 

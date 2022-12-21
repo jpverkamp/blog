@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)
+## Source: [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)
 
 ## Part 1
 

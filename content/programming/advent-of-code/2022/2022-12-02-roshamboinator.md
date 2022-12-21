@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Rock Paper Scissors](https://adventofcode.com/2022/day/2)
+## Source: [Rock Paper Scissors](https://adventofcode.com/2022/day/2)
 
 ## Part 1
 

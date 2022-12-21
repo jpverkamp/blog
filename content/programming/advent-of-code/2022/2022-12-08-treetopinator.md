@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Treetop Tree House](https://adventofcode.com/2022/day/8)
+## Source: [Treetop Tree House](https://adventofcode.com/2022/day/8)
 
 ## Part 1
 

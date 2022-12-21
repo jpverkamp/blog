@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)
+## Source: [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)
 
 ## Part 1
 

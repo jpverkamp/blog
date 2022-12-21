@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Boiling Boulders](https://adventofcode.com/2022/day/18)
+## Source: [Boiling Boulders](https://adventofcode.com/2022/day/18)
 
 ## Part 1
 

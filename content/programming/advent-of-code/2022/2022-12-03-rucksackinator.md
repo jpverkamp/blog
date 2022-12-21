@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Rucksack Reorganization](https://adventofcode.com/2022/day/3)
+## Source: [Rucksack Reorganization](https://adventofcode.com/2022/day/3)
 
 ## Part 1
 

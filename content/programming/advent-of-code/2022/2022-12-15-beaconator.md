@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)
+## Source: [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)
 
 ## Part 1
 

@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Supply Stacks](https://adventofcode.com/2022/day/5)
+## Source: [Supply Stacks](https://adventofcode.com/2022/day/5)
 
 ## Part 1
 

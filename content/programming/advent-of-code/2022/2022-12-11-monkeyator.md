@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Monkey in the Middle](https://adventofcode.com/2022/day/11)
+## Source: [Monkey in the Middle](https://adventofcode.com/2022/day/11)
 
 ## Part 1
 

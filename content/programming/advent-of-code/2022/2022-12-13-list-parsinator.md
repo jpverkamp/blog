@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Distress Signal](https://adventofcode.com/2022/day/13)
+## Source: [Distress Signal](https://adventofcode.com/2022/day/13)
 
 ## Part 1
 

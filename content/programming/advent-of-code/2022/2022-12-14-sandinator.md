@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Regolith Reservoir](https://adventofcode.com/2022/day/14)
+## Source: [Regolith Reservoir](https://adventofcode.com/2022/day/14)
 
 ## Part 1
 

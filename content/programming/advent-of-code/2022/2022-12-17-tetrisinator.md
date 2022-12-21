@@ -8,7 +8,7 @@ programming/sources:
 series:
 - Advent of Code 2022
 ---
-### Source: [Pyroclastic Flow](https://adventofcode.com/2022/day/17)
+## Source: [Pyroclastic Flow](https://adventofcode.com/2022/day/17)
 
 ## Part 1
 
