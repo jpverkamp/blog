@@ -13,6 +13,11 @@ reviews/series:
 series_index:
 - 1
 title: Foundryside
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 1x1+
 ---
 > Every innovation—technological, sociological, or otherwise—begins as a crusade, organizes itself into a practical business, and then, over time, degrades into common exploitation. This is simply the life cycle of how human ingenuity manifests in the material world. What goes forgotten, though, is that those who partake in this system undergo a similar transformation: people begin as comrades and fellow citizens, then become labor resources and assets, and then, as their utility shifts or degrades, transmute into liabilities, and thus must be appropriately managed.
 
