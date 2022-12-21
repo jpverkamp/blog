@@ -1439,7 +1439,7 @@ After 35s, examined 43763543 states, pruned 39260996, 57 in queue
 took 39.439913125s
 ```
 
-So rather than having to go through ??? states, I only had to calculate 49 million of them and managed to prune another 4.3 million directly (which means I pruned ??? indirectly). Not so bad!
+So rather than having to go through billions of states, I only had to calculate 49 million of them and managed to prune another 4.3 million directly. Not so bad!
 
 Especially when you look at the RAM usage:
 
@@ -1563,7 +1563,7 @@ took 5565.1033s
 
 Oof. Well... that's not great. Mostly because it's eating 10s of GB of RAM again. But that's not actually the real benefit. 
 
-On the plus side, we're examining 154 million states and explicitly skipping another 154 million (amusing those are so close, mirror symmetry between the agents? I didn't actually account for that...), with ??? implicitly skipped. So there's something here, we just don't have enough RAM to do it. 
+On the plus side, we're examining 154 million states and explicitly skipping another 154 million (amusing those are so close, mirror symmetry between the agents? I didn't actually account for that...). So there's something here, we just don't have enough RAM to do it. 
 
 But what really shines is if you turn on both at once:
 
