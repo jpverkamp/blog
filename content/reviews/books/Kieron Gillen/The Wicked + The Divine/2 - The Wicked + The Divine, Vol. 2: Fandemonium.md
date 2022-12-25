@@ -6,8 +6,8 @@ page_count: 200
 rating: 5
 reviews/authors:
 - Kieron Gillen
-- "Jamie McKelvie\_(Illustrator)"
-- "Matt  Wilson\_(Colorist)"
+- "Jamie McKelvie"
+- "Matt Wilson"
 reviews/lists:
 - 2022 Book Reviews
 reviews/series:

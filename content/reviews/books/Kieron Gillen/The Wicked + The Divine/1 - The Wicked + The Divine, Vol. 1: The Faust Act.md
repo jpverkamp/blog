@@ -9,7 +9,7 @@ rating: 5
 reviews/authors:
 - Kieron Gillen
 - Jamie McKelvie
-- Matt  Wilson
+- Matt Wilson
 - Clayton Cowles
 reviews/lists:
 - 2022 Book Reviews
