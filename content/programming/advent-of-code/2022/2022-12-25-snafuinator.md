@@ -349,7 +349,7 @@ The only ones over 1 second:
 
 * Day 16 Pressurinator: 12.56s
 * Day 17 Tetrisinator: 1.39s
-* Day 19 Blueprintinator: 2m20.19s
+* Day 19 Blueprintinator: <strike>2m20.19s</strike> [1.92s]({{<ref "#edit-dec-25-evening-">}})
 * Day 23 Elf Scattinator: 8.23s
 * Day 24 Blizzinator: 2.75s
 
@@ -358,3 +358,23 @@ With the exception of Day 19, keeping them around or under 10 seconds isn't bad 
 Some day. :smile:
 
 Until then, Merry Christmas!
+
+## Edit Dec 25 (evening :smile:)
+
+Perhaps some day can even be today! See [my edit to Day 19]({{<ref "2022-12-19-blueprintinator#edit-dec-25-optimizing-max-builds" >}}). Sooo much faster. 
+
+```bash
+$ cargo test --release --bin 19-blueprintinator
+
+   Compiling aoc2022 v0.1.0 (/Users/jp/Projects/advent-of-code/2022)
+    Finished release [optimized] target(s) in 1.20s
+     Running unittests src/bin/19-blueprintinator.rs (target/release/deps/19_blueprintinator-299e17a5876d198c)
+
+running 2 tests
+test tests::test1 ... ok
+test tests::test2 ... ok
+
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 1.92s
+```
+
+Nice.

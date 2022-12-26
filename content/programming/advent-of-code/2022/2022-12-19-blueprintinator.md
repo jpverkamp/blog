@@ -327,3 +327,50 @@ took 155.567067083s
 ```
 
 I really would much rather get that under a minute, but for the moment... I'm moving on!
+
+## Edit Dec 25, Optimizing Max Builds
+
+So On digging back into this problem (my longest by far), I did come up with one (pretty major) improvement: 
+
+We can only build one robot per turn. So the most resources we'll ever need per turn is the maximum of that resource to build any robot. Once we've built that many, stop building that kind of robot. This will mostly stop looking down branches where we build the smallest robots. 
+
+Implementation wise, there are only two small changes:
+
+1. At the top of the loop before processing the `queue`:
+
+    ```rust
+    // Figure out the most of each resource we need to build any given robot
+    // We don't need more than that many production robots, since you can only build one per frame
+    let mut max_needed = (0..Material::COUNT)
+        .map(|i| self.robots.iter().map(|r| r.inputs[i]).max().unwrap())
+        .collect::<Vec<_>>();
+    max_needed[Material::Geode as usize] = Qty::MAX;
+    ```
+
+2. In the loop before even checking if it's possible to build one:
+
+    ```rust
+    // We don't need any more of this one
+    if id != (Material::Geode as Qty) {
+        // We are creating enough resources each tick to build any robot
+        if population[id] >= max_needed[id] {
+            continue;
+        }
+    }
+    ```
+
+And that's really it. The results are ... 
+
+```bash
+$ ./target/release/19-blueprintinator 1 data/19.txt
+
+1092
+took 262.607583ms
+
+$ ./target/release/19-blueprintinator 2 data/19.txt
+
+3542
+took 1.928983666s
+```
+
+That's really impressive. Roughly ~80x faster. That actually brings this down to 4th slowest, faster than Day [16]({{<ref "2022-12-16-pressurinator.md">}}), [23]({{<ref "2022-12-23-elf-scattinator">}}.md), and [24]({{<ref "2022-12-24-blizzinator.md">}}). It's amazing what you can do with just a few lines of code...
