@@ -100,6 +100,7 @@ while True:
 
         image = Image.open(requests.get(cover_url, stream=True).raw)
         image = image.resize(TARGET_COVER_SIZE)
+        image = image.convert('RGB')
         image.save(cover_path)
 
         data['cover'] = f'/embeds/books/{cover_filename}'
@@ -148,6 +149,7 @@ while True:
 
             image = Image.open(requests.get(cover_url, stream=True).raw)
             image = image.resize(TARGET_COVER_SIZE)
+            image = image.convert('RGB')
             image.save(cover_path)
 
             data['cover'] = f'/embeds/books/{cover_filename}'
