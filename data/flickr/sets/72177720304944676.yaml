@@ -1,0 +1,48 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 27
+count_videos: 0
+count_views: '0'
+date_create: '1672774389'
+date_update: '1672774550'
+description: Another year, another first of the year hike. Much less flooded this
+  time around, plus we stayed at the Inn. A great experience.
+farm: 66
+id: '72177720304944676'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52605102826'
+- '52605605388'
+- '52605524885'
+- '52605102936'
+- '52605352939'
+- '52605353154'
+- '52605353134'
+- '52605524835'
+- '52605605628'
+- '52604601637'
+- '52605525110'
+- '52604601362'
+- '52605525105'
+- '52605525075'
+- '52605605583'
+- '52605353074'
+- '52605605538'
+- '52605103041'
+- '52605524980'
+- '52605353049'
+- '52605605358'
+- '52604601527'
+- '52605524930'
+- '52605352969'
+- '52605102966'
+- '52605524915'
+- '52605605363'
+primary: '52605102826'
+secret: 1d034c66f0
+server: '65535'
+title: McCormick's Creek 2023
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

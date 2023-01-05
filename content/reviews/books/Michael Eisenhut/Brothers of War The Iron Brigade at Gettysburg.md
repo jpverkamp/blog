@@ -1,5 +1,5 @@
 ---
-title: Brothers of War The Iron Brigade at Gettysburg
+title: "Brothers of War: The Iron Brigade at Gettysburg"
 date: 2022-02-03
 reviews/lists:
 - 2022 Book Reviews

@@ -1,0 +1,47 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 26
+count_videos: 0
+count_views: '0'
+date_create: '1669427648'
+date_update: '1669427661'
+description: Meeting the new team face to face. Took a few pictures along the way.
+  A neat downtown. Reminds me of SF.
+farm: 66
+id: '72177720303998398'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52523470986'
+- '52523752609'
+- '52523470996'
+- '52523752629'
+- '52523949730'
+- '52524019808'
+- '52523949715'
+- '52523471111'
+- '52524019793'
+- '52523752319'
+- '52523949700'
+- '52523008097'
+- '52523949665'
+- '52523752329'
+- '52523949650'
+- '52524019723'
+- '52524019468'
+- '52523471046'
+- '52523471031'
+- '52523471026'
+- '52523008022'
+- '52524019703'
+- '52523752584'
+- '52523007967'
+- '52524019478'
+- '52523949475'
+primary: '52523470986'
+secret: a52b8c01d7
+server: '65535'
+title: On-Site in Austin
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
