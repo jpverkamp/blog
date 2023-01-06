@@ -66,33 +66,13 @@ Looking at it another way, I had 52 unique authors, with all but 9 at 1-3 books 
 * {{<crosslink "Peter Milligan">}} (Some Hellblazer)
 * {{<crosslink "Becky Chambers">}} (Wayfarers)
 
-Looking at it another way, the oldest book I read was The Bible. Heh. Technically, I read the Revised Standard Version, Catholic Edition, published in 1965, so that means it wasn't actually the oldest. That instead falls to {{<crosslink "A Canticle for Leibowitz">}} from 1959. I only read 5 books from before 2000 though, which I feel I really should try to do better about. 6 of them were from this year alone ({{<crosslink "The Lost Metal">}}, {{<crosslink "Nettle & Bone">}}, {{<crosslink "Soul Taken">}}, {{<crosslink "Out of the Blue">}}, {{<crosslink "The Curse of the Constantines">}}, {{<crosslink text="Brothers of War" title="Brothers of War: The Iron Brigade at Gettysburg">}}), with another 22 from 2020 and 2021. Interesting to see that. 
+Looking at it another way, the oldest book I read was {{<crosslink "A Canticle for Leibowitz">}} from 1959. I only read 5 books from before 2000 though, which I feel I really should try to do better about. 6 of them were from this year alone ({{<crosslink "The Lost Metal">}}, {{<crosslink "Nettle & Bone">}}, {{<crosslink "Soul Taken">}}, {{<crosslink "Out of the Blue">}}, {{<crosslink "The Curse of the Constantines">}}, {{<crosslink text="Brothers of War" title="Brothers of War: The Iron Brigade at Gettysburg">}}), with another 22 from 2020 and 2021. Interesting to see that. 
 
 Page wise, I read an average of 105 pages per day, which is right around where I usually end up. Of those, roughly 70 pages were from novels and 26 from graphic novels (so I'm not just reading graphic novels!). 60 pages per day were in a digital format (either ebook or graphic novel) and 35 per day were audiobooks. So I still read about 2/3 'traditional' books, but graphic novels and audio are a big chunk of it. 
 
-The longest book I read was... once again the Bible. Other than that though, {{<crosslink "The Well of Ascension">}} at 590 pages. The shortest were shorts stories. Otherwise, I had 15 over 500 pages, another 15 over 400, and the majority in the 300-400 range with 43 books. A decent spread. 
+The longest book I read was... {{<crosslink "The Well of Ascension">}} at 590 pages. Not even Stormlight and it's still fairly massive. The shortest were shorts stories. Otherwise, I had 15 over 500 pages, another 15 over 400, and the majority in the 300-400 range with 43 books. A decent spread. 
 
 As always, I tend to read books that I think I'm going to like. 66 five-star, 53 four-star, and 8 three-star ratings for the year. C'est la vide. If you want to know if I think you'll like a book, ask me. I feel like that's a much better way to do these things. 
-
-Well. That was a year. Covid, take 2. A new job. A new baby. I didn't quite make my 200 books this year (I didn't quite even make it to 1/2 days), but that's okay. I still read a giant pile. :D
-
-Some stats:
-
-* 179 books read: 1 every 2.04 days (almost!)
-* 47,236 pages read: roughly 130 pages/day
-* 29 audiobooks, 96 graphic novels, 18 children's chapter books, 18 non-fiction
-* 56 unique authors (top were Hajime Isayama, Patricia Briggs, Warren Ellis, and Neil Gaiman)
-* 19 series (top were Attack on Titan, Mercy Thompson/Alpha & Omega, Sandman, and Runelords)
-
-Shortest: {{< crosslink "The Shepherd's Tale" >}} with 56 pages, longest: {{< crosslink "The Holy Bible: Revised Standard Version, Catholic Edition" >}} with over 1000. That feels like cheating though, so let's go with {{< crosslink "Rhythm of War" >}} at 1270 / {{< crosslink "Crafting Interpreters" >}} at 865. :smile: 
-
-The most read book I read this year was {{< crosslink "1984" >}} with 5 million others reading it (on Goodreads alone; I was working on my earliest backlog). Least popular: {{< crosslink "Tales of Nezura: Book 1: The Zevolra" >}} with only 39. It ... wasn't bad. Give it a try?
-
-I was ... somewhat uneven when it came to books: 25 in August and 17/14 in April/March. Around 10 in December, October, and January. But only 1 in September and 4 in February. Part of that is varying interest, part is when certain books lined up. Still neat to see. 
-
-Overall, I gave 119 five-star ratings, 45 four-star, 7 three-star, and less than 10 other ratings. I've come to the realization over the last year that I tend to like just about everything. Books in particular, they're only on my list if I think I'd find them interesting, so of course, they'll be rated highly... 
-
-Not bad.
 
 ### Particularly awesome
 
