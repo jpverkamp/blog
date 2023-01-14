@@ -1,7 +1,6 @@
 ---
 cover: /embeds/books/batman-year-one.jpg
 date: '2022-05-14'
-draft: true
 goodreads_id: 59980
 isbn: '1401207529'
 isbn13: '9781401207526'
