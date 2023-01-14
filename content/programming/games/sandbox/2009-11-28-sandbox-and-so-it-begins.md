@@ -6,6 +6,7 @@ programming/languages:
 - C#
 programming/topics:
 - Games
+- Falling Sand
 ---
 For the past few years, I've been fascinated by falling sand / particle simulation type games (<a href="http://fallingsandgame.com/sand/">like this one</a>).  Enough so that I've set out to make one a fair number of times.  Each time, I've advanced my own techniques by a little bit, finding new and better ways to make digital sand.
 

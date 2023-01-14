@@ -7,6 +7,8 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- File Systems
 ---
 ## Source: [No Space Left On Device](https://adventofcode.com/2022/day/7)
 

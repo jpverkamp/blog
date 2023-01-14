@@ -7,6 +7,11 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Visualization
+- Backtracking
+- Algorithms
+- Data Structures
 ---
 ## Source: [Treetop Tree House](https://adventofcode.com/2022/day/8)
 

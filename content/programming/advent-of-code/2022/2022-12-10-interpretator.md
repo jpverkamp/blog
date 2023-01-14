@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Graphics
+- Cellular Automata
+- Retro Graphs
 ---
 ## Source: [Cathode-Ray Tube](https://adventofcode.com/2022/day/10)
 

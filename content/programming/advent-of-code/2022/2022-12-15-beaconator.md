@@ -7,6 +7,9 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Backtracking
 ---
 ## Source: [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)
 

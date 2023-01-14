@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Parsing
+- Virtual Machine
+- Modular Arithmetic
 ---
 ## Source: [Monkey in the Middle](https://adventofcode.com/2022/day/11)
 

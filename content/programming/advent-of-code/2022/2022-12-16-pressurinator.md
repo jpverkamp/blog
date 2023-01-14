@@ -7,6 +7,13 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Backtracking
+- Graphs
+- Graph Theory
+- Optimization
+- A-Star
 ---
 ## Source: [Proboscidea Volcanium](https://adventofcode.com/2022/day/16)
 

@@ -7,6 +7,12 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Backtracking
+- Falling Sand
+- Cellular Automata
+- Visualization
 ---
 ## Source: [Regolith Reservoir](https://adventofcode.com/2022/day/14)
 

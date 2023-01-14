@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Encryption
+- Ciphers
+- Modular Arithmetic
 ---
 ## Source: [Grove Positioning System](https://adventofcode.com/2022/day/20)
 

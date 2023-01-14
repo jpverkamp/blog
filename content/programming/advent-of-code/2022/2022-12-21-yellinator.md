@@ -7,6 +7,12 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Visualization
+- Data Structures
+- Trees
+- GraphViz
 ---
 ## Source: [Monkey Math](https://adventofcode.com/2022/day/21)
 

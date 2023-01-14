@@ -7,6 +7,11 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Games
+- Tetris
+- Optimization
+- Modular Arithmetic
 ---
 ## Source: [Pyroclastic Flow](https://adventofcode.com/2022/day/17)
 

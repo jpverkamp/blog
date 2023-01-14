@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Backtracking
+- Optimization
 ---
 ## Source: [Not Enough Minerals](https://adventofcode.com/2022/day/19)
 

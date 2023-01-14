@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Numeral Systems
+- Base 5
 ---
 ## Source: [Full of Hot Air](https://adventofcode.com/2022/day/25)
 

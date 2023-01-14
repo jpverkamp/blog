@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Algorithms
+- Backtracking
+- Visualization
 ---
 ## Source: [Blizzard Basin](https://adventofcode.com/2022/day/24)
 

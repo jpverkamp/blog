@@ -7,6 +7,11 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Parsing
+- Algorithms
+- Optimization
+- Backtracking
 ---
 ## Source: [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12)
 

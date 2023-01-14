@@ -7,7 +7,7 @@ programming/languages:
 programming/sources:
 - Programming Praxis
 programming/topics:
-- Visualiziation
+- Visualization
 ---
 I'm a bit behind the times, but <a href="http://programmingpraxis.com/2013/08/16/monkey-grid-puzzle/">this post</a> from Programming Praxis intrigued me enough that I kept it in my todo list for rather a while. So let's get around to it.
 

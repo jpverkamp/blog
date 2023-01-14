@@ -7,6 +7,11 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2022
+programming/topics:
+- Simulation
+- Graphics
+- Cellular Automata
+- Physics
 ---
 ## Source: [Rope Bridge](https://adventofcode.com/2022/day/9)
 
