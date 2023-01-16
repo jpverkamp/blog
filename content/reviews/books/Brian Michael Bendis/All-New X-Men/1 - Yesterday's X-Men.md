@@ -5,7 +5,7 @@ goodreads_id: 16002164
 page_count: 136
 rating: 4
 reviews/authors:
-- "Brian Michael Bendis\_(Writer)"
+- "Brian Michael Bendis"
 - "Stuart Immonen\_(Penciler)"
 - "Wade Von Grawbadger\_(Inker)"
 reviews/lists:
