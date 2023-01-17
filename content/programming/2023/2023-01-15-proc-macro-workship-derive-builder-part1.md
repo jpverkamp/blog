@@ -1110,16 +1110,15 @@ fn try_optional(ty: &syn::Type) -> std::option::Option<syn::Type> {
                 },
                 ..
             }
-        ) => segments.clone(),
+        ) 
+        if segments.len() == 1
+        => segments.clone(),
         _ => return std::option::Option::None,
     };
-    if segments.len() != 1 {
-        return std::option::Option::None;
-    }
     
     // Pull out the first arg segment in the Option
     // Verify that there's exactly one parameter
-    let args = match segments.iter().next().unwrap() {
+    let args = match &segments[0] {
         syn::PathSegment{
             ident,
             arguments: syn::PathArguments::AngleBracketed(
@@ -1128,18 +1127,16 @@ fn try_optional(ty: &syn::Type) -> std::option::Option<syn::Type> {
                     ..
                 }
             )
-        } if ident == "Option"
+        }
+        if ident == "Option" && args.len() == 1
         => args,
         _ => return std::option::Option::None,
     };
-    if args.len() != 1 {
-        return std::option::Option::None;
-    }
-
+    
     // Extract that single type
     // Verify that there's exactly one
     // TODO: Future case should deal with things like lifetimes etc that could also be in here
-    let ty = match args.iter().next().unwrap() {
+    let ty = match &args[0] {
         syn::GenericArgument::Type(t) => t,
         _ => return std::option::Option::None
     };

@@ -9,6 +9,16 @@ debug:
 import-flickr:
 	python3 scripts/flickr.py --generate
 
+review what:
+	python3 scripts/review-{{what}}.py
+
+detextbundle path:
+	detextbundle \
+	--output-root ~/Projects/blog/static \
+	--output-assets embeds/books/attachments \
+	--output-markdown - \
+	--input "{{path}}" | pbcopy
+
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
 	cd public; git wipe; git pull --rebase --prune
