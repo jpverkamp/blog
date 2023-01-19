@@ -7,7 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
 
-    {{- partial "includes-css.html" . -}}
+    <link rel="alternate" type="application/atom+xml" title="jverkamp.com (Atom 2.0)" href="//blog.jverkamp.com/feed/">
+
+    {{ partial "includes-js.html" . }}
+    {{ partial "includes-css.html" . }}
 
     <!-- This is intentionally loaded in the header for posts that use jQuery for dynamic content -->
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
@@ -26,6 +29,6 @@
         {{- partial "footer.html" . -}}
     </div>
 
-    {{- partial "includes-js.html" . -}}
+    
 </body>
 </html>
