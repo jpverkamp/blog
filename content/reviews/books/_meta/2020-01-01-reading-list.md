@@ -3,6 +3,7 @@ title: 2020 Reading List
 date: 2020-01-01
 reviews/lists:
 - 2020 Book Reviews
+is_review_meta: true
 ---
 Every year, a reading list. I didn't make 120 books per year last year. As mentioned, I was doing pretty well until. And then October hit, with a pile of birthdays. And November, with [NaNoWriMo]({{< ref "2019-11-25-nanowrimo-2019-winner" >}}). And then the holidays. Thanksgiving. Christmas. So I think this year, I'm going to back down to 100 again, trying to hit that by the end of October. Then I can read with less pressure through the rest of the year. 
 

@@ -5,7 +5,7 @@
 {{ define "main" }}
     <header>    
 		<h1 class="entry-title">
-            Review: {{ .Title -}}       
+            {{ if not (index .Params "is_review_meta") }}Review:{{ end }} {{ .Title -}}       
         </h1>
     </header>
 

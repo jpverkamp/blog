@@ -14,7 +14,7 @@ reviews/series:
 - All-New X-Men
 series_index:
 - 4
-title: All-Different
+title: "All-New X-Men, Vol. 4: All-Different"
 ---
 Looks like things are settling and everyone is more or less getting along… as impossible as that seems. 
 

@@ -3,6 +3,7 @@ title: 2020 Reading Retrospective
 date: 2020-12-31 23:59:59
 reviews/lists:
 - 2020 Book Reviews
+is_review_meta: true
 ---
 Well. That was a year. I went kind of nuts this year and read 239 books. Granted, that includes graphic novels (they're shorter and read quickly, but they're still definately books) and books I read with my children. But it's still a total of 68k pages, averaging 285 pages per book. An average of 186 pages per day. Not bad at all. Some more statistics:
 

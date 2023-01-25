@@ -3,6 +3,7 @@ title: 2018 Reading List
 date: 2018-01-01
 reviews/lists:
 - 2018 Book Reviews
+is_review_meta: true
 ---
 Four years. Starting to feel like a habit.
 

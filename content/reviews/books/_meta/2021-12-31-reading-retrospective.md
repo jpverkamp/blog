@@ -3,6 +3,7 @@ title: 2021 Reading Retrospective
 date: 2021-12-31 23:59:55
 reviews/lists:
 - 2021 Book Reviews
+is_review_meta: true
 ---
 Well. That was a year. Covid, take 2. A new job. A new baby. I didn't quite make my 200 books this year (I didn't quite even make it to 1/2 days), but that's okay. I still read a giant pile. :D
 

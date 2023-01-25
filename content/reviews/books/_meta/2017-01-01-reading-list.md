@@ -3,6 +3,7 @@ title: 2017 Reading List
 date: 2017-01-01
 reviews/lists:
 - 2017 Book Reviews
+is_review_meta: true
 ---
 Third time's a charm.
 

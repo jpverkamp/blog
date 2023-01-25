@@ -14,7 +14,7 @@ reviews/series:
 - All-New X-Men
 series_index:
 - 1
-title: Yesterday's X-Men
+title: "All-New X-Men, Vol. 1: Yesterday's X-Men"
 ---
 Been a while since I’ve read any of the more direct ‘comic booky’ comics. So let’s do this. 
 

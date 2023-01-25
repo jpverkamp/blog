@@ -4,6 +4,7 @@ date: 2021-04-01
 reviews/lists:
 - 2021 Book Reviews
 - 2021 Book Bingo
+is_review_meta: true
 ---
 I've seen the [/r/Fantasy Book Bingo](https://www.reddit.com/r/Fantasy/comments/mhz2tt/official_rfantasy_2021_book_bingo_challenge/) cards before a number of times, but this is the first year that I think I'm actually going to try it. I've gotten away from my previous reading lists, but this sounds like a great way to find new things / read a few that are out of my comfort zone. I do read a crazy amount, so I should be able to find time for 25 specific books--but then again, there are a few rules that might make this more interesting:
 

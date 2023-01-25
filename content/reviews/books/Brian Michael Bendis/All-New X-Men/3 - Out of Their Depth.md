@@ -18,7 +18,7 @@ reviews/series:
 - All-New X-Men
 series_index:
 - 3
-title: Out of Their Depth
+title: "All-New X-Men, Vol. 3: Out of Their Depth"
 ---
 Man it’s complicated keeping track of things with shape shifters and mind readers and time travelers and all these different teams running around.
 

@@ -3,6 +3,7 @@ title: 2015 Reading List
 date: 2015-01-01 00:05:00
 reviews/lists:
 - 2015 Book Reviews
+is_review_meta: true
 ---
 Partially to keep myself honest and partially because I think these books look neat, here is my (entirely too ambitious) current reading list for 2015:
 

@@ -1,0 +1,17 @@
+{{- $data := or 
+        (index (index $.Site.Taxonomies (.Get 0)) (.Get 1))
+        (index (index $.Site.Taxonomies (.Get 0)) ((.Get 1) | urlize))
+-}}
+<div class="cover-list">
+    {{- range $i, $page := $data -}}
+    <figure class="cover-image">
+    <a href="{{ .Permalink }}">
+        {{- if isset .Params "cover" -}}
+            <img src="{{ .Params.cover }}" />
+        {{- else -}}
+            {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+        {{- end -}}
+    </a>
+    </figure>
+    {{- end -}}
+</div>

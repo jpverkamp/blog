@@ -1,12 +1,12 @@
 {{ define "title" }}
-    Review: {{ .Title }} – {{ .Site.Title -}}
+    {{ if not (index .Params "is_review_meta") }}Review:{{ end }} {{ .Title }} – {{ .Site.Title -}}
 {{ end }}
 
 {{- define "main" -}}
 <article>
 	<header>
 		<h1 class="entry-title">
-            Review: {{ .Title -}}       
+            {{ if not (index .Params "is_review_meta") }}Review:{{ end }} {{ .Title -}}       
         </h1>
 
         {{- if isset .Params "reviews/series" -}}

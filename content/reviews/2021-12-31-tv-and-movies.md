@@ -4,6 +4,7 @@ date: 2021-12-31 23:59:59
 reviews/lists:
 - 2021 TV Reviews
 - 2021 Movie Reviews
+is_review_meta: true
 ---
 I do a [post]({{< ref "2021-12-31-reading-retrospective" >}}) each year on books, but this year I also started reviewing movies and TV shows! I have *absolutely* no idea how much value people get out of this (and I'd love to [hear from you](mailto:blog@jverkamp.com)), but I enjoy doing it, so I'm not going to stop any time soon. :D
 

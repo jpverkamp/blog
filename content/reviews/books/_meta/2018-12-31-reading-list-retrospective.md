@@ -3,6 +3,7 @@ title: 2018 Reading List Retrospective
 date: 2018-12-31 23:59:59
 reviews/lists:
 - 2018 Book Reviews
+is_review_meta: true
 ---
 Another year of reading. Still not back to my [glory days of 100 books in a year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}), but otherwise the second best I've done (beating out [91 in 2016]({{< ref "2016-12-31-reading-list-retrospective.md" >}})!). A solid year. I'm going to see if I can purposely try to hit 100 again next year though. Should be doable.
 

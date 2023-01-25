@@ -14,7 +14,7 @@ reviews/series:
 - All-New X-Men
 series_index:
 - 5
-title: One Down
+title: "All-New X-Men, Vol. 5: One Down"
 ---
 ![](/embeds/books/attachments/all-new-x-men-5-7ff825.png)
 

@@ -3,6 +3,7 @@ title: 2016 Reading List
 date: 2016-01-01
 reviews/lists:
 - 2016 Book Reviews
+is_review_meta: true
 ---
 I enjoyed keeping public track of my [2015 Reading List]({{< ref "2015-12-31-reading-list-retrospective.md" >}}), so here's the same thing for 2016:
 

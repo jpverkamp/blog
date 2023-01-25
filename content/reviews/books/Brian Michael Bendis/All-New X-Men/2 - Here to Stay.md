@@ -14,7 +14,7 @@ reviews/series:
 - All-New X-Men
 series_index:
 - 2
-title: Here to Stay
+title: "All-New X-Men, Vol. 2: Here to Stay"
 ---
 Man super hero comics are bonkers. So much history. So many crossovers. And it’s all the more intense when you add time travel to the mix…
 

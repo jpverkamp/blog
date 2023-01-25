@@ -3,6 +3,7 @@ title: 2015 Reading List Retrospective
 date: 2015-12-31
 reviews/lists:
 - 2015 Book Reviews
+is_review_meta: true
 ---
 I 2015, I set myself an ~~ambitious~~ ~~slightly~~ insane reading goal: 100 books.
 

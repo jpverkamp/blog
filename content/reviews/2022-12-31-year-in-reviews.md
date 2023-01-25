@@ -5,6 +5,7 @@ reviews/lists:
 - 2022 Book Reviews
 - 2022 TV Reviews
 - 2022 Movie Reviews
+is_review_meta: true
 ---
 Another year's over... and a new one just begun. In years past, I've done a seperate post for my {{<crosslink "2021 Reading Retrospective">}} and {{<crosslink "2021 TV & Movies Retrospective">}}, but... that seems silly. Let's do them all together this year! 
 

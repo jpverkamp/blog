@@ -3,6 +3,7 @@ title: 2019 Reading List Retrospective
 date: 2019-12-31 23:59:59
 reviews/lists:
 - 2019 Book Reviews
+is_review_meta: true
 ---
 Another year older and another year of reading. I set myself the entirely insane goal of 120 books this year--10 a month--almost one every three days. And for most of the year, I was actually hitting that goal. And then October hit, with a pile of birthdays. And November, with [NaNoWriMo]({{< ref "2019-11-25-nanowrimo-2019-winner" >}}) (still going strong at just over 120k words; I should be done in the next day or two). And then the holidays. Thanksgiving. Christmas. Not really an excuse. More of an explination. 
 

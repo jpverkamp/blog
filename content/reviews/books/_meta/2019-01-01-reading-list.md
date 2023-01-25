@@ -3,6 +3,7 @@ title: 2019 Reading List
 date: 2019-01-01
 reviews/lists:
 - 2019 Book Reviews
+is_review_meta: true
 ---
 Another year, another reading list.
 

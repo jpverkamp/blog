@@ -3,6 +3,7 @@ title: 2016 Reading List Retrospective
 date: 2016-12-31 23:59:59
 reviews/lists:
 - 2016 Book Reviews
+is_review_meta: true
 ---
 Once again, a crazy goal. This year, I *officially* set a goal of 50 books. *Unofficially*, I was still trying to read 100 books. Almost made it.
 

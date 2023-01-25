@@ -4,6 +4,7 @@ date: 2022-03-31 23:59:59
 reviews/lists:
 - 2021 Book Reviews
 - 2021 Book Bingo
+is_review_meta: true
 ---
 I made it*!
 
