@@ -128,6 +128,7 @@ while True:
 
             data['reviews/authors'] = [
                 el.text.strip()
+                # for el in soup.select('div#bookAuthors a.authorName')
                 for el in soup.select('div.BookPageMetadataSection div.ContributorLinksList a.ContributorLink')
             ]
 
@@ -155,7 +156,11 @@ while True:
             data['cover'] = f'/embeds/books/{cover_filename}'
 
     else:
-        logging.warning('- Unknown page format')
+        logging.warning('- Unknown page format, output dumped to review-book.html')
+
+        with open('review-book.html', 'w') as f:
+            f.write(response.text)
+
         break
 
     data['goodreads_id'] = int(url.split('/')[-1].split('-')[0].split('.')[0])
