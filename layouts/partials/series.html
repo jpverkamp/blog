@@ -1,5 +1,6 @@
+{{- $page := . -}}
 {{- if index .Params "reviews/series" -}}
-    {{- range $series := index .Params "reviews/series" -}}
+    {{- range $index, $series := index .Params "reviews/series" -}}
         {{/* Books are in data/goodreads/series.yaml" */}}
         {{- if index $.Site.Data.goodreads.series $series -}}
             {{- range $index, $book := index (index $.Site.Data.goodreads.series $series) "books" -}}
@@ -11,9 +12,15 @@
         {{- else if index $.Site.Data.series $series -}}
             {{- range $index, $title := index $.Site.Data.series $series -}}
                 {{- if (eq $title $.Page.Title) }}
-                    (<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>)
+                    [<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>]
                 {{- end -}}
             {{- end -}}
+        {{/* Otherwise, fall back to just series name */}}
+        {{- else if index $page.Params "series_index" -}}
+            {{- $series_index := index (index $page.Params "series_index") $index -}}
+            [<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $series_index }}</a>]
+        {{- else -}}
+            {{ $page.Params }}
         {{- end -}}
     {{- end -}}
 {{- end -}}
