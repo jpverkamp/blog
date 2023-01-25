@@ -19,6 +19,9 @@ detextbundle path:
 	--output-markdown - \
 	--input "{{path}}" | pbcopy
 
+push:
+	git push origin HEAD
+
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
 	cd public; git wipe; git pull --rebase --prune
@@ -29,7 +32,8 @@ build:
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
 
-deploy: build
+deploy: push build
 	cd public; git add .
 	cd public; git commit -m "Automatic deployment: {{LAST_COMMIT}}"
 	cd public; git push origin master
+	
