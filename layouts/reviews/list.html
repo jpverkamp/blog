@@ -49,7 +49,7 @@
         {{- range .Pages -}}
         <li>
             {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>{{ partial "series.html" . }}
         </li>
         {{- end -}}
     </ul>

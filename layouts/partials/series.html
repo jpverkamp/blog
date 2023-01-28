@@ -4,21 +4,30 @@
         {{/* Books are in data/goodreads/series.yaml" */}}
         {{- if index $.Site.Data.goodreads.series $series -}}
             {{- range $index, $book := index (index $.Site.Data.goodreads.series $series) "books" -}}
-                {{- if (eq $book $.Page.Title) }}
-                    [<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>]
+                {{ if (eq $book $.Page.Title) }}
+                    <a class="series-index taxonomy-value" href="/reviews/series/{{ $series | urlize }}">
+                        <span class="series">{{ $series }}</span>
+                        <span class="index">#{{ $index }}</span>
+                    </a>
                 {{- end -}}
             {{- end -}}
         {{/* Non books are in data/otherseries.yaml" */}}
-        {{- else if index $.Site.Data.series $series -}}
+        {{- else if index $.Site.Data.series $series }}
             {{- range $index, $title := index $.Site.Data.series $series -}}
-                {{- if (eq $title $.Page.Title) }}
-                    [<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $index }}</a>]
+                {{- if (eq $title $.Page.Title) -}}
+                    <a class="series-index taxonomy-value" href="/reviews/series/{{ $series | urlize }}">
+                        <span class="series">{{ $series }}</span>
+                        <span class="index">#{{ $index }}</span>
+                    </a>
                 {{- end -}}
             {{- end -}}
         {{/* Otherwise, fall back to just series name */}}
-        {{- else if index $page.Params "series_index" -}}
+        {{- else if index $page.Params "series_index" }}
             {{- $series_index := index (index $page.Params "series_index") $index -}}
-            [<a class="taxonomy-value" href="/reviews/series/{{ $series | urlize }}">{{ $series }} #{{ $series_index }}</a>]
+            <a class="series-index taxonomy-value" href="/reviews/series/{{ $series | urlize }}">
+                <span class="series">{{ $series }}</span>
+                <span class="index">#{{ $series_index }}</span>
+            </a>
         {{- else -}}
             {{ $page.Params }}
         {{- end -}}

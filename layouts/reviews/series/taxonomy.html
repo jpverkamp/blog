@@ -45,7 +45,7 @@
             {{ if gt $series_index 0 }}{{ $series_index }}: {{ end }}
             <a href="{{ $page.Permalink }}">
                 {{ $page.Title }}
-            </a>
+            </a>{{ partial "series.html" $page }}
             
         </li>
         {{- end -}}
