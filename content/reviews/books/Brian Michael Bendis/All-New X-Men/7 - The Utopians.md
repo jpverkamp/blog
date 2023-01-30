@@ -14,7 +14,7 @@ reviews/series:
 - All-New X-Men (2012) (Collected Editions)
 series_index:
 - 7
-title: The Utopians
+title: "All-New X-Men, Vol. 7: The Utopians"
 ---
 So we have a trainingish montage with Jean and Magik, two issues were saw already, and a big character moment for Bobby…
 
