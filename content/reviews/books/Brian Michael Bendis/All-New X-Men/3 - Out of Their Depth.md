@@ -15,7 +15,7 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- All-New X-Men
+- All-New X-Men (2012)
 series_index:
 - 3
 title: "All-New X-Men, Vol. 3: Out of Their Depth"

@@ -11,7 +11,7 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- All-New X-Men
+- All-New X-Men (2012)
 series_index:
 - 1
 title: "All-New X-Men, Vol. 1: Yesterday's X-Men"
