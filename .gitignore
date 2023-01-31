@@ -5,3 +5,4 @@ public/
 .DS_Store
 _cache
 *.lock
+review-book*.html
