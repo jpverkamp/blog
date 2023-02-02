@@ -7,6 +7,7 @@ reviews/lists:
 reviews/authors:
 - James Smith
 title: 'Build Your Own Redis with C/C++'
+cover: /embeds/books/build-your-own-redis.jpg
 ---
 Stumbled on [Build Your Own Redis with C/C++](https://build-your-own.org/). Decided to read it. 
 
