@@ -1,17 +1,24 @@
 {{ $width := mul 1.1 (int (or ($.Get "width") 400)) }}
 {{ $height := mul 1.1 (int (or ($.Get "height") 400)) }}
+{{ $startPaused := (eq (or ($.Get "startPaused") "false") "true") }}
 {{ $id := or ($.Get "id") (substr (.Inner | md5) 0 4) }}
 {{ $libraries := $.Get "libraries" }}
 
 {{ $header := `
 <html>
 <head>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js" integrity="sha512-WIklPM6qPCIp6d3fSSr90j+1unQHUOoWDS4sdTiR8gxUTnyZ8S2Mr8e10sKKJ/bhJgpAa/qG068RDkg6fIlNFA==" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js" integrity="sha512-wM+t5MzLiNHl2fwT5rWSXr2JMeymTtixiw2lWyVk1JK/jDM4RBSFoH4J8LjucwlDdY6Mu84Kj0gPXp7rLGaDyA==" crossorigin="anonymous"></script>    
-    
-    <script src="https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js" integrity="sha384-XlyRxqW2TTF2gFC0VpBI8OqnCTsZOdgrhBFikxYD4hEu68QdNQ64kiej07hCAiJq" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js" integrity="sha384-/Uy+8NNvYJjG164REYQP/RnqVcrnsFTtnoCJcLg/tVBKaHUaovtr+ZJgKQKHGAPW" crossorigin="anonymous"></script>
 ` }}
+
+{{- $scripts := slice 
+    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"
+    "https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js"
+    "https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js"
+-}}
+{{- range $scripts -}}
+{{- $script := resources.GetRemote . | minify | fingerprint }}
+    {{ $header = (print $header `<script src="` $script.RelPermalink `" integrity="` $script.Data.Integrity `"></script>`) }}
+{{- end }}   
 
 {{ range $library := (split $libraries " ") }}
     {{ $header = (print $header `<script src="` $library `"></script>`) }}
@@ -43,12 +50,15 @@ setup = () => {
     }
 
     oldSetup();
+    if (START_PAUSED) {
+        noLoop();
+    }
 
     createButton("play/pause").mousePressed(() => {
         if (isLooping()) {
-        noLoop();
+            noLoop();
         } else {
-        loop();
+            loop();
         }
     });
 
@@ -64,6 +74,10 @@ setup = () => {
         }
     });
 
+    createButton("reload").mousePressed(() => {
+        window.location.reload();
+    });
+
     if (typeof params !== "undefined") {
         for (var el of document.querySelectorAll('input')) {
             if (el.id && el.id.startsWith('qs_')) {
@@ -77,16 +91,16 @@ setup = () => {
 `}}
 
 <div class="tab">
-    <button class="tablinks default" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', 'iframedemo')">Demo</button>
+    <button id="iframedemo" class="tablinks default" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', 'iframedemo')">Demo</button>
     {{ if (.Scratch.Get "tabs") }}
 
         {{ range $tab := .Scratch.Get "tabs" }}
             {{ $title := index $tab "title" }}
             {{ $content := index $tab "content" }}
-            <button class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', '{{ $title }}')">{{ $title }}</button>
+            <button id="{{ $title }}" class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', '{{ $title }}')">{{ $title }}</button>
         {{ end }}
     {{ else }}
-        <button class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', 'defaultscript')">Script</button>
+        <button id="defaultscript" class="tablinks" data-tabset="{{ $id }}" onclick="changeTab(event, '{{ $id }}', 'defaultscript')">Script</button>
     {{ end }}
 </div>
 
@@ -105,6 +119,7 @@ setup = () => {
                 {{ .Inner }}
             {{ end }}
 
+            const START_PAUSED = {{ $startPaused }};
             {{ $additionalScript }}
             </script>
             {{ $footer }}
