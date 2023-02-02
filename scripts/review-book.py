@@ -1,3 +1,4 @@
+import selenium.webdriver
 import requests
 import bs4
 import coloredlogs
@@ -18,39 +19,12 @@ COVER_DIR = os.path.join(BLOG_DIR, 'static', 'embeds')
 REVIEW_BASE_DIR = os.path.join(BLOG_DIR, 'content', 'reviews')
 GOODREADS = 'https://www.goodreads.com/'
 
-while True:
-    date = str(datetime.date.today())
-    date = input(f'Date for review (default {date}): ') or date
-    year = date[:4]
 
-    title = input('Title: ').strip()
+class UnknownPageFormatException(Exception):
+    pass
 
-    response = requests.get(urllib.parse.urljoin(GOODREADS, '/search'), params={'q': title})
-    soup = bs4.BeautifulSoup(response.text, features='lxml')
 
-    urls = []
-    for i, el in enumerate(soup.select('a.bookTitle'), 1):
-        title = el.text.strip()
-        author = el.parent.select_one('a.authorName').text.strip()
-
-        print(f'{i}: {title} by {author}')
-        urls.append(el.attrs['href'])
-
-    choice = input('Choose a book (leave blank to skip and quit): ')
-    if not choice:
-        break
-    if not choice.isdigit():
-        print('Enter a number')
-        continue
-
-    url = urllib.parse.urljoin(GOODREADS, urls[int(choice) - 1])
-    response = requests.get(url)
-    soup = bs4.BeautifulSoup(response.text, features='lxml')
-
-    data = {}
-    data['date'] = date
-    data['rating'] = -1
-
+def extract(soup):
     # Check for different AB Tests
     if title_el := soup.select_one('#bookTitle'):
         logging.info('- Loading data in old format')
@@ -156,18 +130,68 @@ while True:
             data['cover'] = f'/embeds/books/{cover_filename}'
 
     else:
+        raise UnknownPageFormatException()
+
+    return data
+
+
+while True:
+    date = str(datetime.date.today())
+    date = input(f'Date for review (default {date}): ') or date
+    year = date[:4]
+
+    title = input('Title: ').strip()
+
+    response = requests.get(urllib.parse.urljoin(GOODREADS, '/search'), params={'q': title})
+    soup = bs4.BeautifulSoup(response.text, features='lxml')
+
+    urls = []
+    for i, el in enumerate(soup.select('a.bookTitle'), 1):
+        title = el.text.strip()
+        author = el.parent.select_one('a.authorName').text.strip()
+
+        print(f'{i}: {title} by {author}')
+        urls.append(el.attrs['href'])
+
+    choice = input('Choose a book (leave blank to skip and quit): ')
+    if not choice:
+        break
+    if not choice.isdigit():
+        print('Enter a number')
+        continue
+
+    url = urllib.parse.urljoin(GOODREADS, urls[int(choice) - 1])
+    response = requests.get(url)
+    soup = bs4.BeautifulSoup(response.text, features='lxml')
+
+    data = {}
+    data['date'] = date
+    data['rating'] = -1
+
+    try:
+        data = extract(soup)
+    except UnknownPageFormatException:
         logging.warning('- Unknown page format, output dumped to review-book.html')
 
         with open('review-book.html', 'w') as f:
             f.write(response.text)
 
-        break
+        driver = selenium.webdriver.Chrome()
+        driver.get()
+
+        with open('review-book-selenium.html', 'w') as f:
+            f.write(driver.page_source)
+
+        soup = bs4.BeautifulSoup(driver.page_source)
+        data = extract(soup)
 
     data['goodreads_id'] = int(url.split('/')[-1].split('-')[0].split('.')[0])
     data['reviews/lists'] = [f'{year} Book Reviews']
     data['draft'] = True
 
-    path_parts = [REVIEW_BASE_DIR, 'books', data['reviews/authors'][0]]
+    path_parts = [REVIEW_BASE_DIR, 'books']
+    if data.get('reviews/authors'):
+        path_parts.append(data['reviews/authors'][0])
 
     if data.get('reviews/series'):
         path_parts.append(data['reviews/series'][0])
