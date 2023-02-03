@@ -11,10 +11,12 @@
 
 {{- range $style := $remoteStyles -}}
     {{- $resource := resources.GetRemote $style | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" />
+    <!-- <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" /> -->
+    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" />
 {{- end }}
 
 {{- range $style := $localStyles -}}
     {{- $resource := resources.GetMatch $style | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" />
+    <!-- <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" /> -->
+    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" />
 {{- end -}}

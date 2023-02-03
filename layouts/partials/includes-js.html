@@ -12,10 +12,12 @@
 
 {{- range $script := $remoteScripts -}}
     {{- $resource := resources.GetRemote $script | minify | fingerprint }}
-    <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script>
+    <!-- <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script> -->
+    <script src="{{ $resource.RelPermalink }}" defer></script>
 {{- end }}
 
 {{- range $script := $localScripts -}}
     {{- $resource := resources.GetMatch $script | minify | fingerprint }}
-    <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script>
+    <!-- <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script> -->
+    <script src="{{ $resource.RelPermalink }}" defer></script>
 {{- end -}}
