@@ -18,8 +18,6 @@ Spend a month making one beautiful thing per day, given a bunch of prompts. A mo
 
 Let's do it!
 
-
-
 ## 8) Signed Distance Functions
 
 <!--more-->
@@ -29,6 +27,9 @@ Wikipedia: {{<wikipedia "Signed Distance Functions">}}
 * [Piter explains how to SDFs](https://genuary.art/wtsdf)
 * [2D distance functions by Inigo Quilez](https://iquilezles.org/articles/distfunctions2d/)
 * [3D distance functions by Inigo Quilez](https://iquilezles.org/articles/distfunctions/)
+
+
+
 
 
 {{< taxonomy-list "series" "Genuary 2023" >}}
