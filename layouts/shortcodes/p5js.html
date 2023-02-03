@@ -17,9 +17,7 @@
 -}}
 {{- range $scripts -}}
 {{- $script := resources.GetRemote . | minify | fingerprint }}
-    {{/* failing on mobile for some reason */}}
-    {{/* $header = (print $header `<script src="` $script.RelPermalink `" integrity="` $script.Data.Integrity `"></script>`) */}}
-    {{ $header = (print $header `<script src="` $script.RelPermalink `" ></script>`) }}
+    {{ $header = (print $header `<script src="` (absURL $script.RelPermalink) `" integrity="` $script.Data.Integrity `"></script>`) }}
 {{- end }}   
 
 {{ range $library := (split $libraries " ") }}
