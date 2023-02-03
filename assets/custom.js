@@ -17,8 +17,6 @@ $('[data-fancybox="gallery"]').fancybox({
   caption: function (instance, item) {
     var caption = $(this).data("caption") || "";
 
-    console.log(item);
-
     if (item.type === "image") {
       caption =
         '<a href="' +
@@ -38,8 +36,6 @@ Source: https://www.w3schools.com/howto/howto_js_tabs.asp
 */
 
 function changeTab(evt, tabset, tabName) {
-  console.log(`showing ${tabset} - ${tabName}`);
-
   // Hide all tabs
   document
     .querySelectorAll(`div.tabcontent[data-tabset="${tabset}"]`)

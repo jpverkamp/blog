@@ -10,20 +10,21 @@
 ` }}
 
 {{- $scripts := slice 
-    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js"
-    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js"
     "https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js"
     "https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js"
 -}}
-{{- range $href := $scripts -}}
-{{- $script := resources.GetRemote $href | minify | fingerprint }}
-    {{/* $header = (print $header `<script src="` (absURL $script.RelPermalink) `" integrity="` $script.Data.Integrity `"></script>`) */}}
-    {{/* $header = (print $header `<script src="` (absURL $script.RelPermalink) `"></script>`) */}}
-    {{ $header = (print $header `<script src="` $href `"></script>`) }}
+
+{{- range $script := $scripts -}}
+    {{- $resource := resources.GetRemote $script | minify | fingerprint }}
+    {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) }}
 {{- end }}   
 
 {{ range $library := (split $libraries " ") }}
-    {{ $header = (print $header `<script src="` $library `"></script>`) }}
+    {{- if $library -}}
+        {{- $resource := resources.GetRemote $library | minify | fingerprint }}
+        {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) }}
+    {{- end -}}
 {{ end }}
 
 {{ $header = (print $header `
@@ -40,8 +41,7 @@
 `}}
 
 {{ $additionalScript := `
-var oldSetup = setup;
-setup = () => {
+function setup() {
     // Load saved settings from the browser hash fragment
     if (parent.location.hash && typeof params !== "undefined") {
         try {
@@ -115,13 +115,14 @@ setup = () => {
 
             {{ if (.Scratch.Get "tabs") }}
                 {{ range $tab := .Scratch.Get "tabs" }}
-                    {{ index $tab "content" }}
+                    {{ replace $tab "setup(" "oldSetup(" }}
                 {{ end }}
             {{ else }}
-                {{ .Inner }}
+                {{ replace .Inner "setup(" "oldSetup(" }}
             {{ end }}
 
             const START_PAUSED = {{ $startPaused }};
+
             {{ $additionalScript }}
             </script>
             {{ $footer }}

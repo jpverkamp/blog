@@ -1,12 +1,20 @@
-{{- $styles := slice 
+{{- $remoteStyles := slice 
     "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.4/katex.css"
     "https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot-default.css"
     "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.css"
     "https://fonts.googleapis.com/css?family=Spectral+SC|Lato|Share+Tech+Mono"
 -}}
-{{- range $styles -}}
-{{- $script := resources.GetRemote . | minify | fingerprint }}
-    <!-- <link rel="stylesheet" href="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script> -->
-    <link rel="stylesheet" href="{{ $script.RelPermalink }}"></script>
+
+{{- $localStyles := slice 
+    "custom.css"
+-}}
+
+{{- range $style := $remoteStyles -}}
+    {{- $resource := resources.GetRemote $style | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" />
 {{- end }}
-    <link rel="stylesheet" href="/custom.css" />
+
+{{- range $style := $localStyles -}}
+    {{- $resource := resources.GetMatch $style | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" />
+{{- end -}}

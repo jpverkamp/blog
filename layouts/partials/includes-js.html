@@ -1,13 +1,21 @@
-{{- $scripts := slice 
+{{- $remoteScripts := slice 
     "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.js"
     "https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js"
     "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.4/katex.js"
     "https://cdnjs.cloudflare.com/ajax/libs/bigfoot/2.1.4/bigfoot.js"
     "https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.3.0/mermaid.js"
 -}}
-{{- range $scripts -}}
-{{- $script := resources.GetRemote . | minify | fingerprint }}
-    <!-- <script defer src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script> -->
-    <script defer src="{{ $script.RelPermalink }}"></script>
+
+{{- $localScripts := slice 
+    "custom.js"
+-}}
+
+{{- range $script := $remoteScripts -}}
+    {{- $resource := resources.GetRemote $script | minify | fingerprint }}
+    <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script>
 {{- end }}
-    <script defer src="/custom.js"></script>
+
+{{- range $script := $localScripts -}}
+    {{- $resource := resources.GetMatch $script | minify | fingerprint }}
+    <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script>
+{{- end -}}
