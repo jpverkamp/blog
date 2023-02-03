@@ -15,10 +15,11 @@
     "https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js"
     "https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js"
 -}}
-{{- range $scripts -}}
-{{- $script := resources.GetRemote . | minify | fingerprint }}
+{{- range $href := $scripts -}}
+{{- $script := resources.GetRemote $href | minify | fingerprint }}
     {{/* $header = (print $header `<script src="` (absURL $script.RelPermalink) `" integrity="` $script.Data.Integrity `"></script>`) */}}
-    {{ $header = (print $header `<script src="` (absURL $script.RelPermalink) `"></script>`) }}
+    {{/* $header = (print $header `<script src="` (absURL $script.RelPermalink) `"></script>`) */}}
+    {{ $header = (print $header `<script src="` $href `"></script>`) }}
 {{- end }}   
 
 {{ range $library := (split $libraries " ") }}
