@@ -7,6 +7,7 @@
 -}}
 {{- range $scripts -}}
 {{- $script := resources.GetRemote . | minify | fingerprint }}
-    <script defer src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+    <!-- <script defer src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script> -->
+    <script defer src="{{ $script.RelPermalink }}"></script>
 {{- end }}
     <script defer src="/custom.js"></script>

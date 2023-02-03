@@ -6,6 +6,7 @@
 -}}
 {{- range $styles -}}
 {{- $script := resources.GetRemote . | minify | fingerprint }}
-    <link rel="stylesheet" href="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script>
+    <!-- <link rel="stylesheet" href="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}"></script> -->
+    <link rel="stylesheet" href="{{ $script.RelPermalink }}"></script>
 {{- end }}
     <link rel="stylesheet" href="/custom.css" />
