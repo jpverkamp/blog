@@ -115,7 +115,7 @@ function setup() {
 
             {{ if (.Scratch.Get "tabs") }}
                 {{ range $tab := .Scratch.Get "tabs" }}
-                    {{ replace $tab "setup(" "oldSetup(" }}
+                    {{ replace (index $tab "content") "setup(" "oldSetup(" }}
                 {{ end }}
             {{ else }}
                 {{ replace .Inner "setup(" "oldSetup(" }}
