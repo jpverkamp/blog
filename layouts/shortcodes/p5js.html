@@ -46,7 +46,7 @@ function setup() {
     if (parent.location.hash && typeof params !== "undefined") {
         try {
             var settings = JSON.parse(atob(parent.location.hash.substring(1)));
-            Object.keys(params).forEach((key) => params[key] = settings[key] || params[key]);
+            Object.keys(params).forEach((key) => params[key] = key in settings ? settings[key] : params[key]);
         } catch(ex) {
         }
     }
