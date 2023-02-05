@@ -12,6 +12,7 @@ programming/topics:
 - p5js
 series:
 - Genuary 2023
+cover: /embeds/2023/genuary-02.png
 ---
 [Genuary](https://genuary.art/)! 
 
