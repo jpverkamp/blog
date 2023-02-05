@@ -105,3 +105,5 @@ function draw() {
   image(slice, x + offset, y);
 }
 {{</p5js>}}
+
+{{< taxonomy-list "series" "Genuary 2023" >}}
