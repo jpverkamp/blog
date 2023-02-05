@@ -5,6 +5,7 @@ reviews/lists:
 - 2021 TV Reviews
 reviews/series:
 - The Sopranos
+series_index: [2]
 source:
 - HBOMax
 cover: /embeds/tv/sopranos-2.jpg
