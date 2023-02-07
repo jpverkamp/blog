@@ -1,7 +1,6 @@
 ---
 title: "Genuary 2023.06: Steal like an artist"
 date: 2023-02-06
-draft: True
 programming/languages:
 - JavaScript
 programming/topics:
@@ -32,9 +31,6 @@ let params = {
   iterationCount: 100, iterationCountMin: 1,
   maximumDistance: 10.0, maximumDistanceMax: 100.0,
   brush: 3, brushMin: 1, brushMax: 10,
-  characterSet: [
-    'latin'
-  ]
 };
 
 let original;
