@@ -1,7 +1,6 @@
 ---
 title: "Genuary 2023.07: Sample a color palette"
 date: 2023-02-07
-draft: True
 programming/languages:
 - JavaScript
 programming/topics:
