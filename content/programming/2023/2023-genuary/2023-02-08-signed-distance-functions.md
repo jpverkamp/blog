@@ -1,7 +1,6 @@
 ---
 title: "Genuary 2023.08: Signed Distance Functions"
 date: 2023-02-08
-draft: True
 programming/languages:
 - JavaScript
 programming/topics:
