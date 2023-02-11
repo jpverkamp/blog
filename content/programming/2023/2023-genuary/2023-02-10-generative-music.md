@@ -23,9 +23,11 @@ Wikipedia: {{<wikipedia title="Aleatoric music" text="Generative music">}}
 
 **NOTE: Because of limitations in JavaScript autoplaying sound, you must click to start.**
 
+**NOTE: This currently doesn't work in Safari. Something funny with the p5.sound addon. I'm working on it.**
+
 <!--more-->
 
-{{<p5js width="600" height="420">}}
+{{<p5js width="600" height="420" libraries="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/addons/p5.sound.js">}}
 let gui;
 let params = {
   width: 32, widthMin: 4, widthMax: 64,
@@ -92,6 +94,7 @@ function setup() {
   canvas.mousePressed(() => {
     if (!synth) {
         start_millis = millis();
+        userStartAudio();
         synth = new p5.PolySynth();
     }
 
