@@ -154,6 +154,9 @@ function draw() {
       i--;
     }
   }
+
+  // Emergency backup: remove any more than 1000 oldest first
+  while (rects.length > 1000) rects.shift();
   
   for (let [x, y, w, h, c, r] of rects) {
     push();
