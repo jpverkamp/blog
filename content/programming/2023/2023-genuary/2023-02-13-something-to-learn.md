@@ -1,6 +1,6 @@
 ---
-title: "Genuary 2023.14: Asemic Writing"
-date: 2023-02-14
+title: "Genuary 2023.13: Something you've always wanted to learn"
+date: 2023-02-13
 programming/languages:
 - JavaScript
 programming/topics:
@@ -9,7 +9,7 @@ programming/topics:
 - p5js
 series:
 - Genuary 2023
-cover: /embeds/2023/genuary-14.png
+cover: /embeds/2023/genuary-13.png
 ---
 [Genuary](https://genuary.art/)! 
 
@@ -17,27 +17,26 @@ Spend a month making one beautiful thing per day, given a bunch of prompts. A mo
 
 Let's do it!
 
-## 14) Asemic writing
+## 13) Something you’ve always wanted to learn
 
-Wikipedia: {{<wikipedia "Asemic writing">}}
+META! LEARN EVERYTHING!
 
-Use the same Wikipedia code as {{<crosslink text="yesterday" title="Genuary 2023.13: Something you've always wanted to learn">}} to get a random page, render each word as a line that meanders based on the letters of the word. Shiny. :smile:
-
-<!--more-->
+Fetch a random page from Wikipedia and scroll it by super quick, see how fast you can speed read it. And heck, you might just learn something. I know I did!
 
 {{<p5js width="400" height="420">}}
 let url;
 let titleToRender;
-let textToRender;
+let wordsToRender;
+let wordIndex;
 
 let nextButton;
 let wikiButton;
 
-const CHAR_SIZE = 4;
+const CHAR_SIZE = 60;
 
 function setup() {
   createCanvas(400, 400);
-  noLoop();
+  frameRate(10);
   
   nextButton = createButton("next");
   nextButton.mousePressed(renderRandomPage);
@@ -47,7 +46,47 @@ function setup() {
     window.open(url, '_blank');
   });
   
+  wordsToRender = [];
+  wordIndex = 0;
+  
   renderRandomPage();
+}
+
+function draw() {
+  if (wordIndex > wordsToRender.length) {
+    noLoop();
+  }
+  
+  clear();
+  textSize(CHAR_SIZE);
+  for (let i = 0; i < height / CHAR_SIZE; i++) {
+    if (i == 3) {
+      fill("black");
+    } else {
+      fill("lightgray");
+    }
+    
+    text(
+      wordsToRender[wordIndex + i],
+      10,
+      CHAR_SIZE * (i + 1)
+    );
+  }
+  
+  stroke("black");
+  line(
+    width - 10, 
+    10, 
+    width - 10, 
+    height - 10
+  );
+  circle(
+    width - 10,
+    1.0 * wordIndex / wordsToRender.length * (height - 20),
+    20
+  );
+  
+  wordIndex++;
 }
 
 function renderRandomPage() {
@@ -79,51 +118,15 @@ function renderRandomPage() {
   text("Loading...", 10, 20);
   
   go().then(([title, body]) => {
-    background(255);
-
-    let x = 10, y = 30;
-    for (let word of body.trim().split(/\s+/)) {
-      drawWord(x, y, word);
-      x += word.length * CHAR_SIZE;
-
-      if (x + 10 > width) {
-        x = 10;
-        y += CHAR_SIZE * 2;
-      }
-    }
-    
-    stroke("black");
-    fill("white");
-    rect(10, 10, width - 20, 14);
-    
-    noStroke();
-    fill("black");
-    text(title, 12, 22);
-    
+    titleToRender = title;
+    wordsToRender = body.trim().split(/\s+/);
+    wordIndex = 0;
     wikiButton.removeAttribute('disabled');
+    loop();
   });
 }
-
-function drawWord(x, y, word) {
-  let letters = word.toLowerCase().replace(/[^a-z]/, '');
-  
-  stroke("black");
-  strokeWeight(1);
-  noFill();
-  
-  push();
-  translate(x, y);
-  rotate(PI / -2.0);
-  for (let i = 0; i < letters.length; i++) {
-    let a = PI / 2 + (letters.charCodeAt(i) - 'a'.charCodeAt(0) - 13) / 13.0 * 1.1;
-    let x = CHAR_SIZE * cos(a);
-    let y = CHAR_SIZE * sin(a);
-    line(0, 0, x, y);
-    translate(x, y);
-  }
-  circle(0, 0, CHAR_SIZE / 4);
-  pop();
-}
 {{</p5js>}}
+
+<!--more-->
 
 {{< taxonomy-list "series" "Genuary 2023" >}}
