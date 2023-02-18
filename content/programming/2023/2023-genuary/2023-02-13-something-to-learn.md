@@ -7,6 +7,7 @@ programming/topics:
 - Generative Art
 - Procedural Content
 - p5js
+- Wikipedia
 series:
 - Genuary 2023
 cover: /embeds/2023/genuary-13.png

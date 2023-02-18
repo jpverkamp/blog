@@ -7,6 +7,9 @@ programming/topics:
 - Generative Art
 - Procedural Content
 - p5js
+- Reflection
+- Particle
+- Physics
 series:
 - Genuary 2023
 cover: /embeds/2023/genuary-16.png

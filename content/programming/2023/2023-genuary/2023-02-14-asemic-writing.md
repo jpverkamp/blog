@@ -7,6 +7,11 @@ programming/topics:
 - Generative Art
 - Procedural Content
 - p5js
+- Language
+- Writing
+- Asemic Writing
+- Text
+- Wikipedia
 series:
 - Genuary 2023
 cover: /embeds/2023/genuary-14.png

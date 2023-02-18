@@ -7,6 +7,8 @@ programming/topics:
 - Generative Art
 - Procedural Content
 - p5js
+- Audio
+- Music
 series:
 - Genuary 2023
 cover: /embeds/2023/genuary-10.png
