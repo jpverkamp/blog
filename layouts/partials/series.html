@@ -31,7 +31,9 @@
                 {{- end -}}
             {{- end -}}
         {{- else -}}
-            {{ $page.Params }}
+            <a class="series-index taxonomy-value" href="/reviews/series/{{ $series | urlize }}">
+                <span class="series">{{ $series }}</span>
+            </a>
         {{- end -}}
     {{- end -}}
 {{- end -}}
