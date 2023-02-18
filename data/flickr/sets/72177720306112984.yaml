@@ -1,0 +1,62 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 40
+count_videos: 0
+count_views: '0'
+date_create: '1676754988'
+date_update: '1676755014'
+description: Another visit to Clifty Falls. Got a year's weather in 3 days. A nice
+  warm start, a crazy rain, followed by a 30 degree temperature drop. Good to play
+  games and enjoy the pool.
+farm: 66
+id: '72177720306112984'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52697121015'
+- '52696187187'
+- '52697191588'
+- '52696964034'
+- '52696964044'
+- '52697191618'
+- '52696187287'
+- '52696702246'
+- '52697191518'
+- '52696187312'
+- '52697191658'
+- '52697121020'
+- '52696702266'
+- '52697191703'
+- '52696964094'
+- '52696964129'
+- '52696702306'
+- '52696187162'
+- '52697121160'
+- '52696187407'
+- '52696702336'
+- '52696964184'
+- '52696964194'
+- '52696702356'
+- '52696964229'
+- '52697191843'
+- '52696963989'
+- '52696964254'
+- '52697191868'
+- '52696702386'
+- '52697121270'
+- '52697191893'
+- '52696187497'
+- '52697191918'
+- '52696187182'
+- '52696702426'
+- '52696702446'
+- '52696964314'
+- '52696187547'
+- '52697191563'
+primary: '52697121015'
+secret: be67b35633
+server: '65535'
+title: Clifty Falls 2023
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
