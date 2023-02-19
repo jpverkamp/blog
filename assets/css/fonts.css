@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.ribbon a,
+.entry-tags a,
+#page-header-links a {
+    font-family: 'Spectral SC', sans-serif;
+}
+
+article .entry-title,
+article .entry-subtitle,
+#page-header h1 a {
+    font-family: 'Spectral SC', sans-serif;
+}
+
+article .entry-subtitle {
+    font-size: large;
+}
+
+pre * {
+    font-family: 'Share Tech Mono', monospace;
+}

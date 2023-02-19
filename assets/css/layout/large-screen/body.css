@@ -1,0 +1,25 @@
+@media only screen and (min-width: 800px) {
+    #wrapper {
+        width: 70%;
+        max-width: 80em;
+        margin: 0 auto;
+        position: relative;
+        min-height: 40em;
+        height: auto;
+    }
+
+    #page-content-wrapper {
+        border-right-width: 35px;
+        border-right-style: solid;
+        border-right-color: #006400;
+        margin: -35px 0 -35px 35px;
+        padding: 35px 0 35px 0;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+        background-color: white;
+    }
+
+    #page-content {
+        padding: 1em;
+    }
+}

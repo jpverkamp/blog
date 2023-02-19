@@ -5,18 +5,12 @@
     "https://fonts.googleapis.com/css?family=Spectral+SC|Lato|Share+Tech+Mono"
 -}}
 
-{{- $localStyles := slice 
-    "custom.css"
--}}
-
 {{- range $style := $remoteStyles -}}
     {{- $resource := resources.GetRemote $style | minify | fingerprint }}
     <!-- <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" /> -->
     <link rel="stylesheet" href="{{ $resource.RelPermalink }}" />
 {{- end }}
 
-{{- range $style := $localStyles -}}
-    {{- $resource := resources.GetMatch $style | minify | fingerprint }}
-    <!-- <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" /> -->
-    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" />
-{{- end -}}
+{{- $localResources := resources.Match "css/**.css" | resources.Concat "main.css" | minify | fingerprint }}
+<!-- <link rel="stylesheet" href="{{ $localResources.RelPermalink }}" integrity="{{ $localResources.Data.Integrity }}" /> -->
+<link rel="stylesheet" href="{{ $localResources.RelPermalink }}" />

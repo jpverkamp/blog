@@ -1,0 +1,36 @@
+@media only screen and (max-width: 800px) {
+    #wrapper {
+        width: 100%;
+    }
+
+    #page-header {
+        border: none;
+        margin: 0;
+    }
+
+    #page-content-wrapper {
+        border: none;
+        margin: 0;
+        padding: 0;
+        background: white;
+    }
+
+    #page-content {
+        padding: 0.5em;
+    }
+
+    #page-content h2 {
+        margin: 0;
+    }
+
+    /* iframe {
+        display: block;
+        position: relative;
+        width: 100%;
+        transform: scale(0.8);
+    } */
+
+    img {
+        max-width: 100%;
+    }
+}

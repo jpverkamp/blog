@@ -1,0 +1,53 @@
+@media only screen and (max-width: 800px) {
+    #page-footer {
+        background-color: white;
+        display: block;
+        position: relative;
+    }
+
+    /*
+    #page-footer nav {
+        height: 35px;
+        color: white;
+        background-color: #006400;
+        clear: both;
+        width: 100%;
+        padding: 0;
+    }
+
+    #page-footer nav ul {
+        margin: 8px 35px 0 0;
+        width: auto;
+    }
+    */
+
+    #page-footer nav {
+        color: white;
+        background-color: #006400;
+        width: 100%;
+        margin-right: 35px;
+    }
+
+    #page-footer nav ul {
+        margin: 0 0 0 -1em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        width: auto;
+    }
+
+    #page-footer nav li {
+        display: list-item;
+        font-size: small;
+        list-style: none;
+        font-weight: bold;
+    }
+
+    #page-footer nav li a {
+        color: white;
+    }
+
+    #page-footer #page-footer-content {
+        padding: 0 1em 0.5em 1em;
+    }
+
+}

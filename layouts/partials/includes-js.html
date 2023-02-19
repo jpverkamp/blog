@@ -6,18 +6,13 @@
     "https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.3.0/mermaid.js"
 -}}
 
-{{- $localScripts := slice 
-    "custom.js"
--}}
-
 {{- range $script := $remoteScripts -}}
     {{- $resource := resources.GetRemote $script | minify | fingerprint }}
     <!-- <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script> -->
     <script src="{{ $resource.RelPermalink }}" defer></script>
 {{- end }}
 
-{{- range $script := $localScripts -}}
-    {{- $resource := resources.GetMatch $script | minify | fingerprint }}
-    <!-- <script src="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" defer></script> -->
-    <script src="{{ $resource.RelPermalink }}" defer></script>
-{{- end -}}
+
+{{- $localResources := resources.Match "js/**.js" | resources.Concat "main.js" | minify | fingerprint }}
+<!-- <script src="{{ $localResources.RelPermalink }}" integrity="{{ $localResources.Data.Integrity }}" defer></script> -->
+<script src="{{ $localResources.RelPermalink }}" defer></script>

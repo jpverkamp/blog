@@ -1,0 +1,95 @@
+article .entry-title {
+    margin: 0.25em 0;
+    padding: 0;
+}
+
+article .entry-date:before {
+    content: "Posted on ";
+}
+
+article .entry-meta {
+    margin: 1em 0;
+    padding: 0;
+}
+
+.entry-section-prev-next {
+    text-align: center;
+    padding: 0 0 0.5em 0;
+}
+
+.entry-comments {
+    padding-bottom: 2em;
+}
+
+.taxonomy-name-list {
+    height: 35px;
+    margin-bottom: 1em;
+}
+
+.taxonomy-name-list ul,
+.taxonomy-name-list li {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+.taxonomy-name-list li {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.taxonomy-name-list a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.taxonomy-name-list ul li:before {
+    content: '[ ';
+}
+
+.taxonomy-name-list ul li:after {
+    content: ' ]';
+}
+
+.entry-taxonomies:before {
+    content: "Tags (Click/Hover)";
+}
+
+.entry-taxonomies {
+    margin-left: 1em;
+    margin-bottom: 0.5em;
+    padding: 1em 1em 0 1em;
+    font-size: 80%;
+    border: 1px dashed #006400;
+    border-radius: 1em;
+    background-color: white;
+    height: 2em;
+    overflow: hidden;
+}
+
+.entry-taxonomies:hover {
+    height: auto;
+}
+
+.entry-taxonomies ul {
+    padding-left: 1em;
+}
+
+/* .entry-taxonomies>* {
+    height: 1em;
+    overflow: hidden;
+} */
+
+.entry-taxonomies:hover>* {
+    height: auto;
+}
+
+.entry-taxonomies {
+    clear: both;
+}
+
+.entry-taxonomies .taxonomy-values .previous-link,
+.entry-taxonomies .taxonomy-values .next-link {
+    display: none;
+}

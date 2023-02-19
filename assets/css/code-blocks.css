@@ -1,0 +1,6 @@
+div.highlight pre {
+    border: 3px groove silver;
+    border-radius: 0 10px 0 10px;
+    padding: 1em;
+    overflow-x: auto;
+}

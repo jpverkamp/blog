@@ -1,0 +1,40 @@
+html,
+body {
+    background-color: #777;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+    background:
+        linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+        linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+        linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+        linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+        linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+        linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+    background-color: #131313;
+    background-size: 20px 20px;
+}
+
+#page-content {
+    min-height: 40em;
+}
+
+a {
+    color: #006400;
+    /* dark green */
+    text-decoration: none;
+}
+
+a.disabled-link {
+    pointer-events: none;
+    color: black;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+blockquote p {
+    margin: 0 0 0.5em 0;
+}

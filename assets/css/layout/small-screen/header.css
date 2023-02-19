@@ -1,0 +1,52 @@
+@media only screen and (max-width: 800px) {
+    #page-header {
+        background-color: white;
+        display: block;
+
+    }
+
+    #page-header h1 {
+        display: block;
+        font-weight: 700;
+        font-size: 3em;
+        margin: 0 0 0 0.5em;
+    }
+
+    #page-header-links {
+        margin: 0 0 0 -1em;
+        text-align: left;
+        display: inline-block;
+    }
+
+    #page-header-links li {
+        display: list-item;
+        list-style: none;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    #page-header nav {
+        color: white;
+        background-color: #006400;
+        width: 100%;
+        margin-right: 35px;
+    }
+
+    #page-header nav ul {
+        margin: 8px 35px 0 -1em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        width: auto;
+    }
+
+    #page-header nav li {
+        display: list-item;
+        font-size: small;
+        list-style: none;
+        font-weight: bold;
+    }
+
+    #page-header nav li a {
+        color: white;
+    }
+}

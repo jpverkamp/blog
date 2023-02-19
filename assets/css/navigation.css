@@ -1,0 +1,37 @@
+#pagination-navigation ul {
+    display: inline-block;
+    margin: 1em auto;
+    height: 2em;
+}
+
+#pagination-navigation li {
+    display: inline;
+}
+
+#pagination-navigation a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+#pagination-navigation ul li+li:before {
+    content: url(star.svg);
+    padding: 0 0.5em 0 0.25em;
+    fill: white;
+    vertical-align: middle;
+}
+
+.previous-link {}
+
+.previous-link:before {
+    content: ' ◅ ';
+}
+
+.next-link {}
+
+.next-link:after {
+    content: ' ▻ ';
+}
+
+#pagination-navigation {
+    text-align: center;
+}

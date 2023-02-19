@@ -1,0 +1,22 @@
+article .entry-title {
+    margin: 0.25em 0;
+    padding: 0;
+}
+
+article .entry-date:before {
+    content: "Posted on ";
+}
+
+article .entry-meta {
+    margin: 1em 0;
+    padding: 0;
+}
+
+.entry-section-prev-next {
+    text-align: center;
+    padding: 0 0 0.5em 0;
+}
+
+.entry-comments {
+    padding-bottom: 2em;
+}

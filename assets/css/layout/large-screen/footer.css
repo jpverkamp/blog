@@ -1,0 +1,30 @@
+@media only screen and (min-width: 800px) {
+    #page-footer {
+        background-color: white;
+        border-left-width: 35px;
+        border-left-color: #006400;
+        border-left-style: solid;
+        margin-right: 35px;
+        border-top-left-radius: 25px;
+        display: block;
+        position: relative;
+    }
+
+    #page-footer nav {
+        height: 35px;
+        color: white;
+        background-color: #006400;
+        clear: both;
+        width: 100%;
+        padding: 0;
+    }
+
+    #page-footer nav ul {
+        margin: 8px 35px 0 0;
+        width: auto;
+    }
+
+    #page-footer #page-footer-content {
+        padding: 1em;
+    }
+}
