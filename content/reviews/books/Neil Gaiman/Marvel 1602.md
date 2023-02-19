@@ -12,6 +12,8 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Marvel 1602
+series_index:
+- 1
 title: Marvel 1602
 ---
 Sir Nicholas Fury, with his servant Peter Parquagh. Stephen Strange, master of medicines. A blind man jumping around in the night. Sister Wanda, with her red habit. Witchbreed. So many new takes on old friends. 
