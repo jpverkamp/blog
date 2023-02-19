@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/marvel-1602-fantastick-four.jpg
-date: '2023-02-19'
+date: '2023-02-19 22:00:00'
 goodreads_id: 154576
 page_count: 120
 rating: -1
