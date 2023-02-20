@@ -7,10 +7,10 @@
 
 {{- range $style := $remoteStyles -}}
     {{- $resource := resources.GetRemote $style | minify | fingerprint }}
-    <!-- <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" /> -->
-    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" />
+    <link rel="stylesheet" href="{{ $resource.RelPermalink }}" integrity="{{ $resource.Data.Integrity }}" />
+    <!-- <link rel="stylesheet" href="{{ $resource.RelPermalink }}" /> -->
 {{- end }}
 
 {{- $localResources := resources.Match "css/**.css" | resources.Concat "main.css" | minify | fingerprint }}
-<!-- <link rel="stylesheet" href="{{ $localResources.RelPermalink }}" integrity="{{ $localResources.Data.Integrity }}" /> -->
-<link rel="stylesheet" href="{{ $localResources.RelPermalink }}" />
+<link rel="stylesheet" href="{{ $localResources.RelPermalink }}" integrity="{{ $localResources.Data.Integrity }}" />
+<!-- <link rel="stylesheet" href="{{ $localResources.RelPermalink }}" /> -->

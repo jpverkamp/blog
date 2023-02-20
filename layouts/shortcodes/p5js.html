@@ -17,15 +17,15 @@
 
 {{- range $script := $scripts -}}
     {{- $resource := resources.GetRemote $script | minify | fingerprint }}
-    {{/* $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) */}}
-    {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" defer></script>`) }}
+    {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) }}
+    {{/* $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" defer></script>`) */}}
 {{- end }}   
 
 {{ range $library := (split $libraries " ") }}
     {{- if $library -}}
         {{- $resource := resources.GetRemote $library | minify | fingerprint }}
-        {{/* $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) */}}
-        {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" defer></script>`) }}
+        {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) }}
+        {{/* $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" defer></script>`) */}}
     {{- end -}}
 {{ end }}
 

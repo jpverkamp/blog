@@ -1,10 +1,10 @@
 LAST_COMMIT := `git log -1 --pretty=%B | head -n 1`
 
-run:
-	hugo server --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
+run baseURL="localhost":
+	hugo server --baseURL {{baseURL}} --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
 
-debug:
-	hugo server --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80 --debug
+debug baseURL="localhost":
+	hugo server --baseURL {{baseURL}} --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80 --debug
 
 import-flickr:
 	python3 scripts/flickr.py --generate
