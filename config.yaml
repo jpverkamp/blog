@@ -11,7 +11,7 @@ markup:
             unsafe: true
 
 params:
-    listTermsPerTaxonomy: 10
+    listTermsPerTaxonomy: 1000
     githubUsername: jpverkamp
 
 rssLimit: 50
