@@ -1,0 +1,16 @@
+/* 
+    Do not hide on pages, only lists.
+    
+    Pages have an 'article' tag, by this rule going first, it overrides the latter.
+*/
+#page-content article .entry-tags .taxonomy-keys li .taxonomy-values {
+    display: block;
+}
+
+#page-content .entry-tags .taxonomy-keys li .taxonomy-values {
+    display: none;
+}
+
+#page-content .entry-tags .taxonomy-keys li:hover .taxonomy-values {
+    display: block;
+}

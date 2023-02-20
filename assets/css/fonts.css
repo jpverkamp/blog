@@ -8,13 +8,6 @@ body {
     font-family: 'Spectral SC', sans-serif;
 }
 
-#page-content .entry-tags .taxonomy-keys li .taxonomy-values {
-    display: none;
-}
-
-#page-content .entry-tags .taxonomy-keys li:hover .taxonomy-values {
-    display: block;
-}
 article .entry-title,
 article .entry-subtitle,
 #page-header h1 a {
