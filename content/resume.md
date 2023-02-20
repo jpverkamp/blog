@@ -17,6 +17,14 @@ comments: False
 
 ## Industry Experience
 
+### 2022 -- present: [Dropbox](https://www.dropbox.com/)
+
+#### Senior Security Engineer (Application Security) (Remote)
+
+* Headed project to triage, detect, and remove any secrets committed to source code both retroactively and on an ongoing basis for new pull requests. Implemented [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) [Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning). 
+
+
+
 ### 2020 -- 2022: [Ethos Life](https://www.ethoslife.com/)
 
 #### Senior Security Engineer (Remote)
