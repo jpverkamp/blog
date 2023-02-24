@@ -16,6 +16,11 @@ reviews/series:
 series_index:
 - 1
 title: The Vela
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 1x3+
 ---
 > Eratos wasn’t the only dying world, just the one dying fastest—the tiny colony on Samos had been gone for a decade, and after Eratos would be Hypatia and then Gan-De, and maybe the Inner Ring would finally come to care when it was their turn to freeze to death as the sun collapsed.   
 >   
