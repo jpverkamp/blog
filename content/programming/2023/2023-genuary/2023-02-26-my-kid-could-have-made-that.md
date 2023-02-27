@@ -1,6 +1,6 @@
 ---
 title: "Genuary 2023.26: My kid could have made that"
-date: 2023-02-26
+date: '2023-02-26 23:00:00'
 programming/languages:
 - JavaScript
 programming/topics:

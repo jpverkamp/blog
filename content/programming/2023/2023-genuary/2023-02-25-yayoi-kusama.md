@@ -1,6 +1,6 @@
 ---
 title: "Genuary 2023.25: Yayoi Kusama"
-date: 2023-02-25
+date: '2023-02-25 23:00:00'
 programming/languages:
 - JavaScript
 programming/topics:
