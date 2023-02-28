@@ -10,7 +10,7 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- Runaways
+- Runaways (2003-2009)
 series_index:
 - 2
 title: 'Runaways, Vol. 2: Teenage Wasteland'
