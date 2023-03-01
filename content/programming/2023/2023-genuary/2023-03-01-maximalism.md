@@ -18,8 +18,6 @@ Spend a month making one beautiful thing per day, given a bunch of prompts. A mo
 
 Let's do it!
 
-
-
 ## 29) Maximalism
 
 <!--more-->
