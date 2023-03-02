@@ -14,6 +14,11 @@ reviews/series:
 series_index:
 - 1
 title: 'Runaways, Vol. 1: Pride and Joy'
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 2x4+
 ---
 Reading volume 1, issue 1:
 

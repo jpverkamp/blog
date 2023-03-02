@@ -18,6 +18,11 @@ reviews/series:
 series_index:
 - 1
 title: 'The Wicked + The Divine, Vol. 1: The Faust Act'
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 2x3+
 ---
 Well that's a wonderful start. 
 
