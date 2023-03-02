@@ -1,7 +1,6 @@
 ---
 title: "Genuary 2023.30: Minimalism"
 date: 2023-03-02
-draft: True
 programming/languages:
 - JavaScript
 programming/topics:
