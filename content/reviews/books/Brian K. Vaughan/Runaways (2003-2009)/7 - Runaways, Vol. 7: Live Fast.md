@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/runaways-vol-7-live-fast.jpg
-date: '2023-03-02'
+date: '2023-03-02 01:00:00'
 goodreads_id: 270540
 page_count: 144
 rating: 5

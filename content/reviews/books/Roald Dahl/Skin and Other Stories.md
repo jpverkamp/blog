@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/skin-and-other-stories.jpg
-date: '2023-03-02'
+date: '2023-03-02 01:00:00'
 goodreads_id: 6695
 page_count: 224
 rating: 4
@@ -22,7 +22,7 @@ Well... it turns out he wrote some more adult, much more tense ones at all. It's
 
 The stories are quick and always have the creepy sort of twist, although I'll admit there were a few I just don't really get. So it goes. Still worth it, in my opinion. 
 
-----
+<!--more-->
 
 Reviews of each story, minimal - no spoilers:
 

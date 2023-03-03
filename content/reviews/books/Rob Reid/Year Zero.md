@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/year-zero.jpg
-date: '2023-03-02'
+date: '2023-03-02 01:00:00'
 goodreads_id: 12953520
 page_count: 364
 rating: 3
