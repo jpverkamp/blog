@@ -23,3 +23,8 @@
 .bingo td * {
     vertical-align: top;
 }
+.bingo img {
+    width: 130px;
+    height: 194px;
+    image-rendering: smooth;
+}

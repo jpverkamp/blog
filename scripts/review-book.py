@@ -100,34 +100,35 @@ def extract(soup):
             data['reviews/series'] = [series]
             data['series_index'] = [index]
 
-            data['reviews/authors'] = [
-                el.text.strip()
-                # for el in soup.select('div#bookAuthors a.authorName')
-                for el in soup.select('div.BookPageMetadataSection div.ContributorLinksList a.ContributorLink')
-            ]
+        data['reviews/authors'] = [
+            re.sub(r'  +', ' ', el.text.strip())
+            # for el in soup.select('div#bookAuthors a.authorName')
+            for el in soup.select('div.BookPageMetadataSection div.ContributorLinksList a.ContributorLink')
+        ]
+        print(data)
 
-            for row in soup.select('div.DeskListItem'):
-                if el := row.select_one('dt'):
-                    if el.text.strip().lower() == 'isbn':
-                        value = row.select_one('dd').text.strip()
-                        data['isbn'] = value.split()[0]
+        for row in soup.select('div.DeskListItem'):
+            if el := row.select_one('dt'):
+                if el.text.strip().lower() == 'isbn':
+                    value = row.select_one('dd').text.strip()
+                    data['isbn'] = value.split()[0]
 
-                        if 'isbn13' in value.lower():
-                            data['isbn13'] = value.split()[-1].strip(')')
+                    if 'isbn13' in value.lower():
+                        data['isbn13'] = value.split()[-1].strip(')')
 
-            data['page_count'] = int(soup.select_one('[data-testid="pagesFormat"]').text.strip().split()[0])
+        data['page_count'] = int(soup.select_one('[data-testid="pagesFormat"]').text.strip().split()[0])
 
-            cover_url = soup.select_one('div.BookCover img').attrs['src']
-            cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
-            cover_path = os.path.join(COVER_DIR, 'books', cover_filename)
-            logging.info(f'- Saving cover {cover_filename} <- {cover_url}')
+        cover_url = soup.select_one('div.BookCover img').attrs['src']
+        cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
+        cover_path = os.path.join(COVER_DIR, 'books', cover_filename)
+        logging.info(f'- Saving cover {cover_filename} <- {cover_url}')
 
-            image = Image.open(requests.get(cover_url, stream=True).raw)
-            image = image.resize(TARGET_COVER_SIZE)
-            image = image.convert('RGB')
-            image.save(cover_path)
+        image = Image.open(requests.get(cover_url, stream=True).raw)
+        image = image.resize(TARGET_COVER_SIZE)
+        image = image.convert('RGB')
+        image.save(cover_path)
 
-            data['cover'] = f'/embeds/books/{cover_filename}'
+        data['cover'] = f'/embeds/books/{cover_filename}'
 
     else:
         raise UnknownPageFormatException()
