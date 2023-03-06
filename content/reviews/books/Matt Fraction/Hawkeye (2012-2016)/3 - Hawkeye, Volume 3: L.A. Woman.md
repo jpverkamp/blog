@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/hawkeye-volume-3-l-a-woman.jpg
-date: '2023-02-01'
+date: '2023-02-01 00:00:01'
 goodreads_id: 17899544
 page_count: 120
 rating: -1

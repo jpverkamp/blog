@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/hawkeye-volume-4-rio-bravo.jpg
-date: '2023-02-01'
+date: '2023-02-01  00:00:02'
 goodreads_id: 22237290
 page_count: 160
 rating: -1
