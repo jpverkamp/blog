@@ -30,7 +30,7 @@ Along the way, Spider is going (more) mad:
 
 ... for good reason.  
 
-On top of that, {{< spoiler >}}we finally learn what's going on with Spider's health issues{{ spoiler >}}. Man that's a kick in the teeth for Spider and the reader. Knowing that he's probably going to win out in the end (stories tend to end up that way), but that Spider himself might very well lose everything to do it.  
+On top of that, {{<spoiler>}}we finally learn what's going on with Spider's health issues{{</spoiler>}}. Man that's a kick in the teeth for Spider and the reader. Knowing that he's probably going to win out in the end (stories tend to end up that way), but that Spider himself might very well lose everything to do it.  
 
 Images (spoilers):  
 
