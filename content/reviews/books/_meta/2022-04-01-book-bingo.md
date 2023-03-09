@@ -27,3 +27,6 @@ Rules:
 This post will automatically update as I tag books and I'll post ~if~ when I finish! I'm going to go for hard mode again as much as possible. Should be fun. :D
 
 {{< bingo "2022 Book Bingo" >}}
+
+
+{{< taxonomy-list "bingo" "2022 Book Bingo" >}}
