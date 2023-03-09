@@ -1,10 +1,9 @@
 ---
 cover: /embeds/books/shaman.jpg
 date: '2023-03-08'
-draft: true
 goodreads_id: 17669062
 page_count: 456
-rating: -1
+rating: 4
 reviews/authors:
 - Kim Stanley Robinson
 reviews/lists:
