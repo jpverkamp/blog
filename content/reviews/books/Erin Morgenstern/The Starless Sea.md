@@ -15,7 +15,7 @@ bingo:
 - 2022 Book Bingo
 bingo-data:
   2022 Book Bingo:
-  - 2x1
+  - 2x1+
 ---
 > Far beneath the surface of the earth, hidden from the sun and the moon, upon the shores of the Starless Sea, there is a labyrinthine collection of tunnels and rooms filled with stories. Stories written in books and sealed in jars and painted on walls. Odes inscribed onto skin and pressed into rose petals. Tales laid in tiles upon the floors, bits of plot worn away by passing feet. Legends carved in crystal and hung from chandeliers. Stories catalogued and cared for and revered. Old stories preserved while new stories spring up around them.
 
