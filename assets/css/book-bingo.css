@@ -28,3 +28,20 @@
     height: 194px;
     image-rendering: smooth;
 }
+.bingo.covers-only td {
+    border: 0;
+}
+
+.bingo.covers-only th,
+.bingo.covers-only td {
+    margin: 0;
+    padding: 0;
+}
+
+.bingo.covers-only p,
+.bingo.covers-only hr,
+.bingo.covers-only figcaption {
+    display: none;
+
+
+}
