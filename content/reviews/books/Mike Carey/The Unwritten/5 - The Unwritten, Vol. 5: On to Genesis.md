@@ -20,7 +20,7 @@ Finding stories, history, ... family? And more enemies, more powerful than ever.
 
 It's good, if a bit convoluted at times. 
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## Thoughts as I read (spoilers)
 

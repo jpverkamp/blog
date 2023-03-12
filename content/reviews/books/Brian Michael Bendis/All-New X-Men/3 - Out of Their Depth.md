@@ -26,6 +26,9 @@ Isn’t it great?
 
 <!--more-->
 
+---
+
+
 ![](/embeds/books/attachments/all-new-x-men-3-f4d960.png)
 
 lol. With great power and all that. 

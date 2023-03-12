@@ -22,7 +22,7 @@ The story is going now. Tommy has leaned into his powers--and his opponents are 
 
 Onward!
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## Ongoing thoughts, spoilers:
 

@@ -34,6 +34,9 @@ Persephone is bonkers, but who can blame her. The Great Darkness might be coming
 
 <!--more-->
 
+---
+
+
 ![](/embeds/books/attachments/wicked-divine-5-664611.png)
 
 It’s back! Or at least something is!

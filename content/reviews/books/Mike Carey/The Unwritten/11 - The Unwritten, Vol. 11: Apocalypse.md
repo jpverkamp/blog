@@ -34,7 +34,7 @@ It's a weird conclusion to a weird story. Fitting that way.
 
 Worth the read. 
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## A few more thoughts/cool scenes (spoilers)
 

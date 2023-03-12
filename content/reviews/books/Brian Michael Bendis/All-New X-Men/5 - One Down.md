@@ -30,6 +30,9 @@ Onward.
 
 <!--more-->
 
+---
+
+
 Cool scenes and spoilers:
 
 ![](/embeds/books/attachments/all-new-x-men-5-8db477.png)

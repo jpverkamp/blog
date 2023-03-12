@@ -28,6 +28,9 @@ Worth a read. It’s certainly an interesting ride.
 
 <!--more-->
 
+---
+
+
 More thoughts as I went (potential spoilers):
 
 ![](/embeds/books/attachments/marvel-1602-155bab.png)

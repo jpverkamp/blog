@@ -30,6 +30,9 @@ And onward we go!
 
 <!--more-->
 
+---
+
+
 ![](/embeds/books/attachments/wicked-divine-6-270e58.png)
 
 Liking Minerva’s new look!

@@ -31,6 +31,9 @@ So far, a fascinating sort of story. Well written and illustrated. I’m willing
 
 Onward!
 
+<!--more-->
+
+---
 
 ## In-line Thoughts (potential spoilers)
 

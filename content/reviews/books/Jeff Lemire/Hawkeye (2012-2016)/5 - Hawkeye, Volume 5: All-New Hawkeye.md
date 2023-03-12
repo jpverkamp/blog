@@ -24,6 +24,9 @@ Not a huge fan of the pastel flashbacks. Hard to read at best. The story is neat
 
 <!--more-->
 
+---
+
+
 More thoughts; spoilers:
 
 ![](/embeds/books/attachments/hawkeye-2012-v5-c79924.png)

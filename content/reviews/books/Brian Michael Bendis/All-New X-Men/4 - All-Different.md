@@ -38,6 +38,9 @@ Onward!
 
 <!--more-->
 
+---
+
+
 A few more parts I particularly enjoyed:
 
 ![](/embeds/books/attachments/all-new-x-men-4-4a1316.png)

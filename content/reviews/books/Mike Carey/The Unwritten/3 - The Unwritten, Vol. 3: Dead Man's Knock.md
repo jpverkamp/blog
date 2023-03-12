@@ -21,7 +21,7 @@ title: 'The Unwritten, Vol. 3: Dead Man''s Knock'
 ---
 He's on the run and--eventually--starting to accept his destiny. It's interesting to get further into who everyone is and how the world works. I'm curious where things will go next!
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ![](/embeds/books/attachments/unwritten-3-fd5a6c.png)
 

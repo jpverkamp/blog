@@ -34,7 +34,7 @@ Yup. That's Aslan.
 
 Of course it's going to take quite a story to get back to the 'real' world from Fables... But in a good way. I'm glad to see a few older characters and more Levithan. Feels like things are really finishing off. 
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## Spoilers:
 

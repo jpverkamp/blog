@@ -24,6 +24,9 @@ All righty then.
 
 <!--more-->
 
+---
+
+
 It’s about time. 
 
 ![](/embeds/books/attachments/all-new-x-men-1-03e15e.png)

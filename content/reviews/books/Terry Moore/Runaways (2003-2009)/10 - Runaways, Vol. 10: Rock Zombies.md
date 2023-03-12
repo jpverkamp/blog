@@ -24,3 +24,5 @@ I didn’t even take any pretty pictures.
 If we weren’t down to one more volume and a new writer…
 
 <!--more-->
+
+---

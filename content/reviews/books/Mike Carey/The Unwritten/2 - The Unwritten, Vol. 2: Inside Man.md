@@ -20,7 +20,7 @@ title: 'The Unwritten, Vol. 2: Inside Man'
 ---
 Things are starting to move now! Prison, dedicated journalists, some real magic, and death. I’ll still trying to figure out the rules, but I’m enjoying it so far!
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## As I read, potential spoilers
 

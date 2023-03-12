@@ -28,6 +28,9 @@ Right?
 
 <!--more-->
 
+---
+
+
 Other thoughts (spoilers):
 
 ![](/embeds/books/attachments/all-new-x-men-6-1c2b51.png)

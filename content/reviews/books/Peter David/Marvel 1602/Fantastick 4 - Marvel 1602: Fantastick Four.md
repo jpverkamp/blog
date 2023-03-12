@@ -23,6 +23,9 @@ Onward!
 
 <!--more-->
 
+---
+
+
 A few thoughts / Minor spoilers:
 
 ![](/embeds/books/attachments/marvel-1602-fantastick-41ea29.png)

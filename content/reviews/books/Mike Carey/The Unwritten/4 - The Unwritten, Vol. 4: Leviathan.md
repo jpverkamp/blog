@@ -24,7 +24,7 @@ Onward marches the story, ever stranger. Hints of what Tommy can (and must) do.
 
 Onwards and upwards!
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## Thoughts as I read (spoilers)
 

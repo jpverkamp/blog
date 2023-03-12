@@ -22,6 +22,9 @@ Onward!
 
 <!--more-->
 
+---
+
+
 ![](/embeds/books/attachments/wicked-divine-2-e6aa75.png)
 
 ![](/embeds/books/attachments/wicked-divine-2-cb1df7.png)

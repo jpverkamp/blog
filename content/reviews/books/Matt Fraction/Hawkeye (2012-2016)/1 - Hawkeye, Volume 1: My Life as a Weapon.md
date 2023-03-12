@@ -24,6 +24,9 @@ Overall, it’s really good. I’m looking forward to where this goes next!
 
 <!--more-->
 
+---
+
+
 A few more thoughts as I read. Spoilers!
 
 ![](/embeds/books/attachments/hawkeye-2012-v1-d94e7b.png)

@@ -24,6 +24,9 @@ So we have a trainingish montage with Jean and Magik, two issues were saw alread
 
 <!--more-->
 
+---
+
+
 And then there are mutants on Utopia. 
 
 ![](/embeds/books/attachments/all-new-x-men-7-f88bc6.png)

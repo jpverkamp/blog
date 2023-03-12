@@ -20,7 +20,7 @@ So very bonkers. At times, I'm pretty sure I have no idea what's going on, which
 
 Onward!
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## Thoughts as I read (spoilers)
 

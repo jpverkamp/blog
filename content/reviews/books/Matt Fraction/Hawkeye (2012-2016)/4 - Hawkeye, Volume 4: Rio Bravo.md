@@ -26,6 +26,9 @@ It’s quite the story and good to see some closure of sorts. For now.
 
 <!--more-->
 
+---
+
+
 Additional thoughts, bro. Only minor spoilers. 
 
 ![](/embeds/books/attachments/hawkeye-2012-v4-81bb51.png)

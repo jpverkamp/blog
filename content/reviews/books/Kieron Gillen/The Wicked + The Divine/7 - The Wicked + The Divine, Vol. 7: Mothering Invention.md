@@ -28,6 +28,9 @@ Onward!
 
 <!--more-->
 
+---
+
+
 ![](/embeds/books/attachments/wicked-divine-7-306971.png)
 
 … wonderful. 

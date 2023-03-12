@@ -28,6 +28,9 @@ We do get some neat backstory and introductions though!
 
 <!--more-->
 
+---
+
+
 Tara, heard of her but haven’t seen her:
 
 ![](/embeds/books/attachments/wicked-divine-3-4367b8.png)

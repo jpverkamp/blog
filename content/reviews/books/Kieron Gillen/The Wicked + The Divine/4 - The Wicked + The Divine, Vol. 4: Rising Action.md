@@ -22,6 +22,9 @@ A huge step up from Volume 3. Glad to have read it.
 
 <!--more-->
 
+---
+
+
 ![](/embeds/books/attachments/wicked-divine-4-c9e720.png)
 
 There we go!

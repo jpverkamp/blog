@@ -46,6 +46,9 @@ Onward to the conclusion!
 
 <!--more-->
 
+---
+
+
 In one, Lucifer tries to return glory to Rome. 
 
 ![](/embeds/books/attachments/wicked-divine-8-05e926.png)

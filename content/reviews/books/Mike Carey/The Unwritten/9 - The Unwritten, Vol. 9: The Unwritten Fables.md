@@ -24,7 +24,7 @@ Not at all what I expected, but most appreciated. It's great to see a number of 
 
 Onward!
 
-<!--more-->
+<!--more-->\n\n---\n
 
 ## As I read (spoilers)
 

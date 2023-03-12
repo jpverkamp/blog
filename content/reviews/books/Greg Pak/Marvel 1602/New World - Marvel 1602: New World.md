@@ -25,6 +25,9 @@ Onward!
 
 <!--more-->
 
+---
+
+
 A few thoughts while reading; spoilers. 
 
 ![](/embeds/books/attachments/marvel-1602-new-world-82b0d1.png)
