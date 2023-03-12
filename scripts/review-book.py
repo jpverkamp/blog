@@ -97,6 +97,9 @@ def extract(soup):
                 except ValueError:
                     pass
 
+            # Fix parentheticals
+            series = series.replace(' (Collected Editions)', '')
+
             data['reviews/series'] = [series]
             data['series_index'] = [index]
 
@@ -105,7 +108,10 @@ def extract(soup):
             # for el in soup.select('div#bookAuthors a.authorName')
             for el in soup.select('div.BookPageMetadataSection div.ContributorLinksList a.ContributorLink')
         ]
-        print(data)
+
+        # Fix parentheticals
+        for i, author in enumerate(data['reviews/authors']):
+            data['reviews/authors'][i] = author.replace('\xa0', ' ').replace(' (Writer)', '')
 
         for row in soup.select('div.DeskListItem'):
             if el := row.select_one('dt'):
