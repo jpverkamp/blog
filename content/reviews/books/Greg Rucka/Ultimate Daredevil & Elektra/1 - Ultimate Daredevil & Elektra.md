@@ -1,10 +1,9 @@
 ---
 cover: /embeds/books/ultimate-daredevil-elektra.jpg
 date: '2023-03-11 00:00:00'
-draft: true
 goodreads_id: 598895
 page_count: 128
-rating: -1
+rating: 4
 reviews/authors:
 - "Greg Rucka"
 - "Salvador Larroca\_(Penciler)"
