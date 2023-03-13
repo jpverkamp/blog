@@ -85,9 +85,15 @@ def extract(soup):
 
         if series_el := soup.select_one('div.BookPageTitleSection h3'):
             print(series_el.text.strip().strip('()'))
-            series, index = series_el.text.strip().strip('()').rsplit('#', 1)
-            series = series.strip()
-            index = index.strip()
+
+            if '#' in series_el.text:
+                series, index = series_el.text.strip().strip('()').rsplit('#', 1)
+                series = series.strip()
+                index = index.strip()
+            else:
+                series = series_el.text.strip().strip('()')
+                series = series.strip()
+                index = '1'
 
             if index.isdigit():
                 index = int(index)
