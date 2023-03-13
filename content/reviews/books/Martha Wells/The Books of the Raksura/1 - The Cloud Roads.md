@@ -13,11 +13,6 @@ reviews/series:
 series_index:
 - 1
 title: The Cloud Roads
-bingo:
-- 2022 Book Bingo
-bingo-data:
-  2022 Book Bingo:
-  - 4x1+
 ---
 This is a fascinating sort of book, especially having read {{<crosslink "The Murderbot Diaries">}} first. It's not entirely the same thing at all--fantasy rather than science fiction, with a world full of floating eyes and many different sapient races rather than aliens and murderbots--but there are some bones that aren't too dissimilar. 
 

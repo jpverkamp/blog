@@ -15,6 +15,11 @@ series_index:
 - 4
 title: The Galaxy, and the Ground Within
 rating: 5
+bingo:
+- 2022 Book Bingo
+bingo-data:
+  2022 Book Bingo:
+  - 4x1+
 ---
 > People – a group comprised of every sapient species, organic or otherwise – were chaos, but chaos was good. Chaos was the only sensible conclusion. There was no law that was just in every situation, no blanket rule that could apply to everyone, no explanation that accounted for every component. This did not mean that laws and rules were not helpful, or that explanations should not be sought, but rather that there should be no fear in changing them as needed, for nothing in the universe ever held still.
 
