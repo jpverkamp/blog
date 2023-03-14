@@ -1,6 +1,6 @@
 ---
 title: 2022 Book Bingo Retrospective
-date: 2023-03-31 01:00:00
+date: 2023-03-13 01:00:00
 reviews/lists:
 - 2022 Book Reviews
 - 2022 Book Bingo
