@@ -104,7 +104,7 @@ def extract(soup):
                     pass
 
             # Fix parentheticals
-            series = series.replace(' (Collected Editions)', '')
+            series = series.replace(' (Collected Editions)', '').replace(' (Collected Editions', '')
 
             data['reviews/series'] = [series]
             data['series_index'] = [index]
