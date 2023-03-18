@@ -155,27 +155,34 @@ while True:
 
     title = input('Title: ').strip()
 
-    response = requests.get(urllib.parse.urljoin(GOODREADS, '/search'), params={'q': title})
-    soup = bs4.BeautifulSoup(response.text, features='lxml')
+    if title.isdigit():
+        url = f'/book/show/{title}'
+        url = urllib.parse.urljoin(GOODREADS, url)
+        response = requests.get(url)
+        soup = bs4.BeautifulSoup(response.text, features='html.parser')
 
-    urls = []
-    for i, el in enumerate(soup.select('a.bookTitle'), 1):
-        title = el.text.strip()
-        author = el.parent.select_one('a.authorName').text.strip()
+    else:
+        response = requests.get(urllib.parse.urljoin(GOODREADS, '/search'), params={'q': title})
+        soup = bs4.BeautifulSoup(response.text, features='html.parser')
 
-        print(f'{i}: {title} by {author}')
-        urls.append(el.attrs['href'])
+        urls = []
+        for i, el in enumerate(soup.select('a.bookTitle'), 1):
+            title = el.text.strip()
+            author = el.parent.select_one('a.authorName').text.strip()
 
-    choice = input('Choose a book (leave blank to skip and quit): ')
-    if not choice:
-        break
-    if not choice.isdigit():
-        print('Enter a number')
-        continue
+            print(f'{i}: {title} by {author}')
+            urls.append(el.attrs['href'])
 
-    url = urllib.parse.urljoin(GOODREADS, urls[int(choice) - 1])
-    response = requests.get(url)
-    soup = bs4.BeautifulSoup(response.text, features='lxml')
+        choice = input('Choose a book (leave blank to skip and quit): ')
+        if not choice:
+            break
+        if not choice.isdigit():
+            print('Enter a number')
+            continue
+
+        url = urllib.parse.urljoin(GOODREADS, urls[int(choice) - 1])
+        response = requests.get(url)
+        soup = bs4.BeautifulSoup(response.text, features='html.parser')
 
     data = {}
     data['date'] = date
