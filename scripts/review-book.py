@@ -1,17 +1,18 @@
-import selenium.webdriver
-import requests
+import atexit
 import bs4
 import coloredlogs
 import datetime
+import json
 import logging
 import os
 import re
+import readline
+import requests
+import subprocess
 import urllib.parse
 import yaml
 
 from PIL import Image
-
-coloredlogs.install(logging.INFO)
 
 TARGET_COVER_SIZE = (214, 317)
 BLOG_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')
@@ -19,133 +20,15 @@ COVER_DIR = os.path.join(BLOG_DIR, 'static', 'embeds')
 REVIEW_BASE_DIR = os.path.join(BLOG_DIR, 'content', 'reviews')
 GOODREADS = 'https://www.goodreads.com/'
 
+coloredlogs.install(logging.INFO)
 
-class UnknownPageFormatException(Exception):
+histfile = os.path.join(os.path.expanduser("~"), ".blog.review-book.history")
+try:
+    readline.read_history_file(histfile)
+    readline.set_history_length(1000)
+except FileNotFoundError:
     pass
-
-
-def extract(soup):
-    # Check for different AB Tests
-    if title_el := soup.select_one('#bookTitle'):
-        logging.info('- Loading data in old format')
-        data['title'] = title_el.text.strip()
-
-        if series_el := soup.select_one('#bookSeries'):
-            if series_el.text.strip():
-                print(series_el.text.strip().strip('()'))
-                series, index = series_el.text.strip().strip('()').rsplit('#', 1)
-                series = series.strip()
-                index = index.strip()
-
-                if index.isdigit():
-                    index = int(index)
-                else:
-                    try:
-                        index = float(index)
-                    except ValueError:
-                        pass
-
-                data['reviews/series'] = [series]
-                data['series_index'] = [index]
-
-        data['reviews/authors'] = [
-            el.text.strip()
-            for el in soup.select('a.authorName')
-        ]
-
-        for row in soup.select('#bookDataBox > div'):
-            if el := row.select_one('.infoBoxRowTitle'):
-                if el.text.strip().lower() == 'isbn':
-                    value = row.select_one('.infoBoxRowItem').text.strip()
-                    data['isbn'] = value.split()[0]
-
-                    if 'isbn13' in value.lower():
-                        data['isbn13'] = value.split()[-1].strip(')')
-
-        try:
-            data['page_count'] = int(soup.select_one('[itemprop="numberOfPages"]').text.strip().split()[0])
-        except:
-            pass
-
-        cover_url = soup.select_one('.bookCoverPrimary img').attrs['src']
-        cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
-        cover_path = os.path.join(COVER_DIR, 'books', cover_filename)
-        logging.info(f'- Saving cover {cover_filename} <- {cover_url}')
-
-        image = Image.open(requests.get(cover_url, stream=True).raw)
-        image = image.resize(TARGET_COVER_SIZE)
-        image = image.convert('RGB')
-        image.save(cover_path)
-
-        data['cover'] = f'/embeds/books/{cover_filename}'
-
-    elif title_el := soup.select_one('div.BookPageTitleSection h1'):
-        logging.info('- Loading data from new format')
-        data['title'] = title_el.text.strip()
-
-        if series_el := soup.select_one('div.BookPageTitleSection h3'):
-            print(series_el.text.strip().strip('()'))
-
-            if '#' in series_el.text:
-                series, index = series_el.text.strip().strip('()').rsplit('#', 1)
-                series = series.strip()
-                index = index.strip()
-            else:
-                series = series_el.text.strip().strip('()')
-                series = series.strip()
-                index = '1'
-
-            if index.isdigit():
-                index = int(index)
-            else:
-                try:
-                    index = float(index)
-                except ValueError:
-                    pass
-
-            # Fix parentheticals
-            series = series.replace(' (Collected Editions)', '').replace(' (Collected Editions', '')
-
-            data['reviews/series'] = [series]
-            data['series_index'] = [index]
-
-        data['reviews/authors'] = [
-            re.sub(r'  +', ' ', el.text.strip())
-            # for el in soup.select('div#bookAuthors a.authorName')
-            for el in soup.select('div.BookPageMetadataSection div.ContributorLinksList a.ContributorLink')
-        ]
-
-        # Fix parentheticals
-        for i, author in enumerate(data['reviews/authors']):
-            data['reviews/authors'][i] = author.replace('\xa0', ' ').replace(' (Writer)', '')
-
-        for row in soup.select('div.DeskListItem'):
-            if el := row.select_one('dt'):
-                if el.text.strip().lower() == 'isbn':
-                    value = row.select_one('dd').text.strip()
-                    data['isbn'] = value.split()[0]
-
-                    if 'isbn13' in value.lower():
-                        data['isbn13'] = value.split()[-1].strip(')')
-
-        data['page_count'] = int(soup.select_one('[data-testid="pagesFormat"]').text.strip().split()[0])
-
-        cover_url = soup.select_one('div.BookCover img').attrs['src']
-        cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
-        cover_path = os.path.join(COVER_DIR, 'books', cover_filename)
-        logging.info(f'- Saving cover {cover_filename} <- {cover_url}')
-
-        image = Image.open(requests.get(cover_url, stream=True).raw)
-        image = image.resize(TARGET_COVER_SIZE)
-        image = image.convert('RGB')
-        image.save(cover_path)
-
-        data['cover'] = f'/embeds/books/{cover_filename}'
-
-    else:
-        raise UnknownPageFormatException()
-
-    return data
+atexit.register(readline.write_history_file, histfile)
 
 
 while True:
@@ -153,14 +36,14 @@ while True:
     date = input(f'Date for review (default {date}): ') or date
     year = date[:4]
 
-    title = input('Title: ').strip()
+    title = input('Title (or legacy ID): ').strip()
 
+    # If we have an ID, just directly use that
     if title.isdigit():
-        url = f'/book/show/{title}'
-        url = urllib.parse.urljoin(GOODREADS, url)
-        response = requests.get(url)
-        soup = bs4.BeautifulSoup(response.text, features='html.parser')
+        id = int(title)
 
+    # Otherwise, use the HTML based search
+    # I haven't found a graphql search yet
     else:
         response = requests.get(urllib.parse.urljoin(GOODREADS, '/search'), params={'q': title})
         soup = bs4.BeautifulSoup(response.text, features='html.parser')
@@ -180,35 +63,80 @@ while True:
             print('Enter a number')
             continue
 
-        url = urllib.parse.urljoin(GOODREADS, urls[int(choice) - 1])
-        response = requests.get(url)
-        soup = bs4.BeautifulSoup(response.text, features='html.parser')
+        url = urls[int(choice) - 1]
+        id = int(url.split('/')[-1].split('.')[0].split('-')[0])
 
+    # Use my goodreads (gr) command line tool to fetch via graphql
+    output = subprocess.check_output(['gr', 'book', '--legacy', str(id)])
+    book = json.loads(output)
+
+    # Set basic headers not from goodreads
     data = {}
     data['date'] = date
     data['rating'] = -1
-
-    try:
-        data = extract(soup)
-    except UnknownPageFormatException:
-        logging.warning('- Unknown page format, output dumped to review-book.html')
-
-        with open('review-book.html', 'w') as f:
-            f.write(response.text)
-
-        driver = selenium.webdriver.Chrome()
-        driver.get()
-
-        with open('review-book-selenium.html', 'w') as f:
-            f.write(driver.page_source)
-
-        soup = bs4.BeautifulSoup(driver.page_source)
-        data = extract(soup)
-
-    data['goodreads_id'] = int(url.split('/')[-1].split('-')[0].split('.')[0])
+    data['goodreads_id'] = id
     data['reviews/lists'] = [f'{year} Book Reviews']
     data['draft'] = True
 
+    # Copy over title and author
+    data['title'] = book['title']
+
+    data['reviews/authors'] = [
+        book['primaryContributorEdge']['node']['name']
+    ]
+
+    for id in book['contributors']:
+        output = subprocess.check_output(['gr', 'author', id])
+        author = json.loads(output)
+        if author['name'] not in data['reviews/authors']:
+            name = author['name']
+
+            name = re.sub('\s+', ' ', name)
+            name = name.strip()
+
+            data['reviews/authors'].append(name)
+
+    # Add series data (if any is set)
+    if book.get('bookSeries'):
+        for series in book['bookSeries']:
+            series_title = series['title']
+
+            # Don't care about this for graphic novels/comics
+            if ' (Single Issues)' in series_title:
+                continue
+
+            # Because we don't have single issues, combine this
+            series_title = series_title.replace(' (Collected Editions)', '')
+            data.setdefault('reviews/series', []).append(series_title)
+
+            # Set a series index typed to int/float if possible; default to 0 for none
+            if index := series.get('seriesPlacement'):
+                if index.isdigit():
+                    index = int(index)
+                else:
+                    try:
+                        index = float(index)
+                    except ValueError:
+                        pass
+            else:
+                index = 0
+
+            data.setdefault('series_index', []).append(index)
+
+    # Save the cover
+    if cover_url := book['imageUrl']:
+        cover_filename = re.sub('[^a-z0-9-]+', '-', data['title'].lower()).strip('-') + '.jpg'
+        cover_path = os.path.join(COVER_DIR, 'books', cover_filename)
+        logging.info(f'- Saving cover {cover_filename} <- {cover_url}')
+
+        image = Image.open(requests.get(cover_url, stream=True).raw)
+        image = image.resize(TARGET_COVER_SIZE)
+        image = image.convert('RGB')
+        image.save(cover_path)
+
+        data['cover'] = f'/embeds/books/{cover_filename}'
+
+    # Generate the path based on author,series,title (if set)
     path_parts = [REVIEW_BASE_DIR, 'books']
     if data.get('reviews/authors'):
         path_parts.append(data['reviews/authors'][0])
@@ -222,6 +150,7 @@ while True:
     path = os.path.join(*path_parts)
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
+    # Actually write out what we have
     logging.info(f'- Writing entry: {path}')
     with open(path, 'w') as f:
         f.write(f'---\n{yaml.dump(data)}---\n')
