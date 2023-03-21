@@ -11,8 +11,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Spider-Man
+- Ultimate Marvel Universe
 series_index:
 - 4
+- 13
 title: 'Ultimate Spider-Man, Volume 4: Legacy'
 ---
 Osborn’s back and green with envy! Or maybe just green. 
