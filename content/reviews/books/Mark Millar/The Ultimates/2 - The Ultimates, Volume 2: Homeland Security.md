@@ -1,10 +1,9 @@
 ---
 cover: /embeds/books/the-ultimates-volume-2-homeland-security.jpg
 date: '2023-03-16'
-draft: true
 goodreads_id: 488388
 page_count: 200
-rating: -1
+rating: 4
 reviews/authors:
 - Mark Millar
 - Bryan Hitch (Pencils)
