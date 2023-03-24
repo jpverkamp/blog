@@ -8,6 +8,5 @@ imdbpy
 pillow
 pycryptodome
 pyyaml
-readline
 requests
 tqdm
