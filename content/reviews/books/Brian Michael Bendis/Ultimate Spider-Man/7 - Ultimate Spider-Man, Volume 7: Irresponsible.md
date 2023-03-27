@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Spider-Man
+- Ultimate Marvel Universe
 series_index:
 - 7
+- 18
 title: 'Ultimate Spider-Man, Volume 7: Irresponsible'
 ---
 Such a teenager sometimes. Too broke for a new costume. Caught passing notes in class. Some guy my things up. The X-Men. You know. 
