@@ -1,6 +1,6 @@
 ---
 title: "Automated transcripts from video with Whisper(.cpp)"
-date: '2023-03-27 23:00:00'
+date: '2023-03-27 00:01:00'
 programming/languages:
 - Python
 programming/topics:
