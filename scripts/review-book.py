@@ -85,16 +85,19 @@ while True:
         book['primaryContributorEdge']['node']['name']
     ]
 
-    for id in book['contributors']:
-        output = subprocess.check_output(['gr', 'author', id])
-        author = json.loads(output)
-        if author['name'] not in data['reviews/authors']:
-            name = author['name']
+    # NOTE: This doesn't currently work, gr author is not supported as there isn't graphql for it
+    # for id in book['contributors']:
+    #     output = subprocess.check_output(['gr', 'author', id])
+    #     author = json.loads(output)
+    #     print(data, author, id)
 
-            name = re.sub('\s+', ' ', name)
-            name = name.strip()
+    #     if author['name'] not in data['reviews/authors']:
+    #         name = author['name']
 
-            data['reviews/authors'].append(name)
+    #         name = re.sub('\s+', ' ', name)
+    #         name = name.strip()
+
+    #         data['reviews/authors'].append(name)
 
     # Add series data (if any is set)
     if book.get('bookSeries'):
