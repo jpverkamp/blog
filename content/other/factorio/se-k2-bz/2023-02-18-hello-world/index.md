@@ -1,5 +1,5 @@
 ---
-title: "[Factorio: SE-K2-BZ] Hello world - Hours 1-7"
+title: "[Factorio: SE-K2-BZ; Hours 1-7] Hello world"
 date: 2023-02-18
 series:
 - "Factorio: SE-K2-BZ"
