@@ -1,6 +1,6 @@
 ---
 title: 2023 Book Bingo
-date: 2023-04-01 00:01:00
+date: '2023-04-01 00:01:00'
 reviews/lists:
 - 2023 Book Reviews
 - 2023 Book Bingo
