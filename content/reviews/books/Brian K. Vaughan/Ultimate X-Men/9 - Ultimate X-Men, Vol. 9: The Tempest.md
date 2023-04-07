@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate X-Men
+- Ultimate Marvel Universe
 series_index:
 - 9
+- 27
 title: 'Ultimate X-Men, Vol. 9: The Tempest'
 ---
 Hank is gone. Time to mourn? Not nearly. 
