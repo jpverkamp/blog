@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Spider-Man
+- Ultimate Marvel Universe
 series_index:
 - 12
+- 30
 title: 'Ultimate Spider-Man, Volume 12: Superstars'
 ---
 Woo boy that was a ride. I was expecting some fallout from Gwen… but all we get on that front was a single line. Kinda weird. 
