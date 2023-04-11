@@ -14,7 +14,7 @@ reviews/series:
 - Ultimate Marvel Universe
 series_index:
 - 6
-- 17
+- 18
 title: 'Ultimate X-Men, Vol. 6: Return of the King'
 ---
 Wherein we get this universe’s history. How the a Professor and Magneto started out to build a mutant utopia, how some minor* differences in option came between them, and how Xavier ended up in a wheelchair. 

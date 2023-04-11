@@ -18,7 +18,7 @@ reviews/series:
 - Ultimate Marvel Universe
 series_index:
 - 5
-- 16
+- 17
 title: 'Ultimate X-Men, Vol. 5: Ultimate War'
 ---
 Magneto is back and **mad**. The Brotherhood vs the Ultimates! The X-Men are nowhere to be found. At least not ent S.H.I.E.L.D.  

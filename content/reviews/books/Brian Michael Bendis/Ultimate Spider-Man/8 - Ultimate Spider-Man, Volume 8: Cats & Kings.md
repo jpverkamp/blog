@@ -12,7 +12,7 @@ reviews/series:
 - Ultimate Marvel Universe
 series_index:
 - 8
-- 20
+- 21
 title: 'Ultimate Spider-Man, Volume 8: Cats & Kings'
 ---
 Whoo boy. Fisk is back and of course Spider-Man can’t let that stand. He (Spider-Man) really does need to find a way to deal with him (Kingpin) before he (Spider-Man) ends up dealt with… violently. 

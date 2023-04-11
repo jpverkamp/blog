@@ -12,7 +12,7 @@ reviews/series:
 - Ultimate Marvel Universe
 series_index:
 - 7
-- 19
+- 20
 title: 'Ultimate X-Men, Vol. 7: Blockbuster'
 ---
 The one that starts digging into Logan’s issues. And oh does he have issues. 
