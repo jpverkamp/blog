@@ -219,8 +219,7 @@ Currently all values are simple single values you can store on the stack. But yo
 4 5 Point @p2
 P2 p1.add 
 # [6 7]
-
-```text
+```
 
 The dot syntax can also act on a non-named value on top of the stack if there’s nothing before the dot:
 
