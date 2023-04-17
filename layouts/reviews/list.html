@@ -13,12 +13,7 @@
         {{- .Content -}}
     </div>
 
-    {{/* Render taxonomies with a matching prefix, but not on the home page */}}
-    {{- if $.Section -}}
-    {{- partial "taxonomy-list.html" . -}}
-    {{- end -}}
-
-    <h1>Current Lists</h1>
+    <h2>Current Lists</h2>
     <ul>
         <li><a href="/reviews/authors">All reviews by author</a></li>
         <li><a href="/reviews/series">All reviews by series</a></li>
@@ -28,7 +23,14 @@
         <li><a href="/reviews/lists/2023-tv-reviews/">2023 TV Reviews</a></li>
     </ul>
 
-    <h1>Recent Reviews</h1>
+    <h2>Categories</h2>
+
+    {{/* Render taxonomies with a matching prefix, but not on the home page */}}
+    {{- if $.Section -}}
+    {{- partial "taxonomy-list.html" . -}}
+    {{- end -}}
+
+    <h2>Recent Reviews (Mixed)</h2>
     <div class="cover-list">
         {{- .Scratch.Set "count" 0 -}}
         {{- range $i, $page := .Pages -}}
