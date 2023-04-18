@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate X-Men
+- Ultimate Marvel Universe
 series_index:
 - 12
+- 39
 title: 'Ultimate X-Men, Vol. 12: Hard Lessons'
 ---
 Quick one. Bit of backstory for Storm and Wolverine. Weird pairing that. 

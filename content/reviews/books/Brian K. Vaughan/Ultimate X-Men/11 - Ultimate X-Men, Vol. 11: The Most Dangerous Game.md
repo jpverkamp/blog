@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate X-Men
+- Ultimate Marvel Universe
 series_index:
 - 11
+- 38
 title: 'Ultimate X-Men, Vol. 11: The Most Dangerous Game'
 ---
 A mutant on a far away island, being hunted as fuel for a 24x7 reality show. 

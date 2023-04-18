@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Spider-Man
+- Ultimate Marvel Universe
 series_index:
 - 14
+- 37
 title: 'Ultimate Spider-Man, Volume 14: Warriors'
 ---
 Well that’s quite the cast. Hammerhead is apparently not dead and trying to elbow in on Fisk’s territory. Enemy of my enemy … is actually still a pretty bad dude?
