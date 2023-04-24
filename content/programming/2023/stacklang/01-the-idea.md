@@ -14,7 +14,7 @@ programming/topics:
 series:
 - StackLang
 ---
-I enjoy writing programming languages. {examples}. Let’s do that again. 
+I enjoy writing programming languages. {{<crosslink text="Example: Tiny" title="A 'Tiny' virtual machine in Racket">}}. Let’s do that again. 
 
 This time, StackLang:
 
@@ -53,7 +53,7 @@ You have to start somewhere!
 
 First, literals I support or intend to support:
 
-* Numbers: a Lisp/Scheme style {numeric tower}: integers, rational numbers, floats, and complex numbers
+* Numbers: a Lisp/Scheme style {{<wikipedia "numeric tower">}}: integers, rational numbers, floats, and complex numbers
 * Strings: double quoted; I intend to include multi line strings but I’m not sure if I want to support that with normal strings, backticks (JavaScript style), or triple quoted (Python style)
 * Booleans: true and false
 
@@ -67,7 +67,7 @@ To convert the other way (and possibly truncate values) must be done explicitly.
 I’m currently going Scheme style with identifiers. If you want to name a variant `is-awesome?`, go for it. The only exceptions are:
 
 1. Brackets. `{}` define blocks, `[]` define lists, and `()` are for grouping. None of these can be used in an identifier. 
-2. Dots, `.`. I intend to allow struct fields and implemented methods to use dot syntax directly. See {structs} for more information. So not dots in identifiers. 
+2. Dots, `.`. I intend to allow struct fields and implemented methods to use dot syntax directly. See {{[structs](#structs)}} for more information. So not dots in identifiers. 
 3. Special prefixes; these symbols have a special meaning when attached to the beginning of an identifier (so they’re allowed in identifiers but not as the prefix): 
 	* `@` names the top value of the stack, so `@n` lets you write `n` later to push whatever value is ‘at’ `n`, no matter how far down the stack
 	* `!` writes to a named variable, so `5 !n` is equivalent to `n = 5`; you can just use the same name again (and shadow the previous one)
