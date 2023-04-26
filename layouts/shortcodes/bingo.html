@@ -1,6 +1,7 @@
 {{- $title := .Get 0 -}}
 {{- $slug := $title | urlize }}
 {{- $data := index $.Site.Data.bingo $title -}}
+{{- /* force rebuild nonce: 1 */ -}}
 
 <h1>{{ $title }}</h1>
 
