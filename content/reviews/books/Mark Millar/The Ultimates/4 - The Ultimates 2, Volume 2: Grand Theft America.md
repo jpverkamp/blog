@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-ultimates-2-volume-2-grand-theft-america.jpg
 date: '2023-04-26'
-draft: true
 goodreads_id: 1140696
-rating: -1
+rating: 5
 reviews/authors:
 - Mark Millar
 reviews/lists:
