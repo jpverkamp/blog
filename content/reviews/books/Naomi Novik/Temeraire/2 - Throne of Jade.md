@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/throne-of-jade.jpg
 date: '2023-04-21'
-draft: true
 goodreads_id: 14069
-rating: -1
+rating: 4
 reviews/authors:
 - Naomi Novik
 reviews/lists:
