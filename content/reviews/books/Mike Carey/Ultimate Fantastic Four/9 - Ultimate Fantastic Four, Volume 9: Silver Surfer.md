@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Fantastic Four
+- Ultimate Marvel Universe
 series_index:
 - 9
+- 57
 title: 'Ultimate Fantastic Four, Volume 9: Silver Surfer'
 ---
 A perfect Utopia. 

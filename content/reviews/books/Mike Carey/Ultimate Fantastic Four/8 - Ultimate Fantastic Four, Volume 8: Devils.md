@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Fantastic Four
+- Ultimate Marvel Universe
 series_index:
 - 8
+- 56
 title: 'Ultimate Fantastic Four, Volume 8: Devils'
 ---
 
