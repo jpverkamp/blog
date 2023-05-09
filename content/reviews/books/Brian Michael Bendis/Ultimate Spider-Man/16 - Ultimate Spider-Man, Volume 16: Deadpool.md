@@ -44,4 +44,15 @@ Ew.
 
 Costumes all torn… strategically. 
 
+---
 
+Edit: Apparently Morbius is part of this volume? 
+
+
+![](/embeds/books/attachments/ultimate-spider-man-morbius-textbundle-a2e5c7.png)
+
+And then he Morbed all over. Or something like that?
+
+That’s… a very strange corner of the Marvel universes. I don’t know why vampires are weirder than anything else, but they are!
+
+Plus, it’s barely an introduction. 
