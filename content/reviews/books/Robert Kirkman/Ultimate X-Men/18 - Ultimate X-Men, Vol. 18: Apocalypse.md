@@ -12,7 +12,7 @@ reviews/series:
 - Ultimate Marvel Universe
 series_index:
 - 18
-- 65
+- 66
 title: 'Ultimate X-Men, Vol. 18: Apocalypse'
 ---
 Apocalypse!
