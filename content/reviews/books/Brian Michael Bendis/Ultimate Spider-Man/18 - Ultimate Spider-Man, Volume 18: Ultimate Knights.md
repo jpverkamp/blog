@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Spider-Man
+- Ultimate Marvel Universe
 series_index:
 - 18
+- 64
 title: 'Ultimate Spider-Man, Volume 18: Ultimate Knights'
 ---
 So what have are today?

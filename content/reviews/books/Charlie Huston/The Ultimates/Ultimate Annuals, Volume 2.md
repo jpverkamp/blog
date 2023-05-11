@@ -9,7 +9,7 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Annuals
-- Marvel Ultimate Universe
+- Ultimate Marvel Universe
 series_index:
 - 2
 - 54
