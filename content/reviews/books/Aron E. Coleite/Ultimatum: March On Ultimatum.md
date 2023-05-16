@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Marvel Universe
+- Ultimatum
 series_index:
 - 72
+- 0.5
 title: 'Ultimatum: March On Ultimatum'
 ---
 More Annuals! Mixed stories!
