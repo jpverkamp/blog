@@ -6,7 +6,11 @@
             {{- $series_index := index (index $page.Params "series_index") $index -}}
             <a class="series-index taxonomy-value" href="/reviews/series/{{ $series | urlize }}">
                 <span class="series">{{ $series }}</span>
+                {{if gt $series_index 0 }}
                 <span class="index">#{{ $series_index }}</span>
+                {{ else }}
+                <span class="zero-index">*</span>
+                {{ end }}
             </a>
         {{- else if index $.Site.Data.goodreads.series $series -}}
             {{/* Legacy books are in data/goodreads/series.yaml" */}}

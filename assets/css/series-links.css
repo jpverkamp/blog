@@ -1,9 +1,12 @@
-.series-index::before {
+/* .series-index::before {
     content: " ["
 }
 
 .series-index::after {
     content: "]"
+}
+*/ .series-index:not(:last-child):after {
+    content: " | "
 }
 
 .series-index {

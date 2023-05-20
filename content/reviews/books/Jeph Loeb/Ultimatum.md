@@ -8,8 +8,8 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- Ultimate Marvel Universe
 - Ultimatum
+- Ultimate Marvel Universe
 series_index:
 - 2
 - 75
