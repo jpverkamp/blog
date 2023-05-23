@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Marvel Universe
+- Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 78
+- 1
 title: 'Ultimate Comics Iron Man: Armor Wars'
 ---
 There’s so much to unpack from the events of Ultimatum…
