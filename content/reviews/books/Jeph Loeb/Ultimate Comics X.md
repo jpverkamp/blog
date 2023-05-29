@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/ultimate-comics-x-origins.jpg
 date: '2023-05-23'
-draft: true
 goodreads_id: 9594076
-rating: -1
+rating: 4
 reviews/authors:
 - Jeph Loeb
 reviews/lists:

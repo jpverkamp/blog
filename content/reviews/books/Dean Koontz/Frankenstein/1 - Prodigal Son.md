@@ -8,7 +8,7 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- Frankenstein
+- Dead Koontz's Frankenstein
 series_index:
 - 1
 title: 'Prodigal Son'
