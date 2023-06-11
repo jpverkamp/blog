@@ -8,6 +8,11 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 title: Under the Whispering Door
+bingo:
+- 2023 Book Bingo
+bingo-data:
+  2023 Book Bingo:
+  - 5x1+
 ---
 > The first time you share tea, you are a stranger.  
 > The second time you share tea, you are an honored guest.  
