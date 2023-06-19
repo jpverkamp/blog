@@ -1,0 +1,36 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 16
+count_videos: 0
+count_views: '0'
+date_create: '1687209317'
+date_update: '1687209333'
+description: A 'team building' exercise with a twist.
+farm: 66
+id: '72177720309187974'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52986435737'
+- '52987412065'
+- '52987500808'
+- '52987411985'
+- '52986435702'
+- '52986435682'
+- '52986435592'
+- '52987035371'
+- '52987035346'
+- '52987178294'
+- '52987178284'
+- '52987500588'
+- '52987500508'
+- '52987411635'
+- '52987178209'
+- '52986435237'
+primary: '52986435737'
+secret: f4bb4ea837
+server: '65535'
+title: Return to Alcatraz
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

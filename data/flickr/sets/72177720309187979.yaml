@@ -1,0 +1,37 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 11
+count_videos: 0
+count_views: '0'
+date_create: '1687209317'
+date_update: '1687209333'
+description: Another visit, this time for camping. It's pretty there.
+farm: 66
+id: '72177720309187979'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '52987034621'
+- '52987411160'
+- '52987499803'
+- '52987499873'
+- '52987177514'
+- '52987499753'
+- '52987177449'
+- '52986434447'
+- '52987499658'
+- '52987177384'
+- '52987499583'
+- '52987410765'
+- '52987499588'
+- '52987410710'
+- '52987177224'
+- '52987499518'
+- '52987410670'
+primary: '52987034621'
+secret: 0b0369cb78
+server: '65535'
+title: Spring Mill Spring 2023
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
