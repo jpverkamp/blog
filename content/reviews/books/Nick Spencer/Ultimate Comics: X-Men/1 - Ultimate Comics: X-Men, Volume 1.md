@@ -13,8 +13,8 @@ reviews/series:
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 1
-- 93
-- 17
+- 94
+- 18
 title: 'Ultimate Comics: X-Men, Volume 1'
 ---
 ![](/embeds/books/attachments/ultimate-comics-x-men-1-textbundle-16d33c.png)

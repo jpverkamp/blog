@@ -13,8 +13,8 @@ reviews/series:
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 2
-- 93
-- 18
+- 94
+- 19
 title: Ultimate Comics Spider-Man, Volume 2
 ---
 Miles coming into his own.
