@@ -6,3 +6,4 @@ public/
 _cache
 *.lock
 review-book*.html
+.venv
