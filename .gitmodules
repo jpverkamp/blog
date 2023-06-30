@@ -1,3 +1,6 @@
 [submodule "static/embeds/runelang"]
 	path = static/embeds/runelang
-	url = git@github.com:jpverkamp/runelang.git
+	url = https://github.com/jpverkamp/runelang
+[submodule "static/embeds/--force"]
+	path = static/embeds/--force
+	url = https://github.com/jpverkamp/runelang
