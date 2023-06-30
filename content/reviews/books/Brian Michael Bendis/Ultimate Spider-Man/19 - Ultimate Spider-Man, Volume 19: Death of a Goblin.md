@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/ultimate-spider-man-volume-19-death-of-a-goblin.jpg
 date: '2023-05-09'
-draft: true
 goodreads_id: 2124092
-rating: -1
+rating: 4
 reviews/authors:
 - Brian Michael Bendis
 reviews/lists:

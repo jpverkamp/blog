@@ -13,7 +13,7 @@ reviews/series:
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 1
-- 91
+- 92
 - 15
 title: 'Miles Morales: Ultimate Spider-Man'
 ---

@@ -13,7 +13,7 @@ reviews/series:
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 2
-- 95
+- 96
 - 19
 title: Ultimate Comics Spider-Man, Volume 2
 ---

@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/ultimate-annuals-volume-1.jpg
 date: '2023-04-24'
-draft: true
 goodreads_id: 105962
-rating: -1
+rating: 4
 reviews/authors:
 - Mark Millar
 reviews/lists:

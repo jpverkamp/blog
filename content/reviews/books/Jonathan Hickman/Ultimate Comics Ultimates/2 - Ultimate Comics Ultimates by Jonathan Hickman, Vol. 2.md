@@ -13,7 +13,7 @@ reviews/series:
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 2
-- 96
+- 97
 - 20
 title: Ultimate Comics Ultimates by Jonathan Hickman, Vol. 2
 ---

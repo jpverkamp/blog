@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/ultimate-power.jpg
 date: '2023-05-03'
-draft: true
 goodreads_id: 1893208
-rating: -1
+rating: 5
 reviews/authors:
 - Brian Michael Bendis
 reviews/lists:

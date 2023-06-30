@@ -12,7 +12,6 @@ reviews/series:
 - Ultimate Marvel Universe
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
-- 1
 - 81
 - 4
 title: 'Ultimate Comics Avengers, Vol. 1: Next Generation'

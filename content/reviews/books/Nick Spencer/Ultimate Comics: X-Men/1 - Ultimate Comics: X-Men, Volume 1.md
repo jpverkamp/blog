@@ -8,12 +8,12 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- 'Ultimate Comics: X-Men'
+- Ultimate Comics X-Men
 - Ultimate Marvel Universe
 - Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 1
-- 94
+- 95
 - 18
 title: 'Ultimate Comics: X-Men, Volume 1'
 ---
