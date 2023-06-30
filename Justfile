@@ -24,9 +24,8 @@ push:
 
 build:
 	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
-	cd public; git wipe; git pull --rebase --prune
+	cd public; git wipe; git pull --rebase --prune; git submodule update --init --recursive
 	
-	rm -rf public/*
 	hugo --minify
 
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html

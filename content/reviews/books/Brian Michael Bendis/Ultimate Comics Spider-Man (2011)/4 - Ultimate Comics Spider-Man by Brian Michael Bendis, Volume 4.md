@@ -9,8 +9,12 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - Ultimate Comics Spider-Man (2011)
+- Ultimate Marvel Universe
+- Ultimate Marvel Universe (Post Ultimatum)
 series_index:
 - 4
+- 102
+- 25
 title: Ultimate Comics Spider-Man by Brian Michael Bendis, Volume 4
 ---
 Miles is new on the job—and already too many people know (or suspect that he’s Spider-Man). 
