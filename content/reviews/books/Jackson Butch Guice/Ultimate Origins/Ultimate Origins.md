@@ -8,7 +8,7 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- Marvel Ultimate Universe
+- Ultimate Marvel Universe
 series_index:
 - 73
 title: Ultimate Origins
