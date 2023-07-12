@@ -1,0 +1,32 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 11
+count_videos: 0
+count_views: '0'
+date_create: '1689176407'
+date_update: '1689176418'
+description: I've taken to walking the loop at the Eagle Creek Ornithology Center.
+  A good two miles and so many things to take pictures of.
+farm: 66
+id: '72177720309726809'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '53040943231'
+- '53041325450'
+- '53041123339'
+- '53041421553'
+- '53040943406'
+- '53041421673'
+- '53040943331'
+- '53041422253'
+- '53041124074'
+- '53041124029'
+- '53041422238'
+primary: '53040943231'
+secret: f8d1459532
+server: '65535'
+title: Eagle Creek Walks
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
