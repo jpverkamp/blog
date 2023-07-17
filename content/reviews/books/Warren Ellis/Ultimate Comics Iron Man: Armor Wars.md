@@ -2,7 +2,7 @@
 cover: /embeds/books/ultimate-comics-iron-man-armor-wars.jpg
 date: '2023-05-19'
 goodreads_id: 7735482
-rating: 3
+rating: 4
 reviews/authors:
 - Warren Ellis
 reviews/lists:
@@ -15,11 +15,14 @@ series_index:
 - 1
 title: 'Ultimate Comics Iron Man: Armor Wars'
 ---
-There’s so much to unpack from the events of Ultimatum…
 
-So instead let’s introduce some new foe in the Mandarin. Hacking in and taking over Stark Tech. The Iron Man suit. 
+The world’s turned upside down…
 
-Neat idea but feels incomplete. Both in what I expected post Ultimatum and in the resolution. 
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-855465.png)
+
+And someone has being stealing Stark Tech. 
+
+It’s a dig into Tony’s past and thus post Ultimatum world. Pretty interesting. Curious where they go from here!
 
 Onward. 
 
@@ -31,22 +34,16 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-2b5199.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-9be2ee.png)
 
-The Mandarin! Interesting. 
+It’s always a girl for him, isn’t it?
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-a155b9.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-407c8d.png)
 
-That’s an unexpected look for Jarvis. 
+That’s a neat trick. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-4c57b6.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-5d3040.png)
 
-Not… War Machine?
+… she’s not wrong. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-ab1825.png)
 
-I like it. 
-
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-662417.png)
-
-I enjoy the timing. 
