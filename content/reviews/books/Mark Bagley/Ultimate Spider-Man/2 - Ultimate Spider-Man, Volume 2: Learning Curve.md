@@ -6,7 +6,7 @@ page_count: 144
 rating: 5
 reviews/authors:
 - Mark Bagley
-- Brian Michael Bendis (Contributor)
+- Brian Michael Bendis
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
