@@ -4,6 +4,7 @@ date: 2022-04-01 23:00:00
 reviews/lists:
 - 2022 Book Reviews
 - 2022 Book Bingo
+- r/Fantasy Book Bingo
 is_review_meta: true
 ---
 Let's do this again! I [barely made it]({{<ref "2022-03-31-book-bingo-retrospective">}}), but there were so many books that I absolutely ended up loving that I'm not sure I otherwise would have read. So this year, better!

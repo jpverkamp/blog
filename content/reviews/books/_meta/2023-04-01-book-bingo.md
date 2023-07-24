@@ -4,6 +4,7 @@ date: '2023-04-01 00:01:00'
 reviews/lists:
 - 2023 Book Reviews
 - 2023 Book Bingo
+- r/Fantasy Book Bingo
 is_review_meta: true
 ---
 Two years down ({{<crosslink text="2021" title="2021 Book Bingo">}}, {{<crosslink text="2022" title="2022 Book Bingo">}}) and yet another one to go!

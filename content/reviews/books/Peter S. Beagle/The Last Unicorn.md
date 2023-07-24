@@ -8,6 +8,11 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 title: The Last Unicorn
+bingo:
+- 2023 Book Bingo
+bingo-data:
+  2023 Book Bingo:
+  - 4x3+
 ---
 > Haven’t you ever been in a fairy tale before?
 

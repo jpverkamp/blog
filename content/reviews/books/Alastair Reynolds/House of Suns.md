@@ -8,6 +8,11 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 title: House of Suns
+bingo:
+- 2023 Book Bingo
+bingo-data:
+  2023 Book Bingo:
+  - 4x1+
 ---
 > Everything came and went, everything was new and bright with promise once and old and worn out later, and everything left a small, diminishing stain on eternity, a mark that time would eventually erase.
 
