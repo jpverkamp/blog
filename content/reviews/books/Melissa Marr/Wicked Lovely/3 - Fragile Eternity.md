@@ -35,4 +35,10 @@ They just feel so young. Even Keenan--who is supposed to be 900--feels like a te
 
 In any case, I like seeing more of Aislinn as a main character again. I like Seth, even if I think he's somewhat of an idiot. I'm fully waiting for Keegan to go nuts and crack at some point; he'd be a better villain. I like the new Fae. Order and Chaos/War are some interesting aspects to Faeify and both characters are neat. 
 
-But still. Not a terrible book. Let's see where it goes from here!
+But still. Not a terrible book. ~~Let's see where it goes from here!~~
+
+Edit: On looking up the summaries for the next two books... it looks like Book 4 is primarily another large side story and then mostly ignored in Book 5, which apparently wraps things up in a way that could have been done in the first book. 
+
+So, perhaps it's fine. 
+
+But I think I'll move on for now. Perhaps another day. 
