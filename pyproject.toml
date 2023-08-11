@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "blog"
+version = "0.1.0"
+description = ""
+authors = ["JP Verkamp <jverkamp@dropbox.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+bs4 = "^0.0.1"
+click = "^8.1.6"
+coloredlogs = "^15.0.1"
+flickrapi = "^2.4.0"
+html2text = "^2020.1.16"
+html5lib = "^1.1"
+imdbpy = "^2022.7.9"
+pillow = "^10.0.0"
+pycryptodome = "^3.18.0"
+pyyaml = "^6.0.1"
+requests = "^2.31.0"
+tqdm = "^4.65.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
