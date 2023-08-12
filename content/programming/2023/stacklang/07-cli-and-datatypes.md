@@ -322,25 +322,27 @@ Hash<x:5, y:6>
 Hash<x:7, y:6>
 ```
 
-### List
+### ~~List~~ Stack
 
-Next up, lists! Python style! (which in Rust are closer to `vec`). Basically, a data structure that has a fixed current size, allows for quick `push` and `pop` at the end of the list and also `get` and `set` at a specific index. 
+Edit: Turns out... these are stacks. And the language is named StackLang. :smile:
+
+Next up, stacks! Basically, Python style lists / Rust style `vec`! Basically, a data structure that has a fixed current size, allows for quick `push` and `pop` at the end of the list and also `get` and `set` at a specific index. 
 
 Something like this:
 
-* `make-list -> {list}`: makes an empty list
-* `list-length {list} -> {integer}`: gets the length
-* `list-push! {list} {value}`: pushes to the end of the list
-* `list-pop! {list} -> {value}`: pops off the end of the list
-* `list-ref {list} {index} -> {value}`: gets the value at a specific index
-* `list-set! {list} {index} {value}`: sets a value within the list
+* `make-stack -> {stack}`: makes an empty stack
+* `stack-length {stack} -> {integer}`: gets the length
+* `stack-push! {stack} {value}`: pushes to the end of the stack
+* `stack-pop! {stack} -> {value}`: pops off the end of the stack
+* `stack-ref {stack} {index} -> {value}`: gets the value at a specific index
+* `stack-set! {stack} {index} {value}`: sets a value within the stack
 
 Implementation details [here](https://github.com/jpverkamp/stacklang/blob/5984da1606757b2f1450396ea90f9d1bf9b1c2bb/src/vm.rs#L243-L302). 
 
 
-#### List literals
+#### List/Stack literals
 
-While I was working on lists, one thing that I've been meaning to add to the language is `List` literals:
+While I was working on stacks, one thing that I've been meaning to add to the language is `Stack` literals:
 
 ```text
 [ 1 2 3 ] @l
@@ -351,18 +353,20 @@ l writeln
 We're already lexing and parsing them, we just need to actually evaluate them when we see them:
 
 ```rust
-// Lists are parsed into list values
+// List expressions are parsed into Stack values
 Expression::List(children) => {
     let mut values = vec![];
     for node in children {
         eval(node, stack);
         values.push(stack.pop().unwrap());
     }
-    stack.push(Value::List(Rc::new(RefCell::new(values))));
+    stack.push(Value::Stack(Rc::new(RefCell::new(values))));
 }
 ```
 
 That really is it. And we can put all sorts of interesting things in them... like blocks! See [the implementation of cond below](#cond-statements). 
+
+One weirdness is that the expression is still a 'list', but the datatype / value is a Stack. Weirdness, but it works fine. 
 
 #### Examples
 
@@ -373,16 +377,16 @@ Here's my very basic `example` code for `list.stack`:
 
 l writeln
 
-l list-pop! writeln
+l stack-pop! writeln
 l writeln
 
-l 5 list-push!
+l 5 stack-push!
 l writeln
 
-l 1 list-ref writeln
+l 1 stack-ref writeln
 ```
 
-I know it doesn't actually use `make-list`, but it doesn't have to! `[]` ends up equivalent to that. 
+I know it doesn't actually use `make-stack`, but it doesn't have to! `[]` ends up equivalent to that. 
 
 Running it:
 
@@ -402,7 +406,7 @@ We'll give it a try, but not just yet.
 
 ### Cond statements
 
-Speaking of lists, one thing that I've been finding annoying is a constant use of nested `if` statements. They're a bit more verbose than many languages, so nesting them is even more annoying that it should be. 
+Speaking of lists/stacks, one thing that I've been finding annoying is a constant use of nested `if` statements. They're a bit more verbose than many languages, so nesting them is even more annoying that it should be. 
 
 What if we could make a cleaner syntax for a whole list of `cond`itionals? 
 
@@ -528,9 +532,9 @@ It's not by any stretch of the imagination *fast*. About 45 seconds on my machin
 
 But it *is* functional. And I think the code isn't actually that bad. One thing I really do need to clean up is the `@0 !1` and the like I have to currently put everywhere to do the arity checks... Perhaps when I get proper type checking? 
 
-#### With List
+#### With Stacks
 
-And finally, because it's something that I'm more confident in building into the compiler, the same code with a `list`:
+And finally, because it's something that I'm more confident in building into the compiler, the same code with a `Stack`:
 
 ```text
 # https://projecteuler.net/problem=14
@@ -538,20 +542,20 @@ And finally, because it's something that I'm more confident in building into the
 
 1000000 @bound
 
-make-list @cache
-cache 1 list-push! 
-cache 1 list-push! 
+make-stack @cache
+cache 1 stack-push! 
+cache 1 stack-push! 
 
 {
   @n
 
   # Extend the cache if needed
-  n cache list-length - 2 + @extension
+  n cache stack-length - 2 + @extension
   { 
     @0 !0
     { 
       @0 !0
-      cache 0 list-push! 
+      cache 0 stack-push! 
     } extension loop 
     "extended cache by " write extension writeln
   }
@@ -560,7 +564,7 @@ cache 1 list-push!
 
   [
     # Already cached
-    { @0 !1 cache n list-ref 0 > } { @0 !1 cache n list-ref }
+    { @0 !1 cache n stack-ref 0 > } { @0 !1 cache n stack-ref }
 
     # Base case
     { @0 !1 n 1 <= } 1
@@ -573,7 +577,7 @@ cache 1 list-push!
   ] cond
   @l
 
-  cache n l list-set!
+  cache n l stack-set!
   l
 } @collatz-length
 
@@ -604,7 +608,7 @@ cache 1 list-push!
 best-v writeln
 ```
 
-The main difference here is the 'Extend the cache if needed' section. Basically, if the current `list` isn't long enough to store the value we're going to add to it, push values until it is. This isn't at all efficient, but for the moment, it at least works:
+The main difference here is the 'Extend the cache if needed' section. Basically, if the current `stack` isn't long enough to store the value we're going to add to it, push values until it is. This isn't at all efficient, but for the moment, it at least works:
 
 ```bash
 $ ./target/release/stacklang vm examples/euler-14-list.stack
