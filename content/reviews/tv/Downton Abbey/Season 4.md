@@ -62,9 +62,9 @@ reviews/writers:
 - Julian Fellowes
 - Tina Pepler
 - Shelagh Stephenson
-reviews/year: 2011
+reviews/year: 2014
 series_index:
-- 3
+- 4
 ---
 Oy. After all the death and craziness of Season 3 (especially that finale...), the family is all off kilter now. It takes a bit to settle, and then of course we're on for all the more trouble. 
 

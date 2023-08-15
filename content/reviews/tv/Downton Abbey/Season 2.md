@@ -62,7 +62,7 @@ reviews/writers:
 - Julian Fellowes
 - Tina Pepler
 - Shelagh Stephenson
-reviews/year: 2011
+reviews/year: 2012
 series_index:
 - 2
 ---
