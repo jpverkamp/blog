@@ -17,7 +17,7 @@ title: The Magicians
 
 Well. The majority of comments certainly nailed this one. Two interesting premises in a trenchcoat wrapped in the guise of cynicism and dark humor, underscored by the most depressed to the point of hard to read main character I think I've read in a long time. 
 
-Interesting enough I'll give the sequel a try (to see where in the world it goes from here, if nothing else). I wish it were better. 
+Interesting enough I'll give the sequel a try (I really liked the ending twists(ish)). I wish it were better. 
 
 <!--more-->
 
