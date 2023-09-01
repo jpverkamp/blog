@@ -14,7 +14,7 @@ isbn: 0812513738
 isbn13: '9780812513738'
 rating: 5
 page_count: 1007
-series_index: [0]
+series_index: [4]
 ---
 > Mat snorted. “I don’t want to be any bloody hero.”
 
