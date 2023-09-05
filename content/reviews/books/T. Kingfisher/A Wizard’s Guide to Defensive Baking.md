@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/a-wizard-s-guide-to-defensive-baking.jpg
 date: '2023-09-04'
-draft: true
 goodreads_id: 54369251
-rating: -1
+rating: 5
 reviews/authors:
 - T. Kingfisher
 reviews/lists:

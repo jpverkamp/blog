@@ -20,7 +20,9 @@
             {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
             {{- if (or (in $squares $index) (in $squares $indexHard)) -}}
             <a href="{{ $page.Permalink }}">
-                <figure>
+                <figure class="
+                    {{- if in $squares $indexHard -}}hard-mode{{- end -}}
+                    ">
                     {{ if isset .Params "cover" }}
                     <img src="{{ .Params.cover }}">
                     {{ else }}
@@ -28,13 +30,19 @@
                     {{ end }} 
                         <figcaption>
                             {{ .Title }}
-                            {{ with index .Params "reviews/authors" }}
-                                by {{ delimit . ", " }}
-                            {{ end }}
                         </figcaption>
                 </figure>
             </a>
-            {{- if in $squares $indexHard -}}<p>(Hard Mode)</p>{{- end -}}
+            {{- with index .Params "reviews/authors" -}}
+            <p>
+                {{- $last := sub (len .) 1 -}}
+                by {{ range $i, $e := . }}
+                    <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
+                    {{- if (lt $i $last) -}}, {{- end -}}
+                {{- end -}}
+            </p>
+            {{- end -}}
+            {{- if in $squares $indexHard -}}<hr><p>Hard Mode ✓</p>{{- end -}}
             <hr>
             {{- end -}}
             {{- end -}}
