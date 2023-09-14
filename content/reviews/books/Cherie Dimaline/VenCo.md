@@ -12,7 +12,7 @@ bingo:
 - 2023 Book Bingo
 bingo-data:
   2023 Book Bingo:
-  - 3x3+
+  - 3x3
 ---
 > “Hold on a minute,” Lucky said. So far, the stories weren’t making things any clearer. “I don’t get it. Did someone give us the spoons?”   
 >          

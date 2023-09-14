@@ -20,7 +20,7 @@ A world chock full of the history of China/Japan/China of a hundred years and ch
 
 A major take on artists during war. Both from the main character Gyen Jebi, an artist who fails to pass the examination for the Ministry of Art--and ends up the perhaps much more interesting Ministry of Armor, making magical automata for the government. It's fascinating seeing a relatively common job turned extraordinary. 
 
-And of course, the mechanical dragon on the cover. Arazi. {{<spoiler>}}Who is also a philosopher and pacifist, because of course they are.{{</spoiler>}}. There's always something fun about relatively non-human characters like that. Probably the coolest part of teh book. 
+And of course, the mechanical dragon on the cover. Arazi. {{<spoiler>}}Who is also a philosopher and pacifist, because of course they are.{{</spoiler>}}. There's always something fun about relatively non-human characters like that. Probably the coolest part of the book. 
 
 And of course of course, there's love. The relationship between Jebi and their captors, Vei especially. It's interesting seeing the people who are perhaps all the more aware of the situation at hand and their relationships with the at times amusingly clueless Jebi. 
 

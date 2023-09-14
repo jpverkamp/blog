@@ -7,7 +7,7 @@ reviews/authors:
 - T. Kingfisher
 reviews/lists:
 - 2023 Book Reviews
-title: "A Wizard\u2019s Guide to Defensive Baking"
+title: "A Wizard's Guide to Defensive Baking"
 bingo:
 - 2023 Book Bingo
 bingo-data:
