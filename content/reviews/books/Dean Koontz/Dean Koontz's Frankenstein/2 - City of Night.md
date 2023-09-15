@@ -8,7 +8,7 @@ reviews/authors:
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
-- Dead Koontz's Frankenstein
+- Dean Koontz's Frankenstein
 series_index:
 - 2
 title: City of Night

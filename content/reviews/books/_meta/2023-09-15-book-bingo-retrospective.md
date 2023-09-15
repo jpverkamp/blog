@@ -1,7 +1,6 @@
 ---
 title: 2023 Book Bingo Retrospective
-date: 2023-09-13 01:00:00
-draft: True
+date: 2023-09-15 01:00:00
 reviews/lists:
 - 2023 Book Reviews
 - 2023 Book Bingo
@@ -35,8 +34,7 @@ figure.cover-image img {
 
 ## Mini-reviews
 
-‡ are my favorites, ∿ I listened to the audiobook. Full reviews are linked. 
-
+‡ are my favorites, ∿ I listened to the audiobook. Full reviews + all reviews for each author are linked.
 
 ‡ **Sequel (HM: Book 3+)**: {{<crosslink "The Infinite">}} by {{<crosslink "Ada Hoffmann">}}. Sci-fi with post-singularity AI acting as gods and a touch of cosmic horror. Interesting discussions about neurodiversity. My favorite of the series and a solid conclusion. 
 
@@ -79,23 +77,67 @@ figure.cover-image img {
 
 **Novella (HM: Not Tordotcom)**: {{<crosslink "Six-Gun Snow White">}} by {{<crosslink "Catherynne M. Valente">}}. Take (the vague outline) the story of Snow White. Make it a Western. Things get weird. It's an interesting premise and certainly an interesting writing style--although not my favorite. 
 
-**Published in 2023**: {{<crosslink "VenCo">}} by {{<crosslink "Cherie Dimaline">}}. It's a book about spoons. And witches, of course. But really about spoons. 
+‡ ∿ **5 SFF Shorts (HM: An Anthology)**: {{<crosslink "Stories of Your Life and Others">}} by {{<crosslink "Ted Chiang">}}. Story of Your Life became the film Arrival, which got me to read the book. The rest are also really good, including some really interesting alternate takes on religion. 
 
+‡ ∿ **YA (HM: Published in the last 5 years)**: {{<crosslink "A Wizard's Guide to Defensive Baking">}} by {{<crosslink "T. Kingfisher">}}. A world with weirdly specialized sorts of wizards. You might be able to cast lightning bolts… or you might have the power to animate and converse with dead horses. Or you might even have magical powers over… bread! It’s such a delightful idea and Kingfisher manages to do all sorts of fun things with it. Some obvious (Mongo eat your gingerbread heart out), some less so (Bob the sourdough starter; so delightful). I need to read more Kingfisher. 
 
-### {{<crosslink "Stories of Your Life and Others">}}
+∿ **POC Author (HM: Furturistic Sci/fi)**: {{<crosslink "Rosewater">}} by {{<crosslink "Tade Thompson">}}. A fascinating premise. Take the world a half century in the future. Most things are the same, but there’s a bit more tech floating around, mostly. Introduce a massive alien organism that lands in London and ends up burrowing it’s way to Nigeria. From that alien blob, fill the atmosphere with alien microorganisms/cells that create their own xenosphere, enabling (among other things) psychic powers in some very small proportion of the population. Writ rather more gritty than I was expecting with a complicated structure. 
 
+**Self/Indie published (HM: Fewer than 100 ratings)**: {{<crosslink "The Book of Zog">}} by {{<crosslink "Alec Hutson">}}. Zogrusz is an Eldrich Horror, a being from beyond time and space. But… a nice one? That just wants to do the right thing? It's surprisingly adorable with some interesting cosmic level universebuilding. 
 
+∿ **Elemental Magic (HM: Not Shades of Magic or Codex Alera)**: {{<crosslink "Shadow and Bone">}} by {{<crosslink "Leigh Bardugo">}}. Rather YA and the TV show is better (partially because it pulls from the other series in the same world as well). But I did enjoy the Russian influenced worldbuilding and the slightly more flexible than many YA contemporaries groupings. Has a lot of potential for the series. 
 
-### {{<crosslink "A Wizard's Guide to Defensive Baking">}}
+**Published in 2023 (HM: Debut)**: {{<crosslink "The Scourge Between Stars">}} by {{<crosslink "Ness Brown">}}. A generation ship with something going bump in the night? Isn't it always night in space? In any case, it's nicely terrifying if rather short (at novella length). Feels *very* similar to Alien, but that's not a bad thing. A solid debut. 
 
+(I originally read {{<crosslink "VenCo">}} by {{<crosslink "Cherie Dimaline">}} for this spot, but realized as I was writing this post that it doesn't fit hard mode.)
 
+## Some stats
 
-### {{<crosslink "Rosewater">}}
+Audiobooks: 14. The rest were all ebooks. 
 
+Borrowed on Libby: 21. Libraries are the best. 
 
+Series (that I read the rest of):
 
-### {{<crosslink "The Book of Zog">}}
+* All 3 of {{<crosslink "The Outside">}} by {{<crosslink "Ada Hoffman">}} (between 2022 and 2023 bingos). 
+* All 9 of {{<crosslink "Temeraire">}} by {{<crosslink "Naomi Novik">}} (reread the first; rest this year). 
+* All 5 of {{<crosslink "Dean Koontz's Frankenstein">}} by {{crosslink "Dean Koontz"}}. Duh. :smile:
 
+New (to me) authors: 15
 
+* {{<crosslink "Alec Hutson">}}
+* {{<crosslink "Catherynne M. Valente">}}
+* {{<crosslink "Cherie Dimaline">}} (replaced with a different story for hard mode, but I did read for the bingo)
+* {{<crosslink "Genevieve Gornichec">}}
+* {{<crosslink "Juliet Marillier">}}
+* {{<crosslink "Leigh Bardugo">}}
+* {{<crosslink "Margaret Atwood">}}
+* {{<crosslink "Melissa Bashardoust">}}
+* {{<crosslink "Micaiah Johnson">}}
+* {{<crosslink "Ness Brown">}}
+* {{<crosslink "Peng Shepherd">}}
+* {{<crosslink "Peter S. Beagle">}}
+* {{<crosslink "Peter Watts">}}
+* {{<crosslink "Tade Thompson">}}
+* {{<crosslink "Ted Chiang">}}
 
-### {{<crosslink "Shadow and Bone">}}
+Repeat authors for book bingo: 5
+
+* {{<crosslink "Ada Hoffmann">}}. {{<crosslink "The Outside">}} for 2022's Features Mental Health. 
+* {{<crosslink "Naomi Novik">}}. {{<crosslink "A Deadly Education">}} for 2022's Anti-Hero.
+* {{<crosslink "T. Kingfisher">}}. {{<crosslink "Nettle & Bone">}} for 2022's Author Uses Initials. 
+* {{<crosslink "T.J. Klune">}}. {{<crosslink "The House in the Cerulean Sea">}} for 2021's Found Family. 
+* {{<crosslink "Yoon Ha Lee">}}. {{<crosslink "Vela">}} for 2022's Two or More Authors. 
+
+Other repeat authors: 7
+
+* {{<crosslink "Alastair Reynolds">}}. Originally 'read' him on the Escape Pod podcast. Also Revelation Space. 
+* {{<crosslink "Brandon Sanderson">}}. I've read everything he's written (except Alcatraz). First time a new book fit a Bingo square though. 
+* {{<crosslink "Dean Koontz">}}. Read a lot of him before I started writing reviews, although only this series since. 
+* {{<crosslink "John Scalzi">}}. {{<crosslink "Old Man's War">}}.
+* {{<crosslink "Neil Gaiman">}}. All sorts of things. and
+* {{<crosslink "Scott Westerfield">}}. Read Uglies et al years ago; didn't even realize it was the same author. 
+* {{<crosslink "Terry Pratchett">}}. {{<crosslink "Discworld">}}. All of it. 
+
+<!--more-->
+
