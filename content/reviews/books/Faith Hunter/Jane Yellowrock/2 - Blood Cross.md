@@ -13,7 +13,7 @@ series_index:
 - 2
 title: Blood Cross
 ---
-In {{<crosslink "Skinwalker">}} we were introduced to Jane/Beast/and the various things that go bump in the New Orleans night. 
+In [[Skinwalker]]() we were introduced to Jane/Beast/and the various things that go bump in the New Orleans night. 
 
 Now that we've got that out of the way, it's time to turn things up. Dig into the history of Vampires in this world...
 
@@ -35,4 +35,4 @@ Side note:
 
 > A vampire, François-Dominique Toussaint Louverture, turned some of the discontent maroons and helped plot one of the major uprisings. He and his allies led a revolt under the Spanish flag that toppled the French colony. It was violent and brutal, with carnage on both sides. Some of the white landowners escaped to the U.S.; many more died, along with over ten thousand slaves. Three of the surviving vampire clans, including some who practiced blood magic, came to Louisiana in 1791, upsetting the political scene here.
 
-It's always fun to see books that take alternate history in different directions. Take and compare {{<crosslink "A Radical Act of Free Magic">}}. Both have Toussaint and the rebellion of Haiti. Heck, both have vampires. But both go *radically* different directions. 
+It's always fun to see books that take alternate history in different directions. Take and compare [[A Radical Act of Free Magic]](). Both have Toussaint and the rebellion of Haiti. Heck, both have vampires. But both go *radically* different directions. 

@@ -30,7 +30,7 @@ The worldbuilding and visuals are what really makes this movie. I watched it on 
 
 <!--more-->
 
-Plotwise, it follows the book well enough, if the first half. It's a crazy story and they had to adapt a few bits in order to make it fit into the film media, but that's always the case. Review of the book (read in 2019), if that helps: {{<crosslink "Dune">}}
+Plotwise, it follows the book well enough, if the first half. It's a crazy story and they had to adapt a few bits in order to make it fit into the film media, but that's always the case. Review of the book (read in 2019), if that helps: [[Dune]]()
 
 Castingwise, Timothée Chalamet as Paul Atreides and Rebecca Ferguson as Lady Jessica Atreides really really work. It's a more emotional Lady Jessica, but I think that works the story well enough. Oscar Isaac does the honorbound and 'good guy' Duke Leto Atreides well, as does his counterpoint in Stellan Skarsgård as Baron Vladimir Harkonnen--not quite as bad as previous iterations, but still dark. Overall, a well cast movie. Nothing I would change. One last, Jason Momoa as Duncan Idaho is a pleasant surprise, but I always love him--after Stargate especially. 
 

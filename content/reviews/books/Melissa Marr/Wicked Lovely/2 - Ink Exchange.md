@@ -17,7 +17,7 @@ title: Ink Exchange
 
 Well that's not what I expected. 
 
-It's definitely a sequel to {{<crosslink "Wicked Lovely">}}. In that it's in the same world with many of the same characters and takes place after the events of the first book. 
+It's definitely a sequel to [[Wicked Lovely]](). In that it's in the same world with many of the same characters and takes place after the events of the first book. 
 
 It's ... fine? It's interesting, if a bit jarring, to see more of the world and a broader cast of characters. But the plot is ugly, it's hard to root for anyone really, and I missed the continuity you get from sticking with a united point of view. 
 

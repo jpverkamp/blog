@@ -15,7 +15,7 @@ title: The Magician King
 ---
 > That was the thing about the world: it wasn't that things were harder than you thought they were going to be, it was that they were hard in ways that you didn't expect.
 
-Turns out, if you take {{<crosslink "The Magicians">}}, tone down Quentin a bit, and cut the magic school parts to focus mostly on Fillory and adventuring, you get a much better book. It's still a bit much at times and definitely has some 'middle book syndrome' going on, but I quite enjoyed it. 
+Turns out, if you take [[The Magicians]](), tone down Quentin a bit, and cut the magic school parts to focus mostly on Fillory and adventuring, you get a much better book. It's still a bit much at times and definitely has some 'middle book syndrome' going on, but I quite enjoyed it. 
 
 If you didn't like the Magicians, you might like this book. If you liked it, particularly the second half, this is probably right up your alley.
 

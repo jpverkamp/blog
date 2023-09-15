@@ -143,7 +143,7 @@ Oh. :smile:
 
 ### Chapter 10: Antimatter and Anti-universes
 
-... atomic bombs are only 1% efficient? Huh. Crazy. That actually came up in {{<crosslink "Black Rain and Paper Cranes">}}. Amusing how things overlap. 
+... atomic bombs are only 1% efficient? Huh. Crazy. That actually came up in [[Black Rain and Paper Cranes]](). Amusing how things overlap. 
 
 There are so many very big numbers in this chapter. Huge machines to store a few antiprotons, the universe basically being a rounding error, etc. Good times. 
 

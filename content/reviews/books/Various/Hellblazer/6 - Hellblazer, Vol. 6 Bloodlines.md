@@ -135,7 +135,7 @@ Oh I do love this storyline. I hope to see more of it (and given the last issue 
 
 ### Fallen Woman
 
-Fascinating. Following up from Sandman #4: {{<crosslink "Season of Mists">}}. Perhaps there *is* something to be said for shared universes. 
+Fascinating. Following up from Sandman #4: [[Season of Mists]](). Perhaps there *is* something to be said for shared universes. 
 
 ![](/embeds/books/attachments/hellblazer-6-d43167.png)
 

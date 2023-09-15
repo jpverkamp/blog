@@ -20,11 +20,11 @@ reviews/writers:
 - Veronica Roth
 reviews/year: 2014
 ---
-Well, it's better than {{<crosslink "The Hunger Games: Catching Fire">}}[^1]
+Well, it's better than [[The Hunger Games: Catching Fire]]()[^1]
 
 <!--more-->
 
-Basically, Divergent feels like someone saw the success of the Hunger Games and decided that they could do it better (which should sound familiar if you remember {{<crosslink "Beautiful Creatures">}}). At least so far as I can tell, that's not actually the case here, but it still feels that way.
+Basically, Divergent feels like someone saw the success of the Hunger Games and decided that they could do it better (which should sound familiar if you remember [[Beautiful Creatures]]()). At least so far as I can tell, that's not actually the case here, but it still feels that way.
 
 In the case of Divergent, the world is slightly more believable, even if there are still a number of problems. Basically, teens are sorted into one of ~~four~~ five[^2] casts (vaguely reminiscent of the houses in Harry Potter) based on a sort of personality test, although it's possible to choose for yourself, if rare. Of course, the lead (and her brother) are two such that choose, abandoning their public servant (Abnegation) parents for the cops (Dauntless[^3]) and brains (Erudite).
 

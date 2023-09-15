@@ -18,7 +18,7 @@ reviews/writers:
 - John Cleese
 reviews/year: 2013
 ---
-I went into The Croods fully expecting the sort of banal, child-focused humor that all too often plagues such films (see {{<crosslink "Hotel Transylvania">}}) for a perfect example). Granted, The Croods is actually rated PG, so there's at least a modicum of hope ((Although then again, so was Hotel Transylvania...)).
+I went into The Croods fully expecting the sort of banal, child-focused humor that all too often plagues such films (see [[Hotel Transylvania]]()) for a perfect example). Granted, The Croods is actually rated PG, so there's at least a modicum of hope ((Although then again, so was Hotel Transylvania...)).
 
 <!--more-->
 

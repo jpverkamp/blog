@@ -36,6 +36,6 @@ Essentially, at the end, there are two people from the company who's boat sank f
 
 It's something that really did make me think: given a less believable but more positive story versus a more believable but grimmer story, which will the average person choose? In the film, Pi implies that's the choice that makes people believe in God. While I haven't gone quite that far, it definitely made me think. So that's something at least.
 
-Overall, I enjoyed the movie. I haven't read the book and I doubt that I ever will, but the film was worth my time which is all that I really ask. It was good enough--thought provoking enough at least--to put it in my top ten, just below {{<crosslink "Brave">}} but above {{<crosslink "Skyfall">}}. If you have to choose, I'd still say go see {{<crosslink "Rise of the Guardians">}}), but if you've already seen that one, you could do worse than Life of Pi.
+Overall, I enjoyed the movie. I haven't read the book and I doubt that I ever will, but the film was worth my time which is all that I really ask. It was good enough--thought provoking enough at least--to put it in my top ten, just below [[Brave]]() but above [[Skyfall]](). If you have to choose, I'd still say go see [[Rise of the Guardians]]()), but if you've already seen that one, you could do worse than Life of Pi.
 
 {{< ranking "2012 Movie Reviews" >}}

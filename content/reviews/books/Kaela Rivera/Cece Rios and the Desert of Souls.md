@@ -16,7 +16,7 @@ rating: 5
 ---
 > Since before I could remember, Mamá had taught me the legends of the criaturas. They were creatures unlike humans, children of the Desert goddess, who the Great Namer created from dust and words. Mama taught me the difference between animal criaturas, who were made to fill the desert, and dark criaturas, who were made to attack the descendants of the Sun god—us. But her advice for dealing with both types was the same.
 
-That's a delightful book. It's a quick read (middle grade) with lovely worldbuilding (albeit a bit of whiplash reading it back to back with {{<crosslink "Black Sun">}}. It's got a touch of southwest US / Mexican mythology with Coyote myths, El Sombrerón//La Chupacabra/La Llorona and others, brujas, and touch of Pokemon/creature collection with whole loads of hearts and the power of one little girl trying to save her sister and instead--perhaps--accidentally changing the world along the way. It's a great read and something that I'm definitely going to put onto the list to read to my children. 
+That's a delightful book. It's a quick read (middle grade) with lovely worldbuilding (albeit a bit of whiplash reading it back to back with [[Black Sun]](). It's got a touch of southwest US / Mexican mythology with Coyote myths, El Sombrerón//La Chupacabra/La Llorona and others, brujas, and touch of Pokemon/creature collection with whole loads of hearts and the power of one little girl trying to save her sister and instead--perhaps--accidentally changing the world along the way. It's a great read and something that I'm definitely going to put onto the list to read to my children. 
 
 <!--more-->
 

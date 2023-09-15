@@ -171,7 +171,7 @@ fn part1(filename: &Path) -> String {
 
 I was worried that the timing specified in the original problem would come into play somehow (like there would be cycles in there). But... it seems not. 
 
-Actually, I did something similar to what I did in {{<crosslink "AoC 2022 Day 16: Pressurinator">}} and decided to make a method that would render the entire `Troop` out as a graph (using [graphviz](https://graphviz.org/)). It's... a lot:
+Actually, I did something similar to what I did in [[AoC 2022 Day 16: Pressurinator]]() and decided to make a method that would render the entire `Troop` out as a graph (using [graphviz](https://graphviz.org/)). It's... a lot:
 
 {{< figure src="/embeds/2022/aoc21-1-full.svg" >}}
 

@@ -16,7 +16,7 @@ bingo-data:
 ---
 > “It is nearly impossibly to be sad when eating a blueberry muffin. I'm pretty sure that's a scientific fact.” 
 
-I need to read more {{<crosslink "T. Kingfisher">}}. {{<crosslink "Nettle & Bone">}} was delightful and, if anything, A Wizard's Guide to Defensive Baking is even better!
+I need to read more [[T. Kingfisher]](). [[Nettle & Bone]]() was delightful and, if anything, A Wizard's Guide to Defensive Baking is even better!
 
 In a nutshell, we have a world with a specialized sorts of wizards. You might be able to cast lightning bolts... or you might have the power to animate and converse with dead horses. Or you *might* even have magical powers over... bread!
 

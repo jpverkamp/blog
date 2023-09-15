@@ -10,7 +10,7 @@ programming/topics:
 - Puzzles
 - Sudoku
 ---
-More [Rust](programming/languages/rust/)! This time, I want to go back to my post on {{<crosslink "A Generic Brute Force Backtracking Solver">}}. For one, because I'm learning Rust. For two, because there is a crate specifically for {{<doc rust im>}}mutable data structures. And for three, because I expect it will be much faster. We shall see!
+More [Rust](programming/languages/rust/)! This time, I want to go back to my post on [[A Generic Brute Force Backtracking Solver]](). For one, because I'm learning Rust. For two, because there is a crate specifically for {{<doc rust im>}}mutable data structures. And for three, because I expect it will be much faster. We shall see!
 
 <!--more-->
 

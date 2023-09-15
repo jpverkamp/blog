@@ -14,7 +14,7 @@ series_index:
 - 1
 title: The Cloud Roads
 ---
-This is a fascinating sort of book, especially having read {{<crosslink "The Murderbot Diaries">}} first. It's not entirely the same thing at all--fantasy rather than science fiction, with a world full of floating eyes and many different sapient races rather than aliens and murderbots--but there are some bones that aren't too dissimilar. 
+This is a fascinating sort of book, especially having read [[The Murderbot Diaries]]() first. It's not entirely the same thing at all--fantasy rather than science fiction, with a world full of floating eyes and many different sapient races rather than aliens and murderbots--but there are some bones that aren't too dissimilar. 
 
 In a nutshell, you have Moon. He's a Raksura, a being capable of transforming between a more or less human form (although I don't get the feeling there are any real 'humans' in this book) and a much larger stronger winged form. He's all on his own, not even sure what he is--or where he fits in. 
 

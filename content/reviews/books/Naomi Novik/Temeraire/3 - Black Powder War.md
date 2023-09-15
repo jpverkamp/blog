@@ -17,7 +17,7 @@ title: Black Powder War
 > 
 > "Oh, pray, let us be gone at once," said the inexpressibly valuable dragon, when Laurence had carried the question, still unresolved, back to him. "It sounds very exciting to me.” 
 
-{{<crosslink "His Majesty's Dragon">}} started strong, with dragons fighting great battles in the Napoleonic wars. In {{<crosslink "Throne of Jade">}}, we took almost an entire book to get to get to (and then some of that to) experience China. So now in {{<crosslink "Black Powder War">}}... we get to come home? 
+[[His Majesty's Dragon]]() started strong, with dragons fighting great battles in the Napoleonic wars. In [[Throne of Jade]](), we took almost an entire book to get to get to (and then some of that to) experience China. So now in [[Black Powder War]]()... we get to come home? 
 
 More seriously, it's actually quite a story. Laurence and Temeraire get a super important message (tm) that there are dragon eggs that need picked up in Istanbul. There isn't time to book a ship... so they're about to travel the Old Silk Road across a huge chunk of land. 
 

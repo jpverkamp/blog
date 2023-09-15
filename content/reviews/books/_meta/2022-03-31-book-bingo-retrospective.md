@@ -16,7 +16,7 @@ I made it*!
 The two exceptions:
 
 * Per the rules, you can replace one square. I never quite did the book club thing, so I replaced 'r/Fantasy Book Club (Hard: with participation)' with a previous square: 'Sequel: Not the First Book in the Series (2017)'. 
-* {{<crosslink "Black Sun">}} meets 'Trans or Nonbinary', but I misread the recommendation thread before I started: xe is not a protagonist. It's still a wonderful book and I'm glad to have read it, but I didn't have time to read another book for this square. I'll try to catch one [next time around]({{<ref "2022-04-01-book-bingo">}}). 
+* [[Black Sun]]() meets 'Trans or Nonbinary', but I misread the recommendation thread before I started: xe is not a protagonist. It's still a wonderful book and I'm glad to have read it, but I didn't have time to read another book for this square. I'll try to catch one [next time around]({{<ref "2022-04-01-book-bingo">}}). 
 
 Also:
 
@@ -25,14 +25,14 @@ Also:
 
 I don't think there was a single book on the list that I hated; instead, here are some that I particularly loved and can wholeheartedly recommend you read!
 
-* {{<crosslink "The House in the Cerulean Sea">}} - A delightful found family / coming of age story that really tugs on your emotions
-* {{<crosslink "Mexican Gothic">}} - Slow burn collision of worlds between Mexican young woman and English gentleman turns super creepy
-* {{<crosslink "Six Wakes">}} - Closed room murder mystery IN SPACE--and the best part: with cloning, they all very well COULD HAVE DONE IT
-* {{<crosslink "Cece Rios and the Desert of Souls">}} - A quick read with Coyote myths, Latin American beasties, and a young girl that's very well going to save the day
-* {{<crosslink "Annihilation">}} - Slice of life meets cosmic horror; exploring a weird tear without* going mad--much better than the sequels
-* {{<crosslink "Gideon the Ninth">}} - 'Lesbian Necromancers in Space'--but really, it's an excellent blending of necromancy and spaceships with some excellent super snarky humor 
-* {{<crosslink "An Alchemy of Masques and Mirrors">}} - a wonderfully weird steampunk world full of airships, crazy magic, and delightful characters
-* {{<crosslink "Project Hail Mary">}} - scientific/engineering problem solving mixed with humor as Andy Weird does best
-* {{<crosslink "Black Sun">}} - dark and beautiful pre-colonial Middle America based worldbuilding with a lot of interesting dichotomies
-* {{<crosslink "The Long Way to a Small, Angry Planet">}} - a slice of life deep in space chock full of fascinating alien feeling aliens and relationships
+* [[The House in the Cerulean Sea]]() - A delightful found family / coming of age story that really tugs on your emotions
+* [[Mexican Gothic]]() - Slow burn collision of worlds between Mexican young woman and English gentleman turns super creepy
+* [[Six Wakes]]() - Closed room murder mystery IN SPACE--and the best part: with cloning, they all very well COULD HAVE DONE IT
+* [[Cece Rios and the Desert of Souls]]() - A quick read with Coyote myths, Latin American beasties, and a young girl that's very well going to save the day
+* [[Annihilation]]() - Slice of life meets cosmic horror; exploring a weird tear without* going mad--much better than the sequels
+* [[Gideon the Ninth]]() - 'Lesbian Necromancers in Space'--but really, it's an excellent blending of necromancy and spaceships with some excellent super snarky humor 
+* [[An Alchemy of Masques and Mirrors]]() - a wonderfully weird steampunk world full of airships, crazy magic, and delightful characters
+* [[Project Hail Mary]]() - scientific/engineering problem solving mixed with humor as Andy Weird does best
+* [[Black Sun]]() - dark and beautiful pre-colonial Middle America based worldbuilding with a lot of interesting dichotomies
+* [[The Long Way to a Small, Angry Planet]]() - a slice of life deep in space chock full of fascinating alien feeling aliens and relationships
 

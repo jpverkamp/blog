@@ -10,7 +10,7 @@ programming/topics:
 series:
 - Cloning Redis in Rust
 ---
-Recently, I read through {{<crosslink "Build Your Own Redis with C/C++">}}. C/C++ are ugly, so let's run through it in Rust!
+Recently, I read through [[Build Your Own Redis with C/C++]](). C/C++ are ugly, so let's run through it in Rust!
 
 My goal: implement some large subset of [Redis](https://redis.io/) (both server and client) in Rust. For any features I implement, it should be compatible with Redis off the shelf. I should be able to use their client with my server and their server with my client and it should just work. 
 

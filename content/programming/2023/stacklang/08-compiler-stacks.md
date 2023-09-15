@@ -13,7 +13,7 @@ programming/topics:
 series:
 - StackLang
 ---
-Let's continue {{<crosslink "StackLang Part VII: New CLI and Datatypes">}} and implement ~~lists~~ stacks in the compiler!
+Let's continue [[StackLang Part VII: New CLI and Datatypes]]() and implement ~~lists~~ stacks in the compiler!
 
 {{< taxonomy-list "series" "StackLang" >}}
 

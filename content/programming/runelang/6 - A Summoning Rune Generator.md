@@ -11,7 +11,7 @@ programming/topics:
 series:
 - Runelang in the Browser
 ---
-Last time we had {{<crosslink "Runelang: A Bind Rune Generator">}}. This time, let's make 'summoning circles'. Basically, we want to make a circle with stars and other circles inscribed and around the borders with various 'mystic' text in the mix. Something like this:
+Last time we had [[Runelang: A Bind Rune Generator]](). This time, let's make 'summoning circles'. Basically, we want to make a circle with stars and other circles inscribed and around the borders with various 'mystic' text in the mix. Something like this:
 
 - `generate_summoning_circle`
   - random chance of boder

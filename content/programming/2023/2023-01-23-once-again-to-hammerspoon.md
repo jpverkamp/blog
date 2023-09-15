@@ -10,7 +10,7 @@ programming/topics:
 ---
 Why oh why doesn't macOS have a more powerful window manager...
 
-Once upon a time, I moved from primarily Windows to primarily (at the time) OSX. I missed Aerospace--the ability to use Win+Left/Right to snap windows to half the screen--so I wrote a fix: {{<crosslink "Duplicating AeroSnap on OSX with Hammerspoon">}}. 
+Once upon a time, I moved from primarily Windows to primarily (at the time) OSX. I missed Aerospace--the ability to use Win+Left/Right to snap windows to half the screen--so I wrote a fix: [[Duplicating AeroSnap on OSX with Hammerspoon]](). 
 
 Since then, I eventually discovered and moved to [Magnet](https://magnet.crowdcafe.com/) and all was well. 
 

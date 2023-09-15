@@ -13,7 +13,7 @@ series_index:
 - 3
 title: Mercy Blade
 ---
-We've had plenty of chances in {{<crosslink "Skinwalker">}} and {{<crosslink "Blood Cross">}} to get used to the Vampires, Witches, and ... well Jane and Beast of the world. We've even barely started to scratch the surface for how Vampires work and how they came to be. 
+We've had plenty of chances in [[Skinwalker]]() and [[Blood Cross]]() to get used to the Vampires, Witches, and ... well Jane and Beast of the world. We've even barely started to scratch the surface for how Vampires work and how they came to be. 
 
 So of course things have to get *complicated*. 
 

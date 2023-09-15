@@ -23,7 +23,7 @@ Notice anything missing?
 
 There's painfully little in the way of big Napoleonic battles (with dragons!). Slightly more exploration of Chinese dragons and that end of the world, but not that much more. 
 
-In theory, it's a way for Laurence to deal with his actions in previous books... but we've already done a chunk of that in {{<crosslink "Victory of Eagles">}} and we really don't get much of it here. 
+In theory, it's a way for Laurence to deal with his actions in previous books... but we've already done a chunk of that in [[Victory of Eagles]]() and we really don't get much of it here. 
 
 Really, it doesn't seem quite like something we need. 
 

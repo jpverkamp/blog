@@ -13,7 +13,7 @@ series_index:
 - 2
 title: Microscopes and Magic
 ---
-Well, that's pretty much more of {{<crosslink "Succulents and Spells">}}. It's quick, doesn't really go anywhere (huge), and is a fun little read. 
+Well, that's pretty much more of [[Succulents and Spells]](). It's quick, doesn't really go anywhere (huge), and is a fun little read. 
 
 On the plus side, I like seeing more of Marigold as the primary point of view. It's a bit weird to swap, but I think I like her more than Laurel. Perhaps it's because she's just coming into the magical world? 
 

@@ -19,7 +19,7 @@ bingo-data:
 ---
 Take part gay teenage lifeguard lover of rom-coms, just broken up with the Love Of His Life(tm), add a non-binary (because they all are) mermaid, sent on a month long {{<wikipedia "Rumspringa">}} to the surface, make it into a love story (of course) with all the (teenage) relationship twists and turns that entails[^scale]... and you have *Out of the Blue*. 
 
-That ... is not at all the sort of book I normally find myself drawn to (I picked it up for the {{<crosslink "2022 Book Bingo">}}), but you know... It's actually kind of sweet. And now that it's over, I think I'm glad to have read it. 
+That ... is not at all the sort of book I normally find myself drawn to (I picked it up for the [[2022 Book Bingo]]()), but you know... It's actually kind of sweet. And now that it's over, I think I'm glad to have read it. 
 
 <!--more-->
 

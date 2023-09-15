@@ -54,7 +54,7 @@ An interesting look into how we teach the classics in schools. Kids never really
 
 > So it was, for instance, with the greatest of Milton’s interpreters, William Blake, for whom the author of Paradise Lost was a lifelong inspiration. “Milton lovd me in childhood and shewd me his face,” he claimed, and in The Marriage of Heaven and Hell he wrote what is probably the most perceptive, and certainly the most succinct, criticism of Paradise Lost: “The reason Milton wrote in fetters when he wrote of Angels & God, and at liberty when of Devils and Hell, is that he was a true Poet, and of the Devil’s party without knowing it.” And Blake’s continuing and passionate interest in Milton resulted in a long (and, frankly, difficult) poem named after the poet, as well as a series of illustrations to Paradise Lost which are some of the most beautiful and delicate watercolours he ever did.  
 
-Milton and Blake. I've [read the latter]({{<crosslink "The Complete Poetry and Prose">}}) and need to check out the former. Makes me think more highly of Pullman. Is that weird? 
+Milton and Blake. I've [read the latter]([[The Complete Poetry and Prose]]()) and need to check out the former. Makes me think more highly of Pullman. Is that weird? 
 
 ## The Origin of the Universe
 ### THE STORYTELLING OF SCIENCE AND RELIGION: A RESPONSE TO A LECTURE BY STEPHEN HAWKING 

@@ -15,7 +15,7 @@ series_index:
 - 2
 title: 'Marvel 1602: New World'
 ---
-{{<crosslink "Marvel 1602">}} established a world where time travel managed to accidentally cause various heroes to be born around the year 1602, now in New World we see more fallout if that story. The 1602 Master Spider of course, but also Lord Iron, Master Jameson and his broadsheet, and, of course, the Hulk—who needs no puny time periodic appropriate name. 
+[[Marvel 1602]]() established a world where time travel managed to accidentally cause various heroes to be born around the year 1602, now in New World we see more fallout if that story. The 1602 Master Spider of course, but also Lord Iron, Master Jameson and his broadsheet, and, of course, the Hulk—who needs no puny time periodic appropriate name. 
 
 It feels like somewhat smaller a story than the original 1602 and more like we’re reading something that we’ve seen before, just with a new coat of paint. 
 

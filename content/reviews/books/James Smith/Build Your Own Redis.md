@@ -19,7 +19,7 @@ On the other hand, I feel like a lot of the book is spent down in the weeds, imp
 
 So is it work reading? Maybe. Give it a try. You can read it online for free and buy an epub if you find it worthwhile.
 
-For me though, I think the greatest thing that I got out of it was really wanting to write my own Redis! Albeit in Rust. Check it out: {{<crosslink "Cloning Redis in Rust">}}
+For me though, I think the greatest thing that I got out of it was really wanting to write my own Redis! Albeit in Rust. Check it out: [[Cloning Redis in Rust]]()
 
 
 

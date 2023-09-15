@@ -17,7 +17,7 @@ I think the craziest thing is that this book was written in 1932... Oddly presci
 
 <!--more-->
 
-It's an interesting counterpoint to {{<crosslink "1984">}}. In one world, you rewrite the past to control the present. Big Government writ even larger. In the other, you change the present so people don't even care about the past. At least not any further than 'how long since the last time I had drugs/sex/media'. It's interesting to see how different the two can be. 
+It's an interesting counterpoint to [[1984]](). In one world, you rewrite the past to control the present. Big Government writ even larger. In the other, you change the present so people don't even care about the past. At least not any further than 'how long since the last time I had drugs/sex/media'. It's interesting to see how different the two can be. 
 
 Overall, I'd say there's a reason it's taught in schools. Anything can be bad taken to an extreme and Brave New World epitomizes that--taking shots at the modern society of the 1930s and today along the way. 
 

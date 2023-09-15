@@ -196,7 +196,7 @@ It's probably not the best thing in the world to pass the complexity of parsing 
 
 The only gotcha is that you have to be a little careful about order, since as mentioned I will take the *first* match on the list of regexes. So originally, I had integers parsed first, but it turns out that you'd parse `1/2` as `["1", "/", "2"]` instead of `["1/2"] as I want. That's why you write tests!
 
-Another special case: splitting identifiers. As mentioned in {{<crosslink "StackLang Part I: The Idea">}}, I have a rather broad allowance for what can be in an identifier. Anything that isn't already used elsewhere (brackets, whitespaces, and dots) can be part of an identifier, but it has to start with a letter. 
+Another special case: splitting identifiers. As mentioned in [[StackLang Part I: The Idea]](), I have a rather broad allowance for what can be in an identifier. Anything that isn't already used elsewhere (brackets, whitespaces, and dots) can be part of an identifier, but it has to start with a letter. 
 
 If it doesn't, it falls into the purely symbolic identifiers, which are mostly built in functions (like `+` and `<=`) or special prefixes (like `@` and `!`). We'll see if this continues to make sense. 
 

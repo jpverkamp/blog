@@ -18,7 +18,7 @@ title: Starsight
 
 If you are the sort to want absolutely zero spoilers going into a book *stop reading now*. Go read the book (it's really good, that's not a spoiler :spoiler:) and then come back. You have been warned. 
 
-Okay, now that that's out of the way. It's been ... three years since I first read {{<crosslink "Skyward">}}. WheN I read it, the sequels weren't even out yet... when Starsight first came out, I just didn't get around to it. I'm somewhat lamenting that lack now. :smile: But as they say, the second best time to plant a tree is today. 
+Okay, now that that's out of the way. It's been ... three years since I first read [[Skyward]](). WheN I read it, the sequels weren't even out yet... when Starsight first came out, I just didn't get around to it. I'm somewhat lamenting that lack now. :smile: But as they say, the second best time to plant a tree is today. 
 
 In any case, Starsight takes place where Skyward left off. Spensa has some crazy new powers she doesn't understand, M-Bot is out in the open--and really the star of the book--, and humanity is ready to take back the stars... More or less. 
 

@@ -15,7 +15,7 @@ title: Fragile Eternity
 ---
 > “I knew about faeries. They didn’t,” she protested. She hated the faery inability to lie more and more as he spoke. It would be easier to lie and deny how painlessly she had become fey. It would be easier to say that she wasn’t adjusting to her new life far faster than she’d ever thought. It would be easier to say she was struggling. Because then he wouldn’t be doing this to me.
 
-After {{<crosslink "Ink Exchange">}}, I was worried. For the most part, Fragile Eternity brings it back. 
+After [[Ink Exchange]](), I was worried. For the most part, Fragile Eternity brings it back. 
 
 <!--more-->
 

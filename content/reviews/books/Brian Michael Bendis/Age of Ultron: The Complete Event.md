@@ -9,7 +9,7 @@ reviews/lists:
 - 2023 Book Reviews
 title: 'Age of Ultron: The Complete Event'
 ---
-So this was on the list of 'Ultimate Marvel reading order', primarily as a lead in to the events of {{<crosslink "Cataclysm: The Ultimates' Last Stand">}}. That was not necessary. 
+So this was on the list of 'Ultimate Marvel reading order', primarily as a lead in to the events of [[Cataclysm: The Ultimates' Last Stand]](). That was not necessary. 
 
 I feel like most of these 'big events' have ended up being overwhelming. They just need more room to breathe than comics can give them. The 'smaller' scale comics (like Spider-Man) do so much better. 
 

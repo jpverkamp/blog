@@ -17,7 +17,7 @@ series_index:
 - 24
 title: Ultimate Comics Spider-Man by Brian Michael Bendis, Volume 3
 ---
-Unless I misread something, this is included as 1/3 of {{<crosslink "Ultimate Comics: Divided We Fall, United We Stand">}}, for the most part overlapping with that story: the fall and rise of America in this crazy Ultimate Universe. 
+Unless I misread something, this is included as 1/3 of [[Ultimate Comics: Divided We Fall, United We Stand]](), for the most part overlapping with that story: the fall and rise of America in this crazy Ultimate Universe. 
 
 But here, we also get a lot more of the story of Miles and Uncle Aaron. Which is a bit more violent and brutal (and quick) than in Into the Spider-Verse (I think? I might be misremembering), since he's the main protagonist. 
 

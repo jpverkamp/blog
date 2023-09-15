@@ -31,7 +31,7 @@ The ANTICHRIST is born. ARMAGEDDON is coming! And all that stands in the way (fo
 
 Oh it's so good. 
 
-I've read quite a bit of {{<crosslink "Terry Pratchett">}} and {{<crosslink "Neil Gaiman">}}, so reading a co-lab between them. Plus, I actually watched the [show on Amazon](https://www.amazon.com/Good-Omens-Season-1/dp/B089XW1Z6Y) a while back, well before reading this book. From that order at least, it's one of the particularly faithful and well done adaptations. Both being rather enjoyable. 
+I've read quite a bit of [[Terry Pratchett]]() and [[Neil Gaiman]](), so reading a co-lab between them. Plus, I actually watched the [show on Amazon](https://www.amazon.com/Good-Omens-Season-1/dp/B089XW1Z6Y) a while back, well before reading this book. From that order at least, it's one of the particularly faithful and well done adaptations. Both being rather enjoyable. 
 
 I really can't get Michael Sheet and David Tennant out of my head though. 
 

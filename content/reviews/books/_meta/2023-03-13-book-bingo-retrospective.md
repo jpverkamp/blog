@@ -9,7 +9,7 @@ is_review_meta: true
 ---
 BINGO!
 
-One year ago, I started my (second) {{<crosslink "2022 Book Bingo">}}. Let's see how I did! 
+One year ago, I started my (second) [[2022 Book Bingo]](). Let's see how I did! 
 
 {{< bingo "2022 Book Bingo" >}}
 

@@ -23,7 +23,7 @@ series_index:
 - 3
 reviews/year: 2003
 ---
-Oh the Matrix Revolutions. In a nutshell, it's {{<crosslink "The Matrix Reloaded">}}: Part 2. We cut in right as that one ended, with Neo out for the count, robots descending on Zion, and Smith doing... whatever Smith is doing.  I particularly appreciate the idea of humans, programs, and machines perhaps finding common ground (which {{<crosslink "The Matrix Resurrections">}} really got into). 
+Oh the Matrix Revolutions. In a nutshell, it's [[The Matrix Reloaded]](): Part 2. We cut in right as that one ended, with Neo out for the count, robots descending on Zion, and Smith doing... whatever Smith is doing.  I particularly appreciate the idea of humans, programs, and machines perhaps finding common ground (which [[The Matrix Resurrections]]() really got into). 
 
 > Neo: I just have never...
 > 

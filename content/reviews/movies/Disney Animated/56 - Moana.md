@@ -36,7 +36,7 @@ Man, that's a fun movie.
 
 <!--more-->
 
-Many would point at Disney's {{<crosslink "Frozen">}} as the start of a new sort of Disney princess movie with a much more positive/modern look on life. Less damsel in distress, more agency for the princesses. 
+Many would point at Disney's [[Frozen]]() as the start of a new sort of Disney princess movie with a much more positive/modern look on life. Less damsel in distress, more agency for the princesses. 
 
 And Frozen certainly did that, but it still had some issues. Tangled did even better a few years later, but Moana really knocks it out of the park. It's just a really fun story about a girl that goes on an adventure (to save her people!), makes some friends (and enemies) along the way, and ends up saving the day. And she does it all without a love interest at all. Which, given that she's a teen (like most of the Disney princesses) *is perfectly all right*. It's not a particularly deep plot, but it's a Disney movie. It's plety good fun. 
 

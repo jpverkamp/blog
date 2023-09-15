@@ -11,7 +11,7 @@ programming/topics:
 series:
 - Cloning Redis in Rust
 ---
-Following up from {{<crosslink "Cloning Redis in Rust: RESP [Part 1]">}}, we can parse the protocol. So now... let's do something with it. 
+Following up from [[Cloning Redis in Rust: RESP [Part 1]]](), we can parse the protocol. So now... let's do something with it. 
 
 The obvious(ish) next step, in my mind? Make a server. It's all going to be over the network eventually, so it's either here or storing data. Here it is!
 
@@ -450,7 +450,7 @@ $ RUST_LOG=debug cargo run --bin server
 
 ## So... weren't we doing something with Redis? 
 
-Right. Redis. This is already getting a bit long, so for now, let's just assume we have a client that knows how to speak RESP (see {{<crosslink "Cloning Redis in Rust: RESP [Part 1]">}}).
+Right. Redis. This is already getting a bit long, so for now, let's just assume we have a client that knows how to speak RESP (see [[Cloning Redis in Rust: RESP [Part 1]]]()).
 
 Take that, parse it, log the parsed version, turn it back into a string, and send it back. 
 

@@ -15,7 +15,7 @@ title: The Magician's Land
 ---
 > It didn’t matter where you were, if you were in a room full of books you were at least halfway home.
 
-In {{<crosslink "The Magicians">}}, we had half Harry Potter *but cynical* and half Narnia... *but cynical*. In {{<crosslink "The Magician King">}}, we mostly stuck around in Fillory (the Narnia analogue). But right at the end... our well loved (:sarcasm:) main character Quentin pays the ultimate price: he doesn't get to hang out in the magical land anymore and has to go home. 
+In [[The Magicians]](), we had half Harry Potter *but cynical* and half Narnia... *but cynical*. In [[The Magician King]](), we mostly stuck around in Fillory (the Narnia analogue). But right at the end... our well loved (:sarcasm:) main character Quentin pays the ultimate price: he doesn't get to hang out in the magical land anymore and has to go home. 
 
 The Magician's Land picks up from there, with one plot following Quentin as he settles back into a normal life, becomes a teacher, promptly gets fired, and descends to a life of crime. As one does. 
 

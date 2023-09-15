@@ -16,7 +16,7 @@ bingo-data:
 ---
 Well that was a delightful collection of shorts. 
 
-I don't often read anthologies, but perhaps I should read more. I do love me some epic fantasy (I've read the entire {{<crosslink "The Wheel of Time">}} half a dozen times now...), but there's just something about a story that builds up quickly, gets to the point, and doesn't stick around. 
+I don't often read anthologies, but perhaps I should read more. I do love me some epic fantasy (I've read the entire [[The Wheel of Time]]() half a dozen times now...), but there's just something about a story that builds up quickly, gets to the point, and doesn't stick around. 
 
 I think of the 8, I only bounced off 1 (which was actually a fine story, I just couldn't suspend disbelief enough for the premise) and 1 was a bit meh, just for how short it was. 6 of 8 I absolutely loved though. 
 

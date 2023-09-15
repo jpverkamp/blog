@@ -9,8 +9,8 @@ Another year of reading. I easily beat my official goal of 50 with 84 books (fin
 
 A few stats:
 
-- The shortest book I read this year was {{<crosslink "The Eleventh Metal">}} at 14 pages
-- The longest was {{<crosslink "Beyond the Shadows">}} at 689 pages
+- The shortest book I read this year was [[The Eleventh Metal]]() at 14 pages
+- The longest was [[Beyond the Shadows]]() at 689 pages
 - My overall average was 338 pages per book and 77 per day
 - My average rating was 4.5 with 14 three stars and 18 four stars (the rest were fives)[^1]
 - I listened to 21 books on audiobook (all Discworld novels, so that's almost my most by a single author or in a single series)
@@ -22,7 +22,7 @@ More specifically, there are a few categories books fit into. First, the series 
 
 {{< goodreads book="Seventh Son" cover="true" >}}
 
-Read my review for {{<crosslink "Alvin Journeyman">}} for the why.
+Read my review for [[Alvin Journeyman]]() for the why.
 
 Then, there are the two series I didn't actually get around to at all:
 

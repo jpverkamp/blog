@@ -7,7 +7,7 @@ programming/topics:
 - Mathematics
 - OEIS
 ---
-Another day, a slightly better way to implement {{<crosslink "Lunar Arithmetic in Rust">}}. Give the previous post a read if you need a quick refresher on what Lunar integers are. Otherwise, here are two better (I hope) ways to solve the same problem. 
+Another day, a slightly better way to implement [[Lunar Arithmetic in Rust]](). Give the previous post a read if you need a quick refresher on what Lunar integers are. Otherwise, here are two better (I hope) ways to solve the same problem. 
 
 <!--more--> 
 

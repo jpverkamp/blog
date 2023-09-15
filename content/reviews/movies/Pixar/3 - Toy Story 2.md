@@ -32,7 +32,7 @@ reviews/writers:
 - Chris Webb
 reviews/year: 1999
 ---
-For me, {{<crosslink "Toy Story">}} falls at just the right time for a blast of nostalgia. It came out when I was a kid and I watched it over and over again. Somehow, Toy Story 2, despite only coming out 4 years later, just doesn't hit the same mark. Don't get me wrong, it's still a good fun movie and worth watching, but... it's just not quite as good. 
+For me, [[Toy Story]]() falls at just the right time for a blast of nostalgia. It came out when I was a kid and I watched it over and over again. Somehow, Toy Story 2, despite only coming out 4 years later, just doesn't hit the same mark. Don't get me wrong, it's still a good fun movie and worth watching, but... it's just not quite as good. 
 
 > Buzz Lightyear: Woody, stop this nonsense and let's go.
 > 

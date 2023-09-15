@@ -15,7 +15,7 @@ title: The Dead Town
 ---
 And so it ends. 
 
-A direct sequel to {{<crosslink "Lost Souls">}}, we finish up with Victor (etc) and his nanomachine replacements out in Montana. 
+A direct sequel to [[Lost Souls]](), we finish up with Victor (etc) and his nanomachine replacements out in Montana. 
 
 It's kind of cool seeing the rugged, individual, hyper-"American" characters fight back. It's a bit much at times, but I enjoyed it. 
 

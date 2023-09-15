@@ -24,7 +24,7 @@ That's a crazy book for backstory. We get more backstory of Wulfe and Sherwood (
 
 Characterwise, as I said Wulfe is complicated and I love it. He's very old and crazy (perhaps because of it, perhaps he started that way) and started paying entirely more attention to Mercy. He's got the talents of vampire, wizard, and witch ({{<spoiler>}}and a *white* witch no less, that was a fascinating surprise{{</spoiler>}}). 
 
-We do finally get who Sherwood is (knew it was coming after {{<crosslink "Wild Sign">}}. And more Goblin King. And Zee being a scary protective father, plus why he's here in the first place. Good times. 
+We do finally get who Sherwood is (knew it was coming after [[Wild Sign]](). And more Goblin King. And Zee being a scary protective father, plus why he's here in the first place. Good times. 
 
 Getting deeper into what Mercy can do is fascinating. Coyote's domain is boundaries and that includes, death, so she's really getting into the spookier things of the world. I can always read more about that. The vampires and werewolves are cool, but it's the unique things that really build the world. 
 

@@ -21,7 +21,7 @@ reviews/writers:
 - Frank A. Cappello
 reviews/year: 2005
 ---
-Recently I went through and read the entire (modern) catalogue of {{<crosslink text="Hellblazer" title="Hellblazer, Vol. 1: Original Sins">}} and rewatched {{<crosslink "The Matrix">}}. So... let's give the 2005 Constantine film another try!
+Recently I went through and read the entire (modern) catalogue of {{<crosslink text="Hellblazer" title="Hellblazer, Vol. 1: Original Sins">}} and rewatched [[The Matrix]](). So... let's give the 2005 Constantine film another try!
 
 <!--more-->
 
@@ -43,7 +43,7 @@ Recently I went through and read the entire (modern) catalogue of {{<crosslink t
 > 
 > John Constantine: You should. He believes in you.
 
-Watching this back to back with {{<crosslink "The Matrix">}} is an amusing choice. Keanu Reeves is great... but he's very similar in the two. In one, he knows about another world consumed with war between man and machine--in the other, he knows about another world consumed with war between Heaven and Hell. 
+Watching this back to back with [[The Matrix]]() is an amusing choice. Keanu Reeves is great... but he's very similar in the two. In one, he knows about another world consumed with war between man and machine--in the other, he knows about another world consumed with war between Heaven and Hell. 
 
 Still, I quite enjoyed it. It's a good action flick with some neat philosophy on vaguely related to any real world beliefs (where it fits). Reeves as great, Shia LaBeouf is somewhat underused. Tilda Swinton as Gabriel is awesome and Peter Stormare is suitably terrifying.
 

@@ -26,7 +26,7 @@ reviews/writers:
 - Jay Wolpert
 reviews/year: 2006
 ---
-{{<crosslink "Pirates of the Caribbean: The Curse of the Black Pearl">}} was surprisingly good. So of course they're going to make a sequel and turn everything up to 11. More Johnny Depp (yay)! More love triangles (boo)! More supernatural beasties (awesome)! More mythology (sweet)!
+[[Pirates of the Caribbean: The Curse of the Black Pearl]]() was surprisingly good. So of course they're going to make a sequel and turn everything up to 11. More Johnny Depp (yay)! More love triangles (boo)! More supernatural beasties (awesome)! More mythology (sweet)!
 
 On the plus side, there's a lot to like. As mentioned Depp is still great. That's probably the number one reasons these movies are as awesome as they are. He just nails the roll. 
 

@@ -17,7 +17,7 @@ title: Use of Weapons
 
 Another day, another Culture novel. 
 
-After how much I liked {{<crosslink "Player of Games">}}, it's interesting how much less I got into Use of Weapons. Perhaps it's the setting and main character--Zakalwe is closer to Horza than Gurgeh. Perhaps it's the structure--with one set of chapters going forward in time, one going backward, and a prologue and epilogue after either of them, it's complicated. 
+After how much I liked [[The Player of Games]](), it's interesting how much less I got into Use of Weapons. Perhaps it's the setting and main character--Zakalwe is closer to Horza than Gurgeh. Perhaps it's the structure--with one set of chapters going forward in time, one going backward, and a prologue and epilogue after either of them, it's complicated. 
 
 Now don't get me wrong, it's certainly not a bad book. The Culture is a fascinating setting and getting into the darker corners is exactly where you learn the most about it. 
 

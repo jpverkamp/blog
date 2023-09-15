@@ -44,7 +44,7 @@ hammerspoonMode:bind('', 'l', function()
 end)
 ```
 
-Create a new `mode` for `⌘⌃+h` (for Hammerspoon), then you can hit `r` to reload or `l` to run my layout scripts (see {{<crosslink "Once Again, to Hammerspoon">}}). In both cases, I use `hammerspoonMode:exit()` to get back out of the context of the modal. If you don't do that, it won't think you're don, so any `r` you hit will reload Hammerspoon again... ask me how I know. :smile:
+Create a new `mode` for `⌘⌃+h` (for Hammerspoon), then you can hit `r` to reload or `l` to run my layout scripts (see [[Once Again, to Hammerspoon]]()). In both cases, I use `hammerspoonMode:exit()` to get back out of the context of the modal. If you don't do that, it won't think you're don, so any `r` you hit will reload Hammerspoon again... ask me how I know. :smile:
 
 ## Capture chords
 

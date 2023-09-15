@@ -21,7 +21,7 @@ isbn13: '9780140424393'
 rating: 3
 page_count: 453
 ---
-Well that's an odd sort of book. It's basically the story of the Fall of Satan plus Genesis, wrapped up in some crazy flowery poetry, writ long. It's been on my 'why not' list for a long time and hearing more about it in {{<crosslink "Daemon Voices">}} bumped it up a fair bit.
+Well that's an odd sort of book. It's basically the story of the Fall of Satan plus Genesis, wrapped up in some crazy flowery poetry, writ long. It's been on my 'why not' list for a long time and hearing more about it in [[Daemon Voices]]() bumped it up a fair bit.
 
 Am I glad to have read it? Yes. Is it a good book? Maybe. The poetry is absolutely beautiful in some places, but the story is one you've probably heard before, if you've any sort of judeo-christian upbringing, although it does embelish in spots. And oy does it get long. It thought there were 7 books for some reason, so when I finished number 7 and we're barely into Genesis..., well, I knew I was wrong about that. 
 

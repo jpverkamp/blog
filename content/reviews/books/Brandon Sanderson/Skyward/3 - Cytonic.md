@@ -18,9 +18,9 @@ title: Cytonic
 
 Well that was certainly a thing. 
 
-{{<crosslink "Skyward">}} introduced us to some far future humans trapped on a planet by terrifying aliens. Spensa learns how to fight, teachers her friends and allies how to be awesome, and saves the day from the aliens!
+[[Skyward]]() introduced us to some far future humans trapped on a planet by terrifying aliens. Spensa learns how to fight, teachers her friends and allies how to be awesome, and saves the day from the aliens!
 
-Then in {{<crosslink "Starsight">}}, we get off world. We're introduced us to some of those same aliens. Turns out they're people, more or less just like us. So Spensa learns how to spy, teachers her new friends and allies how to be awesome, and saves the day from the Eldrich Horrors From Beyond Space!
+Then in [[Starsight]](), we get off world. We're introduced us to some of those same aliens. Turns out they're people, more or less just like us. So Spensa learns how to spy, teachers her new friends and allies how to be awesome, and saves the day from the Eldrich Horrors From Beyond Space!
 
 So of course in Cytonic... Spensa goes Beyond Space. She adventures through all manners of weird environments, meets a bunch of Pirates From Beyond Space... And learns to fight, teachers her friends and allies how to be awesome, and saves the universe? 
 

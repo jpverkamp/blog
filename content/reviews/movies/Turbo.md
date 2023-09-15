@@ -27,7 +27,7 @@ Here in Turbo, there are really two to start out with: that snails have their ow
 
 And then there's the third assumption: that a snail could / would / should race in the Indianapolis 500[^2]... If the movie were about a race between animals (cheetahs, falcons, etc), sure. But something about cars racing a snail--I just couldn't do it. That was the straw that broke the camel of disbelief's back.
 
-That being said, Turbo had a few genuinely funny moments. The running White Shadow gag was funny and the other snails each had distinct enough personalities. {{<crosslink "Despicable Me 2">}} or {{<crosslink "Monsters University">}}) (if that's still in theaters).
+That being said, Turbo had a few genuinely funny moments. The running White Shadow gag was funny and the other snails each had distinct enough personalities. [[Despicable Me 2]]() or [[Monsters University]]()) (if that's still in theaters).
 
 Overall, it's okay. That's by far the best I could say. #19 it is.
 

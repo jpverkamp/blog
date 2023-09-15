@@ -8,7 +8,7 @@ programming/topics:
 - Window Managers
 - Productivity
 ---
-A quick somewhat hacky followup to {{<crosslink "Once Again, to Hammerspoon">}}: moving windows to the next/previous Space on a single screen. 
+A quick somewhat hacky followup to [[Once Again, to Hammerspoon]](): moving windows to the next/previous Space on a single screen. 
 
 <!--more-->
 

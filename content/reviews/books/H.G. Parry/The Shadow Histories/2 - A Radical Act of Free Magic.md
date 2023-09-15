@@ -16,7 +16,7 @@ series_index:
 - 2
 title: A Radical Act of Free Magic
 ---
-*A Radical Act of Free Magic* takes place right where {{<crosslink "A Declaration of the Rights of Magicians">}} leaves off. The French Revolution is well underway, Britain might very well be next, slaves are revolting, and there's this mysterious shadow operating behind the scenes...
+*A Radical Act of Free Magic* takes place right where [[A Declaration of the Rights of Magicians]]() leaves off. The French Revolution is well underway, Britain might very well be next, slaves are revolting, and there's this mysterious shadow operating behind the scenes...
 
 Add to that: Napoleon! Even more magic! Magical beasties a la {{<spoiler>}}a kraken and a dragon!{{</spoiler>}}! And EVEN MORE POLITICS. 
 

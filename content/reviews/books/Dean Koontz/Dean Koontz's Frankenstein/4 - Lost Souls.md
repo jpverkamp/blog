@@ -17,7 +17,7 @@ title: Lost Souls
 
 Victor Helios (né Frankenstein) is dead. Victor Leben (né Helios (né Frankenstein)) is *alive*. 
 
-With the events at the end of {{<crosslink "Dead and Alive">}}, we all knew there would be another book. Here it is! 
+With the events at the end of [[Dead and Alive]](), we all knew there would be another book. Here it is! 
 
 It's ... fine. It's got all the bits you'd need for a thriller, but I don't feel the villains as much. And there's *not really and ending*. It's very much part 1 of 2. At this point, you could easily stop at book 3... or read on to finish book 5. I suppose I'm in the latter camp. Onward!
 

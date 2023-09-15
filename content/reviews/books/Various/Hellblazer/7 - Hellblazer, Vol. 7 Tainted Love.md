@@ -15,7 +15,7 @@ rating: 5
 page_count: 320
 series_index: [7]
 ---
-Another solid volume. In particular, there's another volume about angels/demons/and the troubles they get into. It's not quite as good as the one in {{<crosslink "Hellblazer, Vol. 6: Bloodlines">}}, but still enjoyable. An interesting take on *Gabriel*, that's for sure. 
+Another solid volume. In particular, there's another volume about angels/demons/and the troubles they get into. It's not quite as good as the one in [[Hellblazer, Vol. 6: Bloodlines]](), but still enjoyable. An interesting take on *Gabriel*, that's for sure. 
 
 
 ## End of the Line

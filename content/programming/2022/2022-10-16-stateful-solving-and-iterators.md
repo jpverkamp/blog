@@ -10,7 +10,7 @@ programming/topics:
 - Puzzles
 - Sudoku
 ---
-[Rust](programming/languages/rust/), yet again! Let's take what we did last time with {{<crosslink "Solving Sudoku (again)">}} and improve the code structure a bit more. 
+[Rust](programming/languages/rust/), yet again! Let's take what we did last time with [[Solving Sudoku (again)]]() and improve the code structure a bit more. 
 
 Goals:
 
@@ -487,7 +487,7 @@ Nice.
 
 A few possibilities:
 
-* Implement different `nextStates` possibilities a la {{<crosslink "Immutable.js Solvers">}}
-* Implement other puzzles a la {{<crosslink "Solving Snakebird">}}
+* Implement different `nextStates` possibilities a la [[Immutable.js Solvers]]()
+* Implement other puzzles a la [[Solving Snakebird]]()
 
 Onward!

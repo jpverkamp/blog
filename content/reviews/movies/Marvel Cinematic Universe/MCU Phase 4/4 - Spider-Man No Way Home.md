@@ -27,7 +27,7 @@ reviews/writers:
 - Steve Ditko
 reviews/year: 2021
 ---
-Finally got around to watching this. I'm so glad I did, it's hilarious and an aboslute blast of nostalgia. Similar to {{<crosslink "Avengers: Endgame">}}, I don't know know if this would possibly hold up without the weight of all of the movies that came before it (I doubt it), but with that weight--it's really really good. 
+Finally got around to watching this. I'm so glad I did, it's hilarious and an aboslute blast of nostalgia. Similar to [[Avengers: Endgame]](), I don't know know if this would possibly hold up without the weight of all of the movies that came before it (I doubt it), but with that weight--it's really really good. 
 
 It's funny, it's touching, and there are some really crazy action scenes. But the greatest strength of course comes from {{<spoiler>}}bringing back a half dozen villains and all three modern live action Spider-Men into one film{{</spoiler>}}. Would anyone have believed something that crazy possible, especially before Infinity War/Endgame? I doubt it. But it's quite satisfying. 
 

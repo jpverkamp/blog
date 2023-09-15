@@ -13,7 +13,7 @@ rating: 5
 page_count: 172
 series_index: [6]
 ---
-An odd book. It's supposed to be #6 in the series, but really, it's a prequel to {{<crosslink "Network Effect">}}. There's not much you need to know between the two, so you can read them in either order and if it were up to me, I'd probably swap them (mostly because I want to know what happens next!), but it still works. 
+An odd book. It's supposed to be #6 in the series, but really, it's a prequel to [[Network Effect]](). There's not much you need to know between the two, so you can read them in either order and if it were up to me, I'd probably swap them (mostly because I want to know what happens next!), but it still works. 
 
 <!--more-->
 

@@ -28,7 +28,7 @@ reviews/writers:
 - Jay Wolpert
 reviews/year: 2017
 ---
-After the smash hit of the first three and the downer that was {{<crosslink "On Stranger Tides">}}, I was cautiously hopeful that they could pull something off with Dead Men Tell No Tales. And... they did? Sort of? 
+After the smash hit of the first three and the downer that was [[Pirates of the Caribbean: On Stranger Tides]](), I was cautiously hopeful that they could pull something off with Dead Men Tell No Tales. And... they did? Sort of? 
 
 <!--more-->
 

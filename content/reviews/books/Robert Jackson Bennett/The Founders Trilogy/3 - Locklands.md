@@ -16,7 +16,7 @@ title: Locklands
 ---
 > We’re all the result of countless actions and choices made throughout the centuries, and the odds of those actions and choices going the exact same way again are basically nil.
 
-Well that's certainly a finale! After {{<crosslink "Foundryside">}} started out as a nice bit of worldbuilding wrapped around a heist and {{<crosslink "Shorefall">}} turned things up to 11 with the return of the old, almost alien magic... Now we have Locklands with hive minds, epic immortal duals, and finally... a few answers. 
+Well that's certainly a finale! After [[Foundryside]]() started out as a nice bit of worldbuilding wrapped around a heist and [[Shorefall]]() turned things up to 11 with the return of the old, almost alien magic... Now we have Locklands with hive minds, epic immortal duals, and finally... a few answers. 
 
 Man that's a crazy (awesome) book. 
 

@@ -43,7 +43,7 @@ Otherwise, I actually really liked Gwyneth Paltrow's as Pepper Potts. It's good 
 
 Ben Kingsley still steal the show, although this time around I'm coming to see just how much range there was in Guy Pearce's Aldrich Killian. He pulled down on his luck geek up through brilliant and crazy mirror to Tony Stark all the way to {{< spoiler >}}fire breathing baddie{{< /spoiler >}} pretty darn well so far as action movies go.
 
-One that I didn't mention last time around, but made all the more apparent I think having just seen in her in {{<crosslink "Godzilla vs Kong">}}) was Rebecca Hall's performance as Maya Hansen. She does smart conflicted scientist very well in both films. 
+One that I didn't mention last time around, but made all the more apparent I think having just seen in her in [[Godzilla vs Kong]]()) was Rebecca Hall's performance as Maya Hansen. She does smart conflicted scientist very well in both films. 
 
 Plotwise, it was a fascinating way to deal with PTSD, even if does feel a bit sudden (although PTSD can do that) and could really have used a bit deeper dive (not really room for that in a summer blockbuster). 
 

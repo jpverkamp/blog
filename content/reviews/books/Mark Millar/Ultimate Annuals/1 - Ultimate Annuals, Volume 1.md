@@ -37,7 +37,7 @@ Fury has himself a new arms race… and not everyone is happy about that.
 Also Lieberman: Captain America 2.0. Inspiration for _Falcon and the Winter Solider_?
 
 ## Fantastic Four
-I already read this as part of {{<crosslink "Ultimate Fantastic Four Vol. 4: Inhuman">}}. Didn’t care overmuch for it then. 
+I already read this as part of [[Ultimate Fantastic Four Vol. 4: Inhuman]](). Didn’t care overmuch for it then. 
 
 Introduces the Inhumans… only for them to almost immediately take off. So it goes. 
 

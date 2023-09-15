@@ -17,7 +17,7 @@ title: The Golden Enclaves
 
 Wow. 
 
-Back when I first started {{<crosslink "A Deadly Education">}}, all we *really* knew was El and the Scholomance. A magic school that seemed to be going whole hog into the 'what doesn't kill you makes you stronger' style of teaching. El managed to not only survive, but thrive. And in {{<crosslink "The Last Graduate">}}, things seem to actually be going *well*. It all worked out. *Everyone*¹ is free, half the world's monsters are dead, El has the book that will teach her how to set up perfect independent Golden Enclaves, and the Scholomance has claimed it's last victims. 
+Back when I first started [[A Deadly Education]](), all we *really* knew was El and the Scholomance. A magic school that seemed to be going whole hog into the 'what doesn't kill you makes you stronger' style of teaching. El managed to not only survive, but thrive. And in [[The Last Graduate]](), things seem to actually be going *well*. It all worked out. *Everyone*¹ is free, half the world's monsters are dead, El has the book that will teach her how to set up perfect independent Golden Enclaves, and the Scholomance has claimed it's last victims. 
 
 ¹Except Orion. Stupid boy (not my words) refused to come out.
 

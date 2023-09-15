@@ -98,4 +98,4 @@ That is a fun one. I wonder if its been done IRL yet.
 
 [^Chris]: If you give it a try; think back. Is Chris a man or a woman? Or a robot first? I *love* how Scalzi handled this. 
 
-[^robot]: Side note: I'm using this for my 'Robot' {{<crosslink "2023 Book Bingo">}} square. Chris isn't a Robot, but Murderbot was clarified to count, thus (IMO) including cyborgs and given the nature of the story, I believe that Chris and other Haden's that almost entirely use threeps should count. That's an interesting conversation all it's own!
+[^robot]: Side note: I'm using this for my 'Robot' [[2023 Book Bingo]]() square. Chris isn't a Robot, but Murderbot was clarified to count, thus (IMO) including cyborgs and given the nature of the story, I believe that Chris and other Haden's that almost entirely use threeps should count. That's an interesting conversation all it's own!

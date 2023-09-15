@@ -13,7 +13,7 @@ series_index:
 - 1
 title: 'Wolverine: Old Man Logan, Vol. 1: Berzerker'
 ---
-And now, after {{<crosslink "Wolverine: Old Man Logan">}} in the apocalyptic future and {{<crosslink "Wolverine: Old Man Logan, Vol. 0: Warzones!">}} in Battleworld, we're finally back in the present--and, I assume, in the main universe? 
+And now, after [[Wolverine: Old Man Logan]]() in the apocalyptic future and [[Wolverine: Old Man Logan, Vol. 0: Warzones!]]() in Battleworld, we're finally back in the present--and, I assume, in the main universe? 
 
 Old Man Logan of course goes straight from shock to murder. If he's in the past (from his own point of view), well then of course he's going to have to *fix the future*. 
 

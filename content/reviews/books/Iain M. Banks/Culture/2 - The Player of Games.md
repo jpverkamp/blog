@@ -13,7 +13,7 @@ series_index:
 - 2
 title: The Player of Games
 ---
-I *really* liked this book. Far more than {{<crosslink "Consider Phlebas">}}. 
+I *really* liked this book. Far more than [[Consider Phlebas]](). 
 
 In a nutshell, the story follows Jernau Gurgeh, one of (if not the) best 'Player of Games' in the entire Culture. We had a hint of how important games could be in Consider Phlebas, with the stakes literally being life and death (although not of the player, /of course/), but here we see it can be so much more. 
 

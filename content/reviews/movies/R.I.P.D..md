@@ -32,6 +32,6 @@ One thing that I can give the movie is that it had a neat concept. The idea that
 On the flip side, the actual implementation of the undead was a bit problematic. Theoretically, they were supposed to represent warped versions of themselves based on their sins in life, but they all ended up looking sort of blobby and similar. Honestly, they looked like the aliens in the first Men in Black... which came out over 15 years ago. Add to that the film's big <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin">MacGuffin</a> being pretty nonsensical (and rather fake looking, if pretty) and you've got a bit of a problem. <a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/MacGuffin">
 </a>
 
-Overall, it was an OK movie. I wanted it to be better than it was, but at least I don't feel like my $5 was wasted. There are better movies in theaters{{<crosslink "Pacific Rim">}}) :smile:, but if you want something new, you could do worse. So I'll put it in at #13 so far, just under the halfway mark. Mayhaps I'll go home and watch Men in Black again.
+Overall, it was an OK movie. I wanted it to be better than it was, but at least I don't feel like my $5 was wasted. There are better movies in theaters[[Pacific Rim]]()) :smile:, but if you want something new, you could do worse. So I'll put it in at #13 so far, just under the halfway mark. Mayhaps I'll go home and watch Men in Black again.
 
 {{< ranking "2013 Movie Reviews" >}}

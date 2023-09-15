@@ -13,7 +13,7 @@ series_index:
 - 3
 title: Alpaca and Apparitions
 ---
-Pretty much the same vein as {{<crosslink "Succulents and Spells">}} and {{<crosslink "Microscopes and Magic">}}. It's quick, cute, and light on the action. 
+Pretty much the same vein as [[Succulents and Spells]]() and [[Microscopes and Magic]](). It's quick, cute, and light on the action. 
 
 Mostly, we get another point of view (Laurel's cousin Mildred, the 'fibre witch'). It was a bit jarring at first, I'm not always the best at similar names and really thought it was Marigold and I'd missed something big... but no, it's just a different character each time. 
 

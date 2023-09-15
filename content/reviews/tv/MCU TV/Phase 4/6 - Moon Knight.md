@@ -12,7 +12,7 @@ source:
 - Disney+
 cover: /embeds/tv/moon-knight.jpg
 ---
-That ... was truly bizarre. A main character with {{<wikipedia "dissociative identity disorder">}} where their powers deal with but *are not* caused by their disorder is fascinating (and truly weird to be watching at the same time as {{<crosslink "Altered Carbon: Season 1">}}...), the Egyptian background and characters are great, and there's are some pretty awesome scenes, fight and otherwise. 
+That ... was truly bizarre. A main character with {{<wikipedia "dissociative identity disorder">}} where their powers deal with but *are not* caused by their disorder is fascinating (and truly weird to be watching at the same time as [[Altered Carbon: Season 1]]()...), the Egyptian background and characters are great, and there's are some pretty awesome scenes, fight and otherwise. 
 
 Castingwise, Oscar Isaac is awesome. I'm amazed at how he brings both Marc and Steven to life. Ethan Hawke is a great maybe-baddie-but-maybe-just-a-different-point-of-view. And May Calamawy as Layla El-Faouly is a real stand out in just about everyway. I hope that we get to see more of them in the greater MCU, although I have no idea how that's going to work.
 

@@ -18,7 +18,7 @@ rating: 4
 ---
 > We should forgive our enemies, but not before they are hanged.
 
-Before They Are Hanged takes {{<crosslink "The Blade Itself">}} and takes everything up a notch. It's still a dark and twisted world, there are still terrible people on all sides... but now we have even more hints and worldbuilding on darker things coming. 
+Before They Are Hanged takes [[The Blade Itself]]() and takes everything up a notch. It's still a dark and twisted world, there are still terrible people on all sides... but now we have even more hints and worldbuilding on darker things coming. 
 
 Overall, it's a worthwhile continuation to the first story and I'm really looking forward to see where it goes next. The narration in particular remains well worth it. 
 

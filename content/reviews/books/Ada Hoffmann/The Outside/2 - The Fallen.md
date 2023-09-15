@@ -13,7 +13,7 @@ series_index:
 - 2
 title: The Fallen
 ---
-Ooh boy. After {{<crosslink "The Outside">}} set up the world and characters, ending with 'the Outside' coming in and wrecking havoc on the planet Jai, I wasn't sure what was next but I surely wanted to find out... I even noted in that review that there were sequels, and yet somehow I never got around to reading them. 
+Ooh boy. After [[The Outside]]() set up the world and characters, ending with 'the Outside' coming in and wrecking havoc on the planet Jai, I wasn't sure what was next but I surely wanted to find out... I even noted in that review that there were sequels, and yet somehow I never got around to reading them. 
 
 I'm so glad I did now. This is a wonderfully weird (at times) ride into what happened next. 
 

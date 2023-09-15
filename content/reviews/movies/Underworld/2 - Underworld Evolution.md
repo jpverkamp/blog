@@ -35,7 +35,7 @@ reviews/year: 2006
 series_index:
 - 2
 ---
-Quite an interesting contrast compared to the first {{<crosslink "Underworld">}}. Where the first was a straight forward vampire/werewolf urban fantasy action flick, Evolution tries to be more. We get deeper worldbuilding, more backstory--especially for Selene--and more hints that the entire world is changing. It works... well enough? 
+Quite an interesting contrast compared to the first [[Underworld]](). Where the first was a straight forward vampire/werewolf urban fantasy action flick, Evolution tries to be more. We get deeper worldbuilding, more backstory--especially for Selene--and more hints that the entire world is changing. It works... well enough? 
 
 <!--more-->
 

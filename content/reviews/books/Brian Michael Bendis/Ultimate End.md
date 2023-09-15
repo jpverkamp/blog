@@ -19,7 +19,7 @@ title: Ultimate End
 ---
 And so the Ultimate Universe ends... with a weird confusing mess of a send off? 
 
-It's sort of a companion to {{<crosslink "Secret Wars">}}, more specifically focusing on what is happening in the Earth-1610/Ultimate Universe part of the Battleworld... but it's not really necessary.
+It's sort of a companion to [[Secret Wars]](), more specifically focusing on what is happening in the Earth-1610/Ultimate Universe part of the Battleworld... but it's not really necessary.
 
 All you need to know is that this is the ... Ultimate End. 
 

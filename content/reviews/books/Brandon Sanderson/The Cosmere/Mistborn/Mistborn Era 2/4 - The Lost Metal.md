@@ -23,7 +23,7 @@ And so it ends. The second era of one of the more ambitious ideas in fantasy: ta
 
 <!--more-->
 
-If you're a big fan of the Cosmere (I fall into this bucket), this is a rather solid book. We get probably the most blatant crossovers we've seen so far (I'd argue more even than {{<crosslink "Rhythm of War">}}), as escalation of stakes (what's it like to be the newest god on the block), and a final send off for some of my favorite characters so far. 
+If you're a big fan of the Cosmere (I fall into this bucket), this is a rather solid book. We get probably the most blatant crossovers we've seen so far (I'd argue more even than [[Rhythm of War]]()), as escalation of stakes (what's it like to be the newest god on the block), and a final send off for some of my favorite characters so far. 
 
 On the other hand, if you've somehow only read Mistborn or even only Mistborn Era 2--or you just don't want the Cosmere interactions to be quite so obvious... well, this is probably not the book for you. And I expect (hope, sorry) that you're only going to grow more frustrated. 
 

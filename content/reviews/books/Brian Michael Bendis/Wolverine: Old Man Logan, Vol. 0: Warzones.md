@@ -15,7 +15,7 @@ series_index:
 - 31
 title: 'Wolverine: Old Man Logan, Vol. 0: Warzones!'
 ---
-A followup to {{<crosslink "Wolverine: Old Man Logan">}} and a quick stop in the Battleworlds that predate {{<crosslink "Secret Wars">}}. 
+A followup to [[Wolverine: Old Man Logan]]() and a quick stop in the Battleworlds that predate [[Secret Wars]](). 
 
 ![](/embeds/books/attachments/old-man-logan-0-textbundle-4b18b6.png)
 

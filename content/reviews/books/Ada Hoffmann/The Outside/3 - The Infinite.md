@@ -24,9 +24,9 @@ Oh that's quite a conclusion.
 > 
 > NEMESIS-1’s tone was serene. “Hell is the optimal solution.”
 
-In {{<crosslink "The Outside">}}, humanity found something Outside of the Gods' influence and managed to tear apart a large part of the world of Jai. In {{<crosslink "The Fallen">}}, they learned to live with it. 
+In [[The Outside]](), humanity found something Outside of the Gods' influence and managed to tear apart a large part of the world of Jai. In [[The Fallen]](), they learned to live with it. 
 
-And now in {{<crosslink "The Infinite">}}, it's time to learn more about the Gods themselves--what they really are and how they came to be... and perhaps it's time for the Gods' reigns to end. 
+And now in [[The Infinite]](), it's time to learn more about the Gods themselves--what they really are and how they came to be... and perhaps it's time for the Gods' reigns to end. 
 
 It's a fascinating story and, in my opinion, perhaps the best of the trilogy. At once, we get answers for just what lead to the world that the characters live in now--while at the same time opening so many more questions. What happened in the 700 years between the earliest and latest points of view in the book? What's going on in the rest of the universe? And what happens next?!
 

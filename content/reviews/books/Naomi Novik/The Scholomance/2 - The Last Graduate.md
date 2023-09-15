@@ -19,7 +19,7 @@ series_index: [2]
 
 El is a super dramatic senior--and she's got her reasons, with the whole potential Dark Goddess thing she has going on--and life is only getting weirder. She's determined to get *everyone* out, which doesn't make the least bit of sense and she's absolutely going to do it in world ending style. Oh, and of course there's Orion. What's up with that relationship, am I right? 
 
-Overall, if you loved {{<crosslink "A Deadly Education">}} (as I did), you're probably going to love The Last Graduate. It turns the whole Scholomance craziness up to 11, gives us a dark chosen one that actually kind of works within the world building, and I really do love and care for the characters. And if the cliff hanger at the end of book 1 wasn't enough... THERE'S AN EVEN WORSE ONE AND THE NEXT BOOK ISN'T EVEN OUT YET.
+Overall, if you loved [[A Deadly Education]]() (as I did), you're probably going to love The Last Graduate. It turns the whole Scholomance craziness up to 11, gives us a dark chosen one that actually kind of works within the world building, and I really do love and care for the characters. And if the cliff hanger at the end of book 1 wasn't enough... THERE'S AN EVEN WORSE ONE AND THE NEXT BOOK ISN'T EVEN OUT YET.
 
 Anyways. Read it. 
 

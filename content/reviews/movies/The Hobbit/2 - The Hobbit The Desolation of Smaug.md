@@ -24,7 +24,7 @@ reviews/writers:
 - J.R.R. Tolkien
 reviews/year: 2013
 ---
-Unless something bizarre happens, this will be the last movie of the year. Fitting, since a year and change ago, {{<crosslink "The Hobbit: An Unexpected Journey">}} was my last film of 2012[^1]
+Unless something bizarre happens, this will be the last movie of the year. Fitting, since a year and change ago, [[The Hobbit: An Unexpected Journey]]() was my last film of 2012[^1]
 
 <!--more-->
 

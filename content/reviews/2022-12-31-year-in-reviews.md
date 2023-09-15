@@ -7,7 +7,7 @@ reviews/lists:
 - 2022 Movie Reviews
 is_review_meta: true
 ---
-Another year's over... and a new one just begun. In years past, I've done a seperate post for my {{<crosslink "2021 Reading Retrospective">}} and {{<crosslink "2021 TV & Movies Retrospective">}}, but... that seems silly. Let's do them all together this year! 
+Another year's over... and a new one just begun. In years past, I've done a seperate post for my [[2021 Reading Retrospective]]() and [[2021 TV & Movies Retrospective]](), but... that seems silly. Let's do them all together this year! 
 
 In summary: 
 
@@ -39,20 +39,20 @@ Overall, I read entire runs of a bunch of graphic novels / comics / manga:
 
 In addition, I listened to several audiobook series:
 
-* {{<crosslink "Mercy Thompson">}} + {{<crosslink "Alpha & Omega">}} (13 + 5 + a few shorts, mostly relisten with one new book)
-* {{<crosslink "Mistborn">}} (7, [graphic audio](https://www.graphicaudio.net/) this time, they're great!, 1 new book)
-* {{<crosslink "The Murderbot Diaries">}} (5 novellas and 1 full length novel)
-* {{<crosslink "Wayfarers">}} (4)
-* {{<crosslink "The First Law">}} (3)
-* {{<crosslink "The Founders">}} (2, finishing in 2023)
+* [[Mercy Thompson]]() + [[Alpha & Omega]]() (13 + 5 + a few shorts, mostly relisten with one new book)
+* [[Mistborn]]() (7, [graphic audio](https://www.graphicaudio.net/) this time, they're great!, 1 new book)
+* [[The Murderbot Diaries]]() (5 novellas and 1 full length novel)
+* [[Wayfarers]]() (4)
+* [[The First Law]]() (3)
+* [[The Founders Trilogy]]() (2, finishing in 2023)
 
 And I read a few series as well:
 
-* {{<crosslink "The Shadow Histories">}} (2)
-* {{<crosslink "The Burning">}} (2)
-* {{<crosslink "The Tide Child">}} (2 of 3, finishing in 2023)
-* {{<crosslink "The Scholomance">}} (2 of 3, 3rd wasn't out then)
-* {{<crosslink "The Risen Kingdoms">}}
+* [[The Shadow Histories]]() (2)
+* [[The Burning]]() (2)
+* [[The Tide Child]]() (2 of 3, finishing in 2023)
+* [[The Scholomance]]() (2 of 3, 3rd wasn't out then)
+* [[The Risen Kingdoms]]()
 
 And finally, I had another ~35 that were individuals in one way or another. 
 
@@ -60,18 +60,18 @@ Overall, I had 30 books that weren't part of any series.
 
 Looking at it another way, I had 52 unique authors, with all but 9 at 1-3 books each. The big winners obviously go by series with:
 
-* {{<crosslink "Patricia Briggs">}} (27: Mercy Thompson + Alpha & Omega)
-* {{<crosslink "Mike Carey">}} (14, The Unwritten and some Hellblazer)
-* {{<crosslink "Kieron Gillen">}} (The Wicked + The Divine)
-* {{<crosslink "Brandon Sanderson">}} (Mistborn)
-* {{<crosslink "Peter Milligan">}} (Some Hellblazer)
-* {{<crosslink "Becky Chambers">}} (Wayfarers)
+* [[Patricia Briggs]]() (27: Mercy Thompson + Alpha & Omega)
+* [[Mike Carey]]() (14, The Unwritten and some Hellblazer)
+* [[Kieron Gillen]]() (The Wicked + The Divine)
+* [[Brandon Sanderson]]() (Mistborn)
+* [[Peter Milligan]]() (Some Hellblazer)
+* [[Becky Chambers]]() (Wayfarers)
 
-Looking at it another way, the oldest book I read was {{<crosslink "A Canticle for Leibowitz">}} from 1959. I only read 5 books from before 2000 though, which I feel I really should try to do better about. 6 of them were from this year alone ({{<crosslink "The Lost Metal">}}, {{<crosslink "Nettle & Bone">}}, {{<crosslink "Soul Taken">}}, {{<crosslink "Out of the Blue">}}, {{<crosslink "The Curse of the Constantines">}}, {{<crosslink text="Brothers of War" title="Brothers of War: The Iron Brigade at Gettysburg">}}), with another 22 from 2020 and 2021. Interesting to see that. 
+Looking at it another way, the oldest book I read was [[A Canticle for Leibowitz]]() from 1959. I only read 5 books from before 2000 though, which I feel I really should try to do better about. 6 of them were from this year alone ([[The Lost Metal]](), [[Nettle & Bone]](), [[Soul Taken]](), [[Out of the Blue]](), [[Hellblazer, Vol. 26: The Curse of the Constantines]](), {{<crosslink text="Brothers of War" title="Brothers of War: The Iron Brigade at Gettysburg">}}), with another 22 from 2020 and 2021. Interesting to see that. 
 
 Page wise, I read an average of 105 pages per day, which is right around where I usually end up. Of those, roughly 70 pages were from novels and 26 from graphic novels (so I'm not just reading graphic novels!). 60 pages per day were in a digital format (either ebook or graphic novel) and 35 per day were audiobooks. So I still read about 2/3 'traditional' books, but graphic novels and audio are a big chunk of it. 
 
-The longest book I read was... {{<crosslink "The Well of Ascension">}} at 590 pages. Not even Stormlight and it's still fairly massive. The shortest were shorts stories. Otherwise, I had 15 over 500 pages, another 15 over 400, and the majority in the 300-400 range with 43 books. A decent spread. 
+The longest book I read was... [[The Well of Ascension]]() at 590 pages. Not even Stormlight and it's still fairly massive. The shortest were shorts stories. Otherwise, I had 15 over 500 pages, another 15 over 400, and the majority in the 300-400 range with 43 books. A decent spread. 
 
 As always, I tend to read books that I think I'm going to like. 66 five-star, 53 four-star, and 8 three-star ratings for the year. C'est la vide. If you want to know if I think you'll like a book, ask me. I feel like that's a much better way to do these things. 
 
@@ -79,10 +79,10 @@ As always, I tend to read books that I think I'm going to like. 66 five-star, 53
 
 If you want a very quick final suggestion for what I found particularly awesome this year:
 
-* {{<crosslink "Wayfarers">}} - slice of life sci fi with a very different cast and feel for each book and some fascinating looks at what it means to be 'people'
-* {{<crosslink "The Murderbot Diaries">}} - an android (illegally) on it's own with a delightfully snarky sense of humor and a way of looking at the world I *just get*
-* {{<crosslink "Foundryside">}} - a magic system similar to one I've worked on before that's great (basically reprogramming reality by lying to it); warning: the sequels edge quite a bit closer to body/cosmic horror at times
-* {{<crosslink "Nettle & Bone">}} - a dark fairy tale writ large with bone dog necromancy (but in a cute way)
+* [[Wayfarers]]() - slice of life sci fi with a very different cast and feel for each book and some fascinating looks at what it means to be 'people'
+* [[The Murderbot Diaries]]() - an android (illegally) on it's own with a delightfully snarky sense of humor and a way of looking at the world I *just get*
+* [[Foundryside]]() - a magic system similar to one I've worked on before that's great (basically reprogramming reality by lying to it); warning: the sequels edge quite a bit closer to body/cosmic horror at times
+* [[Nettle & Bone]]() - a dark fairy tale writ large with bone dog necromancy (but in a cute way)
 
 ### Full list
 
@@ -94,21 +94,21 @@ Pretty crazy looking at it that way. :smile:
 
 Okay, TV time. As I mentioned, I watched 24 seasons of 15 unique shows:
 
-* {{<crosslink "Altered Carbon">}} - Season 1 was amazing, DNF Season 2
-* {{<crosslink "Arcane">}} - Amazing
-* {{<crosslink "Fruits Basket">}} - What was the point, DNF Season 2
-* {{<crosslink "I Am Groot">}} (MCU) - Short and cute
-* {{<crosslink "Locke & Key">}} - Different than the graphic novel, but still great
-* {{<crosslink "Moon Knight">}} (MCU) - Weird, I enjoyed it
-* {{<crosslink "Mr. Robot">}} - Even weirder, also enjoyed it
-* {{<crosslink "Schitt's Creek">}} - Not usually my thing, but really funny
-* {{<crosslink "Shadow and Bone">}} - Surprisingly good
-* {{<crosslink "She-Hulk: Attorney at Law">}} (MCU) - Interesting, but tonally strange; didn't like the finale
-* {{<crosslink "Star Wars: Visions">}} - Experimental
-* {{<crosslink "The Boys">}} - Rewatch, gruesome
-* {{<crosslink "The Orville">}} - Starts rough, but once it stops trying to be so funny it's much better
-* {{<crosslink "Trigun">}} - So weird
-* {{<crosslink "Umbrella Academy">}} - Like Locke & Key, different from the graphic novel but enjoyable
+* [[Altered Carbon]]() - Season 1 was amazing, DNF Season 2
+* [[Arcane]]() - Amazing
+* [[Fruits Basket]]() - What was the point, DNF Season 2
+* [[I Am Groot]]() (MCU) - Short and cute
+* [[Locke & Key]]() - Different than the graphic novel, but still great
+* [[Moon Knight]]() (MCU) - Weird, I enjoyed it
+* [[Mr. Robot]]() - Even weirder, also enjoyed it
+* [[Schitt's Creek]]() - Not usually my thing, but really funny
+* [[Shadow and Bone]]() - Surprisingly good
+* [[She-Hulk: Attorney at Law]]() (MCU) - Interesting, but tonally strange; didn't like the finale
+* [[Star Wars: Visions]]() - Experimental
+* [[The Boys]]() - Rewatch, gruesome
+* [[The Orville]]() - Starts rough, but once it stops trying to be so funny it's much better
+* [[Trigun]]() - So weird
+* [[The Umbrella Academy]]() - Like Locke & Key, different from the graphic novel but enjoyable
 
 A pretty good run. 
 
@@ -116,8 +116,8 @@ A pretty good run.
 
 With the exceptions of my DNFs, this was a good year for TV. My standouts are:
 
-* {{<crosslink "Altered Carbon: Season 1">}} - man that had so much potential; I really do recommend not even starting season 2 though
-* {{<crosslink "Arcane">}} - that's just spectacular looking with a story that's intense to match
+* [[Altered Carbon: Season 1]]() - man that had so much potential; I really do recommend not even starting season 2 though
+* [[Arcane]]() - that's just spectacular looking with a story that's intense to match
 
 Worth a look
 
@@ -129,10 +129,10 @@ Worth a look
 
 31 movies. Not bad. It's not quite the 54 of {{<crosslink text="last year" title="2021 TV & Movies Retrospective">}}, but still not bad. I did a few series rewatches this year, including:
 
-* {{<crosslink "Underworld">}}
-* {{<crosslink "The Matrix">}}
-* {{<crosslink "Pirates of the Caribbean">}}
-* {{<crosslink "Star Wars">}} (finishing from 2021)
+* [[Underworld]]()
+* [[The Matrix]]()
+* [[Pirates of the Caribbean]]()
+* [[Star Wars]]() (finishing from 2021)
 
 I also had a handful of movies with my children I hadn't reviewed before and a few new releases. 
 
@@ -140,9 +140,9 @@ I also had a handful of movies with my children I hadn't reviewed before and a f
 
 Some movies really worth a look:
 
-* {{<crosslink "Everything Everywhere All at Once">}} - oh that's wonderfully weird and weirdly wonderful, just go in and watch it
-* {{<crosslink "Encanto">}} - I expect you've seen it, but it's been stuck in my head all year, delightful
-* {{<crosslink "Spider-Man: No Way Home">}} - fan service out the wazoo, but just a fun movie; the Avengers of 2022, really
+* [[Everything Everywhere All at Once]]() - oh that's wonderfully weird and weirdly wonderful, just go in and watch it
+* [[Encanto]]() - I expect you've seen it, but it's been stuck in my head all year, delightful
+* [[Spider-Man: No Way Home]]() - fan service out the wazoo, but just a fun movie; the Avengers of 2022, really
 
 ### Full list (ranked)
 

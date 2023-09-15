@@ -70,7 +70,7 @@ reviews/series:
 - MCU Phase 4
 series_index: [29, 6]
 ---
-{{<crosslink "Thor">}} was probably the most underwhelming of Phase 1, {{<crosslink "Thor: The Dark World">}} tried to go more fantasy and was mostly forgettable, and {{<crosslink "Thor: Ragnarok">}} was a blast. Getting better all the time, so ... what about *Thor: Love and Thunder*?
+[[Thor]]() was probably the most underwhelming of Phase 1, [[Thor: The Dark World]]() tried to go more fantasy and was mostly forgettable, and [[Thor: Ragnarok]]() was a blast. Getting better all the time, so ... what about *Thor: Love and Thunder*?
 
 Good question. There's a lot to love about the movie: Hemsworth's sense of humor, Portman back and then some, Thompson's awesome and slightly awkward Valkyrie. And of course Bale plays a solidly terrifying baddy in Gorr. 
 

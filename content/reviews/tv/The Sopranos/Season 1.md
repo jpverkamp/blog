@@ -10,7 +10,7 @@ source:
 - HBOMax
 cover: /embeds/tv/sopranos-1.jpg
 ---
-After the crazy violence and nudity of {{<crosslink "Watchmen">}}, you'd think perhaps we'd go for something a little more ... safe for next time around. 
+After the crazy violence and nudity of [[Watchmen]](), you'd think perhaps we'd go for something a little more ... safe for next time around. 
 
 Nah. 
 

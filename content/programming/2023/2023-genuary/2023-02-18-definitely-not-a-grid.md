@@ -21,7 +21,7 @@ cover: /embeds/2023/genuary-18.png
 > 
 > -- Pablo Picasso (maybe)
 
-Copy {{<crosslink "Genuary 2023.17: A grid inside a grid inside a grid">}}; apply a bunch of translations and rotations. 
+Copy [[Genuary 2023.17: A grid inside a grid inside a grid]](); apply a bunch of translations and rotations. 
 
 *Definitely* not a grid any more. :smile:
 

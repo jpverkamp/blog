@@ -45,7 +45,7 @@ The backstory of Thomas Hao and Margaret Flanagan, the former of whom we see aga
 
 ## *Alpha and Omega* (*Shifting Shadows*, Novella, before *Alpha & Omega*)
 
-From my review of {{<crosslink "Cry Wolf">}}:
+From my review of [[Cry Wolf]]():
 
 > First off: no, you didn’t miss anything. This book really does start a few days after Anna’s and Charles’ are mated, skipping to the end of what essentially makes up the Alpha and Omega short story. It’s a bit of a rough start, especially since so much of Anna’s character comes from those events that we never actually see, but I think it works.
 

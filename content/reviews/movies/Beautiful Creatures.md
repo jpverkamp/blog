@@ -34,7 +34,7 @@ Also, what in the world kind of name is Macon?<a href="http://www.imdb.com/chara
 
 Still, the acting was solid enough, the action scenes were actually pretty cool, and the world seemed decently well thought out. I'm actually tempted to pick up the books. Perhaps they flesh out those details that couldn't make it into a two hour movie.
 
-Overall, it falls into the same category as {{<crosslink "Hansel & Gretel: Witch Hunters">}}. I actually really enjoyed it, but there just there aren't that many spots available as of yet. I still think {{<crosslink "Django Unchained">}} was better as an action movie and for making people think and {{<crosslink "Parental Guidance">}} was more solidly amusing. So for now, Beautiful Creatures takes third place. There are far worse ways to spend a few dollars / hours.
+Overall, it falls into the same category as [[Hansel & Gretel: Witch Hunters]](). I actually really enjoyed it, but there just there aren't that many spots available as of yet. I still think [[Django Unchained]]() was better as an action movie and for making people think and [[Parental Guidance]]() was more solidly amusing. So for now, Beautiful Creatures takes third place. There are far worse ways to spend a few dollars / hours.
 
 {{< ranking "2013 Movie Reviews" >}}
 ---
@@ -53,6 +53,6 @@ Also, what in the world kind of name is Macon?<a href="http://www.imdb.com/chara
 
 Still, the acting was solid enough, the action scenes were actually pretty cool, and the world seemed decently well thought out. I'm actually tempted to pick up the books. Perhaps they flesh out those details that couldn't make it into a two hour movie.
 
-Overall, it falls into the same category as {{<crosslink "Hansel & Gretel: Witch Hunters">}}. I actually really enjoyed it, but there just there aren't that many spots available as of yet. I still think {{<crosslink "Django Unchained">}} was better as an action movie and for making people think and {{<crosslink "Parental Guidance">}} was more solidly amusing. So for now, Beautiful Creatures takes third place. There are far worse ways to spend a few dollars / hours.
+Overall, it falls into the same category as [[Hansel & Gretel: Witch Hunters]](). I actually really enjoyed it, but there just there aren't that many spots available as of yet. I still think [[Django Unchained]]() was better as an action movie and for making people think and [[Parental Guidance]]() was more solidly amusing. So for now, Beautiful Creatures takes third place. There are far worse ways to spend a few dollars / hours.
 
 {{< ranking "2013 Movie Reviews" >}}

@@ -25,7 +25,7 @@ reviews/writers:
 - Jonathan Glassner
 reviews/year: 2008
 ---
-That was a far better movie (in my opinion) than {{<crosslink "Stargate: The Ark of Truth">}}. It basically felt like a slightly higher budget two part episode (although those already tended to be good) of the series and actually gave a chance to say goodbye to a few more people: In particularly Ba'al (RIP) and O'Neill, who really needed it. Not to mention a callback to the real villains of the show: The Goa'uld. 
+That was a far better movie (in my opinion) than [[Stargate: The Ark of Truth]](). It basically felt like a slightly higher budget two part episode (although those already tended to be good) of the series and actually gave a chance to say goodbye to a few more people: In particularly Ba'al (RIP) and O'Neill, who really needed it. Not to mention a callback to the real villains of the show: The Goa'uld. 
 
 In a nutshell, Ba'al is caught about about to be extracted. He sets up some time travel shenanigans and people start to vanish and everything changes. It's a story we've seen before (both time travel and parallel worlds which this feels more like), but it's generally an enjoyable one. 
 

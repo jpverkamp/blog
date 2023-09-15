@@ -17,7 +17,7 @@ title: Crucible of Gold
 
 Well that's an interesting one. On one hand, I'm glad they're out of Australia. Instead, they're off across the Pacific... to Brazil and the Portuguese royal family. Of course things don't go as expected. Crossing the Pacific is one mess and meeting up with the Inca and how they deal with dragons was pretty fascinating--they're still a power to be reckoned with in this world, mostly on the backs of their local dragons. 
 
-It's still not up to the strengths of {{<crosslink "Victory of Eagles">}}, mostly because the travels and exploration was never the original draw of the series--the Napoleon but *dragons* was, and we've scant little of that. This time around... we do at least get the war, which is pretty cool. So it's a decent book. 
+It's still not up to the strengths of [[Victory of Eagles]](), mostly because the travels and exploration was never the original draw of the series--the Napoleon but *dragons* was, and we've scant little of that. This time around... we do at least get the war, which is pretty cool. So it's a decent book. 
 
 <!--more-->
 

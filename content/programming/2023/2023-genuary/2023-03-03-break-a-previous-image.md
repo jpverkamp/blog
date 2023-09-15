@@ -23,7 +23,7 @@ Let's do it!
 
 Ouch. 
 
-Based on {{<crosslink "Genuary 2023.19: Black and white">}}
+Based on [[Genuary 2023.19: Black and white]]()
 
 Still kinda cool looking. 
 

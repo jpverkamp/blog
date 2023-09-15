@@ -28,6 +28,6 @@ Really, I only have one gripe with the movie--the father. I've already forgotten
 
 On a last side note: I find it highly amusing that this movie is rated PG. I wonder if that's just how it worked out or if they specifically tried to get that rating?
 
-In any case, it's a funny enough movie, but I still have to put it belong {{<crosslink "Django Unchained">}}. But if you just want a quick, fun pick-me-up, go for it.
+In any case, it's a funny enough movie, but I still have to put it belong [[Django Unchained]](). But if you just want a quick, fun pick-me-up, go for it.
 
 {{< ranking "2013 Movie Reviews" >}}

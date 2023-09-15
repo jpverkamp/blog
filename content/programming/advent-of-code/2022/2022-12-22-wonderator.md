@@ -568,7 +568,7 @@ took 4.83525ms
 
 ## Writing a rendering function
 
-In case you're wondering, the rendering uses the same basic framework as I did in {{<crosslink "AoC 2022 Day 14: Sandinator">}}, just with a rendering function aware of the map + handling the face effects. Here's the colorful one:
+In case you're wondering, the rendering uses the same basic framework as I did in [[AoC 2022 Day 14: Sandinator]](), just with a rendering function aware of the map + handling the face effects. Here's the colorful one:
 
 ```rust
 impl Map {

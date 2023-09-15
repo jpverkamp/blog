@@ -17,7 +17,7 @@ series_index: [2]
 ---
 > Life is terrifying. None of us have a rule book. None of us know what we're doing here. So, the easiest way to stare reality in the face and not utterly lose your shit is to believe that you have control over it. If you believe you have control, then you believe you're at the top. And if you're at the top, then people who aren't like you... well, they've got to be somewhere lower, right? Every species does this. Does it again and again and again. Doesn't matter if they do it to themselves, or another species, or someone they created.
 
-Oh. Wow. {{<crosslink "The Long Way to a Small, Angry Planet">}} felt like lightning in a bottle. Something amazing--a look at the life in a long haul spaceship full of strange and wonderful characters--that I wasn't sure how it could possibly be continued. 
+Oh. Wow. [[The Long Way to a Small, Angry Planet]]() felt like lightning in a bottle. Something amazing--a look at the life in a long haul spaceship full of strange and wonderful characters--that I wasn't sure how it could possibly be continued. 
 
 Turns out... just like this. This is a very very good sequel. 
 
