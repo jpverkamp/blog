@@ -67,7 +67,7 @@ Looking at it another way, I had 52 unique authors, with all but 9 at 1-3 books 
 * [[Peter Milligan]]() (Some Hellblazer)
 * [[Becky Chambers]]() (Wayfarers)
 
-Looking at it another way, the oldest book I read was [[A Canticle for Leibowitz]]() from 1959. I only read 5 books from before 2000 though, which I feel I really should try to do better about. 6 of them were from this year alone ([[The Lost Metal]](), [[Nettle & Bone]](), [[Soul Taken]](), [[Out of the Blue]](), [[Hellblazer, Vol. 26: The Curse of the Constantines]](), {{<crosslink text="Brothers of War" title="Brothers of War: The Iron Brigade at Gettysburg">}}), with another 22 from 2020 and 2021. Interesting to see that. 
+Looking at it another way, the oldest book I read was [[A Canticle for Leibowitz]]() from 1959. I only read 5 books from before 2000 though, which I feel I really should try to do better about. 6 of them were from this year alone ([[The Lost Metal]](), [[Nettle & Bone]](), [[Soul Taken]](), [[Out of the Blue]](), [[Hellblazer, Vol. 26: The Curse of the Constantines]](), [[Brothers of War: The Iron Brigade at Gettysburg|Brothers of War]]()), with another 22 from 2020 and 2021. Interesting to see that. 
 
 Page wise, I read an average of 105 pages per day, which is right around where I usually end up. Of those, roughly 70 pages were from novels and 26 from graphic novels (so I'm not just reading graphic novels!). 60 pages per day were in a digital format (either ebook or graphic novel) and 35 per day were audiobooks. So I still read about 2/3 'traditional' books, but graphic novels and audio are a big chunk of it. 
 
@@ -127,7 +127,7 @@ Worth a look
 
 ## Movies
 
-31 movies. Not bad. It's not quite the 54 of {{<crosslink text="last year" title="2021 TV & Movies Retrospective">}}, but still not bad. I did a few series rewatches this year, including:
+31 movies. Not bad. It's not quite the 54 of [[2021 TV & Movies Retrospective|last year]](), but still not bad. I did a few series rewatches this year, including:
 
 * [[Underworld]]()
 * [[The Matrix]]()

@@ -52,7 +52,7 @@ And then ... the Maximoffs.
 > 
 > Maria Hill: He's fast, she's weird.
 
-It's kind of crazy how powerful they are. Superspeed is one of those powers that you need to deal with carefully or you'll overpower everything else and mind control... oy. Wanda is one of the most terrifying Avengers in everything she's in, right up there with the Hulk. It's lovely what they've done over the years and films/{{<crosslink text="shows" title="WandaVision">}} since then. 
+It's kind of crazy how powerful they are. Superspeed is one of those powers that you need to deal with carefully or you'll overpower everything else and mind control... oy. Wanda is one of the most terrifying Avengers in everything she's in, right up there with the Hulk. It's lovely what they've done over the years and films/[[WandaVision|shows]]() since then. 
 
 A few other notes: 
 

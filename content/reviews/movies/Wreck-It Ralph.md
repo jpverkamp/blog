@@ -20,7 +20,7 @@ reviews/writers:
 - Jennifer Lee
 reviews/year: 2012
 ---
-Okay, now that was just a fun movie.  Sometimes, when you have what's ostensibly a kid's movie, you get what basically amounts to a {{<crosslink text="pile of juvenile humor" title="Hotel Transylvania">}}. Granted, Wreck-It Ralph had a few such moments (duty/doody), but in those cases they came from the adorable little girl, so it just felt much more organic than when you had adult characters doing the same.
+Okay, now that was just a fun movie.  Sometimes, when you have what's ostensibly a kid's movie, you get what basically amounts to a [[Hotel Transylvania|pile of juvenile humor]](). Granted, Wreck-It Ralph had a few such moments (duty/doody), but in those cases they came from the adorable little girl, so it just felt much more organic than when you had adult characters doing the same.
 
 <!--more-->
 

@@ -1,20 +1,27 @@
 {{-
-if (or (and (strings.HasPrefix .PlainText "[")
-            (strings.HasSuffix .PlainText "]")
-            (eq .Destination ""))
-       (and (strings.HasPrefix .Destination "[")
-            (strings.HasSuffix .Destination "]")))
+if (and (strings.HasPrefix .PlainText "[")
+        (strings.HasSuffix .PlainText "]")
+        (eq .Destination ""))
 -}}
     {{- /*
         Crosslink of the forms:
             [[Title]]() 
-            [Text]([Title])
+            [[Title|Text]]()
     */ -}}
 
+    {{- if gt (strings.Count .PlainText "|") 1 -}}
+    {{ errorf "Markdown crosslink error in %s, multiple | in %s" .Page.File.Path .PlainText }}
+    {{- end -}}
+
     {{- $scratch := newScratch -}}
-    {{- $simpleMode := eq .Destination "" -}}
-    {{- $title := replace (substr (cond $simpleMode .PlainText .Destination) 1 -1) "&rsquo;" "'"  -}}
-    {{- $text := cond $simpleMode $title .PlainText -}}
+
+    {{- $fixedText := substr .PlainText 1 -1 }}
+    {{- $fixedText := (replace $fixedText "&lsquo;" "'") -}}
+    {{- $fixedText := (replace $fixedText "&rsquo;" "'") -}}
+
+    {{- $parts := split $fixedText "|"  -}}
+    {{- $title := index $parts 0 -}}
+    {{- $text := index $parts (sub (len $parts) 1) -}}
 
     {{- $scratch.Set "crosslink-written" false -}}
 
@@ -26,13 +33,7 @@ if (or (and (strings.HasPrefix .PlainText "[")
     {{- end -}}
 
     {{- if (not ($scratch.Get "crosslink-written")) -}}
-    {{ errorf 
-        "Markdown crosslink error in %s, simpleMode: %t, for title: %s, title: %s" 
-        .Page.File.Path
-        $simpleMode
-        $title
-        $text
-    }}
+    {{ errorf "Markdown crosslink error in %s, for title: %s, title: %s" .Page.File.Path $title $text }}
     {{- end -}}
 
 {{- else -}}

@@ -36,7 +36,7 @@ I think that--for once--I was the perfect audience for this movie. Just geeky en
 
 <!--more-->
 
-Just like the {{<crosslink text="first one" title="The Amazing Spider-Man">}}, I like {{< wikipedia page="Andrew Garfield's" text="Andrew Garfield" >}} Spider-Man far more than {{< wikipedia page="Tobey Maguire's" text="Tobey Maguire" >}}. He just nails the sarcastic teen suddenly thrust into power.
+Just like the [[The Amazing Spider-Man|first one]](), I like {{< wikipedia page="Andrew Garfield's" text="Andrew Garfield" >}} Spider-Man far more than {{< wikipedia page="Tobey Maguire's" text="Tobey Maguire" >}}. He just nails the sarcastic teen suddenly thrust into power.
 
 One definite plus that this film had over its predecessor is the villain. Lizard is just strange and his 'evil plan' never made particularly much sense. Electro on the other hand? At first, seeing the trailers, I was skeptical. A dubstep powered villain? In Saints Row perhaps, but in Spider-Man? But actually, it works. {{< wikipedia "Jamie Foxx" >}} really sells the role and the fight scenes are just flat out pretty. They could have done a bit better with the whole 'Gwen Stacy just happens to know how the power grid works' bit, but so it goes.
 

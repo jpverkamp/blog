@@ -24,7 +24,7 @@ Up this time, let's see what the official `redis-cli` app does when talking to o
 
 ## Testing the client
 
-Okay, first things first. I mentioned {{<crosslink text="last time" title="Redis in Rust: A REPL Client [Part 3]">}} that I wanted to see how my server reacted to the official client, so let's do that:
+Okay, first things first. I mentioned [[Redis in Rust: A REPL Client [Part 3]|last time]]() that I wanted to see how my server reacted to the official client, so let's do that:
 
 ```bash
 $ RUST_LOG=debug cargo run --bin server

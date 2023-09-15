@@ -20,7 +20,7 @@ bingo-data:
   2023 Book Bingo:
   - 4x4+
 ---
-Browsing through Netflix last fall, I came upon {{<crosslink text="Shadow and Bone" title="Shadow and Bone: Season 1">}}. Watched it. Quite enjoyed it. Figured I should read the book. 
+Browsing through Netflix last fall, I came upon [[Shadow and Bone: Season 1|Shadow and Bone]](). Watched it. Quite enjoyed it. Figured I should read the book. 
 
 In a nutshell, it's not bad, but I enjoyed the show more. For one, it pulls in Kaz and co, which don't appear in this novel at all (they're originally from the related Six of Crows books), which is a bummer. For two, the additional dynamic of Alina as half-Shu in addition to being an orphan added rather a lot to her character. 
 

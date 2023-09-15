@@ -14,7 +14,7 @@ programming/topics:
 series:
 - StackLang
 ---
-I enjoy writing programming languages. {{<crosslink text="Example: Tiny" title="A 'Tiny' virtual machine in Racket">}}. Let’s do that again. 
+I enjoy writing programming languages. [[A 'Tiny' virtual machine in Racket|Example: Tiny]](). Let’s do that again. 
 
 This time, StackLang:
 

@@ -13,7 +13,7 @@ series:
 ---
 Okay, in [[Proc Macro Workshop: derive(Builder) [Part 1]]]() we created a `derive(Builder)` macro to implement the {{<wikipedia "builder pattern">}}. We created a new `*Builder` struct, created methods to set each field in a chain, and allowed some fields to be optional. 
 
-So what's left? (Be sure to start with {{<crosslink text="Part 1" title="Proc Macro Workshop: derive(Builder) [Part 1]">}} if you haven't read that!)
+So what's left? (Be sure to start with [[Proc Macro Workshop: derive(Builder) [Part 1]|Part 1]]() if you haven't read that!)
 
 {{<toc>}}
 

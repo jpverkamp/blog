@@ -37,7 +37,7 @@ reviews/writers:
 reviews/year: 2018
 ---
 
-All that. Ten years. 18 movies. Dozens of huge name actors and crossovers, all leading to this. {{< crosslink "The Avengers" >}} gave us a team up, but Infinity War turned it all up to 11. The battle scenes are insane (especially that final battle in Wakanda, especially especially the return of Thor), the villain--Josh Brolin as Thanos--is powerful and {{< spoiler >}}ACTUALLY GETS A CHANCE TO WIN{{</ spoiler >}}, and I absolutely love seeing the interplay between all of the characters.
+All that. Ten years. 18 movies. Dozens of huge name actors and crossovers, all leading to this. [[The Avengers]]() gave us a team up, but Infinity War turned it all up to 11. The battle scenes are insane (especially that final battle in Wakanda, especially especially the return of Thor), the villain--Josh Brolin as Thanos--is powerful and {{< spoiler >}}ACTUALLY GETS A CHANCE TO WIN{{</ spoiler >}}, and I absolutely love seeing the interplay between all of the characters.
 
 > Thanos: Daughter.
 > 
@@ -50,7 +50,7 @@ All that. Ten years. 18 movies. Dozens of huge name actors and crossovers, all l
 > Thanos: ...Everything.
 
 
-In my opinion, the interplay between the characters is far better than in either {{< crosslink "The Avengers" >}} or {{< crosslink "Age of Ultron" >}}. The senses of humor felt natural to each. My particular favorites were seeing Iron Man and Doctor Strange ("Dude, you're embarrassing me in front of the wizards") and Thor meeting Quill and the Guardians. 
+In my opinion, the interplay between the characters is far better than in either [[The Avengers]]() or [[Avengers: Age of Ultron]](). The senses of humor felt natural to each. My particular favorites were seeing Iron Man and Doctor Strange ("Dude, you're embarrassing me in front of the wizards") and Thor meeting Quill and the Guardians. 
 
 > [the Guardians bring Thor aboard]
 > 

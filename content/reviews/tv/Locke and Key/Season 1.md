@@ -12,7 +12,7 @@ source:
 - Netflix
 cover: /embeds/tv/locke-and-key-season-1.jpg
 ---
-I really enjoyed the {{<crosslink text="Locke & Key graphic novels" title="Locke & Key, Vol. 1: Welcome to Lovecraft">}}, so of course I had to give the TV show a try. Turns out: also really good. While they changed a few things with the details of how the keys worked that are probably more efficient to do in TV (not opening the tops of people's heads for instance), it's still got the same wonderfully creepy dark magical vibe. I do love the actors--Bode in particular does his part very well, as do his siblings. 
+I really enjoyed the [[Locke & Key, Vol. 1: Welcome to Lovecraft|Locke & Key graphic novels]](), so of course I had to give the TV show a try. Turns out: also really good. While they changed a few things with the details of how the keys worked that are probably more efficient to do in TV (not opening the tops of people's heads for instance), it's still got the same wonderfully creepy dark magical vibe. I do love the actors--Bode in particular does his part very well, as do his siblings. 
 
 Man that's a crazy show. Well worth the show (warning, it is dark, although not overly graphic). On to season 2!
 

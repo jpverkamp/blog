@@ -263,6 +263,6 @@ test result: FAILED. 57 passed; 2 failed; 0 ignored; 0 measured; 0 filtered out;
 error: test failed, to rerun pass `--bin stacklang`
 ```
 
-When I first started writing these, I had a couple more failures, mostly because I hadn't actually implemented {{<crosslink text="stacks" title="StackLang Part VIII: Compiler Stacks">}} yet (yes, these posts are out of order). But now, I'm only missing loop lists / apply in the compiler version. Everything else is good to go. 
+When I first started writing these, I had a couple more failures, mostly because I hadn't actually implemented [[StackLang Part VIII: Compiler Stacks|stacks]]() yet (yes, these posts are out of order). But now, I'm only missing loop lists / apply in the compiler version. Everything else is good to go. 
 
 And now, whenever I do any major refactoring... the tests should show me what I mess up. Pretty cool. 

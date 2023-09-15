@@ -25,7 +25,7 @@ Or, given that it's the Ultimate Marvel Universe... is Peter Parker himself the 
 
 Oy. 
 
-Of all the Ultimate Marvel titles, [[Ultimate Spider-Man]]() ({{<crosslink text="continued" title="Ultimate Comics Spider-Man (2009)">}}) has been by far the most consistently good. Often great. He's a good kid and consistently tries to do his best. 
+Of all the Ultimate Marvel titles, [[Ultimate Spider-Man]]() ([[Ultimate Comics Spider-Man (2009)|continued]]()) has been by far the most consistently good. Often great. He's a good kid and consistently tries to do his best. 
 
 Well worth the read. 
 

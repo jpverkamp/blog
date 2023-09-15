@@ -26,7 +26,7 @@ reviews/writers:
 - Ned Benson
 reviews/year: 2021
 ---
-The first time I've been to theaters since... {{< crosslink "Avengers: Endgame" >}}. Man it's been a weird few years. Which actually wraps up Black Widow pretty well.
+The first time I've been to theaters since... [[Avengers: Endgame]](). Man it's been a weird few years. Which actually wraps up Black Widow pretty well.
 
 On one hand, it's a fairly solid action/spy movie. There are a number of spectacular action scenes, a deep dive into Black Widow--it's akin to an origin story, but filling in a character we already knew a decent amount of back rather than introducing someone new, which was nice--and the introduction of a few new characters I expect we'll see more of. After the absolutely draining intensity of Infinity War/Endgame plus just how dark the followup shows have been, it was nice to have something relatively 'lighter' and smaller in scope.
 

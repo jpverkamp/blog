@@ -16,7 +16,7 @@ cover: /embeds/tv/umbrella-academy-1.jpg
 >
 > Sir Reginald Hargreeves, eccentric billionaire and adventurer, resolved to locate and adopt as many of the children as possible.
 
-Oh that's quite a show. After {{<crosslink text="reading through the graphic novels" title="The Umbrella Academy, Vol. 1: The Apocalypse Suite">}}, it's a rather different experience. The core is the same, even if details are a bit different.
+Oh that's quite a show. After [[The Umbrella Academy, Vol. 1: The Apocalypse Suite|reading through the graphic novels]](), it's a rather different experience. The core is the same, even if details are a bit different.
 
 Colm Feore as Reginald Hargreeves is my favorite casting. He reminds me as Michael Douglas as Dr. Hank Pym in Ant-Man.
 

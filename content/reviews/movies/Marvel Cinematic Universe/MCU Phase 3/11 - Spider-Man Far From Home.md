@@ -28,11 +28,11 @@ reviews/writers:
 reviews/year: 2019
 ---
 
-As much as I loved {{< crosslink "Spider-Man: Homecoming" >}}, Spider-Man: Far From Home takes what made it great and turns it up a few levels *even further*.
+As much as I loved [[Spider-Man: Homecoming]](), Spider-Man: Far From Home takes what made it great and turns it up a few levels *even further*.
 
 One one level, you have Spider-Man being Spider-Man. He's a good kid, trying to make his way in life, trying to deal with the dual life of being a highschooler and being a superhero--of saving the world and perhaps getting the girl.
 
-And then you layer all the weight of the greater MCU on top of it. This takes place just after {{< crosslink "Avengers: Endgame" >}}. So you have the fallout of Iron Man (Spider-Man's mentor/Uncle Ben figure) being gone and Spider-Man having to step into *those* shoes, the first big mention of The Blip--and how you deal with coming back and the world has changed, and all sorts of dealing with a Nick Fury who's lost several of his heaviest hitters.
+And then you layer all the weight of the greater MCU on top of it. This takes place just after [[Avengers: Endgame]](). So you have the fallout of Iron Man (Spider-Man's mentor/Uncle Ben figure) being gone and Spider-Man having to step into *those* shoes, the first big mention of The Blip--and how you deal with coming back and the world has changed, and all sorts of dealing with a Nick Fury who's lost several of his heaviest hitters.
 
 And if *that* wasn't enough, you have the first hints of a multiverse ({{< spoiler >}}even if *this time* it was all a lie{{< /spoiler >}}). Jake Gyllenhaal as Quentin Beck / Mysterio is a great addition to the series and the MCU. I so want to see more of him. We'll just have to see. 
 

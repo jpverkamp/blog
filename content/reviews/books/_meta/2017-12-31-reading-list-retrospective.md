@@ -5,7 +5,7 @@ reviews/lists:
 - 2017 Book Reviews
 is_review_meta: true
 ---
-Another year of reading. I easily beat my official goal of 50 with 84 books (finished the {{<crosslink text="last one" title="Boundary Born">}}) a few hours before the end of the year). Unfortunately, it still feels like something of a failure, down from my [original 100 book year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}) and [last year's]({{< ref "2016-12-31-reading-list-retrospective.md" >}}) 91. Yes, I'm just crazy enough that 84 books in a year feels like a failure. :smile:
+Another year of reading. I easily beat my official goal of 50 with 84 books (finished the [[Boundary Born|last one]]()) a few hours before the end of the year). Unfortunately, it still feels like something of a failure, down from my [original 100 book year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}) and [last year's]({{< ref "2016-12-31-reading-list-retrospective.md" >}}) 91. Yes, I'm just crazy enough that 84 books in a year feels like a failure. :smile:
 
 A few stats:
 

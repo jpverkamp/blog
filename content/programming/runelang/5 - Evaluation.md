@@ -15,7 +15,7 @@ As they say, life is what happens when you're making other plans. But I'm back, 
 
 <!--more-->
 
-So far, we've {{<crosslink text="described the language" title="Runelang: Language Specification">}}, {{<crosslink text="wrote a lexer" title="Runelang: The Lexer">}}, and parsed both {{<crosslink text="nodes, parameters, and lists" title="Runelang: The Parser (Part 1)">}} and {{<crosslink text="more complicated expressions, literals, and an expression sublanguage" title="Runelang: The Parser (Part 2: Expressions)">}}. 
+So far, we've [[Runelang: Language Specification|described the language]](), [[Runelang: The Lexer|wrote a lexer]](), and parsed both [[Runelang: The Parser (Part 1)|nodes, parameters, and lists]]() and [[Runelang: The Parser (Part 2: Expressions)|more complicated expressions, literals, and an expression sublanguage]](). 
 
 Next up? Evaluation!
 
@@ -640,7 +640,7 @@ And... that's it. It's a bit of a long writeup and I probably could have gone in
 
 {{<wikipedia "Vegvísir">}}. 
 
-It's something that I always wanted to do with my older {{<crosslink text="rune DSL" title="A DSL for rendering magic circles and runes">}} but couldn't make work. Now I did!
+It's something that I always wanted to do with my older [[A DSL for rendering magic circles and runes|rune DSL]]() but couldn't make work. Now I did!
 
 (Fully functional, give it a try and see what you can make!)
 

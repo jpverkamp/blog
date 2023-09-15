@@ -35,7 +35,7 @@ reviews/year: 2017
 
 Ooh, that poster. *le kiss*
 
-{{< crosslink "Thor" >}} was ... fine, a weirdly downscale introduction to a kind of strange character early in the MCU. {{< crosslink "Thor: The Dark World" >}} went the other way, being too bigt and ambitious and suffering somewhat for it. So going into Thor: Ragnarok, I wasn't sure what we were going to get.
+[[Thor]]() was ... fine, a weirdly downscale introduction to a kind of strange character early in the MCU. [[Thor: The Dark World]]() went the other way, being too bigt and ambitious and suffering somewhat for it. So going into Thor: Ragnarok, I wasn't sure what we were going to get.
 
 An absolute gem of an 80s sci fi/fantasy action superhero comedy that just works. Right from the very intro, you know it's going to be a different sort of movie. They lean hard into the Norse/Asgardian mythos, with Thor in the underworld, chained up (but not concerned) by a giant flaming skeleton who's supposed to signify the end of days. One spectacular Thor'ful action scene later and we're back on Asgard, dealing with the missing Odin. Then we're off to Earth, only to bump into Doctor Strange, now fully into his powers. 
 
@@ -65,7 +65,7 @@ And that's not even all, we also have the introduction of another Asgardian: Val
 
 I think my only real gripe with Thor and the Asgardians in general: It still makes absolutely no sense what can and cannot hurt them. Fall 30 minutes or through the atmosphere of a planet? No worries. Get barely stabbed? x_x. Maybe it's the royal family? It's still pretty crazy.
 
-All that said, it's a fantastic movie and the first MCU movie to break into my Captain America top 3. Quite a ways up from the first two Thor movies and well worth the watch. As a contrast to {{< crosslink "Guardians of the Galaxy Vol. 2" >}}, this is very much a movie that you could just watch by itself. 
+All that said, it's a fantastic movie and the first MCU movie to break into my Captain America top 3. Quite a ways up from the first two Thor movies and well worth the watch. As a contrast to [[Guardians of the Galaxy Vol. 2]](), this is very much a movie that you could just watch by itself. 
 
 {{< ranking "Marvel Cinematic Universe" >}}
 

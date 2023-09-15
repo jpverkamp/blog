@@ -34,7 +34,7 @@ reviews/writers:
 - Michael Lark
 reviews/year: 2014
 ---
-From {{<crosslink text="one of the weakest" title="Thor: The Dark World">}} MCU movies to one of the strongest. I loved the first solo entry of Captain American and the second is even better. Much like {{<crosslink text="last time" title="Captain America: The Winter Soldier">}}, I very much enjoyed this movie. 
+From [[Thor: The Dark World|one of the weakest]]() MCU movies to one of the strongest. I loved the first solo entry of Captain American and the second is even better. Much like [[Captain America: The Winter Soldier|last time]](), I very much enjoyed this movie. 
 
 It's a solid contrast against the first Captain America (blind optimistic patriotism versus a darker world, where even your friends... might not be). It's made all the better having already seen the future of Sam and Bucky/The Winter Soldier now. Last time through, I was hoping they could pull off all the new characters and now... I think they did. 
 

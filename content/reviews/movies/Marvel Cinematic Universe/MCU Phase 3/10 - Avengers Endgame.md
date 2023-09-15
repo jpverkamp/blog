@@ -41,7 +41,7 @@ Wow.
 
 That's one heck of a climax. 
 
-In {{< crosslink "Avengers: Infinity War" >}}, Thanos won. He snapped and half of the universe died--let's ignore the logistics of that. In Endgame, there's a chance--a very small chance--that they can fix it all. All they need is a little --
+In [[Avengers: Infinity War]](), Thanos won. He snapped and half of the universe died--let's ignore the logistics of that. In Endgame, there's a chance--a very small chance--that they can fix it all. All they need is a little --
 
 > Tony Stark: [discussing the "Time Heist"] I believe the most likely outcome will be our collective demise.
 > 

@@ -13,7 +13,7 @@ rating: 5
 page_count: 410
 series_index: [2]
 ---
-{{< crosslink "An Alchemy of Masques and Mirrors" >}} was a delightful surprise of a book, with unique/excellent worldbuilding, fun characters, great wordsmithing, and a solid mystery of a plot. A Labyrinth of Scions and Sorcery has all three once again, although we mostly lose the mystery of the of first book and get a bunch of politics instead. Don't get me wrong, it's still great, it just took me a bit to get into the tonal shift. 
+[[An Alchemy of Masques and Mirrors]]() was a delightful surprise of a book, with unique/excellent worldbuilding, fun characters, great wordsmithing, and a solid mystery of a plot. A Labyrinth of Scions and Sorcery has all three once again, although we mostly lose the mystery of the of first book and get a bunch of politics instead. Don't get me wrong, it's still great, it just took me a bit to get into the tonal shift. 
 
 Worldbuildingwise, we mostly only saw deadly shadows and mirror walkers in the first book, but this time around, we really get an expansion into all the different forms of sorcery in this world--along with an actual scientific look into how it works and how it can be abused. That's something that I really prefer in books--I like being able to understand how the magic works or, failing that, have the feeling that the characters at least do--and LoSaS (it's such a long title) delivers that in spades. 
 

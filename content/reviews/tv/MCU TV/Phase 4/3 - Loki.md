@@ -12,11 +12,11 @@ source:
 - Disney+
 cover: /embeds/tv/loki.jpg
 ---
-Another MCU made for Disney+ TV outing. After the amazing {{< crosslink "WandaVision" >}} and {{< crosslink "Falcon and the Winter Soldier" >}}, Loki had a high bar to clear. In my nutshell: they nailed it. 
+Another MCU made for Disney+ TV outing. After the amazing [[WandaVision]]() and [[The Falcon and the Winter Soldier]](), Loki had a high bar to clear. In my nutshell: they nailed it. 
 
 > I am Loki of Asgard, and I am burdened with glorious purpose.
 
-Loki (the character) is fascinating. He started out a well cast mostly villain of his own in {{< crosslink "Thor" >}} and became the first recurring villain in {{< crosslink "The Avengers" >}}. And after that, he's back again and again in each of the Thor and Avengers movies. In a universe where every other villain (even Thanos) is basically a one and done, it's a fascinating way to do it. On top of that, he's interesting. Over the years, he's grown to be rather likeable (if you ignore the fact that he's killed how many people?) and even a hero. So of course when you set him up as the protagonist of his own show... expect great things. 
+Loki (the character) is fascinating. He started out a well cast mostly villain of his own in [[Thor]]() and became the first recurring villain in [[The Avengers]](). And after that, he's back again and again in each of the Thor and Avengers movies. In a universe where every other villain (even Thanos) is basically a one and done, it's a fascinating way to do it. On top of that, he's interesting. Over the years, he's grown to be rather likeable (if you ignore the fact that he's killed how many people?) and even a hero. So of course when you set him up as the protagonist of his own show... expect great things. 
 
 Combine that with a plot centered around the Time Variance Authority, a giant bureaucracy set up to maintain the 'Sacred Timeline'. In a universe rife with time travel and potentially parallel universe shenanigans, it's actually a pretty fascinating idea. Give it a 1950s retro future aesthetic and you get one heck of a setting. 
 

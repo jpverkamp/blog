@@ -8,7 +8,7 @@ programming/topics:
 ---
 Another quick Hugo post. One thing I miss about my previous blogging platform(s) was the ability to generate quick links between posts just by using the title of the post. So rather than this:
 
-{{< crosslink title="Crosslinks by Title in Hugo" text="a cool post" >}}
+[[Crosslinks by Title in Hugo|a cool post]]()
 
 
 ```markdown

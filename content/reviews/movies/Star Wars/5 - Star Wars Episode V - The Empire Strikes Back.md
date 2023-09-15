@@ -35,7 +35,7 @@ Anyways.
 
 It's quite a solid action adventure movie, builds on the Star Wars mythos, and really brings home just how outmatched the rebellion is--but they have something to fight for and they're surely going to fight anyways. I really enjoy the burgeoning relationship between Leia and Solo as well as the training montages in particularly with Skywalker. Yoda is hilarious and a great contrast of to 'wise master Obi Wan' from the first film. 
 
-Plotwise, there's less mass murder this time around (see my {{<crosslink text="A New Hope" title="Star Wars: Episode IV - A New Hope">}} review), making the rebellion's plight to survive much less questionable. It's also interesting to see more neutral parties getting drug in, specifically Lando and his Cloud City. It really begins to have the feel of a galactic-scale conflict.
+Plotwise, there's less mass murder this time around (see my [[Star Wars: Episode IV - A New Hope|A New Hope]]() review), making the rebellion's plight to survive much less questionable. It's also interesting to see more neutral parties getting drug in, specifically Lando and his Cloud City. It really begins to have the feel of a galactic-scale conflict.
 
 Random thought: C-3PO's curiously specific odds seem so very wrong on later listening. How was there supposed to be a 1 in a few hundred chance of surviving in the freezing cold night? And of course, asteroid fields shouldn't be nearly that deadly, but we'll leave that up to rule of cool. 
 

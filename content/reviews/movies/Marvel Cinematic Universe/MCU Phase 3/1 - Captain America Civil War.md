@@ -60,7 +60,7 @@ And then we have Black Panther:
 
 Plotwise, it's pretty much a straight forward action adventure / summer blockbuster romp, but the idea of the good guys breaking apart and fighting has rarely (if ever) been done better than can be done with superheroes. The satisfaction of two teams of vastly differently powered beings squaring off and punching the heck out of each other is oh so satisfying. I miss the Hulk and Thor, but it's probably for the best they weren't about. 
 
-Overall, as I mentioned, my favorite movie in the MCU thus far and as such my favorite this year. Well well well worth the watch. It's kind of amusing to see all three 'Captain America' films top the list, especially in reverse order, but I stand by it. If you take the [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/all-marvel-cinematic-universe-movies-ranked/) scores, it's not that far off, although {{< crosslink "The Avengers" >}}, {{< crosslink "Guardians of the Galaxy" >}}, and {{< crosslink "Iron Man" >}} are rated higher. I can see it. To each their own. 
+Overall, as I mentioned, my favorite movie in the MCU thus far and as such my favorite this year. Well well well worth the watch. It's kind of amusing to see all three 'Captain America' films top the list, especially in reverse order, but I stand by it. If you take the [Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/all-marvel-cinematic-universe-movies-ranked/) scores, it's not that far off, although [[The Avengers]](), [[Guardians of the Galaxy]](), and [[Iron Man]]() are rated higher. I can see it. To each their own. 
 
 {{< ranking "Marvel Cinematic Universe" >}}
 

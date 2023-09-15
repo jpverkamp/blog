@@ -20,7 +20,7 @@ rating: 3
 page_count: 320
 series_index: [7]
 ---
-I think that for the most part The Wyrmling Horde takes everything I mentioned in {{< crosslink "Worldbinder" >}} and does a bit more of that. There are some really fascinating worldbuilding ideas being explored here, although I miss the smaller scope of just the Endowments and possibly the wizards of the early books.  The characters are cool--and I do actually find the inversions of several of them fascinating--but we're also missing a few faces that I really wish we would see more of. Plotwise... nothing much actually seems to happen. 
+I think that for the most part The Wyrmling Horde takes everything I mentioned in [[Worldbinder]]() and does a bit more of that. There are some really fascinating worldbuilding ideas being explored here, although I miss the smaller scope of just the Endowments and possibly the wizards of the early books.  The characters are cool--and I do actually find the inversions of several of them fascinating--but we're also missing a few faces that I really wish we would see more of. Plotwise... nothing much actually seems to happen. 
 
 And now... the series will probably not be finished[^rip]. One more. We'll have to see how it goes. 
 

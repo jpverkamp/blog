@@ -21,7 +21,7 @@ reviews/writers:
 - Frank A. Cappello
 reviews/year: 2005
 ---
-Recently I went through and read the entire (modern) catalogue of {{<crosslink text="Hellblazer" title="Hellblazer, Vol. 1: Original Sins">}} and rewatched [[The Matrix]](). So... let's give the 2005 Constantine film another try!
+Recently I went through and read the entire (modern) catalogue of [[Hellblazer, Vol. 1: Original Sins|Hellblazer]]() and rewatched [[The Matrix]](). So... let's give the 2005 Constantine film another try!
 
 <!--more-->
 

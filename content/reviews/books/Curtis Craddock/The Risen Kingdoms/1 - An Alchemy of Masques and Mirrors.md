@@ -18,7 +18,7 @@ rating: 5
 page_count: 416
 series_index: [1]
 ---
-Well that was delightful. One of the reasons I'm really glad for the {{< crosslink "2021 Book Bingo" >}}. I don't know when/if I would have found this book, if not for that, and I really quite enjoyed it. It's got great steampunky worldbuilding (with some hints of body horror I honestly feel steampunk should probably have more of), royal/courtly intrigue, wonderful characters, and some delightful writing (with a French twist to the word choices that I don't see much of). Well worth the read and I'm absolutely going to see where this story goes next. 
+Well that was delightful. One of the reasons I'm really glad for the [[2021 Book Bingo]](). I don't know when/if I would have found this book, if not for that, and I really quite enjoyed it. It's got great steampunky worldbuilding (with some hints of body horror I honestly feel steampunk should probably have more of), royal/courtly intrigue, wonderful characters, and some delightful writing (with a French twist to the word choices that I don't see much of). Well worth the read and I'm absolutely going to see where this story goes next. 
 
 Vaguely spoilerly warning: There are a number of moments leaning of body horror through this book, especially towards the end. It's not a huge part of the overall plot, but if that's something that bothers you, this may not be the book for you. 
 

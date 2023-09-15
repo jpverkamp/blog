@@ -13,7 +13,7 @@ series_index:
 - 4
 title: Empire of Ivory
 ---
-{{<crosslink text="There" title="Throne of Jade">}} and {{<crosslink text="back again" title="Black Powder War">}}... and now everydragon left behind in Britain is deathly ill! So of course it's up to Laurence and Temeraire to save the day!
+[[Throne of Jade|There]]() and [[Black Powder War|back again]]()... and now everydragon left behind in Britain is deathly ill! So of course it's up to Laurence and Temeraire to save the day!
 
 As it seems to be the case in each of these books past the first, we're off on an adventure! Novik really does like showing off the world as it was in that time period. This time around, to the Cape of Africa (and eventually across the interior). We get to meet new and interesting friends, enemies, and dragons along the way; along with all sorts of fun* moral problems of the era (and in general). 
 

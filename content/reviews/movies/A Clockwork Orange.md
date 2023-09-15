@@ -17,7 +17,7 @@ reviews/writers:
 reviews/year: 1971
 ---
 
-It turns out that a {{<crosslink text="very strange book" title="A Clockwork Orange">}} makes for an even strange film. Who would have thought?
+It turns out that a [[A Clockwork Orange|very strange book]]() makes for an even strange film. Who would have thought?
 
 <!--more-->
 

@@ -37,7 +37,7 @@ reviews/writers:
 reviews/year: 2017
 ---
 
-After the surprisingly awesome {{< crosslink "Guardians of the Galaxy" >}}, it was really a question of: could they do it again? The answer, a resounding... sort of?
+After the surprisingly awesome [[Guardians of the Galaxy]](), it was really a question of: could they do it again? The answer, a resounding... sort of?
 
 Don't get me wrong, Guardians of the Galaxy Vol. 2 has some pretty awesome moments. The opening battle in particular is spectacular (I love the contrast of dancing Baby Groot against a big smack down in the background). And we get all piles of additional humor based around Drax's literalness, Rocket being a racoon, ...
 

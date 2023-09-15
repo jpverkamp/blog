@@ -17,7 +17,7 @@ title: Ultimatum
 ---
 Well. That’s a thing. 
 
-Wrapped up in the events of {{<crosslink text="Ultimate Spider-Man" title="Ultimate Spider-Man, Volume 22: Ultimatum">}}, we have Ultimatum: Magneto flipped the poles and killed millions—including a number of heroes we know. Knew. 
+Wrapped up in the events of [[Ultimate Spider-Man, Volume 22: Ultimatum|Ultimate Spider-Man]](), we have Ultimatum: Magneto flipped the poles and killed millions—including a number of heroes we know. Knew. 
 
 It’s a bloody transition. A lot of it feels more designed to sock than anything. And it certainly does that. 
 

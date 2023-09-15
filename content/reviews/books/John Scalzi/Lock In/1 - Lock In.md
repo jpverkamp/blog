@@ -20,7 +20,7 @@ bingo-data:
 ---
 > Making people change because you can’t deal with who they are isn’t how it’s supposed to be done. What needs to be done is for people to pull their heads out of their asses. You say ‘cure.’ I hear ‘you’re not human enough.
 
-Been a bit since I last read {{<crosslink text="any Scalzi" title="Old Man's War">}}. I'm glad to get back around to it though. Lock In is very good. 
+Been a bit since I last read [[Old Man's War|any Scalzi]](). I'm glad to get back around to it though. Lock In is very good. 
 
 In a nutshell, Lock In takes place in a near future Earth where a flu-like pandemic (Haden's Syndrome) has caused {{<wikipedia "locked-in syndrome">}} in some small percent of the world's population (a small percent of billions is still an awful lot of people). Those affected are completely paralyzed, unable to move, while still being fully aware and conscious. 
 

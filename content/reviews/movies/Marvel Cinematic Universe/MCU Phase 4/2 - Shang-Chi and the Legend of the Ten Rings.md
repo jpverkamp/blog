@@ -39,7 +39,7 @@ He's undoubtedly a 'good' guy. I wouldn't be overly surprised to seeing him step
 
 On top of that, we have Awkwafina as Katy, 'mundane' best friend/wingwoman who is *absolutely* there for Shaun whenever he needs her and hilarious to boot. We have Tony Chiu-Wai Leung as Xu Wenwu, Shaun's birth father / big bad of the piece. I don't even have to spoiler that, given how obvious it is in the intro. But oh does he ever nail the combination of man twisted by power after living a thousand years with a potential redemption arc. Florian Munteanu as Razor Fist... was something you only see in comic books. A man with a sword for his arm? Absolutely insane, but he sold it. 
 
-And then of course... one of the absolute gems of the movie was the return of Ben Kingsley as Trevor Slattery. We haven't seen him since {{< crosslink "Iron Man 3" >}}, where he played a fake 'Mandarin', terrorist warlord of the Ten Rings. Now of course, we get the real Ten Rings and the real inspiration for the Slattery's character: Tony Chiu-Wai Leung as Xu Wenwu. Meng'er Zhang as Shaun's sister Xialing was a little un-emotive for my tastes (I wonder if that's a cultural thing?) but her fight scenes were wonderful. 
+And then of course... one of the absolute gems of the movie was the return of Ben Kingsley as Trevor Slattery. We haven't seen him since [[Iron Man 3]](), where he played a fake 'Mandarin', terrorist warlord of the Ten Rings. Now of course, we get the real Ten Rings and the real inspiration for the Slattery's character: Tony Chiu-Wai Leung as Xu Wenwu. Meng'er Zhang as Shaun's sister Xialing was a little un-emotive for my tastes (I wonder if that's a cultural thing?) but her fight scenes were wonderful. 
 
 > [Morris discovers Trevor's still body, and mourns]
 > 

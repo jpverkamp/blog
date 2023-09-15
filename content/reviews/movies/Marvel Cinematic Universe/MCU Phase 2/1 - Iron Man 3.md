@@ -47,7 +47,7 @@ One that I didn't mention last time around, but made all the more apparent I thi
 
 Plotwise, it was a fascinating way to deal with PTSD, even if does feel a bit sudden (although PTSD can do that) and could really have used a bit deeper dive (not really room for that in a summer blockbuster). 
 
-Other than that, feel free to give my {{<crosslink text="previous review" title="Iron Man 3">}} a look. I haven't really changed my opinion much, but it's interesting to see the two 8 years apart. A lot can change in 8 years... Both so far as the MCU and in my own life. Some things change, some things stand the tests of time. 
+Other than that, feel free to give my [[Iron Man 3|previous review]]() a look. I haven't really changed my opinion much, but it's interesting to see the two 8 years apart. A lot can change in 8 years... Both so far as the MCU and in my own life. Some things change, some things stand the tests of time. 
 
 I think this time around, I'll slot it in just below the Avengers on both lists. I think Iron Man 3 might actually be the better movie in a lot of ways, but the Avengers I think wins just on sheer spectacle. Feel free to disagree. :) It's all made up numbers anyways. 
 

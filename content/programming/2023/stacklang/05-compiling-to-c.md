@@ -33,7 +33,7 @@ Full source code for StackLang: [github:jpverkamp/stacklang](https://github.com/
 
 ## The goal
 
-So previously, I {{<crosslink text="wrote an interpreter" title="StackLang Part IV: An Interpreter">}} that can run StackLang programs. It works well enough and is great for hacking on features, but on the other hand:
+So previously, I [[StackLang Part IV: An Interpreter|wrote an interpreter]]() that can run StackLang programs. It works well enough and is great for hacking on features, but on the other hand:
 
 * It's pretty slow. Generating a 1024x768x8 Mandelbrot image takes ~2m15s even in release mode with the VM vs 2s in the initial compiler. No, that's not a typo. 
 * It redoes the lex + parse + run on each run, versus building a binary that just runs

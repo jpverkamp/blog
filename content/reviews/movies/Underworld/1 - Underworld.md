@@ -44,7 +44,7 @@ In short, Underworld follows a world where Vampires and Werewolves exist and hav
 
 Visualwise, it's so very washed over color, almost entirely black and white with a cold blue overtone. And it's all so dark and dreary. But... Vmapires. It fits. Between that and the music, it really feels a lot like the Matrix at times. But it works. 
 
-Castingwise, Kate Beckinsale as Selene does Hot Vampire Warrior Woman well, Scott Speedman as Michael does straightman Human thrown into this mess well enough, and Sophia Myles as Erika nails Vampiric 'Hell Hath No Fury'. But the really spectacular part of the movie is the big name vampire and werewolve: Bill Nighy as (Elder Vampire) Viktor and Michael Sheen as (Werewolf Leader) Lucian. Man the two of them act the heck out of the roles. I love Bill Nighy's monster rolls (see {{<crosslink text="The Pirates of the Caribbean" title="Pirates of the Caribbean: Dead Man's Chest">}})) and Sheen contrast it well. 
+Castingwise, Kate Beckinsale as Selene does Hot Vampire Warrior Woman well, Scott Speedman as Michael does straightman Human thrown into this mess well enough, and Sophia Myles as Erika nails Vampiric 'Hell Hath No Fury'. But the really spectacular part of the movie is the big name vampire and werewolve: Bill Nighy as (Elder Vampire) Viktor and Michael Sheen as (Werewolf Leader) Lucian. Man the two of them act the heck out of the roles. I love Bill Nighy's monster rolls (see [[Pirates of the Caribbean: Dead Man's Chest|The Pirates of the Caribbean]]())) and Sheen contrast it well. 
 
 I think the only casting/character I don't care for is Shane Brolly as (vampire) Kraven. He's... mostly just winey and unlikeble, but I don't really even understand where he's really going with the roll. 
 

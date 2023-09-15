@@ -13,7 +13,7 @@ rating: 5
 page_count: 432
 series_index: [3]
 ---
-Where {{< crosslink "An Alchemy of Masques and Mirrors" >}} was mystery and religious fiddling and {{< crosslink "A Labyrinth of Scions and Sorcery" >}} was a political story, culminating in a fall of power (or at least a shift), The Last Uncharted Sky shifts yet again. This time we have a (aero)nautical adventure with skyships, pirates, lost treasures, and found families. Really, it's a wonderful exploration of just how wonderful and strange the world we've been allowed to inhabit for just a little while. 
+Where [[An Alchemy of Masques and Mirrors]]() was mystery and religious fiddling and [[A Labyrinth of Scions and Sorcery]]() was a political story, culminating in a fall of power (or at least a shift), The Last Uncharted Sky shifts yet again. This time we have a (aero)nautical adventure with skyships, pirates, lost treasures, and found families. Really, it's a wonderful exploration of just how wonderful and strange the world we've been allowed to inhabit for just a little while. 
 
 <!--more-->
 

@@ -10,7 +10,7 @@ source:
 - Netflix
 cover: /embeds/tv/schitts-creek-season-1.jpg
 ---
-Tonally... *very* different from {{<crosslink text="Mr. Robot" title="Mr. Robot: Season 4">}}. Bit of whiplash from that. 
+Tonally... *very* different from [[Mr. Robot: Season 4|Mr. Robot]](). Bit of whiplash from that. 
 
 In a nutshell, a rich family loses everything... but the town they bought for a joke (see? rich). Now they have to go live there, with the overblown locals. A whole new way of life to learn and all the hilarious complications that come from that. 
 

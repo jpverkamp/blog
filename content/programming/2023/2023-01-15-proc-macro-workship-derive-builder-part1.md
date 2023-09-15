@@ -11,7 +11,7 @@ series:
 - "Proc Macro Workshop"
 - "Proc Macro Workshop: derive(Builder)"
 ---
-While continuing to learn a bit more about macros in Rust ({{<crosslink text="previous post" title="Writing a curry! macro for MacroKata">}}), I really want to move beyond the simple declarative macros and get into something a bit more interesting. Enter [procedural macros](https://doc.rust-lang.org/reference/procedural-macros.html). In a nutshell, procedural macros in Rust, rather than relying entirely on pattern matching and expansion are fully Rust functions. 
+While continuing to learn a bit more about macros in Rust ([[Writing a curry! macro for MacroKata|previous post]]()), I really want to move beyond the simple declarative macros and get into something a bit more interesting. Enter [procedural macros](https://doc.rust-lang.org/reference/procedural-macros.html). In a nutshell, procedural macros in Rust, rather than relying entirely on pattern matching and expansion are fully Rust functions. 
 
 They take a specific input (a stream of tokens) and output a specific output (a new stream of tokens), but in between they can do just about anything a full Rust function can do. And what's better yet... they operate at compile time. And because they operate on tokens (rather than a full AST), you can do things that just aren't syntactically valid in normal Rust. Things like... {{<wikipedia "variadic functions">}} (a la `print!` or `var!`) or even crazier things like [embedding Python in Rust](https://docs.rs/inline-python/latest/inline_python/) for ... reasons. 
 

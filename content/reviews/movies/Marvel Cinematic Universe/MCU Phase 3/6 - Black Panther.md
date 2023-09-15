@@ -56,7 +56,7 @@ Another thing that was a bit weird about the movie--although more of a nitpick--
 
 In any case, a solid movie, right up at the top of my MCU movies overall/for the year. Man the MCU is doing amazing things. Well worth the watch. Onward!
 
-Random note the first: Man. Chadwick Boseman having been diagnosed with stage 3 colon cancer in 2016, around the release of {{< crosslink "Captain America: Civil War" >}} and two years before the release of Blank Panther. He was undergoing treatment this whole time. And he still acted the heck out of these roles. Truly a wonderful man. 
+Random note the first: Man. Chadwick Boseman having been diagnosed with stage 3 colon cancer in 2016, around the release of [[Captain America: Civil War]]() and two years before the release of Blank Panther. He was undergoing treatment this whole time. And he still acted the heck out of these roles. Truly a wonderful man. 
 
 Random note the second, I love this joke: There are only two white characters on the movie poster--Martin Freeman's Everett K. Ross and Andy Serkis' Ulysses Klaue. Given that the former was Bilbo and the latter Gollum in the Lord of the Rings, they're the ... Tolkien white guys. Wonderful. :D
 
