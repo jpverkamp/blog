@@ -16,7 +16,7 @@ programming/topics:
 
 If you'd like to follow along with the code, I've pushed it as a GitHub Gist here: <a href="https://gist.github.com/jpverkamp/6896457">jpverkamp/6896457</a>. 
 
-The idea is one that was first presented to me in a second year undergraduate programming languages course and really shows the strengths of {{< wikipedia "lambda calculus" >}}[^2]. You don't need vectors to build lists--all you need are functions.
+The idea is one that was first presented to me in a second year undergraduate programming languages course and really shows the strengths of [[wiki:lambda calculus]]()[^2]. You don't need vectors to build lists--all you need are functions.
 
 To get started, the basic functions that we want are equivalents to `car`/`first`, `cdr`/`rest`, and `cons`/`pair`. If we can build those, the rest will follow. The main obstacle is reversing how we think of lists. Rather than `cons` building lists and `car` and `cdr` taking them apart, `cons` will create a function which knows how to do either. All `car` and `cdr` have to do is tell it which to do. That may sound like black magic, but lets take a look:
 

@@ -13,7 +13,7 @@ From time to time when doing web development, you need to test something related
 
 In those cases, how can you test functionality that specifically interacts with HTTPS?
 
-Today I will show you `autohttps`, a thin nginx proxy using Docker and a {{< wikipedia "self signed certificate" >}} to automatically create an HTTPS proxy in front of your application.
+Today I will show you `autohttps`, a thin nginx proxy using Docker and a [[wiki:self signed certificate]]() to automatically create an HTTPS proxy in front of your application.
 
 <!--more-->
 
@@ -230,6 +230,6 @@ That will make `https://localhost:445` work and serve whatever is running on 800
 
 It's all wrapped up in my dotfiles: [autohttps](https://github.com/jpverkamp/dotfiles/blob/master/bin/autohttps) (that's why the Dockerfile and nginx config are in the Python script rather than separate files). Give it a try and let me know what you think. 
 
-[^ssl]: {{< wikipedia SSL >}} is the older protocol that later became {{< wikipedia TLS >}}. In modern applications, there is really no reason that you should actually support SSL or even TLS 1.0, but in many cases people will use the two terms interchangably.
+[^ssl]: [[wiki:SSL]]() is the older protocol that later became [[wiki:TLS]](). In modern applications, there is really no reason that you should actually support SSL or even TLS 1.0, but in many cases people will use the two terms interchangably.
 
 [^dockernet]: Alternatively, you could put the two containers on the same Docker network, but I haven't had a need to do that yet.

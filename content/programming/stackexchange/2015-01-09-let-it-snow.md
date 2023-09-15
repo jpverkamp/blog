@@ -19,14 +19,14 @@ programming/topics:
 
 Today's post is inspired once again by the <a href="https://codegolf.stackexchange.com/">Code Golf StackExchange</a>: <a href="https://codegolf.stackexchange.com/questions/42506/draw-a-snowflake">Draw a snowflake</a>. Sounds simple enough, yes?
 
-The basic idea is to take a similar sort of code to what I used about 10 months ago when I wrote a post on [Brownian trees]({{< ref "2014-03-11-brownian-trees.md" >}}). The main difference this time is that this time we want {{< wikipedia page="rotational/radial" text="rotational symmetry" >}} and {{< wikipedia page="reflectional" text="reflectional symmetry" >}} symmetry. To do that, instead of generating points in an entire circular world, we will instead use only a slice, which we can than repeat and rotate. It turns out there's a reasonable amount of math involved in making that actually work right, but the code should still be fairly straight forward.
+The basic idea is to take a similar sort of code to what I used about 10 months ago when I wrote a post on [Brownian trees]({{< ref "2014-03-11-brownian-trees.md" >}}). The main difference this time is that this time we want [[wiki:rotational/radial|rotational symmetry]]() and [[wiki:reflectional|reflectional symmetry]]() symmetry. To do that, instead of generating points in an entire circular world, we will instead use only a slice, which we can than repeat and rotate. It turns out there's a reasonable amount of math involved in making that actually work right, but the code should still be fairly straight forward.
 
-First, we need to decide what data types we're going to work with. Originally, I had a struct for both the points and the snowflakes themselves, but then I realized with have a very powerful tool at our disposal: {{< wikipedia "complex numbers" >}}.
+First, we need to decide what data types we're going to work with. Originally, I had a struct for both the points and the snowflakes themselves, but then I realized with have a very powerful tool at our disposal: [[wiki:complex numbers]]().
 
 What does representing points as complex numbers buy us?
 
 
-* Conversion between {{< wikipedia "cartesian coordinates" >}} ({{< doc racket "make-rectangular" >}}) and {{< wikipedia "polar coordinates" >}} with {{< doc racket "make-rectangular" >}} and {{< doc racket "make-polar" >}}
+* Conversion between [[wiki:cartesian coordinates]]() ({{< doc racket "make-rectangular" >}}) and [[wiki:polar coordinates]]() with {{< doc racket "make-rectangular" >}} and {{< doc racket "make-polar" >}}
 * Add offsets to points
 * Determine the distance between two points with subtration and {{< doc racket "magnitude" >}}
 * The ability to rate points (again via {{< doc racket "make-polar" >}})
@@ -44,7 +44,7 @@ So then we just need a structure for snowflakes to start with:
   (snowflake radius arms '(0)))
 ```
 
-`radius` and `arms` will be constants that store the structure of the snowflake, while `points` will change (sans mutation, since we didn't make it `#:mutable`) as we add more points. Originally I had a grid of points, but since we're moving going to be constantly converting between cartesean and polar coordinates and moving about in a continuous space, it didn't work so well. On the down side, the larger an image gets, the longer it takes to compare to previous points. If I wanted to optimize this, something like a {{< wikipedia "quadtree" >}}, but at the moment, this works well enough.
+`radius` and `arms` will be constants that store the structure of the snowflake, while `points` will change (sans mutation, since we didn't make it `#:mutable`) as we add more points. Originally I had a grid of points, but since we're moving going to be constantly converting between cartesean and polar coordinates and moving about in a continuous space, it didn't work so well. On the down side, the larger an image gets, the longer it takes to compare to previous points. If I wanted to optimize this, something like a [[wiki:quadtree]](), but at the moment, this works well enough.
 
 Next, we want the ability to add points to a snowflake, or to check if a point is currently in it:
 

@@ -34,11 +34,11 @@ A quick note about each (minor spoilers):
 
 *Story of Your Life*. Alien linguistics, the story. So much better than that makes it sound. Became the film Arrival. 
 
-*Seventy-Two Letters*. {{<wikipedia "Golems">}}, with a bit more emphasis on the programming aspects of it, writ in an industrial revolution era world. Reminds me of the current worries of AI replacing jobs. The ending, tying it to what we actually see as 'normal'? *chef's kiss*
+*Seventy-Two Letters*. [[wiki:Golems]](), with a bit more emphasis on the programming aspects of it, writ in an industrial revolution era world. Reminds me of the current worries of AI replacing jobs. The ending, tying it to what we actually see as 'normal'? *chef's kiss*
 
 *The Evolution of Human Science*. A *very* short story about meta human tech and what that would do for society. One of the weaker ones, but I enjoyed it. 
 
 *Hell is the Absence of God*. Literal visitations of angels, causing miracles, cancer, and mass destruction. The knowing of the thing... doesn't make it any easier to love God. Suicide. Serial killers. It's such a fascinating world. Of all these stories, this is the one I'd most like to see fleshed out into an entire novel. The short does certainly feel complete, but I want more!
 
-*Liking What Your See: A Documentary*. What if {{<wikipedia "face blindness">}}... but only for how attractive people appear to be. "A kind of high functioning autism". Which is certainly an interesting way to do the book. I appreciate the documentary style, although it was odd to listen to (audiobook). 
+*Liking What Your See: A Documentary*. What if [[wiki:face blindness]]()... but only for how attractive people appear to be. "A kind of high functioning autism". Which is certainly an interesting way to do the book. I appreciate the documentary style, although it was odd to listen to (audiobook). 
 

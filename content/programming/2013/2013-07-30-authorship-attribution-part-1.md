@@ -18,7 +18,7 @@ About two weeks ago, the new crime fiction novel <a href="http://www.amazon.com/
 
 > “Propositions and articles and similar little function words are actually very individual,” Juola says. “It’s actually very, very hard to change them because they’re so subconscious.”
 
-It's actually pretty similar to what I did a few years ago for my undergraduate thesis: <a title="AnnGram" href="http://blog.jverkamp.com/category/programming/anngram/">AnnGram</a>. In that case, I used a similar technique to what they described above, {{< wikipedia "n-grams" >}}, and {{< wikipedia page="Self organizing map" text="self organizing maps" >}} to classify works by author. It's been awhile, but let's take a crack at re-implementing some of these techniques.
+It's actually pretty similar to what I did a few years ago for my undergraduate thesis: <a title="AnnGram" href="http://blog.jverkamp.com/category/programming/anngram/">AnnGram</a>. In that case, I used a similar technique to what they described above, [[wiki:n-grams]](), and [[wiki:Self organizing map|self organizing maps]]() to classify works by author. It's been awhile, but let's take a crack at re-implementing some of these techniques.
 
 (If you'd like to follow along, you can see the full code here: <a href="https://github.com/jpverkamp/small-projects/tree/master/authorship">authorship attribution on github</a>)
 
@@ -95,7 +95,7 @@ If the post was correct (and they did identify JK Rowling after all), then this 
 
 It seems that **and** has moved up, **a** and **she** have swapped, and **harry** is there--It's pretty impressive that's the 7th most common word in the entire book but rather unlikely to appear in Cuckoo's Calling. But overall, it's pretty similar. So let's try to compare it to a few more books.
 
-We do need one more peace first though. We need to be able to tell how similar two books are. In this case, we'll use the idea of {{< wikipedia "cosine similarity" >}}. Essentially, given two vectors we can calculate the angle between them. The more similar two vectors are, the closer to zero the result will be. 
+We do need one more peace first though. We need to be able to tell how similar two books are. In this case, we'll use the idea of [[wiki:cosine similarity]](). Essentially, given two vectors we can calculate the angle between them. The more similar two vectors are, the closer to zero the result will be. 
 
 One problem is that we have hashes instead of vectors. We can't even guarantee that the same words will appear in two different lists. So first, we'll unify the keys. Add zeros for missing words, put them in the same order, and we have vectors we can measure:
 

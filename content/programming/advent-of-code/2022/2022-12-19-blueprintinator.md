@@ -121,9 +121,9 @@ impl From<String> for Blueprint {
 }
 ```
 
-This time around I'm using {{<wikipedia "regular expressions">}} for parsing, which works out pretty well. I feel like my parsing is at least growing and changing. Whether it's idiomatic Rust... that I'm not quite so sure about. 
+This time around I'm using [[wiki:regular expressions]]() for parsing, which works out pretty well. I feel like my parsing is at least growing and changing. Whether it's idiomatic Rust... that I'm not quite so sure about. 
 
-Now, for the actual solver, we're going to use the same general idea as I finally ended up using in {{< wikipedia "AoC 2022 Day 16: Pressurinator" >}}. Create a stack of solutions and then for each step, bail out if it's worse than some possible upper bound, otherwise generate each possible next step. I really should implement an {{<wikipedia "A* solver">}} instead... but this works. And it's close. 
+Now, for the actual solver, we're going to use the same general idea as I finally ended up using in [[wiki:AoC 2022 Day 16: Pressurinator]](). Create a stack of solutions and then for each step, bail out if it's worse than some possible upper bound, otherwise generate each possible next step. I really should implement an [[wiki:A* solver]]() instead... but this works. And it's close. 
 
 Okay, the solver. It's certainly getting longer:
 
@@ -260,7 +260,7 @@ It's pretty much the same code as what I ended up with for day 16 and I hope wel
 * The initial state starts with no inventory and 1 of the lowest level (ore-collecting) robot
 * The best case is how many geodes we built
 * This time I wrapped everything up in an internal `State` structure; it's neat being able to define these within a function
-* The best case assumes you can build a `geode` robot each frame for the rest of the game (without checking input), each of which produces a `geode` until the end of the simulation. This uses the {{<wikipedia "1 + 2 + 3 + 4 + ⋯">}} formula to calculate quickly. It only removes the worst cases, but that's really all we need
+* The best case assumes you can build a `geode` robot each frame for the rest of the game (without checking input), each of which produces a `geode` until the end of the simulation. This uses the [[wiki:1 + 2 + 3 + 4 + ⋯]]() formula to calculate quickly. It only removes the worst cases, but that's really all we need
 * The recursive case tries to build one of each robot:
   * If we don't even produce the right resources, don't try to calculate it 
   * Otherwise, figure out how many ticks it will take to build it, schedule the build for then. This is perhaps the most interesting bit: rather than recurring once every time increment, we skip forward long enough to build the next bot. This helps cut down the search time significantly. 

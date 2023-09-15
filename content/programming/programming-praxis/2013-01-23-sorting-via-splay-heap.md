@@ -10,7 +10,7 @@ programming/topics:
 - Data Structures
 - Sorting
 ---
-<a href="http://programmingpraxis.com/2013/01/22/splay-heaps/" title="Splay Heap">Yesterday's post</a> from Programming Praxis gives a new (or at least different) vantage point on one of the most common problems in Computer Science: sorting. Today, we're going to implement a data structure known as a {{< wikipedia "splay heap" >}} and use that to perform a {{< wikipedia "heapsort" >}}.
+<a href="http://programmingpraxis.com/2013/01/22/splay-heaps/" title="Splay Heap">Yesterday's post</a> from Programming Praxis gives a new (or at least different) vantage point on one of the most common problems in Computer Science: sorting. Today, we're going to implement a data structure known as a [[wiki:splay heap]]() and use that to perform a [[wiki:heapsort]]().
 
 <!--more-->
 
@@ -37,7 +37,7 @@ Good to go. There's one unfortunate aspect in that we want to export `make-hash`
 
 Next, we want to start with the hardest bit of code: inserting a new value into the heap.
 
-To `insert`, the basic idea is to recursively partition the tree (in a manner similar to {{< wikipedia "quicksort" >}}) into a subtree with items smaller than the new value and a subtree larger. The trick though is when you go left twice (towards the smallest nodes, which we want to access quickly) you want to rotate the tree to make that lookup quicker. This will give us an {{< wikipedia page="Amortized analysis" text="amortized runtime" >}} (the runtime over many repeated runs of the algorithm) of O(n log n), on the same order as the other best sorting algorithms ({{< wikipedia "quicksort" >}} / {{< wikipedia "mergesort" >}}).
+To `insert`, the basic idea is to recursively partition the tree (in a manner similar to [[wiki:quicksort]]()) into a subtree with items smaller than the new value and a subtree larger. The trick though is when you go left twice (towards the smallest nodes, which we want to access quickly) you want to rotate the tree to make that lookup quicker. This will give us an [[wiki:Amortized analysis|amortized runtime]]() (the runtime over many repeated runs of the algorithm) of O(n log n), on the same order as the other best sorting algorithms ([[wiki:quicksort]]() / [[wiki:mergesort]]()).
 
 ```scheme
 ; insert a value into a splay heap
@@ -154,7 +154,7 @@ Finally, what do we need to do to get everything but the minimum value?
                               (node-right node)))]))
 ```
 
-Now we need to test it to make sure everything is working. How else, but to write the actual `heapsort` code. Essentially, insert each item into a heap in turn, then pull each back out. Because of the {{< wikipedia page="Amortized analysis" text="amortized runtime" >}}, this should be fast.
+Now we need to test it to make sure everything is working. How else, but to write the actual `heapsort` code. Essentially, insert each item into a heap in turn, then pull each back out. Because of the [[wiki:Amortized analysis|amortized runtime]](), this should be fast.
 
 ```scheme
 ; sort using a heap

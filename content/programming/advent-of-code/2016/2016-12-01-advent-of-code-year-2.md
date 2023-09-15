@@ -37,7 +37,7 @@ My particular favorites are:
 - [Day 11: Radiation Avoider]({{< ref "2016-12-11-radiation-avoider.md" >}}) - Quite a problem in optimization
 - [Day 12: Assembunny]({{< ref "2016-12-12-assembunny.md" >}}) - I enjoy writing virtual machines
 - [Day 13: Noisy Puzzle]({{< ref "2016-12-14-bad-one-time-pads.md" >}}) - I rather enjoy [procedural content](/programming/topics/procedural-content/)
-- [Day 14: Bad One-Time Pads]({{< ref "2016-12-14-bad-one-time-pads.md" >}}) - Not useful as an actual {{< wikipedia "one-time pad" >}} (they're {{< wikipedia deterministic >}}), but interesting to calculate
+- [Day 14: Bad One-Time Pads]({{< ref "2016-12-14-bad-one-time-pads.md" >}}) - Not useful as an actual [[wiki:one-time pad]]() (they're [[wiki:deterministic]]()), but interesting to calculate
 - [Day 21: Scrambler]({{< ref "2016-12-21-scrambler.md" >}}) - Another virtual machine of sorts
-- [Day 23: Assembunny v2]({{< ref "2016-12-23-assembunny2.md" >}}) - An extension of [day 12]({{< ref "2016-12-12-assembunny.md" >}}) involving {{< wikipedia "self-modifying code" >}} and an {{< wikipedia "optimizing compiler" >}}
+- [Day 23: Assembunny v2]({{< ref "2016-12-23-assembunny2.md" >}}) - An extension of [day 12]({{< ref "2016-12-12-assembunny.md" >}}) involving [[wiki:self-modifying code]]() and an [[wiki:optimizing compiler]]()
 - [Day 25: Assembunny v3]({{< ref "2016-12-23-assembunny2.md" >}}) - An extension of [day 12]({{< ref "2016-12-12-assembunny.md" >}}) involving simple binary output and loop detection

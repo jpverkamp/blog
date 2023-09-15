@@ -60,7 +60,7 @@ But I was curious and I like writing scripts to test things like this. So I wrot
 
 Basically, it terminates whenever it sees a number that has already been calculated (so in the case of 1, it will repeat on 1 and stop; on any other loop it will eventually get back to the entry point).
 
-I let the code crunch for a while and it's been running at an average of 1.66 kHz (1660 numbers per second). It's not perfect and I'm sure I could optimize it a bit with some {{< wikipedia "memoization" >}}, but I've still checked the first 1.5 billion numbers. So far, everything is either happy or unhappy and goes through 4. I'll let it run for a while more and update this if it happens to find anything, but I doubt it.
+I let the code crunch for a while and it's been running at an average of 1.66 kHz (1660 numbers per second). It's not perfect and I'm sure I could optimize it a bit with some [[wiki:memoization]](), but I've still checked the first 1.5 billion numbers. So far, everything is either happy or unhappy and goes through 4. I'll let it run for a while more and update this if it happens to find anything, but I doubt it.
 
 Another interesting tidbit comes up with a <a href="http://io9.com/5934819/why-four-is-the-nemesis-of-happy-numbers?comment=51954505" title="io9 Comment">one of the comments</a>, showing that there are difference cycles in different bases. For example, hexadecimal has a loop around D:
 

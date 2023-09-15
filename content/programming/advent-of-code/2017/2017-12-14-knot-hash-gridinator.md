@@ -19,7 +19,7 @@ series:
 
 <!--more-->
 
-Hah! We are going to use the [knot hashes]({{< ref "2017-12-10-knot-cool.md" >}}) again! Good thing I put them in [lib.py]({{< ref "2017-12-01-library-functions.md" >}}). We do need a function to take the hex output of `knothash` and turn it into a {{< wikipedia bitstring >}} though:
+Hah! We are going to use the [knot hashes]({{< ref "2017-12-10-knot-cool.md" >}}) again! Good thing I put them in [lib.py]({{< ref "2017-12-01-library-functions.md" >}}). We do need a function to take the hex output of `knothash` and turn it into a [[wiki:bitstring]]() though:
 
 ```python
 def hex2bits(hex):

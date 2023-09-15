@@ -17,7 +17,7 @@ So the main problem we have is that we're interpreting the code. For every singl
 
 So let's make it faster!
 
-My first idea? {{< wikipedia "Transpile" >}} it to Javascript!
+My first idea? [[wiki:Transpile]]() it to Javascript!
 
 <!--more-->
 
@@ -73,7 +73,7 @@ const instructions = [
 "(x, y) => x + y"
 ```
 
-We can then 'parse' that with a {{< wikipedia "regular expression" >}}:
+We can then 'parse' that with a [[wiki:regular expression]]():
 
 ```javascript
 >> instructions[1].function.toString().match(/^\((.*?)\) => (.*?)$/)

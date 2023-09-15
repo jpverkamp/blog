@@ -266,7 +266,7 @@ For those interested, here's how I generated random puzzles:
 
 And that's it. Surprisingly simple[^2] to solve, a little more to render. I love problems like this. :smile:
 
-If you really want to go off the deep end though and, go download the full source from GitHub (<a href="https://github.com/jpverkamp/small-projects/blob/master/blog/tile-puzzles.rkt">tile-puzzles.rkt</a>). Therein lies solutions for using {{< wikipedia "simulated annealing" >}} or {{< wikipedia "genetic algorithms" >}} in an effort to solve the problem more {{< wikipedia "heurisitically" >}}, but neither is working particularly well as of yet. If you want to take one of those and finish it up, I'd love to see it.
+If you really want to go off the deep end though and, go download the full source from GitHub (<a href="https://github.com/jpverkamp/small-projects/blob/master/blog/tile-puzzles.rkt">tile-puzzles.rkt</a>). Therein lies solutions for using [[wiki:simulated annealing]]() or [[wiki:genetic algorithms]]() in an effort to solve the problem more [[wiki:heurisitically]](), but neither is working particularly well as of yet. If you want to take one of those and finish it up, I'd love to see it.
 
 [^1]: Having a baby will do that to you...
 [^2]: I really do still get surprised after all this time

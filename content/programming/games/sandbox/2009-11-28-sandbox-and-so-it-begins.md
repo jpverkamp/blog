@@ -10,7 +10,7 @@ programming/topics:
 ---
 For the past few years, I've been fascinated by falling sand / particle simulation type games (<a href="http://fallingsandgame.com/sand/">like this one</a>).  Enough so that I've set out to make one a fair number of times.  Each time, I've advanced my own techniques by a little bit, finding new and better ways to make digital sand.
 
-This time around, I'm going to try to use C# with <a href="http://cs-sdl.sourceforge.net/index.php/Main_Page">SDL.NET</a> for all of my graphical work and a simple grid for all of the particle data.  Rather than looping over the grid, I will be using {{< wikipedia page="Quadtree" text="quadtrees" >}} to only update the regions that actually need to be updated.  So far the results are promising!
+This time around, I'm going to try to use C# with <a href="http://cs-sdl.sourceforge.net/index.php/Main_Page">SDL.NET</a> for all of my graphical work and a simple grid for all of the particle data.  Rather than looping over the grid, I will be using [[wiki:Quadtree|quadtrees]]() to only update the regions that actually need to be updated.  So far the results are promising!
 
 <!--more-->
 

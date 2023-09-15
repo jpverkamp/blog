@@ -10,7 +10,7 @@ series:
 ---
 ### Source: [An Elephant Named Joseph](http://adventofcode.com/2016/day/19)
 
-> **Part 1:** Create a {{< wikipedia "circular list" >}} of the numbers `1` through `n`. Going around the list, each currently remaining number removes the number after it. What is the last remaining number?
+> **Part 1:** Create a [[wiki:circular list]]() of the numbers `1` through `n`. Going around the list, each currently remaining number removes the number after it. What is the last remaining number?
 
 <!--more-->
 
@@ -87,7 +87,7 @@ print('Last elf standing (sitting?): {}'.format(last_elf))
 
 Although this does work, the problem with it is that it's **very** slow. This is because Python lists are implemented under the hood as an array of contiguous values in memory. When you remove an element from the middle of the list, you have to copy everything that was after it down a spot. Arbitrarily doing that a few million times takes a while.
 
-The solution was sound. We just needed a better data structure. Enter: [https://pypi.python.org/pypi/blist/](blist). Essentially, it's a list implemented under the hood as a {{< wikipedia "binary tree" >}}. This gives you `O(log n)` removal, so that rather than taking over a million cycles on average (at the start), it takes {{< inline-latex "log(1,000,000) \equiv 14" >}}.
+The solution was sound. We just needed a better data structure. Enter: [https://pypi.python.org/pypi/blist/](blist). Essentially, it's a list implemented under the hood as a [[wiki:binary tree]](). This gives you `O(log n)` removal, so that rather than taking over a million cycles on average (at the start), it takes {{< inline-latex "log(1,000,000) \equiv 14" >}}.
 
 ```python
 def last_elf_standing(size, function = None):

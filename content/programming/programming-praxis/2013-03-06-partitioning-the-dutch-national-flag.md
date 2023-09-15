@@ -12,7 +12,7 @@ programming/topics:
 - Sorting
 - Web Development
 ---
-<a title="Dutch National Flag" href="http://programmingpraxis.com/2013/03/05/dutch-national-flag/">Yesterday's post</a> from Programming Praxis asks us to solve a problem known as the Dutch National Flag problem (attributed to {{< wikipedia "Edsgar Dijkstra" >}}): *sort an array of red, white and blue symbols so that all reds come together, followed by all whites, followed finally by all blues*.
+<a title="Dutch National Flag" href="http://programmingpraxis.com/2013/03/05/dutch-national-flag/">Yesterday's post</a> from Programming Praxis asks us to solve a problem known as the Dutch National Flag problem (attributed to [[wiki:Edsgar Dijkstra]]()): *sort an array of red, white and blue symbols so that all reds come together, followed by all whites, followed finally by all blues*.
 
 <!--more-->
 

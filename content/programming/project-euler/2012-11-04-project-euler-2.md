@@ -27,7 +27,7 @@ programming/topics:
 
 That didn't take long. It's only the second problem and we already have a problem where the direct solution will take an intractably long amount of time. 
 
-Directly, we could write out a function to generate {{< wikipedia "Fibonacci numbers" >}} from it's definition (a Fibonacci number is the sum of the previous two Fibonacci numbers) and sum them directly:
+Directly, we could write out a function to generate [[wiki:Fibonacci numbers]]() from it's definition (a Fibonacci number is the sum of the previous two Fibonacci numbers) and sum them directly:
 
 ```scheme
 ; calculate the nth Fibonacci number
@@ -63,11 +63,11 @@ The question to ask is *what is making this code slow*?
 
 Think about what's necessary to calculate `(fib 10)`. You need `(fib 9)` and `(fib 8)`. What do you need for `(fib 9)` in turn? You need `(fib 8)` (again) and `(fib 7)`. This will continue over and over again, until you get down to `(fib 2)`. You'll need a whopping 34 calls to `(fib 2)`. For `(fib 30)`, that number is 514,229. Yet the value of each call to `fib` never changes. So why are we calculating it over and over again? 
 
-The short answer to that is *excellent question*! What if we had some way to tell Racket to remember the previous values? Well, we do. It's called {{< wikipedia "memoization" >}}.
+The short answer to that is *excellent question*! What if we had some way to tell Racket to remember the previous values? Well, we do. It's called [[wiki:memoization]]().
 
 
 > In computing, memoization is an optimization technique used primarily to speed up computer programs by having function calls avoid repeating the calculation of results for previously processed inputs.
-> -- <cite>{{< wikipedia page="Memoization" text="Wikipedia: Memoization" >}}</cite>
+> -- <cite>[[wiki:Memoization|Wikipedia: Memoization]]()</cite>
 
 
 Sounds like exactly what we want. I've already [written an article]({{< ref "2012-10-20-memoization-in-racket.md" >}}) about writing a memoized version of `define` in Racket, so go read that if you're more interested in the details. Otherwise, functionally it's just a matter of swapping `define` with `define-memoized`:

@@ -11,10 +11,10 @@ programming/topics:
 ---
 <a href="http://programmingpraxis.com/2014/03/11/caesar-cipher/">Here's</a> a 5 minute[^1] coding challenge from Programming Praxis:
 
-> A {{< wikipedia page="Caesar cipher" text="caeser cipher" >}}, named after Julius Caesar, who either invented the cipher or was an early user of it, is a simple substitution cipher in which letters are substituted at a fixed distance along the alphabet, which cycles; children’s magic decoder rings implement a caesar cipher. Non-alphabetic characters are passed unchanged. For instance, the plaintext PROGRAMMINGPRAXIS is rendered as the ciphertext SURJUDPPLQJSUDALV with a shift of 3 positions.
+> A [[wiki:Caesar cipher|caeser cipher]](), named after Julius Caesar, who either invented the cipher or was an early user of it, is a simple substitution cipher in which letters are substituted at a fixed distance along the alphabet, which cycles; children’s magic decoder rings implement a caesar cipher. Non-alphabetic characters are passed unchanged. For instance, the plaintext PROGRAMMINGPRAXIS is rendered as the ciphertext SURJUDPPLQJSUDALV with a shift of 3 positions.
 
 {{< figure src="/embeds/2014/caesar-shift.png" >}}
--- Source: {{< wikipedia page="File:Caesar cipher left shift of 3.svg" text="Wikipedia" >}}, public domain
+-- Source: [[wiki:File:Caesar cipher left shift of 3.svg|Wikipedia]](), public domain
 
 <!--more-->
 
@@ -39,7 +39,7 @@ In our case, we want it because we're going to do run through a similar stream o
 * Convert from a character to a number using {{< doc racket "char->integer" >}}
 * Get to a zero based system by subtracting `#\A = 65`
 * Add/subtract the offset for this particular Caesar cipher
-* Get the {{< wikipedia page="Modulo operation" text="modulus 26" >}} so we have a letter when we're done
+* Get the [[wiki:Modulo operation|modulus 26]]() so we have a letter when we're done
 * Get back to a letter by adding `#\A = 65` back on
 * Convert back to a character with {{< doc racket "integer->char" >}}
 

@@ -10,7 +10,7 @@ series:
 ---
 ### Source: [Subterranean Sustainability](https://adventofcode.com/2018/day/12)
 
-> **Part 1:** Create an infinite 2D {{< wikipedia "cellular automaton" >}} with transition rules based on two points to each side, starting with initial state at index 0 to the right.
+> **Part 1:** Create an infinite 2D [[wiki:cellular automaton]]() with transition rules based on two points to each side, starting with initial state at index 0 to the right.
 
 > After 20 generations, what is the sum of indexes of points turned on?
 

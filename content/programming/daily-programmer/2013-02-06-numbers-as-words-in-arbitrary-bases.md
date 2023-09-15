@@ -12,11 +12,11 @@ programming/topics:
 ---
 <a href="http://www.reddit.com/r/dailyprogrammer/comments/17zn6g/020613_challenge_120_intermediate_base_conversion/" title="Challenge #120 [Intermediate] Base Conversion Words">Today's intermediate challenge</a> on Reddit's /r/dailyprogrammer intrigued me somewhat, so I decided to take a crack at it. The basic idea is if you are given a number, try converting it to all bases from 2 to 64 (with a special encoding). Print out any of those that are words.
 
-For example, if you interpret the number 44,269 as a {{< wikipedia page="Hexadecimal" text="base 16 (Hexadecimal)" >}} number, you get the word "aced". So just how many of these words are there out there?
+For example, if you interpret the number 44,269 as a [[wiki:Hexadecimal|base 16 (Hexadecimal)]]() number, you get the word "aced". So just how many of these words are there out there?
 
 <!--more-->
 
-The first thing we want is the ability to associate a character with a given value. Since we want 64 possible values, we need case sensitive strings (so "a" is distinct from "A"). But that only gives us 62 (10 digits, 26 lower case letters, and 26 upper case letters), so we'll also add + and /. It's the same character set as {{< wikipedia page="Base64" text="Base64 encoding" >}}, but a different ordering.
+The first thing we want is the ability to associate a character with a given value. Since we want 64 possible values, we need case sensitive strings (so "a" is distinct from "A"). But that only gives us 62 (10 digits, 26 lower case letters, and 26 upper case letters), so we'll also add + and /. It's the same character set as [[wiki:Base64|Base64 encoding]](), but a different ordering.
 
 ```scheme
 ; order of characters for the encoding
@@ -88,7 +88,7 @@ We're just about there. The next thing we want to be able to do is get strings o
     (dlist->string (decimal-> n b))))
 ```
 
-So if you take {{< wikipedia page="867-5309/Jenny" text="Jenny's number" >}}:
+So if you take [[wiki:867-5309/Jenny|Jenny's number]]():
 
 ```scheme
 > (->all-bases 8675309)

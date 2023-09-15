@@ -8,7 +8,7 @@ programming/sources:
 ---
 This time around, Programming Praxis [here](https://github.com/jpverkamp/small-projects/blob/master/blog/ralist.ss) (make sure you download pmatch as well).
 
-First, we need to provide tree functions that are designed to work on complete {{< wikipedia "binary trees" >}}, taking the size as an additional parameters. 
+First, we need to provide tree functions that are designed to work on complete [[wiki:binary trees]](), taking the size as an additional parameters. 
 
 ```scheme
 ; lookup an item in a balanced binary tree

@@ -85,7 +85,7 @@ Bam. Let's try a few:
 8675308
 ```
 
-Huh. I think {{< wikipedia page="Jenny" text="867-5309/Jenny" >}} has a secret. :smile:
+Huh. I think [[wiki:Jenny|867-5309/Jenny]]() has a secret. :smile:
 
 That's pretty much it for the puzzle as stated, but there are still a few things that we can do. For example, we've only seen small examples. What if we want to find the number with the largest minimal palindromic base:
 

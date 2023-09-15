@@ -21,7 +21,7 @@ Let's do it!
 
 ## 10) Generative music
 
-Wikipedia: {{<wikipedia title="Aleatoric music" text="Generative music">}}
+Wikipedia: [[wiki:Aleatoric music|Generative music]]()
 
 **NOTE: Because of limitations in JavaScript autoplaying sound, you must click to start.**
 

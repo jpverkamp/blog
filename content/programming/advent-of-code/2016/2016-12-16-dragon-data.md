@@ -12,7 +12,7 @@ series:
 ---
 ### Source: [Dragon Checksum](http://adventofcode.com/2016/day/16)
 
-> **Part 1:** Generate noise using a modified {{< wikipedia "dragon curve" >}}:
+> **Part 1:** Generate noise using a modified [[wiki:dragon curve]]():
 
 > - Start with data `a`
 > - Create a copy of the data `b`, reverse and invert it (0 <-> 1)
@@ -22,14 +22,14 @@ series:
 
 > From this string calculate a checksum as follows:
 
-> - {{< wikipedia xor >}} each pair of bits, concatenate the results
+> - [[wiki:xor]]() each pair of bits, concatenate the results
 > - If the resulting string has an even length, repeat; if it's odd, stop
 
 > Calculate the checksum of a given initial state expanded to `272` bits.
 
 <!--more-->
 
-To solve this, we turn the two halves of the problem directly into functions. Since strings are {{< wikipedia "immutable" >}} in python, uses lists of `0` and `1`. First, expand the data to fill the given length:
+To solve this, we turn the two halves of the problem directly into functions. Since strings are [[wiki:immutable]]() in python, uses lists of `0` and `1`. First, expand the data to fill the given length:
 
 ```python
 def dragon(ls, length):

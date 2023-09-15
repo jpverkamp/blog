@@ -15,8 +15,8 @@ series:
 
 > **Part 1:** An input stream can contain:
 
-> - `groups` are delimited by `{` and `}`, `groups` are nestable and may contain `garbage` or data (objects within a `group` are {{< wikipedia "comma delimited" >}})
-> - `garbage` is delimited by `<` and `>`, `groups` cannot be nested within `garbage`, a `!` within `garbage` is an {{< wikipedia "escape character" >}}: `!>` does not end a garbage segment
+> - `groups` are delimited by `{` and `}`, `groups` are nestable and may contain `garbage` or data (objects within a `group` are [[wiki:comma delimited]]())
+> - `garbage` is delimited by `<` and `>`, `groups` cannot be nested within `garbage`, a `!` within `garbage` is an [[wiki:escape character]](): `!>` does not end a garbage segment
 
 > The score of a single group is equal to how many times it is nested (the innermost group of `{{{}}}` has score `3`).
 
@@ -26,7 +26,7 @@ series:
 
 <!--more-->
 
-Since the `groups` can be nested, they can't[^doOrDoNot] be parsed with {{< wikipedia "regular expressions" >}}. The language is relatively simple enough that we could directly write a {{< wikipedia text="parser" page="Parsing#Computer_languages" >}} (keeping a stack of how deep we are currently nested in `groups`), but this sounds like a wonderful excuse to use the [PyParsing](http://pyparsing.wikispaces.com/) module:
+Since the `groups` can be nested, they can't[^doOrDoNot] be parsed with [[wiki:regular expressions]](). The language is relatively simple enough that we could directly write a [[wiki:text="parser" page="Parsing#Computer_languages"]]() (keeping a stack of how deep we are currently nested in `groups`), but this sounds like a wonderful excuse to use the [PyParsing](http://pyparsing.wikispaces.com/) module:
 
 First, we want to define `garbage`, since it cannot have anything nested in it. Garbage works essentially like a string:
 

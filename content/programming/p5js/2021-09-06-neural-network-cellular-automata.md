@@ -17,7 +17,7 @@ Let's generate a cellular automata where each pixel updates based on a neural ne
 - The x/y coordinates (scaled to the range 0-1)
 - An optional random value (to make it more dynamic)
 - A variety of neighboring data, such as:
-  - The number of neighbors that are 'active' (> 50% white), ranges 0-8 scaled to 0-1. This should allow {{< wikipedia "Conway's Game of Life" >}}
+  - The number of neighbors that are 'active' (> 50% white), ranges 0-8 scaled to 0-1. This should allow [[wiki:Conway's Game of Life]]()
   - The RGB values of all neighbors (allows a superset of the above)
   - Gradients, subtract color value of the left from the right so that you get edges and side to side movement
 

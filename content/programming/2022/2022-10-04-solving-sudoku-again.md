@@ -16,7 +16,7 @@ More [Rust](programming/languages/rust/)! This time, I want to go back to my pos
 
 ## Representing the board
 
-As one does, we're going to start with {{<wikipedia Sudoku>}}. So to do that, we'll need to represent the board. Because it's just a 9x9 grid, I'm going to use Rust arrays:
+As one does, we're going to start with [[wiki:Sudoku]](). So to do that, we'll need to represent the board. Because it's just a 9x9 grid, I'm going to use Rust arrays:
 
 ```rust
 #[derive(Copy, Clone, Debug)]

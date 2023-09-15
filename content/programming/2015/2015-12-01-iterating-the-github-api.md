@@ -7,7 +7,7 @@ programming/topics:
 - GitHub
 slug: iterating-the-github-api
 ---
-Today I found myself auditing an organization's users to see which have {{< wikipedia "multifactor authentication" >}} enabled[^1]. Since we have a not insignificant number of users, I wanted to write a quick script to automate it. Down the rabbit hole I go... and now I have a clean way of iterating across paginated GitHub API responses.
+Today I found myself auditing an organization's users to see which have [[wiki:multifactor authentication]]() enabled[^1]. Since we have a not insignificant number of users, I wanted to write a quick script to automate it. Down the rabbit hole I go... and now I have a clean way of iterating across paginated GitHub API responses.
 
 <!--more-->
 

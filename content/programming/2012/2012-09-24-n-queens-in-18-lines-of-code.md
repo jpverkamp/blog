@@ -7,7 +7,7 @@ programming/topics:
 - Backtracking
 - Mathematics
 ---
-One of the rites of passage for computer scientists it seems is to solve the {{< wikipedia page="N-queens" text="Eight Queens Problem" >}}--where you must place 8 queens on a chessboard so that no pair of queens is attacking each other. Even better is when you can expand that to the n-queens problem with n queens on an n by n chessboard. After finding it again in older posts on both <a href="http://programmingpraxis.com/2010/06/11/n-queens/" title="Programming Praxis: N-Queens">Programming Praxis</a> and <a href="http://www.datagenetics.com/blog/august42012/index.html" title="DataGenetics: Eight Queens">DataGenetics</a>, I decided to go ahead and take a crack at it and I think the solution is pretty straight forward.
+One of the rites of passage for computer scientists it seems is to solve the [[wiki:N-queens|Eight Queens Problem]]()--where you must place 8 queens on a chessboard so that no pair of queens is attacking each other. Even better is when you can expand that to the n-queens problem with n queens on an n by n chessboard. After finding it again in older posts on both <a href="http://programmingpraxis.com/2010/06/11/n-queens/" title="Programming Praxis: N-Queens">Programming Praxis</a> and <a href="http://www.datagenetics.com/blog/august42012/index.html" title="DataGenetics: Eight Queens">DataGenetics</a>, I decided to go ahead and take a crack at it and I think the solution is pretty straight forward.
 
 <!--more-->
 

@@ -5,7 +5,7 @@ programming/languages:
 - HTML
 - JavaScript
 ---
-I have a large number of keyword bookmarks in whichever browser I happen to be using at the time that I've been building up over the years[^todo]. One of the ones I particular enjoy is `text`: `data:text/html, <html contenteditable>`. What that does is open a new tab where I can take notes, completely locally. It's really handy... but there's one big problem: I often accidentally close the tab and lose whatever I had been typing. So I decided to take a few minutes to write up a simple extension of the idea that would save the data to {{< wikipedia LocalStorage >}}.
+I have a large number of keyword bookmarks in whichever browser I happen to be using at the time that I've been building up over the years[^todo]. One of the ones I particular enjoy is `text`: `data:text/html, <html contenteditable>`. What that does is open a new tab where I can take notes, completely locally. It's really handy... but there's one big problem: I often accidentally close the tab and lose whatever I had been typing. So I decided to take a few minutes to write up a simple extension of the idea that would save the data to [[wiki:LocalStorage]]().
 
 <!--more-->
 

@@ -24,7 +24,7 @@ You can start with the 1 in the bottom center, go left to the two, then up to th
 
 In this 3x3 case, it's really easy to just brute force. Calculate all possible paths. An upper bound would be visiting every node exactly once, so {{< inline-latex "\sum_{i=1}^9 \binom{9}{i} = 511" >}} (choose `n` elements for each of 1 to 9 cases). Not so bad. But if you have a 10x10 matrix, that's already 1e30--which is freaking gigantic. So we need to do better.
 
-Luckily, it's actually pretty easy to do better! Just use {{< wikipedia "dynamic programming" >}} and/or {{< wikipedia "memoization" >}}! Basically, create a second matrix the same side as the first where eventually every value will be the size of the longest path *from that element*. Assume that you can build that. Then to actually calculate any specific value, you can look at the 4 surrounding values in both sets of data. For any neighboring values that are less, find their chain length, then add one to the largest. 
+Luckily, it's actually pretty easy to do better! Just use [[wiki:dynamic programming]]() and/or [[wiki:memoization]]()! Basically, create a second matrix the same side as the first where eventually every value will be the size of the longest path *from that element*. Assume that you can build that. Then to actually calculate any specific value, you can look at the 4 surrounding values in both sets of data. For any neighboring values that are less, find their chain length, then add one to the largest. 
 
 Let's work an example. Start in the top left of the matrix above. With the 9, the only possible chain would be to go downward, so
 
@@ -120,7 +120,7 @@ f(center right) = 3
 
 And we're done. The maximum value of this second table is `4`, so we're done. That's the answer. And rather than checking all 1e30 possible answers, we only have to check each cell at most once. So `100` iterations. Much much much faster!
 
-To turn that to code, we can cheat a bit. There's a function in the standard library: {{< doc python "functools.cache" >}}. If you apply that to a function, it will automatically {{< wikipedia "memoize" >}} it. The first time the function runs, it will do the normal thing, but when returning, it will store the answer in a Dict of type `Dict[input type, output type]`. In this case, `Dict[(int, int), int]`. The next time (and every time afterwards), just look up and return this cached value. Much quicker!
+To turn that to code, we can cheat a bit. There's a function in the standard library: {{< doc python "functools.cache" >}}. If you apply that to a function, it will automatically [[wiki:memoize]]() it. The first time the function runs, it will do the normal thing, but when returning, it will store the answer in a Dict of type `Dict[input type, output type]`. In this case, `Dict[(int, int), int]`. The next time (and every time afterwards), just look up and return this cached value. Much quicker!
 
 Code:
 

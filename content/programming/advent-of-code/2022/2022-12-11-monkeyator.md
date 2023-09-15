@@ -272,7 +272,7 @@ Heh. If I were working in Python I would definitely consider just letting it go.
 
 Looking through, all of the tests are divisibility. That's the clue to how to solve this problem, since divisibility doesn't change for any number `n` such that `x % n == 0`. We just need that to be true for all possible divisibility values. 
 
-And there is a function exactly for that: {{<wikipedia "least common multiple">}}! 
+And there is a function exactly for that: [[wiki:least common multiple]]()! 
 
 Unfortunately, although that appears to be (or have been) a function in Rust at one point ([`lcm`](https://docs.rs/num/0.1.32/num/integer/fn.lcm.html)), it isn't in the version I'm using. But ... we don't actually need the *least* common multiple. Any multiple will work. 
 

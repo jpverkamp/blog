@@ -46,7 +46,7 @@ This time around (and so far), the top of my list for the year. An excellent mov
 
 # Original 2014 review:
 
-Out of all the pre-Avengers / {{< wikipedia page="List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled" text="Phase One" >}} Marvel Cinematic Universe movies, it's really a toss up whether Iron Man or Captain American was my favorite. In {{< wikipedia page="List_of_Marvel_Cinematic_Universe_films#Phase_Two" text="Phase Two" >}}? It's not even a question[^1]. Captain America: The Winter Soldier.
+Out of all the pre-Avengers / [[wiki:List_of_Marvel_Cinematic_Universe_films#Phase_One:_Avengers_Assembled|Phase One]]() Marvel Cinematic Universe movies, it's really a toss up whether Iron Man or Captain American was my favorite. In [[wiki:List_of_Marvel_Cinematic_Universe_films#Phase_Two|Phase Two]]()? It's not even a question[^1]. Captain America: The Winter Soldier.
 
 <!--more-->
 
@@ -56,7 +56,7 @@ All in all, this was a solid addition. It contrasts nicely with the first Captai
 
 And then there's the eponymous Winter Soldier. I really felt like they could have done a lot more with him. I know that there's a lot of potential there from the comics, even going so far as maybe having him eventually take up Cap's shield some day[^3].
 
-One last bit that's particularly cool is the idea of what this will to {{< wikipedia "Agents of S.H.I.E.L.D." >}}. I haven't watched the newest episode where presumably they deal with all this fall out, but I bet it's going to get all sorts of interesting in a hurry. I don't know if there's ever been such a relationship between a series of films and another on TV, but it's really interesting to see how it all plays out.
+One last bit that's particularly cool is the idea of what this will to [[wiki:Agents of S.H.I.E.L.D.]](). I haven't watched the newest episode where presumably they deal with all this fall out, but I bet it's going to get all sorts of interesting in a hurry. I don't know if there's ever been such a relationship between a series of films and another on TV, but it's really interesting to see how it all plays out.
 
 Unfortunately, this is only the third movie I've seen this year. An honestly, as good as it was, I would be ever so slightly to go see The Lego Movie again (that song is *just so *catchy**). Still, a solid #2, and it might as well be a toss up with #1.
 
@@ -64,4 +64,4 @@ Unfortunately, this is only the third movie I've seen this year. An honestly, as
 
 [^1]: At least unless Guardians of the Galaxy manages to really surprise us all. Still, I'm not sure if that one quite counts.
 [^2]: Somewhat like SHIELD...
-[^3]: If I understand correctly, {{< wikipedia "Sebastian Stan" >}} is actually under contract for more films than {{< wikipedia "Chris Evans" >}}, although who knows what exactly that means.
+[^3]: If I understand correctly, [[wiki:Sebastian Stan]]() is actually under contract for more films than [[wiki:Chris Evans]](), although who knows what exactly that means.

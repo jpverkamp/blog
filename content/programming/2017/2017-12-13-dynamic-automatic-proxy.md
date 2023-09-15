@@ -8,7 +8,7 @@ programming/topics:
 - Dotfiles
 - Proxies
 ---
-On of the advantages of working in computer programming is that I can work from anywhere I have a computer and an internet connection. One of the disadvantages is that many of the resources that I need to do my job are locked to only be accessible within a specific network (albeit with a {{< wikipedia "bastion host" >}}).
+On of the advantages of working in computer programming is that I can work from anywhere I have a computer and an internet connection. One of the disadvantages is that many of the resources that I need to do my job are locked to only be accessible within a specific network (albeit with a [[wiki:bastion host]]()).
 
 I long ago set up my SSH config to create an SSH tunnel and I can proxy many applications through that just by setting the `HTTP_PROXY` and/or `HTTPS_PROXY` environment variables. The downside of this though is that if I'm actually on a 'safe' network, there's no reason to use the bastion host and I would actually be putting extra load on it.
 
@@ -115,4 +115,4 @@ Originally it was just designed for use with automatically choosing a proxy, but
 
 [^polipo]: I'm using [Polipo](https://www.irif.fr/~jch/software/polipo/) on a server on my home network to turn the SSH proxy into an HTTP/HTTPS proxy
 [^mosh]: I picked up this when experimenting with [advanced-ssh-config](https://github.com/moul/advanced-ssh-config/).
-[^whydns]: For one, a web service has to make a DNS request itself. For two, DNS uses {{< wikipedia UDP >}} rather than {{< wikipedia TCP >}} so there is no initial handshake.
+[^whydns]: For one, a web service has to make a DNS request itself. For two, DNS uses [[wiki:UDP]]() rather than [[wiki:TCP]]() so there is no initial handshake.

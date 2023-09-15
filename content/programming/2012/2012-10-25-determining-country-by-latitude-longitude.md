@@ -9,7 +9,7 @@ slug: determining-country-by-latitudelongitude
 
 <!--more-->
 
-To solve this problem, I decided to make use of the <a title="Google Maps API" href="https://developers.google.com/maps/">Google Maps API</a>, specifically the <a title="Google Maps API: Geocoding" href="https://developers.google.com/maps/documentation/geocoding/">subset of the API</a> that deals with {{< wikipedia "geocoding" >}}. You can look through the specifics easily enough, but the general idea is just to use a specific URL:
+To solve this problem, I decided to make use of the <a title="Google Maps API" href="https://developers.google.com/maps/">Google Maps API</a>, specifically the <a title="Google Maps API: Geocoding" href="https://developers.google.com/maps/documentation/geocoding/">subset of the API</a> that deals with [[wiki:geocoding]](). You can look through the specifics easily enough, but the general idea is just to use a specific URL:
 
 <a title="Example Google Maps Geocoding API" href="http://maps.googleapis.com/maps/api/geocode/json?latlng=39.16554,-86.523525&amp;sensor=false">`http://maps.googleapis.com/maps/api/geocode/json?latlng={latitude},{longitude}&amp;sensor=false`</a>
 

@@ -743,7 +743,7 @@ It's so fun to see that working.
 
 Now, let's stress test it. 
 
-Here's one of the most complicated functions I've written so far: rendering the {{<wikipedia "Mandelbrot set">}} to a {{<wikipedia "PPM file">}}. 
+Here's one of the most complicated functions I've written so far: rendering the [[wiki:Mandelbrot set]]() to a [[wiki:PPM file]](). 
 
 ```text
 # Set image dimensions and maximum number of iterations

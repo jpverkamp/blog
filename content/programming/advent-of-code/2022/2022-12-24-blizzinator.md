@@ -109,7 +109,7 @@ impl Map {
 
 I'm doing a bit of caching here, but other than that, what we essentially have is a 3-dimensional map. `t` could be time, but it could just as easily be a `z` dimension and we're trying to climb through this cube. 
 
-For #2, I'm actually (just when we're almost done) going to {{<wikipedia text="A*" title="A* search algorithm">}} it up in here:
+For #2, I'm actually (just when we're almost done) going to [[wiki:A* search algorithm|A*]]() it up in here:
 
 ```rust
 fn part1(filename: &Path) -> String {
@@ -174,7 +174,7 @@ That really is the A* algorithm in a nutshell:
   * Take the next `open` node, `close` it, and then for each neighbor:
     * Calculate the new distance + estimate, insert it into `open`
 
-The estimate function is just the {{<wikipedia "Manhattan distance">}} directly to the exit, since that's the best we could do. 
+The estimate function is just the [[wiki:Manhattan distance]]() directly to the exit, since that's the best we could do. 
 
 And... that's it for part 1. Not actually that bad. 
 

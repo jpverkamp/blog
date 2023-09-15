@@ -12,7 +12,7 @@ programming/topics:
 - Websites
 - nginx
 ---
-Recently at work, we were trying to get an application that uses {{< wikipedia "websockets" >}} working on an <a href="https://aws.amazon.com/">AWS</a> instance behind an <a href="https://aws.amazon.com/elasticloadbalancing/">ELB (load balancer)</a> and <a href="http://nginx.org/">nginx</a> on the instance.
+Recently at work, we were trying to get an application that uses [[wiki:websockets]]() working on an <a href="https://aws.amazon.com/">AWS</a> instance behind an <a href="https://aws.amazon.com/elasticloadbalancing/">ELB (load balancer)</a> and <a href="http://nginx.org/">nginx</a> on the instance.
 
 If you're either not using a secure connection or handling the cryptography on the instance (either in nginx or Flask), it works right out of the box. But if you want the ELB to handle TLS termination it doesn't work nearly as well... Luckily, after a bit of fiddling, I got it working.
 

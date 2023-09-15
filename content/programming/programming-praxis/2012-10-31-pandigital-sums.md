@@ -9,7 +9,7 @@ programming/sources:
 programming/topics:
 - Mathematics
 ---
-Yesterday's <a href="http://programmingpraxis.com/2012/10/30/pandigital-numbers/" title="Programming Praxis: Pandigital Numbers">new post</a> from Programming Praxis asked us to find all triples *(a, b, a+b)* such that *a* and *b* are three digits and *a+b* is four and concatenating the numbers results in a {{< wikipedia "pandigital number" >}} (one with all 10 digits). After that, find the smallest individual number in any of these triples.
+Yesterday's <a href="http://programmingpraxis.com/2012/10/30/pandigital-numbers/" title="Programming Praxis: Pandigital Numbers">new post</a> from Programming Praxis asked us to find all triples *(a, b, a+b)* such that *a* and *b* are three digits and *a+b* is four and concatenating the numbers results in a [[wiki:pandigital number]]() (one with all 10 digits). After that, find the smallest individual number in any of these triples.
 
 <!--more-->
 

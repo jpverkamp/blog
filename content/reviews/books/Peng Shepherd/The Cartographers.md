@@ -24,7 +24,7 @@ In a nutshell (if you want to completely avoid spoilers), it's a decent book wit
 
 <!--more-->
 
-Plus side: I love the premise. Take the idea of {{<wikipedia "phantom settlements">}} / {{<wikipedia "copyright traps">}}. Now make it so that if you happen to have the right map--you can actually get to those phantom settlements. I may have to check out [Paper Towns](https://www.goodreads.com/book/show/6442769-paper-towns).
+Plus side: I love the premise. Take the idea of [[wiki:phantom settlements]]() / [[wiki:copyright traps]](). Now make it so that if you happen to have the right map--you can actually get to those phantom settlements. I may have to check out [Paper Towns](https://www.goodreads.com/book/show/6442769-paper-towns).
 
 Minus side: it takes *forever* to actually get to the magic of the book. You (as the reader) are sure there's more to them than you'd think, either having read the blurb--or just being aware of the book's genre. But for how magical a concept it is, we barely get anything to do with them until halfway through the book and even then we're only touching the surface. 
 

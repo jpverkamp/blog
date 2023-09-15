@@ -7,7 +7,7 @@ programming/languages:
 series:
 - Wombat IDE
 ---
-As I mentioned in my last post, I've been adding a {{< wikipedia "turtle graphics" >}} library to Wombat to use with the other C211 libraries ([matrix]({{< ref "2011-12-13-wombat-ide-c211-matrix-library.md" >}}), [image]({{< ref "2011-08-27-wombat-ide-c211-tree-and-image-libraries.md" >}}), and [tree]({{< ref "2011-08-27-wombat-ide-c211-tree-and-image-libraries.md" >}})).
+As I mentioned in my last post, I've been adding a [[wiki:turtle graphics]]() library to Wombat to use with the other C211 libraries ([matrix]({{< ref "2011-12-13-wombat-ide-c211-matrix-library.md" >}}), [image]({{< ref "2011-08-27-wombat-ide-c211-tree-and-image-libraries.md" >}}), and [tree]({{< ref "2011-08-27-wombat-ide-c211-tree-and-image-libraries.md" >}})).
 
 <!--more-->
 
@@ -63,7 +63,7 @@ Essentially, to think about turtle graphics, consider as a thought experiment a 
 
 To use the turtle graphics library, you will have to import it with `(import (c211 turtle))`. After that, just give the above commands a try.
 ## Examples
-Here are some interesting turtles that I've written/translated from the {{< wikipedia page="L-system" text="Wikipedia page on L-Systems" >}}.
+Here are some interesting turtles that I've written/translated from the [[wiki:L-system|Wikipedia page on L-Systems]]().
 ## Box:
 To start out with, a simple box. This shows how to move, how to turn, and how to use the `repeat` macro. In this example and all of the following ones, a new turtle is hatched when calling the function and returned at the end. The functions could have been written to take a turtle as an argument, alter its state, and return nothing--that's just not how I did it.
 
@@ -81,7 +81,7 @@ To start out with, a simple box. This shows how to move, how to turn, and how to
 
 {{< figure src="/embeds/2012/box.png" >}}
 ### Sierpinski triangle:
-Next, the traditional {{< wikipedia "Sierpinski triangle" >}}. This is based on the {{< wikipedia page="L-system" text="L-systems Wikipedia" >}} page, using function calls for the recursive generating function. The original two inverse calls have been combined into the single loop, using the sign of the variable `d` to control which way the rotation is currently going.
+Next, the traditional [[wiki:Sierpinski triangle]](). This is based on the [[wiki:L-system|L-systems Wikipedia]]() page, using function calls for the recursive generating function. The original two inverse calls have been combined into the single loop, using the sign of the variable `d` to control which way the rotation is currently going.
 
 ```scheme
 (define sierpinski
@@ -156,7 +156,7 @@ Rather than using `split` as the tree above does, this star uses a combination o
 
 {{< figure src="/embeds/2012/star.png" >}}
 ### Dragon fractal:
-This is a pretty fractal translated almost directly from the {{< wikipedia "L-System" >}} Wikipedia page. Each recursive level became a function directly this time. The coloring is randomly selected tones from yellow to red.
+This is a pretty fractal translated almost directly from the [[wiki:L-System]]() Wikipedia page. Each recursive level became a function directly this time. The coloring is randomly selected tones from yellow to red.
 
 ```scheme
 (define dragon

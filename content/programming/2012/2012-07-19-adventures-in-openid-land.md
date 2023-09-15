@@ -14,13 +14,13 @@ In any case, the first thing that I wanted to do for this app was to set up some
 
 Since the backend of the website is written in PHP (I generally use Python for prototyping, but I have to admit that it's easier to just hammer out webpages  in PHP) so the first place that a simple web search landed me was <a title="Getting Started with OpenID and PHP" href="http://devzone.zend.com/1254/getting-started-with-openid-and-php/">this article</a> on DevZone, using <a title="Janrain's OpenID Library" href="http://janrain.com/openid-enabled/">Janrain's OpenID library</a>. I downloaded everything... and immediately ran into a roadblock. Turns out in hindsight, I wasn't actually sure how OpenID works, so just mashing the code into my own wasn't going as well as I'd hoped.
 
-Off to {{< wikipedia page="Openid" text="Wikipedia" >}}!
+Off to [[wiki:Openid|Wikipedia]]()!
 
 It turns out that OpenID basically works like this:
 
 {{< figure src="/embeds/2012/openid.png" >}}
 
-({{< wikipedia page="File:OpenIDvs.Pseudo-AuthenticationusingOAuth.svg" text="source" >}}, <a title="CC0 1.0 Universal (CC0 1.0)  Public Domain Dedication" href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">license: CC0 1.0</a>)
+([[wiki:File:OpenIDvs.Pseudo-AuthenticationusingOAuth.svg|source]](), <a title="CC0 1.0 Universal (CC0 1.0)  Public Domain Dedication" href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">license: CC0 1.0</a>)
 
 So basically there were a number of redirects going on behind the scenes that I was having issues setting up, partially due to the relative complexity of the library that I was using. Looking around on the Internet, I found that I wasn't alone in thinking that the library that I was using was particularly powerful, but also a bit more complicated to get started with. So I went in search of a new library and eventually came across <a title="LightOpenID on Google Code" href="http://code.google.com/p/lightopenid/">LightOpenID</a>, with the promise that I could " code a functional client in less than ten lines of code". So off I went!
 

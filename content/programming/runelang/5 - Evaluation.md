@@ -31,7 +31,7 @@ To do that, we need a few things:
 
 ## The environment
 
-The goal of the environment is to properly handle {{<wikipedia "lexical scope">}}. If we have code like this:
+The goal of the environment is to properly handle [[wiki:lexical scope]](). If we have code like this:
 
 ```text
 define test(x) {
@@ -487,7 +487,7 @@ For the `times` list, we do the same (evaluating the same body many times), but 
 
 ## Evaluating expressions
 
-Now here's one of the big (and honestly more alien) bits of the code: expressions. Really, it's a language within a language, since at this point, we have an {{<wikipedia text="RPN" title="Reverse Polish Notation">}} expression to evaluate. 
+Now here's one of the big (and honestly more alien) bits of the code: expressions. Really, it's a language within a language, since at this point, we have an [[wiki:Reverse Polish Notation|RPN]]() expression to evaluate. 
 
 ```javascript
 function evaluateExpression(node, environment) {
@@ -638,7 +638,7 @@ And... that's it. It's a bit of a long writeup and I probably could have gone in
 
 ## Demo
 
-{{<wikipedia "Vegvísir">}}. 
+[[wiki:Vegvísir]](). 
 
 It's something that I always wanted to do with my older [[A DSL for rendering magic circles and runes|rune DSL]]() but couldn't make work. Now I did!
 

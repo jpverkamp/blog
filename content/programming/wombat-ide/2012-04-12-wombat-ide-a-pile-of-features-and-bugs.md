@@ -21,6 +21,6 @@ Enhancements:
 
 * [Issue 160](http://code.google.com/p/wombat-ide/issues/detail?id=160 "Issue 160"): The relative paths for `read-image` and `write-image` now respect the path set by the current-directory function rather than the relative path set by Java.
 * [Issue 162](http://code.google.com/p/wombat-ide/issues/detail?id=162 "Issue 162"): Added a menu option to load files directly into the REPL without opening them. This should be useful for things like large datafiles (still written in Scheme though).
-* Added initial version of a {{< wikipedia "turtle graphics" >}} library. I'll talk about this more when I finish it.
+* Added initial version of a [[wiki:turtle graphics]]() library. I'll talk about this more when I finish it.
 
 The Wombat launcher will automatically download the newest version for you. If you don't have the launcher, you can get it <a title="Wombat Launcher Download Page" href="http://www.cs.indiana.edu/cgi-pub/c211/wombat/">here</a>.

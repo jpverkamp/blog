@@ -60,7 +60,7 @@ Now that we have a way of looking up songs, lets write a few more helper methods
 
 {{< figure src="/embeds/2016/itunes-settings.png" >}}
 
-This will make the file `iTunes Library.xml` / `iTunes Music Library.xml` (it changed between Yosemite and El Capitan) available in your iTunes folder. This is a {{< wikipedia "plist" >}} file which means the built in <a href="https://docs.python.org/2/library/plistlib.html">plistlib</a> can read it directly:
+This will make the file `iTunes Library.xml` / `iTunes Music Library.xml` (it changed between Yosemite and El Capitan) available in your iTunes folder. This is a [[wiki:plist]]() file which means the built in <a href="https://docs.python.org/2/library/plistlib.html">plistlib</a> can read it directly:
 
 ```python
 path = os.path.expanduser('~/Music/iTunes/iTunes Music Library.xml')

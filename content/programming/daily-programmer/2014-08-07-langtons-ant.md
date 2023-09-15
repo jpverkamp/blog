@@ -18,7 +18,7 @@ Here's another post from /r/DailyProgrammer: [Advanced Langton's Ant](http://www
 
 <!--more-->
 
-First, let's define the problem. From Wikipedia: {{< wikipedia "Langton's ant" >}}
+First, let's define the problem. From Wikipedia: [[wiki:Langton's ant]]()
 
 > Squares on a plane are colored variously either black or white. We arbitrarily identify one square as the "ant". The ant can travel in any of the four cardinal directions at each step it takes. The ant moves according to the rules below:
 
@@ -46,12 +46,12 @@ Something like this:
 (define (make-ant rule) (ant rule 0 0+i (hash)))
 ```
 
-Okay, the rule is straight forward enough. Just a string of `L` or `R` characters. Location is a little stranger, but just remember that it's an exact complex number. So `0` is `0+0i` is `(0, 0)`. Direction takes some doing. Luckily though, it's going to make our math amazingly easy. Essentially, we're going to use complex multiplication. Taking from the Wikipedia page on {{< wikipedia page="rotation" text="Rotation (mathematics)" >}}:
+Okay, the rule is straight forward enough. Just a string of `L` or `R` characters. Location is a little stranger, but just remember that it's an exact complex number. So `0` is `0+0i` is `(0, 0)`. Direction takes some doing. Luckily though, it's going to make our math amazingly easy. Essentially, we're going to use complex multiplication. Taking from the Wikipedia page on [[wiki:rotation|Rotation (mathematics)]]():
 
 > Points on the {{< inline-latex "R^2" >}} plane can be also presented as complex numbers: the point `(x, y)` in the plane is represented by the complex number
 
 > {{< latex >}}z = x + iy{{< /latex >}}
-> This can be rotated trhough an angle {{< inline-latex "\theta" >}} by multiplying it by {{< inline-latex "e^{i\theta}" >}}, then expanding the product using {{< wikipedia "Euler's formula" >}} as follows:
+> This can be rotated trhough an angle {{< inline-latex "\theta" >}} by multiplying it by {{< inline-latex "e^{i\theta}" >}}, then expanding the product using [[wiki:Euler's formula]]() as follows:
 
 > ...
 
@@ -324,7 +324,7 @@ Let it run forever, it just runs off in that one direction. It's actually really
 
 > Finally the ant starts building a recurrent "highway" pattern of 104 steps that repeat indefinitely. All finite initial configurations tested eventually converge to the same repetitive pattern, suggesting that the "highway" is an attractor of Langton's ant, but no one has been able to prove that this is true for all such initial configurations. It is only known that the ant's trajectory is always unbounded regardless of the initial configuration[4] – this is known as the Cohen-Kung theorem.
 
-> -- {{< wikipedia "Langton's Ant" >}}
+> -- [[wiki:Langton's Ant]]()
 
 
 And that's about it. Surprisingly simple, yet awesome emergent behavior.

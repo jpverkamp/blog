@@ -19,7 +19,7 @@ bingo-data:
   2022 Book Bingo:
   - 1x5+
 ---
-The Culture: a "a utopian, post-scarcity space society of humanoid aliens, and advanced superintelligent artificial intelligences living in artificial habitats spread across the Milky Way galaxy" ({{<wikipedia "Culture series">}})
+The Culture: a "a utopian, post-scarcity space society of humanoid aliens, and advanced superintelligent artificial intelligences living in artificial habitats spread across the Milky Way galaxy" ([[wiki:Culture series]]())
 
 > Besides, it left the humans in the Culture free to take care of the things that really mattered in life, such as sports, games, romance, studying dead languages, barbarian societies and impossible problems, and climbing high mountains without the aid of a safety harness.
 

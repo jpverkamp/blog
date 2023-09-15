@@ -10,7 +10,7 @@ programming/languages:
 - PHP
 - Go
 ---
-If you have a website that allows users to submit URLs, one of the (many many) things people will try to do to break your site is to submit URLs that use the `javascript:` protocol (rather than the more expected `http:` or `https:`). This is almost never something that you want, since it allows users to submit essentially arbitrary code that other users will run on click in the context of your domain ({{< wikipedia "same origin policy" >}}). 
+If you have a website that allows users to submit URLs, one of the (many many) things people will try to do to break your site is to submit URLs that use the `javascript:` protocol (rather than the more expected `http:` or `https:`). This is almost never something that you want, since it allows users to submit essentially arbitrary code that other users will run on click in the context of your domain ([[wiki:same origin policy]]()). 
 
 So how do you fix it? 
 

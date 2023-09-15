@@ -16,7 +16,7 @@ So how far did I get? Well, take a look.
 
 {{< figure src="/embeds/2013/brong-lots-of-balls.png" >}}
 
-My goal for this month was to right a smashup of {{< wikipedia page="Breakout (video game)" text="Breakout" >}} and {{< wikipedia "Pong" >}}. I don't know if I've ever actually written a version of either, so it seemed like a thing to do.
+My goal for this month was to right a smashup of [[wiki:Breakout (video game)|Breakout]]() and [[wiki:Pong]](). I don't know if I've ever actually written a version of either, so it seemed like a thing to do.
 
 The basic gameplay would have started with a ball on each paddle with a solid wall of Breakout bricks between the two. To actually start scoring, you'd have to break through the wall. In addition, there was going to be the whole gamut of Breakout powerups: sticky paddles, speed changing balls, meteors, splitters, you name it. The power ups were going to (theoretically) play a large part in actually beating your opponent.
 

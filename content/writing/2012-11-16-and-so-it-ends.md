@@ -24,4 +24,4 @@ If you have a preference for which you'd rather see, just let me know. At the mo
 
 Well, that's that. It's been a long, strange journey. Thank you for sharing it with me.
 
-*PS: Out of curiosity, has anyone read {{< wikipedia page="Allen Steele" text="Allen Steele's" >}} Coyote books? If you have, just let it be known that I actually wrote A Sea of Stars before I read those, believe it or not. :smile:*
+*PS: Out of curiosity, has anyone read [[wiki:Allen Steele|Allen Steele's]]() Coyote books? If you have, just let it be known that I actually wrote A Sea of Stars before I read those, believe it or not. :smile:*

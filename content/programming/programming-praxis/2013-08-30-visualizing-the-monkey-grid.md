@@ -32,11 +32,11 @@ I'm going to take a slightly different take since the problem itself isn't that 
 
 Check out the source for a few more helper functions: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/monkey-grid.rkt">GitHub: jpverkamp/small-projects/monkey-grid.rkt</a>
 
-Essentially, it's a {{< wikipedia page="Cartesian coordinate system" text="Cartesian grid" >}} that can stretch off arbitrarily far without having to pre-allocate the memory and without dealing with the pesky problems of manually doing the nested hashes all of the time. Granted, this particular problem will be pretty dense, so something more like an extensible {{< wikipedia "quadtree" >}} might have worked better, but this is what I went for first.
+Essentially, it's a [[wiki:Cartesian coordinate system|Cartesian grid]]() that can stretch off arbitrarily far without having to pre-allocate the memory and without dealing with the pesky problems of manually doing the nested hashes all of the time. Granted, this particular problem will be pretty dense, so something more like an extensible [[wiki:quadtree]]() might have worked better, but this is what I went for first.
 
 So that being said, how do we want to approach the actual problem?
 
-My first thought was that we're working in Racket. We should abstract it over the actual generating function, because {{< wikipedia "first order functions" >}} are awesome. So we can solve the problem for any sort of function, just just the given one.
+My first thought was that we're working in Racket. We should abstract it over the actual generating function, because [[wiki:first order functions]]() are awesome. So we can solve the problem for any sort of function, just just the given one.
 
 My second thought was let's just do it:
 
@@ -61,7 +61,7 @@ My second thought was let's just do it:
   grid)
 ```
 
-Here we have a nice {{< wikipedia "depth-first search" >}}that will set each point that the monkey can reach to true (the second case) and ones it cannot to false (the third). The first case there is to stop the monkey from moving west then immediately east again. Once we've visited a point, we'll not recur from it again. We'll still visit points up to five times (the original time and potentially once coming back from each direction), but writing this way is much cleaner than checking before you move.
+Here we have a nice [[wiki:depth-first search]]()that will set each point that the monkey can reach to true (the second case) and ones it cannot to false (the third). The first case there is to stop the monkey from moving west then immediately east again. Once we've visited a point, we'll not recur from it again. We'll still visit points up to five times (the original time and potentially once coming back from each direction), but writing this way is much cleaner than checking before you move.
 
 So how does it work? Well, let's write a quick function to visualize an infinite grid:
 
@@ -113,7 +113,7 @@ One option would be to count the number of steps that we've taken and allow the 
   grid)
 ```
 
-Intuitively, it would probably be more obvious to thread the number of `steps` through the loop as a variable, but that wouldn't actually do what we want because the four branches don't share state. We could have each call to loop return the number of steps it took, but then it wouldn't be {{< wikipedia "tail recursive" >}}, so we'd lose a bit in performance and make the code messier. So instead, we use a{{< doc racket "parameter" >}}, giving us a variable with {{< wikipedia page="Dynamic scope#Dynamic scoping" text="dynamic" >}}rather than {{< wikipedia page="Lexical scope#Lexical scoping" text="lexical" >}}scope.
+Intuitively, it would probably be more obvious to thread the number of `steps` through the loop as a variable, but that wouldn't actually do what we want because the four branches don't share state. We could have each call to loop return the number of steps it took, but then it wouldn't be [[wiki:tail recursive]](), so we'd lose a bit in performance and make the code messier. So instead, we use a{{< doc racket "parameter" >}}, giving us a variable with [[wiki:Dynamic scope#Dynamic scoping|dynamic]]()rather than [[wiki:Lexical scope#Lexical scoping|lexical]]()scope.
 
 Now we can generate a whole sequence of images (click any image to biggify):
 
@@ -132,7 +132,7 @@ We start out by going to the left as expected. After we reach the far end (that 
 
 This is all well and good, but couldn't we fill it in from the inside out?
 
-To do that, we need to take a different approach. Rather than a depth-first search, we want to go {{< wikipedia page="Breadth-first search" text="breadth-first" >}}. Essentially the idea will be to use a {{< wikipedia page="Queue (abstract data type)" text="queue" >}}(so that the first points we think to study are the first we do rather than following a branch to the end) rather than the implicit {{< wikipedia page="Stack (computer science)" text="stack" >}}we get from recurring.
+To do that, we need to take a different approach. Rather than a depth-first search, we want to go [[wiki:Breadth-first search|breadth-first]](). Essentially the idea will be to use a [[wiki:Queue (abstract data type)|queue]]()(so that the first points we think to study are the first we do rather than following a branch to the end) rather than the implicit [[wiki:Stack (computer science)|stack]]()we get from recurring.
 
 Here's one way to do that:
 
@@ -314,7 +314,7 @@ For those playing at home, here's a bigger one (remember, click to embiggen):
 
 {{< figure src="/embeds/2013/monkey-prime-large.png" >}}
 
-Another option would be to check if x and y are {{< wikipedia "coprime" >}}:
+Another option would be to check if x and y are [[wiki:coprime]]():
 
 ```scheme
 (coprime 100 #:gradient #t #:depth-first #f)

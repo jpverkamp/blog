@@ -491,6 +491,6 @@ Yeah, okay. That's a lot
 
 ## What's next?
 
-Well, that handles how clients and servers talk to one another... so I think next we should write a very simple server (we can talk to it with {{<wikipedia "telnet">}} / {{<wikipedia "netcat">}}). A simple hash map for just keys/values and maybe number of keys should be good.
+Well, that handles how clients and servers talk to one another... so I think next we should write a very simple server (we can talk to it with [[wiki:telnet]]() / [[wiki:netcat]]()). A simple hash map for just keys/values and maybe number of keys should be good.
 
 Onward!

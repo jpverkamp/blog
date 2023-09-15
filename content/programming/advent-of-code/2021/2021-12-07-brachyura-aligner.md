@@ -45,7 +45,7 @@ target=323, fuel=336040
 
 Quick.
 
-#### **Part 2:** Instead of using the distance function `|I-n|`, instead use `d(1)=1, d(2)=3, d(3)=6`, etc (the {{< wikipedia "triangular numbers" >}}). 
+#### **Part 2:** Instead of using the distance function `|I-n|`, instead use `d(1)=1, d(2)=3, d(3)=6`, etc (the [[wiki:triangular numbers]]()). 
 
 It actually originally said:
 

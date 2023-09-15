@@ -106,9 +106,9 @@ The third and fourth entries are the IPs from the first and second, just in a nu
 
 `"8.7.245.0","8.10.6.242","134739200","134874866","US","United States"`
 
-It's not perfect, but it's certainly something we can massage into shape. But what we really want is a lookup to turn an IP into a country. If we turn the data into a sorted vector, we can do a {{< wikipedia "binary search" >}} to perform the lookups much more quickly.
+It's not perfect, but it's certainly something we can massage into shape. But what we really want is a lookup to turn an IP into a country. If we turn the data into a sorted vector, we can do a [[wiki:binary search]]() to perform the lookups much more quickly.
 
-The format isn't particularly optimal, but we can massage it easily enough. What we really want though is to be able to search it. So what we'll do is build a function that contains the data as a sorted vector. That way we can use a {{< wikipedia "binary search" >}} to (much) more quickly scan through
+The format isn't particularly optimal, but we can massage it easily enough. What we really want though is to be able to search it. So what we'll do is build a function that contains the data as a sorted vector. That way we can use a [[wiki:binary search]]() to (much) more quickly scan through
 
 ```scheme
 ; 1c) Load list of IP/country mappings (dynamically?) (GeoMind Lite)

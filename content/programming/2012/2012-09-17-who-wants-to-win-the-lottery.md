@@ -30,7 +30,7 @@ Glad you asked. It turns out that the catch is pretty straight forward. All you 
 |    0     |    Yes     |        $4         |          $12          |      1 in 55      |
 
 
-But what does that actually tell you? Well, quite a lot actually. If you take the odds of each chance of winning and multiply it by the payoff (less $2/$4 for the ticket), that will give you the {{< wikipedia "expected value" >}} for that payoff. For example, if you only consider the Powerball, the expected value would be:
+But what does that actually tell you? Well, quite a lot actually. If you take the odds of each chance of winning and multiply it by the payoff (less $2/$4 for the ticket), that will give you the [[wiki:expected value]]() for that payoff. For example, if you only consider the Powerball, the expected value would be:
 
 {{< latex >}}(1/35)(2) + (34/35)(-2) \approx -1.88{{< /latex >}}
 

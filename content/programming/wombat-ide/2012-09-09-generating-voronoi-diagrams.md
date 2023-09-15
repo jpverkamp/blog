@@ -5,7 +5,7 @@ programming/languages:
 - Java
 - Scheme
 ---
-I was playing with [image library]({{< ref "2012-02-18-wombat-ide-updated-tree-and-image-libraries.md" >}}) and started to think about more ways that I could generate images. One idea that came to mind was to generate a bunch of colored points on the image and then color every other pixel based on which seed point was closest. Turns out, that's exactly what a {{< wikipedia "Voronoi diagram" >}}is... The Wikipedia article at least says that Voronoi diagrams can be traced back at least to {{< wikipedia "Descartes" >}}in 1644, so I guess at least I'm in good company. :smile:
+I was playing with [image library]({{< ref "2012-02-18-wombat-ide-updated-tree-and-image-libraries.md" >}}) and started to think about more ways that I could generate images. One idea that came to mind was to generate a bunch of colored points on the image and then color every other pixel based on which seed point was closest. Turns out, that's exactly what a [[wiki:Voronoi diagram]]()is... The Wikipedia article at least says that Voronoi diagrams can be traced back at least to [[wiki:Descartes]]()in 1644, so I guess at least I'm in good company. :smile:
 
 <!--more-->
 

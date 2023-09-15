@@ -6,7 +6,7 @@ programming/languages:
 programming/topics:
 - Mathematics
 ---
-Probability can be a bit counter-intuitive at times. Take for example, the {{< wikipedia page="Birthday paradox" text="birthday problem / paradox" >}}: how many people do you need in a room to have a 50/50 chance that two share the same birthday?
+Probability can be a bit counter-intuitive at times. Take for example, the [[wiki:Birthday paradox|birthday problem / paradox]](): how many people do you need in a room to have a 50/50 chance that two share the same birthday?
 
 <!--more-->
 
@@ -14,7 +14,7 @@ Turns out, it's not as many as you might think: you only need 23.
 
 Why? Math!
 
-If you have one person, it's guaranteed that you won't have duplicated birthdays. If you have two, there is a 1/365 chance (we're going to ignore {{< wikipedia page="February 29" text="Leap Days" >}} for the time being). You can think of it by randomly choosing the first birthday then finding the chance of matching that.
+If you have one person, it's guaranteed that you won't have duplicated birthdays. If you have two, there is a 1/365 chance (we're going to ignore [[wiki:February 29|Leap Days]]() for the time being). You can think of it by randomly choosing the first birthday then finding the chance of matching that.
 
 The math starts getting a bit more interesting when you have three people. Rather than directly calculating the problem, consider the inverse. Start with the chance that the second person doesn't match the first and then add the chance that the third doesn't match either the first or second:
 
@@ -52,7 +52,7 @@ Working out several interesting values of *n*:
 
 
 So it turns out, you only need 23 people to get a 50/50 chance of two sharing the same birthday. That's about what you'd seen in the average classroom.
-Not what you'd probably expect, but the math holds it out. There's also another interesting factor going on that once you have 367 people in a room (one more than the possible number of days in a year, then are guaranteed to have a match). That's from the {{< wikipedia "pigeonhole principle" >}}, but hopefully it's more intuitive as well. If you have 366 people spread out all over the year, even on February 29, then when could the 367's birthday possibly be to *not* overlap? Exactly.
+Not what you'd probably expect, but the math holds it out. There's also another interesting factor going on that once you have 367 people in a room (one more than the possible number of days in a year, then are guaranteed to have a match). That's from the [[wiki:pigeonhole principle]](), but hopefully it's more intuitive as well. If you have 366 people spread out all over the year, even on February 29, then when could the 367's birthday possibly be to *not* overlap? Exactly.
 
 But you don't have to take my word for it, the math should stand by itself. And if that's not enough, here's a quick script that might just help to convince you. Just click the button to generate a random room of 23 people. Run it enough times and you should see that 50/50 split.
 

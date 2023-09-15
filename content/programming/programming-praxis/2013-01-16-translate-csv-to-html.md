@@ -11,7 +11,7 @@ programming/topics:
 - CSV
 - Web Development
 ---
-<a href="http://programmingpraxis.com/2013/01/15/translate-csv-to-html/" title="Translate CSV to HTML">Yesterday's post</a> from Programming Praxis asks us to write a function that will read content formatted as {{< wikipedia "comma-separated values" >}} and output the result as an HTML table. Their solution uses the <a href="http://programmingpraxis.com/essays/#text-file-databases" title="Text file database">text file database library</a> that they posted about (which is a neat concept, you should check it out), but I think I'm going to work out the solution more directly.
+<a href="http://programmingpraxis.com/2013/01/15/translate-csv-to-html/" title="Translate CSV to HTML">Yesterday's post</a> from Programming Praxis asks us to write a function that will read content formatted as [[wiki:comma-separated values]]() and output the result as an HTML table. Their solution uses the <a href="http://programmingpraxis.com/essays/#text-file-databases" title="Text file database">text file database library</a> that they posted about (which is a neat concept, you should check it out), but I think I'm going to work out the solution more directly.
 
 <!--more-->
 
@@ -43,7 +43,7 @@ Note how "is a" had to be parsed as a string because it was two objects, both qu
 
 From there, we'll want to output that as HTML, but we'll get to that in a bit. If you'd like to follow along with the full code though, you can do so on GitHub: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/csv-to-html.rkt" title="GitHub: csv to html source">csv to html source</a>
 
-My basic avenue of attack is to use a {{< wikipedia "finite state machine" >}} to parse the input. I'm going to have four states:
+My basic avenue of attack is to use a [[wiki:finite state machine]]() to parse the input. I'm going to have four states:
 
 
 * start -- when we're starting a line item
@@ -90,7 +90,7 @@ First, we want to read the next character. Then we'll need to process it. The fi
 ...
 ```
 
-For the moment, ignore the *try-read* function. That will do the work of trying to parse a string as a Scheme object and falling back to a string if it fails. Other than that, one additional thing to note is that all three of the lists mentioned above are being built backwards (that's just the nature of {{< wikipedia "tail recursion" >}}; ask me why in the comments if you're curious).
+For the moment, ignore the *try-read* function. That will do the work of trying to parse a string as a Scheme object and falling back to a string if it fails. Other than that, one additional thing to note is that all three of the lists mentioned above are being built backwards (that's just the nature of [[wiki:tail recursion]](); ask me why in the comments if you're curious).
 
 That means when we're done with each block/line, we have to *reverse* it. You incur an *O(n)* cost, but compared to some of the other stuff we're doing, that'll be negligible. If you're really interested in performance, you'd probably want to read a line at a time into memory and split it using *substring*.
 
@@ -136,7 +136,7 @@ Next, dealing with string mode. Basically, we have three options. Either we cont
 
 This is a bit more complicated, but only a bit. The interesting parts to note are that if we see an escape, we just skip over (buffering) the next character. That way, we can skip right past things like \". Technically, we could read ahead (like we have to do in the third part of this anyways) and skip the state entirely, but I think this way is cleaner.
 
-To show the other way though, consider the third part where a string mode block ends. There are three possible endings here (each of which could be states, but I'm demonstrating both methods). Either you have a comma after the quote and you go on to another item on this line, you have a newline (I need to but haven't dealt with \r or \r\n {{< wikipedia "line endings" >}}. For now, this is Unix (including OS X) only.), or you have an error. One interesting thing to note: this system actually allows for multiline strings. So these two would be equivalent:
+To show the other way though, consider the third part where a string mode block ends. There are three possible endings here (each of which could be states, but I'm demonstrating both methods). Either you have a comma after the quote and you go on to another item on this line, you have a newline (I need to but haven't dealt with \r or \r\n [[wiki:line endings]](). For now, this is Unix (including OS X) only.), or you have an error. One interesting thing to note: this system actually allows for multiline strings. So these two would be equivalent:
 
 ```css
 "hello

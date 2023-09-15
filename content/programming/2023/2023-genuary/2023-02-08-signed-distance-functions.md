@@ -22,7 +22,7 @@ Let's do it!
 
 <!--more-->
 
-Wikipedia: {{<wikipedia "Signed Distance Functions">}}
+Wikipedia: [[wiki:Signed Distance Functions]]()
 
 * [Piter explains how to SDFs](https://genuary.art/wtsdf)
 * [2D distance functions by Inigo Quilez](https://iquilezles.org/articles/distfunctions2d/)

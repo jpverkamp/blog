@@ -16,7 +16,7 @@ Pretty pretty picture time[^1]:
 
 <!--more-->
 
-The basic idea here is that of a {{< wikipedia "Brownian Tree" >}}:
+The basic idea here is that of a [[wiki:Brownian Tree]]():
 
 > A Brownian tree is built with these steps: first, a "seed" is placed somewhere on the screen. Then, a particle is placed in a random position of the screen, and moved randomly until it bumps against the seed. The particle is left there, and another particle is placed in a random position and moved until it bumps against the seed or any previous particle, and so on.
 
@@ -79,7 +79,7 @@ Furthermore, because we're using `ormap`, as soon as we have any matching point,
   #t)
 ```
 
-The last bit is the `random-point` function. Since we're dealing with a circle, it will be easiest to generate the points in {{< wikipedia "polar coordinates" >}} and then converting them to {{< wikipedia "Cartesian coordinates" >}}:
+The last bit is the `random-point` function. Since we're dealing with a circle, it will be easiest to generate the points in [[wiki:polar coordinates]]() and then converting them to [[wiki:Cartesian coordinates]]():
 
 ```scheme
 ; Generate a new random point on the border of a given circle
@@ -348,7 +348,7 @@ Well, think about it. Every time we were calling `draw`, we were redrawing the e
 
 It's a little more complicated, but the basic idea should be pretty straight forward. If given an exact subset of the points we've already drawn, directly return that image. Since we're actually returning the same list (with potentially more points in front), `eq?` does exactly what we want here.
 
-And there you have it. Brownian trees, in {{< wikipedia page="Brownian motion" text="motion" >}}.
+And there you have it. Brownian trees, in [[wiki:Brownian motion|motion]]().
 
 If you'd like to see all of the code in one place, you can do so here: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/brownian-tree.rkt">Brownian tree on GitHub</a>
 

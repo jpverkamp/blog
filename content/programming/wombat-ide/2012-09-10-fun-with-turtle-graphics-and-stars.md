@@ -7,7 +7,7 @@ programming/languages:
 programming/topics:
 - Fractals
 ---
-After [Saturday's post]({{< ref "2012-09-08-the-first-two-problems.md" >}}) on using [turtle graphics]({{< ref "2012-04-13-wombat-ide-turtle-graphics.md" >}}) to draw letters, I wanted to get back into drawing some {{< wikipedia "fractals" >}}. Fractals are cool.
+After [Saturday's post]({{< ref "2012-09-08-the-first-two-problems.md" >}}) on using [turtle graphics]({{< ref "2012-04-13-wombat-ide-turtle-graphics.md" >}}) to draw letters, I wanted to get back into drawing some [[wiki:fractals]](). Fractals are cool.
 
 <!--more-->
 

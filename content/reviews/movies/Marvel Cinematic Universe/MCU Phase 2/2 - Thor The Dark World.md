@@ -64,16 +64,16 @@ It takes Asgard and the nine realms in all their CGI mono-environmental glory[^4
 
 That's not to say that there weren't a few problems though.
 
-Jane Foster ({{< wikipedia "Natalie Portman" >}}) still doesn't make sense. They had *one* weekend together[^7], then didn't see each other for years. 
+Jane Foster ([[wiki:Natalie Portman]]()) still doesn't make sense. They had *one* weekend together[^7], then didn't see each other for years. 
 
-Then there was {{< wikipedia "Christopher Eccleston" >}} as the big bad Malekith. He was just ... sort of there. Pretty much completely interchangeable. Sure, he can kick some Asguardian butt, but so can The Incredible Hulk. ¯\_(ツ)_/¯
+Then there was [[wiki:Christopher Eccleston]]() as the big bad Malekith. He was just ... sort of there. Pretty much completely interchangeable. Sure, he can kick some Asguardian butt, but so can The Incredible Hulk. ¯\_(ツ)_/¯
 
 Still. Pretty good. Pretty dang good. Of the Marvel Movies this year, I still liked Iron Man 3 better, but only just. They're both certainly worth a rewatching in a year and change when Avengers 2 comes out. 
 
 {{< ranking "2013 Movie Reviews" >}}
 
-[^1]: And {{< wikipedia page="Hawkeye" text="Hawkeye (comics)" >}}
-[^2]: And {{< wikipedia "Phil Coulson" >}}
+[^1]: And [[wiki:Hawkeye|Hawkeye (comics)]]()
+[^2]: And [[wiki:Phil Coulson]]()
 [^3]: What's with the colon'ated titles?
 [^4]: Seriously? An entire frozen world?
 [^5]: Although exactly what will kill them remains somewhat unclear.

@@ -20,7 +20,7 @@ programming/topics:
 
 <!--more-->
 
-Pretty straight forward today. Basically, we're looking for the {{< wikipedia "least common multiple" >}} (`lcm`) of all of the numbers from 1 to 20. So, we'll start with that. Here's a way to define `lcm`, directly from the wikipedia article:
+Pretty straight forward today. Basically, we're looking for the [[wiki:least common multiple]]() (`lcm`) of all of the numbers from 1 to 20. So, we'll start with that. Here's a way to define `lcm`, directly from the wikipedia article:
 
 {{< latex >}}lcm(a,b)=\frac{ |ab| }{gcd(a,b)}{{< /latex >}}
 
@@ -35,7 +35,7 @@ This translates pretty directly:
 
 Luckily, `lcm` is commutative, so `(lcm (lcm a b) c)` is the same as `(lcm a (lcm b c))`, etc.
 
-However, as you may have noticed, we need another function: `gcd` (the {{< wikipedia "greatest common divisor" >}}). Euclid's algorithm is both straight forward and nicely expressed in a recursive fashion:
+However, as you may have noticed, we need another function: `gcd` (the [[wiki:greatest common divisor]]()). Euclid's algorithm is both straight forward and nicely expressed in a recursive fashion:
 
 {{< latex >}}gcd(a,b) = \begin{cases} a &amp;\mbox{if } b=0 \\ gcd(b,mod(a,b)) &amp; \mbox{otherwise} \end{cases}{{< /latex >}}
 

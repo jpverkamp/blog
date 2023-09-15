@@ -63,7 +63,7 @@ for line in lib.input():
 print(max(registers.values()))
 ```
 
-If we didn't have the {{< doc python operator >}} module, we'd have a large `if/elif/else` block instead. I like this better; {{< wikipedia "higher order functions" >}} are lovely.
+If we didn't have the {{< doc python operator >}} module, we'd have a large `if/elif/else` block instead. I like this better; [[wiki:higher order functions]]() are lovely.
 
 > **Part 2:** What is the largest value any register reaches during execution?
 

@@ -82,7 +82,7 @@ impl<'a, 'b> ops::Mul<&'b LunarInteger> for &'a LunarInteger {
 
 I think this is *significantly* cleaner. Still not sure if it's idiomatic, but it's not bad. 
 
-This time around, rather than messing with keeping various structures of numbers and digits around, a `LunarInteger` is *always* a struct over a `vec` of digits (`u8`), specifically in *reverse order*. Since that's the order that addition and multiplication are actually implemented, it doesn't make sense to reverse them all of them time. Actually... this finally managed to make why you would want to deal with {{<wikipedia "little-endian">}} numbers... For all these years I just accepted it and moved on. 
+This time around, rather than messing with keeping various structures of numbers and digits around, a `LunarInteger` is *always* a struct over a `vec` of digits (`u8`), specifically in *reverse order*. Since that's the order that addition and multiplication are actually implemented, it doesn't make sense to reverse them all of them time. Actually... this finally managed to make why you would want to deal with [[wiki:little-endian]]() numbers... For all these years I just accepted it and moved on. 
 
 We can construct them from a `u32` with `LunarInteger::new` and get the value with `LunarInteger::value`. Display then uses `value`, but otherwise remains mostly the same. 
 

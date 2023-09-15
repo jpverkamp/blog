@@ -10,7 +10,7 @@ programming/topics:
 - Algorithms
 - Cellular Automata
 ---
-Random quick post today[^1]. Basically, we want to write code to generate what's known as {{< wikipedia "Look and Say sequence" >}}:
+Random quick post today[^1]. Basically, we want to write code to generate what's known as [[wiki:Look and Say sequence]]():
 
 
 > To generate a member of the sequence from the previous member, read off the digits of the previous member, counting the number of digits in groups of the same digit. For example:
@@ -31,7 +31,7 @@ Originally, my interest in this came from a video on the excellent YouTube video
 
 {{< youtube ea7lJkEhytA >}}
 
-Yes, that is {{< wikipedia "John Conway" >}} of {{< wikipedia "Conway's Game of Life" >}}. It's well worth the watch.
+Yes, that is [[wiki:John Conway]]() of [[wiki:Conway's Game of Life]](). It's well worth the watch.
 
 Then this morning, /r/dailyprogrammer has a post: <a href="https://www.reddit.com/r/dailyprogrammer/comments/2ggy30/9152014_challenge180_easy_looknsay/">Challenge #180 [Easy] Look'n'Say</a>. Seems like it's about time. :smile:
 

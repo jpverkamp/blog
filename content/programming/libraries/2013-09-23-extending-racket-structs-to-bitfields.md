@@ -59,7 +59,7 @@ Here are some more examples:
 
 Nice and straight forward. The real question though is what sort of magic did we need to get this all working? Just as useful as having the package itself is the additional experience with a relative complicated macro.
 
-First, we need to introduce some more names. Normally, that isn't particularly straight forward, since we have to bend the rules of {{< wikipedia page="Hygienic macro" text="hygienic macros" >}} just a bit. Luckily though, Racket provides the tools to do just that: {{< doc racket "with-syntax" >}} and {{< doc racket "format-id" >}}. Essentially, `with-syntax` is similar to `syntax-case` in that it binds more syntax variables. `format-id` is basically an extension to format that attaches scope to the new `id` in order to make cleaner error message. Always a plus. :smile: Here's how all of that looks:
+First, we need to introduce some more names. Normally, that isn't particularly straight forward, since we have to bend the rules of [[wiki:Hygienic macro|hygienic macros]]() just a bit. Luckily though, Racket provides the tools to do just that: {{< doc racket "with-syntax" >}} and {{< doc racket "format-id" >}}. Essentially, `with-syntax` is similar to `syntax-case` in that it binds more syntax variables. `format-id` is basically an extension to format that attaches scope to the new `id` in order to make cleaner error message. Always a plus. :smile: Here's how all of that looks:
 
 ```scheme
 ; Bind a struct (and normal functions) plus these new functions:

@@ -9,9 +9,9 @@ programming/topics:
 - Networks
 - Security
 ---
-For a research project I'm working on, it has become necessary to scan potentially large {{< wikipedia page="Cidr" text="IPv4 prefixes" >}} in order to find any {{< wikipedia page="DNS resolver" text="DNS revolvers" >}} that I can and classify them as either open (accepting queries from anyone) or closed.
+For a research project I'm working on, it has become necessary to scan potentially large [[wiki:Cidr|IPv4 prefixes]]() in order to find any [[wiki:DNS resolver|DNS revolvers]]() that I can and classify them as either open (accepting queries from anyone) or closed.
 
-Disclaimer: This is a form of {{< wikipedia "port scanning" >}} and thus has associated ethical and legal considerations. Use it at your own risk. 
+Disclaimer: This is a form of [[wiki:port scanning]]() and thus has associated ethical and legal considerations. Use it at your own risk. 
 
 This project is available on GitHub: <a href="https://github.com/jpverkamp/dnsscan" title="GitHub: jpverkamp: dnsscan">jpverkamp/dnsscan</a>
 

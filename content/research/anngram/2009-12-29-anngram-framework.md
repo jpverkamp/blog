@@ -14,7 +14,7 @@ programming/topics:
 
 The first portion of the framework that it was necessary to code was the ability to load documents.  To reduce the load on the processor when first loading the document, only a minimal amount of computation is done.  Further computation is pushed off until necessary.
 
-To avoid duplicating work, the n-grams are stored using {{< wikipedia "memoization" >}}.  The basic idea is that when a function (in this case, a particular length of n-gram) is first requested, the calculation is done and the result is stored in memory.  During any future calls, the cached result is directly returned, greatly increasing speed at the cost of memory.  Luckily, modern computers have more than sufficient memory for the task at hand.
+To avoid duplicating work, the n-grams are stored using [[wiki:memoization]]().  The basic idea is that when a function (in this case, a particular length of n-gram) is first requested, the calculation is done and the result is stored in memory.  During any future calls, the cached result is directly returned, greatly increasing speed at the cost of memory.  Luckily, modern computers have more than sufficient memory for the task at hand.
 
 <!--more-->
 

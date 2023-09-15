@@ -23,7 +23,7 @@ The talk here was basically about how the SIE architecture works and what you ca
 
 **Robert Edmonds (ISC), *<a title="Sorted String Tables: ISC mtbl and ISC dnstable" href="http://www.caida.org/workshops/isc-caida/1210/slides/isc1210_redmonds.html">Sorted String Tables: ISC mtbl and ISC dnstable</a>***
 
-The presenter basically explained how the DNSDB project actually goes about storing it's data in a way that doesn't just grow out of control. It's based on a similar idea to Google's {{< wikipedia page="Bigtable" text="BigTable file format" >}} (<a title="Bigtable: A Distributed Storage System for Structured Data" href="http://dl.acm.org/citation.cfm?id=1365816">original paper</a>). Essentially, it lets you store key/value data in a particularly quick and efficient way in exchange for making it immutable. It looks like an interesting work from a data structures perspective; I'll have to take a look at it at some point.
+The presenter basically explained how the DNSDB project actually goes about storing it's data in a way that doesn't just grow out of control. It's based on a similar idea to Google's [[wiki:Bigtable|BigTable file format]]() (<a title="Bigtable: A Distributed Storage System for Structured Data" href="http://dl.acm.org/citation.cfm?id=1365816">original paper</a>). Essentially, it lets you store key/value data in a particularly quick and efficient way in exchange for making it immutable. It looks like an interesting work from a data structures perspective; I'll have to take a look at it at some point.
 
 **Damon McCoy (George Mason University), *Manufacturing Compromise: The Emergence of Exploit-as-a-Service***
 

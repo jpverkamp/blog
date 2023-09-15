@@ -13,7 +13,7 @@ programming/topics:
 ---
 ### Source: [Seven Segment Search](https://adventofcode.com/2021/day/8)
 
-#### **Part 1:** Simulate a {{< wikipedia "seven segment displey" >}} where you do not know which input wire controls which segment. Given the wires used in all ten digits and four output digits, count how many times 1, 4, 7, and 8 are outputted. 
+#### **Part 1:** Simulate a [[wiki:seven segment displey]]() where you do not know which input wire controls which segment. Given the wires used in all ten digits and four output digits, count how many times 1, 4, 7, and 8 are outputted. 
 
 <!--more-->
 

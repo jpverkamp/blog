@@ -62,7 +62,7 @@ def hash(line):
     return hasher.hexdigest()
 ```
 
-That always uses {{< doc "python" "hashlib.md5" >}} to sort the lists. The {{< wikipedia "md5" >}} hash has some issues from a security perspective, but for our purposes here it works just fine. Let's try it out:
+That always uses {{< doc "python" "hashlib.md5" >}} to sort the lists. The [[wiki:md5]]() hash has some issues from a security perspective, but for our purposes here it works just fine. Let's try it out:
 
 ```bash
 $ cat fruit

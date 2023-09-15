@@ -21,7 +21,7 @@ series:
 
 <!--more-->
 
-Yay! Something Racket is great at! {{< wikipedia text="Trees" page="Tree (data structure)" >}}!
+Yay! Something Racket is great at! [[wiki:text="Trees" page="Tree (data structure)"]]()!
 
 First, let's read in the structure. Reading recursive data is wonderfully simple in Racket:
 

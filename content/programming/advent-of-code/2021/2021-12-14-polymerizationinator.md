@@ -14,7 +14,7 @@ series:
 
 <!--more-->
 
-Okay. First try, let's just solve this directly. Although, since we know that we're going to be inserting into the middle of the list constantly, we can be slightly more efficient by using a {{< wikipedia "linked list" >}}:
+Okay. First try, let's just solve this directly. Although, since we know that we're going to be inserting into the middle of the list constantly, we can be slightly more efficient by using a [[wiki:linked list]]():
 
 ```python
 
@@ -277,7 +277,7 @@ $ python3 polymerizationinator.py --cache recursive input.txt 15
 
 Now *that* is what I'm talking about. 
 
-So what in the world just happened? Well, when we're recursively building up all of these counts, we're going to run into `count(a, b, n)` more than once in the same layer. Especially as the sequence gets longer and longer, there are going to be *many* duplicates. And what's more, once you hit one of those cases, *all* of the recursive calls from that point on will be the same. What `cache` does is tell the computer to calculate a given answer (for input `a, b, depth`) *once* and store ({{< wikipedia "memoize" >}}) the answer. So we only have to do each branch once. This cuts out a *huge* amount of work. 
+So what in the world just happened? Well, when we're recursively building up all of these counts, we're going to run into `count(a, b, n)` more than once in the same layer. Especially as the sequence gets longer and longer, there are going to be *many* duplicates. And what's more, once you hit one of those cases, *all* of the recursive calls from that point on will be the same. What `cache` does is tell the computer to calculate a given answer (for input `a, b, depth`) *once* and store ([[wiki:memoize]]()) the answer. So we only have to do each branch once. This cuts out a *huge* amount of work. 
 
 And... it lets us run the full 40 *really* quickly:
 

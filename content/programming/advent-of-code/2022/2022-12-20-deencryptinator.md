@@ -101,7 +101,7 @@ impl Message {
 }
 ```
 
-One thing that I really wanted to do was to use {{<wikipedia "modular arithmetic">}}, but alas. The behavior on negative numbers (returning a negative number) is not what I actually want. I could have just added one more size (which is something I just thought of now), but this works as well enough. 
+One thing that I really wanted to do was to use [[wiki:modular arithmetic]](), but alas. The behavior on negative numbers (returning a negative number) is not what I actually want. I could have just added one more size (which is something I just thought of now), but this works as well enough. 
 
 As I did mention, the finding the `index_current` (which is the currently shuffled index) that matches the `index_to_move` is the first trick. After that, we don't care about the index. 
 
@@ -251,7 +251,7 @@ I like that we can just `iter_mut` over the data and then loop the `decrypt` fun
 
 ## Unit testing
 
-Something I really should have been doing throughout these problems that came to a head during this problem: {{<wikipedia "unit testing">}}. I have always been testing my two answers (to make sure it stays stable), but for this one, the `mix` function just has so many edge cases... So to make sure that each fix kept working for later cases:
+Something I really should have been doing throughout these problems that came to a head during this problem: [[wiki:unit testing]](). I have always been testing my two answers (to make sure it stays stable), but for this one, the `mix` function just has so many edge cases... So to make sure that each fix kept working for later cases:
 
 ```rust
 #[cfg(test)]

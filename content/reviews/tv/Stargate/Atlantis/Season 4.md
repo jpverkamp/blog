@@ -61,7 +61,7 @@ Mini-reviews (potential spoilers):
 
 - *Outcast*: Back on Earth with Sheppard and Ronon. Okay... And then turns out Replicators again... ish? Meh. Atlantis shines when it's 'out there', not on Earth. 
 
-- *Trio*: Another {{< wikipedia "Bottle Episode" >}} (although apparently more expensive than they’d hoped), this time with McKay, Keller, and Carter. I really like the dynamic between those three. 
+- *Trio*: Another [[wiki:Bottle Episode]]() (although apparently more expensive than they’d hoped), this time with McKay, Keller, and Carter. I really like the dynamic between those three. 
 
     > McKAY: Oh, not that you don't. Oh, no, no-no, I realise that your bodies are different and-and-and, uh, uh, maybe that would mean that I think that your body is imperfect but that is not the case. No, no-no, far, far, far from it. That is a sweet ... uh, which is to say, I mean, it would be impossible for me to choose which of you ...
     > 

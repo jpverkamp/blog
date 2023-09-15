@@ -141,7 +141,7 @@ I'm not sure that was any easier to read than the code honestly. :smile:
 
 Well that's neat. 
 
-To do this, the first thing I want to do is to create a second set of points: `external`. For this, I want all points that are 'outside' of the `cloud`. To generate this list, I need `Point3DCloud::bounds`, a bound outside of the `bounds`, and to {{<wikipedia "flood fill">}} from that point to fill the bounds. 
+To do this, the first thing I want to do is to create a second set of points: `external`. For this, I want all points that are 'outside' of the `cloud`. To generate this list, I need `Point3DCloud::bounds`, a bound outside of the `bounds`, and to [[wiki:flood fill]]() from that point to fill the bounds. 
 
 Once I've done that, any points in the flood fill are `external`, so we can use very nearly the same code as above. If for each cube, for each side, if the next cube on that side is `external`, this is an external surface. 
 
@@ -236,7 +236,7 @@ The flood fill should be straight forward enough:
     * Add the neighbor to the queue; note: most of these will be skipped and that's fine, just so long as we don't oscillate back and forth
 
 
-And that's it. Two parts in much less time than {{<crosslink Pressurinator>}}. 
+And that's it. Two parts in much less time than [[AoC 2022 Day 16: Pressurinator|Pressurinator]](). 
 
 ## Performance
 

@@ -60,7 +60,7 @@ total_risk=491
 
 #### **Part 2:** Calculate 'basins', regions of the heightmap surrounded by heights of 9. Return the product of the size of the three largest basins.
 
-This one is a bit more interesting. We already have the heightmap and we don't actually currently care about the local minimums anymore. Instead, we want to find regions. For that, the algorithm of choice is a {{< wikipedia "flood fill" >}}. Specifically, we can get away with a {{< wikipedia "dynamic algorithm" >}} here:
+This one is a bit more interesting. We already have the heightmap and we don't actually currently care about the local minimums anymore. Instead, we want to find regions. For that, the algorithm of choice is a [[wiki:flood fill]](). Specifically, we can get away with a [[wiki:dynamic algorithm]]() here:
 
 * For each point in the heightmap:
     * If it's been assigned a height or is a wall (height of 9), ignore it
@@ -192,7 +192,7 @@ basinmap_image = basinmap_image.resize((image_width * 4, image_height * 4), Imag
 basinmap_image.convert(mode='RGB').save(basin_file)
 ```
 
-I used {{< wikipedia "HSV" >}} so that I could index colors based on the basin index and then 10007 as a big prime to scramble them a bit so it wasn't just a nice color map descending the image (because of the order I flood filled them in). 
+I used [[wiki:HSV]]() so that I could index colors based on the basin index and then 10007 as a big prime to scramble them a bit so it wasn't just a nice color map descending the image (because of the order I flood filled them in). 
 
 {{< figure src="/embeds/2021/aoc2021-09-basins.png" >}}
 

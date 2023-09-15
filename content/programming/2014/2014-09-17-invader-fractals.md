@@ -117,7 +117,7 @@ Okay, next we need the rendering function:
     1/2)))
 ```
 
-Unfortunately, that first bit is a little bit hacky. Since we've split apart the functions that create and render this fractal, we don't know how large of an image to make. Still, it's quick enough to calculate. Then, we get into actually making the image. It's much the same as the code in [Fractal Invaders]({{< ref "2014-09-16-fractal-invaders.md" >}}). We recur down, keeping two different sets of coordinates: image coorcinates `x`, `y`, `t`, `l`, and `s` and then coordinates within the current level `xi` and `yi`. There is a lot of dividing and multiplying by that {{< wikipedia "magic number" >}}, but os it goes.
+Unfortunately, that first bit is a little bit hacky. Since we've split apart the functions that create and render this fractal, we don't know how large of an image to make. Still, it's quick enough to calculate. Then, we get into actually making the image. It's much the same as the code in [Fractal Invaders]({{< ref "2014-09-16-fractal-invaders.md" >}}). We recur down, keeping two different sets of coordinates: image coorcinates `x`, `y`, `t`, `l`, and `s` and then coordinates within the current level `xi` and `yi`. There is a lot of dividing and multiplying by that [[wiki:magic number]](), but os it goes.
 
 And that's really it. There's a call to {{< doc racket "flomap-crop" >}}, but that's just to cut off the outermost margin (since it will (1) always be empty and (2) the second level's margin will still include some spacing). So how does it look?
 
@@ -156,7 +156,7 @@ Because we reset the random seed at the beginning of the calculate and always ge
 
 :smile:
 
-Unfortunately, the lower levels aren't the same pattern, since we're generating the images using a {{< wikipedia "depth first search" >}} rather than the {{< wikipedia "breadth first search" >}}. More specifically, we're generating the invaders in this order:
+Unfortunately, the lower levels aren't the same pattern, since we're generating the images using a [[wiki:depth first search]]() rather than the [[wiki:breadth first search]](). More specifically, we're generating the invaders in this order:
 
 {{< figure src="/embeds/2014/depth-first.png" >}}
 
@@ -164,7 +164,7 @@ In that case, the ordering is: generate the image for the given level, then the 
 
 {{< figure src="/embeds/2014/breadth-first.png" >}}
 
-Unfortunately, that doesn't work out well in our specific code, since we're working recursively, working with a {{< wikipedia page="stack" text="Stack (computer science)" >}} (implicitly via function calls). To do a breadth first search, we would need instead to create a explicit {{< wikipedia page="queue" text="Stack (computer science)" >}}, which would require some fairly major refactoring.
+Unfortunately, that doesn't work out well in our specific code, since we're working recursively, working with a [[wiki:stack|Stack (computer science)]]() (implicitly via function calls). To do a breadth first search, we would need instead to create a explicit [[wiki:queue|Stack (computer science)]](), which would require some fairly major refactoring.
 
 There's another option though:
 

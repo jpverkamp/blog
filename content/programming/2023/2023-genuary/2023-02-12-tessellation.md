@@ -21,8 +21,8 @@ Let's do it!
 
 ## 12) Tessellation
 
-Wikipedia: {{<wikipedia "Tessellation">}}
- ({{<wikipedia title="List of Tesselations" text="List">}})
+Wikipedia: [[wiki:Tessellation]]()
+ ([[wiki:List of Tesselations|List]]())
 
 This was not at all the direction I ended to go, but it got really interesting, so I decided to keep it. 
 

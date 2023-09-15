@@ -360,7 +360,7 @@ async fn main() -> std::io::Result<()> {
 }
 ```
 
-One difference here is that we're using `Arc<Mutex<State>>`. An `Arc` is a {{<wikipedia "reference counter">}} to the item held inside, so that that as long as at least one copy still exists, it will stay in scope. In this case, we have one copy for the eviction thread and then one more per connected client. 
+One difference here is that we're using `Arc<Mutex<State>>`. An `Arc` is a [[wiki:reference counter]]() to the item held inside, so that that as long as at least one copy still exists, it will stay in scope. In this case, we have one copy for the eviction thread and then one more per connected client. 
 
 This actually does make our client truly multi-threaded and thread safe, since we're passing the same `state` to each. 
 

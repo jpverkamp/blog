@@ -55,7 +55,7 @@ Now the caveats:
 
 One: Pocahontas is really the only Disney animated movie to that point (and really since) based on specific historical individuals. There are a few based on folk tales and myths that may have been based on real people (like Robin Hood, Hercules, and Mulan), but really... there's just Pocahontas. So of course the fact that it's not really *that* historical--John Smith and Pocahontas are real people, but they were decades apart in age and never really had a relationship; Pocahontas isn't even realy her name, it's closer to a nickname--rubs some people the wrong way. I think it might have been better received had they been made up whole cloth, but really who can say. 
 
-Two: There's more than a little of the '{{<wikipedia "Noble savage">}}, treating the native people as these perfect New Age hippies, in touch with the magic of the 'New World' where really, they were people as well, some good, some bad, and all people. And if you're going to base a movie on real native tribes (such as those who created Jamestown would have met), you could do more to accurately represent their specific beliefs and practices. 
+Two: There's more than a little of the '[[wiki:Noble savage]](), treating the native people as these perfect New Age hippies, in touch with the magic of the 'New World' where really, they were people as well, some good, some bad, and all people. And if you're going to base a movie on real native tribes (such as those who created Jamestown would have met), you could do more to accurately represent their specific beliefs and practices. 
 
 All that being said, it's a disney film. And I really do think they do a decent job of telling a good story while still being relatively respectful:
 

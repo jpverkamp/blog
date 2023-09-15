@@ -15,7 +15,7 @@ series:
 
 <!--more-->
 
-Bit weirdly stated. My first thought would be to use {{< wikipedia "regular expressions" >}}[^regexhammer], but that doesn't actually fit supper well with this case, because you need _exactly_ two matches. I'm not actually sure how you'd even write something like that, since you'd have to match against 'not this' _before you found the first match_. Meh.
+Bit weirdly stated. My first thought would be to use [[wiki:regular expressions]]()[^regexhammer], but that doesn't actually fit supper well with this case, because you need _exactly_ two matches. I'm not actually sure how you'd even write something like that, since you'd have to match against 'not this' _before you found the first match_. Meh.
 
 In both Racket and Python, I'm going to create a hash that maps each unique letter in a word to how many times that letter occurs:
 

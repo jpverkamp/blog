@@ -19,9 +19,9 @@ Slightly[^1] longer version:
 
 [HTTPS everywhere](https://www.eff.org/https-everywhere) is a worthwhile goal. Even when you have traffic that isn't super interesting or sensitive by itself, the fact that you're encrypting it makes traffic that really does need to be encrypted safer against tools that grab all of the encrypted traffic they can to decrypt later if/when possible.
 
-One of the downsides of using HTTPS though is that without certain things in place, many users will still type `domain.com` in their address bar from time to time, completely missing out on the `https://`. While you can immediately redirect them, that very first request is a risk, since if a {{< wikipedia "man-in-the-middle attack" >}} happens to catch that request, they can downgrade the entire connection.
+One of the downsides of using HTTPS though is that without certain things in place, many users will still type `domain.com` in their address bar from time to time, completely missing out on the `https://`. While you can immediately redirect them, that very first request is a risk, since if a [[wiki:man-in-the-middle attack]]() happens to catch that request, they can downgrade the entire connection.
 
-Enter {{< wikipedia "HTTP Strict Transport Security" >}} (HSTS). It's a HTTP header that you can send on the first `HTTPS` connection you establish with a compatible client. Once you've done that, any further requests (until the header's TTL expires without being renewed) will be sent to `https://` no matter what the user types. Which solves the first request problem for all sessions... but it still doesn't fix the very first time you have to get the header. So how do you fix that?
+Enter [[wiki:HTTP Strict Transport Security]]() (HSTS). It's a HTTP header that you can send on the first `HTTPS` connection you establish with a compatible client. Once you've done that, any further requests (until the header's TTL expires without being renewed) will be sent to `https://` no matter what the user types. Which solves the first request problem for all sessions... but it still doesn't fix the very first time you have to get the header. So how do you fix that?
 
 <!--more-->
 

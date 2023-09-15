@@ -13,15 +13,15 @@ programming/topics:
 - Wikipedia
 - Word Games
 ---
-Yesterday, <a title="Daily programmer sub-reddit" href="http://www.reddit.com/r/dailyprogrammer/">the daily programmer Subreddit</a> had <a title="[03/27/13] Challenge #121 [Intermediate] Path to Philosophy" href="http://www.reddit.com/r/dailyprogrammer/comments/1b3ka1/032713_challenge_121_intermediate_path_to/">a post that</a> mirrored a problem I've often seen before: the idea that if you follow first links ((With some caveats)) on {{< wikipedia page="Main Page" text="Wikipedia" >}}, you eventually end with {{< wikipedia "Philosophy" >}}. For example, if you follow the first links from {{< wikipedia "Molecule" >}}, you get the following path:
+Yesterday, <a title="Daily programmer sub-reddit" href="http://www.reddit.com/r/dailyprogrammer/">the daily programmer Subreddit</a> had <a title="[03/27/13] Challenge #121 [Intermediate] Path to Philosophy" href="http://www.reddit.com/r/dailyprogrammer/comments/1b3ka1/032713_challenge_121_intermediate_path_to/">a post that</a> mirrored a problem I've often seen before: the idea that if you follow first links ((With some caveats)) on [[wiki:Main Page|Wikipedia]](), you eventually end with [[wiki:Philosophy]](). For example, if you follow the first links from [[wiki:Molecule]](), you get the following path:
 
-> {{< wikipedia "Molecule" >}} → {{< wikipedia "Atom" >}} → {{< wikipedia "Matter" >}} → {{< wikipedia "Rest Mass" >}} → {{< wikipedia "Invariant Mass" >}} → {{< wikipedia "Energy" >}} → {{< wikipedia "Kinetic Energy" >}} → {{< wikipedia "Physics" >}} → {{< wikipedia "Natural Philosophy" >}} → {{< wikipedia page="Philosophy" text="Philosophy" >}}
+> [[wiki:Molecule]]() → [[wiki:Atom]]() → [[wiki:Matter]]() → [[wiki:Rest Mass]]() → [[wiki:Invariant Mass]]() → [[wiki:Energy]]() → [[wiki:Kinetic Energy]]() → [[wiki:Physics]]() → [[wiki:Natural Philosophy]]() → [[wiki:Philosophy|Philosophy]]()
 
 <!--more-->
 
 I've followed the paths by hand before, but this is the first time that I've actually tried to do it in a programmatic manner. It's harder than you might think, but really only because of the crazy number of edge cases involved in correctly parsing either the <a title="MediaWiki" href="http://www.mediawiki.org/wiki/MediaWiki">MediaWiki </a>format or the resulting HTML. I eventually got it working though, and here's the result.
 
-First, we want to be able to fetch the pages from Wikipedia. We really want to {{< wikipedia page="Cache (computing)" text="cache" >}}these as we go, so that we don't accidentally get rate-limited by Wikipedia's servers (or at the very least to be nicer to them). Here's what I wrote for that part (using the <a title="Wikipedia API" href="http://www.mediawiki.org/wiki/API:Main_page">Wikipedia API</a>) ((If you'd like to follow along, here's the code on GitHub: <a title="GitHub: Path to philosophy source" href="https://github.com/jpverkamp/small-projects/blob/master/blog/path-to-philosophy.rkt">path to philosophy source</a>)):
+First, we want to be able to fetch the pages from Wikipedia. We really want to [[wiki:Cache (computing)|cache]]()these as we go, so that we don't accidentally get rate-limited by Wikipedia's servers (or at the very least to be nicer to them). Here's what I wrote for that part (using the <a title="Wikipedia API" href="http://www.mediawiki.org/wiki/API:Main_page">Wikipedia API</a>) ((If you'd like to follow along, here's the code on GitHub: <a title="GitHub: Path to philosophy source" href="https://github.com/jpverkamp/small-projects/blob/master/blog/path-to-philosophy.rkt">path to philosophy source</a>)):
 
 ```scheme
 (define wikipedia-api-url "http://en.wikipedia.org/w/api.php?format=json&action=query&titles=~a&prop=revisions&rvprop=content")
@@ -56,7 +56,7 @@ First, we want to be able to fetch the pages from Wikipedia. We really want to {
   ...
 ```
 
-Basically, where ever your code is running from, it will create / use a subdirectory called *cache* into which it will dump one file per page, each with the *{{< wikipedia "json" >}}* extension duplicating whatever content that Wikipedia has returned. Technically, it has the ability to force a refresh, but in practice I just deleted the entire cache folder when I wanted to reset it ((Yes, I know. That kind of defeats the purpose of having a cache in the first place...)).
+Basically, where ever your code is running from, it will create / use a subdirectory called *cache* into which it will dump one file per page, each with the *[[wiki:json]]()* extension duplicating whatever content that Wikipedia has returned. Technically, it has the ability to force a refresh, but in practice I just deleted the entire cache folder when I wanted to reset it ((Yes, I know. That kind of defeats the purpose of having a cache in the first place...)).
 
 Unfortunately, once you have that, it's still in a nice nested structure. So we need to be able to pull out the actual page content. If you use <a title="Racket API: JSON" href="http://pre.racket-lang.org/docs/html/json/index.html">Racket's JSON library</a>, you'll have a nested series of {{< doc racket "hashes " >}}and {{< doc racket "lists" >}} that you have to navigate through. It's not quite as nice as <a title="Python JSON" href="http://docs.python.org/2/library/json.html">Python's model</a> ((Which I've used extensively <a title="Github: jsonq source" href="https://github.com/jpverkamp/jsonq">before</a>. How haven't I written a blog post about that yet?)) but it's not bad. Basically, I figured out the structure by hand and write a function to just ignore anything I didn't care about:
 
@@ -85,7 +85,7 @@ Unfortunately, once you have that, it's still in a nice nested structure. So we 
      (hash-ref (car (hash-ref content 'revisions)) '*)]))
 ```
 
-Now we have the actual content of the page in the original <a title="MediaWiki Syntax" href="http://www.mediawiki.org/wiki/Help:Formatting">MediaWiki syntax</a>. Links will look like this `[[target|text]]`, so we should just be able to write a simple {{< wikipedia "regular expression" >}} and we'll be golden, right? Well, not so much. There are a number of additional rules that we're supposed to follow:
+Now we have the actual content of the page in the original <a title="MediaWiki Syntax" href="http://www.mediawiki.org/wiki/Help:Formatting">MediaWiki syntax</a>. Links will look like this `[[target|text]]`, so we should just be able to write a simple [[wiki:regular expression]]() and we'll be golden, right? Well, not so much. There are a number of additional rules that we're supposed to follow:
 
 * Take the first link in the main body of the page, except:
 * Ignore links in parentheses

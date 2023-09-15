@@ -125,7 +125,7 @@ Value *vs_pop(ValueStack *stack)
 
 Sweet. 
 
-Next, random access (making it a `vec` rather than a {{<wikipedia "linked list">}}):
+Next, random access (making it a `vec` rather than a [[wiki:linked list]]()):
 
 ```c
 // Get a value from the stack by index without removing it

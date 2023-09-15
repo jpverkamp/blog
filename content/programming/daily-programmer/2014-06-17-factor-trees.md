@@ -15,9 +15,9 @@ Another five minute challenge[^1], this time from <a href="http://www.reddit.com
 
 <!--more-->
 
-The basic idea is straight forward enough. Each positive integer of note[^2] is in one of two classes: either it is {{< wikipedia page="Prime number" text="prime" >}} or a {{< wikipedia page="Composite number" text="composite" >}}. For the composite numbers, there are at least two numbers *m* and *n* such that neither *m* nor *n* is 1 and *mn* equals that number. For example, 6 is composite because *2 * 3 = 6*, yet 5 is not, since the only numbers that divide it are 1 and itself. Since 5 is not composite, it only makes sense that it is prime.
+The basic idea is straight forward enough. Each positive integer of note[^2] is in one of two classes: either it is [[wiki:Prime number|prime]]() or a [[wiki:Composite number|composite]](). For the composite numbers, there are at least two numbers *m* and *n* such that neither *m* nor *n* is 1 and *mn* equals that number. For example, 6 is composite because *2 * 3 = 6*, yet 5 is not, since the only numbers that divide it are 1 and itself. Since 5 is not composite, it only makes sense that it is prime.
 
-But then, what if you have a bigger number, such as 24. You can break that into *4 * 6*. But neither of those is prime, so you can further break it into *(2 * 2) * (2 * 3)*. Finally, each of those is prime. All together, that makes up what is called a {{< wikipedia "factor tree" >}}:
+But then, what if you have a bigger number, such as 24. You can break that into *4 * 6*. But neither of those is prime, so you can further break it into *(2 * 2) * (2 * 3)*. Finally, each of those is prime. All together, that makes up what is called a [[wiki:factor tree]]():
 
 {{< figure src="/embeds/2014/tree-24.png" >}}
 
@@ -25,7 +25,7 @@ That's the challenge this week. Generate that tree.
 
 Well, that's more than enough description. Let's get to it.
 
-Basically, there's a quick (albeit not perfectly efficient) way to find factors: {{< wikipedia "trial division" >}}. Basically, you loop through all of the numbers from 2 to the square root of the number (any larger and you'll find factors you've already found), trying to divide by each in turn. That though, generates this image rather than the previous:
+Basically, there's a quick (albeit not perfectly efficient) way to find factors: [[wiki:trial division]](). Basically, you loop through all of the numbers from 2 to the square root of the number (any larger and you'll find factors you've already found), trying to divide by each in turn. That though, generates this image rather than the previous:
 
 {{< figure src="/embeds/2014/tree-24-small.png" >}}
 

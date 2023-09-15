@@ -10,7 +10,7 @@ programming/topics:
 - Mathematics
 - Noise
 ---
-Many games need noise. No, not {{< wikipedia page="Noise" text="that noise" >}}--{{< wikipedia page="Perlin noise" text="this noise" >}}. Or better yet, {{< wikipedia page="Simplex noise" text="this noise" >}}. More seriously, noise in this context refers to psuedo-randomly generated images that can be used for natural looking terrain generation[^1]. Something like this:
+Many games need noise. No, not [[wiki:Noise|that noise]]()--[[wiki:Perlin noise|this noise]](). Or better yet, [[wiki:Simplex noise|this noise]](). More seriously, noise in this context refers to psuedo-randomly generated images that can be used for natural looking terrain generation[^1]. Something like this:
 
 {{< figure src="/embeds/2013/simplex-colored-256x256-16x.png" >}}
 
@@ -71,7 +71,7 @@ It's not particularly useful for what we're looking for at the moment, but it's 
 
 One problem that all of these images have that we want to try and solve is that none of them are particularly 'smooth'. Neighboring values have essentially no relation to each other, so if we tried to use them directly to generate something like terrain, it's going to look obviously artificial. So what we really want is not only a consistent pseudo-random function, but also one that is smooth.
 
-There are a number of ways that we could go about this, but to make a long story shorter[^2] two of the most commonly used algorithms are called {{< wikipedia "Perlin noise" >}} and {{< wikipedia "simplex noise" >}}. Both algorithms were originally implemented by {{< wikipedia "Ken Perlin" >}}, Perlin noise in the 1980s[^3] and simplex noise in 2001.
+There are a number of ways that we could go about this, but to make a long story shorter[^2] two of the most commonly used algorithms are called [[wiki:Perlin noise]]() and [[wiki:simplex noise]](). Both algorithms were originally implemented by [[wiki:Ken Perlin]](), Perlin noise in the 1980s[^3] and simplex noise in 2001.
 
 Browsing around the Internet, I found a relatively clean and well commented version for both of them in <a title="PDF describing Perlin and simplex noise" href="http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf">this PDF</a>. The original code was written in C, but it was surprisingly straightforward to convert it to Racket. It's certainly not the fastest code (I haven't really gone that far into optimizing Racket code. If anyone has any advice for as such, I'd love to hear it!), but it does exactly what it's designed to do. Here is the code on GitHub: <a title="noise source on GitHub" href="https://github.com/jpverkamp/noise/blob/master/noise.rkt">noise.rkt</a>.
 
@@ -113,7 +113,7 @@ In each case, you can specify one to three dimensions. For example, these are al
 
 Both of the functions will scale roughly in the range [-1.0, 1.0] as in the original implementation. If you look closely and sort of squint, these functions have something that the original functions didn't have: they're smooth. Values generated on coordinates near to each other are similar. It will be much easier if we happened to have functions that could visualize these. {{< doc racket "picturing-programs" >}} to the rescue!
 
-Using essentially the same code as before, we now have everything we need to generate these images. As I said, there are two helper functions that I needed to write. `clamp` will take a number in the range [-1.0, 1.0] (or any range really) and scale it to [0.0, 1.0]. `float-color` takes {{< wikipedia "RGB" >}}values in the range [0.0, 1.0] and scales them to bytes in the range [0, 255] so we can make a color. You can see the code for both of those <a title="noisy-image-test.rkt" href="https://github.com/jpverkamp/noise/blob/master/noisy-image-test.rkt">on GitHub</a>--they should be pretty straight forward.
+Using essentially the same code as before, we now have everything we need to generate these images. As I said, there are two helper functions that I needed to write. `clamp` will take a number in the range [-1.0, 1.0] (or any range really) and scale it to [0.0, 1.0]. `float-color` takes [[wiki:RGB]]()values in the range [0.0, 1.0] and scales them to bytes in the range [0, 255] so we can make a color. You can see the code for both of those <a title="noisy-image-test.rkt" href="https://github.com/jpverkamp/noise/blob/master/noisy-image-test.rkt">on GitHub</a>--they should be pretty straight forward.
 
 With that, here's a function that can generate any sized image (with a scaling factor) from Perlin noise:
 
@@ -145,4 +145,4 @@ If you have any comments about either coding style or optimizations, I'd love to
 
 [^1]: Among many, many other uses
 [^2]: Too late...
-[^3]: He actually won a {{< wikipedia "Academy Award for Technical Achievement" >}} for it in 1997. I didn't even know that was a thing...
+[^3]: He actually won a [[wiki:Academy Award for Technical Achievement]]() for it in 1997. I didn't even know that was a thing...

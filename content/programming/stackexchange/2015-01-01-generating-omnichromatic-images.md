@@ -121,7 +121,7 @@ Much better. This time we have a reasonable sampling of colors. Well... sort of.
 
 One problem is that unless you have a specific power, this isn't quite going to give you an even split, but it's certainly better than the previous examples.
 
-Another idea would be to make use of {{< wikipedia "gray codes" >}}, rather than directly use the indicies. Also known as a reflected binary code, the idea of a gray code is that between any two values, you change only one bit. This has two advantages. First, gray codes avoid the sudden change we have in previous images where we go from the end of one iteration to the beginning of the next. Second, gray codes essentially form a {{< wikipedia "space filling curve" >}}. If you have a power of 2, *n* gray codes will cover the same space as *n* sequential values, just in a different order. Let's see what that means for our color generation:
+Another idea would be to make use of [[wiki:gray codes]](), rather than directly use the indicies. Also known as a reflected binary code, the idea of a gray code is that between any two values, you change only one bit. This has two advantages. First, gray codes avoid the sudden change we have in previous images where we go from the end of one iteration to the beginning of the next. Second, gray codes essentially form a [[wiki:space filling curve]](). If you have a power of 2, *n* gray codes will cover the same space as *n* sequential values, just in a different order. Let's see what that means for our color generation:
 
 ```racket
 (define (->gray-code i)
@@ -186,7 +186,7 @@ Simple enough. That generates the images we've seen above:
 
 This time, you may have noticed a few more parameters. Specifically, this time we care about not just how many colors to generate, but also the size of the iamge we're going to put them in. Likewise, in some of the later functions, we're going to want to determine which color we're about to place (generated from the color producers) and what neighbors we're about to place it nearby. In the next section, we'll have to show how we came to those last two functions / parameters.
 
-How about next, we spiral from a central point outwards. This is similar to the `in-spiral` function I defined in the post on [palette swapping]({{< ref "2014-12-23-palette-swapping.md" >}}), only this time we'll use a {{< wikipedia page="queue" text="Queue_(abstract_data_type)" >}} rather than a generator:
+How about next, we spiral from a central point outwards. This is similar to the `in-spiral` function I defined in the post on [palette swapping]({{< ref "2014-12-23-palette-swapping.md" >}}), only this time we'll use a [[wiki:queue|Queue_(abstract_data_type)]]() rather than a generator:
 
 ```racket
 ; Spiral from the center point outwards
@@ -432,7 +432,7 @@ The oddest one is `grow-average`. Since we need to track both the sum and the co
 
 I really also like how different `grow-minimum` and `grow-maximum` are, despite how similar their definitions are. Specifically, since in the latter we take the worst case error, we get neat ridges between the expanding color sections which are only filled right at the very end. Likewise, `grow-average` has it's own distinct feel. Because of the averaging of the error, it tends to be much more muted.
 
-Another interesting note is runtime. Because of how the border pixels are filled in, `grow-maximum` will have a much longer list through most of its run. Furthermore, since we have to compare every current border pixel to each new color, that results in a correspondingly longer runtime. While they would have the same runtime in {{< wikipedia "Big O notation" >}}, the constants are very different.
+Another interesting note is runtime. Because of how the border pixels are filled in, `grow-maximum` will have a much longer list through most of its run. Furthermore, since we have to compare every current border pixel to each new color, that results in a correspondingly longer runtime. While they would have the same runtime in [[wiki:Big O notation]](), the constants are very different.
 
 You may be asking yourself, so what about that `#:seeds` paramater? Well, with that, you can do something like this: growing in from the edges rather than from the center:
 

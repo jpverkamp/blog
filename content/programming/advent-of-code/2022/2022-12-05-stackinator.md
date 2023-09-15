@@ -248,7 +248,7 @@ fn part2(filename: &Path) -> String {
 }
 ```
 
-And for this, we actually do want a `LinkedList`, since that allows {{<inline-latex "O(1)" >}} push and pop from both ends, so we can have {{<wikipedia FIFO>}} instead of {{<wikipedia FILO>}}. 
+And for this, we actually do want a `LinkedList`, since that allows {{<inline-latex "O(1)" >}} push and pop from both ends, so we can have [[wiki:FIFO]]() instead of [[wiki:FILO]](). 
 
 ## Performance
 

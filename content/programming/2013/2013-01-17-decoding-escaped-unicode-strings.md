@@ -11,9 +11,9 @@ programming/topics:
 - Unicode
 slug: decoding-escaped-unicode-characters
 ---
-In one of my current research projects involving large amounts of <a href="https://twitter.com/" title="Twitter">Twitter</a> data from a variety of countries, I came across an interesting problem. The Twitter stream is encoded as a series of {{< wikipedia "JSON" >}} objects--each of which has been written out using {{< wikipedia "ASCII" >}} characters. But not all of the Tweets (or even a majority in this case) can be represented with only ASCII. So what happens?
+In one of my current research projects involving large amounts of <a href="https://twitter.com/" title="Twitter">Twitter</a> data from a variety of countries, I came across an interesting problem. The Twitter stream is encoded as a series of [[wiki:JSON]]() objects--each of which has been written out using [[wiki:ASCII]]() characters. But not all of the Tweets (or even a majority in this case) can be represented with only ASCII. So what happens?
 
-Well, it turns out that they encode the data as JSON strings with {{< wikipedia "Unicode" >}} {{< wikipedia "escape characters" >}}. So if we had the Russian hashtag #победазанами (victory is ours), that would be encoded as such:
+Well, it turns out that they encode the data as JSON strings with [[wiki:Unicode]]() [[wiki:escape characters]](). So if we had the Russian hashtag #победазанами (victory is ours), that would be encoded as such:
 
 ```python
 "#\u043f\u043e\u0431\u0435\u0434\u0430\u0437\u0430\u043d\u0430\u043c\u0438"
@@ -21,7 +21,7 @@ Well, it turns out that they encode the data as JSON strings with {{< wikipedia 
 
 <!--more-->
 
-Each block of characters with the form `\uxxxx` (where `x` is a {{< wikipedia "hexadecimal" >}} value) is actually a Unicode character. But the problem is, there's no direct way (to my knowledge) to force Python to convert those to the actual characters. At least not directly. (My original plan was to use `eval`, but some Tweets broke that rather badly.)
+Each block of characters with the form `\uxxxx` (where `x` is a [[wiki:hexadecimal]]() value) is actually a Unicode character. But the problem is, there's no direct way (to my knowledge) to force Python to convert those to the actual characters. At least not directly. (My original plan was to use `eval`, but some Tweets broke that rather badly.)
 
 What I ended up doing was writing a quick script that would convert such strings. Essentially, it would use regular expression to match the `\uxxxx` pattern. Then it would extract the hex value and convert it to a single Unicode character. Finally, the former would be replaced with the latter, repeating the process so long as more matches were found.
 

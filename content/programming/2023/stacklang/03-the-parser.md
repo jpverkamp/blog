@@ -156,7 +156,7 @@ Numbers are further distinguished ([see below](#numbers)). Otherwise, it's strin
 
 ### `Number` - the numeric tower
 
-The {{<wikipedia "numeric tower">}}.
+The [[wiki:numeric tower]]().
 
 ```rust
 /// The numeric tower

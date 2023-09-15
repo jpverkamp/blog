@@ -12,7 +12,7 @@ series:
 ---
 ### Source: [Squares With Three Sides](http://adventofcode.com/2016/day/3)
 
-> **Part 1:** Given a list of sides, determine how many form valid triangles. (Hint: {{< wikipedia "triangle inequality" >}})
+> **Part 1:** Given a list of sides, determine how many form valid triangles. (Hint: [[wiki:triangle inequality]]())
 
 <!--more-->
 

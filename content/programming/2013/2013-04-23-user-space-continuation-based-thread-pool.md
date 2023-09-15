@@ -15,7 +15,7 @@ The full challenge states that we are to:
 
 > Your goal is to implement an *efficient* and *dynamic* user-level threading library. You may implement this in any language and on any platform, but you may not use any existing threading code or implementation, such as the Win32 threading code or the UNIX pthreads lib. You may call system functions (such as interrupts and signals), but again cannot defer any thread-specific work to the operating system.
 
-The only two solutions posted thus far use <a title="JavaScript solution" href="http://www.reddit.com/r/dailyprogrammer/comments/1ceai7/040113_challenge_122_intermediate_userspace/c9foc4n">JavaScript's setTimeout method</a> (which arguably is already thread specific functionality) or <a title="Haskell solution" href="http://www.reddit.com/r/dailyprogrammer/comments/1ceai7/040113_challenge_122_intermediate_userspace/c9g27et">Haskell and the 'free' monad</a>[^1]. For a bit of variety, I'll be using {{< wikipedia "continuations" >}}, essentially to implement {{< wikipedia "coroutines" >}} with manual scheduling.
+The only two solutions posted thus far use <a title="JavaScript solution" href="http://www.reddit.com/r/dailyprogrammer/comments/1ceai7/040113_challenge_122_intermediate_userspace/c9foc4n">JavaScript's setTimeout method</a> (which arguably is already thread specific functionality) or <a title="Haskell solution" href="http://www.reddit.com/r/dailyprogrammer/comments/1ceai7/040113_challenge_122_intermediate_userspace/c9g27et">Haskell and the 'free' monad</a>[^1]. For a bit of variety, I'll be using [[wiki:continuations]](), essentially to implement [[wiki:coroutines]]() with manual scheduling.
 
 Before we get started, if you'd like to follow along, you can do so here:
 - <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/continuation-thread-pool.rkt">continuation thread pool on GitHub</a>
@@ -60,7 +60,7 @@ So essentially, we're going to set up each `thread-state` with a psuedo-continua
   (thread-pool-switch-count pool))
 ```
 
-The `switch-count` isn't strictly necessary, but it will allow us to do some amount of performance evaluation when all is said and done. Other than that, `all` will hold a list of all of the threads that we're dealing with while `current` is that same list only advanced to the currently executing thread. So we're not doing anything fancy with thread priorities, although we could easily do so by replacing `current` with a {{< wikipedia "priority queue" >}} rather than a simple list[^2]. 
+The `switch-count` isn't strictly necessary, but it will allow us to do some amount of performance evaluation when all is said and done. Other than that, `all` will hold a list of all of the threads that we're dealing with while `current` is that same list only advanced to the currently executing thread. So we're not doing anything fancy with thread priorities, although we could easily do so by replacing `current` with a [[wiki:priority queue]]() rather than a simple list[^2]. 
 
 So how do we do all of that? Well, here is `threads` to create the initial state:
 
@@ -216,7 +216,7 @@ If you'd like to see all of the code in one place, you can do so here:
 
 That code also contains a series of `(module+ test ...)` blocks, each of which can be run with `raco test continuation-thread-pool.rkt`. That's such nice functionality, it's a shame I'm just finding out about it now.
 
-[^1]: I still stand by the saying that {{< wikipedia page="Monad" text="monads" >}} are black magic...
+[^1]: I still stand by the saying that [[wiki:Monad|monads]]() are black magic...
 [^2]: Actually, just replacing the list with a queue would remove the need for both data structures since we could take threads from one end and push them on the other. But queues aren't built in to most Schemes.
 [^3]: And immediately break it, because infinite loop...
 [^4]: John McCarthy. A Basis for a Mathematical Theory of Computation. In *Computer Programming And Formal Systems* by P. Braffort and D. Hirschberg (Ed.), 1963.

@@ -19,7 +19,7 @@ programming/topics:
 To make that a little less mathematical, we're trying to find the minimum distance it would take to get from one chosen graph to any other[^1]. Perhaps an example, the Butterfly graph:
 
 <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Butterfly_graph.svg" class="alignnone" width="227" height="107" />
-<small>{{< wikipedia page="source" text="File:Butterfly graph.svg" >}}</small>
+<small>[[wiki:source|File:Butterfly graph.svg]]()</small>
 
 If you consider the node in the top left, you can get to the bottom left or center in 1 unit or either right side in 2. That means that node has an *eccentricity* of 2. But the center node can get to any other in only 1. So it's eccentricity is 1. Since that's the lowest, the radius of the Butterfly graph is 1.
 
@@ -80,7 +80,7 @@ What's interesting about this though, is that this is exactly the same code for 
   (apply min (map (curry eccentricity g) (in-vertices g))))
 ```
 
-While we're at it, the {{< wikipedia page="Wikipedia page for graph radius" text="Distance (graph theory)" >}} also mentions a graph's `diameter`:
+While we're at it, the [[wiki:Wikipedia page for graph radius|Distance (graph theory)]]() also mentions a graph's `diameter`:
 
 {{< latex >}}radius(g) = \max\limits_{n_0 \in g} \epsilon_g(n_0) = \max\limits_{n_0 \in g} \max\limits_{n_1 \in g} d(n_0, n_1){{< /latex >}}
 

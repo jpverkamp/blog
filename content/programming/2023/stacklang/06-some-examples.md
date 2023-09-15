@@ -27,7 +27,7 @@ Full source code for StackLang: [github:jpverkamp/stacklang](https://github.com/
 
 ## Factorial (in three parts)
 
-{{<wikipedia "Factorial">}} - calculating the product of 1 to N. 
+[[wiki:Factorial]]() - calculating the product of 1 to N. 
 
 It's a great first problem to implement, mostly because you can do it at least two ways (with a loop or recursively). Other than that, it's simple math: add and multiply. 
 
@@ -95,7 +95,7 @@ That's it! From the outside, `10 fact` works exactly the same as the loop based 
 
 ## Fibonacci
 
-On to {{<wikipedia "Fibonacci">}}. This falls into mostly the same category as Factorial. It's a simple math definition that's great for testing code. 
+On to [[wiki:Fibonacci]](). This falls into mostly the same category as Factorial. It's a simple math definition that's great for testing code. 
 
 In this case, `fib(0) = fib(1) = 1` and `fib(n) = fib(n-1) + fib(n-2)`. 
 
@@ -402,7 +402,7 @@ Something to work on in the future though!
 
 Okay, we've done a lot of math. Let's move on ... to more math!
 
-At this time, I don't yet have {{<wikipedia "complex numbers">}} implemented as a native datatype as I'd like. But that doesn't matter, since with arbitrarily many parameters and return values, we can just directly implement them!
+At this time, I don't yet have [[wiki:complex numbers]]() implemented as a native datatype as I'd like. But that doesn't matter, since with arbitrarily many parameters and return values, we can just directly implement them!
 
 ```text
 {
@@ -441,7 +441,7 @@ The naming really helps here.
 
 ## Mandelbrot 
 
-And then finally, the piece de resistance, using those complex numbers to calculate the {{<wikipedia "Mandelbrot set">}}!
+And then finally, the piece de resistance, using those complex numbers to calculate the [[wiki:Mandelbrot set]]()!
 
 I'm not going to talk through the code this time, since it's pretty much a direct translation of the algorithm (see the link above). But I do think it's a good example of how you can start to write 'real code' in StackLang:
 

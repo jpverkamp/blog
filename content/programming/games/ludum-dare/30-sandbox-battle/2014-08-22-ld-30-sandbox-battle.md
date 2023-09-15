@@ -26,8 +26,8 @@ The theme this time is <a href="http://www.ludumdare.com/compo/2014/08/16/ludum-
 Taking about an hour at the start of the compo to both work out and think, I ended up basically going in two directions:
 
 
-* A {{< wikipedia "falling sand" >}} style game, only with discrete 'bubbles' with different particles / physics
-* A {{< wikipedia page="puzzle platformer" text="Platform_game#Puzzle_platformers" >}} based around portals that split you into two realities you play at the same time
+* A [[wiki:falling sand]]() style game, only with discrete 'bubbles' with different particles / physics
+* A [[wiki:puzzle platformer|Platform_game#Puzzle_platformers]]() based around portals that split you into two realities you play at the same time
 
 
 Of the two, the second has the advantages of 1) actually sounding like a game (that's always been my problem with falling sand style simulations) and 2) being much easier to code. I've worked on falling sand style games before ([Sandbox]({{< ref "2010-02-06-sandbox-it-s-alive.md" >}})) and they take a lot of tuning to get reasonable performance. Certainly worth doing... but not the best idea for a 48 hour time window.

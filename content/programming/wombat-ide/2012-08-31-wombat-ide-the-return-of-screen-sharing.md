@@ -7,7 +7,7 @@ programming/languages:
 series:
 - Wombat IDE
 ---
-I've been working the last few days to get screen sharing [working again]({{< ref "2012-02-15-wombat-ide-pair-programming.md" >}}) and I think I have something. Again. Hopefully. The first idea was to use a UDP {{< wikipedia "multicast" >}} network but when router configuration on campus got in the way, I moved back to a more direct TCP-based system. Still, I think it works pretty well.
+I've been working the last few days to get screen sharing [working again]({{< ref "2012-02-15-wombat-ide-pair-programming.md" >}}) and I think I have something. Again. Hopefully. The first idea was to use a UDP [[wiki:multicast]]() network but when router configuration on campus got in the way, I moved back to a more direct TCP-based system. Still, I think it works pretty well.
 
 <!--more-->
 

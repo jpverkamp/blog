@@ -98,7 +98,7 @@ else:
 
 On additional trick is setting the `MYSQL_PWD` environment variable before calling the command with {{< doc python subprocess >}}. That way we can pass the password without it being displayed when we're in verbose mode. 
 
-Connecting via the SSH tunnel was something that I was particularly proud of. Essentially, we can make an SSH tunnel via a {{< wikipedia "bastion host" >}} to the MySQL host inside a private network and then connecting to that tunnel, which in turn forwards the connection through the tunnel. It doesn't even cost that much performancewise. 
+Connecting via the SSH tunnel was something that I was particularly proud of. Essentially, we can make an SSH tunnel via a [[wiki:bastion host]]() to the MySQL host inside a private network and then connecting to that tunnel, which in turn forwards the connection through the tunnel. It doesn't even cost that much performancewise. 
 
 Because we're using `subprocess`, we can actually do fun things with pipes:
 
@@ -119,7 +119,7 @@ Pretty cool.
 
 Next, I want to use a UI sometimes. Since I'm on a Mac, the best client I've found by far is [SequelPro](http://sequelpro.com/). At first, I despired at finding a way to launch SequelPro from a script, it doesn't have helpful switches for that. But then I came across `.spf` file associations. It turns out that `.spf` files are associated with SequelPro by default. So what is a SPF file? 
 
-XML (more specifically a {{< wikipedia plist >}}!
+XML (more specifically a [[wiki:plist]]()!
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>

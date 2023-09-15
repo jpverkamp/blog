@@ -8,7 +8,7 @@ programming/topics:
 - Open Source
 - Unix
 ---
-Quite often when working with internet data, you will find yourself wanting to figure out what sort of device users are using to access your content. Luckily, if you're using HTTP, there is a standard for that: The {{< wikipedia "user-agent" >}} header.
+Quite often when working with internet data, you will find yourself wanting to figure out what sort of device users are using to access your content. Luckily, if you're using HTTP, there is a standard for that: The [[wiki:user-agent]]() header.
 
 Since I'm in exactly that position, I've added a new script to my [Dotfiles]({{< ref "2015-02-11-update-dotfiles-encryption.md" >}}) that reads user agents on `stdin`, parses them, and writes them back out in a given format.
 

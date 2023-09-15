@@ -61,7 +61,7 @@ And codes... the idea that no one in the last five hundred years has managed to 
 
 > “Even though Google’s mighty computers didn’t find anything?” Deckle says. “Sure. I mean, come on. I have a computer.” He flicks a finger against the lid of his laptop and it makes the camera wobble. “They’re not magic. They’re only as capable as their programmers, right?”
 
-And at the end, we have the {{<wikipedia "Bloomberg Terminal">}}. A real thing. Described accurately enough... but it's for financial data. Nothing to do with inter-museum loan? Perhaps I misheard. Audiobooks and all that. 
+And at the end, we have the [[wiki:Bloomberg Terminal]](). A real thing. Described accurately enough... but it's for financial data. Nothing to do with inter-museum loan? Perhaps I misheard. Audiobooks and all that. 
 
 And finally, programming languages:
 

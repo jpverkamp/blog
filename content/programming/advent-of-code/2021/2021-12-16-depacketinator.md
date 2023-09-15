@@ -30,7 +30,7 @@ In all packets:
 * `AAA` - 3 bits representing the `version` of the packet
 * `BBB` - 3 bits representing the `type_id` of the packet
 
-In literal packets--where `type_id` = 4 (`010`)--the value is an integer encoded in a value similar to {{< wikipedia "UTF-8 encoding" >}}. There will be a sequence of 0 or more 5 bit values `1CCCC` (with the `1` indicating the number continues, followed by a single `0CCCC` segment, ending the value. These `C*`s will be concatenated and treated as a single unsigned binary value and converted to an integer. 
+In literal packets--where `type_id` = 4 (`010`)--the value is an integer encoded in a value similar to [[wiki:UTF-8 encoding]](). There will be a sequence of 0 or more 5 bit values `1CCCC` (with the `1` indicating the number continues, followed by a single `0CCCC` segment, ending the value. These `C*`s will be concatenated and treated as a single unsigned binary value and converted to an integer. 
 
 In Type 0 Operator packets, the next 15 bits (`D{15}`) should be interpreted as an unsigned integer containing the number of following bits that encode 'child' packets. Parse the following `D` bits as child packets (perhaps recursively) and attach those to the Type 0 Operator as children. 
 

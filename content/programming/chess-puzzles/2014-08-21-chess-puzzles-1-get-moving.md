@@ -11,7 +11,7 @@ series:
 ---
 Here's something I haven't done much[^1]: chess puzzles! I'm still not sure entirely what I think about the game in general. There is certainly quite a lot of strategy, which I like, but to really get good at chess, there's also some amount of memorizing openings and closings. That's something I'm a little less thrilled with.
 
-Still, it's the perfect sort of came to work out programming exercises with. It's a game of {{< wikipedia "perfect information" >}}, so you don't have to deal with what a player knows and doesn't. The pieces have well defined, regular moves[^2] There's a fairly intense branching factor, but not insurmountable--{{< wikipedia page="Deep Blue" text="Deep Blue (chess computer)" >}} proved that.
+Still, it's the perfect sort of came to work out programming exercises with. It's a game of [[wiki:perfect information]](), so you don't have to deal with what a player knows and doesn't. The pieces have well defined, regular moves[^2] There's a fairly intense branching factor, but not insurmountable--[[wiki:Deep Blue|Deep Blue (chess computer)]]() proved that.
 
 Anyways, enough chatter. Let's play some chess!
 
@@ -19,7 +19,7 @@ Anyways, enough chatter. Let's play some chess!
 
 Okay, first things first, we're going to have to lay some ground work. Despite how straight forward chess pieces are, it will still take a bit of effort to turn that into something that a computer can deal with. So first, let's work out a way of defining chess piece movement.
 
-Here, I'm going a little ambitious. I want to be able to support arbitrary {{< wikipedia "fairy chess pieces" >}}. In addition to the more standard pieces, we have  strictly more powerful pieces like the Princess (Knight + Bishop) or the Empress (Knight + Rook). Or we have alternatives, like the Camel (like the Knight, only 3:1 instead of 2:1). Or the Nightrider, which moves like the Knight, but keeps on going. I want to be able to support all of these...
+Here, I'm going a little ambitious. I want to be able to support arbitrary [[wiki:fairy chess pieces]](). In addition to the more standard pieces, we have  strictly more powerful pieces like the Princess (Knight + Bishop) or the Empress (Knight + Rook). Or we have alternatives, like the Camel (like the Knight, only 3:1 instead of 2:1). Or the Nightrider, which moves like the Knight, but keeps on going. I want to be able to support all of these...
 
 Okay, first things first. A basic struct for points and another to use for a `move-sequence`:
 
@@ -87,7 +87,7 @@ Basically, we have three different ways of specifying moves:
 * `(move minimum-distance maximum-distance direction)` - a range of movement, so you can move between the minimum and maximum inclusive but no more or less
 
 
-But what does direction mean? If it's specified as a point, that's straight forward enough, but still, we want to be able to specify these things more simply. Let's take a page out of {{< wikipedia page="Parlett's movement notation" text="Fairy_chess_piece#Parlett.27s_movement_notation" >}}. Specifically the direction specifications:
+But what does direction mean? If it's specified as a point, that's straight forward enough, but still, we want to be able to specify these things more simply. Let's take a page out of [[wiki:Parlett's movement notation|Fairy_chess_piece#Parlett.27s_movement_notation]](). Specifically the direction specifications:
 
 
 * `*` – orthogonally or diagonally (all eight possible directions)
@@ -236,7 +236,7 @@ Now we can have the Aanca:
                                               (move 'n (pt -1  1))))))
 ```
 
-And that's it. We can define a whole pile of the other {{< wikipedia "Fairy chess pieces" >}}:
+And that's it. We can define a whole pile of the other [[wiki:Fairy chess pieces]]():
 
 ```scheme
 (define Adjutant     (move  1 '<>))
@@ -271,4 +271,4 @@ Speaking of which:
 :smile:
 
 [^1]: Okay, [a little]({{< ref "2013-02-01-1gam-chesslike-1-0-did-it.md" >}}).
-[^2]: For the moment, we'll ignore castling and {{< wikipedia "en passant" >}}.
+[^2]: For the moment, we'll ignore castling and [[wiki:en passant]]().

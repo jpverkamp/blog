@@ -33,7 +33,7 @@ response.body
 => "<!doctype html>\n<html>\n<head>\n..."
 ```
 
-And that's it. If the page is internal (such as the AWS metadata URL above, `file://` protocol, or even IPs in a {{< wikipedia "private network" >}}), `ssrf_filter` will refuse to load the page and throw an `Ssrf:Filter::Error`.
+And that's it. If the page is internal (such as the AWS metadata URL above, `file://` protocol, or even IPs in a [[wiki:private network]]()), `ssrf_filter` will refuse to load the page and throw an `Ssrf:Filter::Error`.
 
 That's it. Trivial, no? 
 
@@ -55,7 +55,7 @@ So now we have a problem: do we turn off JavaScript rendering? or do we try to m
 
 # Fix version 2: iptables
 
-Okay, we tried to solve it at the network level, but now it's time to bring out the big guns. {{< wikipedia "iptables" >}}
+Okay, we tried to solve it at the network level, but now it's time to bring out the big guns. [[wiki:iptables]]()
 
 In a nutshell, it's a Linux kernel level firewall. It allows you to do cool things like this:
 

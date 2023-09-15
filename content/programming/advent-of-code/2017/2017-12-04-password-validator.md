@@ -12,11 +12,11 @@ series:
 ---
 ### Source: [High-Entropy Passphrases](http://adventofcode.com/2017/day/4)
 
-> **Part 1:** Given a list of {{< wikipedia passphrases >}}, count how many contain no duplicate words.
+> **Part 1:** Given a list of [[wiki:passphrases]](), count how many contain no duplicate words.
 
 <!--more-->
 
-There are two ways that I worked out how to solve this problem. First, you can use {{< wikipedia "regular expressions" >}} with the `\b` 'word boundary' marker:
+There are two ways that I worked out how to solve this problem. First, you can use [[wiki:regular expressions]]() with the `\b` 'word boundary' marker:
 
 ```python
 valid_count = 0
@@ -48,7 +48,7 @@ for line in lib.input():
 print(valid_count)
 ```
 
-> **Part 2:** Passphrases may no longer contain {{< wikipedia anagrams >}}. How many are still valid?
+> **Part 2:** Passphrases may no longer contain [[wiki:anagrams]](). How many are still valid?
 
 This would be rather more difficult to solve with regular expressions[^alice], but it's actually pretty straight forward with the `set` based solution:
 

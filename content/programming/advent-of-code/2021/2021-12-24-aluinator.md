@@ -25,7 +25,7 @@ programming/topics:
 > * `add a b` - set `a = a + b` (`b` can always be a register or an integer)
 > * `mul a b` - set `a = a * b` 
 > * `div a b` - set `a = a / b` (using integer division / discarding the remainder)
-> * `mod a b` - set `a = a % b` (`%` is the {{< wikipedia "modulo" >}} operator)
+> * `mod a b` - set `a = a % b` (`%` is the [[wiki:modulo]]() operator)
 > * `eql a b` - set `a = 1` if `a == b`, set `a = 0` otherwise
 
 Fascinating. So there are a number of different ways you can approach this problem. 
@@ -224,7 +224,7 @@ It's... quite a mess. The basic idea is we have this nutty data structure where 
 
 ##### Version 2: Parsing into an Abstract Syntax Tree
 
-For attempt 2, I'm still going to try to solve for 'all values', but this time I'm going to do it by parsing out the eventual {{< wikipedia "abstract syntax tree" >}} for all values. As another way of saying it, if we have this program:
+For attempt 2, I'm still going to try to solve for 'all values', but this time I'm going to do it by parsing out the eventual [[wiki:abstract syntax tree]]() for all values. As another way of saying it, if we have this program:
 
 ```text
 inp w

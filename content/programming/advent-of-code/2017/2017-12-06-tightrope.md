@@ -37,7 +37,7 @@ def balance(blocks):
     )
 ```
 
-The blocks are defined as a {{< doc python tuple >}} since that allows it to be used as an element in a {{< doc python set >}} (lists don't work since they are {{< wikipedia mutable >}}).
+The blocks are defined as a {{< doc python tuple >}} since that allows it to be used as an element in a {{< doc python set >}} (lists don't work since they are [[wiki:mutable]]()).
 
 To actually distribute the blocks, we will start by dividing the amount and keeping the remainder. The quotient `for_each` goes to all of the blocks and the remainder `left_over` is the odd bits that will only go to some of the blocks. `give_left_over_to` is me figuring out which indexes are going to get the remainder. Finally, we create a new tuple by adding the current amount (except for the block we're redistributing) plus `for_each` plus 1 for those `left_over`.
 

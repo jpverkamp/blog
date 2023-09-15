@@ -7,7 +7,7 @@ programming/topics:
 programming/languages:
 - Ruby
 ---
-<a href="https://github.com/cyu/rack-cors">cyu's Rack::Cors middleware</a> is rather handy if want to control your {{< wikipedia "CORS" >}} (Cross-Origin Resource Sharing) settings in a Ruby-on-Rails project. Previously, there was a fairly major issue where `:credentials => true` was the default (which you generally do not want), but there were also some more complicated tweaks that I wanted to make. 
+<a href="https://github.com/cyu/rack-cors">cyu's Rack::Cors middleware</a> is rather handy if want to control your [[wiki:CORS]]() (Cross-Origin Resource Sharing) settings in a Ruby-on-Rails project. Previously, there was a fairly major issue where `:credentials => true` was the default (which you generally do not want), but there were also some more complicated tweaks that I wanted to make. 
 
 One problem I recently had to deal with was wanting to:
 

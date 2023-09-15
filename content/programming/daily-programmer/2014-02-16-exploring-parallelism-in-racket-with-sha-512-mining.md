@@ -202,7 +202,7 @@ $ racket mine-sha512-places.rkt 4
 1: A3HTACsXRI5QkwWU -> 000001de799bfeaa... (31.9 Mh @ 529.1 kh/s)
 ```
 
-That's a lot more like it. And at a roughly 3.75x speedup over a single place, pretty much exactly what {{< wikipedia "Amdal's law" >}} would expect we'd be able to get in speedup. If we try it with 8, we don't do any better (a brief spike, but overall it's actually worse):
+That's a lot more like it. And at a roughly 3.75x speedup over a single place, pretty much exactly what [[wiki:Amdal's law]]() would expect we'd be able to get in speedup. If we try it with 8, we don't do any better (a brief spike, but overall it's actually worse):
 
 ```bash
 $ racket mine-sha512-places.rkt 8
@@ -221,6 +221,6 @@ Still, it's an interesting problem--and a nice excuse to learn a little more abo
 If you'd like to see the entire code for today's post, it's on GitHub: <a href="https://github.com/jpverkamp/small-projects/tree/master/blog/mine-sha512">github/jpverkamp</a>
 
 [^1]: Those are generally measured in Mh/s
-[^2]: Threads give us {{< wikipedia page="Concurrency (computer science)" text="concurrency" >}} in Racket, not {{< wikipedia page="Parallel computing" text="parallelism" >}}
+[^2]: Threads give us [[wiki:Concurrency (computer science)|concurrency]]() in Racket, not [[wiki:Parallel computing|parallelism]]()
 [^3]: Averaging 5 seconds times the number of places in fact
 [^4]: Which is probably just an artifact of the timing. There's no particular reason this code should actually be faster.

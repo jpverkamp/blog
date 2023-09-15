@@ -36,7 +36,7 @@ First, we need a way to split a number into it's digits. It turns out that this 
 
 Optimally though, we'd like to be able to do that without the `reverse`. In all of the cases that we're working on here, we're only reversing the elements of a four element list, so the run-time is negligible, but if we're hoping to put it in a library than it we should at least look into some minor optimizations.
 
-The answer in this case, is to make the function {{< wikipedia "tail recursive" >}}. What that means in theory is that you never have any work waiting for you when you return from a function call so you can actually skip through several stack frames all at the same time (or never store them in the first place). Scheme and by extension Racket guarantees that tail calls will optimized, which is actually one of the reasons that recursive code in Schemes works just as well (and in many cases compile to nearly identical code) as loops in iterative languages such as C or Java.
+The answer in this case, is to make the function [[wiki:tail recursive]](). What that means in theory is that you never have any work waiting for you when you return from a function call so you can actually skip through several stack frames all at the same time (or never store them in the first place). Scheme and by extension Racket guarantees that tail calls will optimized, which is actually one of the reasons that recursive code in Schemes works just as well (and in many cases compile to nearly identical code) as loops in iterative languages such as C or Java.
 
 What that means in practice though, is that if you have a problem where you need to use `reverse` to get the answer that you were expecting, in all likelihood, you want to use tail recursive (if you weren't already) or remove the tail recursive you have (if you were). Instead, you'll often find that keeping an accumulator list that you can build up as you're going is more helpful. In this case:
 
@@ -160,6 +160,6 @@ cpu time: 32 real time: 26 gc time: 0
 
 And there you have it. With some simple linear algebra (barely even deserving of the name), we cut the runtime from 1154 ms down to 32 ms, for a speedup of approximately 35x. That's none too shabby at all. It's always something to keep in the back of your mind. 
 
-Although on the flip side, in real life, it's don't get carried away with {{< wikipedia page="Premature optimization#When to optimize" text="premature optimization" >}}. As Donald Knuth once said, *premature optimization is the root of all evil*. :smile:
+Although on the flip side, in real life, it's don't get carried away with [[wiki:Premature optimization#When to optimize|premature optimization]](). As Donald Knuth once said, *premature optimization is the root of all evil*. :smile:
 
 As always, you can download my code for this or any Project Euler problem I’ve uploaded <a href="https://github.com/jpverkamp/small-projects/tree/master/project-euler" title="GitHub: jpverkamp: Project Euler">here</a>.

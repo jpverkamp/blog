@@ -18,7 +18,7 @@ programming/topics:
 
 ## Part 1
 
-> Given a series of walls as input, run a {{<wikipedia "falling sand">}} simulation until any new sand falls of the map. Count how many grains of sand we end up with. 
+> Given a series of walls as input, run a [[wiki:falling sand]]() simulation until any new sand falls of the map. Count how many grains of sand we end up with. 
 
 <!--more-->
 

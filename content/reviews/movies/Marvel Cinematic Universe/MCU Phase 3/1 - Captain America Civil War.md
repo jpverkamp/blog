@@ -56,7 +56,7 @@ And then we have Black Panther:
 > 
 > T'Challa: Don't bother, Ms. Romanoff. I'll kill him myself.
 
-{{< wikipedia "Chadwick Boseman" >}} R.I.P. Man he acted the heck out of that role. During the filming he wouldn't have had the diagnosis for the cancer that eventually killed him, but through all the rest of the films he very well may have. It's a sad story, but what the legacy. 
+[[wiki:Chadwick Boseman]]() R.I.P. Man he acted the heck out of that role. During the filming he wouldn't have had the diagnosis for the cancer that eventually killed him, but through all the rest of the films he very well may have. It's a sad story, but what the legacy. 
 
 Plotwise, it's pretty much a straight forward action adventure / summer blockbuster romp, but the idea of the good guys breaking apart and fighting has rarely (if ever) been done better than can be done with superheroes. The satisfaction of two teams of vastly differently powered beings squaring off and punching the heck out of each other is oh so satisfying. I miss the Hulk and Thor, but it's probably for the best they weren't about. 
 

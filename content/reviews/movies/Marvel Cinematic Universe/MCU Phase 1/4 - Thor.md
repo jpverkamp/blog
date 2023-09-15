@@ -30,7 +30,7 @@ reviews/writers:
 - Jack Kirby
 reviews/year: 2011
 ---
-Thor is an odd sort of movie for the {{< wikipedia "Marvel Cinematic Universe" >}}. On one hand, it's our first foray into the more 'magical' side of the universe, with ancient Gods and the like. Although in this universe, we're led to believe that it's really just highly advanced science. On the other hand, despite a worlds spanning plot (literally, 3 of them), it still feels oddly ... small. 
+Thor is an odd sort of movie for the [[wiki:Marvel Cinematic Universe]](). On one hand, it's our first foray into the more 'magical' side of the universe, with ancient Gods and the like. Although in this universe, we're led to believe that it's really just highly advanced science. On the other hand, despite a worlds spanning plot (literally, 3 of them), it still feels oddly ... small. 
 
 Plotwise... it's weird. We're supposed to believe that Odin is over a thousand years old and Thor is... just now coming into his kingship now? How long does it take for them to grow up? And Asgardians at some level can die in battle, but in others handle getting thrown around and hit by cars just fine? It's just... a little weird. The idea of Thor being a spoiled young man and having to show his worthiness is a solid enough plot (and a common enough Thor origin story); although it all comes together a mite quickly for him. And then the final battle--while it looks cool enough I guess, it's all feels like they could have used a bit more time and money to fill things in a bit more. 
 

@@ -16,7 +16,7 @@ title: Shorefall
 ---
 > Learn what your city has forgotten. What men of power have forgotten time and time again, throughout history—that there is always, always something mightier.
 
-{{<crosslink Foundryside>}} was quite a ride, with an awesome magic system, great characters, and some nice not entirely too dark bits of revolution going on--and hints of something more. Shorefall takes all that... and turns it way the heck up to 11. 
+[[Foundryside]]() was quite a ride, with an awesome magic system, great characters, and some nice not entirely too dark bits of revolution going on--and hints of something more. Shorefall takes all that... and turns it way the heck up to 11. 
 
 <!--more-->
 

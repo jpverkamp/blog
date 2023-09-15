@@ -9,7 +9,7 @@ programming/topics:
 - Command line
 - Emoji
 ---
-Sometimes, I find myself wanting to communicate in {{< wikipedia "emoji" >}}.
+Sometimes, I find myself wanting to communicate in [[wiki:emoji]]().
 
 :chicken:
 

@@ -10,7 +10,7 @@ Another [backup post]({{< ref "2015-01-29-ios-backup-apps.md" >}}), this time I'
 
 <!--more-->
 
-The first step will be to make a few helper methods. As I often do with web scripts, I'll be using [Python]({{< ref "2007-10-20-pymint-a-python-multi-interpreter.md" >}}) and the excellent <a href="http://docs.python-requests.org/en/latest/">Requests</a> library. First things first, we have to get an `access_token` using an {{< wikipedia "OAuth" >}} handshake. It's a little complicated since our app is designed to run from the command line, yet needs to interact with the user on initial set up, but luckily that only has to be done once:
+The first step will be to make a few helper methods. As I often do with web scripts, I'll be using [Python]({{< ref "2007-10-20-pymint-a-python-multi-interpreter.md" >}}) and the excellent <a href="http://docs.python-requests.org/en/latest/">Requests</a> library. First things first, we have to get an `access_token` using an [[wiki:OAuth]]() handshake. It's a little complicated since our app is designed to run from the command line, yet needs to interact with the user on initial set up, but luckily that only has to be done once:
 
 ```python
 # Request a new access token

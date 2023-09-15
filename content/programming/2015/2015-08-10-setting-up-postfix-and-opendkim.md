@@ -14,14 +14,14 @@ First, a bit of background on what exactly DKIM is:
 
 
 > DomainKeys Identified Mail (DKIM) is an email validation system designed to detect email spoofing by providing a mechanism to allow receiving mail exchangers to check that incoming mail from a domain is authorized by that domain's administrators and that the email (including attachments) has not been modified during transport. A digital signature included with the message can be validated by the recipient using the signer's public key published in the DNS.
-> -- Wikipedia: {{< wikipedia "DKIM" >}}
+> -- Wikipedia: [[wiki:DKIM]]()
 
 
 Sounds nice. So what in the world does that mean?
 
 ## A bit of background
 
-Starting in the details, we have {{< wikipedia "public key cryptography" >}}. The basic idea of public key cryptography is that you have some sort of algorithm with two keys: one of which can be used to encrypt things and can be made public and another separate piece of information which can be used to decrypt things and should remain private. That way, you can publish your public key, well, publically. Then anyone that wants to send you a message can do so, knowing that only you (since only you possess the private key) can read it.
+Starting in the details, we have [[wiki:public key cryptography]](). The basic idea of public key cryptography is that you have some sort of algorithm with two keys: one of which can be used to encrypt things and can be made public and another separate piece of information which can be used to decrypt things and should remain private. That way, you can publish your public key, well, publically. Then anyone that wants to send you a message can do so, knowing that only you (since only you possess the private key) can read it.
 
 If we take this a step further, we can swap the roles of the public and private key[^1]. Instead of encrypting with the public key, we will use the private key, requiring the *public* key for decryption. This sounds mad, since the public key is, by definition public. So what's the point of a message that only you can write but anyone can read?
 
@@ -103,10 +103,10 @@ What in the world do those all mean? Well, (based somewhat on documentation and 
 * `LogWhy` - log errors to `/var/log/mail.log` (useful for debugging)
 * `MinimumKeyBits` - flag an error if we try to specify a private key shorter (less secure) than this
 * `Mode` - various options, `sv` is fairly common and means `s`ign outgoing messages and `v`erify incoming ones
-* `PidFile` - where to store the {{< wikipedia "PID file" >}}
+* `PidFile` - where to store the [[wiki:PID file]]()
 * `SigningTable` - specify which key from the `KeyTable` should be used for a given message
 * `Socket` - how Postfix and OpenDKIM communicate
-* `Syslog`, `SyslogSuccess` - log to {{< wikipedia "syslog" >}} as well as `mail.log`; log successes as well as failures
+* `Syslog`, `SyslogSuccess` - log to [[wiki:syslog]]() as well as `mail.log`; log successes as well as failures
 * `UMask` - allows other Linux users (such as Postfix's) to talk to OpenDKIM
 * `UserID` - the user that OpenDKIM runs as
 
@@ -152,7 +152,7 @@ example.com
 *.*.example.org
 ```
 
-Entries here can be either IP addresses, {{< wikipedia "CIDR" >}} style IP ranges, or hostnames (including wildcards, since this is a `refile`), all of which I use above. This actually took a bit to figure out, since originally I was signing email directly from the box (successfully), but when I attempted to actually send a signed email from the product, it didn't work (since the frontends relay mail to the mail servers).
+Entries here can be either IP addresses, [[wiki:CIDR]]() style IP ranges, or hostnames (including wildcards, since this is a `refile`), all of which I use above. This actually took a bit to figure out, since originally I was signing email directly from the box (successfully), but when I attempted to actually send a signed email from the product, it didn't work (since the frontends relay mail to the mail servers).
 
 ####  - Okay, that's enough to configure OpenDKIM. Next, we need to tell Postfix to talk to it
 

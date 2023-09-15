@@ -33,7 +33,7 @@ Still, a solid summer blockbuster all around. It's more my sort of movie than Br
 
 {{< ranking "2012 Movie Reviews" >}}
 
-(Also, why is Batman always "The Batman"? What's with the definite article? It's the same thing with {{< wikipedia page="Lambda calculus" text="the lambda calculus" >}} and I've never really figured it out either way.)
+(Also, why is Batman always "The Batman"? What's with the definite article? It's the same thing with [[wiki:Lambda calculus|the lambda calculus]]() and I've never really figured it out either way.)
 ---
 This is another movie right up there with the Avengers in terms of anticipation and I have to say that it delivered. There's just something about super hero movies that's going particularly well right now. I'm not sure how long this is going to last, but I'm more than happy to ride it while it does.
 
@@ -47,4 +47,4 @@ Still, a solid summer blockbuster all around. It's more my sort of movie than Br
 
 {{< ranking "2012 Movie Reviews" >}}
 
-(Also, why is Batman always "The Batman"? What's with the definite article? It's the same thing with {{< wikipedia page="Lambda calculus" text="the lambda calculus" >}} and I've never really figured it out either way.)
+(Also, why is Batman always "The Batman"? What's with the definite article? It's the same thing with [[wiki:Lambda calculus|the lambda calculus]]() and I've never really figured it out either way.)

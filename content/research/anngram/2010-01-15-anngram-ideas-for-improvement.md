@@ -18,7 +18,7 @@ The first idea was to replace the idea of applying the most common frequencies d
 
 <!--more-->
 
-**{{< wikipedia page="NETtalk (artificial neural network)" text="NETtalk" >}}**
+**[[wiki:NETtalk (artificial neural network)|NETtalk]]()**
 
 From Wikipedia:
 
@@ -32,7 +32,7 @@ From <a href="http://www.cnl.salk.edu/ParallelNetsPronounce/index.php">Salk Inst
 
 If you are interested, you also can <a href="http://www.cnl.salk.edu/ParallelNetsPronounce/ParallelNetsPronounce-TJSejnowski.pdf">read the original report</a>.
 
-**{{< wikipedia page="Self-organizing map" text="Self-ordering maps" >}}**
+**[[wiki:Self-organizing map|Self-ordering maps]]()**
 
 From Wikipedia:
 
@@ -40,7 +40,7 @@ From Wikipedia:
 
 Self-ordering maps are interesting because they are already cropping up in more than one of the frameworks that I was looking through.  The basic idea is that you start with a field of essentially random seeming data and apply the neural network to it.  As the neural network learns, the data organizes into cohesive patterns.  I'm not exactly sure how the idea could be applied directly, but I did have one idea.  Perhaps the same concept from earlier (the vector of common nGram frequencies) for a great number of documents could be set out in a multi-dimensional space and a self-ordering map could be applied directly.  It's something that I'll have to look into.
 
-**{{< wikipedia page="Recurrent neural network" text="Recurring networks" >}}**
+**[[wiki:Recurrent neural network|Recurring networks]]()**
 
 From Wikipedia:
 
@@ -53,4 +53,4 @@ This seems to be the most useful of all of the links that I've checked so far. 
 <a href="http://www.cs.waikato.ac.nz/ml/weka/">** Weka**</a>
 
 Weka is a collection of data mining software written in Java and released under the <a href="http://www.gnu.org/licenses/gpl.html">GPL</a>.  While data mining and document classification are closely related fields, I do not see anything that directly relates to AnnGram here.  Perhaps later in the project, I will take a closer look.
-**NETtalk** is perhaps the best known {{< wikipedia "artificial neural network" >}}. It is the result of research carried out in the mid 1980s by {{< wikipedia "Terrence Sejnowski" >}} and Charles Rosenberg. The intent behind NETtalk was to construct simplified models that might shed light on the complexity of learning human level cognitive tasks, and their implementation as a connectionist model that could also learn to perform a comparable task.
+**NETtalk** is perhaps the best known [[wiki:artificial neural network]](). It is the result of research carried out in the mid 1980s by [[wiki:Terrence Sejnowski]]() and Charles Rosenberg. The intent behind NETtalk was to construct simplified models that might shed light on the complexity of learning human level cognitive tasks, and their implementation as a connectionist model that could also learn to perform a comparable task.

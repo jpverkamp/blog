@@ -10,7 +10,7 @@ programming/topics:
 series:
 - Chess Puzzles
 ---
-After two weeks, it seems only right that we actually get around to a real chess puzzle. First on the list: {{< wikipedia page="the eight queens puzzle" text="Eight queens puzzle" >}}.
+After two weeks, it seems only right that we actually get around to a real chess puzzle. First on the list: [[wiki:the eight queens puzzle|Eight queens puzzle]]().
 
 {{< figure src="/embeds/2014/8-queens-solution.png" >}}
 
@@ -36,7 +36,7 @@ We cannot place a queen there since it can attack the first. Try the second colu
 
 Keep on keeping on. Eventually though, you'll run into a row when you can't place a queen. What do you do then?
 
-{{< wikipedia page="Backtrack!" text="Backtracking" >}}
+[[wiki:Backtrack!|Backtracking]]()
 
 Specifically, go back one row and remove that queen. Start over from one column to the right of where it was. If there's no where else to place that queen, back up another column, over and over until you finally find where you can place one.
 
@@ -142,7 +142,7 @@ Or determine how many queens that there are for each puzzle size:
 '((1 1) (2 0) (3 0) (4 2) (5 10) (6 4) (7 40) (8 92) (9 352) (10 724))
 ```
 
-That matches up perfectly with sequence <a href="https://oeis.org/A000170">A000170</a> on {{< wikipedia "OEIS" >}}, which must mean we're doing something right. Shiny!
+That matches up perfectly with sequence <a href="https://oeis.org/A000170">A000170</a> on [[wiki:OEIS]](), which must mean we're doing something right. Shiny!
 
 One final trick, what if we want to animate these things? Well, for that we're going to use the {{< doc racket "racket/generator" >}} module. I've used it before, and although the performance isn't *great*, it's certainly the easiest way to get what we want. Really, we only need two changes:
 

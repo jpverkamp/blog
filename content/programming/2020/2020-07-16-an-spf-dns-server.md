@@ -10,7 +10,7 @@ programming/topics:
 programming/languages:
 - Python
 ---
-The {{< wikipedia "Sender Policy Framework" >}} is one of those things that's really powerful and useful to help prevent phishing and email spam, but can be a royal pain to work with. Specifically, SPF is a series of DNS TXT records[^history] with a specific format that can be looked up by any email service to verify that an email was sent by a server that should be authorized to send email on your behalf. For example
+The [[wiki:Sender Policy Framework]]() is one of those things that's really powerful and useful to help prevent phishing and email spam, but can be a royal pain to work with. Specifically, SPF is a series of DNS TXT records[^history] with a specific format that can be looked up by any email service to verify that an email was sent by a server that should be authorized to send email on your behalf. For example
 
 ```bash
 "v=spf1 ip4:192.0.2.0/24 ip4:198.51.100.123 a -all"
@@ -18,7 +18,7 @@ The {{< wikipedia "Sender Policy Framework" >}} is one of those things that's re
 
 * `v=spf1` - tells the client this is an SPF record and should always start the record
 * `{key}[:{value}]?` - one of many different key/value pairs that can define the record
-    * in the case above a `ip4` key species an {{< wikipedia IPv4 >}} address range that can send emails on your behalf (the value can be optional)
+    * in the case above a `ip4` key species an [[wiki:IPv4]]() address range that can send emails on your behalf (the value can be optional)
     * the `a` above is another special case where if the sender domain (`jp@example.com` would be `example.com`) resolves via a `DNS A` record to the server that sent the email, it's allows
 * `-all` is a fallthrough case meaning 'fail all that didn't match a previous case
 

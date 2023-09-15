@@ -10,7 +10,7 @@ programming/sources:
 ---
 One more fairly standard tech interview problem (for better or for worse, you're likely to see one of these if you go for a programming job):
 
-> Given a {{< wikipedia "linked list" >}} and an element `x`. Partition the list so that all elements less than `x` are before elements greater than or equal to `x`, but do not otherwise change the order of the elements.
+> Given a [[wiki:linked list]]() and an element `x`. Partition the list so that all elements less than `x` are before elements greater than or equal to `x`, but do not otherwise change the order of the elements.
 
 <!--more-->
 

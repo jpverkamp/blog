@@ -24,7 +24,7 @@ Let's do it!
 
 ## 14) Asemic writing
 
-Wikipedia: {{<wikipedia "Asemic writing">}}
+Wikipedia: [[wiki:Asemic writing]]()
 
 Use the same Wikipedia code as [[Genuary 2023.13: Something you've always wanted to learn|yesterday]]() to get a random page, render each word as a line that meanders based on the letters of the word. Shiny. :smile:
 

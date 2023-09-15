@@ -8,7 +8,7 @@ programming/sources:
 programming/topics:
 - Graphs
 ---
-Been a while since I've actually tackled one of the [Daily Programmer](/programming/sources/daily-programmer/) challenges, so let's try one out. From <a href="https://www.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/)">a week and a half ago</a>, we are challeneged to make an adjacency matrix generator, turning a graphical representation of a graph into an {{< wikipedia "adjacency matrix" >}}.
+Been a while since I've actually tackled one of the [Daily Programmer](/programming/sources/daily-programmer/) challenges, so let's try one out. From <a href="https://www.reddit.com/r/dailyprogrammer/comments/3h0uki/20150814_challenge_227_hard_adjacency_matrix/)">a week and a half ago</a>, we are challeneged to make an adjacency matrix generator, turning a graphical representation of a graph into an [[wiki:adjacency matrix]]().
 
 Input:
 

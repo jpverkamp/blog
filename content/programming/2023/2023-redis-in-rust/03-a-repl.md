@@ -13,7 +13,7 @@ programming/topics:
 series:
 - Cloning Redis in Rust
 ---
-Okay, we've got a server and we can ping it. Let's actually make a simple client, so I don't have to do funny things with echo any more. Specifically, let's make a {{<wikipedia "REPL">}}!
+Okay, we've got a server and we can ping it. Let's actually make a simple client, so I don't have to do funny things with echo any more. Specifically, let's make a [[wiki:REPL]]()!
 
 {{<toc>}}
 

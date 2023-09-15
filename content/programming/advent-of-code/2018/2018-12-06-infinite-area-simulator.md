@@ -10,7 +10,7 @@ series:
 ---
 ### Source: [Chronal Coordinates](https://adventofcode.com/2018/day/6)
 
-> **Part 1:** Given a list of points, calculate the region of points closest to each point (using {{< wikipedia "Manhattan distance" >}}). Return the size of the largest non-infinite region.
+> **Part 1:** Given a list of points, calculate the region of points closest to each point (using [[wiki:Manhattan distance]]()). Return the size of the largest non-infinite region.
 
 <!--more-->
 
@@ -40,7 +40,7 @@ First, some boilerplate. We want a function to load in the points and then find 
 (define VOLUME (* (- MAX-X MIN-X) (- MAX-Y MIN-Y)))
 ```
 
-Next, define our distance function, a function to find the closet point from our list of given points, and a helper that will give the four neighbors to a given point (we'll use this to {{< wikipedia "flood fill" >}}).
+Next, define our distance function, a function to find the closet point from our list of given points, and a helper that will give the four neighbors to a given point (we'll use this to [[wiki:flood fill]]()).
 
 ```racket
 ; Manhattan distance

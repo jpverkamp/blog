@@ -173,11 +173,11 @@ Next, we have a sequence of records:
 |--------|-----------------------|------------------------------------------------------------|
 | string |        domain         |                  Used for `hash-filename`                  |
 | string |         path          |                                                            |
-| string |        target         |      Absolute path, only for {{< wikipedia "symlinks" >}}      |
+| string |        target         |      Absolute path, only for [[wiki:symlinks]]()      |
 | string |       data hash       |                 SHA1 (for encrypted files)                 |
 | string |    encryption key     |                                                            |
 | uint16 |         mode          |             file/directory/symlink (see below)             |
-| uint64 | {{< wikipedia "inode" >}} |                                                            |
+| uint64 | [[wiki:inode]]() |                                                            |
 | uint32 |        user id        |                                                            |
 | uint32 |       group id        |                                                            |
 | uint32 |     last modified     |                                                            |
@@ -276,7 +276,7 @@ Okay, so next, what does it mean to `read-uint`? Well, we're going to have anywh
     (* (expt 256 (- (bytes-length b*) i 1)) b)))
 ```
 
-Cool. That means that all that's left is reading strings. Luckily, they have a nice format. Rather than {{< wikipedia "null terminated strings" >}} a la C/C++, they store first the length of the string (as a `uint16`) and then that many bytes. There are two caveats though:
+Cool. That means that all that's left is reading strings. Luckily, they have a nice format. Rather than [[wiki:null terminated strings]]() a la C/C++, they store first the length of the string (as a `uint16`) and then that many bytes. There are two caveats though:
 
 
 * If the size is maxed (`#xFFFF`), it's actually empty

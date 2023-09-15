@@ -27,9 +27,9 @@ The best parts? It's mostly realistic[^1] near future science fiction, showing j
 
 Back to the movie.
 
-{{< wikipedia "Sandra Bullock" >}} (Ryan Stone) and {{< wikipedia "George Clooney" >}} (Matt Kowalski) are awesome as the lead (and really only) characters[^2]. They're a bit... pretty, but not completely out of the realm of possibility. I could almost see either of them in their roles. It's a bit weird that Stone was in space in the first place--really, no one a little less freaked out could be trained to work on the Hubble?
+[[wiki:Sandra Bullock]]() (Ryan Stone) and [[wiki:George Clooney]]() (Matt Kowalski) are awesome as the lead (and really only) characters[^2]. They're a bit... pretty, but not completely out of the realm of possibility. I could almost see either of them in their roles. It's a bit weird that Stone was in space in the first place--really, no one a little less freaked out could be trained to work on the Hubble?
 
-Now, onto the science. There are a few issues. Basically, orbital mechanics don't quite work like that. Even worse, the {{< wikipedia "ISS" >}} is in low earth orbit (about 200 miles up), while communications satellites generally orbit in {{< wikipedia "geosynchronous orbit" >}} some 22,000 miles higher. For that matter, most of the Internet doesn't use satellite connections[^3], so no matter how amusing the thought, half the US wouldn't be without their Facebook.
+Now, onto the science. There are a few issues. Basically, orbital mechanics don't quite work like that. Even worse, the [[wiki:ISS]]() is in low earth orbit (about 200 miles up), while communications satellites generally orbit in [[wiki:geosynchronous orbit]]() some 22,000 miles higher. For that matter, most of the Internet doesn't use satellite connections[^3], so no matter how amusing the thought, half the US wouldn't be without their Facebook.
 
 Right. Back to the movie. 
 
@@ -44,7 +44,7 @@ It's doesn't have quite the action of Pacific Rim or Iron Man 3 or the humor of 
 (Side note: This is my first movie review after moving across the country. I've moved from grad student to a full time position in computer security, so there probably won't be quite as much flexibility when it comes to movies. So it goes. Good start though.)
 
 [^1]: We'll get to that in a bit...
-[^2]: {{< wikipedia "Paul Sharma" >}} doesn't much count, he only gets face time after he's dead
+[^2]: [[wiki:Paul Sharma]]() doesn't much count, he only gets face time after he's dead
 [^3]: For good reason, latency on satellite connections is intense.
 ---
 Gravity is pretty awesome. I'm sure I'm not the only one to say that (it's getting surprisingly good reviews all around; scifi doesn't always get that), but here's another for the mix.
@@ -55,9 +55,9 @@ The best parts? It's mostly realistic[^1] near future science fiction, showing j
 
 Back to the movie.
 
-{{< wikipedia "Sandra Bullock" >}} (Ryan Stone) and {{< wikipedia "George Clooney" >}} (Matt Kowalski) are awesome as the lead (and really only) characters[^2]. They're a bit... pretty, but not completely out of the realm of possibility. I could almost see either of them in their roles. It's a bit weird that Stone was in space in the first place--really, no one a little less freaked out could be trained to work on the Hubble?
+[[wiki:Sandra Bullock]]() (Ryan Stone) and [[wiki:George Clooney]]() (Matt Kowalski) are awesome as the lead (and really only) characters[^2]. They're a bit... pretty, but not completely out of the realm of possibility. I could almost see either of them in their roles. It's a bit weird that Stone was in space in the first place--really, no one a little less freaked out could be trained to work on the Hubble?
 
-Now, onto the science. There are a few issues. Basically, orbital mechanics don't quite work like that. Even worse, the {{< wikipedia "ISS" >}} is in low earth orbit (about 200 miles up), while communications satellites generally orbit in {{< wikipedia "geosynchronous orbit" >}} some 22,000 miles higher. For that matter, most of the Internet doesn't use satellite connections[^3], so no matter how amusing the thought, half the US wouldn't be without their Facebook.
+Now, onto the science. There are a few issues. Basically, orbital mechanics don't quite work like that. Even worse, the [[wiki:ISS]]() is in low earth orbit (about 200 miles up), while communications satellites generally orbit in [[wiki:geosynchronous orbit]]() some 22,000 miles higher. For that matter, most of the Internet doesn't use satellite connections[^3], so no matter how amusing the thought, half the US wouldn't be without their Facebook.
 
 Right. Back to the movie. 
 
@@ -72,5 +72,5 @@ It's doesn't have quite the action of Pacific Rim or Iron Man 3 or the humor of 
 (Side note: This is my first movie review after moving across the country. I've moved from grad student to a full time position in computer security, so there probably won't be quite as much flexibility when it comes to movies. So it goes. Good start though.)
 
 [^1]: We'll get to that in a bit...
-[^2]: {{< wikipedia "Paul Sharma" >}} doesn't much count, he only gets face time after he's dead
+[^2]: [[wiki:Paul Sharma]]() doesn't much count, he only gets face time after he's dead
 [^3]: For good reason, latency on satellite connections is intense.

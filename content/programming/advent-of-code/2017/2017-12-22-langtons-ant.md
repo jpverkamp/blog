@@ -10,7 +10,7 @@ series:
 ---
 ### Source: [Sporifica Virus](http://adventofcode.com/2017/day/22)
 
-> **Part 1:** Implement a {{< wikipedia "cellular automaton" >}} on an infinite grid of `.` and `#` pixels such that:
+> **Part 1:** Implement a [[wiki:cellular automaton]]() on an infinite grid of `.` and `#` pixels such that:
 
 > 1. Start at `(0, 0)`, facing `Up`
 > 2. Repeat:
@@ -22,7 +22,7 @@ series:
 
 <!--more-->
 
-As you might guess from the title of this post, this is {{< wikipedia "Langton's Ant" >}}.
+As you might guess from the title of this post, this is [[wiki:Langton's Ant]]().
 
 The problem statement is a bit short since I've already solved this problem [back in 2014]({{< ref "2014-08-07-langtons-ant.md" >}}) with a whole pile of cool animations. Head back that way if you want to see another take on this problem in Racket.
 
@@ -78,7 +78,7 @@ def vector2_rotate(v, turns_clockwise = True):
     return (x, y)
 ```
 
-Because we have a set, `infected ^= {location}` says remove the point from `infected` if it was in it and add it if not (it's an {{< wikipedia xor >}}). This works since `.` always becomes `#` and vice versa. Finally we update the direction we are `facing` and our `location` and continue. It's nicely elegant.
+Because we have a set, `infected ^= {location}` says remove the point from `infected` if it was in it and add it if not (it's an [[wiki:xor]]()). This works since `.` always becomes `#` and vice versa. Finally we update the direction we are `facing` and our `location` and continue. It's nicely elegant.
 
 > **Part 2:** Expand to four state transitions:
 

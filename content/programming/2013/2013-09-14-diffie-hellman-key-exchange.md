@@ -11,13 +11,13 @@ programming/topics:
 - Prime Numbers
 - Public-key cryptography
 ---
-Today we're going to be talking about cryptography, specifically {{< wikipedia page="Diffie-Hellman key exchange" text="Diffie-Hellman key exchange" >}}[^1]. The basic idea isn't necessarily to communicate in secret, but rather to establish the information that makes doing so much easier. <!--more-->
+Today we're going to be talking about cryptography, specifically [[wiki:Diffie-Hellman key exchange|Diffie-Hellman key exchange]]()[^1]. The basic idea isn't necessarily to communicate in secret, but rather to establish the information that makes doing so much easier. <!--more-->
 
-The basic idea behind Diffie-Hellman is actually fairly straightforward. We'll go ahead and let this nice image from {{< wikipedia page="Diffie-Hellman key exchange" text="Wikipedia" >}}[^2] illustrate for us.
+The basic idea behind Diffie-Hellman is actually fairly straightforward. We'll go ahead and let this nice image from [[wiki:Diffie-Hellman key exchange|Wikipedia]]()[^2] illustrate for us.
 
 Assume that Alice and Bob wish to establish some secret key. Better yet, they wish to do so such that no eavesdropper (Eve) can figure out what that key is, even if Eve can intercept any communication between Alice and Bob.
 
-The first step is for Alice and Bob to choose some public piece of information (in this case, yellow paint) and a piece of private information each (red paint for Alice and teal for Bob). They then each mix their private color with the public color. Throughout this process, the assumption is that it is easy to mix paint and that the results for mixing two colors will always be the same, but at the same time it is difficult to separate paints once mixed. It turns out to be true for paint, but also true for {{< wikipedia "modular exponentiation" >}} (which we'll get to shortly). In any case, once both have mixed their paint, they'll send their mixed paint buckets to each other.
+The first step is for Alice and Bob to choose some public piece of information (in this case, yellow paint) and a piece of private information each (red paint for Alice and teal for Bob). They then each mix their private color with the public color. Throughout this process, the assumption is that it is easy to mix paint and that the results for mixing two colors will always be the same, but at the same time it is difficult to separate paints once mixed. It turns out to be true for paint, but also true for [[wiki:modular exponentiation]]() (which we'll get to shortly). In any case, once both have mixed their paint, they'll send their mixed paint buckets to each other.
 
 {{< figure src="/embeds/2013/dh-1.png" >}}
 
@@ -39,7 +39,7 @@ Well, it turns out that the algorithm is just as straight forward:
 |    a     |  p, g, A   |              |  ← B  | gb mod p = B | p, g, A, B |    b     |
 | a, **s** | p, g, A, B | Ba mod p = s |       | Ab mod p = s | p, g, A, B | b, **s** |
 
-We're going to need some math / number theory (specifically, the ability to generate a prime number *p*, calculating a {{< wikipedia page="Primitive root modulo n" text="primitive root" >}} *g*, and then performing {{< wikipedia "modular exponentiation" >}}. Luckily, we have the {{< doc racket "math/number-theory" >}} module:
+We're going to need some math / number theory (specifically, the ability to generate a prime number *p*, calculating a [[wiki:Primitive root modulo n|primitive root]]() *g*, and then performing [[wiki:modular exponentiation]](). Luckily, we have the {{< doc racket "math/number-theory" >}} module:
 
 * {{< doc racket "prime?" >}} - test if a number is prime
 * {{< doc racket "random-prime" >}} - determine a random prime number within a given range
@@ -172,7 +172,7 @@ Finally, both will calculate the secret:
 ```
 
 
-If all goes well (and there's no reason to think that it wouldn't), both will have the same secret. From here, you can do anything you want with the secret. For example, we could use it for the seed in Racket's {{< wikipedia page="Pseudorandom number generator" text="random number generator" >}} and use that with a basic XOR encryption algorithm to talk {{< wikipedia page="XOR encryption" text="completely securely" >}}[^4] (`xor-encode/decode` are available in [dh-shared.rkt](https://github.com/jpverkamp/small-projects/blob/master/blog/dh/dh-shared.rkt)):
+If all goes well (and there's no reason to think that it wouldn't), both will have the same secret. From here, you can do anything you want with the secret. For example, we could use it for the seed in Racket's [[wiki:Pseudorandom number generator|random number generator]]() and use that with a basic XOR encryption algorithm to talk [[wiki:XOR encryption|completely securely]]()[^4] (`xor-encode/decode` are available in [dh-shared.rkt](https://github.com/jpverkamp/small-projects/blob/master/blog/dh/dh-shared.rkt)):
 
 <h3>Client</h3>
 
@@ -276,7 +276,7 @@ client thread 1 send (#<output-port:tcp-accepted>): wqvDuHLDtSbCkgsJw4w=
 ...
 ```
 
-There you have it. You can see the four pieces of information sent (*p*, *g*, *A*, *B* in that order for either), but with just those four, I challenge you to decode the messages being sent (granted, you can see them, but still...). As a note, I {{< wikipedia "Base64" >}} encoded the messages so that they would be easier to `read`, but it's not strictly necessary.
+There you have it. You can see the four pieces of information sent (*p*, *g*, *A*, *B* in that order for either), but with just those four, I challenge you to decode the messages being sent (granted, you can see them, but still...). As a note, I [[wiki:Base64]]() encoded the messages so that they would be easier to `read`, but it's not strictly necessary.
 
 As always, the source code is available on GitHub: [jpverkamp/dh](https://github.com/jpverkamp/small-projects/tree/master/blog/dh/). Check it out!
 

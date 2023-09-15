@@ -10,7 +10,7 @@ programming/languages:
 - Python
 - Ruby
 ---
-Another thing that came up recently: we have many (many) [sidekiq](https://github.com/mperham/sidekiq) queues. Each has their own admin interface, but sometimes you just want all of the information in one place. Of course, you could bookmark all of the pages. Or make a single page with a lot of frames (remember {{< wikipedia "HTML frames" >}}?). Or use their API. But where's the fun in that? Instead, let's dig straight into the redis backend and see what we can see!
+Another thing that came up recently: we have many (many) [sidekiq](https://github.com/mperham/sidekiq) queues. Each has their own admin interface, but sometimes you just want all of the information in one place. Of course, you could bookmark all of the pages. Or make a single page with a lot of frames (remember [[wiki:HTML frames]]()?). Or use their API. But where's the fun in that? Instead, let's dig straight into the redis backend and see what we can see!
 
 <!--more-->
 

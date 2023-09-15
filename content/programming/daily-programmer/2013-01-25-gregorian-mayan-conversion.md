@@ -8,7 +8,7 @@ programming/sources:
 - Daily Programmer
 slug: gregorian-and-mayan-dates
 ---
-It may be 1 uinal, 15 kin too late for the new baktun, but I've got some neat code to convert back and forth between the {{< wikipedia "Gregorian calendar" >}} and the {{< wikipedia "Mayan calendar" >}}. It's based on a challenge on a post on the <a title="Daily Programmer Challenge #117 [Intermediate] Mayan Long Count" href="http://www.reddit.com/r/dailyprogrammer/comments/16obmx/011613_challenge_117_intermediate_mayan_long_count/">/r/dailyprogrammer subreddit</a>. As one might expect, the goal is to be able to take a year, month, and day in the Gregorian calendar and return the equivalent Mayan Long Count corresponding to that date. As a bonus (which of course I had to do :smile:), do the opposite and do it without using built in date functions.
+It may be 1 uinal, 15 kin too late for the new baktun, but I've got some neat code to convert back and forth between the [[wiki:Gregorian calendar]]() and the [[wiki:Mayan calendar]](). It's based on a challenge on a post on the <a title="Daily Programmer Challenge #117 [Intermediate] Mayan Long Count" href="http://www.reddit.com/r/dailyprogrammer/comments/16obmx/011613_challenge_117_intermediate_mayan_long_count/">/r/dailyprogrammer subreddit</a>. As one might expect, the goal is to be able to take a year, month, and day in the Gregorian calendar and return the equivalent Mayan Long Count corresponding to that date. As a bonus (which of course I had to do :smile:), do the opposite and do it without using built in date functions.
 
 <!--more-->
 

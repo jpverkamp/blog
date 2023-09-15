@@ -17,7 +17,7 @@ Spend a month making one beautiful thing per day, given a bunch of prompts. A mo
 
 Let's do it!
 
-## 27) In the style of {{<wikipedia "Hilma Af Klint">}}
+## 27) In the style of [[wiki:Hilma Af Klint]]()
 
 <!--more-->
 

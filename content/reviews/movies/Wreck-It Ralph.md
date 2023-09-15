@@ -24,7 +24,7 @@ Okay, now that was just a fun movie.  Sometimes, when you have what's ostensibl
 
 <!--more-->
 
-And then you have the references, oh the references. I think my my favorite from the entire movie was when the key to getting into the Sugar Rush source was the {{< wikipedia "Konami Code" >}}. That was just fun, although I wonder how many of the younger crowd realize just how far back that goes (it's actually older than I am). Then there was the entire half-finished abandoned track (those are always interesting to find in games) and the {{< wikipedia "Diet Coke and Mentos" >}} volcano. I wonder if heating Diet Coke actually has an effect?
+And then you have the references, oh the references. I think my my favorite from the entire movie was when the key to getting into the Sugar Rush source was the [[wiki:Konami Code]](). That was just fun, although I wonder how many of the younger crowd realize just how far back that goes (it's actually older than I am). Then there was the entire half-finished abandoned track (those are always interesting to find in games) and the [[wiki:Diet Coke and Mentos]]() volcano. I wonder if heating Diet Coke actually has an effect?
 
 Overall, I think Wreck-It Ralph managed to do to video games what Toy Story did for children's toys. It gave them a world to live in and made it make enough sense that you could actually believe that it was happening. So long as you could hold on to your suspension of disbelief and not go to far into details (like why didn't the game characters just act out more or why didn't the players respond more when they did?), it's a completely reasonable world.
 

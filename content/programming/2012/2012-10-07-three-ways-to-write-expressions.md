@@ -22,15 +22,15 @@ Madness right?
 
 <!--more-->
 
-Not really. More like prefix, infix, and {{< wikipedia page="Reverse Polish notation" text="reverse polish" >}} / postfix notation. Basically, they're all just ways of writing down mathematical concepts.
+Not really. More like prefix, infix, and [[wiki:Reverse Polish notation|reverse polish]]() / postfix notation. Basically, they're all just ways of writing down mathematical concepts.
 
 You can really see it if you start with the general structure that all three share:
 
 {{< figure src="/embeds/2012/example.png" >}}
 
-That's what's called an {{< wikipedia "expression tree" >}}. Each node is either a number (the boxes) or a function of two numbers (the circles). To calculate the final value of the tree, you can either think of it by starting at the top or the bottom and working recursively. If you start at the top, whenever you have an operator, branch and work out the value of the two child trees. When you have those, apply the function. If you start at the bottom, repeatedly find branches that have just a leaf on each side and simplify them. Either way, you'll get the same answer.
+That's what's called an [[wiki:expression tree]](). Each node is either a number (the boxes) or a function of two numbers (the circles). To calculate the final value of the tree, you can either think of it by starting at the top or the bottom and working recursively. If you start at the top, whenever you have an operator, branch and work out the value of the two child trees. When you have those, apply the function. If you start at the bottom, repeatedly find branches that have just a leaf on each side and simplify them. Either way, you'll get the same answer.
 
-From the expression tree, you can easily get the three expressions that we were dealing with earlier. Just take the preorder, inorder, or postorder {{< wikipedia page="Tree traversal" text="traversal" >}} of the tree (I'll cover those algorithms at some point as well).
+From the expression tree, you can easily get the three expressions that we were dealing with earlier. Just take the preorder, inorder, or postorder [[wiki:Tree traversal|traversal]]() of the tree (I'll cover those algorithms at some point as well).
 
 Then to evaluate the tree, you'll get something like this (using the prefix notation as it's textual representation is most similar to the tree structure):
 
@@ -197,7 +197,7 @@ Because you pushed the first argument onto the stack first, you have to reverse 
 
 So there you have it. Three ways to write expressions and at least one way a computer could deal with each of them.
 
-Before I go, I bet you were wondering why postfix notation is more commonly called Reverse Polish Notation. It's mostly because of J{{< wikipedia page="Jan Łukasiewicz" text="an Łukasiewicz" >}}, a Polish logician and philosopher from first half of the 1900s. Essentially, he described (prefix) Polish notation in the 1920s but for whatever reason it stuck on the postfix notation, ergo reverse. And now you know.
+Before I go, I bet you were wondering why postfix notation is more commonly called Reverse Polish Notation. It's mostly because of J[[wiki:Jan Łukasiewicz|an Łukasiewicz]](), a Polish logician and philosopher from first half of the 1900s. Essentially, he described (prefix) Polish notation in the 1920s but for whatever reason it stuck on the postfix notation, ergo reverse. And now you know.
 
 The goal tomorrow is to create a web-based simulation of each of these three algorithms that shows the internal works, step by step. We'll see how that goes.
 

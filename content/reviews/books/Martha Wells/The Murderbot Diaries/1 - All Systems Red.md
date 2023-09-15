@@ -25,7 +25,7 @@ Okay, I get what all the hype is about. Take a heavily armed cyborg/clone, desig
 
 <!--more-->
 
-I love the character of Murderbot (as they call themself). They're super uncomfortable with people and trying desperately to hide the fact that they can actually lie, don't particularly like people, and doesn't have to listen to anyone if they don't want to--which that feels an awful lot like {{<wikipedia "imposter syndrome">}} / [masking](https://en.wikipedia.org/wiki/Masking_(personality)). But in the end, they're still going to end up doing the 'right thing' in the end. 
+I love the character of Murderbot (as they call themself). They're super uncomfortable with people and trying desperately to hide the fact that they can actually lie, don't particularly like people, and doesn't have to listen to anyone if they don't want to--which that feels an awful lot like [[wiki:imposter syndrome]]() / [masking](https://en.wikipedia.org/wiki/Masking_(personality)). But in the end, they're still going to end up doing the 'right thing' in the end. 
 
 > I walked out a little way, past a couple of the lakes, almost expecting to see something under the surface. Dead bodies, maybe. I’d seen plenty of those (and caused plenty of those) on past contracts, but this one had been dead-body-lacking, so far. It made for a nice change.
 

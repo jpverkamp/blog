@@ -57,6 +57,6 @@ Art:
 
 ![](/embeds/books/attachments/wicked-divine-1-fc6801.png)
 
-It's beautiful. Vibrant colors mixed with the {{<wikipedia halftones>}} of traditional comics.
+It's beautiful. Vibrant colors mixed with the [[wiki:halftones]]() of traditional comics.
 
 Worth a read so far!

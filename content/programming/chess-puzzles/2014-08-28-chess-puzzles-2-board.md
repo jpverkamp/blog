@@ -14,7 +14,7 @@ Now that we've got [Ludum Dare]({{< ref "2013-05-21-ludum-dare-26-vtanks-results
 
 * Represent an 8x8 chess board, storing the location of pieces (including the owner of each)
 * Add logic for collisions, so that when moving a piece, you cannot move through others or capture allies[^1]
-* Add rendering code to display the current chess board (must be flexible enough to handle arbitrary glyphs for {{< wikipedia "fairy chess" >}} pieces)
+* Add rendering code to display the current chess board (must be flexible enough to handle arbitrary glyphs for [[wiki:fairy chess]]() pieces)
 
 
 I think that's about enough for the moment. Let's do it!

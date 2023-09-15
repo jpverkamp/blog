@@ -4,7 +4,7 @@ date: 2007-06-13 04:55:28
 programming/languages:
 - Java
 ---
-Another project we had during my first Winter quarter at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman</a> was to use a {{< wikipedia "finite state machine" >}} to colorize / perform {{< wikipedia "syntax highlighting" >}} on Java source code. It's easy enough as there are really 3 special cases that we are looking for (strings, comments, and keywords) and we only need 9 states to recognize them all (at least in my implementation).
+Another project we had during my first Winter quarter at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman</a> was to use a [[wiki:finite state machine]]() to colorize / perform [[wiki:syntax highlighting]]() on Java source code. It's easy enough as there are really 3 special cases that we are looking for (strings, comments, and keywords) and we only need 9 states to recognize them all (at least in my implementation).
 
 <!--more-->
 

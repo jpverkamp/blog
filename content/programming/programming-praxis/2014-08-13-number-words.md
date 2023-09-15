@@ -18,7 +18,7 @@ Today's five minute post brought to you via <a href="http://programmingpraxis.co
 
 <!--more-->
 
-That may look fairly straight forward. Basically, it's a {{< wikipedia "parsing" >}}/{{< wikipedia "lexing" >}} problem. You take a string as input and break it into a series of tokens (in this case, numbers 1-26); then each token is converted into a letter.
+That may look fairly straight forward. Basically, it's a [[wiki:parsing]]()/[[wiki:lexing]]() problem. You take a string as input and break it into a series of tokens (in this case, numbers 1-26); then each token is converted into a letter.
 
 Unfortunately, it's a bit more complicated than that, since the grammar is ambiguous. Taking the example `1234` from above, should you parse that as `1 2 3 4 = ABCD`? Or what about `1 23 4 = AWD`? Or even `12 3 4 = LCD`? In a nutshell, we have to do all of them. So we want some sort of branching lexer that will try all possible routes.
 

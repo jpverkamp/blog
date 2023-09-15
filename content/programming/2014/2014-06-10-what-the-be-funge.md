@@ -22,7 +22,7 @@ v "buzz"0<>:.           ^
 >:#,_   $>              ^
 ```
 
-Gibberish you say? No! {{< wikipedia page="Befunge" text="Befuge" >}}!
+Gibberish you say? No! [[wiki:Befunge|Befuge]]()!
 
 <!--more-->
 
@@ -30,7 +30,7 @@ More specifically:
 
 > Befunge is a stack-based, reflective, esoteric programming language. It differs from conventional languages in that programs are arranged on a two-dimensional grid. "Arrow" instructions direct the control flow to the left, right, up or down, and loops are constructed by sending the control flow in a cycle. It has been described as "a cross between Forth and Lemmings."
 
--- {{< wikipedia page="Befunge" text="Wikipedia" >}}
+-- [[wiki:Befunge|Wikipedia]]()
 
 There's not much of a write up this time, since pretty much the entire code is the state machine that actually drives the language. We'll go ahead and assume that we have a whole suite of helper functions (see <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/befunge.rkt">GitHub</a> for details):
 
@@ -208,7 +208,7 @@ There are a few interesting cases:
 
 * `#\"` - nested loop to read the rest of a string (counts as one 'step')
 * `#\\#` - one `move!` is called here, the next at the end of the function
-* `#\p` - we're extending support out to the full {{< wikipedia "Unicode" >}} character set, but not every integer represents a code point, so for those store the number instead
+* `#\p` - we're extending support out to the full [[wiki:Unicode]]() character set, but not every integer represents a code point, so for those store the number instead
 * `#\@` - trust that the caller will actually check the `state-running` parameter
 
 

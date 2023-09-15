@@ -17,7 +17,7 @@ programming/topics:
 
 ## Part 1
 
-> Implement a {{<wikipedia "cellular automaton">}} with the following rules:
+> Implement a [[wiki:cellular automaton]]() with the following rules:
 
 * If you have no neighbors, don't move (*important, I forgot this one for a while*)
 * Otherwise: 

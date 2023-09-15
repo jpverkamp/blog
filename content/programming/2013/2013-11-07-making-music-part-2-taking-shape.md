@@ -13,7 +13,7 @@ programming/topics:
 ---
 It's been a bit, but as you may have noticed life is a bit mad at the moment. But I've still made some progress.
 
-When we left off [last time]({{< ref "2013-10-29-making-music-part-1-reading-abc-notation.md" >}}), we'd finished the first step towards making some lovely music with Racket: {{< wikipedia "tokenization" >}}. Now we want to take those songs and form them into something actually approaching music.
+When we left off [last time]({{< ref "2013-10-29-making-music-part-1-reading-abc-notation.md" >}}), we'd finished the first step towards making some lovely music with Racket: [[wiki:tokenization]](). Now we want to take those songs and form them into something actually approaching music.
 
 <!--more-->
 
@@ -99,7 +99,7 @@ So are we ready to parse the song yet? Well, not quite. First, we need to actual
        (take '(B E A D G C F) num-flats)))
 ```
 
-It's mostly only confusing because I went ahead and supported some of the more esoteric keys (such as {{< wikipedia page="Dorian mode" text="Dorian" >}} and {{< wikipedia page="Lydian mode" text="Lydian" >}} mode). The important part is that any valid combination with up to either seven sharps or flats can be returned. 
+It's mostly only confusing because I went ahead and supported some of the more esoteric keys (such as [[wiki:Dorian mode|Dorian]]() and [[wiki:Lydian mode|Lydian]]() mode). The important part is that any valid combination with up to either seven sharps or flats can be returned. 
 
 Next, we have the meter. This will normally be a fraction representing the number of beats per measure and how large a beat is. The only exception is that non-specified meters and `C` mean common time (4/4) and `C|` means cut time (2/2). 
 

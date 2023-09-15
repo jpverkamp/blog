@@ -39,7 +39,7 @@ First, Racket:
   (port->list read-region in))
 ```
 
-I like how Racket structures input with a series of {{< doc racket read >}} functions. In this case, we'll use {{< wikipedia "regular expressions" >}} to read in the lines since they all have the same form.
+I like how Racket structures input with a series of {{< doc racket read >}} functions. In this case, we'll use [[wiki:regular expressions]]() to read in the lines since they all have the same form.
 
 The Python code looks much the same:
 
@@ -147,7 +147,7 @@ With this, we have a weird looking nest of `for/first` loops to write:
 
 The outer loop is finding the `first` region that has no overlap. Since by problem input we're guaranteed to have exactly one, that's good enough for me. The inner loop takes that region and returns the first region that is not the same region but overlaps it. If that `first` region exists, keep looking in the outer loop (the `#:unless`). It could probably be written more cleanly. But it works.
 
-Now, in Python, the first thing I'm going to do is actually add the `overlaps` function to the `Region` class ({{< wikipedia "monkey patching" >}}):
+Now, in Python, the first thing I'm going to do is actually add the `overlaps` function to the `Region` class ([[wiki:monkey patching]]()):
 
 ```python3
 def overlaps(self, other):

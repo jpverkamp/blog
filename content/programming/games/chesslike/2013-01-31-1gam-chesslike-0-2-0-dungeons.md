@@ -25,7 +25,7 @@ Things that work:
 Things that don't work yet:
 
 * Third, fourth, and fifth tier levels; the second tier of special levels
-* {{< wikipedia "Fairy chess pieces" >}}: Grasshopper, Squirrel, Archbishop, Marshall, Unicorn
+* [[wiki:Fairy chess pieces]](): Grasshopper, Squirrel, Archbishop, Marshall, Unicorn
 * Bonus for capture all enemy pieces on a level (rather than just running for the stairs)
 * Win condition
 

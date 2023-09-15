@@ -433,4 +433,4 @@ A sequence of turn on options in a row can all be done together. I'm not sure if
 
 #### Optimiation: Octree
 
-One thing that I think would really work for this problem would be to use {{< wikipedia "octrees" >}}. Rather than representing a list of cubes, we could split the entire space into one giant octree. Then when we need to break apart a given cube, we can do so with the built in octree stuff and not have to check every cube against every other cube (that gets *very* expensive). The hardest bit to get right would probably be once cubes span multiple nodes (at multiple levels of the octree). Worth considering though?
+One thing that I think would really work for this problem would be to use [[wiki:octrees]](). Rather than representing a list of cubes, we could split the entire space into one giant octree. Then when we need to break apart a given cube, we can do so with the built in octree stuff and not have to check every cube against every other cube (that gets *very* expensive). The hardest bit to get right would probably be once cubes span multiple nodes (at multiple levels of the octree). Worth considering though?

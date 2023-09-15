@@ -93,7 +93,7 @@ function thunk_grid(cell)
 end
 ```
 
-The goal here is to take a table that can contain `top`, `left`, `width`, and/or `height` as numbers 0 to 1 and then apply those to the current window, defaulting `left` and `top` to 0 and `width` and `height` to 1. So if I want a window on the right half, that's `{left: 1/2, width: 1/2}`. Easy enough. `thunk_push` is a wrapper around that that will take the arguments up and wrap them in a {{<wikipedia "thunk">}}--a function with no parameters. 
+The goal here is to take a table that can contain `top`, `left`, `width`, and/or `height` as numbers 0 to 1 and then apply those to the current window, defaulting `left` and `top` to 0 and `width` and `height` to 1. So if I want a window on the right half, that's `{left: 1/2, width: 1/2}`. Easy enough. `thunk_push` is a wrapper around that that will take the arguments up and wrap them in a [[wiki:thunk]]()--a function with no parameters. 
 
 With that, I can add a bunch of my keybindings to `~/.hammerspoon/keys.lua`:
 
@@ -302,7 +302,7 @@ Onward!
 
 Originally, I had a `next` function to match with `push` for moving to the "`next`" monitor. Turns out... `next` is [built in to Lua iterators](https://www.lua.org/manual/2.4/node31.html). 
 
-That... actually managed to crash the built in macOS display manager and make me log in a few times, likely because I ended up causing an infinite loop. Cool {{<wikipedia footgun>}}, yo. 
+That... actually managed to crash the built in macOS display manager and make me log in a few times, likely because I ended up causing an infinite loop. Cool [[wiki:footgun]](), yo. 
 
 ## Useful docs
 

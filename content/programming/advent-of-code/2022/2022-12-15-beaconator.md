@@ -15,7 +15,7 @@ programming/topics:
 
 ## Part 1
 
-> There are a collections of `Sensor`s and `Beacon`s. As input, you are given the `Beacon` closest to each `Sensor` (using {{<wikipedia "Manhattan Distance">}}). If a `Beacon` is not closest to any sensor, it will not appear in this list. Calculate how many points in the given row (`y=2000000`) cannot contain a `Beacon`. 
+> There are a collections of `Sensor`s and `Beacon`s. As input, you are given the `Beacon` closest to each `Sensor` (using [[wiki:Manhattan Distance]]()). If a `Beacon` is not closest to any sensor, it will not appear in this list. Calculate how many points in the given row (`y=2000000`) cannot contain a `Beacon`. 
 
 <!--more-->
 

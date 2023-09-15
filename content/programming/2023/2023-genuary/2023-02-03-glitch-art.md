@@ -23,7 +23,7 @@ Let's do it!
 
 <!--more-->
 
-Wikipedia: {{<wikipedia "Glitch Art">}}
+Wikipedia: [[wiki:Glitch Art]]()
 
 This one took longer than I'd like to admit. The basic idea is that I want to take a region of the image, split into into red/green/blue channels and then offset the red left and the blue right. 
 

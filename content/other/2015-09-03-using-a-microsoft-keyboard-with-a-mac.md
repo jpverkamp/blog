@@ -2,7 +2,7 @@
 title: Using a Microsoft keyboard with a Mac
 date: 2015-09-03 14:00:49
 ---
-I use a MacBook at work. It's nice, since it's Unix'y enough that I can work in the terminal yet works much better out of the box than Linux. On the downside, the keyboard is less than great for {{< wikipedia "carpal tunnel syndrome" >}}. So instead, I've been using a <a href="http://smile.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/">Microsoft Ergonomic Keyboard</a>. Then though, you have the difference between Control/Windows/Alt keys and Control/Option/Command.
+I use a MacBook at work. It's nice, since it's Unix'y enough that I can work in the terminal yet works much better out of the box than Linux. On the downside, the keyboard is less than great for [[wiki:carpal tunnel syndrome]](). So instead, I've been using a <a href="http://smile.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/">Microsoft Ergonomic Keyboard</a>. Then though, you have the difference between Control/Windows/Alt keys and Control/Option/Command.
 
 <!--more-->
 

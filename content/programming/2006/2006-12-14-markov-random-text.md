@@ -4,7 +4,7 @@ date: 2006-12-14 04:55:11
 programming/languages:
 - Java
 ---
-This is work from my first Winter quarter at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>. Basically, we were to use {{< wikipedia page="Markov chain" text="Markov chains" >}} to generate a semi-random text that statistically matches an input text. The short version is that you calculate for each sequence of words of a given length (the chain length) what the possible next words are from the given text, each with a given probability. Then you use that to generate a new text, randomly choosing each new word from the aforementioned probabilities. It's really fun to play with and I've got a half dozen or so examples to show you.
+This is work from my first Winter quarter at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>. Basically, we were to use [[wiki:Markov chain|Markov chains]]() to generate a semi-random text that statistically matches an input text. The short version is that you calculate for each sequence of words of a given length (the chain length) what the possible next words are from the given text, each with a given probability. Then you use that to generate a new text, randomly choosing each new word from the aforementioned probabilities. It's really fun to play with and I've got a half dozen or so examples to show you.
 
 <!--more-->
 
@@ -48,7 +48,7 @@ This one actually stopped and much more quickly than the original work did (I wa
 
 > Dorothy lived in Kansas, where I came at once. I am glad of it, for it sounded queer to hear a deep roll of blue at the bottom. The sides were so brilliant in color they almost stood upon the raft and held Toto tightly lest he should awaken; and the Lion sadly. "What makes you a coward?" asked Dorothy, looking at him in surprise. But, seeing they were drawn out of the Munchkins. He was clothed all in an unfriendly way at the river the swift current swept the raft through the soft, fresh grass; and it is very ...
 
-Hmm, perhaps the outcome of someone trying to summarize the {{< wikipedia "Dark Side of the Rainbow" >}}?
+Hmm, perhaps the outcome of someone trying to summarize the [[wiki:Dark Side of the Rainbow]]()?
 
 Anyways, that's more than enough examples for now, so why don't you take it for a spin. Download it, try it out. The JAR contains the source code as well, so if you want to tweak the code, feel free.
 

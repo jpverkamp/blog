@@ -7,11 +7,11 @@ programming/languages:
 programming/sources:
 - Programming Praxis
 ---
-Yesterday had another <a title="Taxicab Numbers" href="http://programmingpraxis.com/2012/11/09/taxicab-numbers/">programming puzzle</a> by Programming Praxis. This time, we are looking for a very special sort of number, a {{< wikipedia "Taxicab number" >}}.  According to Wikipedia:
+Yesterday had another <a title="Taxicab Numbers" href="http://programmingpraxis.com/2012/11/09/taxicab-numbers/">programming puzzle</a> by Programming Praxis. This time, we are looking for a very special sort of number, a [[wiki:Taxicab number]]().  According to Wikipedia:
 
 
 > In mathematics, the nth taxicab number, typically denoted Ta(n) or Taxicab(n), is defined as the smallest number that can be expressed as a sum of two positive algebraic cubes in n distinct ways.
-> -- <cite>{{< wikipedia page="Taxicab number" text="Wikipedia: Taxicab Number" >}}</cite>
+> -- <cite>[[wiki:Taxicab number|Wikipedia: Taxicab Number]]()</cite>
 
 
 <!--more-->
@@ -100,6 +100,6 @@ And just for fun, let's check the next value:
 '(87539319 ((167 436) (228 423) (255 414)))
 ```
 
-According to the answer on the {{< wikipedia page="Taxicab number" text="Wikipedia page" >}}, we're good to go. That took a while to run, so I don't think that I'll try any higher (apparently only the first six values are even known, with Ta(6) = 24,153,319,581,254,312,065,344 (26 sextillion). So who knows how large Ta(7) is... 
+According to the answer on the [[wiki:Taxicab number|Wikipedia page]](), we're good to go. That took a while to run, so I don't think that I'll try any higher (apparently only the first six values are even known, with Ta(6) = 24,153,319,581,254,312,065,344 (26 sextillion). So who knows how large Ta(7) is... 
 
 If you'd like to download today's code, you can do so here: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/taxicab-numbers.rkt" title="GitHub: jpverkamp: Taxicab numbers">taxicab numbers source</a>

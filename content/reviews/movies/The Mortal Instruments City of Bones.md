@@ -18,7 +18,7 @@ reviews/writers:
 - Cassandra Clare
 reviews/year: 2013
 ---
-The Mortal Instruments comes with a fair amount of baggage. It's a young adult urban fantasy series of five (with a sixth on the way) in a genre that by default seems to invite comparisons to Twilight[^1] and Harry Potter [^2]. There are love triangles galore[^3] which in the movie at least seem somewhat arbitrary. And then there's the whole history with author {{< wikipedia page="Cassandra Clare" text="Cassandra Clare's" >}} history in fan fiction[^4].
+The Mortal Instruments comes with a fair amount of baggage. It's a young adult urban fantasy series of five (with a sixth on the way) in a genre that by default seems to invite comparisons to Twilight[^1] and Harry Potter [^2]. There are love triangles galore[^3] which in the movie at least seem somewhat arbitrary. And then there's the whole history with author [[wiki:Cassandra Clare|Cassandra Clare's]]() history in fan fiction[^4].
 
 <!--more-->
 

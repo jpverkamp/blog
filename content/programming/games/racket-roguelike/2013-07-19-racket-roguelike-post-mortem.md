@@ -22,7 +22,7 @@ What went well:
 * I learned a lot more about Racket--in particular its {{< doc racket "object system" >}} and {{< doc racket "GUI library" >}}
 * I created a few libraries that may be useful in other projects (which I indend to convert to [PLaneT 2 packages](http://planet.racket-lang.org/) when it is released): 
 * [ascii-canvas](https://github.com/jpverkamp/ascii-canvas) \-- a direct translation of [Trystan's AsciiPanel](https://github.com/trystan/AsciiPanel) for Java for creating simple ASCII displays
-* [noise](https://github.com/jpverkamp/noise) \-- generate {{< wikipedia page="Simplex noise" text="Simplex" >}}or {{< wikipedia page="Perlin noise" text="Perlin" >}} noise
+* [noise](https://github.com/jpverkamp/noise) \-- generate [[wiki:Simplex noise|Simplex]]()or [[wiki:Perlin noise|Perlin]]() noise
 * [thing ](https://github.com/jpverkamp/thing)\-- an alternative prototype-based object system
 
 </li>

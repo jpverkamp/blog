@@ -13,7 +13,7 @@ series:
 ---
 ### Source: [Leonardo's Monorail](http://adventofcode.com/2016/day/12)
 
-> **Part 1:** Create a {{< wikipedia "virtual machine" >}} that has four registers (`a`, `b`, `c`, and `d`) and can process the following instructions:
+> **Part 1:** Create a [[wiki:virtual machine]]() that has four registers (`a`, `b`, `c`, and `d`) and can process the following instructions:
 
 > - `cpy x y` - copies `x` into `y` (`x` can be an integer or a register)
 > - `inc x` - increases register `x` by one
@@ -24,7 +24,7 @@ series:
 
 <!--more-->
 
-Let's make a {{< wikipedia "virtual machine" >}}!
+Let's make a [[wiki:virtual machine]]()!
 
 ```python
 class APC(object):

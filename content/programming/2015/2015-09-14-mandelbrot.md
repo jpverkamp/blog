@@ -7,7 +7,7 @@ programming/topics:
 - Fractals
 - Graphics
 ---
-Perhaps the best known fractal of all: the {{< wikipedia "Mandelbrot set" >}}.
+Perhaps the best known fractal of all: the [[wiki:Mandelbrot set]]().
 
 {{< figure src="/embeds/2015/mandelbrot_default_400x300_hot-and-cold.png" >}}
 
@@ -64,7 +64,7 @@ def generate_image(width, height, generator, threads = 1):
     return img
 ```
 
-By using `multiprocessing` rather than `threading`, we are actually spawning multiple Python processes, so we get a true multithreaded speedup. Since this program is almost entirely CPU bound, `threading` (with Python's {{< wikipedia "global interpreter lock" >}}) wouldn't actually be any faster.
+By using `multiprocessing` rather than `threading`, we are actually spawning multiple Python processes, so we get a true multithreaded speedup. Since this program is almost entirely CPU bound, `threading` (with Python's [[wiki:global interpreter lock]]()) wouldn't actually be any faster.
 
 An aside: Using `starmap` allows us to pass multiple parameters to the function we are mapping over. This was only introduced in Python 2.6 / 3.3, so make sure you have a sufficiently new version[^2].
 
@@ -88,7 +88,7 @@ Yes, I realize that's not the most Pythonic code in the world. And because the b
 
 Okay, so we have a way to generate images, let's use it to generate Mandelbrot sets. The basic idea of the Mandelbrot set is surprisingly simple[^4]:
 
-Given a complex number {{< inline-latex "\mathbb{C}" >}}, the {{< wikipedia page="complex" text="complex number" >}} {{< wikipedia "quadratic polynomial" >}}:
+Given a complex number {{< inline-latex "\mathbb{C}" >}}, the [[wiki:complex|complex number]]() [[wiki:quadratic polynomial]]():
 
 {{< latex >}}\mathbb{Z}_n+1 = \mathbb{Z}_n^2 + \mathbb{C}{{< /latex >}}
 
@@ -144,7 +144,7 @@ def make_mandelbrot_generator(width, height, center, size, max_iterations = 256)
 
 I've chosen here to make a function that returns the actual color generator primarily so that we would have access to the `width` and `height` within the main function.
 
-Amusingly, it's been proven that if the magnitude of {{< inline-latex "\mathbb{Z}_n" >}} crosses 2, it will go to infinity. Since `r` is the magnitude in the {{< wikipedia "polar coordinate system" >}} (`r`,`ϕ`), we can use that as an escape hatch and even as a basic way to color the output.
+Amusingly, it's been proven that if the magnitude of {{< inline-latex "\mathbb{Z}_n" >}} crosses 2, it will go to infinity. Since `r` is the magnitude in the [[wiki:polar coordinate system]]() (`r`,`ϕ`), we can use that as an escape hatch and even as a basic way to color the output.
 
 One side note: using the `multiprocessing` module, we have to be able to `<a href="https://docs.python.org/2/library/pickle.html">pickle</a>` any variables to the function called. Functions defined in the global scope can be pickled, but functions used directly as parameters to other functions cannot; don't ask me why.
 

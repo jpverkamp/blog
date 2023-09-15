@@ -21,7 +21,7 @@ There are all manner of pros and cons to each, in particular how easy they are t
 
 For the project that I was working on (I'll post about it eventually), I didn't have terribly many different kinds of data to store, so it would be easy enough to start with anything. I started with a simple file system backing, with one json file per object that I was storing. That worked well enough, but I didn't particularly care for having to write all of the code myself to join / find child objects. I wanted something a little more powerful.
 
-Next, I considered using a database with an {{< wikipedia page="ORM" text="Object-relational mapping" >}} layer. That would let me define everything as Python objects and let the library handle all of the mappings to the actual database. That way, I could write a bare minimum of code for my actual models. Unfortunately, the data wasn't particularly well structured for a relational database, being more hierarchical in struture. It's entirely possible to represent hierarchical data in a relational database, it's just not what they are best suited for.
+Next, I considered using a database with an [[wiki:ORM|Object-relational mapping]]() layer. That would let me define everything as Python objects and let the library handle all of the mappings to the actual database. That way, I could write a bare minimum of code for my actual models. Unfortunately, the data wasn't particularly well structured for a relational database, being more hierarchical in struture. It's entirely possible to represent hierarchical data in a relational database, it's just not what they are best suited for.
 
 Finally, I came to Redis. I've used Redis in a few projects at work and come to really like it. It works great as a simple key/value store and even better when you start taking advatage of some of their other data structures. In particular, Redis hashes and lists map nicely to Python dicts and lists. So that's what I ended up doing: Writing a pair of base classes (`RedisDict` and `RedisList`) which to the programmer act just like a Python dict or list, but actually store all of their data transparently in Redis.
 
@@ -226,7 +226,7 @@ class User(lib.RedisDict):
         return hashedTestPassword == self['password']
 ```
 
-A `User` will have four fields: a `name`, an `email`, a `password`, and a list of `friends` (we'll get to how that works in a bit). Then, I've added some custom code to automatically store passwords using {{< wikipedia "bcrypt" >}}[^4]. You can use it just like you would a `dict`:
+A `User` will have four fields: a `name`, an `email`, a `password`, and a list of `friends` (we'll get to how that works in a bit). Then, I've added some custom code to automatically store passwords using [[wiki:bcrypt]]()[^4]. You can use it just like you would a `dict`:
 
 ```python
 >>> han = User(
@@ -397,7 +397,7 @@ class RedisList(RedisObject):
 
 Basically, I'm mapping a lot of the default Python `list` functionality to Redis lists and vice versa[^5]. It's a little odd and some things aren't as efficient as I'd like (you only get `O(1)` access to the beginning and end of the list), but so it goes. It works great, as you saw in the `friends` example above.
 
-The one interesting function is `as_child`. Since either a `RedisDict` or a `RedisList` expect a 'constructor-like' function as the data type, I need something that will correctly store a `RedisList` inside of a `RedisDict` while generating a human readable ID (with `:friends` appended in the example above). I love {{< wikipedia "higher order functions" >}}.
+The one interesting function is `as_child`. Since either a `RedisDict` or a `RedisList` expect a 'constructor-like' function as the data type, I need something that will correctly store a `RedisList` inside of a `RedisDict` while generating a human readable ID (with `:friends` appended in the example above). I love [[wiki:higher order functions]]().
 
 And... that's it. Eventually, I think I'll look into publishing this as a library to `pip` or the like. But since I've never done that before and this post is already a little on the long sice, we'll leave that for another day. All of the code is included in the post, so you can copy and paste it into your project if you'd like to try it out before I publish it. Once I have, I'll edit this post.
 

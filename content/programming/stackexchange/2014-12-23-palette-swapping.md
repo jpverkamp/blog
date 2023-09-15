@@ -11,7 +11,7 @@ programming/topics:
 - Optimization
 - Trees
 ---
-Today's task comes from the [Code Golf StackExchange](https://codegolf.stackexchange.com/). The idea behind {{< wikipedia "code golf" >}} is to write a program with as few characters as possible, often rendering the code nigh on unreadable. Luckily, the same StackExchange also host popularity contests, one of which is the inspiration behind today's post:
+Today's task comes from the [Code Golf StackExchange](https://codegolf.stackexchange.com/). The idea behind [[wiki:code golf]]() is to write a program with as few characters as possible, often rendering the code nigh on unreadable. Luckily, the same StackExchange also host popularity contests, one of which is the inspiration behind today's post:
 
 > You are given two true color images, the Source and the Palette. They do not necessarily have the same dimensions but it is guaranteed that their areas are the same, i.e. they have the same number of pixels.
 > Your task is to create an algorithm that makes the most accurate looking copy of the Source by only using the pixels in the Palette. Each pixel in the Palette must be used exactly once in a unique position in this copy. The copy must have the same dimensions as the Source.
@@ -22,7 +22,7 @@ Today's task comes from the [Code Golf StackExchange](https://codegolf.stackexch
 Specifically for this post, we'll be using two source images, although for testing I had a whole pile more:
 
 
-| {{< wikipedia "Mona Lisa" >}} by {{< wikipedia "Leonardo da Vinci" >}}, c. 1503-1506 | {{< wikipedia "The Scream" >}} by {{< wikipedia "Edvard Munch" >}}, 1893 |
+| [[wiki:Mona Lisa]]() by [[wiki:Leonardo da Vinci]](), c. 1503-1506 | [[wiki:The Scream]]() by [[wiki:Edvard Munch]](), 1893 |
 |-------------------------------------------------|----------------------------------------------|
 | {{< figure src="/embeds/2014/mona-lisa.png" >}} | {{< figure src="/embeds/2014/scream.png" >}} |
 
@@ -252,7 +252,7 @@ The third and final option was actually the first one that I came up with:
 3. Remove it from the target list
 
 
-As a {{< wikipedia "greedy algorithm" >}}, it's theoretically fast but likely not optimal. What you end up getting is really good results for the first part of the image but increasingly bad results as the images diverge.
+As a [[wiki:greedy algorithm]](), it's theoretically fast but likely not optimal. What you end up getting is really good results for the first part of the image but increasingly bad results as the images diverge.
 
 One neat trick I did here was that I could have just run from the top of the image down. But that would have lost out on a lot of the detail from the center of the image. So instead, I used the {{< doc racket "racket/generator" >}} library to make this neat gem:
 
@@ -349,7 +349,7 @@ Also, there's another problem. It's slow. Since this was actually the first thin
 
 The main problem with the fill solution is that for each pixel {{< inline-latex "\mathcal{O}(n)" >}}, you're going to run through every pixel in the target image (another {{< inline-latex "\mathcal{O}(n)" >}}), resulting in an {{< inline-latex "\mathcal{O}(n^2)" >}} runtime. Not particularly great. Especially because we shouldn't have to scan through the entire list (or even the average of half of it) to find the closest matching pixel.
 
-Instead, we should be able to do something like a {{< wikipedia "binary search" >}}:
+Instead, we should be able to do something like a [[wiki:binary search]]():
 
 
 * Start with a lower and upper bound of the entire list
@@ -359,7 +359,7 @@ Instead, we should be able to do something like a {{< wikipedia "binary search" 
 3. Repeat
 
 
-If we could get something like that working, we would only need {{< inline-latex "\mathcal{O}(\log{}n)" >}} per lookup, reducing the runtime to the same as the `recolor/sort` method. And... it turns out that Racket has just the sort of data strucure we need: a {{< wikipedia "splay tree" >}}. Specifically, a splay tree is a binary tree (enabling binary search), that self-adjusts (to avoid worst case badly unbalanced trees), which has the additional property of making recently accessed elements quick to access. That's helpful in this case, since we'll have blocks of similar colors, which are close in the tree. Neat!
+If we could get something like that working, we would only need {{< inline-latex "\mathcal{O}(\log{}n)" >}} per lookup, reducing the runtime to the same as the `recolor/sort` method. And... it turns out that Racket has just the sort of data strucure we need: a [[wiki:splay tree]](). Specifically, a splay tree is a binary tree (enabling binary search), that self-adjusts (to avoid worst case badly unbalanced trees), which has the additional property of making recently accessed elements quick to access. That's helpful in this case, since we'll have blocks of similar colors, which are close in the tree. Neat!
 
 In Racket, to build a splay tree, we need to set up a couple of things in the {{< doc racket "data/order" >}} and {{< doc racket "data/splay-tree" >}} modules:
 

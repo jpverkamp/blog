@@ -82,7 +82,7 @@ for i in naturals():
 print(hard_password)
 ```
 
-I like Python's {{< doc python any >}} function. It reminds me of more {{< wikipedia "functional programming" >}} paradigms.
+I like Python's {{< doc python any >}} function. It reminds me of more [[wiki:functional programming]]() paradigms.
 
 On fun thing you can do with the [full source](https://github.com/jpverkamp/advent-of-code/blob/master/2016/day-05/password-cracker.py) for today's solution is watch the progress as it cracks the password:
 

@@ -72,7 +72,7 @@ if response.status_code != 200:
     sys.exit(0)
 ```
 
-... Still doesn't work. I'm getting a page back that says I need to enable cookies, which I most definitely have enabled (that's why I created the `session`). A bit of Google-fu later, and I find out that Amazon will only allow connections from semi-reasonable {{< wikipedia "User Agents" >}}. Let's set it to a recent Chrome build on Windows 8.1:
+... Still doesn't work. I'm getting a page back that says I need to enable cookies, which I most definitely have enabled (that's why I created the `session`). A bit of Google-fu later, and I find out that Amazon will only allow connections from semi-reasonable [[wiki:User Agents]](). Let's set it to a recent Chrome build on Windows 8.1:
 
 ```python
 session = requests.Session()
@@ -136,7 +136,7 @@ Within that page, there are a series of `td` elements linking to books, each wit
         ...
 ```
 
-Luckily, the next part is a little easier to deal with. There is actually an API of sorts of Kindle highlights, once you have a user ID. All you have to do is hit `https://kindle.amazon.com/kcw/highlights?asin={book_id}` (potentially many times, it's {{< wikipedia "paginated" >}}):
+Luckily, the next part is a little easier to deal with. There is actually an API of sorts of Kindle highlights, once you have a user ID. All you have to do is hit `https://kindle.amazon.com/kcw/highlights?asin={book_id}` (potentially many times, it's [[wiki:paginated]]()):
 
 ```python
 ...

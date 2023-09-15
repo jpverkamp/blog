@@ -38,7 +38,7 @@ What’s more Christmas than poker?
 
 ![](/embeds/books/attachments/hellblazer-22-20817b.png)
 
-Constantine done poetically, via the {{<wikipedia "Curse of the Billygoat">}}. 
+Constantine done poetically, via the [[wiki:Curse of the Billygoat]](). 
 
 ### The Curse of Christmas
 

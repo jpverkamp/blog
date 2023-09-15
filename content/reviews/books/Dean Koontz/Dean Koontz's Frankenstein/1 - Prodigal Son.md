@@ -52,7 +52,7 @@ One of these things…
 
 > “Deucalion…,” the monk said. “A name from old mythology—not known to many people anymore.” He rose from the chair, ignoring the throbbing pain of countless pinpricks.
 
-{{<wikipedia "Deucalion">}}. Son of Prometheus. 
+[[wiki:Deucalion]](). Son of Prometheus. 
 
 Works pretty well, all things considered. 
 

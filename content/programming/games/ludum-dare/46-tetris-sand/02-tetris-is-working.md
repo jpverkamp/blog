@@ -125,7 +125,7 @@ Godot is nice.
 
 Up next:
 
-- Make the blocks into {{< wikipedia tetrominos >}}. 
+- Make the blocks into [[wiki:tetrominos]](). 
 - Work on the falling sand simulation
 - Have the sand 'drop' into a shared simulation when the blocks lock (using the previous signal!)
 

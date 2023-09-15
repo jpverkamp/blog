@@ -9,13 +9,13 @@ programming/topics:
 - Symmetric encryption
 - TLS
 ---
-In cryptography work, {{< wikipedia "RC4" >}} (Rivest Cipher 4) is well known as both one of the easiest to implement and fastest to run {{< wikipedia "symmetric encryption" >}} algorithms. Unfortunately, over time there have been a number of attacks on RC4, both in poorly written protocols (such as in the case of {{< wikipedia "WEP" >}}) or statistical attacks against the protocol itself.
+In cryptography work, [[wiki:RC4]]() (Rivest Cipher 4) is well known as both one of the easiest to implement and fastest to run [[wiki:symmetric encryption]]() algorithms. Unfortunately, over time there have been a number of attacks on RC4, both in poorly written protocols (such as in the case of [[wiki:WEP]]()) or statistical attacks against the protocol itself.
 
 Still, for how well it formed, it's an amazingly simple algorithm, so I decided to try my hand at implementing it.
 
 <!--more-->
 
-Basically, RC4 is what is known as a '{{< wikipedia "stream cipher" >}}', implying that each byte in the input message is encrypted individually (generally taking into account feedback from previous bytes). This runs counter to the perhaps more well known {{< wikipedia "block ciphers" >}} such as DES and AES, where bytes are instead encrypted together (although feedback between blocks is still of course possible).
+Basically, RC4 is what is known as a '[[wiki:stream cipher]]()', implying that each byte in the input message is encrypted individually (generally taking into account feedback from previous bytes). This runs counter to the perhaps more well known [[wiki:block ciphers]]() such as DES and AES, where bytes are instead encrypted together (although feedback between blocks is still of course possible).
 
 The first step of the algorithm is to take your encryption key (a password or the like) and convert it into a sequence of bytes at least as long as your input. For RC4, this is done in two pieces. First, prepare the index:
 
@@ -121,7 +121,7 @@ Both of them the same? Good sign. Both matching the example on the Wikipedia pag
 
 So, we have an infinite stream of bytes. What next?
 
-Well, this is actually the crazy part: You just {{< wikipedia "xor" >}} them.
+Well, this is actually the crazy part: You just [[wiki:xor]]() them.
 
 ```python
 def rc4(key, msg):

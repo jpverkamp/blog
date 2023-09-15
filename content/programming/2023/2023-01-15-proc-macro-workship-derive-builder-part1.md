@@ -13,7 +13,7 @@ series:
 ---
 While continuing to learn a bit more about macros in Rust ([[Writing a curry! macro for MacroKata|previous post]]()), I really want to move beyond the simple declarative macros and get into something a bit more interesting. Enter [procedural macros](https://doc.rust-lang.org/reference/procedural-macros.html). In a nutshell, procedural macros in Rust, rather than relying entirely on pattern matching and expansion are fully Rust functions. 
 
-They take a specific input (a stream of tokens) and output a specific output (a new stream of tokens), but in between they can do just about anything a full Rust function can do. And what's better yet... they operate at compile time. And because they operate on tokens (rather than a full AST), you can do things that just aren't syntactically valid in normal Rust. Things like... {{<wikipedia "variadic functions">}} (a la `print!` or `var!`) or even crazier things like [embedding Python in Rust](https://docs.rs/inline-python/latest/inline_python/) for ... reasons. 
+They take a specific input (a stream of tokens) and output a specific output (a new stream of tokens), but in between they can do just about anything a full Rust function can do. And what's better yet... they operate at compile time. And because they operate on tokens (rather than a full AST), you can do things that just aren't syntactically valid in normal Rust. Things like... [[wiki:variadic functions]]() (a la `print!` or `var!`) or even crazier things like [embedding Python in Rust](https://docs.rs/inline-python/latest/inline_python/) for ... reasons. 
 
 Today specifically, I've started working through the [prod-macro-workshop](https://github.com/dtolnay/proc-macro-workshop) repo. It's a series of five examples macros with test cases and some guidance set up to help you get up to speed. I'm going to be working through the first of these: `derive(Builder)`. Now don't get me wrong. I really have no idea what I'm doing, so don't take this as an example of *how to write a macro*. But perhaps by writing this out, it will help me learn it better... and if you happen to learn something as well, all the better!
 
@@ -25,7 +25,7 @@ Today specifically, I've started working through the [prod-macro-workshop](https
 
 So what is `derive(Builder)` anyways? Well, Rust has a small pile of `derive` macros that you've probably seen already. Things like `derive(Clone)` or `derive(Debug)` that you can attach to a struct/enum/trait by putting them directly before the definition. In doing so, the compiler will know that you want to automatically inject some code based on that. So in the case of `derive(Clone)`, you want to implement the `Clone` trait by providing a `clone` method (that in turn calls `Clone` on each member of the struct). Similarly for `Debug`. So how does/should `Builder` work?
 
-Well, we want to implement the {{<wikipedia "builder pattern">}}. Specifically, since as mentioned Rust doesn't have variadic functions, it's common to build structs by calling `::new` and then passing along a number of additional functions that specify initial values. A la:
+Well, we want to implement the [[wiki:builder pattern]](). Specifically, since as mentioned Rust doesn't have variadic functions, it's common to build structs by calling `::new` and then passing along a number of additional functions that specify initial values. A la:
 
 ```rust
 #[derive(Builder)]

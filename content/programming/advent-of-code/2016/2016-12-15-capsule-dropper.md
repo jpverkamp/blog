@@ -14,7 +14,7 @@ series:
 
 <!--more-->
 
-Not much to say about this one. Load the disks and then check each disk. The most interesting part is using {{< wikipedia "modular arithmetic" >}} so that you don't have to actually determine the current position--just check if it's 0.
+Not much to say about this one. Load the disks and then check each disk. The most interesting part is using [[wiki:modular arithmetic]]() so that you don't have to actually determine the current position--just check if it's 0.
 
 ```python
 discs = []

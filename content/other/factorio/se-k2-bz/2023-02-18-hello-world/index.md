@@ -126,7 +126,7 @@ Speaking of which, one of the Brevven resources is natural gas. You can tap it e
 
 ![Pumping and splitting natural gas](natural-gas.png)
 
-But finally I've gotten to the point of making it into {{<wikipedia formaldehyde>}}, which in turn can be made into a very early plastic: {{<wikipedia bakelite>}}. Oh factorio, making me learn things about real chemistry. 
+But finally I've gotten to the point of making it into [[wiki:formaldehyde]](), which in turn can be made into a very early plastic: [[wiki:bakelite]](). Oh factorio, making me learn things about real chemistry. 
 
 ![Making basic plastic](early-plastic.png)
 

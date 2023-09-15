@@ -80,7 +80,7 @@ Yeah. It's not much. But it renders and you can use your mouse to move it around
 
 <iframe width="800" height="600" style="border: 1px solid black;" src="/embeds/games/ludum-dare/46/v0.1/launcher.html"></iframe>
 
-The ability to compile that to {{< wikipedia WASM >}} and run it in a browser (even if it's a bit hefty at 20MB) out of the box is pretty awesome.
+The ability to compile that to [[wiki:WASM]]() and run it in a browser (even if it's a bit hefty at 20MB) out of the box is pretty awesome.
 
 Tomorrow: 
 

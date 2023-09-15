@@ -9,7 +9,7 @@ programming/topics:
 - Boto3
 - DNS
 ---
-Recently I found myself wanting to do some analysis on all of our DNS entires stored in AWS's Route53 for security reasons (specifically to prevent subdomain takeover attacks, I'll probably write that up soon). In doing so, I realized that while Route53 has the ability to import a {{< wikipedia "zone file" >}}, it's not possible to export one.
+Recently I found myself wanting to do some analysis on all of our DNS entires stored in AWS's Route53 for security reasons (specifically to prevent subdomain takeover attacks, I'll probably write that up soon). In doing so, I realized that while Route53 has the ability to import a [[wiki:zone file]](), it's not possible to export one.
 
 To some extent, this makes sense. Since Route53 supports ALIAS records (which can automatically determine their values based on other AWS products, such as an ELB changing its public IP) and those aren't actually 'real' DNS entries, things will get confused. But I don't currently intend to re-import these zone files, just use them. So let's see what we can do.
 

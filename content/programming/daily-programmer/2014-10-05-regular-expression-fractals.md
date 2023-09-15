@@ -119,7 +119,7 @@ Then I wrote a quick loop that will generate all images in both modes (short cir
 (demo "test256" 256)
 ```
 
-First, a basic {{< wikipedia "Sierpinski triangle" >}} `1`:
+First, a basic [[wiki:Sierpinski triangle]]() `1`:
 
 {{< figure src="/embeds/2014/sierpinski_full_by-length_256.png" >}}
 

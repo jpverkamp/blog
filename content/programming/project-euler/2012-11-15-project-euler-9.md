@@ -24,7 +24,7 @@ programming/sources:
 
 I like it. :smile:
 
-I've already done a [much larger problem]({{< ref "2012-10-27-pythagorean-triples.md" >}}) on {{< wikipedia "Pythagorean Triples" >}}, so this one should be pretty straight forward. Essentially, since we know that an answer exists, we need to just go through all of the triples in some sensible order until we find the one that we want.
+I've already done a [much larger problem]({{< ref "2012-10-27-pythagorean-triples.md" >}}) on [[wiki:Pythagorean Triples]](), so this one should be pretty straight forward. Essentially, since we know that an answer exists, we need to just go through all of the triples in some sensible order until we find the one that we want.
 
 Starting with Python this, time, we can represent that idea pretty directly with a generator (a function that when called multiple times returns a (potentially) different answer for each call):
 

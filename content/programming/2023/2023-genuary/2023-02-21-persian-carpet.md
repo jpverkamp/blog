@@ -19,7 +19,7 @@ Let's do it!
 
 ## 21) Persian carpet
 
-Wikipedia: {{<wikipedia "Persian carpet">}}
+Wikipedia: [[wiki:Persian carpet]]()
 
 <!--more-->
 

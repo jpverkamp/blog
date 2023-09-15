@@ -106,7 +106,7 @@ If it takes 2.5 seconds to calculate the first 20 values of `kappa`, I'm not eve
 
 (Don't do that!)
 
-Since each call to `kappa` relies on n-1 other calls to `kappa`, the runtime quickly spirals into an out of control exponential runtime. Wouldn't it be nice if we could just remember each smaller value of `kappa` as we calculate it so we don't have to do all that work over and over? {{< wikipedia "Memoization" >}} to the rescue! It turns out that there's already a [my own]({{< ref "2012-10-20-memoization-in-racket.md" >}}) (check it out if you're interested in Scheme macros, it's not too complicated). 
+Since each call to `kappa` relies on n-1 other calls to `kappa`, the runtime quickly spirals into an out of control exponential runtime. Wouldn't it be nice if we could just remember each smaller value of `kappa` as we calculate it so we don't have to do all that work over and over? [[wiki:Memoization]]() to the rescue! It turns out that there's already a [my own]({{< ref "2012-10-20-memoization-in-racket.md" >}}) (check it out if you're interested in Scheme macros, it's not too complicated). 
 
 Luckily, it's just a matter of swapping `define-memoized` for `define` in `kappa` and optionally `sopf`. Really, that's all you need. (I renamed them to `msopf` and `mkappa` so I could test both.)
 

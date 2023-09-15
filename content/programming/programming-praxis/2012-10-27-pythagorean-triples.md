@@ -9,7 +9,7 @@ programming/sources:
 programming/topics:
 - Mathematics
 ---
-When Programming Praxis mentioned that the <a href="http://programmingpraxis.com/2012/10/26/pythagorean-triples/" title="Programming Praxis: Pythagorean Triples">newest challenge</a> sounded like a <a href="http://projecteuler.net/" title="Project Euler">Project Euler</a> problem, they were't wrong. Basically, the idea is to count the number of {{< wikipedia "Pythagorean Triples" >}} with perimeters (sum of the three numbers) under a given value. The necessary code to brute force the problem is really straight forward, but then they asked for the count up to one million. With the brute force {{< inline-latex "O(n^2)" >}} algorithm (and a relatively high constant), that's not really feasible. So that's when we have to get a bit more creative.
+When Programming Praxis mentioned that the <a href="http://programmingpraxis.com/2012/10/26/pythagorean-triples/" title="Programming Praxis: Pythagorean Triples">newest challenge</a> sounded like a <a href="http://projecteuler.net/" title="Project Euler">Project Euler</a> problem, they were't wrong. Basically, the idea is to count the number of [[wiki:Pythagorean Triples]]() with perimeters (sum of the three numbers) under a given value. The necessary code to brute force the problem is really straight forward, but then they asked for the count up to one million. With the brute force {{< inline-latex "O(n^2)" >}} algorithm (and a relatively high constant), that's not really feasible. So that's when we have to get a bit more creative.
 
 <!--more-->
 
@@ -47,7 +47,7 @@ cpu time: 54687 real time: 54840 gc time: 1348
 4858
 ```
 
-Yeah, I don't really want to try that on one million. So we need a faster algorithm. Luckily, you don't have to try all of the possible ways that could generate a triple--it turns out there are algorithms to {{< wikipedia page="Formulas for generating Pythagorean triples" text="do it for you" >}}. One in particularly came from a British math professor A. Hall in the paper *<a href="http://www.jstor.org/discover/10.2307/3613860?uid=2&uid=4&sid=21101204896923" title="Genealogy of Pythagorean Triads">Genealogy of Pythagorean Triads</a>* which showed that given any primitive Pythagorean triple (one that is not a multiple of another, smaller triple), you can produce three more primitive triples with the formulas:
+Yeah, I don't really want to try that on one million. So we need a faster algorithm. Luckily, you don't have to try all of the possible ways that could generate a triple--it turns out there are algorithms to [[wiki:Formulas for generating Pythagorean triples|do it for you]](). One in particularly came from a British math professor A. Hall in the paper *<a href="http://www.jstor.org/discover/10.2307/3613860?uid=2&uid=4&sid=21101204896923" title="Genealogy of Pythagorean Triads">Genealogy of Pythagorean Triads</a>* which showed that given any primitive Pythagorean triple (one that is not a multiple of another, smaller triple), you can produce three more primitive triples with the formulas:
 
 
 > a – 2b + 2c, 2a – b + 2c, 2a – 2b + 3c

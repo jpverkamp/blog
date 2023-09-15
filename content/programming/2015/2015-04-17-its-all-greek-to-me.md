@@ -6,7 +6,7 @@ programming/languages:
 programming/topics:
 - Wikipedia
 ---
-A few days ago an interesting article came across my RSS feeds: <a href="http://flowingdata.com/2015/04/14/its-all-greek-or-chinese-or-spanish-or-to-me/">It’s All Greek (or Chinese or Spanish or…) to Me</a>. Basically, in English, when you're confused, you'll often say 'It's all Greek to me'. It turns out that man (if not all) languages around the world have a similar saying, but the target varies. Luckily, Wikipedia has a lovely page about it: {{< wikipedia "Greek to me" >}}.
+A few days ago an interesting article came across my RSS feeds: <a href="http://flowingdata.com/2015/04/14/its-all-greek-or-chinese-or-spanish-or-to-me/">It’s All Greek (or Chinese or Spanish or…) to Me</a>. Basically, in English, when you're confused, you'll often say 'It's all Greek to me'. It turns out that man (if not all) languages around the world have a similar saying, but the target varies. Luckily, Wikipedia has a lovely page about it: [[wiki:Greek to me]]().
 
 <!--more-->
 
@@ -60,7 +60,7 @@ Parse through all of that and what do you have?
  u'Yiddish': set([u'Aramaic'])}
 ```
 
-Exactly what I was looking for. Okay, next step. Find any cycles in the graph. This is straight forward enough by performing a {{< wikipedia "depth first search" >}}:
+Exactly what I was looking for. Okay, next step. Find any cycles in the graph. This is straight forward enough by performing a [[wiki:depth first search]]():
 
 ```python
 def cycle(node, seen):
@@ -90,7 +90,7 @@ So how does it work?
 ['English', u'Dutch', u'Chinese', u'English']
 ```
 
-Neat! We've already found 5 cycles that involve English alone. But how many cycles are there all together? For that, we need a way to determine if a cycle is actually unique. If you have the cycles `A -> B -> C -> A`, that's the same as `B -> C -> A -> B`. You can do this by putting the cycles in {{< wikipedia "lexical order" >}} (so that the 'smallest' element in the cycle is first).
+Neat! We've already found 5 cycles that involve English alone. But how many cycles are there all together? For that, we need a way to determine if a cycle is actually unique. If you have the cycles `A -> B -> C -> A`, that's the same as `B -> C -> A -> B`. You can do this by putting the cycles in [[wiki:lexical order]]() (so that the 'smallest' element in the cycle is first).
 
 ```python
 def reorder(cycle):

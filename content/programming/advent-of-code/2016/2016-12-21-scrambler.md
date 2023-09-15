@@ -12,7 +12,7 @@ series:
 ---
 ### Source: [Scrambled Letters and Hash](http://adventofcode.com/2016/day/21)
 
-> **Part 1:** [Another]({{< ref "2016-12-12-assembunny.md" >}}) {{< wikipedia "virtual machine" >}}, of sorts. Start with the string `abcdefgh` and apply a sequence of the following commands to it:
+> **Part 1:** [Another]({{< ref "2016-12-12-assembunny.md" >}}) [[wiki:virtual machine]](), of sorts. Start with the string `abcdefgh` and apply a sequence of the following commands to it:
 
 > - swap position `X` with position `Y` = swap two positions
 > - swap letter `X` with letter `Y` = swap to letters, no matter where they are

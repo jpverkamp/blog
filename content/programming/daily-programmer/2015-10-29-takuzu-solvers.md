@@ -280,7 +280,7 @@ def solve(takuzu):
     return False
 ```
 
-Basically, we keep a stack of solutions, which will allow us to perform a {{< wikipedia "depth-first search" >}}[^3].
+Basically, we keep a stack of solutions, which will allow us to perform a [[wiki:depth-first search]]()[^3].
 
 Basically, create a branch, trying first a `0` in the first empty spot. Looking down that path, if we find a solution, we're done. If we don't try a `1` instead. That's really it. And it's actually relatively fast.
 
@@ -620,11 +620,11 @@ Hah! That's more like it!
 
 For now, that's it[^5]. If you'd like to see how I structured the code (it's big enough to spread into multiple files), how I parsed command line parameters, or how I dynamically load the various solvers, you can see the entire code on GitHub: <a href="https://github.com/jpverkamp/takuzu">jpverkamp/takuzu</a>.
 
-I like puzzles. Perhaps I'll try {{< wikipedia "Suduko" >}} next. Or maybe {{< wikipedia page="Hashi puzzles" text="Hashiwokakero" >}}[^6]. Onwards![^7]
+I like puzzles. Perhaps I'll try [[wiki:Suduko]]() next. Or maybe [[wiki:Hashi puzzles|Hashiwokakero]]()[^6]. Onwards![^7]
 
 [^1]: For the longest time, I thought this meant you could have something like four 0s and two 1s, so long as you had that in every row and column; turns out that's not the case and a 6x6 will always have exactly three each of 0s and 1s
 [^2]: I miss being able to use mostly arbitrary characters in function names
-[^3]: If we wanted a {{< wikipedia "breadth-first search" >}}, we would use a queue instead. Although in practice it doesn't seem to actually matter much.
+[^3]: If we wanted a [[wiki:breadth-first search]](), we would use a queue instead. Although in practice it doesn't seem to actually matter much.
 [^4]: Animation!
 [^5]: It turns out there are some large collections of puzzles online. One such site is <a href="http://www.binarypuzzle.com/puzzles.php">binarypuzzle.com</a>. They have puzzles ranging in size from 6x6 up to 14x14 in 4 difficulty levels, 100 of each. That's a total of 2000 puzzles. I have a script to solve all of them with each solver, but it's still running. Another day.
 [^6]: I actually started on a solver for Hashi puzzles first, but my intial model didn't work out nearly as cleanly

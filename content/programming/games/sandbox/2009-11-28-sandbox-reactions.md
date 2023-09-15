@@ -34,7 +34,7 @@ The blue at the top is water falling downwards.  The red in the middle represen
 
 {{< figure src="/embeds/2009/Sandbox-0.1.2-Growing.png" >}}
 
-For how simple the system is, the plants actually look pretty good when they grow.  It's called {{< wikipedia "emergence" >}}and is one of the tenets of {{< wikipedia "swarm intelligence" >}}--one of the parts of {{< wikipedia "artificial intelligence" >}} I am particularly interested in.  In any case, the plants have just about reached the fire.
+For how simple the system is, the plants actually look pretty good when they grow.  It's called [[wiki:emergence]]()and is one of the tenets of [[wiki:swarm intelligence]]()--one of the parts of [[wiki:artificial intelligence]]() I am particularly interested in.  In any case, the plants have just about reached the fire.
 
 {{< figure src="/embeds/2009/Sandbox-0.1.2-Spreading-flames.png" >}}
 

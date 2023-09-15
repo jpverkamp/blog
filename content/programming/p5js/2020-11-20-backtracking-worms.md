@@ -200,7 +200,7 @@ function draw() {
 
 There are a few particular settings I'm a fan of:
 
-`spawnChance` = 1 is basically a {{< wikipedia "flood fill" >}} and makes something close to a {{< wikipedia "voronoi diagram" >}}. 
+`spawnChance` = 1 is basically a [[wiki:flood fill]]() and makes something close to a [[wiki:voronoi diagram]](). 
 
 {{< figure src="/embeds/2020/backtracking-worm-spawn1.png" >}}
 
@@ -220,7 +220,7 @@ And setting both death and spawn is fun to watch, it's like it's grabbing out fo
 
 {{< figure src="/embeds/2020/backtracking-worm-tendrils.png" >}}
 
-Also, I've added the ability to save/share settings to the `p5js` shortcode I'm writing by way of the {{< wikipedia "URI fragment" >}}. Every time you change a setting, it saves:
+Also, I've added the ability to save/share settings to the `p5js` shortcode I'm writing by way of the [[wiki:URI fragment]](). Every time you change a setting, it saves:
 
 ```javascript
 if (typeof params !== "undefined") {

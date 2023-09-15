@@ -11,7 +11,7 @@ I've been having issues with the automatic updates and half-manually building th
 
 * `revision` - get the [SVN](http://subversion.apache.org/ "Apache Subversion") revision number to use as the current version
 * `compile` - compile the code (required `revision`)
-* `dist` - create a {{< wikipedia page="JAR (file format)" text="JAR" >}} file from the built code (requires `compile`)
+* `dist` - create a [[wiki:JAR (file format)|JAR]]() file from the built code (requires `compile`)
 * `sign` - sign the JAR files so they can be deployed (requires `dist`)
 * `deploy` - create the files necessary for [Webstart](http://www.oracle.com/technetwork/java/javase/tech/index-jsp-136112.html "Java Webstart Homepage") (requires `dist`, `sign`, and `revision`)
 

@@ -22,7 +22,7 @@ bingo-data:
 
 Been a bit since I last read [[Old Man's War|any Scalzi]](). I'm glad to get back around to it though. Lock In is very good. 
 
-In a nutshell, Lock In takes place in a near future Earth where a flu-like pandemic (Haden's Syndrome) has caused {{<wikipedia "locked-in syndrome">}} in some small percent of the world's population (a small percent of billions is still an awful lot of people). Those affected are completely paralyzed, unable to move, while still being fully aware and conscious. 
+In a nutshell, Lock In takes place in a near future Earth where a flu-like pandemic (Haden's Syndrome) has caused [[wiki:locked-in syndrome]]() in some small percent of the world's population (a small percent of billions is still an awful lot of people). Those affected are completely paralyzed, unable to move, while still being fully aware and conscious. 
 
 Luckily(ish) a massive global effort has figured out how to embed computer hardware in their brains so as to allow them to remotely pilot either robotic bodies (threeps[^threep]) or (more rarely) other humans who've allowed them access[^robot]. 
 

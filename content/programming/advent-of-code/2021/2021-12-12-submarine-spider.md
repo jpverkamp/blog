@@ -87,7 +87,7 @@ def part1(file: typer.FileText):
 
 Because the paths are short enough, we can get away with a simple recursive function. In this case, `paths` will take the current point in the graph and a list of nodes visited already (so that we can avoid lowercase nodes that we've already visited) and generate all paths from that point. It does so by recursion: each step is moving to a neighboring node in the graph, we're assuming the recursive call will generate some number of paths (might be 0), and the base case is the `end` node.
 
-Note: If there are ever two or more 'big' nodes adjacent to each other, this will totally blow up, since you can infinitely loop between the two. Good thing that doesn't come up in our input. :D This could be fixed with {{< wikipedia "cycle detection" >}}, but that would make teh algorithm somewhat slower...
+Note: If there are ever two or more 'big' nodes adjacent to each other, this will totally blow up, since you can infinitely loop between the two. Good thing that doesn't come up in our input. :D This could be fixed with [[wiki:cycle detection]](), but that would make teh algorithm somewhat slower...
 
 ```bash
 $ python3 submarine-spider.py part1 input.txt
@@ -153,7 +153,7 @@ $ python3 submarine-spider.py part2 input.txt
 # time 1300497125ns / 1.30s
 ```
 
-So... that's not the end of the world, but it's still much slower than it could be. One thing that we should be able to is use {{< wikipedia "memoization" >}} to 'remember' each path from a given point, so we can avoid computing them more than once. Unfortunately, that seems to mean that we cannot use a generator. 
+So... that's not the end of the world, but it's still much slower than it could be. One thing that we should be able to is use [[wiki:memoization]]() to 'remember' each path from a given point, so we can avoid computing them more than once. Unfortunately, that seems to mean that we cannot use a generator. 
 
 ```python
 def part2_fast(file: typer.FileText):

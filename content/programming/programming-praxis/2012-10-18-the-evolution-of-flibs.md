@@ -9,7 +9,7 @@ programming/sources:
 programming/topics:
 - Genetic Algorithms
 ---
-In the past, I absolutely loved messing around with {{< wikipedia page="Genetic algorithm" text="genetic algorithms" >}}. The idea of bringing the power of natural selection to bear to solve all manner of problems just appeals to me for some reason. So when I came across a puzzle on on Programming Praxis called [flibs source code](https://github.com/jpverkamp/small-projects/blob/master/blog/flibs.rkt)
+In the past, I absolutely loved messing around with [[wiki:Genetic algorithm|genetic algorithms]](). The idea of bringing the power of natural selection to bear to solve all manner of problems just appeals to me for some reason. So when I came across a puzzle on on Programming Praxis called [flibs source code](https://github.com/jpverkamp/small-projects/blob/master/blog/flibs.rkt)
 
 The eventual goal will be--given a binary sequence--to evolve a finite state machine that will recognize the sequence and output the same, offset by one. So if we're given the sequence `010011010011`, the solution will output something like this: `001001101001`. 
 

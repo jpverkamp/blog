@@ -95,7 +95,7 @@ The fields probably need a bit of talking about:
 * `instructions` stores the full program
 * `program_counter` is the current instruction being executed
 * `time_counter` advances one for each tick 
-* `delayed_instructions` is a stack of instructions that are waiting to be executed; this is structured a bit oddly, since originally I read the prompt wrong and implemented an (IMO) more interesting architecture, one with {{<wikipedia "instruction pipelining">}}--essentially, an `addx` followed by a `nop` would finish both on the same clock cycle; mostly it messed up the timing
+* `delayed_instructions` is a stack of instructions that are waiting to be executed; this is structured a bit oddly, since originally I read the prompt wrong and implemented an (IMO) more interesting architecture, one with [[wiki:instruction pipelining]]()--essentially, an `addx` followed by a `nop` would finish both on the same clock cycle; mostly it messed up the timing
 * `registers` stores the current value of registers, this could just be a single value since we only use `X`, but :shrug:
 * `previous_registers` stores the values the registers had on the tick before this one, since that's the value 'during' the current cycle (which is what part 1 actually wants) while `registers` is what it is after the cycle; again, I could just offset the `time_counter`, but I think this is more explicit
 
@@ -256,7 +256,7 @@ And it even has the `debug_assertions` code to print out the current state of th
 
 > Simulate an old fashioned monitor that works by displaying one bit at a time, across each row and then down to the next row. Each tick, display a `#` if the current value of the `X` register is +-1 the current bit being displayed, otherwise, `.`. 
 
-Check out {{<wikipedia "racing the beam">}}. It's something that you could do to really get some extra performance out of the *old* video game systems. Not so much an issue with modern computers. Fascinating what different trade offs have been made over the years. 
+Check out [[wiki:racing the beam]](). It's something that you could do to really get some extra performance out of the *old* video game systems. Not so much an issue with modern computers. Fascinating what different trade offs have been made over the years. 
 
 In any case, the `VM` will handle this absolutely perfectly, so let's go ahead and modify `part2` to instead generate an `output_buffer` for one frame:
 
@@ -317,6 +317,6 @@ $ ./target/release/10-interpretator 2 data/10.txt
 took 481.583µs
 ```
 
-Yeah, that's pretty cool. And it's actually still *well* under the ~16.67ms you need to be able to render a frame in to get 60fps. Granted, it's not *doing* anything and without any branching, it's not really capable of doing anything interesting (read: {{<wikipedia "Turing complete">}}). But it's a start! I'm curious if a later day will go there. 
+Yeah, that's pretty cool. And it's actually still *well* under the ~16.67ms you need to be able to render a frame in to get 60fps. Granted, it's not *doing* anything and without any branching, it's not really capable of doing anything interesting (read: [[wiki:Turing complete]]()). But it's a start! I'm curious if a later day will go there. 
 
 In any case, onward!

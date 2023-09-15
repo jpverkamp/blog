@@ -11,7 +11,7 @@ programming/topics:
 series:
 - Chess Puzzles
 ---
-Onwards and upwards! For today's chess puzzle, let's take a first crack at the {{< wikipedia "Knight's Tour" >}}[^1]
+Onwards and upwards! For today's chess puzzle, let's take a first crack at the [[wiki:Knight's Tour]]()[^1]
 
 {{< figure src="/embeds/2014/tour-5-solution.gif" >}}
 
@@ -21,7 +21,7 @@ As with [N Queens]({{< ref "2014-09-03-chess-puzzles-n-queens.md" >}}), the prob
 
 > A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square only once.
 
-And once again, we can get a solution working relatively well using {{< wikipedia "backtracking" >}}:
+And once again, we can get a solution working relatively well using [[wiki:backtracking]]():
 
 ```scheme
 (define-piece Knight (move 1 (leaper 1 2)))
@@ -244,4 +244,4 @@ Well, that's not strictly speaking true. It will work. If you wait long enough, 
 That's for another time though. If you'd like to see the entire code, you can do so in the <a href="https://github.com/jpverkamp/chess-puzzles">chess-puzzles</a> repo on GitHub: <a href="https://github.com/jpverkamp/chess-puzzles/blob/master/puzzles/knights-tour.rkt">knights-tour.rkt</a>. Check it out!
 
 [^1]: Backtracking is wicked slow on this one, we're going to have to solve it twice.
-[^2]: Perhaps one using {{< wikipedia "neural networks" >}}? Been a while since I've worked with those...
+[^2]: Perhaps one using [[wiki:neural networks]]()? Been a while since I've worked with those...

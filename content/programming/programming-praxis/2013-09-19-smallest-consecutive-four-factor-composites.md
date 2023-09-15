@@ -69,7 +69,7 @@ cpu time: 3838 real time: 3878 gc time: 139
   (134046 ((2 1) (3 2) (11 1) (677 1))))
 ```
 
-Four seconds seem a bit much though. Let's see if we can't speed it up. Remember how we've done that each time [in the past]({{< ref "2012-11-01-the-sum-of-the-first-billion-primes.md" >}}) with primes? By {{< wikipedia page="Prime sieve" text="sieving" >}}. Basically, we'll sieve like we always do for primes. But every time we get to a multiple, we don't just mark it as not prime, we also count up how many times we've visited it. This will be the number of unique prime factors. That way, as soon as we see a consecutive sequence, we're done. Something like this:
+Four seconds seem a bit much though. Let's see if we can't speed it up. Remember how we've done that each time [in the past]({{< ref "2012-11-01-the-sum-of-the-first-billion-primes.md" >}}) with primes? By [[wiki:Prime sieve|sieving]](). Basically, we'll sieve like we always do for primes. But every time we get to a multiple, we don't just mark it as not prime, we also count up how many times we've visited it. This will be the number of unique prime factors. That way, as soon as we see a consecutive sequence, we're done. Something like this:
 
 ```scheme
 (define (n-consecutive-with-m-factors-sieved n m #:upper-bound [upper-bound 1000000])

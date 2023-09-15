@@ -54,7 +54,7 @@ A few test cases:
 "thsssprt"
 ```
 
-Seems good. It turns out that there's a reason this is an easy challenge. Now to the more ~~difficult~~ fun one. Like many of the previous <a href="http://blog.jverkamp.com/tag/word-games/">word games</a> I've worked out, the data structure we need is a {{< wikipedia "trie" >}}. Since it's been a while, I went ahead and re-implemented one:
+Seems good. It turns out that there's a reason this is an easy challenge. Now to the more ~~difficult~~ fun one. Like many of the previous <a href="http://blog.jverkamp.com/tag/word-games/">word games</a> I've worked out, the data structure we need is a [[wiki:trie]](). Since it's been a while, I went ahead and re-implemented one:
 
 ```scheme
 ; Load a dictionary as a trie, cache the result
@@ -106,7 +106,7 @@ Basically, we're going to recur down the characters in our input. At each charac
 * A vowel is the next character in the output
 
 
-Around that, we'll have a loop keeping the current remaining characters, the characters in the current word thus far, all of the words we've found thus far (which we could instead have done recursively, although we'd lose {{< wikipedia "tail recursion" >}} at that point), and the current location in the dictionary trie we built above. Something like this:
+Around that, we'll have a loop keeping the current remaining characters, the characters in the current word thus far, all of the words we've found thus far (which we could instead have done recursively, although we'd lose [[wiki:tail recursion]]() at that point), and the current location in the dictionary trie we built above. Something like this:
 
 ```scheme
 (let loop ([chars (string->list str)]
@@ -324,7 +324,7 @@ Well, what if we didn't care about finding all of the possible phrases? What if 
               (hash-ref current-dict c))))))
 ```
 
-We no longer care what're we're returning, so we don't need all of those `if`s. Instead, we just keep going until we find a valid string and `return` it. But strictly speaking, it's not a 'return', it's a {{< wikipedia "continuation" >}}. For all Racket cares, we could have just as well have called it `steve` or `ዱᓹዲțũഓળƝف`[^5][^6][^7]. In any case, that should run rather faster:
+We no longer care what're we're returning, so we don't need all of those `if`s. Instead, we just keep going until we find a valid string and `return` it. But strictly speaking, it's not a 'return', it's a [[wiki:continuation]](). For all Racket cares, we could have just as well have called it `steve` or `ዱᓹዲțũഓળƝف`[^5][^6][^7]. In any case, that should run rather faster:
 
 ```scheme
 > (reemvowel/first (disemvowel "this is sparta"))

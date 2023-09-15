@@ -88,7 +88,7 @@ First things first, what are we going to return? Eventually, I need to have a li
 
 Other than that, the algorithm is straight forward. For each call, find a route. If we find a route, reduce the bandwidth on each node. If not, report failed and leave the network alone. 
 
-Technically, finding the paths is interesting in and of itself. There are a number of algorithms, depending on which route you're looking for. One of particular interest is {{< wikipedia page="Dijkstra's algorithm" text="Dijkstra's algorithm" >}}, which already has an implementation of sorts in the library I'm using. One thing that it doesn't do; however, is route from one node to another, it actually does far more, routing from one node to all others (a natural result of running Dijkstra's algorithm anyways). So we need a function that will extract a single path from that result:
+Technically, finding the paths is interesting in and of itself. There are a number of algorithms, depending on which route you're looking for. One of particular interest is [[wiki:Dijkstra's algorithm|Dijkstra's algorithm]](), which already has an implementation of sorts in the library I'm using. One thing that it doesn't do; however, is route from one node to another, it actually does far more, routing from one node to all others (a natural result of running Dijkstra's algorithm anyways). So we need a function that will extract a single path from that result:
 
 ```scheme
 ; Specialization of the graph library to find a single path using dijkstra's

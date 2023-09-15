@@ -18,7 +18,7 @@ series:
 
 <!--more-->
 
-We'll use the same hash function as last time, but this time, we will {{< wikipedia memoize >}} the results with {{< doc python "functools.lru_cache" >}}. This means that when we generate the next 1000 hashes ahead of time looking for quintuples, we don't have to redo the hashes again later. Hashes are pretty quick already, but this still has significant performance gains.
+We'll use the same hash function as last time, but this time, we will [[wiki:memoize]]() the results with {{< doc python "functools.lru_cache" >}}. This means that when we generate the next 1000 hashes ahead of time looking for quintuples, we don't have to redo the hashes again later. Hashes are pretty quick already, but this still has significant performance gains.
 
 ```python
 @functools.lru_cache(None)
@@ -66,7 +66,7 @@ $ time python3 bad-one-time-pads.py --salt cuanljph --count 64
 ```
 
 
-> **Part 2:** Implement {{< wikipedia "key stretching" >}}. Repeat the MD5 hash 2017 times.
+> **Part 2:** Implement [[wiki:key stretching]](). Repeat the MD5 hash 2017 times.
 
 Mostly, we need to update the hash function and pass in the new parameter:
 

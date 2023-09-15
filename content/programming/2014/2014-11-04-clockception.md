@@ -80,7 +80,7 @@ Speaking of which, let's draw some basic analog clocks. I went through several d
   target)
 ```
 
-The basic idea of `racket/draw` is that you have a sort of canvas (`target`) on which you can draw. You then issue a series of commands that either change your state ({{< doc racket "set-pen" >}}) or draw ({{< doc racket "draw-ellipse" >}} and {{< doc racket "draw-line" >}}). I did abstract a little bit the function to create the clock hands: `draw-hand!`, mostly so I wouldn't have to redo the centering offset (`c`, since `0,0` is in the top left, not the center as I'd hoped) and the {{< wikipedia "trigonometry" >}} to convert a radius and angle to x and y.
+The basic idea of `racket/draw` is that you have a sort of canvas (`target`) on which you can draw. You then issue a series of commands that either change your state ({{< doc racket "set-pen" >}}) or draw ({{< doc racket "draw-ellipse" >}} and {{< doc racket "draw-line" >}}). I did abstract a little bit the function to create the clock hands: `draw-hand!`, mostly so I wouldn't have to redo the centering offset (`c`, since `0,0` is in the top left, not the center as I'd hoped) and the [[wiki:trigonometry]]() to convert a radius and angle to x and y.
 
 And that's actually all you need to make a basic clock:
 
@@ -125,7 +125,7 @@ Cool. Okay, next step. Let's figure out how to animate these, so we can transiti
 
 Basically, we will loop through the frames and interpolate for each frame. The `frame-multiplier` will range evenly from 0 to 1 over the course of the frames. Also, the `let` block setting `β-hour` etc is to make sure that the clocks rotate clockwise. Since the second (`β`) value will always be higher, we always rotate right.
 
-Okay, next let's switch gears and make some digital clocks. Since the eventual end goal was to make clocks out of clocks, I wanted a nice blocky font, built out of only a few different pieces. That way we could animate it more easily. Luckily the Unicode {{< wikipedia "box-drawing characters" >}} will do exactly what we need:
+Okay, next let's switch gears and make some digital clocks. Since the eventual end goal was to make clocks out of clocks, I wanted a nice blocky font, built out of only a few different pieces. That way we could animate it more easily. Luckily the Unicode [[wiki:box-drawing characters]]() will do exactly what we need:
 
 I went with a 3x3 character map for each letter:
 

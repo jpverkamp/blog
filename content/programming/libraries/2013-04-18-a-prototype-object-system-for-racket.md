@@ -6,13 +6,13 @@ programming/languages:
 programming/topics:
 - Object Oriented
 ---
-As I seem to be [wont to do]({{< ref "2013-04-11-perlin-and-simplex-noise-in-racket.md" >}}), I needed something to work on my [Roguelike in Racket]({{< ref "2013-04-04-racket-roguelike-1-a-gui-screens-i-o-and-you.md" >}}) tutorial series--so I wrote it! This time, we're looking to add a {{< wikipedia page="Prototype-based programming" text="prototyped-based object system" >}} to Racket. I'm sure that someone has rigged up something similar before, but it's often more interesting to work things like this out for oneself.
+As I seem to be [wont to do]({{< ref "2013-04-11-perlin-and-simplex-noise-in-racket.md" >}}), I needed something to work on my [Roguelike in Racket]({{< ref "2013-04-04-racket-roguelike-1-a-gui-screens-i-o-and-you.md" >}}) tutorial series--so I wrote it! This time, we're looking to add a [[wiki:Prototype-based programming|prototyped-based object system]]() to Racket. I'm sure that someone has rigged up something similar before, but it's often more interesting to work things like this out for oneself.
 
 <!--more-->
 
 First, as a short aside, exactly what is a prototype-based object system? Well, Wikipedia says it clearly enough:
 
-> **Prototype-based programming** is a style of {{< wikipedia "object-oriented programming" >}} in which {{< wikipedia page="Class (programming)" text="classes" >}} are not present, and behavior reuse (known as {{< wikipedia page="Inheritance (programming)" text="inheritance" >}} in class-based languages) is performed via a process of {{< wikipedia page="Cloning (programming)" text="cloning" >}}existing {{< wikipedia page="Object (programming)" text="objects" >}} that serve as {{< wikipedia page="Prototype" text="prototypes" >}}. This model can also be known as **classless**, **prototype-oriented** or**instance-based** programming. {{< wikipedia page="Delegation (programming)" text="Delegation" >}} is the language feature that supports prototype-based programming.
+> **Prototype-based programming** is a style of [[wiki:object-oriented programming]]() in which [[wiki:Class (programming)|classes]]() are not present, and behavior reuse (known as [[wiki:Inheritance (programming)|inheritance]]() in class-based languages) is performed via a process of [[wiki:Cloning (programming)|cloning]]()existing [[wiki:Object (programming)|objects]]() that serve as [[wiki:Prototype|prototypes]](). This model can also be known as **classless**, **prototype-oriented** or**instance-based** programming. [[wiki:Delegation (programming)|Delegation]]() is the language feature that supports prototype-based programming.
 
 Essentially, rather than a dichotomy between classes and objects, everything is the same. If you want to instantiate a class, you clone it. If you want to extend a class, you clone it and add/override previous fields. So you should be able to do something like this:
 

@@ -124,7 +124,7 @@ As an interesting aside, <a href="http://gravatar.com/benmmurphy">Ben</a> over i
 '(1 3 6 12 18 30 42 60 78 108)
 ```
 
-And actually once you parse through all of the jargon, it makes perfect sense. {{< wikipedia "Ternary" >}} is base three (thus the alphabet *A = {a, b, c}*), words are what we are generating of length *n*, and a {{< wikipedia "squarefree word" >}} is one without any adjacent subwords.
+And actually once you parse through all of the jargon, it makes perfect sense. [[wiki:Ternary]]() is base three (thus the alphabet *A = {a, b, c}*), words are what we are generating of length *n*, and a [[wiki:squarefree word]]() is one without any adjacent subwords.
 
 The full source code (along with unit tests) is available here:
 - <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/non-repeating-strings.py" title="Python non-repeating strings source on GitHub">Python source</a>

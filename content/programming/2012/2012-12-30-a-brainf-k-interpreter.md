@@ -10,10 +10,10 @@ programming/topics:
 - Esolangs
 slug: a-brainfk-interpreter
 ---
-The <a title="PLT Games" href="http://www.pltgames.com/">PLT Games</a> website has a competition going where each month there will be some sort of theme for a completely new program. The <a title="PLT Games: December 2012" href="http://www.pltgames.com/competition/2012/12">first theme</a> is a {{< wikipedia "Turing Tarpit" >}}--a language that is technically Turing complete and thus can do anything any other Turing complete language can, but is so minimal as to make doing anything worthwhile overly difficult.
+The <a title="PLT Games" href="http://www.pltgames.com/">PLT Games</a> website has a competition going where each month there will be some sort of theme for a completely new program. The <a title="PLT Games: December 2012" href="http://www.pltgames.com/competition/2012/12">first theme</a> is a [[wiki:Turing Tarpit]]()--a language that is technically Turing complete and thus can do anything any other Turing complete language can, but is so minimal as to make doing anything worthwhile overly difficult.
 
 > 54. Beware of the Turing tar-pit in which everything is possible but nothing of interest is easy.
-> -- Alan Perlis, <cite>**{{< wikipedia "Epigrams on Programming" >}}**</cite>
+> -- Alan Perlis, <cite>**[[wiki:Epigrams on Programming]]()**</cite>
 
 To that end, I've been working on a little something special which I may or may not finish by the end of the month (yes, I know that's tomorrow). But while I was working on it, I put together a Brainf**k (BF) interpreter which I found pretty interesting to play with.
 

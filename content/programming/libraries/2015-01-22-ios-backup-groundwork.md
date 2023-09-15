@@ -48,7 +48,7 @@ The first thing to look at is the basic structure of the iOS backup directory:
         Status.plist
 ```
 
-Okay, that's helpful[^3]. 6788 files, all but four of which named via {{< wikipedia "SHA-1" >}} hashes. I know that there are pictures, applications, and various databases here, so there has to be a map somewhere.
+Okay, that's helpful[^3]. 6788 files, all but four of which named via [[wiki:SHA-1]]() hashes. I know that there are pictures, applications, and various databases here, so there has to be a map somewhere.
 
 But first, those last four files:
 

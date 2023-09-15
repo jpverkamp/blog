@@ -27,9 +27,9 @@ def get_key():
     return hashlib.sha256(key.encode('utf-8')).digest()
 ```
 
-(Yes, I should be using a {{< wikipedia "Password-Based Key Derivation Function" >}}. So it goes.)
+(Yes, I should be using a [[wiki:Password-Based Key Derivation Function]](). So it goes.)
 
-Next, the encryption function. We need to set up a random {{< wikipedia "initialization vector" >}}.
+Next, the encryption function. We need to set up a random [[wiki:initialization vector]]().
 
 Then, since the file might not be evenly divisible into blocks, we'll need to pad it. Since we want this to be able to deal with binary or other files, there's no guarantee that we can tell when a file has ended. So we'll use the `struct` library to store the file length as well. Given that we're storing the size as a 64-bit integer, we'll be able to store files up to 18.56 exabytes. Yeah, I think we'll be fine for a while.
 

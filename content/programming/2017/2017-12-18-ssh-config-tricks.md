@@ -8,7 +8,7 @@ programming/topics:
 - Dotfiles
 - Proxies
 ---
-Working in security/operations in the tech industry, I use {{< wikipedia SSH >}} a lot. To various different machines (some with hostnames, some without), using various different users and keys, and often (as was the case in my [previous post]({{< ref "2017-12-13-dynamic-automatic-proxy.md" >}})) via a {{< wikipedia "bastion host" >}}. Over the years, I've collected a number of SSH tricks that make my life easier.
+Working in security/operations in the tech industry, I use [[wiki:SSH]]() a lot. To various different machines (some with hostnames, some without), using various different users and keys, and often (as was the case in my [previous post]({{< ref "2017-12-13-dynamic-automatic-proxy.md" >}})) via a [[wiki:bastion host]](). Over the years, I've collected a number of SSH tricks that make my life easier.
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Working in security/operations in the tech industry, I use {{< wikipedia SSH >}}
 
 # Using ProxyCommand to automatically use / not use an SSH tunnel
 
-First up, almost all of the machines that I need access to cannot be SSHed to directly when I'm not on a specific network. Instead, I need to log in via a {{< wikipedia "bastion host" >}}. But if I do happen to already be within the network (SSHing from one machine to another for example), I don't want to connect via the bastion host any longer. Luckily, you can use `ProxyCommand` to do exactly that:
+First up, almost all of the machines that I need access to cannot be SSHed to directly when I'm not on a specific network. Instead, I need to log in via a [[wiki:bastion host]](). But if I do happen to already be within the network (SSHing from one machine to another for example), I don't want to connect via the bastion host any longer. Luckily, you can use `ProxyCommand` to do exactly that:
 
 ```text
 Host bastion
@@ -28,7 +28,7 @@ Host work-server
     ProxyCommand bash -c "dig +short myip.opendns.com @resolver1.opendns.com | egrep '^(10|50|52)\\.' && nc %h %p || ssh bastion nc %h %p"
 ```
 
-This uses the same [OpenDNS](https://www.opendns.com/) trick as my [previous post]({{< ref "2017-12-13-dynamic-automatic-proxy.md" >}})) along with Bash conditionals. If my IP starts with `10.`, I will use the `&& nc %h %p` part of the command, which will use {{< wikipedia netcat >}} locally to create the connection. If it does not, then I will set up an SSH tunnel using netcat instead (which will otherwise still use my local ssh config, so the bastion and final hosts can use different users/keys).
+This uses the same [OpenDNS](https://www.opendns.com/) trick as my [previous post]({{< ref "2017-12-13-dynamic-automatic-proxy.md" >}})) along with Bash conditionals. If my IP starts with `10.`, I will use the `&& nc %h %p` part of the command, which will use [[wiki:netcat]]() locally to create the connection. If it does not, then I will set up an SSH tunnel using netcat instead (which will otherwise still use my local ssh config, so the bastion and final hosts can use different users/keys).
 
 It's quite lovely to just be able to type `ssh work-server` and have things just work™ no matter if I'm on network or not.
 

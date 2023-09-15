@@ -223,7 +223,7 @@ fn part2(filename: &Path) -> String {
 }
 ```
 
-`signals.iter().position` was a fun little bit to find the dividers. I do like writing mostly-{{<wikipedia "functional programming">}} style Rust. 
+`signals.iter().position` was a fun little bit to find the dividers. I do like writing mostly-[[wiki:functional programming]]() style Rust. 
 
 ## Performance
 

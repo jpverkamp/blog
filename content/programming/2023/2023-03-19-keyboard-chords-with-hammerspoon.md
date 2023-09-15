@@ -22,7 +22,7 @@ Enter the [Hammerspoon hs.hotkey.modal](https://www.hammerspoon.org/docs/hs.hotk
 
 <!--more-->
 
-In a nutshell, you can define {{<wikipedia "modal">}} hotkeys: enter one combination and you'll be in the context of another function. Within that context, you can hit one of multiple keys (or even enter a nested modal!). 
+In a nutshell, you can define [[wiki:modal]]() hotkeys: enter one combination and you'll be in the context of another function. Within that context, you can hit one of multiple keys (or even enter a nested modal!). 
 
 ## Hammerspoon chords
 
@@ -147,7 +147,7 @@ So what's next?
 
 2. Next? Perhaps my window movement. Perhaps (to keep things on my left hand), I could use a Chord with `wasd` for moving windows around? And because it's within a chord, I can actually hit more than one key. So things like `w,d` to move to top+right. Or `w,e,d` to move to top+right third instead of half. 
 
-3. {{<wikipedia "Debouncing">}} for chords. Rather than immediately ending the modal, I can set it so that after 100ms (for example) without hitting a key that does something, it stops listening. That works well with the above for essentially typing in a subcommand. 
+3. [[wiki:Debouncing]]() for chords. Rather than immediately ending the modal, I can set it so that after 100ms (for example) without hitting a key that does something, it stops listening. That works well with the above for essentially typing in a subcommand. 
 
 4. And of course, bind all the things! There's so many more things I could automate!
 

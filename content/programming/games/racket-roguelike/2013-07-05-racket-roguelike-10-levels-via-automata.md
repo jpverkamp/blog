@@ -15,7 +15,7 @@ series:
 
 <!--more-->
 
-Well, one option would be to use {{< wikipedia "cellular automaton" >}}. I've written about them [before]({{< ref "2012-10-03-elementary-cellular-automaton.md" >}}), but in summary, they're basically applying a set of rules to a regular grid resulting in emergent features. In this case, our rule will be simple. Start with an empty grid seeded with a random central tile. From there, randomly generate new tiles, making them walkable if and only if there is 1-3 walkable tiles around them. This means that they have to be connected and they can't be too connected (allowing for branches but nothing more).
+Well, one option would be to use [[wiki:cellular automaton]](). I've written about them [before]({{< ref "2012-10-03-elementary-cellular-automaton.md" >}}), but in summary, they're basically applying a set of rules to a regular grid resulting in emergent features. In this case, our rule will be simple. Start with an empty grid seeded with a random central tile. From there, randomly generate new tiles, making them walkable if and only if there is 1-3 walkable tiles around them. This means that they have to be connected and they can't be too connected (allowing for branches but nothing more).
 
 The first problem we have with that is that our current setup doesn't really allow for taking a tile's neighbors into account when generating content. So we'll have to directly access the level's tile hash. It's suboptimal (since we're breaking the abstraction), but it will work.
 
@@ -79,7 +79,7 @@ Basically, we have a nice warren of tightly curving caves. It really reminds me 
 
 So that's one non-noise based level generation script. What else can we do?
 
-This time I'm going back way to the dawn of my computing experience. Something nearing two decades ago, I started programming in {{< wikipedia "Qbasic" >}} (yup). One of my favorite programs from that time? Bugs. Basically, I started a bunch of random points on the screen, each of which would {{< wikipedia "random walk" >}} for a while, drawing a line. In the end, you'd get something like this:
+This time I'm going back way to the dawn of my computing experience. Something nearing two decades ago, I started programming in [[wiki:Qbasic]]() (yup). One of my favorite programs from that time? Bugs. Basically, I started a bunch of random points on the screen, each of which would [[wiki:random walk]]() for a while, drawing a line. In the end, you'd get something like this:
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Random_walk_in2D_closeup.png/510px-Random_walk_in2D_closeup.png"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Random_walk_in2D_closeup.png/510px-Random_walk_in2D_closeup.png" class="alignnone" width="255" height="300" /></a>
 

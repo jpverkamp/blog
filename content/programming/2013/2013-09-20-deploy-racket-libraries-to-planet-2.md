@@ -42,7 +42,7 @@ So far, I've converted / written these five libraries:
 | ascii‑canvas |  src   | docs | ascii-canvas simulates a code page 437 ASCII terminal display. It supports all 256 characters of codepage 437, arbitrary foreground colors, arbitrary background colors, and arbitrary terminal sizes. |
 |  bit‑struct  |  src   | docs |                  Extend standard Racket structs for bitfields. It creates the normal accessors for structure along with defining three new methods: `build‑*`, `*‑>bytes`, `bytes‑>*`                  |
 |     c211     |  src   | docs |                 c211 provides a Racket version of the C211 libraries used in Wombat. So far, the following libraries are (mostly) complete: `c211/color`, `c211/image`, `c211/matrix`                  |
-|    noise     |  src   | docs |                  This package provides Racket versions of the {{< wikipedia page="Perlin noise" text="Perlin" >}} and {{< wikipedia page="Simplex noise" text="Simplex" >}} noise generators.                  |
+|    noise     |  src   | docs |                  This package provides Racket versions of the [[wiki:Perlin noise|Perlin]]() and [[wiki:Simplex noise|Simplex]]() noise generators.                  |
 |    thing     |  src   | docs |                                                                This package provides a simple prototype object-based system for Racket.                                                                |
 
 To install any of these libraries (unless otherwise mentioned), it really is as easy as running this command:

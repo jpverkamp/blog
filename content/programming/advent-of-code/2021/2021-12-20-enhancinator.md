@@ -14,7 +14,7 @@ programming/topics:
 ---
 ### Source: [Trench Map](https://adventofcode.com/2021/day/20)
 
-#### **Part 1:** Given a 9->1 {{< wikipedia "cellular automota" >}} update function (take the pixel and 8 surrounding pixels as a 9-bit index into the function) and a binary image, apply the function twice and count the number of 'lit' pixels. Assume that the canvas is infinite. 
+#### **Part 1:** Given a 9->1 [[wiki:cellular automota]]() update function (take the pixel and 8 surrounding pixels as a 9-bit index into the function) and a binary image, apply the function twice and count the number of 'lit' pixels. Assume that the canvas is infinite. 
 
 <!--more-->
 

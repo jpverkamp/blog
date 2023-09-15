@@ -15,10 +15,10 @@ I'm still here! And less sick now.
 
 Last time(s), we [[Runelang: Language Specification|described]]() and [[Runelang: The Lexer|lexed]]()) Runelang! This time around, let's take the lexed tokens and go one step further and parse them!
 
-So, how do we go about this? With a {{<wikipedia "recursive descent parser">}}! 
+So, how do we go about this? With a [[wiki:recursive descent parser]]()! 
 
 * Start with a list/stream of tokens
-* Using the first *k* (in a {{<wikipedia "LL(k) parser">}}) elements of the list, identify which sort of object we are parsing (a `group` / `identifier` / `literal` / `expression` / etc)
+* Using the first *k* (in a [[wiki:LL(k) parser]]()) elements of the list, identify which sort of object we are parsing (a `group` / `identifier` / `literal` / `expression` / etc)
 * Call a parsing function for that object type (`parseGroup` etc) that will:
     * Recursively parse the given object type (this may in turn call more parse functions)
     * Advance the token stream 'consuming' any tokens used in this group so the new 'first' element is the next object
@@ -118,7 +118,7 @@ Okay, what does that mean? Well, let's go through the parts:
 
   Finally, we parse either a normal node (with `parseNode`) or the special `define` syntax(s) (we'll come back to defines later). A `node` in this case is basically a function call (with a few different forms). You can have terminals with no arguments or children like `circle`, parameters like `star(5, 2)`, nodes (`modifiers`) that apply to a child group like `double circle` and `rotate(0.25) { star(5, 2) }`, or even `stackers` that apply specifically to lists, a la `radial(scale: 0.5) [ circle times 5 ]`. 
 
-  The last bit of code there (assigning a value to `.next`) looks a bit strange, but essentially what we're doing is making a data structure that is a hybrid between an {{<wikipedia "abstract syntax tree">}} and a {{<wikipedia "linked list">}}. Each node is normally placed in a tree, but one thing that I wanted was to be able to treat `{...}` as implicit whenever I could. So instead of something like `double { circle }`, which would easily be parsed as a `Node<double>` with a child `Group<Node<circle>>`. 
+  The last bit of code there (assigning a value to `.next`) looks a bit strange, but essentially what we're doing is making a data structure that is a hybrid between an [[wiki:abstract syntax tree]]() and a [[wiki:linked list]](). Each node is normally placed in a tree, but one thing that I wanted was to be able to treat `{...}` as implicit whenever I could. So instead of something like `double { circle }`, which would easily be parsed as a `Node<double>` with a child `Group<Node<circle>>`. 
   
   But I want to be able to write `double circle` and have it work the same way. To do that, each time I parse a node in a single group, if it's at least the second, I add a `.next` link that shows what the next node would be. That will cause some complications when running (for example: making sure I don't evaluate the `.next` node as a child and then again at the top level). 
 

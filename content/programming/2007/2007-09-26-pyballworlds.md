@@ -34,7 +34,7 @@ Okay, not really. Here's when I did it:
 
 {{< figure src="/embeds/2007/06-lots-of-balls.png" >}}
 
-You can already see the red balls forming clumps when anything that runs into them stops in place. Actually it looks oddly organic, which intrigues me somewhat. I'm a fan of {{< wikipedia "emergent behavior" >}} like that.
+You can already see the red balls forming clumps when anything that runs into them stops in place. Actually it looks oddly organic, which intrigues me somewhat. I'm a fan of [[wiki:emergent behavior]]() like that.
 
 Anyways, there's one final set of keyboard commands that you should know about. If you hit any of the arrow keys, you can rotate the cube in place. After all, it wouldn't be any fun to build these crazy semi-organic structures without being able to study them from every angle now would it?
 

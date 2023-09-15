@@ -48,7 +48,7 @@ series:
 
 <!--more-->
 
-This is quite a problem. One of the first things that we have to deal with is what we're going to use for our data format for each step. I settled on keeping a single 1D string. It will always have a {{< wikipedia "perfect square" >}} for the size, so we can always take a square root to render it as an actual square.
+This is quite a problem. One of the first things that we have to deal with is what we're going to use for our data format for each step. I settled on keeping a single 1D string. It will always have a [[wiki:perfect square]]() for the size, so we can always take a square root to render it as an actual square.
 
 With that, we can work on expanding the image for each step.
 

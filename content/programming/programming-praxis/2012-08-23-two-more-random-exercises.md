@@ -25,7 +25,7 @@ Here I have a function that will take any suitable seed and generate a sequence 
         res))))
 ```
 
-An example of running it (using the same seed from the {{< wikipedia page="Middle square" text="Wikipedia page" >}}):
+An example of running it (using the same seed from the [[wiki:Middle square|Wikipedia page]]()):
 
 ```
 ~ (define middle-square (make-middle-square 675248))
@@ -80,6 +80,6 @@ An example run:
  1926020867
 ```
 
-Pretty neat. Fortunately or not, this makes me want to implement a more heavyweight PRNG now, perhaps like the {{< wikipedia "Mersenne Twister" >}}. We'll see.
+Pretty neat. Fortunately or not, this makes me want to implement a more heavyweight PRNG now, perhaps like the [[wiki:Mersenne Twister]](). We'll see.
 
 If you'd like to download the full source code, you can do so here: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/two-more-random-exercises.ss">two more random exercises source</a>

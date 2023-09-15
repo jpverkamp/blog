@@ -11,7 +11,7 @@ programming/topics:
 ---
 Today's post comes from a long line of 'inspired by posts' all pretty much leading back (so far as I can tell) to this post by j.tarbell: <a href="http://www.complexification.net/gallery/machines/invaderfractal/">invader.procedural</a> from 2003.
 
-The basic idea is that we want to generate 'invaders' in the style of {{< wikipedia "space invaders" >}}. Except we don't want 10 or 20, we want tens of thousands. So how do we do it? Well, take a look at this:
+The basic idea is that we want to generate 'invaders' in the style of [[wiki:space invaders]](). Except we don't want 10 or 20, we want tens of thousands. So how do we do it? Well, take a look at this:
 
 {{< figure src="/embeds/2014/procedural-invader-big.png" >}}
 
@@ -79,7 +79,7 @@ Oof. Tiny. Let's make it bigger:
 
 {{< figure src="/embeds/2014/procedural-invader-big-blurry.png" >}}
 
-Well that's not what I was looking for. The problem is that flomaps by default are designed for interpolated values. So that if you have a black pixel right next to a white pixel, you can actually ask for the 'pixel' halfway between the two, getting a gray value. But in this case, that's not what we want. We want sharp ({{< wikipedia "nearest neighbor" >}}) scaling:
+Well that's not what I was looking for. The problem is that flomaps by default are designed for interpolated values. So that if you have a black pixel right next to a white pixel, you can actually ask for the 'pixel' halfway between the two, getting a gray value. But in this case, that's not what we want. We want sharp ([[wiki:nearest neighbor]]()) scaling:
 
 ```scheme
 ; Resize a flomap using nearest-neighbors to preserve sharp edges
@@ -180,7 +180,7 @@ Okay, what else can we do with these things? Well, at the moment, they're a litt
          (make-vector 3 (flomap-ref img-w/o-highlight 0 x y))))))
 ```
 
-Basically, we pull off the lowest four bits with a {{< wikipedia "bitmask" >}} for the highlight then shift all the rest down and pass off to the original `procedural-invader` function. Then we build a new image from that, mostly copying but taking a single pixel and making it red. Adding an argument so that our `demo` function can handle highlighting:
+Basically, we pull off the lowest four bits with a [[wiki:bitmask]]() for the highlight then shift all the rest down and pass off to the original `procedural-invader` function. Then we build a new image from that, mostly copying but taking a single pixel and making it red. Adding an argument so that our `demo` function can handle highlighting:
 
 ```scheme
 > (demo #:highlights? #t)

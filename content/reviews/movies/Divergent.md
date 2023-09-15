@@ -30,13 +30,13 @@ In the case of Divergent, the world is slightly more believable, even if there a
 
 It doesn't seem like such a system would hold together for particularly long and--spoilers--it doesn't. Still, my general rule is a movie (or book etc) is allowed one *thing*. One suspension of disbelief. For Divergent, I'll give it the initial social structure.
 
-Beyond that, I thought that {{< wikipedia "Shailene Woodley" >}} was well cast (even if she always seemed a little too clean, as either public servant or adrenaline junkie). I didn't like {{< wikipedia "Theo James" >}} quite as much, but so it goes.
+Beyond that, I thought that [[wiki:Shailene Woodley]]() was well cast (even if she always seemed a little too clean, as either public servant or adrenaline junkie). I didn't like [[wiki:Theo James]]() quite as much, but so it goes.
 
 Overall, a solid enough 2 of 2 for the year. If I had to guess, I'd say that Divergent will probably end up somewhere in the middle. It's a good enough distraction, but certainly not a great movie. I was pleasantly surprised and I'll go see the sequels if/when they come out.
 
 {{< ranking "2014 Movie Reviews" >}}
 
-As a side note: The story of the author ({{< wikipedia "Veronica Roth" >}}) is actually pretty interesting. She wrote Divergent while on winter break from a creative writing degree at {{< wikipedia "Northwestern University" >}}. She'd already sold the movie rights before she graduated. That's kind of awesome.
+As a side note: The story of the author ([[wiki:Veronica Roth]]()) is actually pretty interesting. She wrote Divergent while on winter break from a creative writing degree at [[wiki:Northwestern University]](). She'd already sold the movie rights before she graduated. That's kind of awesome.
 
 [^1]: And thus, by the transitive property, better than Twilight.
 [^2]: I missed the lawyers. Shows how much of an impact they made in the film... ¯\_(ツ)_/¯

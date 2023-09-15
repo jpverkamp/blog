@@ -22,7 +22,7 @@ I'm still looking through the related literature to decide if there is some way 
 **K-Means Clustering
 **
 
-From {{< wikipedia page="K-means" text="Wikipedia" >}}:
+From [[wiki:K-means|Wikipedia]]():
 
 *In statistics and machine learning, k-means clustering is a method of cluster analysis which aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean. It is similar to the expectation-maximization algorithm for mixtures of Gaussians in that they both attempt to find the centers of natural clusters in the data.*
 

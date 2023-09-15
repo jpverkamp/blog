@@ -14,6 +14,6 @@ Of course, I have a few Photosynths for the occasions. First, our neighboring ta
 
 {{< photosynth "d49ebccf-8bcf-451d-8018-13542d5b614a" >}}
 
-And this is going to sound really strange, but if you do make it there, make sure you go to the rest room. Why? It's the only place I've ever seen that has graffiti in runes (either {{< wikipedia "Futhark" >}} or perhaps Tolkein's {{< wikipedia page="Cirth" text="Dwarven Runes" >}}--I'm hoping to figure out which and translate them, I just haven't gotten around to it yet):
+And this is going to sound really strange, but if you do make it there, make sure you go to the rest room. Why? It's the only place I've ever seen that has graffiti in runes (either [[wiki:Futhark]]() or perhaps Tolkein's [[wiki:Cirth|Dwarven Runes]]()--I'm hoping to figure out which and translate them, I just haven't gotten around to it yet):
 
 {{< photosynth "8e780454-3c48-4344-8870-456c2d00f87c" >}}

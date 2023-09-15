@@ -16,9 +16,9 @@ series:
 
 <!--more-->
 
-Well. That's a thing. What this problem really comes down to is a custom data structure problem. What we want is a {{< wikipedia "circular list" >}}, where you can spin the list forward or backwards and efficiently add/remove the item at the first element of the list.
+Well. That's a thing. What this problem really comes down to is a custom data structure problem. What we want is a [[wiki:circular list]](), where you can spin the list forward or backwards and efficiently add/remove the item at the first element of the list.
 
-Since Racket doesn't seem to have a data structure exactly like this, what I'm going to do is create my own by combining two lists. Essentially, we'll have a list of items before (`prev`) to the current `head` of the list (stored in reverse order) and another for items after (`next`) the current `head`. As we move forward, we move items from `next` to `prev` and backwards is the reverse. If either list runs out, you can refresh it by applying a `reverse` to its partner list. `reverse` is expensive, but you only rarely need to do it (depending on performance) leading to a decent {{< wikipedia text="amortized runtime" page="amortized analysis" >}}. Fun times.
+Since Racket doesn't seem to have a data structure exactly like this, what I'm going to do is create my own by combining two lists. Essentially, we'll have a list of items before (`prev`) to the current `head` of the list (stored in reverse order) and another for items after (`next`) the current `head`. As we move forward, we move items from `next` to `prev` and backwards is the reverse. If either list runs out, you can refresh it by applying a `reverse` to its partner list. `reverse` is expensive, but you only rarely need to do it (depending on performance) leading to a decent [[wiki:text="amortized runtime" page="amortized analysis"]](). Fun times.
 
 ```racket
 #lang racket

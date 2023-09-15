@@ -17,7 +17,7 @@ programming/topics:
 
 ## Part 1
 
-> Simulate {{<wikipedia "Tetris">}} on a 7 wide board with a given (infinitely repeated) series of left and right inputs to be applied on each frame before dropping the block and a given (infinitely repeated) set of blocks. Once 2022 blocks have been dropped, what is the total height of the placed blocks? 
+> Simulate [[wiki:Tetris]]() on a 7 wide board with a given (infinitely repeated) series of left and right inputs to be applied on each frame before dropping the block and a given (infinitely repeated) set of blocks. Once 2022 blocks have been dropped, what is the total height of the placed blocks? 
 
 <!--more-->
 
@@ -84,7 +84,7 @@ impl Rock {
 }
 ```
 
-We always have the same 5 blocks, so `nth` will use {{<wikipedia "modular arithmetic">}} to figure out which block we need. One gotcha is that we need the same anchor point on each block so that we can correctly spawn them on the map. In this case, that is the bottom left. 
+We always have the same 5 blocks, so `nth` will use [[wiki:modular arithmetic]]() to figure out which block we need. One gotcha is that we need the same anchor point on each block so that we can correctly spawn them on the map. In this case, that is the bottom left. 
 
 After that, the map:
 

@@ -99,7 +99,7 @@ So we can make caves, just like we always have, but what about other sorts of te
 
 {{< figure src="/embeds/2013/grassland.png" >}}
 
-We can easily tune this to make any sorts of levels. Even better, we don't necessary need to use the noise functions. We could theoretically make levels based on something like {{< wikipedia "cellular automaton" >}} or even scripted levels (perhaps loaded from external files?). All we have to do is be able to generate a specific tile when asked and our framework will generate the rest. Speaking of which, how do we tie this into the previous `get-tile` function?
+We can easily tune this to make any sorts of levels. Even better, we don't necessary need to use the noise functions. We could theoretically make levels based on something like [[wiki:cellular automaton]]() or even scripted levels (perhaps loaded from external files?). All we have to do is be able to generate a specific tile when asked and our framework will generate the rest. Speaking of which, how do we tie this into the previous `get-tile` function?
 
 Well, we need a bit of abstraction first. First, how do we want to represent z-levels? Theoretically, we could use the same hash that we've been using, only using `(list x y z)` instead of `(list x y)`. But keeping all of that in one hash seems like a recipe for trouble, so instead, we'll store a hash of hashes. Each outer hash will be indexed by depth, the inner by the point. Then we can have a local variable referring to just the current level.
 

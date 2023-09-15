@@ -7,7 +7,7 @@ programming/topics:
 - Docker
 - Dotfiles
 ---
-[DeepDream](https://github.com/google/deepdream) is a [research project](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) originally from Google that gives you a look into how {{< wikipedia "neural networks" >}} see the world. They're fascinating, bizarre, and a lot of fun to play with. A bit of work getting them to work on your own machine though.
+[DeepDream](https://github.com/google/deepdream) is a [research project](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) originally from Google that gives you a look into how [[wiki:neural networks]]() see the world. They're fascinating, bizarre, and a lot of fun to play with. A bit of work getting them to work on your own machine though.
 
 Luckily, GitHub user [saturnism](https://github.com/saturnism/deepdream-cli-docker) has put together a lovely Docker-based tool that will do just that for us: [deepdream-cli-docker](https://github.com/saturnism/deepdream-cli-docker). Unfortunately, the commands are still a bit long. Let's clean it up a bit and add the ability to dream about non-JPGs (animated GIFs especially!).
 
@@ -17,7 +17,7 @@ Luckily, GitHub user [saturnism](https://github.com/saturnism/deepdream-cli-dock
 
 # Base case: JPGs
 
-First, we want the base case. How do we convert a {{< wikipedia "jpg" >}}?
+First, we want the base case. How do we convert a [[wiki:jpg]]()?
 
 ```fish
 cat $filename | docker run -i saturnism/deepdream-cli -l inception_4b/output > dream-$filename ^ /dev/null

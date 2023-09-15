@@ -147,7 +147,7 @@ Okay, now we're into the caves. Let's explore for a bit.
 
 Hmm. Well, this is a problem. It turns out... we can see right through walls. Perhaps we should work on that a bit.
 
-This is when a pre-built framework would *really* come in handy. But the algorithm isn't too bad. Essentially, we want {{< wikipedia "raycasting" >}}. We'll start with a series of lines out from the player and light tiles as we go. If we hit something that can't be lit up, stop. Sounds like a nicely recursive function to me!
+This is when a pre-built framework would *really* come in handy. But the algorithm isn't too bad. Essentially, we want [[wiki:raycasting]](). We'll start with a series of lines out from the player and light tiles as we go. If we hit something that can't be lit up, stop. Sounds like a nicely recursive function to me!
 
 Before that, let's modify the tile definitions again. We'll add the `solid` property. If a tile is `solid` (like a wall or a tree), you can't see through it. Otherwise (like empty space or over water), you can.
 

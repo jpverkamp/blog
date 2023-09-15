@@ -15,7 +15,7 @@ The Autistic Self Advocacy Network. Good to read resources from within.
 
 > We've traced the call. It's coming from inside the house!
 >
-> -- brought to you by the letter E, for {{<wikipedia Echolalia>}}
+> -- brought to you by the letter E, for [[wiki:Echolalia]]()
 
 More seriously, it's an interesting (and quick (and free)) read. Worth learning a bit more about what autism is (and isn't). It certainly gets a bit repetitive at times and there was a large part that wasn't new to me--but your milage will almost certainly vary. 
 

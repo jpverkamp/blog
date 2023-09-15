@@ -19,7 +19,7 @@ Let's do it!
 
 ## 25) Yayoi Kusama
 
-Wikipedia: {{<wikipedia "Yayoi Kusama">}}
+Wikipedia: [[wiki:Yayoi Kusama]]()
 
 <!--more-->
 

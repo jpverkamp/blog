@@ -79,7 +79,7 @@ At first, you might think that that doesn't make the least bit of sense. After a
 
 Basically, it all comes down to memory access. In the first direct case, we basically aren't using the system's RAM. Everything (or just about) can be done in registers directly on the CPU. In the second case though, there's constant swapping as the list grows too large to hold in registers alone. And memory access is orders of magnitude slower than any single instruction on the CPU. Really, this is a perfect example of both this phenomenon and the cost of premature optimization. Just because something should be faster according to runtime alone, that's not the entire story.
 
-Still, we're not quite done. I know we can do better than the direct method. So this time, let's use a more intricate method, specifically the {{< wikipedia "Sieve of Eratosthenes" >}}. The basic idea is to start with a list of all of the numbers you are interested in. Then repeatedly take the first number as prime and cross out all of it's multiples. There's a pretty nice graphic on the aforelinked Wikipedia page.
+Still, we're not quite done. I know we can do better than the direct method. So this time, let's use a more intricate method, specifically the [[wiki:Sieve of Eratosthenes]](). The basic idea is to start with a list of all of the numbers you are interested in. Then repeatedly take the first number as prime and cross out all of it's multiples. There's a pretty nice graphic on the aforelinked Wikipedia page.
 
 And if we just go with a loop, the code is rather straight forward:
 
@@ -117,11 +117,11 @@ There's one interesting bit--the `guess-nth-prime` function:
                 (+ (* n (log n)) (* n (log (log n)))))))))
 ```
 
-By default, the Sieve of Eratosthenes generates all of the primes from 1 to some number n. But that's not what we want. Instead, we want the first n primes. After a bit of searching though, I found the Wikipedia page on the {{< wikipedia "Prime number theorem" >}}. That defines the function `pi(n)` which approximates the number of primes less than or equal to n. Invert that function and you find that the value of the nth prime p<sub>n</sub> falls in the range:
+By default, the Sieve of Eratosthenes generates all of the primes from 1 to some number n. But that's not what we want. Instead, we want the first n primes. After a bit of searching though, I found the Wikipedia page on the [[wiki:Prime number theorem]](). That defines the function `pi(n)` which approximates the number of primes less than or equal to n. Invert that function and you find that the value of the nth prime p<sub>n</sub> falls in the range:
 
 {{< latex >}}n * ln(n) < p_n < n * ln(ln(n)){{< /latex >}}
 
-That upper bound is the one that lets us generate enough primes with the {{< wikipedia "Sieve of Eratosthenes" >}} so that we can sum the first n. 
+That upper bound is the one that lets us generate enough primes with the [[wiki:Sieve of Eratosthenes]]() so that we can sum the first n. 
 
 The best part is that it turns out that it's at least faster than the list based method:
 
@@ -237,9 +237,9 @@ cpu time: 6635 real time: 6625 gc time: 435
 
 Hmm. Well, it doesn't actually run any faster than the `bitvector`, but it also doesn't run out of memory. 
 
-I think we may have a winner, but before we wind down, there are two other sieves linked to from the Sieve of Eratosthenes page: the {{< wikipedia "Sieve of Atkin" >}} and the {{< wikipedia "Sieve of Sundaram" >}}. The algorithms are a bit more complicated than the Sieve of Eratosthenes, but still entirely doable. It is interesting just how they work though. The Sieve of Eratosthenes is intuitive. These two? A bit less so. 
+I think we may have a winner, but before we wind down, there are two other sieves linked to from the Sieve of Eratosthenes page: the [[wiki:Sieve of Atkin]]() and the [[wiki:Sieve of Sundaram]](). The algorithms are a bit more complicated than the Sieve of Eratosthenes, but still entirely doable. It is interesting just how they work though. The Sieve of Eratosthenes is intuitive. These two? A bit less so. 
 
-First, we have the {{< wikipedia "Sieve of Atkin" >}}:
+First, we have the [[wiki:Sieve of Atkin]]():
 
 ```scheme
 ; sum the first n primes using the Sieve of Atkin

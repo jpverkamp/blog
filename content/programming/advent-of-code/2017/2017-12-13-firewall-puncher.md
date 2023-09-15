@@ -114,4 +114,4 @@ day-13  python3 firewall-puncher.py input.txt --tick 0  0.07503604888916016     
 day-13  python3 firewall-puncher.py input.txt --safest  23.190335035324097      safe: 3937334
 ```
 
-If I wanted to optimize this, what we're looking for is the {{< wikipedia "least common multiple" >}} of all of the cycle lengths when offset by the depths. That seems like something that should be possible.
+If I wanted to optimize this, what we're looking for is the [[wiki:least common multiple]]() of all of the cycle lengths when offset by the depths. That seems like something that should be possible.

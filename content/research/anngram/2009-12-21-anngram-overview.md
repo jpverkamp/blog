@@ -20,7 +20,7 @@ First, I'll start with some basic background information.
 
 **Artificial Neural Network (ANN)**
 
-From {{< wikipedia page="Artificial neural network" text="Wikipedia" >}}:
+From [[wiki:Artificial neural network|Wikipedia]]():
 
 *An artificial neural network (ANN), usually called "neural network" (NN), is a mathematical model or computational model that tries to simulate the structure and/or functional aspects of biological neural networks. It consists of an interconnected group of artificial neurons and processes information using a connectionist approach to computation. In most cases an ANN is an adaptive system that changes its structure based on external or internal information that flows through the network during the learning phase. Neural networks are non-linear statistical data modeling tools. They can be used to model complex relationships between inputs and outputs or to find patterns in data.*
 
@@ -33,7 +33,7 @@ In the above image, the colored circles are individual neurons.  The above arra
 
 **n-gram**
 
-From {{< wikipedia page="N-gram" text="Wikipedia" >}}:
+From [[wiki:N-gram|Wikipedia]]():
 
 *An n-gram is a subsequence of n items from a given sequence. The items in question can be phonemes, syllables, letters, words or base pairs according to the application.
 

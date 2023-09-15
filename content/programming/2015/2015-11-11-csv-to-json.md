@@ -89,4 +89,4 @@ Note that the `user_id`s are actually numbers, the `preferences` field has been 
 
 Also, have I mentioned how nice <a href="https://stedolan.github.io/jq/">jq</a> is for working with JSON?
 
-And that's it. The full source is part of my dotfiles now: <a href="https://github.com/jpverkamp/dotfiles/blob/master/bin/csv2json">github:jpverkamp/dotfiles</a> (although all that's missing above is the {{< wikipedia "shebang" >}} and the imports). Enjoy!
+And that's it. The full source is part of my dotfiles now: <a href="https://github.com/jpverkamp/dotfiles/blob/master/bin/csv2json">github:jpverkamp/dotfiles</a> (although all that's missing above is the [[wiki:shebang]]() and the imports). Enjoy!

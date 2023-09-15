@@ -53,7 +53,7 @@ Dataclasses are great. They give you constructors and a bunch of other things fo
 
 Perhaps the most interesting bit here is the function that will iterate through the `points` in a `List`. Specifically, it will figure out the x and y delta (`xd` and `yd`) and repeatedly add that until you hit the end point. 
 
-**Note:** this only works for lines that are vertical, horizontal, or diagonal (at 45 degrees). Anything else needs a better {{< wikipedia "line drawing algorithm" >}} (of which there are a few). If we need it, I'll implement it. 
+**Note:** this only works for lines that are vertical, horizontal, or diagonal (at 45 degrees). Anything else needs a better [[wiki:line drawing algorithm]]() (of which there are a few). If we need it, I'll implement it. 
 
 Next, use that to parse:
 

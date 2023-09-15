@@ -14,7 +14,7 @@ programming/topics:
 
 <!--more-->
 
-Rather than word rank, how about {{< wikipedia "stop word" >}} frequency. Essentially, stop words are small words such as articles and prepositions that don't always carry much weight for a sentence's meaning. On the other hand though, those are exactly the same words that appear most commonly, so perhaps the frequencies will tell us something more.
+Rather than word rank, how about [[wiki:stop word]]() frequency. Essentially, stop words are small words such as articles and prepositions that don't always carry much weight for a sentence's meaning. On the other hand though, those are exactly the same words that appear most commonly, so perhaps the frequencies will tell us something more.
 
 The code is actually rather similar. To start out with, we want to load in a set of stop words. There are dozens of lists out there; any of them will work.
 
@@ -102,7 +102,7 @@ None too shabby! It's a bit surprising that Robert Jordan is up at the top, but 
 
 Still, can we do better?
 
-Here's another idea (that I used in my <a href="//blog.jverkamp.com"/category/programming/anngram/">previous work</a>): {{< wikipedia "n-grams" >}}. Essentially, take constant sized slices of text, completely ignoring the content. So if you were dealing with the text 'THE DUCK QUACKS' and 4-grams, you would have these:
+Here's another idea (that I used in my <a href="//blog.jverkamp.com"/category/programming/anngram/">previous work</a>): [[wiki:n-grams]](). Essentially, take constant sized slices of text, completely ignoring the content. So if you were dealing with the text 'THE DUCK QUACKS' and 4-grams, you would have these:
 
 ```
 'THE '  'HE D'  'E DU'  ' DUC'  'DUCK'

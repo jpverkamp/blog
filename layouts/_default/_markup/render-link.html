@@ -4,9 +4,13 @@ if (and (strings.HasPrefix .PlainText "[")
         (eq .Destination ""))
 -}}
     {{- /*
-        Crosslink of the forms:
+        Crosslinks:
             [[Title]]() 
             [[Title|Text]]()
+
+        Wikipedia links:
+            [[wiki:Title]]()
+            [[wiki:Title|Text]]()
     */ -}}
 
     {{- if gt (strings.Count .PlainText "|") 1 -}}
@@ -16,24 +20,31 @@ if (and (strings.HasPrefix .PlainText "[")
     {{- $scratch := newScratch -}}
 
     {{- $fixedText := substr .PlainText 1 -1 }}
-    {{- $fixedText := (replace $fixedText "&lsquo;" "'") -}}
-    {{- $fixedText := (replace $fixedText "&rsquo;" "'") -}}
+    {{- $fixedText = (replace $fixedText "&lsquo;" "'") -}}
+    {{- $fixedText = (replace $fixedText "&rsquo;" "'") -}}
 
     {{- $parts := split $fixedText "|"  -}}
     {{- $title := index $parts 0 -}}
     {{- $text := index $parts (sub (len $parts) 1) -}}
 
-    {{- $scratch.Set "crosslink-written" false -}}
+    {{- $scratch.Set "crosslink-url" false -}}
+
+    {{- if strings.HasPrefix $title "wiki:" -}}
+        {{- $title = substr $title 5 -}}
+        {{- if strings.HasPrefix $text "wiki:" -}}{{- $text = substr $text 5 -}}{{- end -}}
+        {{- $scratch.Set "crosslink-url" (printf "https://en.wikipedia.org/wiki/%s" $title) -}}
+    {{- end -}}
 
     {{- range $page := .Page.Site.AllPages -}}
-        {{- if (and (not ($scratch.Get "crosslink-written")) (eq $page.Title $title)) -}}
-            <a href="{{ $page.Permalink }}">{{ $text }}</a>
-            {{- $scratch.Set "crosslink-written" true -}}
+        {{- if (and (not ($scratch.Get "crosslink-url")) (eq $page.Title $title)) -}}
+            {{- $scratch.Set "crosslink-url" $page.Permalink -}}
         {{- end -}}
     {{- end -}}
 
-    {{- if (not ($scratch.Get "crosslink-written")) -}}
-    {{ errorf "Markdown crosslink error in %s, for title: %s, title: %s" .Page.File.Path $title $text }}
+    {{- if $scratch.Get "crosslink-url" -}}
+        <a href="{{ $scratch.Get "crosslink-url" }}">{{ $text }}</a>
+    {{- else -}}
+        {{ errorf "Markdown crosslink error in %s, for title: %s, title: %s" .Page.File.Path $title $text }}
     {{- end -}}
 
 {{- else -}}

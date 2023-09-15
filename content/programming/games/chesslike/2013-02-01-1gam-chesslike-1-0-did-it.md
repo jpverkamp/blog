@@ -49,7 +49,7 @@ And pressing F2 will bring up the statistics. Unfortunately, the applet version 
 
 And that's all I have. This is my January #OneGameAMonth and it's done (for the time being). I may put out a final bug-fix version (particularly if I can work around the statistics bug), but that's probably about it. Other than that, it's onwards to bigger and better things! The plan is to start earlier this month, but you all know how that will likely work out...
 
-Also, I've decided to put ChessLike up on GitHub. You can see the full source <a href="https://github.com/jpverkamp/chesslike" title="GitHub: ChessLike">here</a>. I'm not 100% sure about the license yet, but it will probably be one of the standard {{< wikipedia "copyleft" >}} ones.
+Also, I've decided to put ChessLike up on GitHub. You can see the full source <a href="https://github.com/jpverkamp/chesslike" title="GitHub: ChessLike">here</a>. I'm not 100% sure about the license yet, but it will probably be one of the standard [[wiki:copyleft]]() ones.
 
 {{< figure link="http://apps.jverkamp.com/chesslike/ChessLike-1.0.4.htm" src="/embeds/2013/Launch ChessLike 1.0.4" >}}
 

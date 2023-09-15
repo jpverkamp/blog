@@ -298,7 +298,7 @@ ORDER BY date ASC")
          (chat contacts messages))))))
 ```
 
-Theoretically, that should be a fairly direct translation. One interesting bit is the format of `date`. It's actually a timestamp, but not a normal {{< wikipedia "Unix timestamp" >}}. So I have a bit of a {{< wikipedia "magic number" >}}, but it works correctly for my backups, so we'll just leave it for the moment. Other than that, we use the `hash-filename` function from last time to get a local path for any `attachment` and we've got everything pretty much written.
+Theoretically, that should be a fairly direct translation. One interesting bit is the format of `date`. It's actually a timestamp, but not a normal [[wiki:Unix timestamp]](). So I have a bit of a [[wiki:magic number]](), but it works correctly for my backups, so we'll just leave it for the moment. Other than that, we use the `hash-filename` function from last time to get a local path for any `attachment` and we've got everything pretty much written.
 
 And that's really all we need. One thing that would be nice to be able to do though is, given a contact, filter for only the messages with that contact (either directly or in group chats as well):
 

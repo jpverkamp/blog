@@ -47,7 +47,7 @@ with gzip.open('data.txt.gz', 'r') as fin:
 
 Quick and easy. In addition, `gzip.open` returns a file-like object that's only read as we need it. That way, we can only have (roughly) one line in memory at a time. That's exactly what I want when dealing with large files.
 
-More recently though though, I've been writing a lot of scripts in Racket. For slightly more in depth scripts, it has a lot going for it. Racket is{{< doc racket "batteries included" >}}, nicely functional[^1], and can be much more parallelized to multi-core machines without running into Python's pesky {{< wikipedia "Global Interpreter Lock" >}}[^2].
+More recently though though, I've been writing a lot of scripts in Racket. For slightly more in depth scripts, it has a lot going for it. Racket is{{< doc racket "batteries included" >}}, nicely functional[^1], and can be much more parallelized to multi-core machines without running into Python's pesky [[wiki:Global Interpreter Lock]]()[^2].
 
 So how can we write the same code in Racket?
 
@@ -176,7 +176,7 @@ It's starting to get a bit more complicated, but it works great. If we want a bu
       #:buffer-size (* 1024 1024))))
 ```
 
-There is one problem though, the user can pass absolutely anything to `#:buffer-size`. Let's use a Racket feature I probably don't take as much advantage of as I probably should: {{< doc racket "contracts" >}}. Essentially, they work like {{< wikipedia page="Type signature" text="type signatures" >}}. It looks a little ugly, but they're fairly easy to work with:
+There is one problem though, the user can pass absolutely anything to `#:buffer-size`. Let's use a Racket feature I probably don't take as much advantage of as I probably should: {{< doc racket "contracts" >}}. Essentially, they work like [[wiki:Type signature|type signatures]](). It looks a little ugly, but they're fairly easy to work with:
 
 ```scheme
 (provide/contract

@@ -4,7 +4,7 @@ date: 2007-10-20 04:55:08
 programming/languages:
 - Python
 ---
-During the computer architecture class I took at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman</a>, we were working with a simple assembly language that we had to compile by hand down to {{< wikipedia page="MIPS architecture" text="MIPS bytecode" >}} and that's no fun (also there's nothing not worth over doing :smile:). So I decided to write a program that would allow for modular XML definitions of a language or translation and run it on pretty much any given code.
+During the computer architecture class I took at <a title="Rose-Hulman Institute of Technology" href="http://www.rose-hulman.edu/">Rose-Hulman</a>, we were working with a simple assembly language that we had to compile by hand down to [[wiki:MIPS architecture|MIPS bytecode]]() and that's no fun (also there's nothing not worth over doing :smile:). So I decided to write a program that would allow for modular XML definitions of a language or translation and run it on pretty much any given code.
 
 <!--more-->
 

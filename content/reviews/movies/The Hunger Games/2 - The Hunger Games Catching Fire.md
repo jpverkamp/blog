@@ -26,7 +26,7 @@ Well... it's still better than Twilight.
 
 <!--more-->
 
-There's really unfortunately not much more to say about it. The original Hunger Games movie wasn't *terrible* (although it ended up 21/27 last year). The sequel though was just sort of ... there. {{< wikipedia "Jennifer Lawrence" >}} did a fine job as Katniss, although she seems a bit less into this one--especially when you get to the end and realize that pretty much nothing she did throughout the film actually mattered.
+There's really unfortunately not much more to say about it. The original Hunger Games movie wasn't *terrible* (although it ended up 21/27 last year). The sequel though was just sort of ... there. [[wiki:Jennifer Lawrence]]() did a fine job as Katniss, although she seems a bit less into this one--especially when you get to the end and realize that pretty much nothing she did throughout the film actually mattered.
 
 Even worse though, now there are two more. I get it, really I do. Harry Potter did it. Twilight did it. The Hobbit is doing it. People have voted with their wallets and keep going to see two part finales, so the studios are going to keep making them. That doesn't mean that the third book was already the odd ball of the series. Hey, maybe that will actually help.
 

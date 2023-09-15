@@ -92,7 +92,7 @@ $ cat input.txt | time racket alchemical-collapser.rkt
 
 Well within a minute (my baseline for 'efficient enough' for these sort of problems).
 
-I do wonder though if there's a faster way to solve this part? I bet there is. Probably something to do with {{< wikipedia "graph theory" >}}. It's always graph theory.
+I do wonder though if there's a faster way to solve this part? I bet there is. Probably something to do with [[wiki:graph theory]](). It's always graph theory.
 
 A problem for another day.
 

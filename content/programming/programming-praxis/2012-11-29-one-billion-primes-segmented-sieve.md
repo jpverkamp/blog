@@ -10,7 +10,7 @@ programming/topics:
 - Mathematics
 - Prime Numbers
 ---
-After a [sum of the first billion primes]({{< ref "2012-11-01-the-sum-of-the-first-billion-primes.md" >}}) post (originally from <a title="Programming Praxis: The Sum Of The First Billion Primes" href="http://programmingpraxis.com/2012/09/11/the-sum-of-the-first-billion-primes/">Programming Praxis</a>), I decided to finally write a segmented version of the {{< wikipedia page="Sieve of Eratosthenes" text="Sieve of Eratosthenes" >}}.
+After a [sum of the first billion primes]({{< ref "2012-11-01-the-sum-of-the-first-billion-primes.md" >}}) post (originally from <a title="Programming Praxis: The Sum Of The First Billion Primes" href="http://programmingpraxis.com/2012/09/11/the-sum-of-the-first-billion-primes/">Programming Praxis</a>), I decided to finally write a segmented version of the [[wiki:Sieve of Eratosthenes|Sieve of Eratosthenes]]().
 
 <!--more-->
 

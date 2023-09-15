@@ -350,4 +350,4 @@ Unfortunately, about the coolest image I got in my testing was this:
 
 Since most of the stack functions pop two variables, they are almost always grabbing `0` (when the stack is empty) and breaking things. So it goes. It was still interesting to write up.
 
-I think next I'll work on transpiling this ([like I did for registers]({{< ref "2020-12-03-transpiling" >}})). And then on to some other type of function! {{< wikipedia "S-expressions" >}}? {{< wikipedia "Neural networks" >}}? Who knows!
+I think next I'll work on transpiling this ([like I did for registers]({{< ref "2020-12-03-transpiling" >}})). And then on to some other type of function! [[wiki:S-expressions]]()? [[wiki:Neural networks]]()? Who knows!

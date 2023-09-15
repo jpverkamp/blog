@@ -12,7 +12,7 @@ programming/topics:
 - Memory
 - Virtual Machines
 ---
-<a href="http://www.reddit.com/r/dailyprogrammer/comments/1kqxz9/080813_challenge_132_intermediate_tiny_assembler/">Today's challenge</a> at /r/dailyprogrammer asks to implement an assembler for a small virtual machine. It has only 16 {{< wikipedia page="Assembly language#Opcode mnemonics and extended mnemonics" text="mnemonics" >}} which in unique {{< wikipedia page="Opcode" text="opcodes" >}} (each instruction can have multiple forms for if they're accessing memory or literals), so it's a simple virtual machine indeed. As a challenge, you're supposed to write an interesting program (I actually wrote a virtual machine as well to test them). As an even better challenge, we're supposed to prove that Tiny is {{< wikipedia "Turing complete" >}}. Well, let's get to it!
+<a href="http://www.reddit.com/r/dailyprogrammer/comments/1kqxz9/080813_challenge_132_intermediate_tiny_assembler/">Today's challenge</a> at /r/dailyprogrammer asks to implement an assembler for a small virtual machine. It has only 16 [[wiki:Assembly language#Opcode mnemonics and extended mnemonics|mnemonics]]() which in unique [[wiki:Opcode|opcodes]]() (each instruction can have multiple forms for if they're accessing memory or literals), so it's a simple virtual machine indeed. As a challenge, you're supposed to write an interesting program (I actually wrote a virtual machine as well to test them). As an even better challenge, we're supposed to prove that Tiny is [[wiki:Turing complete]](). Well, let's get to it!
 
 <!--more-->
 
@@ -341,7 +341,7 @@ running:
 
 Looks pretty good, eh?
 
-We still have one more step though. We want to be able to prove that Tiny is {{< wikipedia "Turing complete" >}}. One way to do that is to be able to simulate a Turing machine. That sounds simple(ish), let's do that. :smile:
+We still have one more step though. We want to be able to prove that Tiny is [[wiki:Turing complete]](). One way to do that is to be able to simulate a Turing machine. That sounds simple(ish), let's do that. :smile:
 
 **A while later.**
 
@@ -355,7 +355,7 @@ Other than that, it seems like we need one more instruction. You could add a few
 
 Essentially, this gives us the ability to set memory based on an address also in memory. This way, we can actually encode vectors or any other manner of more complicated data structure. Given that though, we have enough to encode any arbitrary Turing machine in Tiny. 
 
-To do so, we'll start with the definition for a Turing machine {{< wikipedia page="Turing machine" text="on Wikipedia" >}}: 
+To do so, we'll start with the definition for a Turing machine [[wiki:Turing machine|on Wikipedia]](): 
 
 
 * Q is a finite, non-empty set of **states**
@@ -364,7 +364,7 @@ To do so, we'll start with the definition for a Turing machine {{< wikipedia pag
 * ∑ ⊆ {b} ∪ Γ is the set of **input symbols**
 * q0 ∋ Q is the **initial state**
 * F ⊆ Q is the set of **final** or **accepting states**.
-* δ is a {{< wikipedia "partial function" >}} called the **{{< wikipedia "transition function" >}}**, where L is left shift, R is right shift. (A relatively uncommon variant allows "no shift", say N, as a third element of the latter set.)
+* δ is a [[wiki:partial function]]() called the **[[wiki:transition function]]()**, where L is left shift, R is right shift. (A relatively uncommon variant allows "no shift", say N, as a third element of the latter set.)
 
 
 We're going to simplify that a little bit by assuming that the blank symbol is 0 (and that 0 ∋ Γ), so b no longer needs to be defined and ∑ = Γ. Furthermore, we'll restrict F to only a single state. This is a valid transition since you can add transitions from all previous final states to F that do not modify the tape. 

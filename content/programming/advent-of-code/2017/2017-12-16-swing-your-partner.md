@@ -105,7 +105,7 @@ for c in data:
 
 We could then somehow multiply these maps one billion times and apply them directly. It works, but unfortunately, we're still doing roughly the same amount of work. But we might just have something here.
 
-My next attempt was to combine this with {{< wikipedia "recursion" >}} and {{< wikipedia "dynamic programming" >}}. Rather than calculating the maps once and repeating them a billion times, we're going to start with a billion and split it in half. Calculate what the maps would be for 500 million and then combine the maps from the two halves. Except we don't want to do 500 million either, so split that in half. Keep going all the way down. And as a bonus, {{< wikipedia "memoize" >}} each of these halves, so we only have to calculate the two maps for a given number of repeats once.
+My next attempt was to combine this with [[wiki:recursion]]() and [[wiki:dynamic programming]](). Rather than calculating the maps once and repeating them a billion times, we're going to start with a billion and split it in half. Calculate what the maps would be for 500 million and then combine the maps from the two halves. Except we don't want to do 500 million either, so split that in half. Keep going all the way down. And as a bonus, [[wiki:memoize]]() each of these halves, so we only have to calculate the two maps for a given number of repeats once.
 
 So how in the world do we do this?
 
@@ -176,7 +176,7 @@ def generate_swaps(iterations):
 
 The base cases aren't bad. `0` just means we keep the original order and don't swap any characters. `1` is the same code that we were going to repeat a billion times above. The interesting code comes in the last case. First, we generate two halves recursively. Then we have to merge the two maps.
 
-For `position_swaps`, we can actually just apply one map to the other one. This works because the position swaps are {{< wikipedia transitive >}}.
+For `position_swaps`, we can actually just apply one map to the other one. This works because the position swaps are [[wiki:transitive]]().
 
 For `character_swaps`, it's a bit more complicated. We have four cases:
 

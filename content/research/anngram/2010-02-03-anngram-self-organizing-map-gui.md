@@ -21,7 +21,7 @@ They say a picture is worth a thousand words:
 
 **Overview**
 
-What you are seeing is the results of applying a {{< wikipedia "Self-Organizing Map" >}} to the nGram vectors generated from a series of documents.  The author for each document is stored so as to color the final documents, but that information is not given to the algorithm in any way.  In the above picture, red is Shakespeare, blue is William Blake, and green is the Bible.  As you can see, the Self-Organizing Map did a surprisingly awesome job at classifying the documents.  With a few exceptions, all of Shakespeare's works are in the bottom left, the bible is in the top left, and William Blake is between them.  Due to random nature of the core of the algorithm, the results can be different on different iterations, but are still generally impressive.
+What you are seeing is the results of applying a [[wiki:Self-Organizing Map]]() to the nGram vectors generated from a series of documents.  The author for each document is stored so as to color the final documents, but that information is not given to the algorithm in any way.  In the above picture, red is Shakespeare, blue is William Blake, and green is the Bible.  As you can see, the Self-Organizing Map did a surprisingly awesome job at classifying the documents.  With a few exceptions, all of Shakespeare's works are in the bottom left, the bible is in the top left, and William Blake is between them.  Due to random nature of the core of the algorithm, the results can be different on different iterations, but are still generally impressive.
 
 **Another Thousand Words**
 
@@ -35,6 +35,6 @@ The original plan was to find the most common nGrams in the English language and
 
 **Future Plans**
 
-First, it would be most useful to determine if feeding nGrams to the Self-Organizing Map is actually an improvement over other possibilities.  I'm currently looking into literature to determine a basis for comparison.  Alternatively, I would like to see if applying {{< wikipedia "k-means" >}} clustering to the nGram vectors would work as well as the Self-Organizing maps.
+First, it would be most useful to determine if feeding nGrams to the Self-Organizing Map is actually an improvement over other possibilities.  I'm currently looking into literature to determine a basis for comparison.  Alternatively, I would like to see if applying [[wiki:k-means]]() clustering to the nGram vectors would work as well as the Self-Organizing maps.
 
 Second, I would like to add a little more customization to the tab: the ability to choose the length of the nGrams to use (currently 4), the size of the comparison vectors (currently 100), and the error threshold (currently 0.0001).

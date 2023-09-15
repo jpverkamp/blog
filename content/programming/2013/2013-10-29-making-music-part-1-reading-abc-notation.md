@@ -16,7 +16,7 @@ It's been a bit since I've had time to post[^1], but I've got an interesting new
 The basic idea is that I want to be able to write and play music in Racket. One end goal would be to make a library available for the C211 class to give them something else to work with (in addition to <a href="//blog.jverkamp.com"/wombat-ide/c211-image-api/">images</a> and <a href="//blog.jverkamp.com"/wombat-ide/c211-turtle-api/">turtles</a>). To that end, here's my current plan of attack[^2]:
 
 
-* Write a {{< wikipedia page="Lexical analysis" text="lexer" >}} for {{< wikipedia "ABC notation" >}} to turn raw text into a list of tokens
+* Write a [[wiki:Lexical analysis|lexer]]() for [[wiki:ABC notation]]() to turn raw text into a list of tokens
 * Write a parser to turn those tokens into a song (for example dealing with the interactions between key signature/accidentals and meter/note duration)
 * Use the [rsound](http://pkg.racket-lang.org/#\[rsound\]) library on [Planet2 / pkg](http://pkg.racket-lang.org/) to play back individuals notes and chords
 * Tie it all together to play a parsed song in ABC notation using the rsound library
@@ -279,6 +279,6 @@ Looks like something we can work with! Later this week (if all goes well), I'll 
 As always, the entire code for this project is / will be available on GitHub: <a href="https://github.com/jpverkamp/abc/">jpverkamp / abc</a>. If you check it out between now and when I next post, you might even get a sneak peak at the parser[^4]. :smile:
 
 [^1]: Moving across the country will do that...
-[^2]: Although it's been said "no battle plan survives contact with the enemy" -- {{< wikipedia page="Helmuth von Moltke the Elder" text="Helmuth von Moltke" >}}
+[^2]: Although it's been said "no battle plan survives contact with the enemy" -- [[wiki:Helmuth von Moltke the Elder|Helmuth von Moltke]]()
 [^3]: Yes, I'm sure there are many, many counter examples...
 [^4]: Assuming of course that I don't write it the night before as I'm wont to do

@@ -22,7 +22,7 @@ Let's do it!
 
 ## 5) Debug view
 
-I like {{<wikipedia "Boids">}}. Here are some Boids with debug vectors drawn showing the three forces acting on them (red to stay away from one another, green to move in the same direction as their friends, blue to move towards the center of their friends). 
+I like [[wiki:Boids]](). Here are some Boids with debug vectors drawn showing the three forces acting on them (red to stay away from one another, green to move in the same direction as their friends, blue to move towards the center of their friends). 
 
 Use the 'toggle clear' button to clear the screen between each frames to see the simulation versus not to get some twisty spaghetti 'art'. :smile:
 

@@ -116,7 +116,7 @@ So there are a few things going on here:
   * `compile_expr` will compile a single expression, be it a literal, variable, name, lookup, or whatever (if it's a `block`, call `compile_block`)
 * It's possible to add static C code to `lines` with `include_str!`:
   * `header.c` has the includes and a number of `#define` constants
-  * `types.c` defines the `Value` type (a {{<wikipedia "tagged union">}} struct)
+  * `types.c` defines the `Value` type (a [[wiki:tagged union]]() struct)
   * `globals.c` stores global variables (the `stack` and `frame`)
   * `coerce.c` contains a function to automatically cast numbers when necessary (adding an integer + float should result in a float for example)
   * `main.c` defines the `int main(int, char*)` function; sets up memory 
@@ -167,7 +167,7 @@ typedef struct
 } Value;
 ```
 
-As mentioned, this is a {{<wikipedia "tagged union">}} for all `values`. It stores the `type` (one of the constants from [`header.c`](#headerc)) and the data. But because I'm using a union, all of the values are stored in the same memory--you have to make sure to read it as the right kind of data. It will always take as much memory as the largest of the values (`int64_t` and `double` are each 8 bytes), which can be wasteful, but such is life. 
+As mentioned, this is a [[wiki:tagged union]]() for all `values`. It stores the `type` (one of the constants from [`header.c`](#headerc)) and the data. But because I'm using a union, all of the values are stored in the same memory--you have to make sure to read it as the right kind of data. It will always take as much memory as the largest of the values (`int64_t` and `double` are each 8 bytes), which can be wasteful, but such is life. 
 
 One interesting one in particular is the `void *as_block`. This is a function pointer to another `block_#` (we haven't defined them yet) stored as a value. 
 
@@ -304,7 +304,7 @@ Like this:
 
 One thing that I've been making sure I do is generating comments in the C code. In a perfect world, these are never going to get looked at, since we're going to immediately compile this C code to assembly/machine code. But in a practical world, knowing what code I'm generating is kind of important...
 
-One thing to note is that all blocks have a single variable: `names`. This one is a {{<wikipedia "linked list">}} of `name` -> `stack_ptr` associations that we've stored. Because it's passed as a parameter to the `block_#(...)` call, when we return, it 'forgets' all `names` bound in this block or child blocks. I'll get more into that in [the names section](#named-variables). 
+One thing to note is that all blocks have a single variable: `names`. This one is a [[wiki:linked list]]() of `name` -> `stack_ptr` associations that we've stored. Because it's passed as a parameter to the `block_#(...)` call, when we return, it 'forgets' all `names` bound in this block or child blocks. I'll get more into that in [the names section](#named-variables). 
 
 This is also the first time seeing code like this:
 

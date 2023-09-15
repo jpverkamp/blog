@@ -20,14 +20,14 @@ series:
 My goals for expressions are:
 
 * A variety of literal values (integers, decimals, fractions, hex/binary literals, angles, strings)
-* Simple {{<wikipedia infix>}} style expressions: `a + b`, rather than `(+ a b)` or `a b +`
-* {{<wikipedia "Operator precedence">}}: `a + b * c` should be evaluated as `a + (b * c)` rather than `(a + b) * c`
+* Simple [[wiki:infix]]() style expressions: `a + b`, rather than `(+ a b)` or `a b +`
+* [[wiki:Operator precedence]](): `a + b * c` should be evaluated as `a + (b * c)` rather than `(a + b) * c`
 * `()` for grouping when you want to override precedence (so `(a + b) * c` does what it should)
 * Built in functions (`sin(x)`)
 
-This isn't really something that works directly with our current {{<wikipedia "recursive descent parser">}}, but we can switch modes (while parsing an expression) to instead use the {{<wikipedia "Shunting-Yard Algorithm">}}. It's designed for exactly this sort of thing and does pretty well. 
+This isn't really something that works directly with our current [[wiki:recursive descent parser]](), but we can switch modes (while parsing an expression) to instead use the [[wiki:Shunting-Yard Algorithm]](). It's designed for exactly this sort of thing and does pretty well. 
 
-It doesn't directly evaluate the expressions, but what it does is parse them into a list that is in {{<wikipedia "Reverse Polish Notation">}} form. The advantage of that is RPN is unambiguous and doesn't have to deal with precedence--you just evaluate the list of expressions left to right. So by using the Shunting-Yard to deal with precedence now, we're hopefully making the expression evaluation easier. Let's do it!
+It doesn't directly evaluate the expressions, but what it does is parse them into a list that is in [[wiki:Reverse Polish Notation]]() form. The advantage of that is RPN is unambiguous and doesn't have to deal with precedence--you just evaluate the list of expressions left to right. So by using the Shunting-Yard to deal with precedence now, we're hopefully making the expression evaluation easier. Let's do it!
 
 First, the entire code:
 
@@ -194,7 +194,7 @@ The first case is any of our various sorts of literals:
 * integers like 0, 5, -10
 * decimals like 3.14, -0.7
 * rationals/fractions like 1/2, 1/7, -3/2
-* hexadecimal literals like: 0xFF (primarily used for {{<wikipedia "Unicode code points">}})
+* hexadecimal literals like: 0xFF (primarily used for [[wiki:Unicode code points]]())
 * angles in degrees or radians (30deg, 1rad), TODO: I need to combine these with decimals and fractions
 * strings like "hello world"
 * constants like `true` and `false`
@@ -328,7 +328,7 @@ else if (text == ")") {
 ...
 ```
 
-If we see a `)`, it could either be closing an internal paren (in which case we're staying in expression mode) or closing the parameter list (for example) in which case w're done with the expression. What we do next is a much hackier method of making sure that we can parse any {{<wikipedia arity>}} of function with the function's `toString` method. This is... hacky. But it works and I don't believe there's a better way to evaluate this in Javascript. 
+If we see a `)`, it could either be closing an internal paren (in which case we're staying in expression mode) or closing the parameter list (for example) in which case w're done with the expression. What we do next is a much hackier method of making sure that we can parse any [[wiki:arity]]() of function with the function's `toString` method. This is... hacky. But it works and I don't believe there's a better way to evaluate this in Javascript. 
 
 ## Back to the top
 

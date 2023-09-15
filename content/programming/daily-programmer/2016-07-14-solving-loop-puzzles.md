@@ -18,9 +18,9 @@ The most straightforward solution is a hybrid combination of constraints and bac
 
 <!--more-->
 
-First, we'll create two classes, one for individual characters and one for puzzles. Think what you may about {{< wikipedia "object oriented programming" >}}, but I think it fits fairly well with this problem.
+First, we'll create two classes, one for individual characters and one for puzzles. Think what you may about [[wiki:object oriented programming]](), but I think it fits fairly well with this problem.
 
-First, characters. We want something that will be able to represent characters with with their character form (the {{< wikipedia "box drawing characters" >}} above) or as a collection of edges (if the top / right / bottom / left pipe is included). This could be represented as a 4-bit integer, but instead I'll use a 4-tuple of bools. It's just a bit easier to read by default.
+First, characters. We want something that will be able to represent characters with with their character form (the [[wiki:box drawing characters]]() above) or as a collection of edges (if the top / right / bottom / left pipe is included). This could be represented as a 4-bit integer, but instead I'll use a 4-tuple of bools. It's just a bit easier to read by default.
 
 On top of that, we want functions that can rotate pieces, test if two characters are actually the same, and to test if two neighboring pieces can border each other or not. The last is true if they either both have a pipe pointing inwards or neither does.
 
@@ -231,7 +231,7 @@ class Puzzle(object):
             return repr(self.data)
 ```
 
-That's actually enough by itself to solve some puzzles. But sometimes, particularly in larger puzzles, you'll reach states where two arrangements are still possible. In those cases, we want to take a {{< wikipedia "backtracking" >}} step: choose each of the possible states in turn and assume it is correct, switching back to the constraint solver until the next block. If a solution is found in that branch, just return. If not, try the next branch from that position.
+That's actually enough by itself to solve some puzzles. But sometimes, particularly in larger puzzles, you'll reach states where two arrangements are still possible. In those cases, we want to take a [[wiki:backtracking]]() step: choose each of the possible states in turn and assume it is correct, switching back to the constraint solver until the next block. If a solution is found in that branch, just return. If not, try the next branch from that position.
 
 ```python
 def solve(puzzle):
@@ -319,6 +319,6 @@ $ cat 10x10.loops | python3 loop-solver.py
 ┗┛┗┻┻┻┻━┻┛
 ```
 
-Cool. Looking at this and several other puzzles, it seems like it would be a good generic framework to work out. Given a definition for a puzzle with an `is_valid` function (`can_neighbor` here), a `constrain` function, and the backtracking code above, it should be able to solve a large class of puzzles. {{< wikipedia "Sudoku" >}}, for example, or {{< wikipedia "Hashi" >}}. Both puzzles I've been working on solvers for. Even better, once you have a solver you can use it to generate puzzles with a difficulty gradient. Just solve each puzzle, keeping track of how many times you had to backtrack and how many were solved with the constraints.
+Cool. Looking at this and several other puzzles, it seems like it would be a good generic framework to work out. Given a definition for a puzzle with an `is_valid` function (`can_neighbor` here), a `constrain` function, and the backtracking code above, it should be able to solve a large class of puzzles. [[wiki:Sudoku]](), for example, or [[wiki:Hashi]](). Both puzzles I've been working on solvers for. Even better, once you have a solver you can use it to generate puzzles with a difficulty gradient. Just solve each puzzle, keeping track of how many times you had to backtrack and how many were solved with the constraints.
 
 And that's it. A fun little puzzle.

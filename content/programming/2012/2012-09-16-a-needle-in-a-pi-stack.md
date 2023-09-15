@@ -87,7 +87,7 @@ Or the first time that longer sequences occur:
 600
 ```
 
-Now, let's get crazy and see when {{< wikipedia page="867-5309/Jenny" text="Jenny's number" >}} shows up:
+Now, let's get crazy and see when [[wiki:867-5309/Jenny|Jenny's number]]() shows up:
 
 ```bash
 ┌ ☺ verkampj@minty ~/Projects/SmallProjects

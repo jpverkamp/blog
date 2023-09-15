@@ -6,11 +6,11 @@ programming/topics:
 programming/languages:
 - Racket
 ---
-I recently came across a question: how do you read {{< wikipedia "extended file attributes" >}} in Racket. Not being actually that familiar with extended file attributes, I searched online. Nothing seems to currently exist (other than <a href="https://docs.racket-lang.org/fuse/index.html#%28def._%28%28lib._fuse%2Fmain..rkt%29._setxattr%29%29">in the FUSE module, but that's specific to FUSE</a>), but there is a system level exectuable that one could wrap to do this. I haven't done <i>much</i>[^much] with Racket's {{< doc racket "system" >}} or {{< doc racket "system*" >}} function before, so let's give it a whirl.
+I recently came across a question: how do you read [[wiki:extended file attributes]]() in Racket. Not being actually that familiar with extended file attributes, I searched online. Nothing seems to currently exist (other than <a href="https://docs.racket-lang.org/fuse/index.html#%28def._%28%28lib._fuse%2Fmain..rkt%29._setxattr%29%29">in the FUSE module, but that's specific to FUSE</a>), but there is a system level exectuable that one could wrap to do this. I haven't done <i>much</i>[^much] with Racket's {{< doc racket "system" >}} or {{< doc racket "system*" >}} function before, so let's give it a whirl.
 
 <!--more-->
 
-First (and doing most of the work), let's take a look at the `xattr` function's {{< wikipedia "man page" >}}:
+First (and doing most of the work), let's take a look at the `xattr` function's [[wiki:man page]]():
 
 <pre style="overflow-x: auto; white-space: pre-wrap; word-wrap: break-word;">
 NAME

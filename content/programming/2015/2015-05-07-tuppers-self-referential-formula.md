@@ -7,7 +7,7 @@ programming/topics:
 - Graphics
 - Mathematics
 ---
-Quick post today. Let's implement {{< wikipedia "Tupper's self-referential formula" >}} in Racket!
+Quick post today. Let's implement [[wiki:Tupper's self-referential formula]]() in Racket!
 
 {{< latex >}}\frac{1}{2} < \left \lfloor mod \left ( \left \lfloor \frac{y}{17} 2^{-17 \lfloor x \rfloor - mod(\lfloor y \rfloor, 2)} \right \rfloor, 2 \right ) \right \rfloor{{< /latex >}}
 

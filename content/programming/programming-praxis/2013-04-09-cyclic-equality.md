@@ -174,7 +174,7 @@ To lexically order them, we want to advance the cycle so that the smallest eleme
       [else (loop min (cycle-tail c))])))
 ```
 
-Note: This code uses an updated version of `cycle-length` that is {{< wikipedia "amortized" >}} *O(1)* (it caches the length). You can see the code for that on <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/cycle-equality.rkt" title="cycle equality source on GitHub">GitHub</a>. 
+Note: This code uses an updated version of `cycle-length` that is [[wiki:amortized]]() *O(1)* (it caches the length). You can see the code for that on <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/cycle-equality.rkt" title="cycle equality source on GitHub">GitHub</a>. 
 
 One you have the sort, the actual comparison is easy:
 

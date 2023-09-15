@@ -538,7 +538,7 @@ let f_inverse = match (op_name.as_str(), v_level_2_is_left) {
 };
 ```
 
-Specifically subtraction. Addition and multiplication are easy, since those have the {{<wikipedia "commutative property">}}, but subtraction is trickier (since you need to subtract than negate in one case but just add in the other). I never did the second case for division, it just didn't come up in the puzzle. 
+Specifically subtraction. Addition and multiplication are easy, since those have the [[wiki:commutative property]](), but subtraction is trickier (since you need to subtract than negate in one case but just add in the other). I never did the second case for division, it just didn't come up in the puzzle. 
 
 Other than that, it was just a matter of iterating on the code until everything made sense. I made rather a few more graphs of this all working:
 

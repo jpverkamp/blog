@@ -53,7 +53,7 @@ Basically, we're going to look for a `span` containing a `download_url` attribut
 
 `text/plain:text_0.txt:https://mail.google.com/mail/u/0/?ui=...``
 
-The first part is a {{< wikipedia "MIME type" >}}--of which, we're only interested in plaintext. The last section is a URL under gmail which, when visited, contains the contents of the attachment.
+The first part is a [[wiki:MIME type]]()--of which, we're only interested in plaintext. The last section is a URL under gmail which, when visited, contains the contents of the attachment.
 
 Now that I have that (via jQuery[^1][^2]), I build a new `pre` element with the text content and shove it in place.
 

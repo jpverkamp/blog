@@ -23,7 +23,7 @@ How do we do it? Well, first we need to decide on a scheme for user input. Since
       (and (eq? p1 'paper)    (eq? p2 'rock))))
 ```
 
-Now we want a {{< wikipedia "REPL" >}}--a read, eval, print loop. Basically, we want to `read` in input from the user, `eval`uate it as either a play or a special `quit` command, print out the results, and then loop back (unless we're told to `quit`.) Sounds straight forward enough:
+Now we want a [[wiki:REPL]]()--a read, eval, print loop. Basically, we want to `read` in input from the user, `eval`uate it as either a play or a special `quit` command, print out the results, and then loop back (unless we're told to `quit`.) Sounds straight forward enough:
 
 ```scheme
 ; Play a game of rock/paper/scissors against a given opponent
@@ -247,7 +247,7 @@ And that's all there is to it. Like always, I've got my code up on GitHub: <a hr
 
 Enjoy!
 
-[^1]: Or **{{< wikipedia "roshambo" >}} for those of you otherwise inclined
+[^1]: Or **[[wiki:roshambo]]() for those of you otherwise inclined
 [^2]: Inspired by <a href="http://programmingpraxis.com/2013/12/10/rock-paper-scissors/">a post on Programming Praxis</a>
 [^3]: You get the idea
 [^4]: Can you figure out why almost all of them are 50%?

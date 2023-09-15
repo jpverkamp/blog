@@ -13,7 +13,7 @@ series:
 ---
 ### Source: [A Maze of Twisty Little Cubicles](http://adventofcode.com/2016/day/13)[^cca]
 
-> **Part 1:** Generate a {{< wikipedia "procedurally generated" >}} maze using the following equation:
+> **Part 1:** Generate a [[wiki:procedurally generated]]() maze using the following equation:
 
 > - {{< inline-latex "x^2 + 3x + 2xy + y + y^2 + c" >}}
 
@@ -47,7 +47,7 @@ def wall(x, y):
 
 Note: You should never use `eval` on untrusted input. :)
 
-After you have that, it's another {{< wikipedia "breadth first search" >}} to find the shortest path:
+After you have that, it's another [[wiki:breadth first search]]() to find the shortest path:
 
 ```python
 # A state is (x, y, steps)
@@ -81,7 +81,7 @@ def solve(start, target):
     raise Exception('Cannot reach target')
 ```
 
-You could instead use {{< wikipedia "A*" >}} for the pathfinding to save a bit on the runtime, but the search runs quickly enough.
+You could instead use [[wiki:A*]]() for the pathfinding to save a bit on the runtime, but the search runs quickly enough.
 
 As an added bonus, it's interesting to render these maps:
 
@@ -244,4 +244,4 @@ XXX.X....X.X...X..XX..XXOOOXXX
 124 steps/points
 ```
 
-[^cca]: {{< wikipedia "Colossal Cave Adventure" >}}
+[^cca]: [[wiki:Colossal Cave Adventure]]()

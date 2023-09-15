@@ -230,11 +230,11 @@ I'm going to have to see what I can do about a test harness (as mentioned). Perh
 
 ## New datatypes (VM only; so far!)
 
-On another note, I keep wanting to do more with StackLang. One thing that will help with that is more powerful datastructures! As a way to see how it's going, I decided to semi-randomly work out the solution to [[Project Euler]]() [problem 14](https://projecteuler.net/problem=14): Find the number under 1 million with the longest {{<wikipedia "Collatz Sequence">}}. 
+On another note, I keep wanting to do more with StackLang. One thing that will help with that is more powerful datastructures! As a way to see how it's going, I decided to semi-randomly work out the solution to [[Project Euler]]() [problem 14](https://projecteuler.net/problem=14): Find the number under 1 million with the longest [[wiki:Collatz Sequence]](). 
 
-It's not a particularly hard problem to just directly crunch numbers on, but you can save an awful lot of time by caching/{{<wikipedia "memoizing">}} the results. In a nutshell: the first time you calculate a specific Collatz length, store it in a data structure for later.
+It's not a particularly hard problem to just directly crunch numbers on, but you can save an awful lot of time by caching/[[wiki:memoizing]]() the results. In a nutshell: the first time you calculate a specific Collatz length, store it in a data structure for later.
 
-The best options for this storage? A {{<wikipedia "hashmap">}} or a vector!
+The best options for this storage? A [[wiki:hashmap]]() or a vector!
 
 ### Hash
 

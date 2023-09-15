@@ -53,7 +53,7 @@ You have to start somewhere!
 
 First, literals I support or intend to support:
 
-* Numbers: a Lisp/Scheme style {{<wikipedia "numeric tower">}}: integers, rational numbers, floats, and complex numbers
+* Numbers: a Lisp/Scheme style [[wiki:numeric tower]](): integers, rational numbers, floats, and complex numbers
 * Strings: double quoted; I intend to include multi line strings but I’m not sure if I want to support that with normal strings, backticks (JavaScript style), or triple quoted (Python style)
 * Booleans: true and false
 

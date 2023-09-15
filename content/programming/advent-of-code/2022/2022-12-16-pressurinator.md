@@ -123,7 +123,7 @@ The basic idea of the original solution was:
 
 Technically correct... but very slow. I don't actually even have runtimes for this one. 
 
-I did have one way that I could at least make it bearable though: {{<wikipedia memoization>}}. Essentially, cache the result of each recursive call, that way if I end up in the same state through another branch (such as if A -> B -> C, A -> D -> C, then moving down either path results in the same `recur` calls.)
+I did have one way that I could at least make it bearable though: [[wiki:memoization]](). Essentially, cache the result of each recursive call, that way if I end up in the same state through another branch (such as if A -> B -> C, A -> D -> C, then moving down either path results in the same `recur` calls.)
 
 To implement that, I added this to my `max_flow` function:
 
@@ -520,7 +520,7 @@ Tick 5
 
 ### A Priority Queue (Edit 2, Dec 20)
 
-Continuing with the theme of making it faster, I decided to rewrite the `max_flow` function. Instead of being recursive, I'm going to keep the states to check in a {{<wikipedia "priority queue">}}, with the priority being the current flow. 
+Continuing with the theme of making it faster, I decided to rewrite the `max_flow` function. Instead of being recursive, I'm going to keep the states to check in a [[wiki:priority queue]](), with the priority being the current flow. 
 
 The code isn't *that* different:
 
@@ -1162,7 +1162,7 @@ Basically I got rid of the relatively annoying `ttl = 1` state and instead handl
 
 Unfortunately, a bit quicker is still way too slow. At this point, I've been working on this problem for quite a while, so I'm going to go ahead and move on to another. I'll let it run overnight to get an answer (if it does), but I still do want to try something better. 
 
-I think one option would be to give up on perfect and instead try a heuristic approach like {{<wikipedia "simulated annealing">}}. It won't be able to guarantee me the perfect answer, but I expect it will find one good enough in far less time. 
+I think one option would be to give up on perfect and instead try a heuristic approach like [[wiki:simulated annealing]](). It won't be able to guarantee me the perfect answer, but I expect it will find one good enough in far less time. 
 
 Like I said, to be continued...
 

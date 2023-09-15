@@ -9,7 +9,7 @@ programming/sources:
 programming/topics:
 - Data Structures
 ---
-{{< wikipedia "Memoization" >}} is awesome! 
+[[wiki:Memoization]]() is awesome! 
 
 I've already written [one post]({{< ref "2012-09-29-pickles-and-memoization.md" >}}) on the subject in Python, but this time we'll do the same in Racket. It's particularly timely as without it, [today's post]({{< ref "2012-10-22-prime-partitions-ii-the-listing.md" >}}) on determining the number of prime partitions of a number would take longer to run than I care to wait.
 

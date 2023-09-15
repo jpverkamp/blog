@@ -12,7 +12,7 @@ What would you do if you were on a machine that had no higher level graphics, bu
 
 <!--more-->
 
-One option is {{< wikipedia "ASCII art" >}}:
+One option is [[wiki:ASCII art]]():
 
 ```
 _____________
@@ -31,9 +31,9 @@ Another is using 'denser' characters (such as @/&amp;) for darker points and les
 
 {{< figure src="/embeds/2014/AAlib-zebra1.png" >}}[^2]
 
-But what if we want to get really exotic? Here's a <del>crazy</del> neat idea based on [a Python library](https://github.com/asciimoo/drawille/) that came up on [/r/programming](http://www.reddit.com/r/programming/comments/263opn/drawille_pixel_graphics_in_a_terminal_using/) a bit back: {{< wikipedia page="Braille" text="Braille pixel graphics" >}}.
+But what if we want to get really exotic? Here's a <del>crazy</del> neat idea based on [a Python library](https://github.com/asciimoo/drawille/) that came up on [/r/programming](http://www.reddit.com/r/programming/comments/263opn/drawille_pixel_graphics_in_a_terminal_using/) a bit back: [[wiki:Braille|Braille pixel graphics]]().
 
-Basically, we have a set of Unicode codepoints that are assigned to Braille (0x2800-0x28FF), known as {{< wikipedia "Braille Patterns" >}}. With the extended set, there exists a character for every possible combination of up to 8 dots in a 2x4 grid. There's one main oddity, in that the dots aren't ordered in a purely row major or column major order. Instead, they're more like this:
+Basically, we have a set of Unicode codepoints that are assigned to Braille (0x2800-0x28FF), known as [[wiki:Braille Patterns]](). With the extended set, there exists a character for every possible combination of up to 8 dots in a 2x4 grid. There's one main oddity, in that the dots aren't ordered in a purely row major or column major order. Instead, they're more like this:
 
 {{< figure src="/embeds/2014/braille-dot-numbering.png" >}}[^3]
 
@@ -141,6 +141,6 @@ And that's all there is to it. It's wicked fast too (honestly, the actual printi
 
 Still, that's good for a day. As always, the code is on GitHub: [braille-images.rkt](https://github.com/jpverkamp/small-projects/blob/master/blog/braille-images.rkt). Enjoy!
 
-[^1]: source: {{< wikipedia "cowsay" >}}
-[^2]: source: {{< wikipedia page="File:AAlib-zebra.png" text="AALib" >}}
-[^3]: {{< wikipedia page="File:Braille8dotCellNumbering.svg" text="source" >}}
+[^1]: source: [[wiki:cowsay]]()
+[^2]: source: [[wiki:File:AAlib-zebra.png|AALib]]()
+[^3]: [[wiki:File:Braille8dotCellNumbering.svg|source]]()

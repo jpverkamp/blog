@@ -18,7 +18,7 @@ programming/topics:
 
 <!--more-->
 
-A fairly standard thing to have to do, ripe for the {{< wikipedia "A* search algorithm" >}}. Which eventually I'll get to, but I'll admit, it wasn't the first algorithm I tried. :smile:
+A fairly standard thing to have to do, ripe for the [[wiki:A* search algorithm]](). Which eventually I'll get to, but I'll admit, it wasn't the first algorithm I tried. :smile:
 
 Let's do this. First, let's assume that we already have a `load` function that returns a map of `(x, y) -> cost` as we've done a number of times before. No matter what algorithm we use, the wrapping code is going to be the same:
 

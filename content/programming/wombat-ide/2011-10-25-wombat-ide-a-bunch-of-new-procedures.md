@@ -34,7 +34,7 @@ I've added a bunch of new procedures today, mostly to improve compatibility with
 ```
 
 
-* `{{< wikipedia page="Fold (higher-order function)" text="fold-left" >}}` - perform formulaic recursive procedures on lists from, see the linked Wikipedia article for more details
+* `[[wiki:Fold (higher-order function)|fold-left]]()` - perform formulaic recursive procedures on lists from, see the linked Wikipedia article for more details
 
 
 ```scheme
@@ -46,7 +46,7 @@ I've added a bunch of new procedures today, mostly to improve compatibility with
 ```
 
 
-* `{{< wikipedia page="Fold (higher-order function)" text="fold-right" >}}` - similar to `fold-left` with the arguments reversed
+* `[[wiki:Fold (higher-order function)|fold-right]]()` - similar to `fold-left` with the arguments reversed
 
 
 ```scheme

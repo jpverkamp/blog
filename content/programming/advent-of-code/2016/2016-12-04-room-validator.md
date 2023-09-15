@@ -77,7 +77,7 @@ print('sum of valid ids:', valid_sector_id_sum)
 
 And we're good to go.
 
-> **Part 2:** Decrypt the 'real name' of each room by applying a {{< wikipedia "Caesar cipher" >}} with the sector ID. Find the ID containing 'North Pole objects'.
+> **Part 2:** Decrypt the 'real name' of each room by applying a [[wiki:Caesar cipher]]() with the sector ID. Find the ID containing 'North Pole objects'.
 
 What exactly a 'North Pole object' is isn't yet clear, but we can write the decryption function easily enough:
 
@@ -95,7 +95,7 @@ def decrypt(name, key):
     return ''.join(map(shift, name))
 ```
 
-Since {{< wikipedia ASCII >}} characters don't start with `a = 0` or `a = 1` (but rather `a = 97`), we have to offset the characters by that much before applying the subtraction modulo 26. It works though:
+Since [[wiki:ASCII]]() characters don't start with `a = 0` or `a = 1` (but rather `a = 97`), we have to offset the characters by that much before applying the subtraction modulo 26. It works though:
 
 ```python
 >>> decrypt('qzmt-zixmtkozy-ivhz', 343)

@@ -7,7 +7,7 @@ programming/languages:
 programming/topics:
 - Networks
 ---
-A recent post on Reddit caught my attention: <a href="https://www.reddit.com/r/Python/comments/2m6d4z/a_one_line_echo_server_using_let_in_python/">A “One” Line Echo Server Using “let” in Python</a> (<a href="http://sigusr2.net/one-line-echo-server-using-let-python.html">original article</a>). The basic idea is that you can use Python's `lambda` with default arguments as a `let`, which in turn allows you to write a simple {{< wikipedia "echo server" >}} in ~~one line~~ a nicely functional style.
+A recent post on Reddit caught my attention: <a href="https://www.reddit.com/r/Python/comments/2m6d4z/a_one_line_echo_server_using_let_in_python/">A “One” Line Echo Server Using “let” in Python</a> (<a href="http://sigusr2.net/one-line-echo-server-using-let-python.html">original article</a>). The basic idea is that you can use Python's `lambda` with default arguments as a `let`, which in turn allows you to write a simple [[wiki:echo server]]() in ~~one line~~ a nicely functional style.
 
 <!--more-->
 

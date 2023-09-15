@@ -9,7 +9,7 @@ programming/topics:
 - Mathematics
 - Number Theory
 ---
-Mathematicians are an odd bunch. Names for just about everyhing. There are {{< wikipedia page="Amicable number" text="amicable numbers" >}} and {{< wikipedia "perfect number" >}}, {{< wikipedia "sociable number" >}} and {{< wikipedia page="Betrothed number" text="betrothed numbers" >}}. There are {{< wikipedia "sublime number" >}}, {{< wikipedia "frugal number" >}}, and {{< wikipedia "quasiperfect number" >}}. Heck, there are {{< wikipedia "powerful number" >}}, {{< wikipedia "smooth number" >}}, and even {{< wikipedia page="Sphenic number" text="sphenic numbers" >}}. Rather a lot to deal with all told... So let's just focus on two of them: {{< wikipedia page="Perfect number" text="perfect numbers" >}} and {{< wikipedia page="Amicable number" text="amicable numbers" >}}.
+Mathematicians are an odd bunch. Names for just about everyhing. There are [[wiki:Amicable number|amicable numbers]]() and [[wiki:perfect number]](), [[wiki:sociable number]]() and [[wiki:Betrothed number|betrothed numbers]](). There are [[wiki:sublime number]](), [[wiki:frugal number]](), and [[wiki:quasiperfect number]](). Heck, there are [[wiki:powerful number]](), [[wiki:smooth number]](), and even [[wiki:Sphenic number|sphenic numbers]](). Rather a lot to deal with all told... So let's just focus on two of them: [[wiki:Perfect number|perfect numbers]]() and [[wiki:Amicable number|amicable numbers]]().
 
 <!--more-->
 

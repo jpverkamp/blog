@@ -19,7 +19,7 @@ Let's do it!
 
 ## 11) Suprematism
 
-Wikipedia: {{<wikipedia "Suprematism">}}
+Wikipedia: [[wiki:Suprematism]]()
 
 <!--more-->
 

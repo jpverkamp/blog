@@ -65,7 +65,7 @@ If/when I can figure out how to configure those to use SOCKS5[^justworks], I can
 
 ## Setting up a TOR proxy
 
-Next up, we can use a TOR proxy. If you absolutely need a guarantee that none of your traffic is going to leak your identity (for any number of reasons), this is probably not the way you want to go. If that's the case, you should at least be running the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en). Or even better yet, run [Tails](https://tails.boum.org/) in a {{< wikipedia "virtual machine" >}} on a {{< wikipedia "burner laptop" >}}.
+Next up, we can use a TOR proxy. If you absolutely need a guarantee that none of your traffic is going to leak your identity (for any number of reasons), this is probably not the way you want to go. If that's the case, you should at least be running the [Tor Browser](https://www.torproject.org/projects/torbrowser.html.en). Or even better yet, run [Tails](https://tails.boum.org/) in a [[wiki:virtual machine]]() on a [[wiki:burner laptop]]().
 
 However, if you're just looking for a basic / better than nothing level of anonymity--which I generally use for testing things that should be restricted to internal networks or behave differently on externals ones.
 
@@ -89,7 +89,7 @@ Likewise for TOR:
 
 {{< figure src="/embeds/2018/proxy-switchyomega-tor.png" >}}
 
-One thing that I particularly enjoy about Proxy SwitchOmega is the ability to dynamically choose proxies based on hostname. For example, if I wanted to visit a {{< wikipedia ".onion" >}} domain (only available via Tor), I could set up a rule like this:
+One thing that I particularly enjoy about Proxy SwitchOmega is the ability to dynamically choose proxies based on hostname. For example, if I wanted to visit a [[wiki:.onion]]() domain (only available via Tor), I could set up a rule like this:
 
 {{< figure src="/embeds/2018/proxy-switchyomega-onion.png" >}}
 

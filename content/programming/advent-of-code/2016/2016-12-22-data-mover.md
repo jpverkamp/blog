@@ -10,7 +10,7 @@ series:
 ---
 ### Source: [Grid Computing](http://adventofcode.com/2016/day/22)
 
-> **Part 1:** You are given a grid of nodes and the output of the {{< wikipedia page="DF (unix)" text="df command" >}} telling you how much space is on each. How many pairs of nodes are there where the data from some node `A` would fit entirely on `B`?
+> **Part 1:** You are given a grid of nodes and the output of the [[wiki:DF (unix)|df command]]() telling you how much space is on each. How many pairs of nodes are there where the data from some node `A` would fit entirely on `B`?
 
 <!--more-->
 
@@ -56,7 +56,7 @@ print('{} viable pairs'.format(len(viable_pairs)))
 
 This is actually quite a bit harder than you might at first guess, especially if you don't read the huge hint they give you when given a smaller example.
 
-If you don't use the hint, you might want to try a {{< wikipedia "brute force" >}} {{< wikipedia "breadth first search" >}}:
+If you don't use the hint, you might want to try a [[wiki:brute force]]() [[wiki:breadth first search]]():
 
 ```python
 initial_state = (copy.deepcopy(usage), (max_x, 0), 0)

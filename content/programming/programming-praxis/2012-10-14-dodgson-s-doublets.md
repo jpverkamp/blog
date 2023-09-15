@@ -13,7 +13,7 @@ slug: dodgsons-doublets
 ---
 Today we have [doublets source code](https://github.com/jpverkamp/small-projects/blob/master/blog/doublets.rkt), [dictionary source code](https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/dictionary.rkt), [queue source code](https://github.com/jpverkamp/small-projects/blob/master/racket-libraries/queue.rkt).
 
-Using the same source code as the previous two posts ([here]({{< ref "2012-10-11-squaring-the-bishop.md" >}}) and [here]({{< ref "2012-10-13-word-cubes.md" >}}), described originally [here]({{< ref "2012-10-11-dictionary-tries-in-racket.md" >}})) for the dictionary, the code is a pretty straight forward case of using {{< wikipedia "recursion" >}} to do {{< wikipedia "backtracking" >}}. Basically, try all of the possible next words one letter different. Whenever you find a dead end, back up and try a different path. Something like this:
+Using the same source code as the previous two posts ([here]({{< ref "2012-10-11-squaring-the-bishop.md" >}}) and [here]({{< ref "2012-10-13-word-cubes.md" >}}), described originally [here]({{< ref "2012-10-11-dictionary-tries-in-racket.md" >}})) for the dictionary, the code is a pretty straight forward case of using [[wiki:recursion]]() to do [[wiki:backtracking]](). Basically, try all of the possible next words one letter different. Whenever you find a dead end, back up and try a different path. Something like this:
 
 ```scheme
 ; find the path between two words, changing one letters at a time

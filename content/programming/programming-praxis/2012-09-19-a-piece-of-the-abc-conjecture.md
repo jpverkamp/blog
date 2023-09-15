@@ -9,7 +9,7 @@ programming/sources:
 programming/topics:
 - Mathematics
 ---
-There's been a bit of hubbub in the in the math world the last few weeks with {{< wikipedia page="Shinichi Mochizuki" text="Shinichi Mochizuki's" >}} 500 page proof that of the {{< wikipedia "ABC conjecture" >}}. Basically, the conjecture states that given three positive coprime integers *a*, *b*, and *c* such that *a* + *b* = *c*, the product of the distinct prime factors of *a*, *b*, and *c* is rarely much smaller than *c*. While this may sound strange, there are a number of interesting consequences that you can read about {{< wikipedia page="Abc conjecture#Some consequences" text="here" >}}.
+There's been a bit of hubbub in the in the math world the last few weeks with [[wiki:Shinichi Mochizuki|Shinichi Mochizuki's]]() 500 page proof that of the [[wiki:ABC conjecture]](). Basically, the conjecture states that given three positive coprime integers *a*, *b*, and *c* such that *a* + *b* = *c*, the product of the distinct prime factors of *a*, *b*, and *c* is rarely much smaller than *c*. While this may sound strange, there are a number of interesting consequences that you can read about [[wiki:Abc conjecture#Some consequences|here]]().
 
 To make a long story shorter, there was a challenge on <a href="http://programmingpraxis.com/2012/09/18/abc-conjecture/" title="ABC Conjecture">Programming Praxis</a> that intrigued me, which was to write code that given a upper bound on *c* would generate a list of all of the triples *(a, b, c)* such that the product is larger.
 

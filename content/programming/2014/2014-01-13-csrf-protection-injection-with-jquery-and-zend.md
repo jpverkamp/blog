@@ -10,7 +10,7 @@ programming/topics:
 - Security
 - Web Development
 ---
-{{< wikipedia page="Csrf" text="Cross-site request forgery" >}} attacks are among the most common vulnerabilities against websites, listed as <a href="https://www.owasp.org/index.php/Top_10_2013-A8-Cross-Site_Request_Forgery_(CSRF)">number 8</a> on <a href="https://www.owasp.org/index.php/Top_10_2013-Top_10">OWASP's 2013 Top 10 list</a>.
+[[wiki:Csrf|Cross-site request forgery]]() attacks are among the most common vulnerabilities against websites, listed as <a href="https://www.owasp.org/index.php/Top_10_2013-A8-Cross-Site_Request_Forgery_(CSRF)">number 8</a> on <a href="https://www.owasp.org/index.php/Top_10_2013-Top_10">OWASP's 2013 Top 10 list</a>.
 
 <!--more-->
 

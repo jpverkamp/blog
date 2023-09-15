@@ -113,7 +113,7 @@ $ cat input.txt | python3 duplification-detector.py
 
 1 done! 24 to go...
 
-[^shebang]: It's funny because {{< wikipedia "shebang (unix)" >}}.
+[^shebang]: It's funny because [[wiki:shebang (unix)]]().
 
 [^proveit]: It's not actually guaranteed to even terminate. Consider the input that is just the number 1.
 

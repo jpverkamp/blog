@@ -5,7 +5,7 @@ programming/languages:
 - Scheme
 slug: expandingl-systems
 ---
-An {{< wikipedia page="L-systems" text="L-system" >}} is essentially a set of rewriting rules that turns a simple set of rules into a complex pattern. They're generally used for generating self-similar fractals, including plant life, but I've also seen them used in programming languages research where they can generate valid programs given the grammar of a language. They're also rather similar to [turtle graphics]({{< ref "2012-04-13-wombat-ide-turtle-graphics.md" >}}) in that many of the sample graphics that I've [generated in the past]({{< ref "2012-04-13-wombat-ide-turtle-graphics.md" >}}) are based directly off the {{< wikipedia page="L-systems" text="L-systems page" >}} on Wikipedia. So this time I've decided to work on a relatively simple macro that can be used to expand simple L-systems.
+An [[wiki:L-systems|L-system]]() is essentially a set of rewriting rules that turns a simple set of rules into a complex pattern. They're generally used for generating self-similar fractals, including plant life, but I've also seen them used in programming languages research where they can generate valid programs given the grammar of a language. They're also rather similar to [turtle graphics]({{< ref "2012-04-13-wombat-ide-turtle-graphics.md" >}}) in that many of the sample graphics that I've [generated in the past]({{< ref "2012-04-13-wombat-ide-turtle-graphics.md" >}}) are based directly off the [[wiki:L-systems|L-systems page]]() on Wikipedia. So this time I've decided to work on a relatively simple macro that can be used to expand simple L-systems.
 
 <!--more-->
 

@@ -6,7 +6,7 @@ programming/languages:
 programming/sources:
 - Programming Praxis
 ---
-<a title="Minimum Scalar Product" href="http://programmingpraxis.com/2012/08/10/minimum-scalar-product/">Another post</a> from Programming Praxis, this time we're to figure out what is the minimum {{< wikipedia "scalar product" >}} of two {{< wikipedia page="Vector (mathematics and physics)" text="vectors" >}}. Basically, you want to rearrange two given lists a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub> and b<sub>1</sub>, b<sub>2</sub>, ..., b<sub>n</sub> such that a<sub>1</sub>b<sub>1</sub> + a<sub>2</sub>b<sub>2</sub> + ... + a<sub>n</sub>b<sub>n</sub> is minimized.
+<a title="Minimum Scalar Product" href="http://programmingpraxis.com/2012/08/10/minimum-scalar-product/">Another post</a> from Programming Praxis, this time we're to figure out what is the minimum [[wiki:scalar product]]() of two [[wiki:Vector (mathematics and physics)|vectors]](). Basically, you want to rearrange two given lists a<sub>1</sub>, a<sub>2</sub>, ..., a<sub>n</sub> and b<sub>1</sub>, b<sub>2</sub>, ..., b<sub>n</sub> such that a<sub>1</sub>b<sub>1</sub> + a<sub>2</sub>b<sub>2</sub> + ... + a<sub>n</sub>b<sub>n</sub> is minimized.
 
 <!--more-->
 

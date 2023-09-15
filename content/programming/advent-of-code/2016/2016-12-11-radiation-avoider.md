@@ -27,7 +27,7 @@ series:
 
 <!--more-->
 
-Plan of attack: create a simulation and the perform a {{< wikipedia "breadth first search" >}} to find the fastest solution. This might have issues depending on how large the solution space is, but we can start with this.
+Plan of attack: create a simulation and the perform a [[wiki:breadth first search]]() to find the fastest solution. This might have issues depending on how large the solution space is, but we can start with this.
 
 First, represent the microchips and generators:
 
@@ -180,7 +180,7 @@ with open(args.input, 'r') as fin:
     initial_state = State(floors)
 ```
 
-And the actual {{< wikipedia "breadth first search" >}}:
+And the actual [[wiki:breadth first search]]():
 
 ```python
 # Use a BFS to find the fastest solution
@@ -274,5 +274,5 @@ def __repr__(self):
 
 The trick here is apply a regex with a function (`ordered_rewrite`) that will rewrite each element with a number based on the order they appear in the string. This requires that Python's regex engine does replacements in the same order all the time, but that does actually work out. Using this, the solution is still relatively slow, but I did finally get an actual answer.
 
-[^xcom]: I love {{< wikipedia page="X-COM" text="that game" >}}.
-[^startrek]: A pretty {{< wikipedia page="Star Trek" text="good show" >}} too.
+[^xcom]: I love [[wiki:X-COM|that game]]().
+[^startrek]: A pretty [[wiki:Star Trek|good show]]() too.

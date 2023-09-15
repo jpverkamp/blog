@@ -109,7 +109,7 @@ It also works perfectly well for non-floupian currency:
 '((1 2 20 100) ())
 ```
 
-Heck, if you wanted, you could even use {{< wikipedia page="Money in harry potter#Economy" text="Knuts, Sickles, and Galleons" >}}!
+Heck, if you wanted, you could even use [[wiki:Money in harry potter#Economy|Knuts, Sickles, and Galleons]]()!
 
 ```scheme
 > (define harry-potter (make-coinage '(1 17 493)))

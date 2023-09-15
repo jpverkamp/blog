@@ -20,7 +20,7 @@ Source files are translated into static HTML via my custom blog generator: <a hr
 
 Files are deployed to a GitHub pages repo: <a href="https://github.com/jpverkamp/jpverkamp.github.io">github:jpverkamp/jpverkamp.github.io</a>, which you used to be able to directly access in the browser at <a href="http://jpverkamp.github.io">jpverkamp.github.io</a>[^4]
 
-CloudFlare handles my DNS, with a {{< wikipedia "CNAME" >}} directing `blog.jverkamp.com` to `jpverkamp.github.io`:
+CloudFlare handles my DNS, with a [[wiki:CNAME]]() directing `blog.jverkamp.com` to `jpverkamp.github.io`:
 
 {{< figure src="/embeds/2015/cloudflare-options.png" >}}
 
@@ -37,6 +37,6 @@ I only had one hiccup transferring my DNS entries to CloudFlare (it missed email
 If you haven't given it a try, check it out! Between CloudFlare and now Let's Encrypt, there's really no good reason you shouldn't be encrypting just about everything.
 
 [^1]: I would be surprised if anyone actually noticed; it's a blog.
-[^2]: {{< wikipedia "TINSTAAFL" >}}. I'm already very near the capacity of their free tier. But for the moment, it works.
+[^2]: [[wiki:TINSTAAFL]](). I'm already very near the capacity of their free tier. But for the moment, it works.
 [^3]: I'm getting that itch to completely rewrite it again though...
 [^4]: This is no longer possible because of the automatic protocol upgrade CloudFlare does.

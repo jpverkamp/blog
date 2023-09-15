@@ -167,5 +167,5 @@ CMD uwsgi -s /tmp/uwsgi.sock -w project:app --chown-socket=www-data:www-data --e
 It's for moments like these that I do software. That little moment when everything comes together just right and it all just ... works.
 
 [^1]: The tighter spikes are when I was playing with the health check timeout to see if that would help
-[^2]: See {{< wikipedia "HTTP 418" >}}
+[^2]: See [[wiki:HTTP 418]]()
 [^3]: I really want to implement that properly one day

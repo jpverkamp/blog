@@ -296,7 +296,7 @@ West
 took 231.958µs
 ```
 
-Why yes. That is the {{<wikipedia kanji>}} for tree. :smile: I used 一 'one' mostly to contrast with it. 
+Why yes. That is the [[wiki:kanji]]() for tree. :smile: I used 一 'one' mostly to contrast with it. 
 
 ## Part 2
 

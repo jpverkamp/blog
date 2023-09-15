@@ -42,7 +42,7 @@ cpu time: 4071 real time: 4111 gc time: 2243
 
 As hinted at in the problem statement though, we can do better. 
 
-First of all, we don't have to recalculate factors. We're going to be calculating a lot of factors, each of which depends on others in turn. So let's take a hint from {{< wikipedia "dynamic programming" >}} and {{< wikipedia "memoization" >}} and keep a hash around of all the values we've factored thus far. Something like this:
+First of all, we don't have to recalculate factors. We're going to be calculating a lot of factors, each of which depends on others in turn. So let's take a hint from [[wiki:dynamic programming]]() and [[wiki:memoization]]() and keep a hash around of all the values we've factored thus far. Something like this:
 
 ```scheme
 ; Memoized version of prime factorization

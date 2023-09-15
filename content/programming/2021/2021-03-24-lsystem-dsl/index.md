@@ -7,7 +7,7 @@ programming/topics:
 programming/languages:
 - Ruby
 ---
-{{< wikipedia "L-Systems" >}} are pretty awesome. With only a bare few rules, you can turn something like this:
+[[wiki:L-Systems]]() are pretty awesome. With only a bare few rules, you can turn something like this:
 
 ```ruby
 LSystem.new("Barnsley Fern") do

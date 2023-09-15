@@ -21,7 +21,7 @@ This is going to be a hard one[^1]. I went with my wife on the suggestion of a f
 
 <!--more-->
 
-Basically, the idea is straight forward enough. The eponymous Jon (well played by {{< wikipedia "Joseph Gordon-Levitt" >}}[^2]) is addicted to porn, but it's just not working for him anymore. Then he meets Barbara ({{< wikipedia "Scarlett Johansson" >}}). The build up in their relationship is somewhat interesting; basically Barbara actually seems interested in making Jon a better person. Unfortunately, it ends up pretty much exactly as you'd expect--she catches him watching porn.
+Basically, the idea is straight forward enough. The eponymous Jon (well played by [[wiki:Joseph Gordon-Levitt]]()[^2]) is addicted to porn, but it's just not working for him anymore. Then he meets Barbara ([[wiki:Scarlett Johansson]]()). The build up in their relationship is somewhat interesting; basically Barbara actually seems interested in making Jon a better person. Unfortunately, it ends up pretty much exactly as you'd expect--she catches him watching porn.
 
 Therein lies my biggest problem with the story. Throughout the entire movie, Jon wants Barbara for her body and Barbara is trying to change Jon to fit her idea of what a man should be. The movie spends an inordinate amount of time trying to convince the viewer that pron is bad, and if only Jon could get away from it, life would be fine. Well, only if you go back to school. And turn your life around. It has all the potential of a good teaching moment... and it just sort of squanders it.
 

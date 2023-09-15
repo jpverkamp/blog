@@ -12,7 +12,7 @@ programming/topics:
 - Memory
 - Virtual Machines
 ---
-Something was bugging me about my proof from yesterday. If we take another tack on proving Turing completeness, all we would have to prove is that we can simulate {{< wikipedia page="Subleq#Subtract and branch if less than or equal to zero" text="`SUBLEQ`" >}}. Since `SUBLEQ` is Turing complete, that's all we need--just convert each `SUBLEQ` into a `SUB`, `JZ`, and a `JLS`. So that means that Tiny as written should be Turing complete.
+Something was bugging me about my proof from yesterday. If we take another tack on proving Turing completeness, all we would have to prove is that we can simulate [[wiki:Subleq#Subtract and branch if less than or equal to zero|`SUBLEQ`]](). Since `SUBLEQ` is Turing complete, that's all we need--just convert each `SUBLEQ` into a `SUB`, `JZ`, and a `JLS`. So that means that Tiny as written should be Turing complete.
 
 So how does that work?
 

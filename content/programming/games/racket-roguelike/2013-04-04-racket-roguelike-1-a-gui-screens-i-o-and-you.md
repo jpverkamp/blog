@@ -14,10 +14,10 @@ slug: racket-roguelike-1-a-gui-screens-io-and-you
 ---
 [Last time]({{< ref "2013-03-28-writing-a-roguelike-in-racket-day-0.md" >}}), we started with writing the ascii canvas we'll use as our GUI. Now we get to start the tutorial itself. Toady we have a four part goal:
 
-* Create the initial {{< wikipedia page="Graphical user interface" text="GUI" >}}, including an [ascii-canvas]({{< ref "2013-03-28-writing-a-roguelike-in-racket-day-0.md" >}})
+* Create the initial [[wiki:Graphical user interface|GUI]](), including an [ascii-canvas]({{< ref "2013-03-28-writing-a-roguelike-in-racket-day-0.md" >}})
 * Create a 'screen' abstraction to handle the current game state (menus, inventory, and the game itself)
 * Deal with input from the user and changing between screens
-* Draw an @ on the screen that can move around (the Roguelike equivalent of {{< wikipedia "hello world" >}})
+* Draw an @ on the screen that can move around (the Roguelike equivalent of [[wiki:hello world]]())
 
 So let's get to it!
 

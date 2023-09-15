@@ -15,11 +15,11 @@ programming/topics:
 
 ## Part 1
 
-> Given input as a list of characters, find the index of the first {{<wikipedia "sliding window">}} (size 4) where all of the characters are distinct.
+> Given input as a list of characters, find the index of the first [[wiki:sliding window]]() (size 4) where all of the characters are distinct.
 
 <!--more-->
 
-This sounds like a perfect excuse for a {{<wikipedia "ring buffer">}}. Let's implement one!
+This sounds like a perfect excuse for a [[wiki:ring buffer]](). Let's implement one!
 
 ```rust
 #[derive(Debug)]
@@ -104,7 +104,7 @@ fn first_duplicate_at(line: &String, size: usize) -> Option<usize> {
 
 That's not bad at all. I would have liked to have something like [`itertools.all_unique`](https://docs.rs/itertools/latest/itertools/trait.Itertools.html#method.all_unique), but not enough to actually pull in an external crate. Perhaps another time, this does the same. 
 
-Finally, we do always assume the input is value and we'll have a value, but I'm going to return an `Option` anyways, since otherwise what do we return at the end? We could do a {{<wikipedia "sentinel value">}}... but that's why `Option` exists in the first place. 
+Finally, we do always assume the input is value and we'll have a value, but I'm going to return an `Option` anyways, since otherwise what do we return at the end? We could do a [[wiki:sentinel value]]()... but that's why `Option` exists in the first place. 
 
 With that, one more wrapper to support reading any number of lines and processing them:
 

@@ -11,7 +11,7 @@ programming/topics:
 series:
 - Runelang in the Browser
 ---
-Let's {{<wikipedia page="Lexical_analysis" text="LEX">}}!
+Let's [[wiki:Lexical_analysis|LEX]]()!
 
 So this is actually one of the easier parts of a programming language. In this case, we need to turn the raw text of a program into a sequence of tokens / lexemes that will be easier to parse. In this case, we want to:
 

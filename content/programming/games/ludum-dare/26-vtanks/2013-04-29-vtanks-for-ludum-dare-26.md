@@ -22,9 +22,9 @@ In the end, I did it in six.
 
 For anyone unfamiliar, the goal of Ludum Dare is to take a theme and make a game. The rules are <a title="Ludum Dare competition rules" href="http://www.ludumdare.com/compo/rules/">here</a>, but basically you have 48 hours to write everything from scratch (code, music, and graphics) and create an entire game around a theme. This time around? The theme is minimalism. A bit strange of a theme--doesn't every Ludum Dare tend towards minimalism of necessity?--but it seems like a decent first chance.
 
-I had a few ideas. Perhaps something based on {{< wikipedia page="Conway's game of life" text="Conway's Game of Life" >}}, maybe a platformer. Perhaps something based on particle systems (like my old Sandbox code, I should work on that some day...). Or perhaps the idea I finally with, let's make a version of {{< wikipedia page="Scorched Earth (computer game)" text="Scorched Earth" >}}.
+I had a few ideas. Perhaps something based on [[wiki:Conway's game of life|Conway's Game of Life]](), maybe a platformer. Perhaps something based on particle systems (like my old Sandbox code, I should work on that some day...). Or perhaps the idea I finally with, let's make a version of [[wiki:Scorched Earth (computer game)|Scorched Earth]]().
 
-Basically, you have a tank. You can control the angle and power of your cannon and you're trying to destroy the other tanks. Perhaps a more modern version would be {{< wikipedia page="Worms (computer game)" text="Worms" >}}, there have been a few of those.
+Basically, you have a tank. You can control the angle and power of your cannon and you're trying to destroy the other tanks. Perhaps a more modern version would be [[wiki:Worms (computer game)|Worms]](), there have been a few of those.
 
 Next, an art style. To make it minimal, we'll just have vector graphics. None of those fancy, schmancy pixel graphics the original game with[^1], just straight boring lines.
 

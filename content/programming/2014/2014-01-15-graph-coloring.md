@@ -14,7 +14,7 @@ Here's <a href="http://www.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_c
 
 > ... Your goal is to color a map of these regions with two requirements: 1) make sure that each adjacent department do not share a color, so you can clearly distinguish each department, and 2) minimize these numbers of colors.
 
-Essentially, {{< wikipedia "graph coloring" >}}.
+Essentially, [[wiki:graph coloring]]().
 
 <!--more-->
 
@@ -40,7 +40,7 @@ Of course we'll go ahead and use the [yesterday's post]({{< ref "2014-01-14-grap
   g)
 ```
 
-After that, we have to figure out what strategy we want to use to color the graph. It turns out that even determining how many colors the best coloring would need is hard[^1]. That means that a perfect solution is going to be slow, especially as the problem gets bigger. So how about instead we start out with a very basic {{< wikipedia "greedy algorithm" >}} and go from there.
+After that, we have to figure out what strategy we want to use to color the graph. It turns out that even determining how many colors the best coloring would need is hard[^1]. That means that a perfect solution is going to be slow, especially as the problem gets bigger. So how about instead we start out with a very basic [[wiki:greedy algorithm]]() and go from there.
 
 Idea the first: Iterate through the nodes of the graph, coloring each one in turn. Use the first available color that hasn't already been assigned.
 
@@ -142,7 +142,7 @@ That's pretty shiny. With just a hundred random trials, we've found a two colori
 
 Still, we should be able to do better.
 
-<a href="http://www.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_challenge_130_hard_coloring_frances/ceb58ch">One interesting comment</a> from the original problem brings up some work from {{< wikipedia page="Daniel Brélaz" text="Daniel Brélaz" >}}. Essentially, you repeatedly pick the node that has the most already colored neighbors (those will be the hardest to color), breaking ties by the most uncolored neighbors (most likely to need a new color). The way I'll be implementing that is by assigning a 'brélaz-number' to each node:
+<a href="http://www.reddit.com/r/dailyprogrammer/comments/1tj0kl/122313_challenge_130_hard_coloring_frances/ceb58ch">One interesting comment</a> from the original problem brings up some work from [[wiki:Daniel Brélaz|Daniel Brélaz]](). Essentially, you repeatedly pick the node that has the most already colored neighbors (those will be the hardest to color), breaking ties by the most uncolored neighbors (most likely to need a new color). The way I'll be implementing that is by assigning a 'brélaz-number' to each node:
 
 {{< latex >}}brelaz(n) = |G| coloredNeighbors(n) + uncoloredNeighbors(n){{< /latex >}}
 
@@ -240,9 +240,9 @@ Hmm. Let's see if Brélaz can do better:
 4
 ```
 
-That's much better! And given the {{< wikipedia "four color theorem" >}}[^3], that should be an upper bound. Unfortunately, it doesn't seem that the random coloring is doing any better (at least with my random number generator). Even with 100,000 iterations, the best that it found was 5.
+That's much better! And given the [[wiki:four color theorem]]()[^3], that should be an upper bound. Unfortunately, it doesn't seem that the random coloring is doing any better (at least with my random number generator). Even with 100,000 iterations, the best that it found was 5.
 
-But... what if we want to do it perfectly? Well, if we go through *every* coloring, we're guaranteed to find a correctly solution. Of course in {{< wikipedia page="Big-oh" text="Big O notation" >}}, that's {{< inline-latex "O(n!)" >}} which basically is as good as forever... Still, we might as well write the code<footnote>Plus it gives me an excuse to play with Racket's {{< doc racket "generators" >}}!). :smile:
+But... what if we want to do it perfectly? Well, if we go through *every* coloring, we're guaranteed to find a correctly solution. Of course in [[wiki:Big-oh|Big O notation]](), that's {{< inline-latex "O(n!)" >}} which basically is as good as forever... Still, we might as well write the code<footnote>Plus it gives me an excuse to play with Racket's {{< doc racket "generators" >}}!). :smile:
 
 ```scheme
 ; Try every possible coloring (this is crazy slow)
@@ -354,6 +354,6 @@ And there you have it. Graph coloring / visualization. I think it's one of my fa
 
 The source code is on GitHub, if you'd like to check it out: <a href="https://github.com/jpverkamp/small-projects/blob/master/blog/graph-coloring.rkt">graph-coloring.rkt</a>
 
-[^1]: Technically, {{< wikipedia "NP-complete" >}}, as noted in {{< wikipedia page="Karp's 21 NP-complete problems" text="Karp's 1972 list of 21 NP-complete problems" >}}
+[^1]: Technically, [[wiki:NP-complete]](), as noted in [[wiki:Karp's 21 NP-complete problems|Karp's 1972 list of 21 NP-complete problems]]()
 [^2]: Exercise for the reader: prove this :smile:
 [^3]: And assuming that there aren't any discontinuous regions, which I don't think is actually the case...
