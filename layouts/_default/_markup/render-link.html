@@ -1,0 +1,30 @@
+{{-
+if or (and (strings.HasPrefix .PlainText "[") (strings.HasSuffix .PlainText "]"))
+      (and (strings.HasPrefix .Destination "[") (strings.HasSuffix .Destination "]"))
+-}}
+    {{- /*
+        Crosslink of the form:
+            [[Title]]()
+            [Text]([Title])
+    */ -}}
+
+    {{- $scratch := newScratch -}}
+    {{- $title := replace (trim (or .Destination .PlainText) "[]") "&rsquo;" "'"  -}}
+    {{- $text := trim .PlainText "[]" | safeHTML }}
+
+    {{- $scratch.Set "crosslink-written" false -}}
+
+    {{- range $page := .Page.Site.AllPages -}}
+        {{- if (and (not ($scratch.Get "crosslink-written")) (eq $page.Title $title)) -}}
+            <a href="{{ $page.Permalink }}">{{ $text }}</a>
+            {{- $scratch.Set "crosslink-written" true -}}
+        {{- end -}}
+    {{- end -}}
+
+    {{- if (not ($scratch.Get "crosslink-written")) -}}
+    {{ errorf "Failed to generate markdown crosslink for title: %q, text: %q" $title $text }}
+    {{- end -}}
+
+{{- else -}}
+    <a href="{{ .Destination }}"{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener"{{ end }}>{{ .Text }}</a>
+{{- end -}}
