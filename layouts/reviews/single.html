@@ -3,9 +3,9 @@
 {{ end }}
 
 {{- define "main" -}}
-<article>
+<article data-pagefind-body>
 	<header>
-		<h1 class="entry-title">
+		<h1 class="entry-title" data-pagefind-meta="title">
             {{ if not (index .Params "is_review_meta") }}Review:{{ end }} {{ .Title -}}       
         </h1>
 

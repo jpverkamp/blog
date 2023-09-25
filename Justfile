@@ -1,9 +1,11 @@
 LAST_COMMIT := `git log -1 --pretty=%B | head -n 1`
 
 run baseURL="localhost":
+	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
 	hugo server --baseURL {{baseURL}} --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
 
 debug baseURL="localhost":
+	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
 	hugo server --baseURL {{baseURL}} --watch --verbose --buildFuture --buildDrafts --bind 0.0.0.0 --port 80 --debug
 
 import-flickr:
@@ -27,6 +29,7 @@ build:
 	cd public; git wipe; git pull --rebase --prune; git submodule update --init --recursive
 	
 	hugo --minify
+	npx pagefind --site "public"
 
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
