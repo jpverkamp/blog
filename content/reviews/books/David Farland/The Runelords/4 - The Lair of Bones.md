@@ -8,6 +8,7 @@ reviews/series:
 reviews/authors:
 - David Farland
 goodreads_id: 144110
+cover: /embeds/books/the-lair-of-bones.jpg
 isbn: 0671029517
 isbn13: '9780671029517'
 rating: 5

@@ -21,7 +21,7 @@ rating: 4
 page_count: 195
 series_index: [1]
 ---
-> You must understand how I felt then, how the surveyor must have felt: We > were scientists, trained to observe natural phenomena and the results of > human activity. We had not been trained to encounter what appeared to be the > uncanny. In unusual situations there can be a comfort in the presence of > even someone you think might be your enemy. Now we had come close to the > edges of something unprecedented, and less than a week into our mission we > had lost not just the linguist at the border but our anthropologist and our > psychologist.
+> You must understand how I felt then, how the surveyor must have felt: We were scientists, trained to observe natural phenomena and the results of human activity. We had not been trained to encounter what appeared to be the uncanny. In unusual situations there can be a comfort in the presence of even someone you think might be your enemy. Now we had come close to the edges of something unprecedented, and less than a week into our mission we had lost not just the linguist at the border but our anthropologist and our psychologist.
 
 Now that is a fascinating sort of book. It's essentially a slice of life mixed with cosmic horror. The entire story follows an expedition into the mysterious, alien Area X. There's not really any overarching plot, other than exploring and perhaps surviving... and maybe if you're really really lucky, coming back without going mad.  
 
@@ -31,7 +31,7 @@ If you go in wanting answers--or even to some extent, questions--then you're goi
 
 One of the most interesting parts for me was the complete lack of names for any of the characters. They're always referred to by their jobs.  
 
-> The psychologist had written a name on the envelope; at least, it looked > like her handwriting. The name started with an S. Was it her child’s name? A > friend? A lover? I had not seen a name or heard a name spoken aloud for > months, and seeing one now bothered me deeply. It seemed wrong, as if it did > not belong in Area X. A name was a dangerous luxury here. Sacrifices didn’t > need names. People who served a function didn’t need to be named. In all > ways, the name was a further and unwanted confusion to me, a dark space that > kept growing and growing in my mind.
+> The psychologist had written a name on the envelope; at least, it looked like her handwriting. The name started with an S. Was it her child’s name? A friend? A lover? I had not seen a name or heard a name spoken aloud for months, and seeing one now bothered me deeply. It seemed wrong, as if it did not belong in Area X. A name was a dangerous luxury here. Sacrifices didn’t need names. People who served a function didn’t need to be named. In all ways, the name was a further and unwanted confusion to me, a dark space that kept growing and growing in my mind.
 
 I have a problem with names sometimes, even in my own writing. I find myself writing that way, referring to people by traits or jobs rather than names. I never really realized how disorienting it can get when taking to the extreme. This novel... certainly showed me that.  
 
