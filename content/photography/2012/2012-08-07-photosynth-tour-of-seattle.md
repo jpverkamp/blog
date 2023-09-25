@@ -4,7 +4,7 @@ date: 2012-08-07 17:00:45
 photography/types:
 - Photosynth
 ---
-While I was at [Usenix/FOCI]({{< ref "2012-08-06-usenix-foci-2012.md" >}}), I met up with my parents who were in Portland anyways for a wedding. Since I had Tuesday off from the conference, we decided to explore Seattle. I didn't have my camera with me, but I did have my iPhone, so I decided to play with the (amazing) <a title="iTunes App Store: Photosynt" href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CF8QFjAA&amp;url=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fphotosynth%2Fid430065256%3Fmt%3D8&amp;ei=fqIuUKK2H-KbyQHcq4DICg&amp;usg=AFQjCNHcHlb1n5RnBpJwaOI0zJSjC7vw4w&amp;sig2=KDbGFNYkM3USfjgVmtWjHw">Photosynth app</a>.
+While I was at [Usenix/FOCI]({{< ref "2012-08-06-usenix-foci-2012.md" >}}), I met up with my parents who were in Portland anyways for a wedding. Since I had Tuesday off from the conference, we decided to explore Seattle. I didn't have my camera with me, but I did have my iPhone, so I decided to play with the (amazing) <a title="iTunes App Store: Photosynth" href="http://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CF8QFjAA&amp;url=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fphotosynth%2Fid430065256%3Fmt%3D8&amp;ei=fqIuUKK2H-KbyQHcq4DICg&amp;usg=AFQjCNHcHlb1n5RnBpJwaOI0zJSjC7vw4w&amp;sig2=KDbGFNYkM3USfjgVmtWjHw">Photosynth app</a>.
 
 Yes, it's Microsoft and Apple products working together, but that doesn't mean you can't have fun with it!
 
