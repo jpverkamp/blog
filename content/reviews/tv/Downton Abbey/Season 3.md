@@ -76,6 +76,8 @@ Overall another solid season and I'm looking forward to what happens now!
 
 Per episode reviews. Potential spoilers for the season as a whole. 
 
+{{<toc>}}
+
 ## Episode #3.1
 
 > They're finally getting married!

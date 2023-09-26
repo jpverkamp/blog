@@ -78,6 +78,8 @@ Onward!
 
 Per episode reviews. Potential spoilers for the season as a whole. 
 
+{{<toc>}}
+
 ## Episode 2.1
 And so... war. Brutal away and at home for those that go, those that don't, and those that can't. 
 

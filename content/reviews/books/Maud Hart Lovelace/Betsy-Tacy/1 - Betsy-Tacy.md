@@ -5,7 +5,6 @@ goodreads_id: 7909
 page_count: 144
 rating: 4
 reviews/authors:
-- Lois Lenski
 - Maud Hart Lovelace
 reviews/lists:
 - 2023 Book Reviews

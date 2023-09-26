@@ -86,6 +86,8 @@ Overall, yet another solid season. Like I said, I'm not ready for the end! But a
 
 Episode by episode (potential spoilers, especially for earlier episodes):
 
+{{<toc>}}
+
 ## Episode #5.1
 
 And so we return. Time has passed but less has changed. Edith's not so sneaky, Mary has all the suitors, and life in England changes (slowly). 

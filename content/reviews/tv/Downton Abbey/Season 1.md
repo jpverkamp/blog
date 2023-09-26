@@ -86,6 +86,8 @@ Onward... to war!
 
 Reviews episode by episode. Spoilers within an episode should be minimal, but latter episodes may spoil earlier ones. 
 
+{{<toc>}}
+
 ## Episode 1.1
 
 Oh the politics of a household of servants. Who can do what, who serves who, who knows who from the war… Far more of them than there are of the family, so of course everything is far more complicated. 
