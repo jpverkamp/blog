@@ -22,7 +22,7 @@ Clive Cussler's {{< goodreads series="Dirk Pitt" >}} and {{< goodreads series="N
 
 <!--more-->
 
-{{< goodreads book="Pacific Vortex!" >}} is a bit of an odd duck, being the first Dirk Pitt novel chronologically, but published 6th or so, almost ten years into the series. It's supposed to be a bit weaker and shorter than many of the other books in the series, but I found it to be a lot of fun --with one fairly large gotcha.  
+[[Pacific Vortex!]]() is a bit of an odd duck, being the first Dirk Pitt novel chronologically, but published 6th or so, almost ten years into the series. It's supposed to be a bit weaker and shorter than many of the other books in the series, but I found it to be a lot of fun --with one fairly large gotcha.  
 
 Basically, Dirk Pitt is an American James Bond of the sea. He's an air force major permanently transferred to NUMA, the originally fictional[^NUMA] [National Underwater and Marine Agency](https://en.wikipedia.org/wiki/National_Underwater_and_Marine_Agency). Somewhat a product of his times (the 70s and 80s), he's a ridiculous, chauvinistic (in both the patriotic and sexist definitions), misogynistic, pulpy, action star manly man... who tries to always do the right thing. He's certainly not the best person in the world, especially by modern standards, but I think he's good enough and makes for a solid action star, which is exactly what's intended of him.  
 

@@ -17,7 +17,7 @@ rating: 5
 page_count: 394
 series_index: [33, 1]
 ---
-At the time of writing this, {{< goodreads book="Going Postal" >}} is tied for the second highest rated Discworld book on Goodreads (tied with {{< goodreads book="Men at Arms" >}} at 4.37, behind {{< goodreads book="Night Watch" >}} at 4.48). There's a reason for this...  
+At the time of writing this, [[Going Postal]]() is tied for the second highest rated Discworld book on Goodreads (tied with [[Men at Arms]]() at 4.37, behind [[Night Watch]]() at 4.48). There's a reason for this...  
 
 Essentially, Going Postal takes a small pile of topics--technical innovation and traditional technology versus the new hotness; conmen and businessmen; the postal service itself--and squishes them together with the wonderful latter book Discworld flair Pratchett is so known for.  
 

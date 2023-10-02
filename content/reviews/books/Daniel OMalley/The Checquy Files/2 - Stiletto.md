@@ -16,7 +16,7 @@ rating: 4
 page_count: 583
 series_index: [2]
 ---
-Well. That was a sequel. Published 4 years after {{< goodreads book="The Rook" >}}, we have a weird combination of following the events of the first book (Stiletto takes place perhaps a few months later as the Checquy and Grafters are coming together for peace meetings) but with two completely new main characters (a Pawn Felicity and a teenager Grafter Odette, descendant of one of the leaders).  
+Well. That was a sequel. Published 4 years after [[The Rook]](), we have a weird combination of following the events of the first book (Stiletto takes place perhaps a few months later as the Checquy and Grafters are coming together for peace meetings) but with two completely new main characters (a Pawn Felicity and a teenager Grafter Odette, descendant of one of the leaders).  
 
 Plotwise, it's an interesting enough story, with two organizations that have been taught from early ages to hate one another for centuries having to come together and at least pretend to play nicely. Throw in a third (ish) party trying to throw a wrench into the situation? You have a pretty solid core for a plot.  
 

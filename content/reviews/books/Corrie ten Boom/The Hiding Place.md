@@ -11,7 +11,7 @@ cover: /embeds/books/the-hiding-place.jpg
 rating: 4
 page_count: 273
 ---
-{{< goodreads book="The Hiding Place" >}} is an interesting book. In a nutshell, it's the most historical account of Corrie ten Boom--a older, unmarried devoutly Christian woman who lived in Holland before, during, and a bit after World War II. It tells the story of how she became the center of one group hiding and getting Jews out of the city and eventually paid the price for it.  
+[[The Hiding Place]]() is an interesting book. In a nutshell, it's the most historical account of Corrie ten Boom--a older, unmarried devoutly Christian woman who lived in Holland before, during, and a bit after World War II. It tells the story of how she became the center of one group hiding and getting Jews out of the city and eventually paid the price for it.  
 
 It's (unfortunately) not a story we haven't heard before, but I don't think I've ever read one from the perspective of a devout Christian. It's interesting to see how her religion drives her decisions, giving her the strength and hope to overcome all manner of problems throughout her life.  
 

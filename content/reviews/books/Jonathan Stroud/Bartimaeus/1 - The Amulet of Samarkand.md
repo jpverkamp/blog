@@ -18,7 +18,7 @@ series_index: [0]
 ---
 > And then, as if written by the hand of a bad novelist, an incredible thing happened.
 
-{{< goodreads book="The Amulet of Samarkand" >}} is a fun book. It feels someone like a grittier Harry Potter, where instead of the bright and shiny flick of a wand, you summon demons. Instead of a fantastic hidden castle in the woods, you have Arthur Underwood--imagine if Harry was tutored throughout his magical career by a slightly more competent Vernon Dursley. And instead of a dark wizard coming to kill you because of an accident of your birth... well, Nathaniel does a pretty good job of bringing trouble down upon his own head.  
+[[The Amulet of Samarkand]]() is a fun book. It feels someone like a grittier Harry Potter, where instead of the bright and shiny flick of a wand, you summon demons. Instead of a fantastic hidden castle in the woods, you have Arthur Underwood--imagine if Harry was tutored throughout his magical career by a slightly more competent Vernon Dursley. And instead of a dark wizard coming to kill you because of an accident of your birth... well, Nathaniel does a pretty good job of bringing trouble down upon his own head.  
 
 <!--more-->
 

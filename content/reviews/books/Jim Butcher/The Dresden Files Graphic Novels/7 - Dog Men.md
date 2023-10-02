@@ -28,7 +28,7 @@ If that applies to anyone, it applies twice over to Dresden.
 
 This is one of the better ones though. Interesting mythology. Yet more ghouls (what is it with all the ghouls) and more Listens-To-Wind!  
 
-That being said, I ... think I accidentally skipped {{< goodreads book="Jim Butcher's The Dresden Files: Wild Card" >}}. Otherwise, I totally missed something. Where'd Puck come from?  
+That being said, I ... think I accidentally skipped [[Wild Card (Graphic Novel)]](). Otherwise, I totally missed something. Where'd Puck come from?  
 
 ![Dog-Men-1-Puck](/embeds/books/attachments/dog-men-1-puck.png)  
 
@@ -38,7 +38,7 @@ But hey, there's still a sense of humor these books are great at:
 
 ![Dog-Men-2-Sense-of-humor](/embeds/books/attachments/dog-men-2-sense-of-humor.png)  
 
-Plus, more Listens-To-Wind is always good. Either here or the battle in {{< goodreads book="Turn Coat" >}} Turn Coat feels out of place though... He's seen Listens-To-Wind shift in both and is impressed in both.  
+Plus, more Listens-To-Wind is always good. Either here or the battle in [[Turn Coat]]() Turn Coat feels out of place though... He's seen Listens-To-Wind shift in both and is impressed in both.  
 
 ![](/embeds/books/attachments/Dog-Men-3-Wolf-Men.png)  
 

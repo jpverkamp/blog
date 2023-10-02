@@ -22,7 +22,7 @@ Carefully. Very very carefully.
 
 <!--more-->
 
-Or you can read {{< goodreads book="Treasure" >}} and find out. As you might guess, it's an absolutely ridiculous book, but at this point, that's pretty much Clive Cussler/Dirk Pitt in a nutshell. Don't read it expecting to make overly much sense. Read it because it's a rollicking adventure novel with a sprinkling of archaeology.  
+Or you can read [[Treasure]]() and find out. As you might guess, it's an absolutely ridiculous book, but at this point, that's pretty much Clive Cussler/Dirk Pitt in a nutshell. Don't read it expecting to make overly much sense. Read it because it's a rollicking adventure novel with a sprinkling of archaeology.  
 
 I think the biggest negative of the book is that there are really two plotlines--the treasure and the revolutions--and they only barely interact with each other. It's not a deal breaker, but it is unfortunate.  
 

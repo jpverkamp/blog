@@ -14,7 +14,7 @@ rating: 5
 page_count: 304
 series_index: [2]
 ---
-After getting tossed into the world of the supernatural in {{< goodreads book="Boundary Crossed" >}}, Lex is back and starting to learn just why everyone seems to be out to get her in {{< goodreads book="Boundary Lines" >}}.  
+After getting tossed into the world of the supernatural in [[Boundary Crossed]](), Lex is back and starting to learn just why everyone seems to be out to get her in [[Boundary Lines]]().  
 
 Someone is stirring up local magic, brining back magical beasties from an age long gone and driving the (semi-)local werewolf mad. We get a good amount of world building, learning a fair bit more about the werewolves and finally seeing a second boundary mage--even if she died a long time ago. We get a bit more characterization of the other witches and vampires, a bit more on the local politics and tensions between the various supernatural factions. Neat worldbuilding all around and a few decent plot twists.  
 

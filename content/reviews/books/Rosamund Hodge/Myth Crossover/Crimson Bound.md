@@ -14,7 +14,7 @@ rating: 3
 page_count: 448
 series_index: [0]
 ---
-Originally thought that this was supposed to be a retelling of Little Red Riding Hood, as {{< goodreads book="Cruel Beauty" >}} was for Beauty and the Beast. I saw it a lot more in the other and probably would have liked this a bit more had I not thought that.  
+Originally thought that this was supposed to be a retelling of Little Red Riding Hood, as [[Cruel Beauty]]() was for Beauty and the Beast. I saw it a lot more in the other and probably would have liked this a bit more had I not thought that.  
 
 There is a lot of beautiful visuals and fairly interesting worldbuilders. Unfortunately, it feels like it should be more interesting than it actually is. There are some interesting concepts in there (bloodbound made by murder, etc), but they're barely fleshed out. On top of that, apparently the world was ending and... no one seemed to care? Except some people knew all along and pass along magic swords to save the day? Meh.  
 

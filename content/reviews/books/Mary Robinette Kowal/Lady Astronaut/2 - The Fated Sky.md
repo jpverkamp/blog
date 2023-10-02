@@ -14,7 +14,7 @@ rating: 5
 page_count: 384
 series_index: [2]
 ---
-{{< goodreads book="The Fated Sky" >}} takes what {{< goodreads book="The Calculating Stars" >}} started and takes us on a journey to MARS!  
+[[The Fated Sky]]() takes what [[The Calculating Stars]]() started and takes us on a journey to MARS!  
 
 On one level, there is an absolutely wonderful feel to the technology in this book. It really does feel to me like a slightly alternate history 1950s/60s, flying a trio of spacecraft to the red planet. It actually comes to the point of making me think: if this feels this real now, then why in the world haven't we been to Mars yet. Bring on the meteor! (Not really. That would kill an awful lot of people.) You can really feel just how much research went into this book.  
 
@@ -30,4 +30,4 @@ The rest of the crew is every bit as solid, in my opinion. It's fascinating and 
 
 > I am trying to remember that you mean well. But at the moment, I cannot take > the protestations of a well-meaning white woman. I do not have the energy to > reassure you or to pretend I am happy and content with my lot in life.
 
-Even if it's not primarily Elma, I'm looking forward to {{< goodreads book="The Relentless Moon" >}}.
+Even if it's not primarily Elma, I'm looking forward to [[The Relentless Moon]]().

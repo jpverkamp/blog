@@ -16,7 +16,7 @@ rating: 4
 page_count: 477
 series_index: [14]
 ---
-{{< goodreads book="Leviathans of Jupiter" >}} takes what made {{< goodreads book="Jupiter" >}} so enjoyable (the exploration of the oceans of Jupiter and interactions with the creatures that live there) and takes another visit. This time around, we have even more content from the Leviathan's perspective and first attempts at actually communicating with them, which is pretty cool.  
+[[Leviathans of Jupiter]]() takes what made [[Jupiter]]() so enjoyable (the exploration of the oceans of Jupiter and interactions with the creatures that live there) and takes another visit. This time around, we have even more content from the Leviathan's perspective and first attempts at actually communicating with them, which is pretty cool.  
 
 While the science is cool, the characters and drama isn't quite as strong as Jupiter. Grant Archer is still around and in charge now, which is an interesting point. We also get more of Dorn, finding his way out after the Asteroid War. He's been through quite a lot and it's interesting seeing his point of view, especially since he's fairly unique in this universe in being a cyborg.  
 

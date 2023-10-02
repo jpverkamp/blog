@@ -16,7 +16,7 @@ page_count: 371
 ---
 400 pages? Pick it up around midnight? Sure! Let's just read it straight though!  
 
-{{< goodreads book="Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened" >}} is based on the [blog of the same name](https://hyperboleandahalf.blogspot.com/) and appears to be essentially a printing of a number of stories that have appeared there (although [Menace](https://hyperboleandahalf.blogspot.com/2013/10/menace.html) was published after the book and is thus missing, give it a read, it's hilarious).  
+[[Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened]]() is based on the [blog of the same name](https://hyperboleandahalf.blogspot.com/) and appears to be essentially a printing of a number of stories that have appeared there (although [Menace](https://hyperboleandahalf.blogspot.com/2013/10/menace.html) was published after the book and is thus missing, give it a read, it's hilarious).  
 
 <!--more-->
 

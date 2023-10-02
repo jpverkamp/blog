@@ -64,7 +64,7 @@ But... Gluttony still wins that one for now...
 
 What is with that eye...  
 
-Also: a random thought. Can they transmute guns? Isn't that something we saw way back with the battle with the priest in {{< goodreads book="Fullmetal Alchemist, Vol. 1" >}}?  
+Also: a random thought. Can they transmute guns? Isn't that something we saw way back with the battle with the priest in [[Fullmetal Alchemist, Vol. 1]]()?  
 
 \---  
 

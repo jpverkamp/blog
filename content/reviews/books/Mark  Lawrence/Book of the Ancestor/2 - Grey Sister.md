@@ -19,7 +19,7 @@ series_index: [2]
 > a red flame seems to burn. “I am my own cage.” She lifts her sword. “And I
 > have opened the door.”
 
-{{< goodreads book="Grey Sister" >}} takes the fantasy world[^ish] with a magical school full of battle nuns that we started with in {{< goodreads book="Red Sister" >}} and turns things up a notch. Nona isn't hiding any more just how much she can do, which is causing just about as many problems as it solves. And halfway through the books, things really escalate once again, with politics and problems outside of the convent itself coming to bear.  
+[[Grey Sister]]() takes the fantasy world[^ish] with a magical school full of battle nuns that we started with in [[Red Sister]]() and turns things up a notch. Nona isn't hiding any more just how much she can do, which is causing just about as many problems as it solves. And halfway through the books, things really escalate once again, with politics and problems outside of the convent itself coming to bear.  
 
 <!--more-->
 

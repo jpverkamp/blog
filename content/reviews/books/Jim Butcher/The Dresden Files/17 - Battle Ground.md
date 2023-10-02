@@ -16,7 +16,7 @@ series_index: [17]
 ---
 > The real battle for your own soul isn't about falling from a great height; > it's about descending, or not, one choice at a time.
 
-That right there. {{< goodreads book="Battle Ground" >}} That is the second half of {{< goodreads book="Peace Talks" >}}. They should have been one book, and are best read back to back like that. But so it goes.  
+That right there. [[Battle Ground]]() That is the second half of [[Peace Talks]](). They should have been one book, and are best read back to back like that. But so it goes.  
 
 <!--more-->
 

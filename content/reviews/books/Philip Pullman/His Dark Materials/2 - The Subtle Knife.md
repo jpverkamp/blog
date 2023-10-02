@@ -16,7 +16,7 @@ rating: 4
 page_count: 326
 series_index: [2]
 ---
-{{< goodreads book="The Subtle Knife" >}} takes off where {{< goodreads book="The Golden Compass" >}} left off, with Lyra leaving her world behind, traveling across a bridge originally torn by the death of a friend. On top of that, we have a new character in Will, a boy searching for his missing father, instead finding another, must less dramatic way to travel between worlds.  
+[[The Subtle Knife]]() takes off where [[The Golden Compass]]() left off, with Lyra leaving her world behind, traveling across a bridge originally torn by the death of a friend. On top of that, we have a new character in Will, a boy searching for his missing father, instead finding another, must less dramatic way to travel between worlds.  
 
 To some extent, The Subtle Knife feels like an odd sequel. Where the Golden Compass centered almost entirely around Lyra, this time around, we're split between Lyra and Will, with Will really the driving force behind the story. I don't mind Will--he's unlikable at first, but you fell that's mostly because  
 

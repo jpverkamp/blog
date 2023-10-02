@@ -16,7 +16,7 @@ rating: 4
 page_count: 562
 series_index: [2]
 ---
-To as large extent, {{< goodreads book="The Golem's Eye" >}} continues where {{< goodreads book="The Amulet of Samarkand" >}} left off. Nathaniel is a rising star, now climbing the ranks of government and Bartimaeus is just as snarky as ever. We get quite a bit more (including POV time) from Kitty and her friends, showing that it's not all fun and games in this particular echo of London.  
+To as large extent, [[The Golem's Eye]]() continues where [[The Amulet of Samarkand]]() left off. Nathaniel is a rising star, now climbing the ranks of government and Bartimaeus is just as snarky as ever. We get quite a bit more (including POV time) from Kitty and her friends, showing that it's not all fun and games in this particular echo of London.  
 
 On one hand, it's interesting that Nathaniel grew up so quickly and is in government now. To go with the inevitable comparisons to Harry Potter the first book raised, it's as if we'd skipped right by books 2-7 and went straight to Harry's training as an Auror. I actually really appreciate that; it's something new. EVen if it does strain credulity somewhat. He's 14 for crying out loud...  
 

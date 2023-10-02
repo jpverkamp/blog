@@ -39,4 +39,4 @@ Oh yeah, remember that? That was a long time ago. Poor Mary I guess.
 
 ![Fairest-5-4](/embeds/books/attachments/fairest-5-4.jpg)  
 
-Goldilocks is perhaps the strangest character in this series. I can't read sassenach without think of {{< goodreads book="Outlander" >}} though... Which kind of fits?
+Goldilocks is perhaps the strangest character in this series. I can't read sassenach without think of [[todo:Outlander]]() though... Which kind of fits?

@@ -16,7 +16,7 @@ series_index: [3]
 ---
 > I’ll give him this. Every word Nathaniel sent to Elma was true. It’s amazing > how many lies one can tell with the truth.
 
-{{< goodreads book="The Relentless Moon" >}} is a bit of an odd third book in a series. While {{< goodreads book="The Calculating Stars" >}} set up the universe and the space program and {{< goodreads book="The Fated Sky" >}} went to Mars, in both cases we were primarily following Elma York, the eponymous Lady Astronaut and how she dealt with with all the troubles of sexism, racism, and all around nastiness of an almost apocolyptic alt 1950-60s space program.  
+[[The Relentless Moon]]() is a bit of an odd third book in a series. While [[The Calculating Stars]]() set up the universe and the space program and [[The Fated Sky]]() went to Mars, in both cases we were primarily following Elma York, the eponymous Lady Astronaut and how she dealt with with all the troubles of sexism, racism, and all around nastiness of an almost apocolyptic alt 1950-60s space program.  
 
 <!--more-->
 

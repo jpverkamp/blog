@@ -28,7 +28,7 @@ series_index: [3]
 
 <!--more-->
 
-As {{< goodreads book="The Great Hunt" >}} was a step up from {{< goodreads book="The Eye of the World" >}}, {{< goodreads book="The Dragon Reborn" >}} is a step up from the Great Hunt. Things are really moving now.  
+As [[The Great Hunt]]() was a step up from [[The Eye of the World]](), [[The Dragon Reborn]]() is a step up from the Great Hunt. Things are really moving now.  
 
 Throughout most of the series, Perrin is my favorite character. There are a few of his parts that could have been trimmed dramatically in latter books, but he's still the one I personally identify with most. While Rand is bound by duty and already cracking under the strain / the taint on Saidin and Matt seems to stumble into doing the right thing no matter what he tries, Perrin is, at heart, a good man. He's won't do the right thing at all costs (we see more than enough of that in the series), but he knows he cannot run from his fate. So he does what needs to be done.  
 

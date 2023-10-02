@@ -16,7 +16,7 @@ rating: 3
 page_count: 341
 series_index: [2]
 ---
-After how much I enjoyed {{< goodreads book="Annihilation" >}}, I had high hopes for {{< goodreads book="Authority" >}}. A chance to get out of Area X and explore the organization sending people in / to their deaths over and over again...  
+After how much I enjoyed [[Annihilation]](), I had high hopes for [[Authority]](). A chance to get out of Area X and explore the organization sending people in / to their deaths over and over again...  
 
 But unfortunately, I just couldn't get into it. I missed the limited focus and the mystery of the first book. Even, for what very little we knew about them, the characters.  
 

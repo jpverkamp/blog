@@ -14,7 +14,7 @@ rating: 4
 page_count: 311
 series_index: [9]
 ---
-After {{< goodreads book="Celestia CV-02" >}}, I was worried that the Aurora and her crew would take the backseat for the rest of the series. Luckily, from {{< goodreads book="Resistance" >}}, this appears to not be the case. We still do get a wider selection of points of view--on the Aurora, the Celestia, on the Jung controlled world Tanna, and even back on Earth--but the Aurora is once again the core of the story.  
+After [[Celestia CV-02]](), I was worried that the Aurora and her crew would take the backseat for the rest of the series. Luckily, from [[Resistance]](), this appears to not be the case. We still do get a wider selection of points of view--on the Aurora, the Celestia, on the Jung controlled world Tanna, and even back on Earth--but the Aurora is once again the core of the story.  
 
 Things are really moving along now, with various space battles and intrigue. I do appreciate the focus on the Aurora, but the mechanics of living on a barely functional Celestia, where you can't even get between the two sections of the ship are fascinating. I'm curious to see if the Celestia can be finished, especially without the resources and allies the Aurora had a thousand light years away.  
 

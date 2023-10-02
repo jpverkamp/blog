@@ -18,7 +18,7 @@ series_index: [7]
 ---
 With each Dirk Pitt novels, the world Clive Cussler is building seems to get more and more intense and diverge further from the world we live in. We started with simple salvage and simple enough (although extensive) smuggling and drugs. And then they raised the Titanic. And found a treaty to add Canada to the United States.  
 
-{{< goodreads book="Deep Six" >}} is certainly no exception, with a primary plot essentially resolving around kidnapping and mind controlling the President of the United States. As one does.  
+[[Deep Six]]() is certainly no exception, with a primary plot essentially resolving around kidnapping and mind controlling the President of the United States. As one does.  
 
 <!--more-->
 

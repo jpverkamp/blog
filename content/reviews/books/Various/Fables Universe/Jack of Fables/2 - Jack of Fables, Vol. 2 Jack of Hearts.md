@@ -17,7 +17,7 @@ rating: 4
 page_count: 144
 series_index: [2, 8]
 ---
-And now, a quick jaunt to {{< goodreads book="Jack of Fables, Vol. 2: Jack of Hearts" >}}. More or less in publishing order, but not directly related. Mostly it's a way to get another few on the world.  
+And now, a quick jaunt to [[Jack of Fables, Vol. 2: Jack of Hearts]](). More or less in publishing order, but not directly related. Mostly it's a way to get another few on the world.  
 
 And oh what a weird view it is. Jack is a powerful individual and he knows it, but he's also aboslutely terrible at making any good on that, always jumping from one hairbrained scheme to another. In [[Jack of Fables, Vol. 1: The (Nearly) Great Escape]](), he was captured by a power that I'm still curious to see more about, now he's on the run. But half of the story is about that time that he was also Jack Frost (and a royal ass about it then too).  
 

@@ -27,7 +27,7 @@ moveKnight (c,r) = do
 
 Sure.  
 
-In any case, if you're into programming, particularly functional programming, you should give Haskell a chance. It probably won't become your default goto language, but it might just give you a new way to think, which is always worthwhile. And {{< goodreads book="Learn You a Haskell for Great Good!" >}} is a great way to do that. It's well written and funny, bringing you through at least enough of the language to decide just how much more you want to dive in.  
+In any case, if you're into programming, particularly functional programming, you should give Haskell a chance. It probably won't become your default goto language, but it might just give you a new way to think, which is always worthwhile. And [[Learn You a Haskell for Great Good!]]() is a great way to do that. It's well written and funny, bringing you through at least enough of the language to decide just how much more you want to dive in.  
 
 I think the primary thing missing is any solid, practical real world examples. Mathematical tricks and trivial problems are all well and good, but if that's all you can write in a language, you're not going to be doing much with it.  
 

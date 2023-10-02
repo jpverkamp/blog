@@ -18,7 +18,7 @@ series_index: [11]
 ---
 > Lan told me once that Malkier lives so long as one man wears the hadori in pledge that he will fight the Shadow, so long as one woman wears the ki'sain in pledge that she will send her sons to fight the Shadow. I wear the ki'sain, Master Aldragoran. My husband wears the hadori. So do you. Will Lan Mandragoran ride to the Last Battle alone?  
 
-The {{< goodreads book="Knife of Dreams" >}}, in which things begin moving again as the world begins the march to the Last Battle.  
+The [[Knife of Dreams]](), in which things begin moving again as the world begins the march to the Last Battle.  
 
 <!--more-->
 
@@ -26,7 +26,7 @@ The strongest parts of this book are Egwene's campaign from within the White Tow
 
 On top of that, we have one of the most powerful individual scenes in the entire series, best summed up by the quote at the top, Lan's rid to Tarwin's Gap.  
 
-And hey, we finally get a resolution to both Elayne's arc gaining the throne and Perrin and Faile's storyline with the Shaido. It's about time we moved past that, having spent entirely too much of {{< goodreads book="Crossroads of Twilight" >}} on both.  
+And hey, we finally get a resolution to both Elayne's arc gaining the throne and Perrin and Faile's storyline with the Shaido. It's about time we moved past that, having spent entirely too much of [[Crossroads of Twilight]]() on both.  
 
 And Rand. Poor Rand. So much has he suffered for the world. And yet he's not done.  
 

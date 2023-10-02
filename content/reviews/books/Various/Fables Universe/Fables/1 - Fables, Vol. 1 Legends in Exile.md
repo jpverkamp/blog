@@ -17,9 +17,9 @@ rating: 5
 page_count: 128
 series_index: [1, 1]
 ---
-Much like {{< goodreads book="Saga, Vol. 1" >}}, Fables has been on my list to read for the longest time. I have a soft spot for genre mashups, so the idea of taking Fairy Tales and having them alive and well in a hidden corner of our real world? Wonderful!  
+Much like [[Saga, Vol. 1]](), Fables has been on my list to read for the longest time. I have a soft spot for genre mashups, so the idea of taking Fairy Tales and having them alive and well in a hidden corner of our real world? Wonderful!  
 
-{{< goodreads book="Fables, Vol. 1: Legends in Exile" >}} introduces us to the setting and the characters, taking the guise of a classic murder mystery and throwing a few Fairy Tale specific wrenches in along the way.  
+[[Fables, Vol. 1: Legends in Exile]]() introduces us to the setting and the characters, taking the guise of a classic murder mystery and throwing a few Fairy Tale specific wrenches in along the way.  
 
 <!--more-->
 

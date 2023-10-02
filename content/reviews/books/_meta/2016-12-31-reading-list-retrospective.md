@@ -7,7 +7,7 @@ is_review_meta: true
 ---
 Once again, a crazy goal. This year, I *officially* set a goal of 50 books. *Unofficially*, I was still trying to read 100 books. Almost made it.
 
-Overall, I read 91 books, totaling 35,154 pages (an average of ~96 pages per day). Still a bit of a range on length, from {{< goodreads book="The Nameless City" >}} at only 23 pages up to 995 in {{< goodreads book="White Sand" >}}. An average of 386 per book comes in just 2 shy of [last year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}), so I think the short stories still count. :smile:
+Overall, I read 91 books, totaling 35,154 pages (an average of ~96 pages per day). Still a bit of a range on length, from [[The Nameless City]]() at only 23 pages up to 995 in [[White Sand]](). An average of 386 per book comes in just 2 shy of [last year]({{< ref "2015-12-31-reading-list-retrospective.md" >}}), so I think the short stories still count. :smile:
 
 <!--more-->
 
@@ -15,7 +15,7 @@ For the longest time, I was average right at 100 pages per day, but over the las
 
 Rating-wise, my average was even higher than last year at 4.6 stars... Hey, I read what I like. I had fewer did-not-finishes and books I chose just on the cover, which helped a bit.
 
-Compared to my original list, I at least started everything. I actually finished {{< goodreads book="Mere Christianity" >}} this time around[^1]. On top of that, I got more into audiobooks this time around, listening to (series, all):
+Compared to my original list, I at least started everything. I actually finished [[todo:Mere Christianity]]() this time around[^1]. On top of that, I got more into audiobooks this time around, listening to (series, all):
 
 {{< goodreads book="Storm Front" cover="true" >}}
 {{< goodreads book="The Final Empire" cover="true" >}}

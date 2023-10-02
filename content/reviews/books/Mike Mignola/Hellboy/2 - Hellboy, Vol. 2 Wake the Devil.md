@@ -18,7 +18,7 @@ series_index: [2]
 ---
 ![](/embeds/books/attachments/hellboy-vol-2-wake-the-devil-x-1.jpg)  
 
-It's {{< goodreads book="Hellboy, Vol. 2: Wake the Devil" >}} and it's EVEN BETTER and EVEN MORE RIDICULOUS!  
+It's [[Hellboy, Vol. 2: Wake the Devil]]() and it's EVEN BETTER and EVEN MORE RIDICULOUS!  
 
 <!--more-->
 

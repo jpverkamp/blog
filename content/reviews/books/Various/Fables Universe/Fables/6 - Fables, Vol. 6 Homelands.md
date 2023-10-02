@@ -59,7 +59,7 @@ That, is quite an interesting point.
 
 ![Fables-6-08-Foreign-fables](/embeds/books/attachments/fables-6-08-foreign-fables.jpg)  
 
-It just keeps getting bigger! Especially looking forward to the next Fables tale: {{< goodreads book="Fables, Vol. 7: Arabian Nights" >}}.  
+It just keeps getting bigger! Especially looking forward to the next Fables tale: [[Fables, Vol. 7: Arabian Nights (and Days)]]().  
 
 ![Fables-6-09-A-dull-office-job](/embeds/books/attachments/fables-6-09-a-dull-office-job.jpg)  
 

@@ -18,7 +18,7 @@ series_index: [7]
 ---
 And so begins the slog.  
 
-{{< goodreads book="A Crown of Swords" >}} is by far the slowest book of the series thus far.  
+[[A Crown of Swords]]() is by far the slowest book of the series thus far.  
 
 <!--more-->
 
@@ -28,6 +28,6 @@ Egwene spends the entire book trying to solidify her position as Amyrlin in trut
 
 The main plot line in this book follows Elayne, Nynaeve, Birgitte, Aviendha, and Mat in Ebou Dar, searching for the Bowl of the Winds--a ter'angreal that could be used to heal the weather. It's an interesting enough plotline, but do in large part to every single main character in this series' inability to communicate with one another, it takes far longer than it should. And hey. The Seanchan are back.  
 
-Unfortunately, together with {{< goodreads book="The Path of Daggers" >}}, {{< goodreads book="Winter's Heart" >}}, and {{< goodreads book="Crossroads of Twilight" >}}, A Crown of Swords begins the slow section of a Wheel of Time, with the vast majority of plotlines likely to be cut if/when the series moves to TV. There's still a whole pile of fascinating storylines and epic battles, but they do tend to come fewer and further between.  
+Unfortunately, together with [[The Path of Daggers]](), [[Winter's Heart]](), and [[Crossroads of Twilight]](), A Crown of Swords begins the slow section of a Wheel of Time, with the vast majority of plotlines likely to be cut if/when the series moves to TV. There's still a whole pile of fascinating storylines and epic battles, but they do tend to come fewer and further between.  
 
 Still worth the read. Just perhaps with a bit more skimming.

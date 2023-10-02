@@ -14,7 +14,7 @@ rating: 5
 page_count: 206
 series_index: [0]
 ---
-I just finished reading {{< goodreads book="The Boxcar Children" >}} (the first 19) to my children, so now it's off to Narnia with [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]]() (in publication order). Oh man, we're in for a ride.  
+I just finished reading [[The Boxcar Children]]() (the first 19) to my children, so now it's off to Narnia with [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]]() (in publication order). Oh man, we're in for a ride.  
 
 > I wrote this story for you, but when I began it I had not realized that > girls grow quicker than books. As a result you are already too old for fairy > tales, and by the time it is printed and bound you will be older still. But > some day you will be old enough to start reading fairy tales again. You can > then take it down from some upper shelf, dust it, and tell me what you think > of it. I shall probably be too deaf to hear, and too old to understand a > word you say, but I shall still be your affectionate Godfather, C. S. Lewis.
 

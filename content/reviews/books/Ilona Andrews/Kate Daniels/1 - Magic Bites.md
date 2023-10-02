@@ -20,7 +20,7 @@ On the other hand, Kate Daniels is a solid character to read. Despite not knowin
 
 <!--more-->
 
-What really surprised me was the worldbuilding. A core concept of the world is that the magical world is out in the open. I haven't really come across another urban fantasy that's gone quite that far ({{< goodreads book="Moon Called" >}} et al come close, but only the fae and eventually werewolves are 'out' there) and it's well done. Magic is integrated into society and government in a way that feels real enough. What's really neat though is that magic isn't a constant. Magic and technology seem to ebb and flow in waves. Sometimes magic is low and technology is high--cars and guns reign supreme. And then sometimes magic runs hot. Traditional cars fail, people have to use horses to get around Atlanta, and all sorts of supernatural beasties come out to play.  
+What really surprised me was the worldbuilding. A core concept of the world is that the magical world is out in the open. I haven't really come across another urban fantasy that's gone quite that far ([[Moon Called]]() et al come close, but only the fae and eventually werewolves are 'out' there) and it's well done. Magic is integrated into society and government in a way that feels real enough. What's really neat though is that magic isn't a constant. Magic and technology seem to ebb and flow in waves. Sometimes magic is low and technology is high--cars and guns reign supreme. And then sometimes magic runs hot. Traditional cars fail, people have to use horses to get around Atlanta, and all sorts of supernatural beasties come out to play.  
 
 Not going to lie. That's pretty cool.  
 

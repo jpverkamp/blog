@@ -15,7 +15,7 @@ rating: 4
 page_count: 330
 series_index: [3]
 ---
-{{< goodreads book="Moon Shades" >}} is a bit of an odd book in that plotwise, it doesn't actually have much to do with either {{< goodreads book="The Fallen" >}} or especially the big events of {{< goodreads book="Harbinger" >}}, at least not until the last few chapters of the book. After everything, I expected more.  
+[[Moon Shades]]() is a bit of an odd book in that plotwise, it doesn't actually have much to do with either [[The Fallen]]() or especially the big events of [[Harbinger]](), at least not until the last few chapters of the book. After everything, I expected more.  
 
 But it's still an interesting enough book on it's own merits. Essentially, it's a fairly standard 'something took the children... and our neighbors are WEREWOLVES!' type story (which is amusingly specific enough to be a trope) with Chivali and the Fallen as an entrypoint into the world. We learn a very little bit about magic in this world, along with the aforementioned werewolves (pretty standard).  
 

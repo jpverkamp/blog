@@ -16,7 +16,7 @@ rating: 3
 page_count: 392
 series_index: [2]
 ---
-Reading {{< goodreads book="Powersat" >}} and then {{< goodreads book="Privateers" >}} (the suggested chronological order given for [series:The Grand Tour|51185]) is a bit strange, given the former was first published in 2005 and the latter back in 1985.  
+Reading [[Powersat]]() and then [[Privateers]]() (the suggested chronological order given for [series:The Grand Tour|51185]) is a bit strange, given the former was first published in 2005 and the latter back in 1985.  
 
 In Powersat, the 'big bads' are informed by the political tensions of the early 2000s, with terrorism (especially Middle Eastern) driving the conflict. When Privateers was written, the Soviet Union had not yet fallen and the Cold War was still going, so it's unsurprising to find that the 'what if' this time around sees the Soviets taking a position of political power and the United States fading to isolationism.  
 

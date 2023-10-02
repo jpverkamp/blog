@@ -14,7 +14,7 @@ rating: 5
 page_count: 432
 series_index: [2]
 ---
-{{< goodreads book="Fool Moon" >}}, but as a comic book/graphic novel!  
+[[Fool Moon]](), but as a comic book/graphic novel!  
 
 It's one of two novel adaptations (Storm Front being the other) and I think the weaker of the two. Still a lot of fun though.  
 
@@ -38,7 +38,7 @@ Also, did you know that Dresden is supposed to be around 6'9"? That's insanely t
 
 Honestly, that's probably not enough of a difference.  
 
-Oh, and remember the nudity with convenient smoke from {{< goodreads book="Jim Butcher's Dresden Files: Storm Front Vol 1 #2" >}}? Yeah, Fool Moon has werewolves. There's soooo much more. Mostly hidden by shadows or abstract lines. It's to the point of amusing:  
+Oh, and remember the nudity with convenient smoke from [[Storm Front (Graphic Novel)]]()? Yeah, Fool Moon has werewolves. There's soooo much more. Mostly hidden by shadows or abstract lines. It's to the point of amusing:  
 
 ![Fool-Moon-04-Only-humans-do-that](/embeds/books/attachments/fool-moon-04-only-humans-do-that.png)  
 

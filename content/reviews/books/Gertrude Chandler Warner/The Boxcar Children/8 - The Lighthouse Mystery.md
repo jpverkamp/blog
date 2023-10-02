@@ -16,7 +16,7 @@ series_index: [8]
 ---
 > Renting a lighthouse is unusual, but even more so is an unfriendly boy's peculiar behavior.
 
-You know what's even more unusual? Traveling home from {{< goodreads book="The Woodshed Mystery" >}}, seeing a lighthouse for sale on the side of the road and _deciding that your grandfather should **buy it**_. And knowing that he totally could[^wat].  
+You know what's even more unusual? Traveling home from [[The Woodshed Mystery]](), seeing a lighthouse for sale on the side of the road and _deciding that your grandfather should **buy it**_. And knowing that he totally could[^wat].  
 
 <!--more-->
 

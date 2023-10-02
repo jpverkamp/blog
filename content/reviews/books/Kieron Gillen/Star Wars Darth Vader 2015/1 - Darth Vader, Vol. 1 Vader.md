@@ -24,7 +24,7 @@ I'm of an age where I didn't catch the original trilogy in theaters, instead wat
 
 But what really interested me about the whole Star Wars thing was the extended universe. What kind of stories can you tell when you get beyond the Hero's Journey Good versus Evil tropes and really get a chance to dig into the wider universe. There is just *so much* potential there.  
 
-So where do we start? {{< goodreads book="Star Wars: Darth Vader, Vol. 1: Vader" >}}  
+So where do we start? *Darth Vader, Vol. 1: Vader*
 
 It's a relatively short story about Darth Vader, set in the close aftermath of A New Hope and the destruction of the (first) Death Star. Which is ... quite an interesting story to tell, making the protagonist a definite Bad Guy.  
 

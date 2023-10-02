@@ -22,7 +22,7 @@ Overall, it's a surprisingly fun and rather different sort of book. Rather than 
 
 <!--more-->
 
-Basically, just after World War II, an alien virus (the Wild Card Virus) was dropped on New York City. 90% of those infected are killed. 90% of those that survive are mutated into Jokers. The remaining 1% gain super powers. {{< goodreads book="Wild Cards" >}} (this book and the series) follows that world in a rough parallel to our own, using the jokers and aces as rather on the head stand ins for problems in our own world.  
+Basically, just after World War II, an alien virus (the Wild Card Virus) was dropped on New York City. 90% of those infected are killed. 90% of those that survive are mutated into Jokers. The remaining 1% gain super powers. [[Wild Cards]]() (this book and the series) follows that world in a rough parallel to our own, using the jokers and aces as rather on the head stand ins for problems in our own world.  
 
 It ends up being a lot of fun. Super hero tropes, a wide variety of characters and settings running through the 50s up until the original present day of the story (in 1986). The extended edition from 2010 also adds a few more stories to better fill in the timeline, which is handy. I'm looking forward to listening to as many of these as I can find the audiobooks.  
 

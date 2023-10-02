@@ -25,7 +25,7 @@ In this case, the idea is personified by the golems--a constructed race of human
 
 So if a golem were to kill someone... is it murder?  
 
-It's a really interesting question, making one think about the nature of 'personhood' and about how everyone has preconceived biases. Golems are among my favorite supernatural beings to read about and somewhat underused. Off the top of my head, the only other novel I can remember recently reading with a golem is {{< goodreads book="The Golem and the Jinni" >}} by {{< goodreads author="Helene Wecker" >}} (also worth the read).  
+It's a really interesting question, making one think about the nature of 'personhood' and about how everyone has preconceived biases. Golems are among my favorite supernatural beings to read about and somewhat underused. Off the top of my head, the only other novel I can remember recently reading with a golem is [[The Golem and the Jinni]]() by {{< goodreads author="Helene Wecker" >}} (also worth the read).  
 
 On top of that, we also get an interesting comment about the nature of athiesm in a world where 'gods' can and do take a quite literal and obvious hand in events from time to time:  
 

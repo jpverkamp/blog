@@ -25,13 +25,13 @@ series_index: [34, 7]
 
 <!--more-->
 
-{{< goodreads book="Thud!" >}} continues the tradition of the City Watch series digging into bigotry and racism. There's the feud of centuries between the dwarfs and trolls on the anniversary of the long ago battle of Koom valley which no one remembers for sure who first attacked who. But does it really matter? They hate each other. They've always hated each other.  
+[[Thud!]]() continues the tradition of the City Watch series digging into bigotry and racism. There's the feud of centuries between the dwarfs and trolls on the anniversary of the long ago battle of Koom valley which no one remembers for sure who first attacked who. But does it really matter? They hate each other. They've always hated each other.  
 
 At the same time, Vimes' watch has been adding more and more diverse officers over the books. Now, he finally has to accept one he never accepted: Sally the Vampire. She's an interesting character, but in particularly, it's really interesting to read her interactions with Angua. It's the same tension of centuries on a much smaller, more personal scale.  
 
-Overall, it's the little details of the world that really make this story. It's not as funny as the early Discworld books, but it's a lot more solid. There's a reason people suggest that you start with the City Watch books, {{< goodreads book="Thud!" >}} in particular.  
+Overall, it's the little details of the world that really make this story. It's not as funny as the early Discworld books, but it's a lot more solid. There's a reason people suggest that you start with the City Watch books, [[Thud!]]() in particular.  
 
-With that, there's only one more in the City Watch subseries: {{< goodreads book="Snuff" >}}. It's bittersweet. I'm looking forward to it... but I don't really want them to end.  
+With that, there's only one more in the City Watch subseries: [[Snuff]](). It's bittersweet. I'm looking forward to it... but I don't really want them to end.  
 
 So it goes.  
 

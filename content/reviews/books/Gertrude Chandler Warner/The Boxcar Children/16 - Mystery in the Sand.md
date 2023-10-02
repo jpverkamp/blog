@@ -54,6 +54,6 @@ Random thoughts:
 
 > "Is it some sort of Geiger counter?"
 
-I find it greatly amusing they know what a Geiger counter is (because of {{< goodreads book="Mystery Ranch" >}}) but don't know what a metal detector is.  
+I find it greatly amusing they know what a Geiger counter is (because of [[Mystery Ranch]]()) but don't know what a metal detector is.  
 
 > Benny said, "It must have been somebody with a lot of money. Look at those towards! One, two, three, four, five towers. Nobody would buy a house like that nowadays.

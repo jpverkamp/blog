@@ -14,7 +14,7 @@ rating: 4
 page_count: 559
 series_index: [13]
 ---
-It's interesting seeing {{< goodreads book="A Show of Force" >}} escalate from where we were earlier in the series. The Aurora and her crew have kicked one evil empire's butt, freed the Earth, and are now taking the fight to the Jung, clearing a 20 light year radius.  
+It's interesting seeing [[A Show of Force]]() escalate from where we were earlier in the series. The Aurora and her crew have kicked one evil empire's butt, freed the Earth, and are now taking the fight to the Jung, clearing a 20 light year radius.  
 
 It's a pretty crazy book, with lots of fights, both on the ground and in space. Nothing _hugely_ surprising happens, with most of the book pushing towards the final confrontation I expect we'll see shortly. We do see a lot more of the Jung now, seeing them as at once more human and at the same time as a force worth fighting. It's far better than the faceless evil enemies that we've had for so long.  
 

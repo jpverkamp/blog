@@ -50,7 +50,7 @@ It looks pretty rediculous when you write it all out like that doesn't it. And t
 
 Of those, a bit under half were audiobooks (52) and 9 were non-fiction. Eight I read with my wife discussing one chapter a day as a sort of email book club. 
 
-I read a few novels as short as {{< goodreads book="Legion" >}} at 88 pages and a few doorstoppers: {{< goodreads book="The Pillars of the Earth" >}} is just shy of 1000. Overall, I read or listened to just over 40,000 words, increasing my general average to 110 pages per day or 350 ber book. 
+I read a few novels as short as [[Legion]]() at 88 pages and a few doorstoppers: [[The Pillars of the Earth]]() is just shy of 1000. Overall, I read or listened to just over 40,000 words, increasing my general average to 110 pages per day or 350 ber book. 
 
 I continue to rate books highly, averaging 4.4 stars. I hope this coming year to get away from star ratings in general. They're not super helpful if you're reading books that you already expect to like (for the most part). 
 

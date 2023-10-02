@@ -35,7 +35,7 @@ series_index: [1]
 
 Man that's a ride.  
 
-I've heard {{< goodreads book="Gideon the Ninth" >}} described as Lesbian Necromancers in Space.  
+I've heard [[Gideon the Ninth]]() described as Lesbian Necromancers in Space.  
 
 **Lesbian** :  
 

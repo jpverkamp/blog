@@ -16,7 +16,7 @@ series_index: [1]
 ---
 > You are far too stolid and unimaginative, Watson, to invent a tale like that.
 
-{{< goodreads book="Sherlock Holmes and the Shadwell Shadows" >}} is a strange book. In a nutshell, Sherlock Holmes and The Call of Cthulhu are both in the public domain now, so author James Lovegrove essentially took them and mashed them into this unholy (yet at times awesome) abomination. In universe, these stories are told by Watson as 'the real story', where all of the rest of the Sherlock Holmes mythos was fiction made up to hide the darker, Cthulhuian truths. They found their way from Watson to Lovecraft...  
+[[Sherlock Holmes and the Shadwell Shadows]]() is a strange book. In a nutshell, Sherlock Holmes and The Call of Cthulhu are both in the public domain now, so author James Lovegrove essentially took them and mashed them into this unholy (yet at times awesome) abomination. In universe, these stories are told by Watson as 'the real story', where all of the rest of the Sherlock Holmes mythos was fiction made up to hide the darker, Cthulhuian truths. They found their way from Watson to Lovecraft...  
 
 <!--more-->
 

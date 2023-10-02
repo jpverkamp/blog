@@ -16,7 +16,7 @@ rating: 4
 page_count: 543
 series_index: [7]
 ---
-{{< goodreads book="Return to Mars" >}} finishes what {{< goodreads book="Mars" >}} started--and I really feel like they might have been better as one book. There was such a huge tantalizing idea dangled in front of us in the first book--not only life on Mars, but **intelligent** life?--only for a rush to the ending so that we never got to actually get answers. At least we do actually get answers in Return to Mars, but in such a way that it really feels like half the same book.  
+[[Return to Mars]]() finishes what [[Mars]]() started--and I really feel like they might have been better as one book. There was such a huge tantalizing idea dangled in front of us in the first book--not only life on Mars, but **intelligent** life?--only for a rush to the ending so that we never got to actually get answers. At least we do actually get answers in Return to Mars, but in such a way that it really feels like half the same book.  
 
 Plotwise, Return to Mars does at least explore some interesting ideas in how Martian exploration may actually take shape in the future, with private backing and a profit motive, rather than as a purely government run, scientific endeavor. It's an interesting contrast to Mars at least, even if it feels like they've taken a number of steps back from the first mission in effort to cut costs (one assumes).  
 

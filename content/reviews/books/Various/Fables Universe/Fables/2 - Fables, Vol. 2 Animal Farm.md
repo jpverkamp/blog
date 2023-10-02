@@ -17,7 +17,7 @@ rating: 5
 page_count: 127
 series_index: [2, 2]
 ---
-Where {{< goodreads book="Fables, Vol. 1: Legends in Exile" >}} was a murder mystery, {{< goodreads book="Fables, Vol. 2: Animal Farm" >}} is all about racism, classism, and revolution! The haves and have nots--or in this case, the Fables that can pass as human... and those that cannot.  
+Where [[Fables, Vol. 1: Legends in Exile]]() was a murder mystery, [[Fables, Vol. 2: Animal Farm]]() is all about racism, classism, and revolution! The haves and have nots--or in this case, the Fables that can pass as human... and those that cannot.  
 
 In a nutshell (heh), some Fables--like nearly all of those we met in Volume 1 can pass as human. But some... cannot. And those all live at a farm in upstate New York. You have talking animals, sentient flowers, tiny mouse-sized people, and all manner of other shocking things. But just because they wouldn't fit in doesn't mean they still don't want to be a part of the world.  
 

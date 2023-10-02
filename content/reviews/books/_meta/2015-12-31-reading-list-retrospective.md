@@ -7,7 +7,7 @@ is_review_meta: true
 ---
 I 2015, I set myself an ~~ambitious~~ ~~slightly~~ insane reading goal: 100 books.
 
-My final count: exactly 100 books (from ~30 different series), totaling 38,048 pages. There were a few short stories in there ({{< goodreads book="Pimpf" >}} by {{< goodreads author="Charles Stross" >}} was the shortest at 25 pages) to offset a couple epic fantasies (1,048 pages in {{< goodreads author="Brandon Sanderson" text="Brandon Sanderson's" >}} {{< goodreads book="Words of Radiance" >}}). Overall, I averaged 388 pages/book, which sounds about right to me.
+My final count: exactly 100 books (from ~30 different series), totaling 38,048 pages. There were a few short stories in there ([[todo:Pimpf]]() by {{< goodreads author="Charles Stross" >}} was the shortest at 25 pages) to offset a couple epic fantasies (1,048 pages in {{< goodreads author="Brandon Sanderson" text="Brandon Sanderson's" >}} [[Words of Radiance]]()). Overall, I averaged 388 pages/book, which sounds about right to me.
 
 <!--more-->
 

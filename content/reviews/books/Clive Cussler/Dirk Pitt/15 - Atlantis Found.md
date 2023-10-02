@@ -16,9 +16,9 @@ rating: 5
 page_count: 530
 series_index: [15]
 ---
-One of the things Clive Cussler does really well is take some bit of knowledge or lore and turn it up to eleven and see where that takes the world. {{< goodreads book="Raise the Titanic!" >}} A treaty that sold Canada to the US. Lincoln kidnapped and shipped to Africa.  
+One of the things Clive Cussler does really well is take some bit of knowledge or lore and turn it up to eleven and see where that takes the world. [[Raise the Titanic!]]() A treaty that sold Canada to the US. Lincoln kidnapped and shipped to Africa.  
 
-It doesn't necessarily have to be that accurate to what actually happened, but almost all of the stories make a good 'well it would be cool if it was true'. {{< goodreads book="Atlantis Found" >}} is exactly that sort of book. You have a lost advanced civilization well before the earliest known examples that eventually became the story of Atlantis with a [reasonable enough reason](https://arstechnica.com/science/2014/04/massive-asteroid-may- have-kickstarted-the-movement-of-continents/) why we haven't found any examples of them in modern day (until now!). The science isn't perfect, but it's close enough to make a good story. Add in some neo-Nazis and a doomsday plot? And you have classic Dirk Pitt.  
+It doesn't necessarily have to be that accurate to what actually happened, but almost all of the stories make a good 'well it would be cool if it was true'. [[Atlantis Found]]() is exactly that sort of book. You have a lost advanced civilization well before the earliest known examples that eventually became the story of Atlantis with a [reasonable enough reason](https://arstechnica.com/science/2014/04/massive-asteroid-may- have-kickstarted-the-movement-of-continents/) why we haven't found any examples of them in modern day (until now!). The science isn't perfect, but it's close enough to make a good story. Add in some neo-Nazis and a doomsday plot? And you have classic Dirk Pitt.  
 
 <!--more-->
 

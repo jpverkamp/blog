@@ -23,7 +23,7 @@ In this volume, we have the story of a little girl wondering about Castle Dark /
 
 <!--more-->
 
-It's a dark story as we oftentimes see with this series while at the same time feels like it's spinning it's wheels, much like {{< goodreads book="Fables, Vol. 19: Snow White" >}}. I guess there are only two left in the main series?  
+It's a dark story as we oftentimes see with this series while at the same time feels like it's spinning it's wheels, much like [[Fables, Vol. 19: Snow White]](). I guess there are only two left in the main series?  
 
 Spoilers/pictures:  
 

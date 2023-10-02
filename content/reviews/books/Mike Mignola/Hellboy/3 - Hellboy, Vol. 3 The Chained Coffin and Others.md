@@ -18,7 +18,7 @@ series_index: [3]
 ---
 ![Hellboy-3-Weird-fruit](/embeds/books/attachments/hellboy-3-weird-fruit.png)  
 
-Well that was a weird tonal shift. After two books[^firsttwo] chock full of Nazis and demonic imagery and larger worldbuilding, {{< goodreads book="Hellboy, Vol. 3: The Chained Coffin and Others" >}} basically feels like a number of short stories all told in the Hellboy universe.  
+Well that was a weird tonal shift. After two books[^firsttwo] chock full of Nazis and demonic imagery and larger worldbuilding, [[Hellboy, Vol. 3: The Chained Coffin and Others]]() basically feels like a number of short stories all told in the Hellboy universe.  
 
 <!--more-->
 
@@ -42,4 +42,4 @@ Overall, I didn't enjoy it as much as the first, but I still enjoyed it a heck o
 
 ![Hellboy-3-Crazy-like-a-fox](/embeds/books/attachments/hellboy-3-crazy-like-a-fox.png)  
 
-[^firsttwo]: {{< goodreads book="Hellboy, Vol. 1: Seed of Destruction" >}} and {{< goodreads book="Hellboy, Vol. 2: Wake the Devil" >}}
+[^firsttwo]: [[Hellboy, Vol. 1: Seed of Destruction]]() and [[Hellboy, Vol. 2: Wake the Devil]]()

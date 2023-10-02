@@ -29,4 +29,4 @@ Overall, I'm greatly looking forward to reading this subseries next. I don't kno
 
 Aside the first: I've been listening to the Discworld books on audiobook this time around. This is the first that's been narrated by a woman ({{< goodreads author="Celia Imrie" >}}). It's quite well done.  
 
-Aside the second: While listening to Discworld, I've also been reading {{< goodreads book="Seventh Son" >}} by {{< goodreads author="Orson Scott Card" >}}. Given that the latter is all about the seventh son of a seventh son, it's amusing reading them concurrently. They're very different books, however.
+Aside the second: While listening to Discworld, I've also been reading [[Seventh Son]]() by {{< goodreads author="Orson Scott Card" >}}. Given that the latter is all about the seventh son of a seventh son, it's amusing reading them concurrently. They're very different books, however.

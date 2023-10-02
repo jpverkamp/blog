@@ -47,4 +47,4 @@ Backstory of Rose Red/Snow White's mother! Apparently they always have daughters
 
 ![Fables-21-3](/embeds/books/attachments/fables-21-3.jpg)  
 
-Jack and Gary interlude! Tacos! A better conclusion than {{< goodreads book="Jack of Fables, Vol. 9: The End" >}}?
+Jack and Gary interlude! Tacos! A better conclusion than [[Jack of Fables, Vol. 9: The End]]()?

@@ -23,6 +23,6 @@ Well this was a bizarre little story.
 
 <!--more-->
 
-After one of the cubs becomes the new North Wind in {{< goodreads book="Fables, Vol. 17: Inherit the Wind" >}}, of course the rest are going to have to get in trouble all their own. So we have Fables take on the [The Island of Misfit Toys](https://www.youtube.com/watch?v=Gr6GbKciNCY), only far darker and more violent. There's a good(ish??) ending, but man that's a rough story. And for all that to happen to a kid, no matter how magical they may be.  
+After one of the cubs becomes the new North Wind in [[Fables, Vol. 17: Inherit the Wind]](), of course the rest are going to have to get in trouble all their own. So we have Fables take on the [The Island of Misfit Toys](https://www.youtube.com/watch?v=Gr6GbKciNCY), only far darker and more violent. There's a good(ish??) ending, but man that's a rough story. And for all that to happen to a kid, no matter how magical they may be.  
 
 Not my favorite Fables story, but it's interesting to see where it goes after the fall of the second Big Bad (third if you consider the Literals?). It really does make me wonder though... what's left?

@@ -16,7 +16,7 @@ rating: 3
 page_count: 376
 series_index: [3]
 ---
-Rather than the collection of short stories found in {{< goodreads book="Wild Cards" >}} and {{< goodreads book="Aces High" >}}, {{< goodreads book="Jokers Wild" >}} is instead a mosaic novel, with the storylines all mixed into a single novel length story, with less clear distinction between the characters and their storylines.  
+Rather than the collection of short stories found in [[Wild Cards]]() and [[Aces High]](), [[Jokers Wild]]() is instead a mosaic novel, with the storylines all mixed into a single novel length story, with less clear distinction between the characters and their storylines.  
 
 I'm ... not thrilled with it.  
 
@@ -26,4 +26,4 @@ In the previous case, if you didn't like a particularly story, it wasn't long be
 
 Really, there wasn't much that I cared overmuch about in this book. Seeing Bagabond's dealings with the animal and human worlds was interesting enough. Wraith remains a ridiculous character (a cat burglar who can phase through walls--but only when nearly naked), but her story was fairly interesting. And Hiram Worchester has a lot of potential. So there's something going for it.  
 
-Still. I'm hoping for more in {{< goodreads book="Aces Abroad" >}}.
+Still. I'm hoping for more in [[Aces Abroad]]().

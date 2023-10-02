@@ -16,7 +16,7 @@ rating: 4
 page_count: 432
 series_index: [17]
 ---
-{{< goodreads book="Mars Life" >}} continues the story set out in {{< goodreads book="Mars" >}} and {{< goodreads book="Return to Mars" >}}, with much the same setting and characters (particularly of the latter). Seventeen books in, there's little particularly surprising about Mars Life, but it's still a solid enough entry to the series.  
+[[Mars Life]]() continues the story set out in [[Mars]]() and [[Return to Mars]](), with much the same setting and characters (particularly of the latter). Seventeen books in, there's little particularly surprising about Mars Life, but it's still a solid enough entry to the series.  
 
 For the most part, we're back to dealing with the New Morality (which makes me wonder about the timeline a bit) and greenhouse flooding on Earth. In particularly how they just want to put their heads in the sand and ignore concrete evidence of intelligent life on Mars and user their oomph to get the Mars project shut down entirely. It's interesting enough on one hand, but as mentioned, it's starting to feel like more of the same.  
 

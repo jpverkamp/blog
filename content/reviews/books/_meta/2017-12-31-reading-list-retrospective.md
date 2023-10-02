@@ -29,7 +29,7 @@ Then, there are the two series I didn't actually get around to at all:
 {{< goodreads book="Wild Cards" cover="true" >}}
 {{< goodreads book="The Great Book of Amber" cover="true" >}}
 
-{{< goodreads book="Wild Cards" >}} is another very long series that I'm hoping to actually listen to on audiobook. But Discworld is taking a while (as expected, there are over 30 of them), so that is getting pushed off another year. {{< goodreads book="The Great Book of Amber" >}} I've been putting off too long. I'll read that first (and have actually already started the first one).
+[[Wild Cards]]() is another very long series that I'm hoping to actually listen to on audiobook. But Discworld is taking a while (as expected, there are over 30 of them), so that is getting pushed off another year. [[The Chronicles of Amber]]() I've been putting off too long. I'll read that first (and have actually already started the first one).
 
 Next, a book I just couldn't find in digital form:
 

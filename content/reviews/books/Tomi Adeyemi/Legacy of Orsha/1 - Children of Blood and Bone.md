@@ -18,7 +18,7 @@ series_index: [1]
 ---
 > You crushed us to build your monarchy on the backs of our blood and bone. Your mistake wasn't keeping us alive. it was thinking we'd never fight back.
 
-{{< goodreads book="Children of Blood and Bone" >}} is a rather good book. You have a West African world one generation removed from a genocide which managed to take magic from the world. Radically oppressed former magic users with pockets of resistance here and there--and a main character tossed headfirst into the struggle to return their power.  
+[[Children of Blood and Bone]]() is a rather good book. You have a West African world one generation removed from a genocide which managed to take magic from the world. Radically oppressed former magic users with pockets of resistance here and there--and a main character tossed headfirst into the struggle to return their power.  
 
 <!--more-->
 

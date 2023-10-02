@@ -16,9 +16,9 @@ rating: 5
 page_count: 355
 series_index: [1]
 ---
-It's two parts: {{< goodreads book="Jim Butcher's Dresden Files: Storm Front Vol 1 #2" >}} and {{< goodreads book="Jim Butcher's Dresden Files: Storm Front Vol 1 #2" >}}, but I think that's totally just a binding/printing thing. The story isn't really broken up any differently than the novel already was or than the individual issues that make it up have to be.  
+It's two parts but I think that's totally just a binding/printing thing. The story isn't really broken up any differently than the novel already was or than the individual issues that make it up have to be.  
 
-All together: it's {{< goodreads book="Storm Front" >}} as a comic book.  
+All together: it's [[Storm Front]]() as a comic book.  
 
 <!--more-->
 

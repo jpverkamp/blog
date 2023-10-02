@@ -19,7 +19,7 @@ series_index: [5, 16]
 ---
 Jack in the Wild West. Because of course he is. It's an interesting look at the life of a fable further back in time, Jack in particular. And it's nice to see the contrast between Bigby and Jack. Jack may be a fool, but at least he's a passionate one.  
 
-Then we get some more scenes back in the future where it looks like war is coming to the Jack of the Fables universe as well as the Fables series. Of course they're both more or less at once. I still do wonder if/when the Literals are going to start crossing over to the main series. Perhaps in {{< goodreads book="Fables, Vol. 13: The Great Fables Crossover" >}}?  
+Then we get some more scenes back in the future where it looks like war is coming to the Jack of the Fables universe as well as the Fables series. Of course they're both more or less at once. I still do wonder if/when the Literals are going to start crossing over to the main series. Perhaps in [[Fables, Vol. 13: The Great Fables Crossover]]()?  
 
 <!--more-->
 

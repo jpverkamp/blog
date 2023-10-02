@@ -22,6 +22,6 @@ On the upside, the new setting is just as crazy and cool this time around. Last 
 
 <!--more-->
 
-Finally, plotwise, I'm really starting to feel like there are some interesting parallels to the web serial {{< goodreads book="Worm" >}}. Superheroes driven evil by their powers? Powers potentially granted from... elsewhere? Parallel realities? We'll have to see where Sanderson goes with Calimity. I'd be interested to know if either author has ever read the other's work (Steelheart was released after Worm, but I'm not sure when Sanderson started writing it).  
+Finally, plotwise, I'm really starting to feel like there are some interesting parallels to the web serial [[todo:Worm]](). Superheroes driven evil by their powers? Powers potentially granted from... elsewhere? Parallel realities? We'll have to see where Sanderson goes with Calimity. I'd be interested to know if either author has ever read the other's work (Steelheart was released after Worm, but I'm not sure when Sanderson started writing it).  
 
 Overall, a very strong sequel. I look forward to the conclusion.

@@ -30,7 +30,7 @@ For one: Al is so young to react that way to love.
 
 ![15-58-2-love](/embeds/books/attachments/15-58-2-love.png)  
 
-For two, _definite_ {{< goodreads book="Elantris" >}} vibes... I'm curious tosee if I'm right about that.  
+For two, _definite_ [[Elantris]]() vibes... I'm curious tosee if I'm right about that.  
 
 ![15-58-3-elantris-vibes](/embeds/books/attachments/15-58-3-elantris-vibes.png)  
 

@@ -13,7 +13,7 @@ page_count: 307
 ---
 Review of .  
 
-{{< goodreads book="Pale Green Dot: Sequel to The Forest" >}} is the sequel to {{< goodreads book="The Forest" >}}, but really they should have been (and often are) combined into a single book. The Pale Green Dot continues where The Forest left off and expands the world significantly. We see a bit behind the curtain at just what the Forest is and how the world works.  
+[[Pale Green Dot: Sequel to The Forest]]() is the sequel to [[The Forest]](), but really they should have been (and often are) combined into a single book. The Pale Green Dot continues where The Forest left off and expands the world significantly. We see a bit behind the curtain at just what the Forest is and how the world works.  
 
 <!--more-->
 

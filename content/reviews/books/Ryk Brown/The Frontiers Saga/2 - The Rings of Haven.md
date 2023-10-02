@@ -14,7 +14,7 @@ rating: 4
 page_count: 241
 series_index: [2]
 ---
-{{< goodreads book="The Rings of Haven" >}} takes up right where {{< goodreads book="Aurora: CV-01" >}} left off: a ship and her crew, stranded a thousand light year, having to make friends--and sometimes enemies--in a desperate struggle to survive and make their ways home.  
+[[The Rings of Haven]]() takes up right where [[Aurora: CV-01]]() left off: a ship and her crew, stranded a thousand light year, having to make friends--and sometimes enemies--in a desperate struggle to survive and make their ways home.  
 
 In a way, The Rings of Haven really feels a lot smaller than Aurora: CV-01. It's mostly about establishing a new 'normal' and introducing a few new faces. Which it does well enough, but it's nothing compared to a new world and new technologies and getting blown across the galaxy.  
 

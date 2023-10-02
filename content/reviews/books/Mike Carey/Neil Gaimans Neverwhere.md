@@ -15,7 +15,7 @@ page_count: 224
 ---
 Well that's certainly a thing.  
 
-Almost exactly 4 years and what feels a lifetime ago (January 2017), I read the prose version of {{< goodreads book="Neverwhere" >}}. I didn't actually know it *had a graphic novel version (there are a number of other books in this category I'm finding). But looking back, I'm so very glad it does. The prose version of the story was weird and fantastical and wonderful--and the graphic novel turns that all up to 11, given form to all the strange characters and settings of London Below.  
+Almost exactly 4 years and what feels a lifetime ago (January 2017), I read the prose version of [[Neverwhere]](). I didn't actually know it *had a graphic novel version (there are a number of other books in this category I'm finding). But looking back, I'm so very glad it does. The prose version of the story was weird and fantastical and wonderful--and the graphic novel turns that all up to 11, given form to all the strange characters and settings of London Below.  
 
 <!--more-->
 

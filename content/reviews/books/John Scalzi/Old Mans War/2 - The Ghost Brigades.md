@@ -16,7 +16,7 @@ rating: 5
 page_count: 343
 series_index: [2]
 ---
-After I read {{< goodreads book="Old Man's War" >}}, I went looking for the sequels. While on paper {{< goodreads book="The Ghost Brigades" >}} is the second in the series, it's surprisingly different.  
+After I read [[Old Man's War]](), I went looking for the sequels. While on paper [[The Ghost Brigades]]() is the second in the series, it's surprisingly different.  
 
 We get a lot more of a look into the CDF and specifically Special Forces, which was something that was interesting from the first book.  
 

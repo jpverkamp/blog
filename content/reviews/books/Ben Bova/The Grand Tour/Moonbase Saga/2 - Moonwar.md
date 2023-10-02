@@ -17,7 +17,7 @@ rating: 4
 page_count: 512
 series_index: [2, 6]
 ---
-{{< goodreads book="Moonwar" >}} finishes the story of {{< goodreads book="Moonrise" >}}, really establishing Moonbase as a power in the solar system in its own right and a refuge from the growing New Morality movements on Earth--especially when it comes to developing nano-technology.
+[[Moonwar]]() finishes the story of [[Moonrise]](), really establishing Moonbase as a power in the solar system in its own right and a refuge from the growing New Morality movements on Earth--especially when it comes to developing nano-technology.
 
 There are certainly parts of the story that are hard to believe--particularly just how much control the UN has over ... well, anything, but especially the media. It's just... strange and feels like a manufactured threat. On the other hand, the idea of a religious far right growing to power and working to completely ban 'unnatural' technology (like nanomachines) feels altogether too prescient.
 

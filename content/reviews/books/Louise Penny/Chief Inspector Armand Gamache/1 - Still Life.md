@@ -14,7 +14,7 @@ rating: 4
 page_count: 321
 series_index: [1]
 ---
-Well, there's that. It's a bit out of genre for me--read by group choice, so I really don't know how it compares to it's peer books, but I enjoyed it well enough. It was certainly fascinating to read at the same time as {{< goodreads book="Six Wakes" >}} (which, to be honest, I enjoyed rather more).  
+Well, there's that. It's a bit out of genre for me--read by group choice, so I really don't know how it compares to it's peer books, but I enjoyed it well enough. It was certainly fascinating to read at the same time as [[Six Wakes]]() (which, to be honest, I enjoyed rather more).  
 
 Overall, the plot is fine. It's a murder mystery. There are a few decent bits of interesting world building. It's a small town with what seems to me an unusually large art scene and number of bow hunters. There are some witchy bits which really made me wish this was actually subtle urban fantasy. And a few twists and turns along the way.  
 

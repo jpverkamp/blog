@@ -15,7 +15,7 @@ page_count: 122
 ---
 > The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.
 
-Reading {{< goodreads book="1984" >}} and Animal Farm back to back was ... probably not a great idea. They're entirely too similar. In one, the government already has power and in the other it's an (animal) government coming to power, but the tactics used are all together too similar.  
+Reading [[1984]]() and Animal Farm back to back was ... probably not a great idea. They're entirely too similar. In one, the government already has power and in the other it's an (animal) government coming to power, but the tactics used are all together too similar.  
 
 <!--more-->
 

@@ -22,8 +22,8 @@ series_index: [2]
 
 <!--more-->
 
-That is one heck of a long/dense book, but I quite enjoyed it. It takes all we've seen in {{< goodreads book="Sins of Empire" >}} (Godstones, a Dynize invasion, politics/spying, Landfall falling) and turns it up.  
+That is one heck of a long/dense book, but I quite enjoyed it. It takes all we've seen in [[Sins of Empire]]() (Godstones, a Dynize invasion, politics/spying, Landfall falling) and turns it up.  
 
 It's chock full of battles, both with and without magic. Michel gets to both use his skills in espionage and get the revenge that his hidden self so desires. And Ben Styke learns what we all already knew--that he's more than just a killer. Although he's also really really good at that. General Flint-- has probably the weakest overall story, although the battles she ends up involved with are the craziest.  
 
-By then end, we've found a second Godstone and possibly dealt with it, but I'm still not sure exactly how that's all going to turn out. The big 'twist' around Mara makes me really wonder just how badly things are about to explode. Onwards to find out in {{< goodreads book="Blood of Empire" >}}!
+By then end, we've found a second Godstone and possibly dealt with it, but I'm still not sure exactly how that's all going to turn out. The big 'twist' around Mara makes me really wonder just how badly things are about to explode. Onwards to find out in [[todo:Blood of Empire]]()!

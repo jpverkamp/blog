@@ -16,7 +16,7 @@ rating: 4
 page_count: 361
 series_index: [2]
 ---
-Where {{< goodreads book="Wild Cards" >}} introduced the setting and spanned decades dealing with the introduction of the wild card virus and how the world diverged from our own, {{< goodreads book="Aces High" >}} feels a lot more focused, dealing primarily with two plot lines: the arrival of an alien 'swarm mother' (a hive mind/bio ship intent on eating planets, as one does) and the Masonic conspiracy we first got a glimpse of in Fortunato's introduction.  
+Where [[Wild Cards]]() introduced the setting and spanned decades dealing with the introduction of the wild card virus and how the world diverged from our own, [[Aces High]]() feels a lot more focused, dealing primarily with two plot lines: the arrival of an alien 'swarm mother' (a hive mind/bio ship intent on eating planets, as one does) and the Masonic conspiracy we first got a glimpse of in Fortunato's introduction.  
 
 The story starts out a bit rough. I don't really care for the Mason/Fortunato's plotline. But the swarm stuff is pretty cool and there are a number of fun new characters along with expanded worldbuilding. I like the additional focus. It makes me wonder/expect if each book will have a single topic or two to focus around.  
 
@@ -44,4 +44,4 @@ Individual thoughts:
 
 **Mr. Koyama's Comet** : All he wanted to do was put his name on a comet. Instead, he discovered a swarm coming to destroy the Earth... and may have saved us all in the process? Sure.  
 
-**Half Past Dead** : End of the book, have to get rid of at least one of the plot lines. Wish it was the Masons instead. :) It's interesting how often cancer seems to be turned into a super power in various forms (a la {{< goodreads book="Lilith's Brood" >}} recently for me).
+**Half Past Dead** : End of the book, have to get rid of at least one of the plot lines. Wish it was the Masons instead. :) It's interesting how often cancer seems to be turned into a super power in various forms (a la [[Xenogenesis|Lilith's Brood]]() recently for me).

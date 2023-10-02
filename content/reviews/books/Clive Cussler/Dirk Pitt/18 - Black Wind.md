@@ -16,7 +16,7 @@ rating: 3
 page_count: 639
 series_index: [18]
 ---
-After 18 of these, they're starting to sound awfully familiar. Basically, combine a bit of the Japanese influence from {{< goodreads book="Dragon" >}} and a bit of the mysterious deaths on islands from {{< goodreads book="Shock Wave" >}} and you have {{< goodreads book="Black Wind" >}}. Doesn't make it bad by any stretch of the imagination... just samey.  
+After 18 of these, they're starting to sound awfully familiar. Basically, combine a bit of the Japanese influence from [[Dragon]]() and a bit of the mysterious deaths on islands from [[Shock Wave]]() and you have [[Black Wind]](). Doesn't make it bad by any stretch of the imagination... just samey.  
 
 I think the crazies part of listening to this book was doing so while on lockdown from COVID-19. It's not quite as bad as a weaponized smallpox by a long shot, but Cussler's descriptions of the world shutting down, health facilities and morgues being overloaded was disturbingly prescient. Given that he passed in February, before the full extent of what was coming had really hit the United States, I wonder if he could have imagination it coming to life.  
 

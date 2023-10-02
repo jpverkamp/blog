@@ -18,7 +18,7 @@ series_index: [1]
 ---
 > If I have a real name, I've never known it. I'm called Hellboy.
 
-I recently discovered [comiXology](https://www.comixology.com/) (mostly for reading {{< goodreads book="Fullmetal Alchemist, Vol. 1" >}}). Hellboy was one of the comiXology Unlimited suggested reads. Free trial? Let's do it.  
+I recently discovered [comiXology](https://www.comixology.com/) (mostly for reading [[Fullmetal Alchemist, Vol. 1]]()). Hellboy was one of the comiXology Unlimited suggested reads. Free trial? Let's do it.  
 
 <!--more-->
 

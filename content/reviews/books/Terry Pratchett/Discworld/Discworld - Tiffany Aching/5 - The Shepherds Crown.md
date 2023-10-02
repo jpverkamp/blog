@@ -23,11 +23,11 @@ And so it ends.
 
 <!--more-->
 
-{{< goodreads book="The Shepherd's Crown" >}} is the last published Discworld novel and the last one I have to read. It wasn't quite finished when Pratchett died, although due to the style in which Pratchett wrote, the overall feel is there, along with some parts that are rather solid... and some that are less so.  
+[[The Shepherd's Crown]]() is the last published Discworld novel and the last one I have to read. It wasn't quite finished when Pratchett died, although due to the style in which Pratchett wrote, the overall feel is there, along with some parts that are rather solid... and some that are less so.  
 
 It starts out hitting hard--with the death of one of the core Discworld characters we've come to know and love--and builds from there. It turns out to be a solid last book, with guest appearances by name of the Witches, along with a handful from the other lines.  
 
-One of the odd subplots is Geoffrey, a young boy who wants to become a witch. I wasn't particularly interested in the plot line. Subverting gender roles is something Pratchett has already done a handful of times (in   {{< goodreads book="Equal Rites" >}} and {{< goodreads book="Monstrous Regiment" >}} in particular), but it's a fine enough subplot.  
+One of the odd subplots is Geoffrey, a young boy who wants to become a witch. I wasn't particularly interested in the plot line. Subverting gender roles is something Pratchett has already done a handful of times (in   [[Equal Rites]]() and [[Monstrous Regiment]]() in particular), but it's a fine enough subplot.  
 
 Overall, even weak as some parts are, I'd rather have it than not. It's a fitting end to a wonderful series.  
 

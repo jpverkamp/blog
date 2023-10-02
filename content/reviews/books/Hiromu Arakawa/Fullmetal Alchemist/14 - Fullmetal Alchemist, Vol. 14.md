@@ -48,7 +48,7 @@ I DON'T EVEN KNOW WHAT'S GOING ON, BUT IT'S INTERESTING!
 
 ![14-55-1-What](/embeds/books/attachments/14-55-1-what.png)  
 
-Also, I'm getting some strong {{< goodreads book="Elantris" >}} vibes from the non-locals still being able to use Alchemy. That's interesting.  
+Also, I'm getting some strong [[Elantris]]() vibes from the non-locals still being able to use Alchemy. That's interesting.  
 
 **Chapter 56: The Lion of the Round Table**  
 

@@ -13,7 +13,7 @@ isbn13: '9780061139376'
 rating: 5
 page_count: 162
 ---
-Before I ever read Coraline, I watched the movie and read {{< goodreads book="American Gods" >}}. I quite enjoyed the former, while the latter was... not exactly my favorite. So I was cautiously optimistic that I would like Coraline.  
+Before I ever read Coraline, I watched the movie and read [[American Gods]](). I quite enjoyed the former, while the latter was... not exactly my favorite. So I was cautiously optimistic that I would like Coraline.  
 
 Well, consider the optimism well founded. I'll never know if I enjoyed the book more because of the film or if I would have liked it as much had I read it first. So it goes. As it stands, I got a nice mix of the book's / Gaiman's way with words combined with the wonderfully bizarre visuals from the film. It made for quite the experience.  
 

@@ -14,7 +14,7 @@ rating: 4
 page_count: 336
 series_index: [3]
 ---
-After John's story in {{< goodreads book="Old Man's War" >}} and Jane's (to some extent) in {{< goodreads book="The Ghost Brigades" >}}, this time around we get both of them. They're together now and raising Zoë (how's that for a complicated family), when they're tapped to head an entirely new colony planet Roanoke--with the first city named Croatoan. Also... why would they even agree to that?  
+After John's story in [[Old Man's War]]() and Jane's (to some extent) in [[The Ghost Brigades]](), this time around we get both of them. They're together now and raising Zoë (how's that for a complicated family), when they're tapped to head an entirely new colony planet Roanoke--with the first city named Croatoan. Also... why would they even agree to that?  
 
 I mean... come on. Either no one knows the history behind the names--in which case why in the world would they be using them--or they do--in which case why in the world would you choose _that_ to name your new colony. Granted, they turn out to want it to be lost, but still. It's a bit annoying.  
 
@@ -40,7 +40,7 @@ And for that matter, for a story with over 400 alien species ... I really don't 
 
 On the other hand, there's lots of lovely scifi action and just enough bigger universe worldbuilding to keep me intrigued. I really want to know where the universe goes from here--despite this being the last book in the original trilogy.  
 
-Overall, probably my least favorite of the series thus far. But worth giving {{< goodreads book="Zoe's Tale" >}} a look.  
+Overall, probably my least favorite of the series thus far. But worth giving [[Zoe's Tale]]() a look.  
 
 > “Hickory, have you ever lied to me?” I asked.  
 >

@@ -16,7 +16,7 @@ rating: 5
 page_count: 221
 series_index: [6]
 ---
-After [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]](), {{< goodreads book="The Magician's Nephew" >}} is probably the best of the Chronicles of Narina. Perhaps even *the* best.  
+After [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]](), [[The Magician's Nephew]]() is probably the best of the Chronicles of Narina. Perhaps even *the* best.  
 
 > What you see and what you hear depends a great deal on where you are > standing. It also depends on what sort of person you are.
 
@@ -28,4 +28,4 @@ It's still not a super deep book. The good characters are Good, the bad guys are
 
 Orderwise, I think putting this near the end is probably the right idea. You would have a bit more backstory if you read this first (as you would chronologically), but that's not always for the best.  
 
-Onwards and {{< goodreads book="The Last Battle" >}}wards!
+Onwards and [[The Last Battle]]()wards!

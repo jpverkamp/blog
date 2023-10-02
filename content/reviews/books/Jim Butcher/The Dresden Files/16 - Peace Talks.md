@@ -20,7 +20,7 @@ Holy crap.
 
 <!--more-->
 
-It's been years since {{< goodreads book="Skin Game" >}} and then we learn that we're going to get two books in a year? Well, really one book big enough to be split into two more normally sized books. I actually put off reading {{< goodreads book="Peace Talks" >}} until {{< goodreads book="Battle Ground" >}} was out and really, that's the best way to read these books. They really are two halves of a whole and the better for it.  
+It's been years since [[Skin Game]]() and then we learn that we're going to get two books in a year? Well, really one book big enough to be split into two more normally sized books. I actually put off reading [[Peace Talks]]() until [[Battle Ground]]() was out and really, that's the best way to read these books. They really are two halves of a whole and the better for it.  
 
 It's fascinating to get glimpses of the bigger world, with all of the major players coming into town for 'peace talks' (we all know how that's going to go). We don't get as much of the bigger scenes as I would have liked and Dresden certainly takes not talking to or trusting anyone to an art form, but he's certainly got his reasons. I really do wonder what McCoy's beef with the Vampires is. Just a long life to fight them? Something more?  
 

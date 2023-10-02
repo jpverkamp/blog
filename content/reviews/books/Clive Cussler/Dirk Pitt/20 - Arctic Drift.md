@@ -32,4 +32,4 @@ I still really do enjoy the characters of Dirk Pitt...
 
 ...and you do get some crazy scenes, like a ship frozen into a wall, loaded with black powder. Not the strongest book in the series, but it's fine.  
 
-[^ice]: {{< goodreads book="Iceberg" >}}   [^mine]: {{< goodreads book="Shock Wave" >}}   [^oil]: {{< goodreads book="Valhalla Rising" >}}   [^warming]: In a bunch of them, that hasn't really shown up for a while though.
+[^ice]: [[Iceberg]]()   [^mine]: [[Shock Wave]]()   [^oil]: [[Valhalla Rising]]()   [^warming]: In a bunch of them, that hasn't really shown up for a while though.

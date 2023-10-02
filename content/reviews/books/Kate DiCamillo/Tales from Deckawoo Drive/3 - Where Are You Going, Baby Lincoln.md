@@ -18,7 +18,7 @@ series_index: [3]
 ---
 I've started reading chapter books to my children at night. They get to chose (from what we have) and this is where we begin. I don't think I could have chosen a better first book.  
 
-{{< goodreads book="Where Are You Going, Baby Lincoln?" >}} tells the story of Baby Lincoln striking out on her own, taking a Necessary Journey by train to... well, it doesn't really matter in the end, does it? (Fluxom. They're going to Fluxom.)  
+[[Where Are You Going, Baby Lincoln?]]() tells the story of Baby Lincoln striking out on her own, taking a Necessary Journey by train to... well, it doesn't really matter in the end, does it? (Fluxom. They're going to Fluxom.)  
 
 <!--more-->
 

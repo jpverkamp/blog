@@ -16,7 +16,7 @@ rating: 5
 page_count: 399
 series_index: [1]
 ---
-I've read {{< goodreads book="The Golden Compass" >}} before, but it's been a few years. On top of that, this time around, I listened to it as an audiobook (the full cast reading, I'm not sure if there is another). I have fond memories of this book and for the most part, they were met on re-read, which is something you don't always get.  
+I've read [[The Golden Compass]]() before, but it's been a few years. On top of that, this time around, I listened to it as an audiobook (the full cast reading, I'm not sure if there is another). I have fond memories of this book and for the most part, they were met on re-read, which is something you don't always get.  
 
 The core of the book is a world where people's spirits / souls / conscious exists as a separate being, a daemon who takes the form of an animal companion --changing and mutable at first and eventually settling into a single form for adults that represents the core of who they are. It's an interesting idea and well done, to the point that it feels natural, to the point that I almost wish I could live in this world, just to see who my daemon might be.  
 

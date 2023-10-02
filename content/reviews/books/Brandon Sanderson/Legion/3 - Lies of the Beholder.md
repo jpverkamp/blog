@@ -18,7 +18,7 @@ series_index: [3]
 ---
 > “Who cares?” I said. “Yes, it’s all in my head. But pain is ‘all in my head’ too. Love is ‘all in my head.’ All the things that matter in life are the things you can’t measure! The things our brains make up! Being made-up doesn’t make them unimportant.”
 
-It's been a few years since I last read {{< goodreads book="Legion" >}} and {{< goodreads book="Skin Deep" >}}, so when I saw a there was a new (and apparently last) part out, I had to give it a try. This time around, I listened to all three on audiobook and that, I can highly recommend. It's a solid production and each aspect having their own voice helps that little bit more.  
+It's been a few years since I last read [[Legion]]() and [[Skin Deep]](), so when I saw a there was a new (and apparently last) part out, I had to give it a try. This time around, I listened to all three on audiobook and that, I can highly recommend. It's a solid production and each aspect having their own voice helps that little bit more.  
 
 <!--more-->
 

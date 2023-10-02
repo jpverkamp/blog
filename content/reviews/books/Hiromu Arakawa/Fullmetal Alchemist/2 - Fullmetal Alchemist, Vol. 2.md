@@ -16,7 +16,7 @@ rating: 5
 page_count: 182
 series_index: [2]
 ---
-{{< goodreads book="Fullmetal Alchemist, Vol. 2" >}} sees the introduction of a number of the other National Alchemists, with their ridiculous names  
+[[Fullmetal Alchemist, Vol. 2]]() sees the introduction of a number of the other National Alchemists, with their ridiculous names  
 
 ![](/embeds/books/attachments/fullmetal-alchemist-vol-2-x-1.png)  
 

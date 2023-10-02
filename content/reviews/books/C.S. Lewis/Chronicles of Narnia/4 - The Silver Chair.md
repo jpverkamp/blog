@@ -14,7 +14,7 @@ rating: 5
 page_count: 243
 series_index: [4]
 ---
-{{< goodreads book="The Silver Chair" >}} takes place a year and a lifetime after {{< goodreads book="The Voyage of the Dawn Treader" >}}. In our world, Eustace (no N apparently) has grown up slightly and is now attending a--gasp--hyper secular school[^belief]. He's still for the most part the better character he grew to be on his voyages and it's nice to see someone we've seen before. But in Narnia, his friend King Caspian is old, with a son of his own, missing for years in his own right. And of course Eustace screws up his first--and perhaps last--meeting with an old friend.  
+[[The Silver Chair]]() takes place a year and a lifetime after [[The Voyage of the Dawn Treader]](). In our world, Eustace (no N apparently) has grown up slightly and is now attending a--gasp--hyper secular school[^belief]. He's still for the most part the better character he grew to be on his voyages and it's nice to see someone we've seen before. But in Narnia, his friend King Caspian is old, with a son of his own, missing for years in his own right. And of course Eustace screws up his first--and perhaps last--meeting with an old friend.  
 
 Along for the ride is the first new female character we've seen in a while: Jill. She goes to school with Eustance and the both of them are outcasts, being bullied. I like her. One problem we've always had with Narnia is that women/girls are either perfect (like Susan and Lucy) or evil (like the White Witch). Jill is a pretty decent yet still nicely conflicted woman. I love this.  
 

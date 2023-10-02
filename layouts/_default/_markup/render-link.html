@@ -1,5 +1,38 @@
 {{-
-if (and (strings.HasPrefix .PlainText "[")
+if (and (strings.HasPrefix .PlainText "[todo:")
+        (strings.HasSuffix .PlainText "]")
+        (eq .Destination ""))
+-}}
+    {{- /*
+        Future Crosslinks:
+            [[todo:Title]]() 
+            [[todo:Title|Text]]()
+
+        Render text if the link *doesn't* exist; if it does, error.
+    */ -}}
+
+
+    {{- if gt (strings.Count .PlainText "|") 1 -}}
+    {{ errorf "Markdown crosslink error in %s, multiple | in %s" .Page.File.Path .PlainText }}
+    {{- end -}}
+
+    {{- $fixedText := substr .PlainText 5 -1 -}} 
+    {{- $fixedText = (replace $fixedText "&lsquo;" "'") -}}
+    {{- $fixedText = (replace $fixedText "&rsquo;" "'") -}}
+
+    {{- $parts := split $fixedText "|"  -}}
+    {{- $title := index $parts 0 -}}
+    {{- $text := index $parts (sub (len $parts) 1) -}}
+
+    {{- range $page := .Page.Site.AllPages -}}
+        {{- if (eq $page.Title $title) -}}
+            {{ errorf "TODO crosslink now exists for title: %s, title: %s" .Page.File.Path $title $text }}
+        {{- end -}}
+    {{- end -}}
+    
+    {{ $text }}
+{{-
+else if (and (strings.HasPrefix .PlainText "[")
         (strings.HasSuffix .PlainText "]")
         (eq .Destination ""))
 -}}
@@ -19,7 +52,7 @@ if (and (strings.HasPrefix .PlainText "[")
 
     {{- $scratch := newScratch -}}
 
-    {{- $fixedText := substr .PlainText 1 -1 }}
+    {{- $fixedText := substr .PlainText 1 -1 -}}
     {{- $fixedText = (replace $fixedText "&lsquo;" "'") -}}
     {{- $fixedText = (replace $fixedText "&rsquo;" "'") -}}
 

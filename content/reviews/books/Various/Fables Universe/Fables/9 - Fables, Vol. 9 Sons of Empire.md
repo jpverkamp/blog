@@ -17,7 +17,7 @@ rating: 5
 page_count: 202
 series_index: [9, 12]
 ---
-{{< goodreads book="Fables, Vol. 9: Sons of Empire" >}}. The calm before the storm. It's a number of somewhat lighter tales (relatively speaking!) showing how both sides are preparing to strike back.  
+[[Fables, Vol. 9: Sons of Empire]](). The calm before the storm. It's a number of somewhat lighter tales (relatively speaking!) showing how both sides are preparing to strike back.  
 
 We get a bit more detail on Frau Totenkinder--who turns out to be even more than we thought--and Ambrose/Flycatcher, who seems to have quite the backstory. And of course, the Wolf clan. They're always a lot of fun.  
 

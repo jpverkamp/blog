@@ -13,7 +13,7 @@ page_count: 398
 ---
 I've played a number of Zachtronics games. [SpaceChem](http://www.zachtronics.com/spacechem/) and [Opus Magnum](http://www.zachtronics.com/opus-magnum/). [TIS-100](http://www.zachtronics.com/tis-100/) and [Ironclad Tactics](http://www.zachtronics.com/ironclad-tactics/). For a programmer/code geek/puzzle lover like me, they're a wonderful sort of thing.  
 
-And from the standpoint of someone that's made a few very small games, loves to learn about how they're made, and would like to do more with game design, {{< goodreads book="ZACH-LIKE, A Game Design History" >}} is a fascinating read.  
+And from the standpoint of someone that's made a few very small games, loves to learn about how they're made, and would like to do more with game design, [[ZACH-LIKE, A Game Design History]]() is a fascinating read.  
 
 <!--more-->
 

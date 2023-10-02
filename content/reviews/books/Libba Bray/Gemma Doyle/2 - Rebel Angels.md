@@ -18,7 +18,7 @@ series_index: [2]
 ---
 Goodness. That's quite a story.  
 
-While {{< goodreads book="A Great and Terrible Beauty" >}} primarily focused around the boarding school life with hints of a relatively benign magic (with a fair few hints of darkness under the surface), Rebel Angels expands the world both to the greater society of the time and delves much deeper into the dark, creepy bits of the Realms--not the least of which is Pippa. Dead... but not? It's a way to deal with loss, but there's no way this is possible going to end well.  
+While [[A Great and Terrible Beauty]]() primarily focused around the boarding school life with hints of a relatively benign magic (with a fair few hints of darkness under the surface), Rebel Angels expands the world both to the greater society of the time and delves much deeper into the dark, creepy bits of the Realms--not the least of which is Pippa. Dead... but not? It's a way to deal with loss, but there's no way this is possible going to end well.  
 
 <!--more-->
 

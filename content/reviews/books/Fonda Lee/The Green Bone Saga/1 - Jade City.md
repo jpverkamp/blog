@@ -16,7 +16,7 @@ series_index: [1]
 ---
 > A man who wears the crown of a king can’t wear the jade of a warrior. Gold > and jade, never together.
 
-Take a mix of Chinese/Japanese culture, an almost modern setting (it sometimes feels like the 20s and sometimes like the straight modern day), magic based on how much Jade you're wearing (but only if you're from a bloodline that can use it--or have taken drugs that let you pretend you are), and throw in a country controlled by a pair of rival equivalents to the Mafia/Yakuza and you have {{< goodreads book="Jade City" >}}.  
+Take a mix of Chinese/Japanese culture, an almost modern setting (it sometimes feels like the 20s and sometimes like the straight modern day), magic based on how much Jade you're wearing (but only if you're from a bloodline that can use it--or have taken drugs that let you pretend you are), and throw in a country controlled by a pair of rival equivalents to the Mafia/Yakuza and you have [[Jade City]]().  
 
 <!--more-->
 

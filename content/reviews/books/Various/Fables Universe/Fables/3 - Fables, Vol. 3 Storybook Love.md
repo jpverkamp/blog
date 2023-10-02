@@ -17,7 +17,7 @@ rating: 5
 page_count: 192
 series_index: [3, 3]
 ---
-{{< goodreads book="Fables, Vol. 3: Storybook Love" >}}. I never would have expected extortion and a heist story!  
+[[Fables, Vol. 3: Storybook Love]](). I never would have expected extortion and a heist story!  
 
 The first chapter is a short that doesn't really bear on the rest, with one of teh age old tales of tricking the Devil, capturing Death--and the problems inheriant in that. It's a great stand alone, but a bit jarring that it doesn't fit with the rest. I guess that's part of the collected format.  
 

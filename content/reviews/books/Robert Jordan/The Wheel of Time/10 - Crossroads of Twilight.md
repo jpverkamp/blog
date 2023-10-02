@@ -28,4 +28,4 @@ Perrin seeking Faile, growing harder all the while? Intense, but longer than it 
 
 It's interesting to see how everyone from all over the world reacts to the Cleansing of Saidin in the previous book. Cements just how much Power they were using...  
 
-Overall, it feels like not much happens. Luckily everything starts speeding up again in {{< goodreads book="Knife of Dreams" >}}.
+Overall, it feels like not much happens. Luckily everything starts speeding up again in [[Knife of Dreams]]().

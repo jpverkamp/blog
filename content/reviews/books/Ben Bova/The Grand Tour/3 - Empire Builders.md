@@ -16,7 +16,7 @@ rating: 4
 page_count: 416
 series_index: [3]
 ---
-In {{< goodreads book="Powersat" >}}, the big bads were terrorists. In {{< goodreads book="Privateers" >}}, the Russians. In {{< goodreads book="The Empire Builders" >}} it's... global warming and the mob?
+In [[Powersat]](), the big bads were terrorists. In [[Privateers]](), the Russians. In *The Empire Builders* it's... global warming and the mob?
 
 Given how times have changed, it's amusing to see the specter of a 'greenhouse cliff' looming over the world, with no one believing at first that such a thing is even possible. Nowdays, you'll see arguments over if it's happening or not (more and more rarely) and if we caused it in the first place (of course we did), but you'd be hard pressed to find too many people that have never even heard of the idea. That's what you get for reading near future sci- fi written a quarter century ago I guess. It's a straight forward enough plot with a few twists through politics, squatters on the moon and natural disasters and an engaging read. I find myself increasingly interested in what happens to this other Earth.
 
@@ -28,4 +28,4 @@ Characterwise, it's most interesting to see the growth of Vasily Malik and his r
 
 Overall, it's my favorite of the series so far.
 
-Next up: {{< goodreads book="Mars" >}}! I remember quite enjoying that book.
+Next up: [[Mars]]()! I remember quite enjoying that book.

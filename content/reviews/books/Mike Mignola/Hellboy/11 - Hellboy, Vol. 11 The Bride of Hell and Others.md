@@ -24,7 +24,7 @@ Another collection of shorts.
 
 ![Hellboy-11-1-Hellboy-in-Mexico](/embeds/books/attachments/hellboy-11-1-hellboy-in-mexico.png)  
 
-All righty then! It's a pretty cool story, fun to see a new theme. A bit confusing where there's an entire collection named the same: {{< goodreads book="Hellboy in Mexico" >}}  
+All righty then! It's a pretty cool story, fun to see a new theme. A bit confusing where there's an entire collection named the same: [[Hellboy in Mexico]]()  
 
  **The House:**  
 

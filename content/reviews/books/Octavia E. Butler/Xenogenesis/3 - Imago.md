@@ -16,7 +16,7 @@ rating: 5
 page_count: 220
 series_index: [3]
 ---
-{{< goodreads book="Imago" >}} closes out the Lilith's Brood trilogy, continuing and building on a lot of the general world building set out in {{< goodreads book="Dawn" >}} and {{< goodreads book="Adulthood Rites" >}}. This time around, we're not directly following either Lilith or Akin, but rather Jodahs, perhaps the least human protagonist of the series--as he will be the first human/Oankali hybrid that appears to be growing up to be neither male nor female, instead growing up ooloi.  
+[[Imago]]() closes out the Lilith's Brood trilogy, continuing and building on a lot of the general world building set out in [[Dawn]]() and [[Adulthood Rites]](). This time around, we're not directly following either Lilith or Akin, but rather Jodahs, perhaps the least human protagonist of the series--as he will be the first human/Oankali hybrid that appears to be growing up to be neither male nor female, instead growing up ooloi.  
 
 It's a fascinating and weird point of view, especially given that he's even more alien than the ooloi have been all along--which is saying something. With his human traits, he has even more power to literally rewrite the genes of anything he touches.  
 

@@ -16,7 +16,7 @@ rating: 4
 page_count: 592
 series_index: [5]
 ---
-{{< goodreads book="Down and Dirty" >}} is a bit of an odd duck, with some stories taking place at the same time as the world tour of {{< goodreads book="Aces Abroad" >}} while others take place after. There are mafia plotlines, political plotlines with the Puppetman, and a bit of an internal struggle for both Tachyon and the Turtle. As with any of the short story collections, there's a wide variety of stories, for better and for worse.  
+[[Down and Dirty]]() is a bit of an odd duck, with some stories taking place at the same time as the world tour of [[Aces Abroad]]() while others take place after. There are mafia plotlines, political plotlines with the Puppetman, and a bit of an internal struggle for both Tachyon and the Turtle. As with any of the short story collections, there's a wide variety of stories, for better and for worse.  
 
 Individual stories:  
 
@@ -24,7 +24,7 @@ Individual stories:
 
  **Only the Dead Know Jokertown** : Yeoman is surprisingly interesting and I'm intrigued by his developing relationship with Wraith. The actual crime families storylines are not my favorite, but I do like the characters.  
 
-**All the King's Horses** : The story of the Turtle (one of my favorite characters) after the events of {{< goodreads book="Jokers Wild" >}}. Seeing Tom as independent from the Turtle and investigating all the baggage and PTSD that can come from clashing super heros is fascinating. A good story, split into parts throughout the book.  
+**All the King's Horses** : The story of the Turtle (one of my favorite characters) after the events of [[Jokers Wild]](). Seeing Tom as independent from the Turtle and investigating all the baggage and PTSD that can come from clashing super heros is fascinating. A good story, split into parts throughout the book.  
 
 **Concerto for Siren and Serotonin** : Croyd/The Sleeper is another one of the most interesting stories of the Wild Cards series. It's always interesting to see what new powers and trouble he'll have and with the added trouble of stimulants driving him more and more mad the longer he stays awake... It's a crazy story (and a fun title). The Typhoid Croyd story is a bit odd as well, but interesting. How do you stop and contain someone that powerful who may not be in entire control of themselves? Without killing them...  
 

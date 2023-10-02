@@ -47,7 +47,7 @@ Oh how things have changed living in the age of the coronavirus. Oy.
 
 Overall, some of the chapters are awesome, some are a bit weak, but you could do worse than giving it a chance.  
 
-And hey, apparently this is actually the sequel? {{< goodreads book="What If? Serious Scientific Answers to Absurd Hypothetical Questions" >}}. Oops! Gotta go read that one now.  
+And hey, apparently this is actually the sequel? [[todo:What If? Serious Scientific Answers to Absurd Hypothetical Questions]](). Oops! Gotta go read that one now.  
 
 [^1]: Pirate
 [^2]: Piracy

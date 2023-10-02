@@ -29,7 +29,7 @@ So I've decided that I'm going to read the Fables serieses(sp?) in published ord
 
 All combined into the overall {{< goodreads series="Fables +" text="Fables Universe" >}}.  
 
-For the first outing, *The (Nearly) Great Escape* is quite a story. After the events of {{< goodreads book="Fables, Vol. 6: Homelands" >}}, Jack is on the run, only to be captured by some sort of Men in Black feeling organization that wants to do study and depower Fables. Cool concept, kind of terrifying execution. And hey, Goldilocks survived after all. Called that.  
+For the first outing, *The (Nearly) Great Escape* is quite a story. After the events of [[Fables, Vol. 6: Homelands]](), Jack is on the run, only to be captured by some sort of Men in Black feeling organization that wants to do study and depower Fables. Cool concept, kind of terrifying execution. And hey, Goldilocks survived after all. Called that.  
 
 It's a crazy wonderful tale and I'm glad I read it here. Makes sense before everything continues to go mad.  
 

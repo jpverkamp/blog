@@ -49,9 +49,9 @@ After that, we have a few rereads:
 {{< goodreads book="Sabriel" cover="true" >}}
 {{< goodreads book="The Golden Compass" cover="true" >}}
 
-{{< goodreads book="The Way of Kings" >}} and {{< goodreads book="Sabriel" >}} I'm rereading mostly because each has a new (to me) book that I haven't read. {{< goodreads book="The Merchant of Death" >}} and {{< goodreads book="The Golden Compass" >}} are just series that I haven't reread in years.
+[[The Way of Kings]]() and [[Sabriel]]() I'm rereading mostly because each has a new (to me) book that I haven't read. [[The Merchant of Death]]() and [[The Golden Compass]]() are just series that I haven't reread in years.
 
-Then we have {{< goodreads book="Mortal Engines" >}}. It's got a [movie coming out](http://www.imdb.com/title/tt1571234/?ref_=fn_al_tt_1) this year, so it would be good to read it and compare.
+Then we have [[Mortal Engines]](). It's got a [movie coming out](http://www.imdb.com/title/tt1571234/?ref_=fn_al_tt_1) this year, so it would be good to read it and compare.
 
 {{< goodreads book="Mortal Engines" cover="true" >}}
 

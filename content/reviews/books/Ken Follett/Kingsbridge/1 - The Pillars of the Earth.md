@@ -16,7 +16,7 @@ series_index: [1]
 ---
 > The most expensive part of building is the mistakes.
 
-{{< goodreads book="The Pillars of the Earth" >}} is not what I expected. As the blurb said, it's a book full of _intrigue, action, and romance_ , but it's also a giant of a book, set in the twelfth century, following the life and times of several families in a Middle Age English town through everything from daily life to the decades long building of a cathedral to a civil war.  
+[[The Pillars of the Earth]]() is not what I expected. As the blurb said, it's a book full of _intrigue, action, and romance_ , but it's also a giant of a book, set in the twelfth century, following the life and times of several families in a Middle Age English town through everything from daily life to the decades long building of a cathedral to a civil war.  
 
 <!--more-->
 

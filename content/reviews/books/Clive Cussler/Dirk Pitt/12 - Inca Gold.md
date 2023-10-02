@@ -60,7 +60,7 @@ That doesn't mean it's necessarily the right thing to do.
 
 > Womenwise, Cussler has progressed a lot through this books. Heck, one of the main characters is a Congresswoman who sometimes at least can hold her own with Pitt. That being said, exactly how many times has she been kidnapped? This book alone? Oy.  
 
-It's also interesting that Pitt's pining for Summer (from {{< goodreads book="Pacific Vortex!" >}}) has come up again. I don't recall that in any of the intervening books. It makes sense and it's making Pitt a more solid character, but ... now?  
+It's also interesting that Pitt's pining for Summer (from [[Pacific Vortex!]]()) has come up again. I don't recall that in any of the intervening books. It makes sense and it's making Pitt a more solid character, but ... now?  
 
 Oh. And of course Cussler is back:  
 

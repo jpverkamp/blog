@@ -16,7 +16,7 @@ rating: 4
 page_count: 128
 series_index: [5]
 ---
-So... the children own a town now? That's cool. And Mike's family ({{< goodreads book="Surprise Island" >}}) lives there. Such mystery!  
+So... the children own a town now? That's cool. And Mike's family ([[Surprise Island]]()) lives there. Such mystery!  
 
 No, actually the mystery comes up when Mike's house burns down. Which ... actually ends up working out because instead of doing laundry (which she doesn't care for) now Mike's mother can make pies for a living. 60 pies a day! Sure.  
 

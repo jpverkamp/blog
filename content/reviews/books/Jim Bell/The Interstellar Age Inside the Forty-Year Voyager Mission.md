@@ -13,7 +13,7 @@ page_count: 324
 ---
 I love space. Space missions, thinking about other planets/worlds/alien life. It's all so cool to me. I also read a huge amount, primarily science fiction and fantasy. One thing I get less of though is non-fiction, and from time to time I try to fix that.  
 
-{{< goodreads book="The Interstellar Age: Inside the Forty-Year Voyager Mission" >}} is a great way to change that. (That's quite the title).  
+[[The Interstellar Age: Inside the Forty-Year Voyager Mission]]() is a great way to change that. (That's quite the title).  
 
 <!--more-->
 

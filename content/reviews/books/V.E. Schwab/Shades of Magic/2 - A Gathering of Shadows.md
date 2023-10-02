@@ -24,7 +24,7 @@ series_index: [2]
 
 <!--more-->
 
-{{< goodreads book="A Darker Shade of Magic" >}} was dark and fantastic, with wide varieties of magic and travels/travelers between worlds and things going from bad to worse. In the end, good triumphs over evil (more or less). So where to go for a sequel?  
+[[A Darker Shade of Magic]]() was dark and fantastic, with wide varieties of magic and travels/travelers between worlds and things going from bad to worse. In the end, good triumphs over evil (more or less). So where to go for a sequel?  
 
 The Tri-Wizard tournament!  
 
@@ -52,6 +52,6 @@ They're wonderfully weird, Lila in particular. A badass with a wicked, often dry
 
 Although man does she make a number of questionable choices with seemingly no repercussions. Murder, kidnapping... There's something to be said for being a protagonist it seems.  
 
-It's also nice seeing Rhy grow into his own, with both a royal and a non- magical viewpoint among a pile of magical heavyweights. Especially learning more about just what Kell did to save him in the climax of {{< goodreads book="A Darker Shade of Magic" >}}. Newcomer Alucard is quite a bit of fun as well, acting as as second mentor figure to Lila's more piratical tendencies. Plus  
+It's also nice seeing Rhy grow into his own, with both a royal and a non- magical viewpoint among a pile of magical heavyweights. Especially learning more about just what Kell did to save him in the climax of [[A Darker Shade of Magic]](). Newcomer Alucard is quite a bit of fun as well, acting as as second mentor figure to Lila's more piratical tendencies. Plus  
 
-The main downside of the book? It's one of the worst 'second of a trilogy' books I've ever read, with a far lighter plot than the first and ending on a literal cliffhanger. It works if all three are out; I'm just glad I didn't read it before {{< goodreads book="A Conjuring of Light" >}} was released.
+The main downside of the book? It's one of the worst 'second of a trilogy' books I've ever read, with a far lighter plot than the first and ending on a literal cliffhanger. It works if all three are out; I'm just glad I didn't read it before [[A Conjuring of Light]]() was released.

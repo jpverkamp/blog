@@ -16,7 +16,7 @@ rating: 5
 page_count: 224
 series_index: [27]
 ---
-And so it ends. {{< goodreads book="Fullmetal Alchemist, Vol. 26" >}} was absolutely bonkers, so to say that the final battle actually takes a step back and makes the ending all the more ... human, that's saying something.  
+And so it ends. [[Fullmetal Alchemist, Vol. 26]]() was absolutely bonkers, so to say that the final battle actually takes a step back and makes the ending all the more ... human, that's saying something.  
 
 But you know what? I think they really pulled off the landing. No idea how or really what in the world was going on there, but it all comes together.  
 

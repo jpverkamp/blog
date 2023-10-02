@@ -14,7 +14,7 @@ rating: 5
 page_count: 621
 series_index: [1]
 ---
-Without reading more than the summary and without having read much if at all from the LitRPG genre before, the first 10% or so of {{< goodreads book="Sufficiently Advanced Magic" >}} felt rather strange. We open with the protagonist, Corin Cadence, going into the Serpent Spire, "a colossal tower with ever-shifting rooms, traps, and monsters". The description of the tower and the rooms and especially the magic of the world feels rather like someone took a role-playing game rulebook and wrote a book about it. And... it turns out that's exactly what LitRPG novels are supposed to feel like.  
+Without reading more than the summary and without having read much if at all from the LitRPG genre before, the first 10% or so of [[Sufficiently Advanced Magic]]() felt rather strange. We open with the protagonist, Corin Cadence, going into the Serpent Spire, "a colossal tower with ever-shifting rooms, traps, and monsters". The description of the tower and the rooms and especially the magic of the world feels rather like someone took a role-playing game rulebook and wrote a book about it. And... it turns out that's exactly what LitRPG novels are supposed to feel like.  
 
 That part of the book continues to feel weird to me throughout--it's the hardest of hard magic systems, with overly specified classes of mana and magic, with well defined levels and powers for each of them. I actually like that sort of thing, but there are long sections of exposition that get a bit hard to stay focused on.  
 

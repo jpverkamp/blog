@@ -16,7 +16,7 @@ rating: 4
 page_count: 437
 series_index: [1]
 ---
-Among the three Hodge books I've read thus far ({{< goodreads book="Cruel Beauty" >}} and {{< goodreads book="Crimson Bound" >}}), Bright Smoke, Cold Fire is by far my favorite, which is interesting, given that it has the lowest rating on Goodreads by almost half a point. It's actually the lowest rated full I've finished.  
+Among the three Hodge books I've read thus far ([[Cruel Beauty]]() and [[Crimson Bound]]()), Bright Smoke, Cold Fire is by far my favorite, which is interesting, given that it has the lowest rating on Goodreads by almost half a point. It's actually the lowest rated full I've finished.  
 
 In essence, Bright Smoke, Cold Fire takes place in the single remaining city after a zombie apocalypse. The city is protected by a giant protective bubble powered by human sacrifice. There are a few different kinds of magic systems floating about, one dealing with magic words left over from the language of the gods, the other (powering the bubble) based on blood magic. Overall, it's the same fascinating world building that Hodge put into both Cruel Beauty and Crimson Bound, although in this case, it feels rather more fleshed out (pun intended).  
 

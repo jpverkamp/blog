@@ -25,7 +25,7 @@ This was huge for basically the entire field of biology/medicine/etc and should 
 
 > She's the most important person in the world and her family living in > poverty. If our mother is so important to science, why can't we get health > insurance?
 
-{{< goodreads book="The Immortal Life of Henrietta Lacks" >}} is the story of Henrietta Lacks, her immortal cells, her family, and the reporter with the awesome name trying to track the whole story down.  
+[[The Immortal Life of Henrietta Lacks]]() is the story of Henrietta Lacks, her immortal cells, her family, and the reporter with the awesome name trying to track the whole story down.  
 
 That core of the book is fascinating and wonderful. Science really is more complicated and goes far deeper than I ever expect and the story of how it all fits together gets all sorts of complicated. But for better or for worse, the book doesn't just cover the science and history, but also has the human element. And the people in this story are exemplars of how race and poverty and history manage to ruin just about everything. Man the world is screwed up; and it makes for a hard to read story.  
 

@@ -16,7 +16,7 @@ rating: 5
 page_count: 400
 series_index: [1]
 ---
-{{< goodreads book="A Darker Shade of Magic" >}} is a surprisingly fantastic book--and I mean that in the true sense of the word _fantastic_.
+[[A Darker Shade of Magic]]() is a surprisingly fantastic book--and I mean that in the true sense of the word _fantastic_.
 
 The core worldbuilding conceit of the book is that of four parallel worlds, specifically four Londons. Gray London (our London?), a dull world with little to no magic left; Red London, with magic full of life; White London, with a more sharp and controlling feel; and lost Black London. The feel and description of each London really makes the book, with Schwab evoking each London with colors and scents and even feelings. It's a really interesting take and done rather well.
 
@@ -36,7 +36,7 @@ She certainly is rather quoteable.
 
 > “Sure I do,” countered Lila cheerfully. “There’s Dull London, Kell London, Creepy London, and Dead London,” she recited, ticking them off on her fingers. “See? I’m a fast learner.”
 
-She's a thief from Gray London and there are hints of quite a bit more, although I expect it will take until {{< goodreads book="A Gathering of Shadows" >}} or {{< goodreads book="A Conjuring of Light" >}} until we get all those answers. I certainly look forward to it.
+She's a thief from Gray London and there are hints of quite a bit more, although I expect it will take until [[A Gathering of Shadows]]() or [[A Conjuring of Light]]() until we get all those answers. I certainly look forward to it.
 
 > “Delilah Bard,” she said. “We’ve met before. And you looked worse.”
 >

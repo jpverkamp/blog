@@ -25,7 +25,7 @@ series_index: [25, 2]
 
 <!--more-->
 
-In {{< goodreads book="The Truth" >}}, investigative journalism comes to the Discworld. A young man named William de Worde creates a paper (the Ankh-Morpork Times) of "things written down" which ends up far more popular than he expected, leading to copy cat tabloids and a shakedown from the established printers of the city.  
+In [[The Truth]](), investigative journalism comes to the Discworld. A young man named William de Worde creates a paper (the Ankh-Morpork Times) of "things written down" which ends up far more popular than he expected, leading to copy cat tabloids and a shakedown from the established printers of the city.  
 
 One nice thing about this book is that it could almost have been a City Watch book. We get plenty of Lord Vetinari and Commander Vimes, along with a few appearances by others in the City Watch. Those are (so far) my favorites among the Discworld books, so I'll take it.  
 

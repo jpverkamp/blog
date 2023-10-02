@@ -18,7 +18,7 @@ series_index: [1]
 ---
 > The city knows. It remembers. Its past is written in its bones, though the past now speaks in silences.
 
-The {{< goodreads book="City of Stairs" >}} is a wonderful book. The start is remarkably dense, dropping you into the deep end of a complicated world with flavors I at least wasn't as familiar with where Proper Nouns abound and the rules are uncertain--even to those living therein.  
+The [[City of Stairs]]() is a wonderful book. The start is remarkably dense, dropping you into the deep end of a complicated world with flavors I at least wasn't as familiar with where Proper Nouns abound and the rules are uncertain--even to those living therein.  
 
 <!--more-->
 

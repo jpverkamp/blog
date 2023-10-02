@@ -22,7 +22,7 @@ Wow.
 
 <!--more-->
 
-At times, it's obvious {{< goodreads book="The Gathering Storm" >}} was not written by Robert Jordan. Brandon Sanderson does quite a job (it helps that I've read all of his own works and enjoyed every one of them), but it is different at times. That being said, I don't think I've read another example of one author taking over another's work, let alone at such a scale, let alone doing as good a job as was done here.  
+At times, it's obvious [[The Gathering Storm]]() was not written by Robert Jordan. Brandon Sanderson does quite a job (it helps that I've read all of his own works and enjoyed every one of them), but it is different at times. That being said, I don't think I've read another example of one author taking over another's work, let alone at such a scale, let alone doing as good a job as was done here.  
 
 The Gathering Storm hits hard, with a disastrous attempt at negotiation between the Dragon and the Seanchan, an attack on the White Tower itself, and Rand growing ever darker and harder, to the point of terrifying those few friends he has left. It's a bleak book, there's no doubt about it, with a real feeling that perhaps winning this war may not be any better than losing.  
 

@@ -44,4 +44,4 @@ And a summary of the universe as a whole:
 
 ![Hellboy-4-Beating-the-crap-out-of-things-a-lot-like-me](/embeds/books/attachments/hellboy-4-beating-the-crap-out-of-things-a-lot-like-me.png)  
 
-It's just a wonderful series. Much stronger than {{< goodreads book="Hellboy, Vol. 3: The Chained Coffin and Others" >}}.
+It's just a wonderful series. Much stronger than [[Hellboy, Vol. 3: The Chained Coffin and Others]]().

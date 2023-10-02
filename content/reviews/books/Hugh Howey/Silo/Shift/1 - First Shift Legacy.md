@@ -15,7 +15,7 @@ rating: 4
 page_count: 238
 series_index: [0, 1]
 ---
-It's been a while since I read {{< goodreads book="Wool" >}}. Long enough that I'd started to forget the general shape of things, but as I went through {{< goodreads book="First Shift: Legacy" >}}, things started to come back. It's interesting seeing the gaps in Wool's history.  
+It's been a while since I read [[Wool]](). Long enough that I'd started to forget the general shape of things, but as I went through [[First Shift: Legacy]](), things started to come back. It's interesting seeing the gaps in Wool's history.  
 
 That being said, the prequel chapters (of a prequel) just feel wrong. The Silos were built in a matter of years by the government? With apparently minimal or no leaks? Run by a Senator which apparently gets two Representatives to do his absolute bidding (What about their own jobs? It would have made more sense had Donald remained an architect).  
 
@@ -25,6 +25,6 @@ On the other hand, the chapters set 200 years later in the Silos themselves, tho
 
 Overall, it's a fascinating bit of worldbuilding that answers a few questions I didn't remember having from Wool. Well worth the read and I'm curious to see where it goes from here.  
 
-Side note: There are a number of reviews commenting on the sexism / homophobia of having only the men awake in order to avoid 'passion'. Sure. But given the authoritarian nature of the entire project? I feel like it fits the world. I hope it's something dealt with in the {{< goodreads book="Second Shift: Order" >}} / {{< goodreads book="Third Shift: Pact" >}}.  
+Side note: There are a number of reviews commenting on the sexism / homophobia of having only the men awake in order to avoid 'passion'. Sure. But given the authoritarian nature of the entire project? I feel like it fits the world. I hope it's something dealt with in the [[Second Shift: Order]]() / [[Third Shift: Pact]]().  
 
 Onward!

@@ -24,7 +24,7 @@ The second Boxcar Children book and the first of the formula that would come to 
 
 From an adult perspective, it remains bizarre. Grandfather left them alone with an old friend and a new stranger (at the time) to fend for themselves. They have the run of the island and nearly drown at one point. But from a child's, it's a cute story and teachers the value of adventure, learning, and self sufficiency, while still turning to adults when you need to and listening to the voices of experience. It's escapism and it's enjoyable.  
 
-I'd argue {{< goodreads book="The Boxcar Children" >}} was stronger, but it's a good bridge into what I vaguely remember/expect will be the formula for a time to come.  
+I'd argue [[The Boxcar Children]]() was stronger, but it's a good bridge into what I vaguely remember/expect will be the formula for a time to come.  
 
 > Then Henry said, “Grandfather, that’s one thing we can’t understand. Why didn’t we ever get to go into that little yellow house? Doesn’t it belong to you?”  
 >

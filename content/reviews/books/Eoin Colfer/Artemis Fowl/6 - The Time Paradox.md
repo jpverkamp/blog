@@ -16,7 +16,7 @@ series_index: [6]
 ---
 So... time travel.  
 
-After the events of {{< goodreads book="The Lost Colony" >}}, it's not entirely surprising that we'd get one where they'd outright go back and try to change the past. That doesn't mean that I wasn't worried about it though.  
+After the events of [[The Lost Colony]](), it's not entirely surprising that we'd get one where they'd outright go back and try to change the past. That doesn't mean that I wasn't worried about it though.  
 
 <!--more-->
 

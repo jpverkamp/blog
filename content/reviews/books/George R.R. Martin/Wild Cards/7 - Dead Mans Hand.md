@@ -16,7 +16,7 @@ rating: 4
 page_count: 335
 series_index: [7]
 ---
-This is a strange book. Rather than the previous format of two short story collections and a mosaic novel, this subseries has two collections and now two mosiac novels ({{< goodreads book="Ace in the Hole" >}} being the other). What's strange is that it continues the same plotlines of the first two books and mostly takes place at the same time as Ace in the Hole. Rather than focusing primarily on Puppetman and the political plotline in Atlanta, {{< goodreads book="Dead Man's Hand" >}} is set mostly in New York and deals with the death of Chrysalis, the investigation of Ti Malice.  
+This is a strange book. Rather than the previous format of two short story collections and a mosaic novel, this subseries has two collections and now two mosiac novels ([[Ace in the Hole]]() being the other). What's strange is that it continues the same plotlines of the first two books and mostly takes place at the same time as Ace in the Hole. Rather than focusing primarily on Puppetman and the political plotline in Atlanta, [[Dead Man's Hand]]() is set mostly in New York and deals with the death of Chrysalis, the investigation of Ti Malice.  
 
 As a stand alone or complete alternative to Ace in the Hole, I think it would have been a lot stronger. Once the stories merge and start replaying events we've already seen in Atlanta (albeit with a different point of view), it feels a lot more repetitive.  
 

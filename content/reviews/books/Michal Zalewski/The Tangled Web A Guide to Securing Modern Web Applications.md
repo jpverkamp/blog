@@ -13,7 +13,7 @@ isbn13: '9781593273880'
 rating: 4
 page_count: 320
 ---
-{{< goodreads book="The Tangled Web: A Guide to Securing Modern Web Applications" >}} is a fairly solid introduction to computer security in the context of web sites/browsers with one fairly major downside: it was published 7 years ago. In the context of the Internet, that's... quite a while.  
+[[The Tangled Web: A Guide to Securing Modern Web Applications]]() is a fairly solid introduction to computer security in the context of web sites/browsers with one fairly major downside: it was published 7 years ago. In the context of the Internet, that's... quite a while.  
 
 Which this book was published, IE had a 40% market share, followed by Firefox with 30%, and Chrome with only 20%. Given that more recent numbers show Chrome with 70%, FF with 10%, and IE + Edge together only at 10%... the Internet has changed. Since it was published, Flash is the next best thing to dead. HSTS and CORS are everywhere now (mentioned as future technologies in the book). Some issues just ... aren't any more, while a whole new kettle of worms is about.  
 

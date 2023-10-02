@@ -16,7 +16,7 @@ rating: 4
 page_count: 276
 series_index: [9]
 ---
-If {{< goodreads book="The Boys, Volume 8: Highland Laddie" >}} was a filler, {{< goodreads book="The Boys, Volume 9: The Big Ride" >}} is a return to form.  
+If [[The Boys, Volume 8: Highland Laddie]]() was a filler, [[The Boys, Volume 9: The Big Ride]]() is a return to form.  
 
 Homelander is nuts. Butcher is nuts. Everyone is nuts. Hughie meets the old boss and gets some more backstory (wow this world is screwed up) and is back into the game.  
 

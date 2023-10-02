@@ -16,7 +16,7 @@ rating: 5
 page_count: 671
 series_index: [2]
 ---
-The Blinding Knife is what a sequel should be. It takes the action and magic that made {{< goodreads book="The Black Prism" >}} good and made it better while toning down a lot of the exposition and over-characterization that made it a bit of a drag at times.  
+The Blinding Knife is what a sequel should be. It takes the action and magic that made [[The Black Prism]]() good and made it better while toning down a lot of the exposition and over-characterization that made it a bit of a drag at times.  
 
 On the plus side, the magic system has a lot more depth than it did in the first book while at the same time not spending quite as much time hitting us over the head with terms we don't quite understand yet. Even if I don't necessarily like some of the choices (like why you can't draft green from white light by default), it's still a well done system. Otherwise, the worldbuilding has gotten bigger. Magical trading cards. Seers. Old Gods.  
 
@@ -28,4 +28,4 @@ Liv... I don't really care about Liv. I get where Weeks is trying to go with her
 
 New characterwise, I really like Teia. I wasn't sure where she was going to go at first, but she has a take on magic that people don't really believe exists, which is often interesting. Plus she provides an interesting point of view into the aspects of slavery in this society.  
 
-If you've read {{< goodreads book="The Black Prism" >}}, read this. If you haven't, give The Black Prism a try.
+If you've read [[The Black Prism]](), read this. If you haven't, give The Black Prism a try.

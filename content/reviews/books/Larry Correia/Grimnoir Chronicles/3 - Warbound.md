@@ -16,13 +16,13 @@ series_index: [3]
 ---
 > We become Grimnoir in order to become heroes, to sacrifice our lives in the pursuit of a higher cause, to defend the defenseless . . . I’ve found that means attending a lot of funerals.
 
-{{< goodreads book="Hard Magic" >}} was a magical detective / spy story. It was a lot of fun, but there were only a few hints of the bigger story behind the story.  
+[[Hard Magic]]() was a magical detective / spy story. It was a lot of fun, but there were only a few hints of the bigger story behind the story.  
 
 <!--more-->
 
-In {{< goodreads book="Spellbound" >}}, things took a turn for the powerful as we learned more about what the Power was and just how crazy a Spellbound could be.  
+In [[Spellbound]](), things took a turn for the powerful as we learned more about what the Power was and just how crazy a Spellbound could be.  
 
-{{< goodreads book="Warbound" >}} ramps it up another level, with the rise of a false Chairman, and the Enemy's Pathfinder bringing war to Actives all over the Earth. It's a well deserved and well written conclusion to the story.  
+[[Warbound]]() ramps it up another level, with the rise of a false Chairman, and the Enemy's Pathfinder bringing war to Actives all over the Earth. It's a well deserved and well written conclusion to the story.  
 
 The worldbuilding is just as interesting as it ever was, especially now that we see a lot more about how the Power and its magic actually work-- particularly as we see how the rules we thought we knew can be bent and broken.  
 

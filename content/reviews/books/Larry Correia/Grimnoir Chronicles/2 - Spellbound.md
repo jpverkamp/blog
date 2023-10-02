@@ -14,7 +14,7 @@ rating: 5
 page_count: 656
 series_index: [2]
 ---
-Spellbound takes the straightforward noir/spy/magic {{< goodreads book="Hard Magic" >}} and makes it bigger.  
+Spellbound takes the straightforward noir/spy/magic [[Hard Magic]]() and makes it bigger.  
 
 > This is America. The government doesn’t own the people. The people own the government.
 
@@ -36,7 +36,7 @@ Among the best new characters is ex-Iron Guard Toru. He's working with the 'good
 >
 > “Only with the Enemy, and should we live through that . . . the two of us have one to finish.”  
 
-A worthy followup, if anything better than the first. I can't wait to see where Correia goes with {{< goodreads book="Warbound" >}}.  
+A worthy followup, if anything better than the first. I can't wait to see where Correia goes with [[Warbound]]().  
 
 Random quote, an example of what makes the series all the more fun to read:  
 

@@ -18,7 +18,7 @@ series_index: [2]
 ---
 Wooo boy things ramp up.  
 
-After {{< goodreads book="The Runelords" >}}, with the invasion by uber powerful Raj Ahtan, finally driven off by the rise of Earth King Gaborn, it was hard to believe that we could ramp up even far. Now Gaborn is coming into his powers, while Raj Ahtan has to figure out how to strike back and/or regroup.  
+After [[The Runelords]](), with the invasion by uber powerful Raj Ahtan, finally driven off by the rise of Earth King Gaborn, it was hard to believe that we could ramp up even far. Now Gaborn is coming into his powers, while Raj Ahtan has to figure out how to strike back and/or regroup.  
 
 <!--more-->
 

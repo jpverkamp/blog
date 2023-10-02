@@ -19,7 +19,7 @@ series_index: [4, 4]
 ---
 Another tale and far more worldbuilding!  
 
-{{< goodreads book="Fables, Vol. 4: March of the Wooden Soldiers" >}} digs far more deeply into the backstory of the Fables universe, with a more connected prequel chapter that details the 'last ship out' of the homeland as the Adversary took over more and more land and the rest following the first incursion of their forces of what will surely be many of the years-- culminating in the first Battle for Fabletown!  
+[[Fables, Vol. 4: March of the Wooden Soldiers]]() digs far more deeply into the backstory of the Fables universe, with a more connected prequel chapter that details the 'last ship out' of the homeland as the Adversary took over more and more land and the rest following the first incursion of their forces of what will surely be many of the years-- culminating in the first Battle for Fabletown!  
 
 <!--more-->
 
@@ -63,7 +63,7 @@ This literally made me laugh out loud. We have so many sayings based on Fables..
 
 ![04-08-Hookers-Our-treat](/embeds/books/attachments/04-08-hookers-our-treat.jpg)  
 
-That... is a very different art style for Pinocchio than in {{< goodreads book="Fables, Vol. 1: Legends in Exile" >}}. Much more blatent than the rest and I like it. It really does make the connection to the wooden soldiers obvious earlier.  
+That... is a very different art style for Pinocchio than in [[Fables, Vol. 1: Legends in Exile]](). Much more blatent than the rest and I like it. It really does make the connection to the wooden soldiers obvious earlier.  
 
 ![04-09-The-sons-of-the-emperor](/embeds/books/attachments/04-09-the-sons-of-the-emperor.jpg)  
 

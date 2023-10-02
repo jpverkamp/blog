@@ -14,7 +14,7 @@ rating: 4
 page_count: 220
 series_index: [8]
 ---
-As one could probably guess from the title, {{< goodreads book="Celestia CV-02" >}} is the first book (after 7!) of the series that doesn't focus on the Aurora and her crew.  
+As one could probably guess from the title, [[Celestia CV-02]]() is the first book (after 7!) of the series that doesn't focus on the Aurora and her crew.  
 
 On one hand, it's a nice change of pace and gives a much broader view of the universe the Aurora (and now Celestia) and their crews inhabit. On the other, we've spent a lot of time with the Aurora now! I want to know what's next! (We do get some Aurora time though.)  
 

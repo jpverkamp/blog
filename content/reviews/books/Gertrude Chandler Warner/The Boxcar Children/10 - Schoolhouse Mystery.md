@@ -48,6 +48,6 @@ And at the end:
 
 > "We won't say goodbye," said Benny. "We hate to say goodbye. We never do, we just go."
 
-Since... just the {{< goodreads book="Mountain Top Mystery" >}}, no? And now I bet that's how they end every book. Gertrude Chandler Warner is really getting into a formula here. I guess that's how they made hundreds of the things.  
+Since... just the [[Mountain Top Mystery]](), no? And now I bet that's how they end every book. Gertrude Chandler Warner is really getting into a formula here. I guess that's how they made hundreds of the things.  
 
 Overall, it's a vaguely interesting idea, but cringey execution. Let's see what they do next...

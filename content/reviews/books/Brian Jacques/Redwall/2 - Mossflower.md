@@ -24,7 +24,7 @@ Huh. That was actually really good.
 
 <!--more-->
 
-It's a bit weird to start with {{< goodreads book="Redwall" >}} and then immediately go back in time to the time just before Redwall existed, the time of Martin the Warrior and see how it all came to be... but you know? It works.  
+It's a bit weird to start with [[Redwall]]() and then immediately go back in time to the time just before Redwall existed, the time of Martin the Warrior and see how it all came to be... but you know? It works.  
 
 It's a cute story of a warrior mouse and his journey of self discovery along with the local band of woodlanders coming together to defeat a tyrant (wildcat).  
 

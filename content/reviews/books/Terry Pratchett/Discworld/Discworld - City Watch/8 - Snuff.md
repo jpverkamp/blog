@@ -23,13 +23,13 @@ And so it ends.
 
 <!--more-->
 
-{{< goodreads book="Snuff" >}} is the last of the City Watch subseries (so it's back to the Industrial Revolution with {{< goodreads book="Moving Pictures" >}} for me).  
+[[Snuff]]() is the last of the City Watch subseries (so it's back to the Industrial Revolution with [[Moving Pictures]]() for me).  
 
 In a nutshell, Vimes is maneuvered into going on vacation out to the country-- to his country estates to be more precise. Of course, he stumbles right into a tangle of crime and of course he has to save the day.  
 
 This is the first time I particularly remember hearing about goblins in the Discworld, which might be because of the order I'm reading the books in or it might be I've just forgotten. But in any case, it feels like a plot we've seen before: a race of beings is different enough from what everyone else considers people that they're second class citizens at best (kept as slaves and/or exterminated like vermin at worst). Vimes gets involved, discovers what makes them just as worth of 'human' rights as anyone else and inducts one or more into the Watch. It's a story we've seen before, but that doesn't make it any less interesting thought provoking.  
 
-On the plus side, the Goblin culture was interesting. Vimes' interactions with the Summoning Dark (from {{< goodreads book="Thud!" >}}) underscore a much darker sort of book, with Vimes teetering rather close (and arguably) crossing that thin thin line on several occasions.  
+On the plus side, the Goblin culture was interesting. Vimes' interactions with the Summoning Dark (from [[Thud!]]()) underscore a much darker sort of book, with Vimes teetering rather close (and arguably) crossing that thin thin line on several occasions.  
 
 On the down side, we know from the get go how everything is going to play out. We know Vimes. And he has entirely too many powerful friends now, which he name drops surprisingly often. We also get rather little of the other members of the Watch which I'd really grown to enjoy reading about. This wouldn't hurt as much were this not the last in this subseries.  
 

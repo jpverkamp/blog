@@ -18,7 +18,7 @@ isbn13: '9780316389686'
 rating: 5
 page_count: 364
 ---
-In a nutshell, {{< goodreads book="Six Wakes" >}} is a closed room murder mystery in SPACE! With clones! What that gives us is an absolutely wonderful variation on the tropes. Because of cloning technology, you can very well have a murder mystery where the cast wake up to the gruesome (zero gee) murder of ... the entire cast. And because it's a generation ship in deep space, you very well know that one of the cast absolutely has to have been the muderer... Unless it was more than one.  
+In a nutshell, [[Six Wakes]]() is a closed room murder mystery in SPACE! With clones! What that gives us is an absolutely wonderful variation on the tropes. Because of cloning technology, you can very well have a murder mystery where the cast wake up to the gruesome (zero gee) murder of ... the entire cast. And because it's a generation ship in deep space, you very well know that one of the cast absolutely has to have been the muderer... Unless it was more than one.  
 
 My favorite parts of the worldbuilding all really revolve around technology of cloning and how that can change the world in fascinating ways. For example, it's not uncommon for attendees at certain parties to end murdered. They'll wake up in the morning, restored from a backup the day before with little more than a feeling of 'that must have been one hell of a party' plus some potential embarrassment and go about their lives.  
 

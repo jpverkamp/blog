@@ -16,7 +16,7 @@ rating: 5
 page_count: 176
 series_index: [12]
 ---
-It's the end?! (until {{< goodreads book="Hellboy in Hell, Vol. 1: The Descent" >}} at least!)  
+It's the end?! (until [[Hellboy in Hell, Vol. 1: The Descent]]() at least!)  
 
 ![Hellboy-12-1-Not-a-monster](/embeds/books/attachments/hellboy-12-1-not-a-monster.png)  
 
@@ -36,4 +36,4 @@ Crazy times.
 
 I'm sad it's over--but it's not really over. Of course **Hell** boy is going to have stories in the afterlife...  
 
-Onwards to... {{< goodreads book="Hellboy in Mexico" >}}?
+Onwards to... [[Hellboy in Mexico]]()?

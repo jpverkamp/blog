@@ -22,7 +22,7 @@ On one hand, it's another Borrowers story. They find another place to live and d
 
 <!--more-->
 
-On another hand, it's interesting to see some fallout from the kidnapping in {{< goodreads book="The Borrowers Aloft" >}}. They're still around and obsessed with finding some miniature people to exploit. There's a definite sense of tension when being 'seen' might be entirely more intentional.  
+On another hand, it's interesting to see some fallout from the kidnapping in [[The Borrowers Aloft]](). They're still around and obsessed with finding some miniature people to exploit. There's a definite sense of tension when being 'seen' might be entirely more intentional.  
 
 On another hand (just go with it), the ending is... abrupt. Especially given that it's the end of the series, it's a bummer how it just sort of stops. One moment, you're in the climax of the story and then two paragraphs later, it's over. Okay then?  
 

@@ -24,7 +24,7 @@ It's darkest before the dawn.
 
 Things have been going badly for the Alerans for a while now. The Vord are here and they're winning, driving the Alerans back time and time again. If only there were a brilliant leader with a known tendency to come up with sideways solutions to impossible problems... Unfortunately, Tavi is stuck on the other end of the world. So what's next.  
 
-Structurally, {{< goodreads book="First Lord's Fury" >}} really feels more like the second half of {{< goodreads book="Princeps' Fury" >}}. If not for the sheer size such a book would have been, I wouldn't have been surprised had they been a single book originally.  
+Structurally, [[First Lord's Fury]]() really feels more like the second half of [[Princeps' Fury]](). If not for the sheer size such a book would have been, I wouldn't have been surprised had they been a single book originally.  
 
 At this point, if you've made it this far, you're going to read this book. And you know they're going to win. But in this case, take the journey before destination[^oath] and see how things get there. There's crazy action, mad plans, traitors and battles galore. It's a solid conclusion to a wonderful series. Well worth reading.  
 

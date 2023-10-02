@@ -17,7 +17,7 @@ rating: 3
 page_count: 384
 series_index: [2, 10]
 ---
-{{< goodreads book="The Rock Rats" >}} continues the story of {{< goodreads book="The Precipice" >}}, following the story of humanity's expansion into the Asteroid Belt and all the atrocities that entails.
+[[The Rock Rats]]() continues the story of [[The Precipice]](), following the story of humanity's expansion into the Asteroid Belt and all the atrocities that entails.
 
 Characterwise, this book is all over the place. Pancho is great fun, but we don't see nearly enough of her. Lars is ... kind of crazy and revenge driven, a long descent from liking him well enough in The Precipice. Amanda is pretty great, but only when she's away from either Lars or Humpries. Of all the marriages in the series thus far, why does this have to be the one to stick beyond a single book? They really don't make much sense together... Trite as the saying may be, she could do better.
 
@@ -29,6 +29,6 @@ I can't believe I'm saying it, but I miss Dan Randolph...
 
 Plotwise, it's mostly corporate infighting, with the first bits of actual ship to ship combat. That at least is interesting enough, since the science is a lot more grounded than many series you'd read. Lasers are adapted from mining lasers. They don't pew pew so much as invisible heat beam of death.
 
-Overall, I fully intend to read the entire Grand Tour. And if you like the more corporate politics books, this might be what you're looking for. I'd personally rather go back to the more sciencey exploration novels with the corporate/political stuff as a secondary plot (like {{< goodreads book="Mars" >}} and {{< goodreads book="Jupiter" >}}). So it goes.
+Overall, I fully intend to read the entire Grand Tour. And if you like the more corporate politics books, this might be what you're looking for. I'd personally rather go back to the more sciencey exploration novels with the corporate/political stuff as a secondary plot (like [[Mars]]() and [[Jupiter]]()). So it goes.
 
 Speaking of which, the chronological ordering of these books is strange. There are hints in this book that the station around Jupiter hasn't been built yet. It doesn't overly matter to the plot of either book, but it does still feel strange.

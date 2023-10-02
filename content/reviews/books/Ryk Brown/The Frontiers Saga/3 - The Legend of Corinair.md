@@ -26,4 +26,4 @@ I will say that one thing that's starting to bug me is just how young and non- m
 
 On another hand, one interesting thing we're starting to get is a hint of how religion will play into the series, with a faith built up around the legends of Earth and how they'll one day come to 'save us all'. And here's Nathan and his crew... half accidently just that. I imagine that's going to get rather complicated before it's all said and done.  
 
-Overall, far better than {{< goodreads book="The Rings of Haven" >}}. Yet another quick read. Onward!
+Overall, far better than [[The Rings of Haven]](). Yet another quick read. Onward!

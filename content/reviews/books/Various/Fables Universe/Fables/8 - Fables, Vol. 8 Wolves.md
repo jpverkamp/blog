@@ -29,7 +29,7 @@ Plus, you get the awesome(ly silly) way they stylize Russian:
 
 ![Fables-8-1-Russian](/embeds/books/attachments/fables-8-1-russian.jpg)  
 
-They did the same with Arabic back in {{< goodreads book="Fables, Vol. 7: Arabian Nights" >}}, but it was a bit less obvious. A fun way to do it.  
+They did the same with Arabic back in [[Fables, Vol. 7: Arabian Nights (and Days)]](), but it was a bit less obvious. A fun way to do it.  
 
 Spoilers:  
 

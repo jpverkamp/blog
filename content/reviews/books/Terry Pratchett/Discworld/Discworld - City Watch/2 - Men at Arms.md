@@ -17,7 +17,7 @@ rating: 5
 page_count: 377
 series_index: [15, 2]
 ---
-Continuing the story of {{< goodreads book="Guards! Guards!" >}}, {{< goodreads book="Men at Arms" >}} follows all of my favorite characters from that former on a grand new adventure (of sorts).  
+Continuing the story of [[Guards! Guards!]](), [[Men at Arms]]() follows all of my favorite characters from that former on a grand new adventure (of sorts).  
 
 We have Corporal Carrot:  
 

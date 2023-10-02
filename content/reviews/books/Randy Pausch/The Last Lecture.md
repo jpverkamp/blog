@@ -11,7 +11,7 @@ cover: /embeds/books/the-last-lecture.jpg
 rating: 5
 page_count: 217
 ---
-{{< goodreads book="The Last Lecture" >}} is quite a book.  
+[[The Last Lecture]]() is quite a book.  
 
 It hits all the harder reading it for the first time now, knowing that Randy Pausch died a year after this lecture/book came out, but even that was a decade ago. His children are in high school/college now. His wife Jai eventually remarried. Some things change and move on. Some don't.  
 

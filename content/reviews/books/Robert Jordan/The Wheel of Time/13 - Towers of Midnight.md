@@ -16,7 +16,7 @@ rating: 5
 page_count: 863
 series_index: [13]
 ---
-{{< goodreads book="Towers of Midnight" >}} continues the final avalanche to the Last Battle, with Lan continuing to gathering followers, the Black Tower continuing to grow more and more corrupt, Perrin confronting the Whitecloaks (it's about time that storyline wraps up), and the newly healed Rand causing even more chaos than before.  
+[[Towers of Midnight]]() continues the final avalanche to the Last Battle, with Lan continuing to gathering followers, the Black Tower continuing to grow more and more corrupt, Perrin confronting the Whitecloaks (it's about time that storyline wraps up), and the newly healed Rand causing even more chaos than before.  
 
 Many people, when asked what they notice most about the change from Jordan's writing to Sanderson's mention that Mat is different. Honestly, I didn't really notice it. I like Mat--Mat in all his guises. Poisoned by the dagger. Helping his friends no matter what. Son of Battle, Prince of the Ravens. He's one of my favorite characters. If he feels different under Sanderson, it almost feels like growing up. After all:  
 

@@ -22,7 +22,7 @@ Sure!
 
 <!--more-->
 
-Where {{< goodreads book="Star Wars: Darth Vader, Vol. 1: Vader" >}} took place just after A New Hope, {{< goodreads book="Star Wars: Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine" >}} takes place earlier, after Revenge of the Sith, in the early days of the newly risen Empire.  
+Where [[Darth Vader, Vol. 1: Vader]]() took place just after A New Hope, *Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine* takes place earlier, after Revenge of the Sith, in the early days of the newly risen Empire.  
 
 ![](/embeds/books/attachments/vader-17-1.1.png)  
 

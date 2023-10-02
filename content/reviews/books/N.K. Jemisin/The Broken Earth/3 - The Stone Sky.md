@@ -20,7 +20,7 @@ Wow.
 
 <!--more-->
 
-That is quite the conclusion. Everything that made {{< goodreads book="The Fifth Season" >}} and {{< goodreads book="The Obelisk Gate" >}} wonderful--the terrible, raw, apocalyptic nature of the world; the broken people who still hope, who still do what must be done; the complicated depths of magic and life and Earth. It's all here and and it's somehow... more.  
+That is quite the conclusion. Everything that made [[The Fifth Season]]() and [[The Obelisk Gate]]() wonderful--the terrible, raw, apocalyptic nature of the world; the broken people who still hope, who still do what must be done; the complicated depths of magic and life and Earth. It's all here and and it's somehow... more.  
 
 > How can we prepare for the future if we won’t acknowledge the past?
 

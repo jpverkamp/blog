@@ -17,7 +17,7 @@ rating: 4
 page_count: 377
 series_index: [40, 3]
 ---
-In {{< goodreads book="Going Postal" >}}, Moist von Lipwig rebuilt the post office. In {{< goodreads book="Making Money" >}}, he took on the banks. Now? Steam engines are coming to the Discworld!  
+In [[Going Postal]](), Moist von Lipwig rebuilt the post office. In [[Making Money]](), he took on the banks. Now? Steam engines are coming to the Discworld!  
 
 On one hand, it's interesting to see more and more technology come to the Discworld, especially watching it blend with the magic that's already there. You have goblins running the clacks (telegraphs) and now the trains and a engine that might just be alive. On top of that, we're dealing with some of the fall out of the recent (bookwise) war between the Trolls and the Dwarves.  
 

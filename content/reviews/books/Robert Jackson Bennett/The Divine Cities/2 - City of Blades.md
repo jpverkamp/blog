@@ -16,11 +16,11 @@ series_index: [2]
 ---
 > “Welcome to old Voortyashtan,” the captain says with false cheer, waving at the mouth of the Solda. “Though you can’t see much of it these days. It’s moved, y’see, about three hundred feet. Vertically, straight down.” He grins and laughs wickedly.  
 
-{{< goodreads book="City of Blades" >}} surprised me.  
+[[City of Blades]]() surprised me.  
 
 <!--more-->
 
-It's set in the same world as {{< goodreads book="City of Stairs" >}}, with fantastic world building full of dead gods and the ravages of war. And we see the main characters again, in particular, Shara, Sigrud, and Mulaghesh. But this time around Mulaghesh is the main character, Sigrud eventually shows up in a slightly less direct role, and Shara is off far away pulling strings, only to show up for a few paragraphs throughout the entire book.  
+It's set in the same world as [[City of Stairs]](), with fantastic world building full of dead gods and the ravages of war. And we see the main characters again, in particular, Shara, Sigrud, and Mulaghesh. But this time around Mulaghesh is the main character, Sigrud eventually shows up in a slightly less direct role, and Shara is off far away pulling strings, only to show up for a few paragraphs throughout the entire book.  
 
 Normally, that's not something I generally like doing, particularly when I enjoyed the characters as much as I did Shara and Sigrud the first time around. Mulaghesh isn't nearly as funny and snarky in general and (as we learn throughout the book) has a lot more trauma in her backstory. But she grew on me. By the end, while I would still have been interested to see how Shara would have dealt with the events of the City of Blades, I couldn't imagine the story having gone that way. Mulaghesh was the perfect protagonist for the story.  
 
@@ -58,6 +58,6 @@ That feeds into to honestly one of the coolest scenes I've read. Full stop.
 
 It gets gruesome at time (with a goddess of war and death, you have vivisection[^vivisection] and blood all over the place), but not hugely worse than City of Stairs.  
 
-Overall, it's a wonderful book once you get into it. It's not the same thing as a City of Stairs, but it just works. I look forward to seeing how {{< goodreads book="City of Miracles" >}} goes.  
+Overall, it's a wonderful book once you get into it. It's not the same thing as a City of Stairs, but it just works. I look forward to seeing how [[City of Miracles]]() goes.  
 
 [^vivisection]: A wonderful word.

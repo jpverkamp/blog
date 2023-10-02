@@ -17,7 +17,7 @@ rating: 5
 page_count: 168
 series_index: [5, 5]
 ---
-After the intensity and depth of {{< goodreads book="Fables, Vol. 4: March of the Wooden Soldiers" >}}, I fully expected {{< goodreads book="Fables, Vol. 5: The Mean Seasons" >}} to be something of a step back, a breather. And that's exactly what we got.  
+After the intensity and depth of [[Fables, Vol. 4: March of the Wooden Soldiers]](), I fully expected [[Fables, Vol. 5: The Mean Seasons]]() to be something of a step back, a breather. And that's exactly what we got.  
 
 That's not to say nothing happened. There's a backstory of Bigby wolf in the war, Snow White goes through childbirth, the election between King Cole and Prince Charming finally happens, and Bigby's father finally gets to meet the lady who's snared his son's heart. And of course along the way, things get bloody and wacky hijinks ensue (sometimes at the same time!).  
 

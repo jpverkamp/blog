@@ -25,11 +25,11 @@ First, the _worldbuilding_ and _magic systems_.
 
 Sanderson is well known for his magic systems for a reason. The book opens with a blithely rewriting the laws of gravity in order to kill a king with a six plus foot long sword. If that doesn't drag you into a book wanting more, I'm not sure what would.  
 
-Unfortunately (or not, depending on what you're looking for), for every answer you get on how things actually work on Roshar (the name of the world {{< goodreads book="The Way of Kings" >}} takes place on), you get even more questions. What  
+Unfortunately (or not, depending on what you're looking for), for every answer you get on how things actually work on Roshar (the name of the world [[The Way of Kings]]() takes place on), you get even more questions. What  
 
 And the worldbuilding doesn't stop there. It's fascinating to read about a world that feels quite as alien as Roshar does--and yet manages to feel real. To me, it feels like an ocean without water. Most of the native animal life is crustacean in form[^1] and the planetlife has a tendency to move around and hide from danger. There's a huge battle taking place on the Shattered Plains-- which in my mind at least feel like someone dropped a plate the site of a continent and shattered it into millions of pieces.  
 
-And the seasons / storms. Seasons fly by much more chaotically and quickly than we're used to, with storms (accurately named Highstorms) that can cause all sorts of damage sweeping across the continent semi-regularly. It really makes me wonder why--especially since in Sanderson's {{< goodreads book="The Final Empire" >}} etc the strange weather and geography had a perfectly sensible astrological reason for much of it. So what in the world happened / is happening to Roshar?  
+And the seasons / storms. Seasons fly by much more chaotically and quickly than we're used to, with storms (accurately named Highstorms) that can cause all sorts of damage sweeping across the continent semi-regularly. It really makes me wonder why--especially since in Sanderson's [[The Final Empire]]() etc the strange weather and geography had a perfectly sensible astrological reason for much of it. So what in the world happened / is happening to Roshar?  
 
 And finally, spren and the Shardblades. Take two ideas: one, that thoughts / feelings / ideas can manifest as tiny beings (fearspren, angerspren, rotspren, windspren). Two, that you want to have a world where six foot long basically anime style swords make sense. Take both of these and fill in the details in the way that Sanderson does.  
 

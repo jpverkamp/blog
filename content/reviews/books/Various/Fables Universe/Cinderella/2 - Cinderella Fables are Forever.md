@@ -17,7 +17,7 @@ rating: 5
 page_count: 154
 series_index: [2, 27]
 ---
-{{< goodreads book="Cinderella: Fables are Forever" >}} in a nutshell:  
+[[Cinderella: Fables are Forever]]() in a nutshell:  
 
 ![Cinderella-2-01](/embeds/books/attachments/cinderella-2-01.jpg)  
 
