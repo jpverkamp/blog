@@ -13,7 +13,7 @@ page_count: 302
 ---
 > The tycoons of social media have to stop pretending that they’re friendly nerd gods building a better world and admit they’re just tobacco farmers in T-shirts selling an addictive product to children. Because, let’s face it, checking your “likes” is the new smoking.
 
-{{< goodreads book="Digital Minimalism: Choosing a Focused Life in a Noisy World" text="Digital Minimalism" >}} makes a strong claim that modern smartphones and social media are every bit as addictive and dangerous as any number of more well known drugs and that we'd be well put to cut out or at least drastically reduce the amount of digital 'clutter' in our lives.  
+[[Digital Minimalism: Choosing a Focused Life in a Noisy World|Digital Minimalism]]() makes a strong claim that modern smartphones and social media are every bit as addictive and dangerous as any number of more well known drugs and that we'd be well put to cut out or at least drastically reduce the amount of digital 'clutter' in our lives.  
 
 <!--more-->
 

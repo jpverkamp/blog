@@ -41,7 +41,7 @@ Cinderella being this bad ass secret agent is hilarious and awesome. Especially 
 
 ![Fables-11-04-BLAM](/embeds/books/attachments/fables-11-04-blam.jpg)  
 
-It's funny because they're basically in a story. Which {{< goodreads book="Jack of Fables, Vol. 1: The" text="Jack of Fables, Vol. 1: The (Nearly) Great Escape" >}} has really been getting into so far.  
+It's funny because they're basically in a story. Which [[Jack of Fables, Vol. 1: The (Nearly) Great Escape]]() has really been getting into so far.  
 
 ![Fables-11-05-A-pretty-blonde-one-at-that](/embeds/books/attachments/fables-11-05-a-pretty-blonde-one-at-that.jpg)  
 

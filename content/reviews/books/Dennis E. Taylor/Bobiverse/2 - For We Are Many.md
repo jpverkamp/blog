@@ -16,7 +16,7 @@ series_index: [2]
 ---
 > Even though I watched the action remotely via a floating observation drone, I could still feel my nether regions puckering up in fear. At times like this, I wondered if I hadn’t gone a little overboard with the level of detail in my virtual-reality environment. There was no reason for me to even have nether regions, let alone for them to pucker.
 
-It remains wonderfully fascinating to see how the Bobs spread out and deal with all manner of problems throughout the universe, from a failing Earth, to fascinating alien worlds, to species both young to help and... otherwise. It's a crazy universe and {{< goodreads book="For We Are Many" >}} just takes the formula {{< goodreads book="We Are Legion" text="We Are Legion (We Are Bob)" >}} established and runs with it.  
+It remains wonderfully fascinating to see how the Bobs spread out and deal with all manner of problems throughout the universe, from a failing Earth, to fascinating alien worlds, to species both young to help and... otherwise. It's a crazy universe and {{< goodreads book="For We Are Many" >}} just takes the formula [[We Are Legion (We Are Bob)]]() established and runs with it.  
 
 <!--more-->
 

@@ -16,7 +16,7 @@ rating: 5
 page_count: 159
 series_index: [3]
 ---
-{{< goodreads book="Jim Butcher's Dresden Files Welcome to the Jungle" text="Welcome to the Jungle" >}} was new, but an introduction. {{< goodreads book="Jim Butcher's The Dresden Files: Storm Front, Volume 2: Maelstrom" >}} and {{< goodreads book="The Dresden Files: Fool Moon, Volume 2" >}} are adaptations of previous works I've read a number of times. But {{< goodreads book="Jim Butcher's Dresden Files: Ghoul Goblin" >}}? NEW CONTENT!  
+[[Welcome to the Jungle (Graphic Novel)|Welcome to the Jungle]]() was new, but an introduction. {{< goodreads book="Jim Butcher's The Dresden Files: Storm Front, Volume 2: Maelstrom" >}} and {{< goodreads book="The Dresden Files: Fool Moon, Volume 2" >}} are adaptations of previous works I've read a number of times. But {{< goodreads book="Jim Butcher's Dresden Files: Ghoul Goblin" >}}? NEW CONTENT!  
 
 It's interesting seeing introductions over and over again. I know the books do the same, but for some reason it feels different in a comic. Perhaps because I'm reading them relatively quickly?  
 

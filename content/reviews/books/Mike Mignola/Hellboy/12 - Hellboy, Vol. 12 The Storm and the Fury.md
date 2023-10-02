@@ -28,7 +28,7 @@ Mab's dead. A battle with a hedgehog turned badass warrior by Mab's blood.
 
 The noble dead rise—but only the noble dead. Hellboy turns away from his destiny, but maybe it wasn't his after all.  
 
-He gives up {{< goodreads book="Towers of Midnight" text="half the light of the world to save the world" >}} (Odin) and gets a giant hammer (Thor).  
+He gives up [[Towers of Midnight|half the light of the world to save the world]]() (Odin) and gets a giant hammer (Thor).  
 
 Crazy times.  
 

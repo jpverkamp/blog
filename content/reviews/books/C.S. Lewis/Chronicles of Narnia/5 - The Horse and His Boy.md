@@ -18,7 +18,7 @@ series_index: [5]
 ---
 I actually really enjoyed {{< goodreads book="The Horse and His Boy" >}}. It's the first book with a completely new main character. None of either the four original children or their cousin Eustace take up a main role. Although they do show up, it's in a more minor capacity. A nice way to shake things up.  
 
-Timelinewise, it takes place after most of {{< goodreads book="The Lion, the Witch, and the Wardrobe" text="The Lion, the Witch and the Wardrobe" >}}, but before the end when the children have grown and return to their own world. So Narnia is at peace, but it's a new peace. So when we get to follow an outside threat (we hadn't otherwise heard of) from countries that have been mentioned but only barely... that's pretty cool.  
+Timelinewise, it takes place after most of [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]](), but before the end when the children have grown and return to their own world. So Narnia is at peace, but it's a new peace. So when we get to follow an outside threat (we hadn't otherwise heard of) from countries that have been mentioned but only barely... that's pretty cool.  
 
 <!--more-->
 

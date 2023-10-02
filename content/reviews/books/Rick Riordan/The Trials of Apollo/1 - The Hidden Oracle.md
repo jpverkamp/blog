@@ -16,7 +16,7 @@ rating: 4
 page_count: 384
 series_index: [1]
 ---
-{{< goodreads book="The Hidden Oracle" >}} is an odd book. As a second sequel series to first {{< goodreads book="The Lightning Thief" text="Percy Jackson and the Olympians" >}} and then the {{< goodreads book="The Lost Hero" text="Heroes of Olympus" >}}, we do get new main characters characters: Apollo, now in mortal form and Meg, surprisingly powerful plant magic demigod with some cool Roman swords. But we also get a number of guest appearances and references to previous characters: especially Percy Jackson himself.  
+{{< goodreads book="The Hidden Oracle" >}} is an odd book. As a second sequel series to first *Percy Jackson and the Olympians* and then the *The Lost Hero*, we do get new main characters characters: Apollo, now in mortal form and Meg, surprisingly powerful plant magic demigod with some cool Roman swords. But we also get a number of guest appearances and references to previous characters: especially Percy Jackson himself.  
 
 It's interesting have a setting and characters we can relate to to help ground us in the new series, but on the other hand, if I wanted to read about Percy Jackson, couldn't I just read his series again? I remember having the same problem with Heroes of Olympus.  
 

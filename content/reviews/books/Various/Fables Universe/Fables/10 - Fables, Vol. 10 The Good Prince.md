@@ -35,7 +35,7 @@ Boy Blue telling him this is such an interesting idea. He's really quiet the vet
 
 ![Fables-10-02-Fitting-in-Jack-of-Fables](/embeds/books/attachments/fables-10-02-fitting-in-jack-of-fables.jpg)  
 
-Huh. So {{< goodreads book="Jack of Fables, Vol. 1: The" text=" Jack of Fables, Vol. 1: The (Nearly) Great Escape " >}} goes here? Sure. It works.  
+Huh. So [[Jack of Fables, Vol. 1: The (Nearly) Great Escape]]() goes here? Sure. It works.  
 
 ![Fables-10-03-Sauteed-wolf-cubs](/embeds/books/attachments/fables-10-03-sauteed-wolf-cubs.jpg)  
 

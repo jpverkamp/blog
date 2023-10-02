@@ -14,13 +14,13 @@ rating: 5
 page_count: 206
 series_index: [0]
 ---
-I just finished reading {{< goodreads book="The Boxcar Children" >}} (the first 19) to my children, so now it's off to Narnia with {{< goodreads book="The Lion, the Witch, and the Wardrobe" text="The Lion, the Witch and the Wardrobe" >}} (in publication order). Oh man, we're in for a ride.  
+I just finished reading {{< goodreads book="The Boxcar Children" >}} (the first 19) to my children, so now it's off to Narnia with [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]]() (in publication order). Oh man, we're in for a ride.  
 
 > I wrote this story for you, but when I began it I had not realized that > girls grow quicker than books. As a result you are already too old for fairy > tales, and by the time it is printed and bound you will be older still. But > some day you will be old enough to start reading fairy tales again. You can > then take it down from some upper shelf, dust it, and tell me what you think > of it. I shall probably be too deaf to hear, and too old to understand a > word you say, but I shall still be your affectionate Godfather, C. S. Lewis.
 
 <!--more-->
 
-Perhaps one of the best known [portal fantasies](https://en.wikipedia.org/wiki/Fantasy#By_the_function_of_the_fantastic_in_the_narrative), {{< goodreads book="The Lion, the Witch, and the Wardrobe" text="The Lion, the Witch and the Wardrobe" >}} is the story of four children sent to live in the Professor's mysterious old house wherein they find a portal (through the aforementioned Wardrobe) into the fantastical land of Narnia, a land full of talking animals and mythological beings of all kinds, ruled by an evil White Witch.  
+Perhaps one of the best known [portal fantasies](https://en.wikipedia.org/wiki/Fantasy#By_the_function_of_the_fantastic_in_the_narrative), [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]]() is the story of four children sent to live in the Professor's mysterious old house wherein they find a portal (through the aforementioned Wardrobe) into the fantastical land of Narnia, a land full of talking animals and mythological beings of all kinds, ruled by an evil White Witch.  
 
 It's a rather straight forward good versus evil story with little in the way of surprises, but plenty of surprisingly dark scenes that I didn't particularly remember. My oldest seems to be greatly enjoying them, and no nightmares so far, but there is certainly room for discussion after each chapter.  
 

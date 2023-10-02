@@ -30,4 +30,4 @@ I'd argue {{< goodreads book="The Boxcar Children" >}} was stronger, but it's a 
 >
 > Mr. Alden looked at his grandchildren. Then he said quietly, “That’s another story.”  
 
-{{< goodreads book="The Yellow House Mystery" text="That it is" >}}. :)
+[[The Yellow House Mystery|That it is]](). :)

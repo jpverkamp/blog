@@ -23,6 +23,6 @@ On the supernatural scale, we actually manage to step up another level from the 
 
 <!--more-->
 
-One downside of amping up the big bads like this, is it's uncertainly how much further than can go. Many urban fantasies have this problem. Well just have to see how Briggs handles it. Luckily, all of the current danger--despite being ancient and terrible--has been relatively constrained geographically. If I were a betting man (or reading the blurb for {{< goodreads book="Fire Touched" text="Fire" >}} I would bet that we're going to get a much larger scope next time around.  
+One downside of amping up the big bads like this, is it's uncertainly how much further than can go. Many urban fantasies have this problem. Well just have to see how Briggs handles it. Luckily, all of the current danger--despite being ancient and terrible--has been relatively constrained geographically. If I were a betting man (or reading the blurb for [[Fire Touched|Fire]]() I would bet that we're going to get a much larger scope next time around.  
 
 One final note, the romance aspects of the books are getting more and more frequent as we move along. There's still little enough explicit, but it's been drifting more and more each book.

@@ -34,7 +34,7 @@ So of course Spin has to make it into pilot training, to prove to everyone that 
 
 The last neat bit comes across with the discovery of an  {{< spoiler >}}old but technically advanced crashed starship with an AI that gives it a wonderful personality all its own{{< /spoiler >}}  . Like those 'teen outcast finds a dragon and raises it in hiding' gone scifi. Well done that. Well done.  
 
-If there was absolutely anything negative to say about the story... it's that only 1 of the planned 4 books is out so far! Book 2 is due out this fall, but 3 and 4 not for a few years. And that's only because Sanderson has to finish his {{< goodreads book="The Way of Kings" text=" 10 book doorstopper fantasy Epics " >}} , the {{< goodreads book="The Final Empire" text=" second trilogy of a 4 arc fantasy epic across time " >}} , and all the other projects he's still working on.  
+If there was absolutely anything negative to say about the story... it's that only 1 of the planned 4 books is out so far! Book 2 is due out this fall, but 3 and 4 not for a few years. And that's only because Sanderson has to finish his [[The Way of Kings|10 book doorstopper fantasy Epics ]]() , the [[The Final Empire|second trilogy of a 4 arc fantasy epic across time ]]() , and all the other projects he's still working on.  
 
 Sanderson, you are a wonderful mad genius... and you've done it again.  
 
