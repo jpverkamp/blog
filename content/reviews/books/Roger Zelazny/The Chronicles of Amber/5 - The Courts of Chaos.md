@@ -30,4 +30,4 @@ Crazy battles. Huge storms. The end of the world. Some fantastic writing in the 
 
 And... now there might be  {{< spoiler >}}two Patterns{{< /spoiler >}}  ? And the next five books follow Corwin's son Merlin rather than Corwin? That's a thing.  
 
-Overall, I'm glad I read the series. It was certainly interesting. Not my favorite books I've ever read though. I think it might be time for a break before trying the {{< goodreads book="Trumps of Doom" text=" Trumps of Doom " >}} .
+Overall, I'm glad I read the series. It was certainly interesting. Not my favorite books I've ever read though. I think it might be time for a break before trying the *Trumps of Doom*.

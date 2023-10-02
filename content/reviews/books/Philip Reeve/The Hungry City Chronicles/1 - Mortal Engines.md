@@ -24,7 +24,7 @@ series_index: [1]
 
 <!--more-->
 
-The strength of {{< goodreads book="Mortal Engines" text=" Mortal Engines " >}} rests on the fantastic visuals of the world building: cities on wheels, roaming across the landscape, tearing one another apart for scrap. Nevermind that it doesn't really make a lick of sense... it's fun! (But seriously: it doesn't make sense.) That's one reason that I think/hope that the upcoming movie is going to be pretty fun, just so long as they go all out on those cities. Also... there are  {{< spoiler >}}cyborg zombies{{< /spoiler >}}  for some reason?  
+The strength of [[Mortal Engines]]() rests on the fantastic visuals of the world building: cities on wheels, roaming across the landscape, tearing one another apart for scrap. Nevermind that it doesn't really make a lick of sense... it's fun! (But seriously: it doesn't make sense.) That's one reason that I think/hope that the upcoming movie is going to be pretty fun, just so long as they go all out on those cities. Also... there are  {{< spoiler >}}cyborg zombies{{< /spoiler >}}  for some reason?  
 
 Characterwise, I never really feel much for any of the main characters, other than a bit annoyed at Katherine. I get that she's young, but she's remarkably naive up until the very end of the book. I have some hopes she'll be better later. Tom... for a main character, I don't really like or dislike him. He's just there. My only real outstanding question by the end of the book: how in the world can he fly the airships?  
 

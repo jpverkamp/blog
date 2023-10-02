@@ -55,7 +55,7 @@ I also like seeing Shallan interact with Hoid. Knowing that he's _very_ old and 
 
 It's also really interesting to see Shallan's relationship with Adolin growing. I think that they're a good match for one another. In the end,  {{< spoiler >}}I'm glad that she ends up with him rather than Kaladin. Kaladin needs something else methinks.{{< /spoiler >}}  
 
-Speaking of Kaladin, he mopes a lot, but what else is new? He's still probably one of the most practiced at his powers up until everyone just lets go in the final battle, but less changes for him than in {{< goodreads book="The Way of Kings" text=" The Way of Kings " >}} and {{< goodreads book="Words of Radiance" text=" Words of Radiance " >}} . He's had enough change for the moment though.  
+Speaking of Kaladin, he mopes a lot, but what else is new? He's still probably one of the most practiced at his powers up until everyone just lets go in the final battle, but less changes for him than in [[The Way of Kings]]() and [[Words of Radiance]]() . He's had enough change for the moment though.  
 
 Worldbuilding-wise...  {{< spoiler >}}the humans were the Voidbringers all along{{< /spoiler >}}  . That was quite the epic twist, almost three full books in the coming. Going back, I see where Sanderson has been hinting at it all along, which is all the more impressive. Even more, it makes me wonder what else he's done the same for...  
 

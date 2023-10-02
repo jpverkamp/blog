@@ -16,7 +16,7 @@ rating: 3
 page_count: 369
 series_index: [3]
 ---
-{{< goodreads book="Iceberg" text=" Iceberg " >}} opens with a solid enough set piece/action scene: a burnt out wreck of a luxary yacht, long since missing, found melted into an iceberg. One thing leads to another and Dirk Pitt stumbles into a cadre of billionaires with a plot to take over not only businesses but countries. For that--plot and set pieces--Iceberg is a solid enough read.  
+[[Iceberg]]() opens with a solid enough set piece/action scene: a burnt out wreck of a luxary yacht, long since missing, found melted into an iceberg. One thing leads to another and Dirk Pitt stumbles into a cadre of billionaires with a plot to take over not only businesses but countries. For that--plot and set pieces--Iceberg is a solid enough read.  
 
 And then... you get to the pretty terrible sexism and homophobia. Pitt finds out the woman he's supposed to be getting information out of is in a serious relationship (which for plot reasons he must not threaten), so decides in the spur of the moment to play a caricature of a gay man and... oof. You can tell this book was published in the 70s and not the particularly progressive sort of 70s either. On top of that, you have sexism wrapped up in a neat little bow with how Pitt and his boss Admiral Sandecker treat Tidi Royal (the latter's secretary). They all treat it so normal that Tidi exists to make coffee and should be yelled at for spilling it on a tossing ship... oy.  
 

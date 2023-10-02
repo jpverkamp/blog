@@ -26,4 +26,4 @@ It's kind of bizarre that Aunt Jane eventually  {{< spoiler >}}gives the childre
 
 Also, old sick Aunt Jane?  {{< spoiler >}}Totally radiation sickness from the uranium{{< /spoiler >}}  . We knew about that well before the 1957 first publishing of this book. Perhaps Warner knew as well and that's subtly the answer? Especially given the fireplace  {{< spoiler >}}made out of uranium...{{< /spoiler >}}  
 
-I actually enjoyed this one relatively much despite all that. Not as good as {{< goodreads book="The Boxcar Children" text=" The Boxcar Children " >}} , but easily as good as {{< goodreads book="Surprise Island" text=" Surprise Island " >}} .
+I actually enjoyed this one relatively much despite all that. Not as good as [[The Boxcar Children]]() , but easily as good as [[Surprise Island]]() .

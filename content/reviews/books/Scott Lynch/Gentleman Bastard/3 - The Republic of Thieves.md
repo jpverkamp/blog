@@ -16,7 +16,7 @@ series_index: [3]
 ---
 > “I don’t expect life to make sense,” he said after a few moments, “but it would certainly be pleasant if it would stop kicking us in the balls.”
 
-{{< goodreads book="The Lies of Locke Lamora" text=" The Lies of Locke Lamora " >}} was all about revenge and gang warfare. {{< goodreads book="Red Seas Under Red Skies" text=" Red Seas Under Red Skies " >}} branched out to an Ocean's Eleven style casino heist and piracy on the high seas. So what do we get in {{< goodreads book="The Republic of Thieves" text=" The Republic of Thieves " >}} ? Infighting between political factions of mages and election fraud, apparently.  
+[[The Lies of Locke Lamora]]() was all about revenge and gang warfare. [[Red Seas Under Red Skies]]() branched out to an Ocean's Eleven style casino heist and piracy on the high seas. So what do we get in [[The Republic of Thieves]]() ? Infighting between political factions of mages and election fraud, apparently.  
 
 <!--more-->
 
@@ -36,6 +36,6 @@ Things only get better from there. :)
 
 I actually really like Sabetha. She was built up to unholy heights, by Locke's point of view, so seeing her as entirely human--albeit just as smart and well trained as the others--is worth it. Especially when she has her own wants and desires completely alien (at least at first) to Locke. That's a growing relationship worth seeing.  
 
-Overall, it's fascinating to see just how different each of the Gentleman Bastard's books can be, while driving forwards the characters and expanding the world a few hundred thousands words at a time. I look forward to {{< goodreads book="The Thorn of Emberlain" text=" The Thorn of Emberlain " >}} , whensoever it comes out.  
+Overall, it's fascinating to see just how different each of the Gentleman Bastard's books can be, while driving forwards the characters and expanding the world a few hundred thousands words at a time. I look forward to *The Thorn of Emberlain*, whensoever it comes out.  
 
 Side note: The backstory behind the name 'The Thorn of Camorr' is wonderful. About 44% of the way through in one of the interludes.

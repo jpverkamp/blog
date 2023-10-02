@@ -20,9 +20,9 @@ Not entirely wrong.
 
 <!--more-->
 
-{{< goodreads book="Shadow Hunt" text=" Shadow Hunt " >}} is an interesting book. On one hand, pregnant heroines, especially those bearing a  {{< spoiler >}}chosen one, although that only sort of applies here{{< /spoiler >}}  always feels like something of a cop out. There was certainly some talk about the problems that come with pregnancy, but it just feels weird.  
+[[Shadow Hunt]]() is an interesting book. On one hand, pregnant heroines, especially those bearing a  {{< spoiler >}}chosen one, although that only sort of applies here{{< /spoiler >}}  always feels like something of a cop out. There was certainly some talk about the problems that come with pregnancy, but it just feels weird.  
 
-Also, Shadow Hunt is probably the first book where I really want to have read {{< goodreads book="Dead Spots" text=" Dead Spots " >}} already. We've already heard about the nova wolf (whatever that means), but the luparii witches and the backstory to the bargest seem like something I'm missing. So it goes. It doesn't hurt the story, you just have to infer a lot more or just go with the flow.  
+Also, Shadow Hunt is probably the first book where I really want to have read *Dead Spots* already. We've already heard about the nova wolf (whatever that means), but the luparii witches and the backstory to the bargest seem like something I'm missing. So it goes. It doesn't hurt the story, you just have to infer a lot more or just go with the flow.  
 
 >  “Hypothetically,” I started again, “if a null wanted to get pregnant, would it be possible?”  
 >
@@ -36,4 +36,4 @@ Right. Maven. An actual decent example of very very old done decently. And someo
 
 > The Luthers all had that fresh-faced look I had learned to associate with Boulder, and even if I hadn’t known that many of them were related, I probably could have guessed by their similar features: honey-blonde hair, brown eyes, high cheekbones. It was like walking into a commercial for multivitamins. It made me want to drink a gallon of diet soda and eat a whole gas station pizza.
 
-She's so wonderfully snarky. I want to re-read the {{< goodreads book="Boundary Crossed" text=" Boundary Crossed " >}} series now. {{< goodreads book="Dead Spots" text=" Dead Spots " >}} first.
+She's so wonderfully snarky. I want to re-read the [[Boundary Crossed]]() series now. *Dead Spots* first.

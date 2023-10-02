@@ -22,7 +22,7 @@ series_index: [1]
 
 <!--more-->
 
-It's been rather a while since I read {{< goodreads book="Promise of Blood" text=" Promise of Blood " >}} and the rest of the Powder Mage books. Long enough that I've forgotten a lot of the details (something about traditional fireball mages versus gunpowder/crack mages and killing a god), but I still remember most of the world building. Combined with fairly intense world building Full Of Proper Nouns, it does make for a rather confusing read from time to time.  
+It's been rather a while since I read [[Promise of Blood]]() and the rest of the Powder Mage books. Long enough that I've forgotten a lot of the details (something about traditional fireball mages versus gunpowder/crack mages and killing a god), but I still remember most of the world building. Combined with fairly intense world building Full Of Proper Nouns, it does make for a rather confusing read from time to time.  
 
 Characterwise, it's quite the cast. Mad Ben Styke, decorated war hero thought dead and imprisoned for ten years as a war criminal with a quasi-adapted orphan (Celine) following him around. Michel Brevis, part of the secret police with a penchant for talking to himself and a secret past. Lady Flint, a badass mercenary general and powder mage. Oh, and  {{< spoiler >}}Taniel and Ka- Poel{{< /spoiler >}}  back again for another run. All of which are about to be thrown together in a plot involving slums built in a crater, an obelisk that whispers to you, and an invading empire of dragon warriors no one has seen or heard of in a century or more.  
 

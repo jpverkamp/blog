@@ -30,4 +30,4 @@ Plotwise, the 'big bad' sickness doesn't make terribly much sense timelinewise, 
 
 As an aside, I think the reading order on Goodreads I was using is questionable. Mars appears to take place before Privateers at least (if you ignore the Soviet Union). Doesn't really impact that story overly much (especially since there's a bit of history rewriting going on between books anyways), just something to keep in mind.  
 
-Looks like I'm off to the Moon next in {{< goodreads book="Moonrise" text=" Moonrise " >}} before I ever get to {{< goodreads book="Return to Mars" text=" Return to Mars " >}} . Onwards!
+Looks like I'm off to the Moon next in [[Moonrise]]() before I ever get to [[Return to Mars]]() . Onwards!

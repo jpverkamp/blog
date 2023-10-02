@@ -16,7 +16,7 @@ rating: 5
 page_count: 545
 series_index: [4]
 ---
-{{< goodreads book="Raise the Titanic!" text=" Raise the Titanic! " >}} is one of the Dirk Pitt books that I remember reading years and years ago. It's a fascinating story, mixing secret government espionage with the underwater salvage details that are one of the reasons I really do enjoy this series on the greatest salvage mission you could expect: The Titanic.  
+[[Raise the Titanic!]]() is one of the Dirk Pitt books that I remember reading years and years ago. It's a fascinating story, mixing secret government espionage with the underwater salvage details that are one of the reasons I really do enjoy this series on the greatest salvage mission you could expect: The Titanic.  
 
 It's fascinating to realize that this book was published 10 years before the remains of the Titanic were discovered--and yet it's set in 1987, 2 years after. As such, you realize now that there are a few details that aren't entirely correct (such as the ship breaking in half). Also we're near the fall of the USSR, but they're quite the villains to be reckoned with hereabouts. Still, from the point of view it was written, it all seems reasonable enough. Otherwise, just treat it as a parallel universe and you're good to go. And both the salvage mission plus the harrowing account of  {{< spoiler >}}Russian agents and a hurricane once the Titanic is raised{{< /spoiler >}} makes it a solid action book.  
 

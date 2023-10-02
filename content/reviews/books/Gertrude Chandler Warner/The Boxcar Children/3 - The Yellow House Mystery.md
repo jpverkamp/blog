@@ -16,7 +16,7 @@ rating: 4
 page_count: 192
 series_index: [3]
 ---
-Remember {{< goodreads book="Surprise Island" text=" Surprise Island " >}} ? Remember  
+Remember [[Surprise Island]]() ? Remember  
 
 >  Then Henry said, “Grandfather, that’s one thing we can’t understand. Why didn’t we ever get to go into that little yellow house? Doesn’t it belong to you?”  
 >
@@ -24,7 +24,7 @@ Remember {{< goodreads book="Surprise Island" text=" Surprise Island " >}} ? Rem
 
 <!--more-->
 
-Well here you go: {{< goodreads book="The Yellow House Mystery" text=" The Yellow House Mystery " >}} .  
+Well here you go: [[The Yellow House Mystery]]() .  
 
 Herein, we actually go into said Yellow House on Surprise Island to investigate yet another mystery of yet another long lost family member (of sorts). At some point, they're going to run out of house.  
 

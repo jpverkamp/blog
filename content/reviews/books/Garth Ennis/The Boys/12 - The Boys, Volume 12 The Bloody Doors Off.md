@@ -16,7 +16,7 @@ rating: 5
 page_count: 170
 series_index: [12]
 ---
-And so it ends. We already had one heck of a climax in {{< goodreads book="The Boys, Volume 11: Over the Hills with the Swords of a Thousand Men" text=" The Boys, Volume 11: Over the Hills with the Swords of a Thousand Men " >}} , but now we have to deal with the fallout of that--and a few remaining twists to find along the way. After all, there are still supes about. And as I've been saying the entire time: the Boys *are* supes.  
+And so it ends. We already had one heck of a climax in [[The Boys, Volume 11: Over the Hills with the Swords of a Thousand Men]]() , but now we have to deal with the fallout of that--and a few remaining twists to find along the way. After all, there are still supes about. And as I've been saying the entire time: the Boys *are* supes.  
 
 Some thoughts:  
 

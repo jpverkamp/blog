@@ -18,7 +18,7 @@ series_index: [4]
 ---
 > Look at your mistakes long enough to learn from them, then put them behind you.
 
-On one hand, {{< goodreads book="The Blood Mirror" text=" The Blood Mirror " >}} takes the storyline of the previous books and turns it up even more.  
+On one hand, [[The Blood Mirror]]() takes the storyline of the previous books and turns it up even more.  
 
 <!--more-->
 

@@ -17,7 +17,7 @@ rating: 4
 page_count: 410
 series_index: [3, 11]
 ---
-{{< goodreads book="The Silent War" text=" The Silent War " >}} feels like a conclusion to the Asteroid Wars ( {{< goodreads book="The Precipice" text=" The Precipice " >}} and {{< goodreads book="The Rock Rats" text=" The Rock Rats " >}} ), with the war continuing to escalate to father and father atrocities with even more sides to the conflict than before (  {{< spoiler >}}Yamagata is back! If a bit weirdly.{{< /spoiler >}}  ). It's a bit strange to see what feels like such a conclusion with one book left, but I guess that's why it's called {{< goodreads book="The Aftermath" text=" The Aftermath " >}} ? We'll just have to see.
+[[The Silent War]]() feels like a conclusion to the Asteroid Wars ( [[The Precipice]]() and [[The Rock Rats]]() ), with the war continuing to escalate to father and father atrocities with even more sides to the conflict than before (  {{< spoiler >}}Yamagata is back! If a bit weirdly.{{< /spoiler >}}  ). It's a bit strange to see what feels like such a conclusion with one book left, but I guess that's why it's called [[The Aftermath]]() ? We'll just have to see.
 
 Overall, The Silent War is a satisfying enough conclusion to the Asteroid Wars (as a war and as a subseries) building up both the overall conflict and one within the book itself. It's nice to actually see everything come to a head and I think the conclusion is workable, if a little ridiculous. It really feeds into the idea that behind every powerful corporation is a handful (or one) of powerful men and women really driving things forward.
 

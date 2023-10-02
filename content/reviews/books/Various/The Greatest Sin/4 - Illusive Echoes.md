@@ -15,7 +15,7 @@ rating: 4
 page_count: 259
 series_index: [4]
 ---
-{{< goodreads book="Illusive Echoes" text=" Illusive Echoes " >}} continues following Chivalis second life as an agent of the Fallen, sent on all manner of weird missions throughout the world with her fellow agents. This time around, they have to find a statue of a cat. Made all the more interesting with flavors of gang warfare and corrupt law enforcement and royalty. Pretty crazy. I still want to see more about those Drowned Ones, but at least we get a few hints this time around. Not yet forgotten.  
+[[Illusive Echoes]]() continues following Chivalis second life as an agent of the Fallen, sent on all manner of weird missions throughout the world with her fellow agents. This time around, they have to find a statue of a cat. Made all the more interesting with flavors of gang warfare and corrupt law enforcement and royalty. Pretty crazy. I still want to see more about those Drowned Ones, but at least we get a few hints this time around. Not yet forgotten.  
 
 To me, the most interesting part and real draw of these stories remains the interactions between Chivali and the other Fallen.  
 

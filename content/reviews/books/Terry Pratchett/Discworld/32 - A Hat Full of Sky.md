@@ -18,7 +18,7 @@ series_index: [32]
 ---
 > Why do you go away? So that you can come back. So that you can see the place you came from with new eyes and extra colors. And the people there see you differently, too. Coming back to where you started is not the same as never leaving.
 
-{{< goodreads book="A Hat Full of Sky" text=" A Hat Full of Sky " >}} takes {{< goodreads book="The Wee Free Men" text=" The Wee Free Men " >}} and grows from there, following Tiffany Aching as she actually starts to learn a bit more witching, while at the same time having to deal with some of the fall out from her actions in The Wee Free Men.  
+[[A Hat Full of Sky]]() takes [[The Wee Free Men]]() and grows from there, following Tiffany Aching as she actually starts to learn a bit more witching, while at the same time having to deal with some of the fall out from her actions in The Wee Free Men.  
 
 <!--more-->
 

@@ -14,7 +14,7 @@ rating: 5
 page_count: 742
 series_index: [2]
 ---
-{{< goodreads book="On the Shoulders of Titans" text=" On the Shoulders of Titans " >}} is everything {{< goodreads book="Sufficiently Advanced Magic" text=" Sufficiently Advanced Magic " >}} was, only bigger and more so.  
+[[On the Shoulders of Titans]]() is everything [[Sufficiently Advanced Magic]]() was, only bigger and more so.  
 
 Crazy magical battles chock full of colorful spells, summoned beings, and magic items? Oh yeah.  
 

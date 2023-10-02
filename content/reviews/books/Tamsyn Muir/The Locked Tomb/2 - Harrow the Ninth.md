@@ -16,7 +16,7 @@ rating: 4
 page_count: 510
 series_index: [2]
 ---
-{{< goodreads book="Gideon the Ninth" text=" Gideon the Ninth " >}} was an absolutely wonderful book, a new favorite of mine. Which makes Harrow the Ninth all the harder to read--and especially review. This is going to be one of the most spoilery reviews I've ever written, but I think it's necessary. If you don't do spoilers: read the book. It's worth it. But it's going to be weird and confusing.  
+[[Gideon the Ninth]]() was an absolutely wonderful book, a new favorite of mine. Which makes Harrow the Ninth all the harder to read--and especially review. This is going to be one of the most spoilery reviews I've ever written, but I think it's necessary. If you don't do spoilers: read the book. It's worth it. But it's going to be weird and confusing.  
 
 Don't get me wrong. There is an absolute boatload to love about this book. The worldbuilding is still a fascinating combination of sci-fi and gothic (literally necromancers in space). The wording is still wonderful and weird and funny.  
 

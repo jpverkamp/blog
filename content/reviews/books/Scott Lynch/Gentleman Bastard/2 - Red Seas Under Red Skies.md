@@ -36,7 +36,7 @@ series_index: [2]
 
 <!--more-->
 
-{{< goodreads book="Red Seas Under Red Skies" text=" Red Seas Under Red Skies " >}} starts out strong, with Locke and Jean in a whole new interesting city, planning all new interesting crimes. It's got something of an Ocean's Eleven feel, with the due planning on taking on casino... only for things to go ever increasingly sideways. And then about a third of the way into the book... They're pirates now. Ocean's Eleven? Nah, Pirates of the Caribbean.  
+[[Red Seas Under Red Skies]]() starts out strong, with Locke and Jean in a whole new interesting city, planning all new interesting crimes. It's got something of an Ocean's Eleven feel, with the due planning on taking on casino... only for things to go ever increasingly sideways. And then about a third of the way into the book... They're pirates now. Ocean's Eleven? Nah, Pirates of the Caribbean.  
 
 It's a rather abrupt tonal shift and it takes a while (if ever) to get back to where I thought the book was going to be about. That's not to say it's bad, the pirate sections are fascinating. It just takes a while to figure out what's going on.  
 

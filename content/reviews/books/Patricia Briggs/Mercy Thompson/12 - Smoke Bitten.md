@@ -19,7 +19,7 @@ series_index: [12, 17]
 ---
 Two in a row! It's like Christmas! If Christmas was chuck full of creepy uberpowerful fae...  
 
-One of the major plot threads is dealing with the fallout of {{< goodreads book="Storm Cursed" text=" Storm Cursed " >}} . Mercy and co may have won the day, but in doing so they managed to tick off a great number of very powerful beings, lost a strong ally, and may have caused some permanent harm to Adam and Mercy's relationship. I really hated this at first--I've loved how solid the relationships of the main characters are in these books, letting them deal with huge problems together--but by the end I'm at least willing to see where this goes.  
+One of the major plot threads is dealing with the fallout of [[Storm Cursed]]() . Mercy and co may have won the day, but in doing so they managed to tick off a great number of very powerful beings, lost a strong ally, and may have caused some permanent harm to Adam and Mercy's relationship. I really hated this at first--I've loved how solid the relationships of the main characters are in these books, letting them deal with huge problems together--but by the end I'm at least willing to see where this goes.  
 
 <!--more-->
 

@@ -14,7 +14,7 @@ rating: 4
 page_count: 470
 series_index: [0]
 ---
-With {{< goodreads book="Rise of the Alliance" text="Rise of the Alliance" >}}, we're really getting towards the end of the series. The stakes are getting higher, the enemy ships are getting bigger, and the battle jargon is getting denser.  
+With [[Rise of the Alliance]](), we're really getting towards the end of the series. The stakes are getting higher, the enemy ships are getting bigger, and the battle jargon is getting denser.  
 
 At first Aurora and Celestia are all beat up again (of course), but for the moment, they have time. By the end, battle has escalated heartily. The Alliance fleet is growing, there are even more jump capable ships, and even more Ghatazhak. They're going to win eventually, that's to be expected, but it's still interesting to see how they get there.  
 

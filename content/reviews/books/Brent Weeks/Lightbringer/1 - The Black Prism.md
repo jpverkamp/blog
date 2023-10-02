@@ -14,7 +14,7 @@ rating: 5
 page_count: 788
 series_index: [1]
 ---
-I didn't even know that {{< goodreads book="The Black Prism" text=" The Black Prism " >}} was a series until I'd finished {{< goodreads author="Brent Weeks" text=" Brent Weeks " >}} other series ( {{< goodreads book="The Way of Shadows" text=" The Way of Shadows " >}} et al) and it came up in 'related works'. Reading the summary, I almost wish I'd read them the other way around. Lightbringer seems like more of a traditional epic fantasy (albeit with an interesting magic system, see below) rather than the unrelenting grimdarkness that was The Night Angel books.  
+I didn't even know that [[The Black Prism]]() was a series until I'd finished {{< goodreads author="Brent Weeks" text=" Brent Weeks " >}} other series ( [[The Way of Shadows]]() et al) and it came up in 'related works'. Reading the summary, I almost wish I'd read them the other way around. Lightbringer seems like more of a traditional epic fantasy (albeit with an interesting magic system, see below) rather than the unrelenting grimdarkness that was The Night Angel books.  
 
 One thing that I've really been liking about this series thus far is the world building. In particular the magic system. The basic idea is that drafters (magic users) can take light of certain colors--each person has different ranges--and use those colors to do various things. Like you can make a napalm like substance out of red or a solid, smooth surface out of blue. On the down side, drafting too much of a color will eventually drive you mad[^1]. If I knew more about the actual physics of light, I imagine I'd be more annoyed at the technical details, but as it stands, I know just enough to think it's a really cool idea.  
 
@@ -36,6 +36,6 @@ After that, we have Gavin Guile--the current Prism (who can use magic of any col
 
 Other than, Karris is an interesting combination of badass warrior woman and scorned lover. Corvan is the old retired general returning for action. Ironfist is the absolutely dedicated bodyguard (that's going to be an interesting storyline when he learns about  {{< spoiler >}}Gavin/Dezen{{< /spoiler >}}  ).  
 
-Overall, I quite enjoyed this book--even more than I liked {{< goodreads book="The Way of Shadows" text=" The Way of Shadows " >}} . I look forward to seeing everything explode in {{< goodreads book="The Blinding Knife" text=" The Blinding Knife " >}} .  
+Overall, I quite enjoyed this book--even more than I liked [[The Way of Shadows]]() . I look forward to seeing everything explode in [[The Blinding Knife]]() .  
 
 [^1]: First gripe with the series (which I believe is intentional): why does the Chromeria kill anyone who breaks their halo? I can't really believe that they all go immediately mad and can't still be useful / safe members of society. Some, sure. But all of them? I'm guessing/hoping that will be more dealt with in the sequels.

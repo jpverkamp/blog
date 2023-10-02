@@ -16,9 +16,9 @@ rating: 5
 page_count: 143
 series_index: [4]
 ---
-{{< goodreads book="Jim Butcher's The Dresden Files: War Cry" text=" Jim Butcher's The Dresden Files: War Cry " >}} The second new Dresden comic!  
+War Cry! The second new Dresden comic!  
 
-It almost feels like a [ bottle episode ](https://en.wikipedia.org/wiki/Bottle_episode) in that it's very limited in scope, but the action and explosions certainly would have cost a fair penny. There's something underhanded going on, an attack by hundreds of red court vampires, and Dresden coming into his role as a mentor warden. It's pretty good.  
+It almost feels like a [bottle episode](https://en.wikipedia.org/wiki/Bottle_episode) in that it's very limited in scope, but the action and explosions certainly would have cost a fair penny. There's something underhanded going on, an attack by hundreds of red court vampires, and Dresden coming into his role as a mentor warden. It's pretty good.  
 
 <!--more-->
 

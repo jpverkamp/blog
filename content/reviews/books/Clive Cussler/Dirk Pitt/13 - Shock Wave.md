@@ -16,13 +16,13 @@ rating: 5
 page_count: 537
 series_index: [13]
 ---
-{{< goodreads book="Shock Wave" text=" Shock Wave " >}} is yet another crazy book. Par for the course at this point. This time around, we have shipwrecks, sea serpents, diamonds, and a strange 'acoustic plague' that kills every living thing within a hundred kilometers. The bad guys are evil, the good guys are going to win in the end, and it's going to be a crazy story along the way.  
+[[Shock Wave]]() is yet another crazy book. Par for the course at this point. This time around, we have shipwrecks, sea serpents, diamonds, and a strange 'acoustic plague' that kills every living thing within a hundred kilometers. The bad guys are evil, the good guys are going to win in the end, and it's going to be a crazy story along the way.  
 
 Characterwise, it's more of the same. It's fascinating to see a fairly believable love interest for Pitt in Maeve[^fin]. And we have more and more from the side characters, in particular Giordino with Pitt and Rudy Gunn and Admiral Sandecker doing their own part to save the world. Giordino even gets a big show hand to hand fight at the end, although why in the world  {{< spoiler >}}he didn't just shoot her, I'll never know{{< /spoiler >}}  . Also  {{< spoiler >}}another transgender villain?{{< /spoiler >}}  Why? Again, it's just a few lines, but ... why?  
 
 <!--more-->
 
-Unfortunately, there's not even a hint of the salvage that I particularly like about these series, although there are shipwrecks, building your way out of bad situations, and island survival, so I guess I'll take it. Also, wasn't Canada part of the United States at one point? That seems to not have been a thing any more. Perhaps to tie more tightly to real history? They don't mention the Titanic as much either. On the other hand, the unit conversions that so plagued {{< goodreads book="Inca Gold" text=" Inca Gold " >}} are gone as well, with different characters using the units they would mostly likely know, so that's a good thing.  
+Unfortunately, there's not even a hint of the salvage that I particularly like about these series, although there are shipwrecks, building your way out of bad situations, and island survival, so I guess I'll take it. Also, wasn't Canada part of the United States at one point? That seems to not have been a thing any more. Perhaps to tie more tightly to real history? They don't mention the Titanic as much either. On the other hand, the unit conversions that so plagued [[Inca Gold]]() are gone as well, with different characters using the units they would mostly likely know, so that's a good thing.  
 
 Womanwise, Cussler still has some really weird sections at times:  
 

@@ -16,7 +16,7 @@ rating: 3
 page_count: 418
 series_index: [15]
 ---
-On one hand, it's better than {{< goodreads book="Saturn" text=" Saturn " >}} . At least this time around, we spend the entire book around Saturn and Titan, with a bit more exploration into the rings of the former and on the surface of the latter. There are essentially three plotlines: a robotic probe sent to Titan is refusing to phone home, someone has to go back to rings to verify that they're alive, and it's election season again--this time with Zero Population Growth as the main issue.  
+On one hand, it's better than [[Saturn]]() . At least this time around, we spend the entire book around Saturn and Titan, with a bit more exploration into the rings of the former and on the surface of the latter. There are essentially three plotlines: a robotic probe sent to Titan is refusing to phone home, someone has to go back to rings to verify that they're alive, and it's election season again--this time with Zero Population Growth as the main issue.  
 
 The first--going into the rings to collect samples to prove that they actually found life-- doesn't make the least bit of sense. There are arguments back and forth about who is going to go and how dangerous it is. But... why? Couldn't they just use a probe? It honestly fills like filler, although there are some hints of something much bigger going on here, since the life in the rings now seems to be  {{< spoiler >}}alien nanomachines{{< /spoiler >}}  (which: why? couldn't they just be different?) After the  {{< spoiler >}}artifact in the asteroid belt{{< /spoiler >}}  plotline doesn't seem to have gone anywhere, there are at least hints on more of a story to tell.  
 

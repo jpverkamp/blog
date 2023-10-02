@@ -16,7 +16,7 @@ rating: 5
 page_count: 144
 series_index: [10]
 ---
-Here in {{< goodreads book="The Boys, Volume 10: Butcher, Baker, Candlestick Maker" text=" The Boys, Volume 10: Butcher, Baker, Candlestick Maker " >}} , we learn about Becky, Butcher's wife and--really--the reason for many of the events of the series. Turns out she's absolutely wonderful and, no surprise to anyone, especially if you've seen the TV series  {{< spoiler >}}gets raped and eventually killed by a supe{{< /spoiler >}}  .  
+Here in [[The Boys, Volume 10: Butcher, Baker, Candlestick Maker]]() , we learn about Becky, Butcher's wife and--really--the reason for many of the events of the series. Turns out she's absolutely wonderful and, no surprise to anyone, especially if you've seen the TV series  {{< spoiler >}}gets raped and eventually killed by a supe{{< /spoiler >}}  .  
 
 ![Boys-10](/embeds/books/attachments/boys-10.jpg)  
 

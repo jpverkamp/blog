@@ -14,7 +14,7 @@ rating: 4
 page_count: 446
 series_index: [14]
 ---
-It turns out that  {{< spoiler >}}Captain Nash{{< /spoiler >}}  didn't die in {{< goodreads book="A Show of Force" text=" A Show of Force " >}} after all, and there's still a chance that the Jung won't  {{< spoiler >}}steal a jump drive{{< /spoiler >}}  . There will be a tense few scenes before we find out for sure. It does rob the ending of A Show of Force a bit, but The Frontiers Saga has always felt somewhat like a television series and for that genre it fits. You need to raise the stakes, but the twist is almost always that the  {{< spoiler >}}heroes found a way to survive{{< /spoiler >}}  .  
+It turns out that  {{< spoiler >}}Captain Nash{{< /spoiler >}}  didn't die in [[A Show of Force]]() after all, and there's still a chance that the Jung won't  {{< spoiler >}}steal a jump drive{{< /spoiler >}}  . There will be a tense few scenes before we find out for sure. It does rob the ending of A Show of Force a bit, but The Frontiers Saga has always felt somewhat like a television series and for that genre it fits. You need to raise the stakes, but the twist is almost always that the  {{< spoiler >}}heroes found a way to survive{{< /spoiler >}}  .  
 
 Otherwise, all sorts of things are happening. The Pentaurus Cluster has descended into open civil war and can no longer supply the Aurora and the Alliance. Ground troops are forced to withdraw. The Aurora/Celestia get beat up again. Deliza comes back to show off her super smarts and upgrade the Falcons to SUPER Falcons.  
 

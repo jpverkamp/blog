@@ -14,7 +14,7 @@ page_count: 658
 ---
 >  I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.  
 
-I last read {{< goodreads book="Dune" text=" Dune " >}} more than a decade ago and saw both the movie and the TV mini-series about as long ago. From this long ago, and from being such a stable in the science fiction mindspace, I remember a lot of the general things that would happen, but had forgotten most of the details. Unfortunately, I think that might be the best way to remember it.  
+I last read [[Dune]]() more than a decade ago and saw both the movie and the TV mini-series about as long ago. From this long ago, and from being such a stable in the science fiction mindspace, I remember a lot of the general things that would happen, but had forgotten most of the details. Unfortunately, I think that might be the best way to remember it.  
 
 <!--more-->
 

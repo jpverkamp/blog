@@ -16,7 +16,7 @@ rating: 4
 page_count: 521
 series_index: [4]
 ---
-After {{< goodreads book="Jokers Wild" text=" Jokers Wild " >}} , I'm glad to see {{< goodreads book="Aces Abroad" text=" Aces Abroad " >}} move on from Fortunato/the Masons (although Fortunato isn't gone for good just yet). After listening to the afterward by George RR Martin, that seems to have been intentional: the first three books were ordered together and made a self contained arc. A similar pattern will continue through the rest of the books.  
+After [[Jokers Wild]]() , I'm glad to see [[Aces Abroad]]() move on from Fortunato/the Masons (although Fortunato isn't gone for good just yet). After listening to the afterward by George RR Martin, that seems to have been intentional: the first three books were ordered together and made a self contained arc. A similar pattern will continue through the rest of the books.  
 
 It's also interesting this time that where we were mostly limited to New York and Jokertown before, now we're getting a look at the rest of the world--in the guise of a world tour taken on by a number of famous Aces, Jokers, and Nats (listening to the audiobooks, I was wondering why in the world they'd be called gnats... swattable? nats makes much more sense). The Wild Card virus may be rare the further you get from New York, but it seems to have impacted every corner of the world in various ways.  
 
@@ -38,7 +38,7 @@ Individual stories:
 
 **Blood Rights** : Guatemalan/Mayan myths writ large in another story about revolution. Interesting, although I'm not sure if we'll see more about this.  
 
-**Warts and All** : Powers originally from {{< goodreads book="Frog and Toad Are Friends" text=" Frog and Toad Are Friends " >}} ? Gone a bit sideways (and upwards (and upwards))? Sure! I like Troll. Another I hope to see more of.  
+**Warts and All** : Powers originally from [[Frog and Toad Storybook Treasury: 4 Complete Stories in 1 Volume!|Frog and Toad]]()? Gone a bit sideways (and upwards (and upwards))? Sure! I like Troll. Another I hope to see more of.  
 
 **Down By The Nile** : Peregrine's surprise  {{< spoiler >}}pregnancy{{< /spoiler >}}  , especially given that  {{< spoiler >}}Fortunato is the father{{< /spoiler >}}  was a lot better than I expected. It feels 'real', which is always a plus in a world like this. The Living Gods are an interesting idea as well--really, the entire idea that beliefs and situation around you when you turn your Wild Card influences your powers.  
 

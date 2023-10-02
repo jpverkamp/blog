@@ -17,7 +17,7 @@ rating: 5
 page_count: 240
 series_index: [10, 14]
 ---
-{{< goodreads book="Fables, Vol. 10: The Good Prince" text=" Fables, Vol. 10: The Good Prince " >}} . The story of Ambrose (Flycatcher).  
+[[Fables, Vol. 10: The Good Prince]]() . The story of Ambrose (Flycatcher).  
 
 In a nut shell:  {{< spoiler >}}he finds the ghost of Lancelot (yes, that Lancelot), Excaliber (yes, that Excaliber), saves a bunch of damned Fable souls, and makes a kingdom where anyone who wants to sit out the coming war can be safe{{< /spoiler >}}  . If you'd have said that was his coming storyline when we first met him, I'd have thought you mad.  
 

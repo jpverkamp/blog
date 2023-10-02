@@ -16,13 +16,13 @@ rating: 4
 page_count: 140
 series_index: [11]
 ---
-{{< goodreads book="Fables: 1001 Nights of Snowfall" text=" Fables: 1001 Nights of Snowfall " >}} . [ One Thousand and One Nights ](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights) [^funfact], if the storyteller were Snow White, captured on her way to the Arabian Fables to make a pact against the Adversary.  
+[[Fables: 1001 Nights of Snowfall]]() . [ One Thousand and One Nights ](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights) [^funfact], if the storyteller were Snow White, captured on her way to the Arabian Fables to make a pact against the Adversary.  
 
 ![Snowfall-6-He-likes-stories](/embeds/books/attachments/snowfall-6-he-likes-stories.jpg)  
 
 <!--more-->
 
-I actually read this slightly out of order, it should have been before {{< goodreads book="Fables, Vol. 7: Arabian Nights" text=" Fables, Vol. 7: Arabian Nights " >}} and would have given that story a bit more context, but so it goes. It's mostly a stand alone, so it works.  
+I actually read this slightly out of order, it should have been before [[Fables, Vol. 7: Arabian Nights (and Days)]]() and would have given that story a bit more context, but so it goes. It's mostly a stand alone, so it works.  
 
 Overall, the [ frame story ](https://en.wikipedia.org/wiki/Frame_story) is fairly interesting and we get a bit more about Snow, who's pretty cool in this world. But only a tiny bit. The stories themselves vary widely. I liked the tail of Ambrose (the Frog Prince) a lot--it's so sad :sad:--and the story of Bigby--and all he's done in the past--is fascinating. And apparently Snow White  {{< spoiler >}}murdered the seven dwarves?{{< /spoiler >}}  Oy.  
 

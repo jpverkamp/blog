@@ -16,7 +16,7 @@ rating: 4
 page_count: 567
 series_index: [3]
 ---
-I'll admit, I was perhaps a little hard on {{< goodreads book="Clockwork Angel" text=" Clockwork Angel " >}} / {{< goodreads book="Clockwork Prince" text=" Clockwork Prince " >}} . But {{< goodreads book="Clockwork Princess" text=" Clockwork Princess " >}} is quite a bit better.  
+I'll admit, I was perhaps a little hard on [[Clockwork Angel]]() / [[Clockwork Prince]]() . But [[Clockwork Princess]]() is quite a bit better.  
 
 In one book, we have big battles, a conclusion to the automaton plotline, an actual resolution to the love triangle (I'll come back to this), more politics, and answers for just what Tessa actually is and what that means for the greater universe. I can't really think of anything in particular that I particularly would have wanted that was missing.  
 

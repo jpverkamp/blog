@@ -15,7 +15,7 @@ page_count: 340
 ---
 > We're more than the sum total of our choices, that all the paths we might have taken factor somehow into the math of our identity.
 
-I went into {{< goodreads book="Dark Matter" text=" Dark Matter " >}} not actually knowing much about the book. So the first couple of chapters (where the main character is kidnapped by mysterious figures, has his whole life turned upside down, and then apparently meets his wife for the first time) was... intense.  
+I went into [[Dark Matter]]() not actually knowing much about the book. So the first couple of chapters (where the main character is kidnapped by mysterious figures, has his whole life turned upside down, and then apparently meets his wife for the first time) was... intense.  
 
 <!--more-->
 

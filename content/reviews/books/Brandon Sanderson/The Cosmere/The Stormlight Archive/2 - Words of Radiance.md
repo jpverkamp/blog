@@ -45,7 +45,7 @@ series_index: [0, 2]
 
 <!--more-->
 
-Words of Radiance takes {{< goodreads book="The Way of Kings" text=" The Way of Kings " >}} and builds it up in all the right ways... only to tear everything down once again.  
+Words of Radiance takes [[The Way of Kings]]() and builds it up in all the right ways... only to tear everything down once again.  
 
 Kadadin saves the day... and then royally screws things up. His time among the bridgemen is something special and we really get to see him fighting through depression and becoming the best of what he can be.  
 
@@ -55,7 +55,7 @@ The Parshendi figure out a new way to return to what they once had... and royall
 
 All throughout, Dalinar is so sure that he's doing the right thing, even if no one believes him. And at the end... things go so very wrong for the entire world. But at the same time, old things have come again...  
 
-Words of Radiance is a wonderful book and a worthy followup to {{< goodreads book="The Way of Kings" text=" The Way of Kings " >}} . Even better... this time around I can go straight into Oathbringer!  
+Words of Radiance is a wonderful book and a worthy followup to [[The Way of Kings]]() . Even better... this time around I can go straight into Oathbringer!  
 
 Random side note... Syl's a lot of fun:  
 

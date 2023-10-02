@@ -40,7 +40,7 @@ Otherwise, there's something to be said about the inherent sexism more common in
 
 The final run up towards the end is interesting as well. They're assaulting Amber itself, over mountains and on the sea. It's an interesting choice to basically paint thumbnail sketches of their journeys: _And then we fought a sea monster. Ten thousand men died._  
 
-They're really not much more detailed than that. I could have used more of the battles, they sound interesting, but I think it actually works. It drives up the tension right up to the climax... only for  {{< spoiler >}}Corwin to be cast into the dungeons and blinded.{{< /spoiler >}}  I see why the book tends to be bound into a single volume as {{< goodreads book="The Chronicles of Amber" text=" The Chronicles of Amber " >}} .  
+They're really not much more detailed than that. I could have used more of the battles, they sound interesting, but I think it actually works. It drives up the tension right up to the climax... only for  {{< spoiler >}}Corwin to be cast into the dungeons and blinded.{{< /spoiler >}}  I see why the book tends to be bound into a single volume as [[The Chronicles of Amber]]() .  
 
 Overall, it's an interesting story. More than enough to get me to want to read the rest of the series, but probably not enough to want to re-read in the future. We shall see if any of the latter books changes my mind.  
 

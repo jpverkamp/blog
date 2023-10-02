@@ -16,7 +16,7 @@ rating: 5
 page_count: 277
 series_index: [2]
 ---
-{{< goodreads book="Adulthood Rites" text=" Adulthood Rites " >}} follows up with the story of Lilith and the alien invasion / our alien saviors set out in {{< goodreads book="Dawn" text=" Dawn " >}} . This time around though, the main point of view follows Akin. A first generation child of an Oankali/human/Ooloi five parent mating--it's about as weird and interesting as it sounds-who starts the story as a rather precocious (for a human) one year old.  
+[[Adulthood Rites]]() follows up with the story of Lilith and the alien invasion / our alien saviors set out in [[Dawn]]() . This time around though, the main point of view follows Akin. A first generation child of an Oankali/human/Ooloi five parent mating--it's about as weird and interesting as it sounds-who starts the story as a rather precocious (for a human) one year old.  
 
 It's fascinating to see a more alien and childlike point of view on the world {{< goodreads author="Octavia E. Butler" text=" Octavia E. Butler " >}} built, especially as Akin spends a chunk of time among pure human resistors, becoming something of their champion.  
 

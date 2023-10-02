@@ -17,7 +17,7 @@ rating: 5
 page_count: 128
 series_index: [6, 17]
 ---
-More Jack! And this it's the big battle schene in this universe, much like in {{< goodreads book="Fables, Vol. 11: War and Pieces" text=" Fables, Vol. 11: War and Pieces " >}} . Gary (the Pathetic Fallacy) really shines here:  
+More Jack! And this it's the big battle schene in this universe, much like in [[Fables, Vol. 11: War and Pieces]]() . Gary (the Pathetic Fallacy) really shines here:  
 
 ![Jack-of-Fables-6-01-Horses](/embeds/books/attachments/jack-of-fables-6-01-horses.jpg)  
 

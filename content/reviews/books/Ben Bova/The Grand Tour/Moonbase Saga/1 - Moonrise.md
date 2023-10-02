@@ -17,7 +17,7 @@ rating: 3
 page_count: 576
 series_index: [1, 5]
 ---
-A bit of a jump in focus and topic from {{< goodreads book="Mars" text=" Mars " >}} , {{< goodreads book="Moonrise" text=" Moonrise " >}} is more similar to {{< goodreads book="Privateers" text=" Privateers " >}} et al (the Dan Randolph books), with more of a focus on corporate structure over science.
+A bit of a jump in focus and topic from [[Mars]]() , [[Moonrise]]() is more similar to [[Privateers]]() et al (the Dan Randolph books), with more of a focus on corporate structure over science.
 
 Amusingly, despite the title/series, Moonrise is only tangentially about the Moonbase, despite a large chunk of the book taking place there. Really, it's about the bizarre broken family and corporate dynamic of Masterson Aerospace and the rise of nanotechnology in Ben Bova's universe. From what I remember of other books in the series (from more than a decade ago), the rise of technology and the idea of it being banned on Earth for religious reasons is a fairly major plot point from here on out, so it's interesting to see how that all began.
 

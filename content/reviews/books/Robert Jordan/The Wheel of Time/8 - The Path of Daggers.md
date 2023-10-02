@@ -22,7 +22,7 @@ series_index: [8]
 
 <!--more-->
 
-For all the time it took them to find the Bowl of the Winds in {{< goodreads book="A Crown of Swords" text=" A Crown of Swords " >}} , they certainly get to using it quickly enough in {{< goodreads book="The Path of Daggers" text=" The Path of Daggers " >}} . It's the first of a series of truly epic uses of the One Power in the series, magic use that actually _feels_ epic on a scale I've only rarely seen in other series.  
+For all the time it took them to find the Bowl of the Winds in [[A Crown of Swords]]() , they certainly get to using it quickly enough in [[The Path of Daggers]]() . It's the first of a series of truly epic uses of the One Power in the series, magic use that actually _feels_ epic on a scale I've only rarely seen in other series.  
 
 Unfortunately after that, a lion's share of the book is taken up by Perrin going to Ghealdan to stop the Prophet of the Dragon. Along the way he collects a couple queens (and somehow no one notices the one?) and right at the end Faile is  {{< spoiler >}}kidnapped by the Shaido--I did mention we weren't done with them...{{< /spoiler >}}  . Both are interesting enough plotlines, but already take too long just in this book, let alone what I know is coming ahead. Sure, it's not entirely fair judging this book on ones yet to come... ¯\\_(ツ)_/¯  
 

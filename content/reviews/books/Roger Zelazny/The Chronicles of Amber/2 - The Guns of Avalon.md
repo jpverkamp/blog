@@ -16,7 +16,7 @@ series_index: [2]
 ---
 > Now I had to find a place, a place resembling another place -- one which no longer existed. I located the path. I took it.
 
-In {{< goodreads book="Nine Princes in Amber" text=" Nine Princes in Amber " >}} , Corwin attacked his brother Eric in Amber. He lost and was blinded and thrown in prison. Conveniently,  {{< spoiler >}}Princes of Amber have a remarkable ability to heal{{< /spoiler >}}  . On top of that,  {{< spoiler >}}Dworkin (who created the Trumps and knows more about the Pattern than probably anyone) just so happens to be locked up as well and pops into his cell.{{< /spoiler >}}  . One thing leads to another, and Corwin is free. Of course he wants to take another crack at the throne. How though?  
+In [[Nine Princes in Amber]]() , Corwin attacked his brother Eric in Amber. He lost and was blinded and thrown in prison. Conveniently,  {{< spoiler >}}Princes of Amber have a remarkable ability to heal{{< /spoiler >}}  . On top of that,  {{< spoiler >}}Dworkin (who created the Trumps and knows more about the Pattern than probably anyone) just so happens to be locked up as well and pops into his cell.{{< /spoiler >}}  . One thing leads to another, and Corwin is free. Of course he wants to take another crack at the throne. How though?  
 
 <!--more-->
 

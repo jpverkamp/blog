@@ -22,7 +22,7 @@ Disappointing.
 
 <!--more-->
 
-I really wish there were better things to say about {{< goodreads book="The Last Battle" text=" The Last Battle " >}} . After seeing the beginning of Narnia in {{< goodreads book="The Magician's Nephew" text=" The Magician's Nephew " >}} (what I can now safely say is my favorite of the series), I expected great things from the end of Narnia.  
+I really wish there were better things to say about [[The Last Battle]]() . After seeing the beginning of Narnia in [[The Magician's Nephew]]() (what I can now safely say is my favorite of the series), I expected great things from the end of Narnia.  
 
 Thre's a decent enough start, with an Aslan impersonator taking power and a Colormene takeover plot (Racist much? They're literally called 'darkies' and are cartoonishly evil for the most part). That would be well enough. But then things start going terribly wrong and the good guys keep losing. That's... I mean, it's the last book of the series, but it's completely different from any of the rest of the stories.  
 

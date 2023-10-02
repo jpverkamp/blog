@@ -23,6 +23,6 @@ Worldbuildingwise, the idea of an ocean culture that travels between terrifying 
 
 Storywise, it's an interesting exploration of a fading native trapping culture and the advances of civilization. It has just enough feel of magic to it to hint at an adventure story set in the Age of Exploration, which I really enjoy, especially given that it's not set from the point of view of the explorers.  
 
-Technically, Sixth of the Dusk fits into Sander's shared Cosmere universe. One interesting point, as noted in the {{< goodreads book="Arcanum Unbounded" text=" Arcanum Unbounded " >}} surrounding text, is that this story takes place the furthest in the future of any of Sanderson's Cosmere stories. So those people above that are trying to trade with the people of First of the Sun? They very well could be Mistborn. Or Shardbearers. Or Worldhoppers.  
+Technically, Sixth of the Dusk fits into Sander's shared Cosmere universe. One interesting point, as noted in the [[Arcanum Unbounded]]() surrounding text, is that this story takes place the furthest in the future of any of Sanderson's Cosmere stories. So those people above that are trying to trade with the people of First of the Sun? They very well could be Mistborn. Or Shardbearers. Or Worldhoppers.  
 
 Very cool.

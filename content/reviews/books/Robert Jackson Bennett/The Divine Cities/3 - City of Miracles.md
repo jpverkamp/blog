@@ -14,7 +14,7 @@ rating: 5
 page_count: 466
 series_index: [3]
 ---
-{{< goodreads book="City of Miracles" text=" City of Miracles " >}} is a bizarre, fantastic end to a bizarre, fantastic series. Once again with another point of view, this time we follow Sigrud, with Shara and Mulaghesh both taking minor background roles, what with Shara dying in the first few pages... Hey. It's not a spoiler, if it happens that early in the book...  {{< spoiler >}}Plus, you know she always has another trick up her sleeve!{{< /spoiler >}}  ).  
+[[City of Miracles]]() is a bizarre, fantastic end to a bizarre, fantastic series. Once again with another point of view, this time we follow Sigrud, with Shara and Mulaghesh both taking minor background roles, what with Shara dying in the first few pages... Hey. It's not a spoiler, if it happens that early in the book...  {{< spoiler >}}Plus, you know she always has another trick up her sleeve!{{< /spoiler >}}  ).  
 
 Sigrud is a fascinating character seeing him deal with yet another loss and on yet another mission to track down and kill those responsible in a way that only he can do is well worth reading on it's own. Combine that with the inevitable-in-hindsite fallout of killing or driving off all the godly beings in a land...  
 

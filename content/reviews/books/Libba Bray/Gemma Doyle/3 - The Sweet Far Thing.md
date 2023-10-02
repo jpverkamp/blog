@@ -24,7 +24,7 @@ series_index: [3]
 
 <!--more-->
 
-{{< goodreads book="The Sweet Far Thing" text=" The Sweet Far Thing " >}} is a doorstopper conclusion to a series, which for the most part does everything the previous books does only more so. We do finally get to a conclusion, but really, the vast majority of the book I probably could have done without.  
+[[The Sweet Far Thing]]() is a doorstopper conclusion to a series, which for the most part does everything the previous books does only more so. We do finally get to a conclusion, but really, the vast majority of the book I probably could have done without.  
 
 Things that annoyed me about this book:  
 

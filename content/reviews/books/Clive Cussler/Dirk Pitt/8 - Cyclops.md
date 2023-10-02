@@ -16,7 +16,7 @@ rating: 4
 page_count: 473
 series_index: [8]
 ---
-Okay, Cussler really jumped the shark (over the moon?) in {{< goodreads book="Cyclops" text=" Cyclops " >}} . After the mind control plot of {{< goodreads book="Deep Six" text=" Deep Six " >}} , I figured things would stay a bit more grounded this time around.  
+Okay, Cussler really jumped the shark (over the moon?) in [[Cyclops]]() . After the mind control plot of [[Deep Six]]() , I figured things would stay a bit more grounded this time around.  
 
 Nah. Moon colonies. A plot to take over Cuba. El Dorado (or rather La Dorada!). Conversations with Fidel Casto. It's all here. And it's completely ridiculous. I wish there'd been a bit more focus on one or two of the plotlines (particular La Dorada, that's the Pitt I prefer), but so it goes.  
 

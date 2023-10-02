@@ -18,11 +18,11 @@ series_index: [1]
 ---
 > “One must always be careful of books," said Tessa, "and what is inside them, > for words have the power to change us.”
 
-It's been rather a while since I read {{< goodreads book="City of Bones" text=" City of Bones " >}} \--long enough that it was before I actually started writing reviews. And long enough that I only barely remember what happened in those other books. I do vaguely remember the world building being an interesting enough take on urban fantasy --I have a personal love of books dealing with angels and half angels-- surrounding an otherwise interesting enough plot.  
+It's been rather a while since I read City of Bones--long enough that it was before I actually started writing reviews. And long enough that I only barely remember what happened in those other books. I do vaguely remember the world building being an interesting enough take on urban fantasy --I have a personal love of books dealing with angels and half angels-- surrounding an otherwise interesting enough plot.  
 
 <!--more-->
 
-And... that's about what you get in {{< goodreads book="Clockwork Angel" text=" Clockwork Angel " >}} .  
+And... that's about what you get in [[Clockwork Angel]]() .  
 
 In theory, it's urban fantasy set in Victorian England, except other than a few vague mentions, you could easily forget (and I did from time to time) and think it's set in the more common to urban fantasy modern day. Which is a bummer; I would have liked a stronger steampunky vibe that they appear to have been going for--what with the clockwork baddies we eventually get (Although they don't really 'feel' clockwork. They just feel like faceless baddies. Does that make sense?)  
 

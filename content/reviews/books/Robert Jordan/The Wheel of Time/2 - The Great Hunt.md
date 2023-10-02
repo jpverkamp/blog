@@ -16,7 +16,7 @@ rating: 5
 page_count: 705
 series_index: [2]
 ---
-Amusingly, due to the library not having a copy of {{< goodreads book="The Eye of the World" text=" The Eye of the World " >}} , the first two times I read the series, I actually started with {{< goodreads book="The Great Hunt" text=" The Great Hunt " >}} . While the Eye of the World could arguably stand alone (albeit with a somewhat unsatisfying feeling, given the sheer quantity of untapped potential in the world building), it's in the Great Hunt that things really start getting crazy.  
+Amusingly, due to the library not having a copy of [[The Eye of the World]]() , the first two times I read the series, I actually started with [[The Great Hunt]]() . While the Eye of the World could arguably stand alone (albeit with a somewhat unsatisfying feeling, given the sheer quantity of untapped potential in the world building), it's in the Great Hunt that things really start getting crazy.  
 
 Rand is just now starting to understand what being the Dragon Reborn could mean. Perrin has a connection to the wolves, something very old, come new again. Mat is still cursed by his dagger and yet  {{< spoiler >}}he's the one to finally sound the Horn{{< /spoiler >}}  . You have the first hints of parallel universes and world hopping, along with the World of Dreams--which will turn out to be rather important to the universe all together--along with a few more Forsaken coming out of the woodwork. Lanfear... Lanfear proves that being loved by a power hungry hundred/thousand year old super powerful jealous woman can be... interesting.  
 

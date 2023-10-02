@@ -17,7 +17,7 @@ rating: 4
 page_count: 236
 series_index: [1]
 ---
-I have a pretty good number of less known / self published stories that I've collected through various sales and bundles that I keep meaning to work through. {{< goodreads book="The Fallen" text=" The Fallen " >}} is one such book. I'm not even sure where I picked it up anymore, but it seems worth giving a try.  
+I have a pretty good number of less known / self published stories that I've collected through various sales and bundles that I keep meaning to work through. [[The Fallen]]() is one such book. I'm not even sure where I picked it up anymore, but it seems worth giving a try.  
 
 Structurally, The Fallen starts with Chavali (a fortune teller who just so happens to have a gift for mind reading) and her clan of travelling folk. Fascinating world building already and we just keep getting hints of even crazier things going on in the greater world as  {{< spoiler >}}everyone dies and Chavali is brought back as one of the mysterious "Fallen"{{< /spoiler >}}  . Quite a twist.  
 

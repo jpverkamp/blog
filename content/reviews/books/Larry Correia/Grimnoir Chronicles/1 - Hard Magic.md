@@ -24,7 +24,7 @@ Hard Magic is Great Depression / early 1930's era detective noir piece set in an
 
 You have all sorts of abilities, mostly grouped into a single power set per person. Torches start fires. Brutes hit really hard (which is particularly interesting when the main example we see is a woman). Heavies that can mess around with gravity. Healers that put people back together and Pale Horses that tear them apart. Lazaruses raise zombies. Travelers can teleport. Cogs are basically mad scientists.  
 
-It's an interesting world, especially part of the way through when you start getting a bit deeper into exactly _why_ there are powers in the world (  {{< spoiler >}}definite {{< goodreads book="Worm" text=" Worm " >}} vibes there{{< /spoiler >}}  ), although that's mostly a side plot for this book--I'm sure it will become more critical in the sequels.  
+It's an interesting world, especially part of the way through when you start getting a bit deeper into exactly _why_ there are powers in the world (  {{< spoiler >}}definite [[Worm]]() vibes there{{< /spoiler >}}  ), although that's mostly a side plot for this book--I'm sure it will become more critical in the sequels.  
 
 >  “Hey!” he shouted. “Can you clamp it down from here?”  
 >

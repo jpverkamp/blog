@@ -16,7 +16,7 @@ rating: 5
 page_count: 386
 series_index: [5]
 ---
-Compared to the previous books, {{< goodreads book="Princeps' Fury" text=" Princeps' Fury " >}} changes focus somewhat. For the first time, we're not actually focussed solely around Alera and the domain and battles of the humans. Instead, we're going to Canim where unfortunately  {{< spoiler >}}the Vord have taken over nearly anything{{< /spoiler >}}  . It's a neat change of focus and a crazy escalation of stakes--although admittedly not unexpected.  
+Compared to the previous books, [[Princeps' Fury]]() changes focus somewhat. For the first time, we're not actually focussed solely around Alera and the domain and battles of the humans. Instead, we're going to Canim where unfortunately  {{< spoiler >}}the Vord have taken over nearly anything{{< /spoiler >}}  . It's a neat change of focus and a crazy escalation of stakes--although admittedly not unexpected.  
 
 The parts with Tavi are pretty wonderful. He's really likeable and does a great job of overcoming problems by outthinking them, even now that he's actually coming into powers of his own. It's almost unbelievable just how good he is at planning, but he's the protagonist. It works.  
 

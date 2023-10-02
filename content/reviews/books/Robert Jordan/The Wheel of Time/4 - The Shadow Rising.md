@@ -26,7 +26,7 @@ Bit late for that. For all of them.
 >
 >  "Feel?" Rand looked around the camp, at the Jindo moving among the tents. How many of them would be dead before he was done? "Tired. I feel tired.”  
 
-In {{< goodreads book="The Shadow Rising" text=" The Shadow Rising " >}} , there is a feeling of settling. That's not to say that things aren't still happening, oh they very much are. Rand is coming into his own and forging a nation in a way no one would expect, Matt is coming into an entirely new destiny.  
+In [[The Shadow Rising]]() , there is a feeling of settling. That's not to say that things aren't still happening, oh they very much are. Rand is coming into his own and forging a nation in a way no one would expect, Matt is coming into an entirely new destiny.  
 
 Perrin... this is among my favorite parts of the series. When Perrin hears about White Cloaks and trollocs attacking the Two Rivers, he breaks away from Rand--which despite all his grumbling Matt was unable to do--and goes to help. While some of his reasons for doing so far a bit mad, he ends up where he needs to be. And Faile. Oh Faile. They're good for one another, even if it takes them forever to realize it.  
 

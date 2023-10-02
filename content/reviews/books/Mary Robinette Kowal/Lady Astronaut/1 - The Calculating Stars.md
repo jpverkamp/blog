@@ -14,13 +14,13 @@ rating: 5
 page_count: 432
 series_index: [1]
 ---
-I cam to {{< goodreads book="The Calculating Stars" text=" The Calculating Stars " >}} by way of the [ Writing Excuses ](https://writingexcuses.com/) podcast. I've read all of {{< goodreads author="Brandon Sanderson" text=" Brandon Sanderson " >}} , most of {{< goodreads author="Howard Tayler" text=" Howard Tayler " >}} 's [ Schlock Mercenary ](https://www.goodreads.com/series/50869-schlock- mercenary) series, and {{< goodreads author="Dan Wells" text=" Dan Wells " >}} 's {{< goodreads book="Partials" text=" Partials " >}} and {{< goodreads book="I Am Not a Serial Killer" text=" I Am Not a Serial Killer " >}} series and loved them all. The one outstanding author? {{< goodreads author="Mary Robinette Kowal" text=" Mary Robinette Kowal " >}} .  
+I cam to [[The Calculating Stars]]() by way of the [ Writing Excuses ](https://writingexcuses.com/) podcast. I've read all of {{< goodreads author="Brandon Sanderson" text=" Brandon Sanderson " >}} , most of {{< goodreads author="Howard Tayler" text=" Howard Tayler " >}} 's [ Schlock Mercenary ](https://www.goodreads.com/series/50869-schlock- mercenary) series, and {{< goodreads author="Dan Wells" text=" Dan Wells " >}} 's [[Partials]]() and [[I Am Not a Serial Killer]]() series and loved them all. The one outstanding author? {{< goodreads author="Mary Robinette Kowal" text=" Mary Robinette Kowal " >}} .  
 
 I was not at all disappointed.  
 
 <!--more-->
 
-{{< goodreads book="The Calculating Stars" text=" The Calculating Stars " >}} starts out with the end of the world. An asteroid  {{< spoiler >}}wipes out the east coast{{< /spoiler >}}  . Millions dead. The world is going to die, slowly. (Climate change writ obvious). The only solution: get off the Earth. From that rather fertile ground, we get main character Elma York, a calculator in the alternate reality space program, looking to be the first Lady Astronaut.  
+[[The Calculating Stars]]() starts out with the end of the world. An asteroid  {{< spoiler >}}wipes out the east coast{{< /spoiler >}}  . Millions dead. The world is going to die, slowly. (Climate change writ obvious). The only solution: get off the Earth. From that rather fertile ground, we get main character Elma York, a calculator in the alternate reality space program, looking to be the first Lady Astronaut.  
 
 Unfortunately:  
 

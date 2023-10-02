@@ -18,7 +18,7 @@ isbn13: '9780525620785'
 rating: 5
 page_count: 301
 ---
-The reviews of {{< goodreads book="Mexican Gothic" text=" Mexican Gothic " >}} are ... divided to say the least. There's more than a handfull of glowing five star reviews and a smaller but still significant number that just didn't get what the fuss was about. Halfway through... I totally get it.  
+The reviews of [[Mexican Gothic]]() are ... divided to say the least. There's more than a handfull of glowing five star reviews and a smaller but still significant number that just didn't get what the fuss was about. Halfway through... I totally get it.  
 
 I think the main problem is the absolute tonal shift that happens about halfway through the book.  
 
