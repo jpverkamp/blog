@@ -21,6 +21,6 @@ Ra is a wonderful and bizarre sort of story. On one level (about the first half 
 
 And then things really go off the rails. Because it turns out there is  {{< spoiler >}}another, deeper level of magic out there{{< /spoiler >}}  . And we're all actually  {{< spoiler >}}living in a computer simulation{{< /spoiler >}}  . When it all starts falling apart / coming together, things start getting really really weird. It ends up working out, but man was it a change of the sort of book I thought I was reading. Personally, I think it would have made a better sequel/totally different story in the same universe, but so it goes.  
 
-One side note: Ra was originally published as a web serial: [ Ra ](https://qntm.org/ra) . From time to time, it shows. There are a few jumps and pacing oddities that feel more at home in a chunkier (more serialized) structure. It can be jarring. I wonder if it would have if I hadn't known.  
+One side note: Ra was originally published as a web serial: [Ra](https://qntm.org/ra) . From time to time, it shows. There are a few jumps and pacing oddities that feel more at home in a chunkier (more serialized) structure. It can be jarring. I wonder if it would have if I hadn't known.  
 
 Overall, give the first few chapters a try. If you love those, you'll probably love the story as I did. If the technobabble turns you off--that will most certainly not be getting any better. Read something else. :)

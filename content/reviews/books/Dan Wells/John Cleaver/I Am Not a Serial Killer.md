@@ -15,7 +15,7 @@ series_index: [0]
 ---
 Warning: This book contains some really dark imagery and supernatural elements. If either of those is not what you're looking for, look elsewhere.  
 
-I first heard about the John Cleaver books while listening to the [ Writing Excuses ](http://www.writingexcuses.com/) podcast, which gave me a fairly good idea what I was getting into before I started it.  
+I first heard about the John Cleaver books while listening to the [Writing Excuses](http://www.writingexcuses.com/) podcast, which gave me a fairly good idea what I was getting into before I started it.  
 
 <!--more-->
 

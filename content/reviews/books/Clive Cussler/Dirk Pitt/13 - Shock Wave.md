@@ -58,7 +58,7 @@ This is solidly among my favorites of the series thus far, which actually surpri
 >
 >  "The answer is simple," Sandecker said wisely. "There's a little of Dirk Pitt in all of us."  
 
-Intentionally, Clive Cussler and Dirk Pitt share a lot of the same spirit. On top of 80 books in 85 years, Cussler started a real life analogue to NUMA and has found quite a number of shipwrecks. With [ his passing ](https://www.nytimes.com/2020/02/26/books/clive-cussler-dead.html) , this quote hits even harder. Quite the life and quite the legacy.  
+Intentionally, Clive Cussler and Dirk Pitt share a lot of the same spirit. On top of 80 books in 85 years, Cussler started a real life analogue to NUMA and has found quite a number of shipwrecks. With [his passing](https://www.nytimes.com/2020/02/26/books/clive-cussler-dead.html) , this quote hits even harder. Quite the life and quite the legacy.  
 
 Leaving on a more humorous note:  
 

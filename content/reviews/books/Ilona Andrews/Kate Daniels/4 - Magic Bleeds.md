@@ -48,6 +48,6 @@ And  {{< spoiler >}}Kate and Curran finally hook up{{< /spoiler >}}  ! YAY! A lo
 
 Overall, this series just keeps getting better and better. There are so very many ways this series could crash and burn, but I just keep getting more and more excited. Onwards!  
 
-[^wow]: I just made [ the connection ](https://en.wikipedia.org/wiki/Doctor_Dolittle) . I know. That's hilarious.  
+[^wow]: I just made [the connection](https://en.wikipedia.org/wiki/Doctor_Dolittle) . I know. That's hilarious.  
 
 [^spoiler]: Yes. I know that the spoiler tag is pretty obvious given the context. Worth it for the explicit warning?

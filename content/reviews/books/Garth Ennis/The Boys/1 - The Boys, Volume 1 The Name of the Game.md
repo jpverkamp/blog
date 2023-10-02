@@ -16,7 +16,7 @@ rating: 5
 page_count: 152
 series_index: [1]
 ---
-I recently watched [ The Boys ](https://www.amazon.com/The-Boys- Season-1/dp/B07QNJCXZK) on Amazon. It takes the basic idea that if you give a number of average people supernatural powers, a good number of them are going to call all sorts of wrong--even the good guys. So if the good guys are bad, [ who watches them? ](https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F)  
+I recently watched [The Boys](https://www.amazon.com/The-Boys- Season-1/dp/B07QNJCXZK) on Amazon. It takes the basic idea that if you give a number of average people supernatural powers, a good number of them are going to call all sorts of wrong--even the good guys. So if the good guys are bad, [who watches them?](https://en.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F)  
 
 And--before it was a TV show, it was a graphical novel! One absolutely chock full of the same schocking language (  {{< spoiler >}}Butcher to his dog: fuck 'em{{< /spoiler >}}  ), violence (slightly less), and sexual content (much earlier) as the show.  
 

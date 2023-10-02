@@ -16,7 +16,7 @@ rating: 4
 page_count: 140
 series_index: [11]
 ---
-[[Fables: 1001 Nights of Snowfall]]() . [ One Thousand and One Nights ](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights) [^funfact], if the storyteller were Snow White, captured on her way to the Arabian Fables to make a pact against the Adversary.  
+[[Fables: 1001 Nights of Snowfall]]() . [One Thousand and One Nights](https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights) [^funfact], if the storyteller were Snow White, captured on her way to the Arabian Fables to make a pact against the Adversary.  
 
 ![Snowfall-6-He-likes-stories](/embeds/books/attachments/snowfall-6-he-likes-stories.jpg)  
 
@@ -24,7 +24,7 @@ series_index: [11]
 
 I actually read this slightly out of order, it should have been before [[Fables, Vol. 7: Arabian Nights (and Days)]]() and would have given that story a bit more context, but so it goes. It's mostly a stand alone, so it works.  
 
-Overall, the [ frame story ](https://en.wikipedia.org/wiki/Frame_story) is fairly interesting and we get a bit more about Snow, who's pretty cool in this world. But only a tiny bit. The stories themselves vary widely. I liked the tail of Ambrose (the Frog Prince) a lot--it's so sad :sad:--and the story of Bigby--and all he's done in the past--is fascinating. And apparently Snow White  {{< spoiler >}}murdered the seven dwarves?{{< /spoiler >}}  Oy.  
+Overall, the [frame story](https://en.wikipedia.org/wiki/Frame_story) is fairly interesting and we get a bit more about Snow, who's pretty cool in this world. But only a tiny bit. The stories themselves vary widely. I liked the tail of Ambrose (the Frog Prince) a lot--it's so sad :sad:--and the story of Bigby--and all he's done in the past--is fascinating. And apparently Snow White  {{< spoiler >}}murdered the seven dwarves?{{< /spoiler >}}  Oy.  
 
 Otherwise, the main downside--and it was a surprisingly big one--was the art style. The stories each have their own art styles to the point of wondering if they each had their own artist. I have really grown to like the Fables art style and this... this is not that. It's not a deal breaker, but I'm glad to get back to the main plotline.  
 
@@ -50,4 +50,4 @@ Man. I like Ambrose. He's a fascinating character. Probably neurodivergent--on a
 
 Bigby is another of my favorite characters. While we previously had known that Mr. North was his father and that he had a rough childhood (to put it midly), but if we previously knew that Winter (a big name in the Adversary's court) was his mother, I totally missed that. That... that will be interesting.  
 
-[^funfact]: Fun fact: The stories evolved over centuries and have origins all over Asia and north Africa. But some of the best known stories such as Aladdin, Ali Baba, and Sinbad were not part of the original collection but instead added later by the European translator [ Antoine Galland ](https://en.wikipedia.org/wiki/Antoine_Galland) , either from other sources or written himself.
+[^funfact]: Fun fact: The stories evolved over centuries and have origins all over Asia and north Africa. But some of the best known stories such as Aladdin, Ali Baba, and Sinbad were not part of the original collection but instead added later by the European translator [Antoine Galland](https://en.wikipedia.org/wiki/Antoine_Galland) , either from other sources or written himself.

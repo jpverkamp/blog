@@ -28,4 +28,4 @@ All that being said, it's an interesting story and perhaps worth reading once in
 
 Edit: HAH!  
 
-> The Wheel of Time has some very Tolkien- and Herbert-inspired sections, and is generally considered to be a highly original setting, even if it’s true that the Aiel are inspired by the Fremen. -- [ Brandon Sanderson on FAQ Friday ](https://brandonsanderson.com/faq-friday-is-my-story-too-derivative/)
+> The Wheel of Time has some very Tolkien- and Herbert-inspired sections, and is generally considered to be a highly original setting, even if it’s true that the Aiel are inspired by the Fremen. -- [Brandon Sanderson on FAQ Friday](https://brandonsanderson.com/faq-friday-is-my-story-too-derivative/)

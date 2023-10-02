@@ -24,7 +24,7 @@ So. Oberon is back. Things are still going wrong. The Pattern is breaking apart 
 
 Oberon tries to fix things on one end by repairing the Pattern while at the same time sending Corwin on a Hellride to end all Hellrides out to the Courts of Chaos.  
 
-We get some interesting worldbuilding in the way of references to other works --something we've seen all along, but these are a bit more obvious. Ygg the talking tree ( [ Yggdrasil ](https://en.wikipedia.org/wiki/Yggdrasil) ). The raven Hugi (one of [ Odin's ravens ](https://en.wikipedia.org/wiki/Huginn_and_Muninn) ). The [ Spinx ](https://en.wikipedia.org/wiki/Sphinx) . [ Merlin ](https://en.wikipedia.org/wiki/Merlin) . It's interesting to see, but a bit weird change of tone.  
+We get some interesting worldbuilding in the way of references to other works --something we've seen all along, but these are a bit more obvious. Ygg the talking tree ( [Yggdrasil](https://en.wikipedia.org/wiki/Yggdrasil) ). The raven Hugi (one of [Odin's ravens](https://en.wikipedia.org/wiki/Huginn_and_Muninn) ). The [Spinx](https://en.wikipedia.org/wiki/Sphinx) . [Merlin](https://en.wikipedia.org/wiki/Merlin) . It's interesting to see, but a bit weird change of tone.  
 
 Crazy battles. Huge storms. The end of the world. Some fantastic writing in the descriptions and battles there, I'll give Zelazny that.  
 

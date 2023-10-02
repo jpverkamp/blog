@@ -17,7 +17,7 @@ series_index: [6]
 ---
 So, I did totally miss this one... But hey, the comics tend to be somewhat less necessary to read in order than the novels, especially with the novels being well ahead in timeline.  
 
-That being said, this story is a bit crazy. It introduces [ Puck ](https://en.wikipedia.org/wiki/Puck_\(folklore\)) , a character I've always enjoyed the idea of. The English version of Coyote or Loki essentially. And apparently... he's a badass wild Fae that can go toe to toe with Lea (under certain conditions)? Sure!  
+That being said, this story is a bit crazy. It introduces [Puck](https://en.wikipedia.org/wiki/Puck_\(folklore\)) , a character I've always enjoyed the idea of. The English version of Coyote or Loki essentially. And apparently... he's a badass wild Fae that can go toe to toe with Lea (under certain conditions)? Sure!  
 
 <!--more-->
 

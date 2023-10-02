@@ -34,4 +34,4 @@ Finally, fairly major spoilers to the plot:
 
 It's fascinating to see an actual  {{< spoiler >}}shoggoth{{< /spoiler >}}  in the series for what I think is the first time. We've had increasingly many hints about  {{< spoiler >}}Outsiders and truly alien beings{{< /spoiler >}}  , but is this the first time chronologically that we've seen something quite like this? It's pretty crazy.  
 
-[^king]: As a random aside, it's interesting how big a deal is made of the Swords go to someone descended from a King. Basically everyone is. [ Is Everyone a Descendant of Royalty? ](https://www.youtube.com/watch?v=15Uce4fG4R0)
+[^king]: As a random aside, it's interesting how big a deal is made of the Swords go to someone descended from a King. Basically everyone is. [Is Everyone a Descendant of Royalty?](https://www.youtube.com/watch?v=15Uce4fG4R0)
