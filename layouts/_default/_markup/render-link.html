@@ -16,7 +16,7 @@ if (and (strings.HasPrefix .PlainText "[todo:")
     {{ errorf "Markdown crosslink error in %s, multiple | in %s" .Page.File.Path .PlainText }}
     {{- end -}}
 
-    {{- $fixedText := substr .PlainText 5 -1 -}} 
+    {{- $fixedText := substr .PlainText 6 -1 -}} 
     {{- $fixedText = (replace $fixedText "&lsquo;" "'") -}}
     {{- $fixedText = (replace $fixedText "&rsquo;" "'") -}}
 
@@ -26,7 +26,7 @@ if (and (strings.HasPrefix .PlainText "[todo:")
 
     {{- range $page := .Page.Site.AllPages -}}
         {{- if (eq $page.Title $title) -}}
-            {{ errorf "TODO crosslink now exists for title: %s, title: %s" .Page.File.Path $title $text }}
+            {{ errorf "TODO crosslink now exists in %s, for title: %s, title: %s" .Page.File.Path $title $text }}
         {{- end -}}
     {{- end -}}
     

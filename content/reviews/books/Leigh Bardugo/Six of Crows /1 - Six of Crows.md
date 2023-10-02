@@ -68,4 +68,4 @@ Oh, I love it.
 
 There's a reason they're the best part of the [[Shadow and Bone: Season 1|TV show]](). I really have to see what more they pulled of Six of Crows into Season 2 now!
 
-Overall *well* worth the read, even more than Shadow and Bone. Where can Crooked Kingdom *possibly* go from here? 
+Overall *well* worth the read, even more than Shadow and Bone. Where can [[Crooked Kingdom]]() *possibly* go from here? 

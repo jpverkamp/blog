@@ -43,6 +43,6 @@ And beyond everything, it's the Crows as much as the heists they're all in on th
 
 Oh, it's very good. And now... we're done with this story! Sadness. 
 
-Now... on to the King of Scars. Perhaps we'll see a few crows back in Ravka? 
+Now... on to the [[todo:King of Scars]](). Perhaps we'll see a few crows back in Ravka? 
 
 Onward!
