@@ -21,7 +21,10 @@ rating: 4
 page_count: 403
 series_index: [1]
 ---
-> Shall I tell you a story? A new and terrible one? A ghost story? Are you > ready? Shall I begin? Once upon a time there were four girls. One was > pretty. One was clever. One charming, and one...one was mysterious. But they > were all damaged, you see. Something not right about the lot of them.
+> Shall I tell you a story? A new and terrible one? A ghost story? Are you
+> ready? Shall I begin? Once upon a time there were four girls. One was
+> pretty. One was clever. One charming, and one...one was mysterious. But they
+> were all damaged, you see. Something not right about the lot of them.
 
 That was not at all what I expected. Granted, I didn't expect much. I've had this book on my to read list for years and decided to finally try it without looking at anything but the cover. Instead, we got a slow building paranormal boarding school / historic urban fantasy set in around the turn of the 20th century with a portal fantasy turned surprisingly dark.  
 

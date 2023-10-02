@@ -44,7 +44,8 @@ He's got a point, even if it doesn't really apply in the real world.
 
 > “Could it be Asmodeus?’ Matthias inquired innocently.  
 >
-> Basil Stag Hare dropped a half-eaten apple pie on the bedside table. He was suddenly very serious.   > ‘Asmodeus? Where did you hear that name?”  
+> Basil Stag Hare dropped a half-eaten apple pie on the bedside table. He was suddenly very serious.  
+> ‘Asmodeus? Where did you hear that name?”  
 >
 > “A little bird told me,’ Matthias replied.”  
 

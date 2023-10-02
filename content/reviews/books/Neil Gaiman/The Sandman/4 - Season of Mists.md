@@ -16,7 +16,8 @@ rating: 5
 page_count: 217
 series_index: [4]
 ---
-> To reign is worth ambition though in Hell: Better to reign in Hell, then > serve in Heav'n.
+> To reign is worth ambition though in Hell: Better to reign in Hell, then
+> serve in Heav'n.
 
 Wherein Lucifer (yes that Lucifer) is, after thousands of years, *done* with his job (yes that job) and decides to leave his keys to Dream to figure out what the Hell (heh) to do with.  
 

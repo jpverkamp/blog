@@ -30,7 +30,8 @@ So of course Spin has to make it into pilot training, to prove to everyone that 
 >
 >  “So…,” I said. “You’re saying that by the end of our training, you expect us to be able to use grappling hooks made of energy to smash our enemies with flaming chunks of space debris?”  
 >
->  “Yes.”   >  “That…,” I whispered, “that’s the most beautiful thing I’ve ever heard.”  
+>  “Yes.”  
+>  “That…,” I whispered, “that’s the most beautiful thing I’ve ever heard.”  
 
 The last neat bit comes across with the discovery of an  {{< spoiler >}}old but technically advanced crashed starship with an AI that gives it a wonderful personality all its own{{< /spoiler >}}  . Like those 'teen outcast finds a dragon and raises it in hiding' gone scifi. Well done that. Well done.  
 

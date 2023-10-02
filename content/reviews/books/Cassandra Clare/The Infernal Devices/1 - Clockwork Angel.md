@@ -16,7 +16,8 @@ rating: 3
 page_count: 479
 series_index: [1]
 ---
-> “One must always be careful of books," said Tessa, "and what is inside them, > for words have the power to change us.”
+> “One must always be careful of books," said Tessa, "and what is inside them,
+> for words have the power to change us.”
 
 It's been rather a while since I read City of Bones--long enough that it was before I actually started writing reviews. And long enough that I only barely remember what happened in those other books. I do vaguely remember the world building being an interesting enough take on urban fantasy --I have a personal love of books dealing with angels and half angels-- surrounding an otherwise interesting enough plot.  
 

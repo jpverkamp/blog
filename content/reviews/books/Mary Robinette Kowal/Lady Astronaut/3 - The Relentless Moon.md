@@ -14,7 +14,8 @@ rating: 4
 page_count: 538
 series_index: [3]
 ---
-> I’ll give him this. Every word Nathaniel sent to Elma was true. It’s amazing > how many lies one can tell with the truth.
+> I’ll give him this. Every word Nathaniel sent to Elma was true. It’s amazing
+> how many lies one can tell with the truth.
 
 [[The Relentless Moon]]() is a bit of an odd third book in a series. While [[The Calculating Stars]]() set up the universe and the space program and [[The Fated Sky]]() went to Mars, in both cases we were primarily following Elma York, the eponymous Lady Astronaut and how she dealt with with all the troubles of sexism, racism, and all around nastiness of an almost apocolyptic alt 1950-60s space program.  
 
@@ -24,11 +25,20 @@ But now in the Relentless Moon, we have the same universe, but instead of Emma, 
 
 At first, I really missed Elma, continuous missing of husband and over the top sexual innuendos and all. But then I really started to get into Nicole's head and... let's just say she gets it.  
 
-> Not because of the content, but honestly their rocketry innuendo was > embarrassing. They were married. Just say “dick” and “masturbate” like an > adult. Poor innocent dears. I remember when I showed Elma my vibrator on the > Moon and I thought she’d melt her spacesuit with the heat of her > embarrassment. She’s adorable.
+> Not because of the content, but honestly their rocketry innuendo was
+> embarrassing. They were married. Just say “dick” and “masturbate” like an
+> adult. Poor innocent dears. I remember when I showed Elma my vibrator on the
+> Moon and I thought she’d melt her spacesuit with the heat of her
+> embarrassment. She’s adorable.
 
 It's pretty awesome. It's also kind of cool to see just how real the people in these books are, dealing with real problems (such as anxiety and anorexia) while dealing with the crazier, sci fi problems of living in space. And despite the tension of being separated for long periods of time, this book continues to show healthy, perfectly normal relationships. Really, a breath of fresh air.  
 
-> When you see a woman with stitches in her chin and ask her what she did to > make her husband angry. There are two scenarios. The first is that she’s > happily married and you’ve insulted their relationship. The other is that > her husband is abusive and she will not thank you for endangering her by > drawing attention to it. In the range of possibilities in between, there’s > not a single one in which a joke about being a battered woman is funny.
+> When you see a woman with stitches in her chin and ask her what she did to
+> make her husband angry. There are two scenarios. The first is that she’s
+> happily married and you’ve insulted their relationship. The other is that
+> her husband is abusive and she will not thank you for endangering her by
+> drawing attention to it. In the range of possibilities in between, there’s
+> not a single one in which a joke about being a battered woman is funny.
 
 And as we get further into what's essentially a murder mystery in space (without the murder for the most part), the story really gets into it's own. It's still an odd third book, but well appreciated. I'd certainly read more of either cast! Onwards!  
 

@@ -14,7 +14,8 @@ rating: 5
 page_count: 608
 series_index: [2]
 ---
-> “I need to talk to Zapunyo myself,” Hilo insisted. “A misunderstanding > between friends is okay. A misunderstanding between enemies isn’t.”
+> “I need to talk to Zapunyo myself,” Hilo insisted. “A misunderstanding
+> between friends is okay. A misunderstanding between enemies isn’t.”
 
 [[Jade War]]() is the followup to the excellent [[Jade City]](), dealing with the ongoing war between the clans (read: crime families) of Kekon, the stories of the Kaul family running it, and expanding into a number of other nations and how they're dealing with the expansion of the Jade trade and the aforementioned war.  
 

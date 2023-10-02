@@ -30,7 +30,8 @@ Craziest of all... the end of the world is coming in five days (according to Gab
 > 
 >  “Yes,” Jennaise said. “And you may also know that as the seasons progress, 
 > the constellations rotate about the sky. At the first of the year, Elwind 
-> rides over the mountains of the north. But at high summer he is almost > straight overhead.”  
+> rides over the mountains of the north. But at high summer he is almost
+> straight overhead.”  
 > 
 >  “I know,” Iome said.  
 > 

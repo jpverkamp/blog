@@ -42,7 +42,8 @@ She's a thief from Gray London and there are hints of quite a bit more, although
 >
 > Rhy laughed silently. “I apologize for anything I might have done. I was not myself.”
 >
-> “I apologize for shooting you in the leg,” said Lila. “I was myself entirely.”   > Rhy broke into his perfect smile. “I like this one,” he said to Kell. “Can I borrow her?”
+> “I apologize for shooting you in the leg,” said Lila. “I was myself entirely.”  
+> Rhy broke into his perfect smile. “I like this one,” he said to Kell. “Can I borrow her?”
 >
 > “You can try,” said Lila, raising a brow. “But you’ll be a prince without his fingers.”
 

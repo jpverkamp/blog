@@ -17,7 +17,11 @@ As grim and depressing as a book set around Nazi Germany narrated by death can b
 
 <!--more-->
 
-> People observe the colors of a day only at its beginnings and ends, but to > me it's quite clear that a day merges through a multitude of shades and > intonations with each passing moment. A single hour can consist of thousands > of different colors. Waxy yellows, cloud-spot blues. Murky darkness. In my > line of work, I make it a point to notice them.
+> People observe the colors of a day only at its beginnings and ends, but to
+> me it's quite clear that a day merges through a multitude of shades and
+> intonations with each passing moment. A single hour can consist of thousands
+> of different colors. Waxy yellows, cloud-spot blues. Murky darkness. In my
+> line of work, I make it a point to notice them.
 
 Somehow I've managed to hit a number of Holocaust adjacent books in a row and I think I like this one the most. It's told from the perspective of a non- Jewish family trying to survive as best they can in times of war and worse. I think the best part is that it gives a feeling for what it would be like to be an early teen around those times. It's a crazy idea.  
 

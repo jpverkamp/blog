@@ -18,7 +18,11 @@ series_index: [1]
 ---
 Sandman is often considered one of the best of the best when it comes to graphic novels and... for good reason. It's very very good. It's got immortal 'anthropomorphic personifications' (Dream is the main character, but we also get a bit of Death), a crazy deep/complicate mythos, dark and creepy imagery, and a wacky awesome storyline. Pretty much right up my alley. There's little I could do better than the blurb on Goodreads:  
 
-> In PRELUDES & NOCTURNES, an occultist attempting to capture Death to bargain > for eternal life traps her younger brother Dream instead. After his 70 year > imprisonment and eventual escape, Dream, also known as Morpheus, goes on a > quest for his lost objects of power. On his arduous journey, Morpheus > encounters Lucifer, John Constantine, and an all-powerful madman.
+> In PRELUDES & NOCTURNES, an occultist attempting to capture Death to bargain
+> for eternal life traps her younger brother Dream instead. After his 70 year
+> imprisonment and eventual escape, Dream, also known as Morpheus, goes on a
+> quest for his lost objects of power. On his arduous journey, Morpheus
+> encounters Lucifer, John Constantine, and an all-powerful madman.
 
 <!--more-->
 

@@ -14,7 +14,8 @@ rating: 5
 page_count: 612
 series_index: [1]
 ---
-> A man who wears the crown of a king can’t wear the jade of a warrior. Gold > and jade, never together.
+> A man who wears the crown of a king can’t wear the jade of a warrior. Gold
+> and jade, never together.
 
 Take a mix of Chinese/Japanese culture, an almost modern setting (it sometimes feels like the 20s and sometimes like the straight modern day), magic based on how much Jade you're wearing (but only if you're from a bloodline that can use it--or have taken drugs that let you pretend you are), and throw in a country controlled by a pair of rival equivalents to the Mafia/Yakuza and you have [[Jade City]]().  
 
@@ -26,6 +27,8 @@ In that world, you have all manner of point of view characters (mostly/all from 
 
 It's an awfully dense book, especially at first, since there are just so many names and concepts to figure out. But you quickly come to fall in love with the Kaul family, rooting for them to figure it all out.  
 
-> “Expectations are a funny thing,” Wen said. “When you’re born with them, you > resent them, fight against them. When you’ve never been given any, you feel > the lack of them your whole life.”
+> “Expectations are a funny thing,” Wen said. “When you’re born with them, you
+> resent them, fight against them. When you’ve never been given any, you feel
+> the lack of them your whole life.”
 
 Well worth the read. I just wish the full trilogy was out already! Onward to book 2 though for now.

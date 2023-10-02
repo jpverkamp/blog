@@ -11,9 +11,15 @@ cover: /embeds/books/ra.jpg
 rating: 4
 page_count: 506
 ---
->  The first magic spell is spoken by a 90-year-old retired Indian physicist > named Suravaram Vidyasagar on 1st June 1972. It is one hundred and seventy- > nine syllables long, comprising equal parts Upanishadic mantra and partial > differential equation.  
+>  The first magic spell is spoken by a 90-year-old retired Indian physicist
+> named Suravaram Vidyasagar on 1st June 1972. It is one hundred and seventy-
+> nine syllables long, comprising equal parts Upanishadic mantra and partial
+> differential equation.  
 >
->  The effect of Vidyasagar's spell is nothing at all. He has discovered what > will later be called "uum", the empty spell, which expends no mana and fails > to rearrange the universe in any externally detectable way, but which then - > crucially - returns to the dispatching mind and tells it so.  
+>  The effect of Vidyasagar's spell is nothing at all. He has discovered what
+> will later be called "uum", the empty spell, which expends no mana and fails
+> to rearrange the universe in any externally detectable way, but which then -
+> crucially - returns to the dispatching mind and tells it so.  
 
 <!--more-->
 

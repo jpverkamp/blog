@@ -18,7 +18,8 @@ series_index: [6]
 ---
 After [[The Lion, the Witch, and the Wardrobe|The Lion, the Witch and the Wardrobe]](), [[The Magician's Nephew]]() is probably the best of the Chronicles of Narina. Perhaps even *the* best.  
 
-> What you see and what you hear depends a great deal on where you are > standing. It also depends on what sort of person you are.
+> What you see and what you hear depends a great deal on where you are
+> standing. It also depends on what sort of person you are.
 
 <!--more-->
 

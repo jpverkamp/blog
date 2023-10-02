@@ -27,7 +27,8 @@ I also love hearing more about goblins and witches. Especially after seeing so m
 
 Also... so much more Wulfe. I... have no idea what to think about him. As with many of the very old in the Mercy Thompson universe, he actually does feel just off enough to actually be his age. And it makes me want to know so much more...  
 
-> "A lot of what I know about the witches comes from Wikipedia; it told me > that coven had thirteen witches."  
+> "A lot of what I know about the witches comes from Wikipedia; it told me
+> that coven had thirteen witches."  
 
 And:
 

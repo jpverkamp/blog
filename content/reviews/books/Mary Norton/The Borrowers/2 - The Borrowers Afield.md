@@ -19,7 +19,8 @@ rating: 5
 page_count: 224
 series_index: [2]
 ---
-> “It's so awful and sad,” she once admitted to Tom Goodenough, “to belong to > a race that no sane person believes in.”
+> “It's so awful and sad,” she once admitted to Tom Goodenough, “to belong to
+> a race that no sane person believes in.”
 
 [[The Borrowers]]() was delightful, introducing us to a family of tiny 'Borrowers' who live in the floor, 'borrow' all manner of tiny things, and try their best to keep their existence a secret. Unfortunately, that all comes to an end at the end of book 1, sending them off into the great outdoors.  
 

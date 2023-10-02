@@ -11,7 +11,9 @@ cover: /embeds/books/dracula.jpg
 rating: 4
 page_count: 340
 ---
-> It is the eve of St. George’s Day. Do you not know that to-night, when the > clock strikes midnight, all the evil things in the world will have full > sway?
+> It is the eve of St. George’s Day. Do you not know that to-night, when the
+> clock strikes midnight, all the evil things in the world will have full
+> sway?
 
 You all know the story, yes? A Count dressed all in black, an undead creature of the night, drinker of blood, vulnerable to garlic and a stake through the heart, all that? Well, here's where it all came from, at least in the public consciousness, all of the common vampire tropes in one (long) book.  
 
@@ -23,7 +25,12 @@ One interesting thing is the format. The entire story is told as a series of jou
 
 I admit that much of my interest in this book actually comes from reading [[The Dresden Files]]() by [[Jim Butcher]](). In that world, there are multiple species/courts of vampires, of which Dracula (and his ilk) are one (the Black Court). It's therefore especially fascinating to see how Renfield is described. An at times mad man with the most curious affliction:  
 
-> I shall have to invent a new classification for him, and call him a > zoophagous (life-eating) maniac; what he desires is to absorb as many lives > as he can, and he has laid himself out to achieve it in a cumulative way. He > gave many flies to one spider and many spiders to one bird, and then wanted > a cat to eat the many birds. What would have been his later steps? It would > almost be worthwhile to complete the experiment.
+> I shall have to invent a new classification for him, and call him a
+> zoophagous (life-eating) maniac; what he desires is to absorb as many lives
+> as he can, and he has laid himself out to achieve it in a cumulative way. He
+> gave many flies to one spider and many spiders to one bird, and then wanted
+> a cat to eat the many birds. What would have been his later steps? It would
+> almost be worthwhile to complete the experiment.
 
 Not exactly as they are in the Dresden files. Even more horrifying, truth be told.  
 

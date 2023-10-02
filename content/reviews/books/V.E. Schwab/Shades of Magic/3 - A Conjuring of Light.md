@@ -26,7 +26,10 @@ Holland actually grew quite a lot as well. He's really the surprise star of the 
 
 Unfortunately, Lila remains just as bad-ass and quirky as she was [[A Darker Shade of Magic]](). What? Unfortunately? Yup. She doesn't really seem to have changed much. She's still a thief, which is fun, but now she's also far more powerful than she should be and capable of doing just about anything. She's still by far my favorite character of these books, it's just starting to grate.  
 
-> She was a thief, a runaway, a pirate, a magician.   > She was fierce, and powerful, and terrifying.   > She was still a mystery.   > And he loved her.  
+> She was a thief, a runaway, a pirate, a magician.  
+> She was fierce, and powerful, and terrifying.  
+> She was still a mystery.  
+> And he loved her.  
 
 Kell doesn't really change much either. And the one big question we've been going through the entire series--where did he come from... he literally destroys the answer as given. It's more 'real' but rather unsatisfying.  
 

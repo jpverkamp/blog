@@ -23,7 +23,18 @@ Tiffany returns, this time slightly older and in just a bit more trouble than be
 
 <!--more-->
 
-> Iron enough to make a nail   > Lime enough to paint a wall   > Water enough to drown a dog   > Sulphur enough to stop the fleas   > Potash enough to wash a shirt   > Gold enough to buy a bean   > Silver enough to coat a pin   > Lead enough to blast a bird   > Phosphor enough to light the town   > Strength enough to build a home   > Time enough to hold a child   > Love enough to break a heart  
+> Iron enough to make a nail  
+> Lime enough to paint a wall  
+> Water enough to drown a dog  
+> Sulphur enough to stop the fleas  
+> Potash enough to wash a shirt  
+> Gold enough to buy a bean  
+> Silver enough to coat a pin  
+> Lead enough to blast a bird  
+> Phosphor enough to light the town  
+> Strength enough to build a home   
+> Time enough to hold a child   
+> Love enough to break a heart  
 
 Perhaps the best part of the book is how Tiffany owns up to what she's done and does her best to put everything back together. There are some wonderful scenes with the main Witches from other Discworld books (Granny Weatherwax and Nanny Ogg in particular), but the focus remains on Tiffany.  
 

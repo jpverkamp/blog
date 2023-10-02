@@ -14,7 +14,8 @@ rating: 5
 page_count: 432
 series_index: [17]
 ---
-> The real battle for your own soul isn't about falling from a great height; > it's about descending, or not, one choice at a time.
+> The real battle for your own soul isn't about falling from a great height;
+> it's about descending, or not, one choice at a time.
 
 That right there. [[Battle Ground]]() That is the second half of [[Peace Talks]](). They should have been one book, and are best read back to back like that. But so it goes.  
 

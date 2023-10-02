@@ -19,7 +19,9 @@ It's (unfortunately) not a story we haven't heard before, but I don't think I've
 
 In particular, it's an interesting (at times intentional, at times not) look into the idea that God puts us in terrible situations in order to make us better people, that 'God has a plan for us all'.  
 
-> This is what the past is for! Every experience God gives us, every person He > puts in our lives is the perfect preparation for the future that only He can > see.
+> This is what the past is for! Every experience God gives us, every person He
+> puts in our lives is the perfect preparation for the future that only He can
+> see.
 
 It's... hard to see how she believes that all through. Seeing being stripped before the prison guards as an echo of Jesus naked on the cross? Thanking God for fleas because it means they wouldn't be caught praying by the guards? I see where they (and countless others are coming from). But as always, my thought really is: couldn't God do better?  
 

@@ -26,7 +26,8 @@ In the world of Artemis Fowl, faeries (and various other related species, known 
 
 Characterwise, Artemis Fowl is what really sells the book. He's 11 but talks like he's much older--and devotes himself to a life of crime. He quite often doesn't feel real, even if he were the smartest 11 year old ever (I had a similar problem with Ender's Game), but he's amusing at least. It did annoy me a bit when Colfer dropped some of Fowl's supposed accomplishments in. I know he's the smartest ever, but some of the things he is supposed to have done are just flat out not possible.  
 
-> If I win, I'm a prodigy. If I lose, then I'm crazy. That's the way history is written.   >  \-- Artermis Fowl
+> If I win, I'm a prodigy. If I lose, then I'm crazy. That's the way history is written.  
+>  \-- Artermis Fowl
 
 After that, Fowl's bodyguard/butler Butler (of the family Butler) is a pretty good counter point to Fowl. He's nowhere nearly as book smart, but he knows his own field (bodyguarding) well and is a lot more down to Earth. Plus he's a good moral foil for Fowl, up until the point where Fowl's life is in danger.  
 

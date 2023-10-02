@@ -14,7 +14,12 @@ rating: 4
 page_count: 348
 series_index: [16]
 ---
-> Home, like love, hate, war, and peace, is one of those words that is so > important that it doesn't need more than one syllable. Home is part of the > fabric of who humans are. Doesn't matter if you're a vampire or a wizard or > a secretary or a schoolteacher; you have to have a home, even if only in > principle-there has to be a zero point from which you can make comparisons > to everything else. Home tends to be it.
+> Home, like love, hate, war, and peace, is one of those words that is so
+> important that it doesn't need more than one syllable. Home is part of the
+> fabric of who humans are. Doesn't matter if you're a vampire or a wizard or
+> a secretary or a schoolteacher; you have to have a home, even if only in
+> principle-there has to be a zero point from which you can make comparisons
+> to everything else. Home tends to be it.
 
 Holy crap.  
 

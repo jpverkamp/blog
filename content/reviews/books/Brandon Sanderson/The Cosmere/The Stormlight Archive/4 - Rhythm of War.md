@@ -15,7 +15,10 @@ rating: 5
 page_count: 1270
 series_index: [0, 4]
 ---
-> “Heroism is a myth you tell idealistic young people—specifically when you > want them to go bleed for you. It got one of my sons killed and another > taken from me. You can keep your heroism and return to me the lives of those > wasted on foolish conflicts.”
+> “Heroism is a myth you tell idealistic young people—specifically when you
+> want them to go bleed for you. It got one of my sons killed and another
+> taken from me. You can keep your heroism and return to me the lives of those
+> wasted on foolish conflicts.”
 
 Well dang. After the absolutely bonkersiosity of the first three Stormlight Archive books, I hadn't the slightest idea how Sanderson was going to pull off yet another (and another and another coming down the pipeline). And yet here we are.  
 
@@ -29,14 +32,18 @@ Both of these make this a bit of a slower book and at over 1200 pages... that's 
 
 > "And … what happened to your shoes?”  
 >
-> Shallan glanced at her bare feet, which poked out from under her dress. > “They were impeding my ability to think.”  
+> Shallan glanced at her bare feet, which poked out from under her dress.
+> “They were impeding my ability to think.”  
 >
-> “Your…” Adolin ran a hand through his delightfully messy hair, blond > speckled with black. “Love, you’re deliciously weird sometimes.”  
+> “Your…” Adolin ran a hand through his delightfully messy hair, blond
+> speckled with black. “Love, you’re deliciously weird sometimes.”  
 >
-> “The rest of the time, I’m just tastelessly weird.” She held up the carafe. > “Drink. It’s for science.”  
+> “The rest of the time, I’m just tastelessly weird.” She held up the carafe.
+> “Drink. It’s for science.”  
 >
 > He frowned, but tried a sip, then grimaced. “What is it?” she asked.  
 >
-> “Shin ‘wine.’ They have no idea how to ferment a proper alcohol. They make > it all out of the same strange little berry.”  
+> “Shin ‘wine.’ They have no idea how to ferment a proper alcohol. They make
+> it all out of the same strange little berry.”  
 
 I really do like Shallan. :D

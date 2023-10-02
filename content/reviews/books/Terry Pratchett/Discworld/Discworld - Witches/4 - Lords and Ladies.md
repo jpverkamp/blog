@@ -23,7 +23,14 @@ This time around, a decent chunk of the book is dedicated to the Discworld idea 
 
 <!--more-->
 
-> Elves are wonderful. They provoke wonder.   > Elves are marvelous. They cause marvels.   > Elves are fantastic. They create fantasies.   > Elves are glamorous. They project glamour.   > Elves are enchanting. They weave enchantment.   > Elves are terrific. They beget terror.   > The thing about words is that meanings can twist just like a snake, and if you want to find snakes look for them behind words that have changed their meaning.   > No one ever said elves are nice.
+> Elves are wonderful. They provoke wonder.  
+> Elves are marvelous. They cause marvels.  
+> Elves are fantastic. They create fantasies.  
+> Elves are glamorous. They project glamour.  
+> Elves are enchanting. They weave enchantment.  
+> Elves are terrific. They beget terror.  
+> The thing about words is that meanings can twist just like a snake, and if you want to find snakes look for them behind words that have changed their meaning.  
+> No one ever said elves are nice.
 
 On top of that, we deal decently much with the nature of reality in the Discworld and the possibilities of parallel realities.  
 

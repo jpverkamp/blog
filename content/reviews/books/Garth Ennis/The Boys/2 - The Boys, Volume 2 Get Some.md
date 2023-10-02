@@ -24,7 +24,8 @@ series_index: [2]
 
 Well that's a start.  
 
-> The second volume of Garth Ennis and Darick Roberston's acclaimed series The > Boys is here! BIGGER! THICKER! UNCUT!  
+> The second volume of Garth Ennis and Darick Roberston's acclaimed series The
+> Boys is here! BIGGER! THICKER! UNCUT!  
 
 ![The-Boys-2-05](/embeds/books/attachments/the-boys-2-05.jpg)  
 

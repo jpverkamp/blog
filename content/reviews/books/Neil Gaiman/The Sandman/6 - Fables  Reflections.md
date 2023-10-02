@@ -16,7 +16,8 @@ rating: 5
 page_count: 263
 series_index: [6]
 ---
-> Death was a little older than Dream. Things had the potential to die before > they had the potential to dream.
+> Death was a little older than Dream. Things had the potential to die before
+> they had the potential to dream.
 
 The Endless are so fascinating. As it this story.  
 
@@ -56,7 +57,9 @@ A head. That is all.
 
 ![Sandman-6-07](/embeds/books/attachments/sandman-6-07.jpg)  
 
-> Listen, blood of my blood. Although I'm a hard man to anger, and I love you > deeply, if you interrupt me again so help me I'll rip out your throat with > my teeth.
+> Listen, blood of my blood. Although I'm a hard man to anger, and I love you
+> deeply, if you interrupt me again so help me I'll rip out your throat with
+> my teeth.
 
 You know... I feel that sometimes.  
 

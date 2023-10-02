@@ -18,7 +18,10 @@ series_index: [5]
 ---
 This time around, I think I'll just start with the summary from Goodreads:  
 
-> Take an apartment house, mix in a drag queen, a lesbian couple, some talking > animals, a talking severed head, a confused heroine, and the deadly Cuckoo. > Stir vigorously with a hurricane and Morpheus himself and you get this fifth > installment of the Sandman series.
+> Take an apartment house, mix in a drag queen, a lesbian couple, some talking
+> animals, a talking severed head, a confused heroine, and the deadly Cuckoo.
+> Stir vigorously with a hurricane and Morpheus himself and you get this fifth
+> installment of the Sandman series.
 
 <!--more-->
 
