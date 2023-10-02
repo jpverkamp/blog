@@ -11,7 +11,7 @@ cover: /embeds/books/the-road-not-taken-and-other-poems.jpg
 rating: 4
 page_count: 81
 ---
-On one hand, I read {{< goodreads author="Robert Frost" >}} many years ago. Perhaps I remember it all. I could tell you that say this is all just refreshing my memory.  
+On one hand, I read [[Robert Frost]]() many years ago. Perhaps I remember it all. I could tell you that say this is all just refreshing my memory.  
 
 Or perhaps I don't remember a thing of it, other than the vague idea of The Road Not Taken and nothing more.  
 

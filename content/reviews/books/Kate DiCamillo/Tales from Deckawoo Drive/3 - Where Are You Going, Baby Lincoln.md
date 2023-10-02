@@ -22,7 +22,7 @@ I've started reading chapter books to my children at night. They get to chose (f
 
 <!--more-->
 
-I've always loved the world {{< goodreads author="Kate DiCamillo" >}} has created and this is no exception. It's a fun book and a quick read and has a few nuggets of goodness hidden in there. DiCamillo certainly does have a way with words:  
+I've always loved the world [[Kate DiCamillo]]() has created and this is no exception. It's a fun book and a quick read and has a few nuggets of goodness hidden in there. DiCamillo certainly does have a way with words:  
 
 > Baby leaned back in her seat. The train seemed to be going faster, and from somewhere far away Baby heard music. It was a song that she knew but couldn't quite place.  
 >

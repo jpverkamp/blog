@@ -20,7 +20,7 @@ On one level, there is an absolutely wonderful feel to the technology in this bo
 
 <!--more-->
 
-On the other level, I really love how {{< goodreads author="Mary Robinette Kowal" >}} does a great job on the human level as well. Elma is one smart lady, but not without her own flaws. She works through them though, even when the whole world doesn't act the way she expects them to. And man. I cannot imagine going on a mission like this without my spouse. The code was a pretty brilliant idea... and brute forcing a few of those sections that wasn't translated. Ooh la la.  
+On the other level, I really love how [[Mary Robinette Kowal]]() does a great job on the human level as well. Elma is one smart lady, but not without her own flaws. She works through them though, even when the whole world doesn't act the way she expects them to. And man. I cannot imagine going on a mission like this without my spouse. The code was a pretty brilliant idea... and brute forcing a few of those sections that wasn't translated. Ooh la la.  
 
 Parker is an absolute PITA to work with, but the more you get to know him... the more you get it. Deep down, he really cares about his people, doing his job, and learning how to swear in as many languages as possible. After all he goes through this book, I really want to be a lie fly on the wall when he gets back to Mission Control.  
 

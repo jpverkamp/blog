@@ -46,7 +46,7 @@ I don't think I'll do that again next year. Perhaps we'll go for 100 again and t
 | {{< goodreads book="The Last Lecture" cover="true" >}} | Email Book Club, Non-Fiction | 1 |
 | {{< goodreads book="Pacific Vortex!" cover="true" >}} | Audiobook, Fiction | 5 | Will finish in 2020 |
 
-It looks pretty rediculous when you write it all out like that doesn't it. And that's only one book per series. Some of those (*cough* {{< goodreads series="The Grand Tour" >}} *cough* took a while). 
+It looks pretty rediculous when you write it all out like that doesn't it. And that's only one book per series. Some of those (*cough* [[The Grand Tour]]() *cough* took a while). 
 
 Of those, a bit under half were audiobooks (52) and 9 were non-fiction. Eight I read with my wife discussing one chapter a day as a sort of email book club. 
 

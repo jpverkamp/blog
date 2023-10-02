@@ -25,9 +25,12 @@ Oh that's a turn of phrase.
 
 So I've decided that I'm going to read the Fables serieses(sp?) in published order, with a bit of jumping around. That includes:  
 
-{{< goodreads series="Fables (Collected Editions)" text="Fables" >}}   {{< goodreads series="Jack of Fables" >}}   {{< goodreads series="Cinderella" >}}   {{< goodreads series="Fairest (Collected Editions)" text="Fairest" >}}  
+* [[Fables]]()   
+* [[Jack of Fables]]()   
+* [[Cinderella]]()   
+* [[Fairest]]()  
 
-All combined into the overall {{< goodreads series="Fables +" text="Fables Universe" >}}.  
+All combined into the overall [[Fables Universe]]().  
 
 For the first outing, *The (Nearly) Great Escape* is quite a story. After the events of [[Fables, Vol. 6: Homelands]](), Jack is on the run, only to be captured by some sort of Men in Black feeling organization that wants to do study and depower Fables. Cool concept, kind of terrifying execution. And hey, Goldilocks survived after all. Called that.  
 

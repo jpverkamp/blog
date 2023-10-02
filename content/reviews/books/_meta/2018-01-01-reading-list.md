@@ -33,7 +33,7 @@ This time around, I'm aiming for 72 books (6 per month) rather than the 50 of my
 
 Given that those are each a series, this might just carry my through the year. :smile:
 
-All told, it's roughly 90 books (and that's not counting {{< goodreads series="Wild Cards" >}} or {{< goodreads series="Discworld" >}}, that's another 25 and 17 respectively), so if I don't overshoot my goal, I'll have a few to push into 2019, but that works. I'm not planning on stopping reading anytime soon.
+All told, it's roughly 90 books (and that's not counting [[Wild Cards]]() or [[Discworld]](), that's another 25 and 17 respectively), so if I don't overshoot my goal, I'll have a few to push into 2019, but that works. I'm not planning on stopping reading anytime soon.
 
 From those, we have a few different categories. First, we have those books that were on my [2017]({{< ref "2017-01-01-reading-list.md" >}}) but that I didn't quite get to:
 

@@ -6,6 +6,7 @@ reviews/lists:
 - 2020 Book Reviews
 reviews/authors:
 - Amal El-Mohtar
+- Max Gladstone
 goodreads_id: 43352954
 cover: /embeds/books/this-is-how-you-lose-the-time-war.jpg
 rating: 5
@@ -13,7 +14,7 @@ page_count: 209
 ---
 > Burn before reading.
 
-A time travelling, spy versus spy, Romeo and Juliet-esqe love story with each of the two parts written by a different author ({{< goodreads author="Amal El-Mohtar" text="Amal El- Mohtar" >}} and {{< goodreads author="Max Gladstone" >}}) as they travel through time and space and parallel realities, each trying to bend history and reality to the whim of their handlers... all the while trying to hide their correspondence from the same.  
+A time travelling, spy versus spy, Romeo and Juliet-esqe love story with each of the two parts written by a different author ([[Amal El-Mohtar]]() and [[Max Gladstone]]()) as they travel through time and space and parallel realities, each trying to bend history and reality to the whim of their handlers... all the while trying to hide their correspondence from the same.  
 
 <!--more-->
 

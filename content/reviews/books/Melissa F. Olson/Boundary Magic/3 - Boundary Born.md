@@ -22,7 +22,7 @@ The third time around, we have two new plot threads: someone has poisoned Maven 
 
 From a world building perspective, this book finally make it past the point where the world building just didn't seem different enough from real world stories to actually really interesting world building. The idea of a supernatural progenitor  {{< spoiler >}}still being around in the modern world{{< /spoiler >}}  isn't a new one, but the connection to death magic and a secret society works. There is a lot of space to explore there and I want to know more.  
 
-Characterwise, I like the new characters well enough especially on the villain side:  {{< spoiler >}}Lex's birth family{{< /spoiler >}}  . In the end, it felt like they were overcome too easily, but they're interesting. On the good guy side, the only really new character may have been the crossover witch from another series in the same world: {{< goodreads series="Scarlett Bernard" text=" Scarlett Bernard " >}} . I'm curious what her story is.  
+Characterwise, I like the new characters well enough especially on the villain side:  {{< spoiler >}}Lex's birth family{{< /spoiler >}}  . In the end, it felt like they were overcome too easily, but they're interesting. On the good guy side, the only really new character may have been the crossover witch from another series in the same world: [[todo:Scarlett Bernard]]() . I'm curious what her story is.  
 
 Other than that, it's a mostly straight forward plot and a continued love triangle free romance (which I appreciate). Well done, and easily the best of the three in my eyes, although still not quite up to five stars. Unfortunately, there's this tidbit in the acknowledgements:  
 

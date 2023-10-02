@@ -18,7 +18,7 @@ series_index: [15]
 ---
 Herein, we see the horror of the Ishvalan war. Just how terrifying living weapons of war--taught that the Isvalans are the 'other' and deserve to die-- can be. Man this chapter hits hard.  
 
-It's interesting to see the research {{< goodreads author="Hiromu Arakawa" >}} did for this book.  
+It's interesting to see the research [[Hiromu Arakawa]]() did for this book.  
 
 <!--more-->
 

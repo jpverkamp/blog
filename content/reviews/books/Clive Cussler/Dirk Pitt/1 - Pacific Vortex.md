@@ -18,7 +18,7 @@ series_index: [1]
 ---
 > Every ocean takes its toll of men and ships, yet none devours them with the voracious appetitive of the Pacific....Despite all this, the world's largest ocean tends to be a tranquil place; even its name means peaceful and mild of temper.
 
-Clive Cussler's {{< goodreads series="Dirk Pitt" >}} and {{< goodreads series="NUMA Files" >}} are two more series, much like Ben Bova's {{< goodreads series="The Grand Tour" text="Grand Tour" >}} which I remember reading years (more than a decade now) ago, borrowed from the local library whenever I could find them and often in no particular order. I remember enjoying them then, so let's see how they hold up! I'll be listening to them on audiobook as I go.  
+Clive Cussler's [[Dirk Pitt]]() and [[todo:NUMA Files]]() are two more series, much like Ben Bova's [[The Grand Tour|Grand Tour]]() which I remember reading years (more than a decade now) ago, borrowed from the local library whenever I could find them and often in no particular order. I remember enjoying them then, so let's see how they hold up! I'll be listening to them on audiobook as I go.  
 
 <!--more-->
 

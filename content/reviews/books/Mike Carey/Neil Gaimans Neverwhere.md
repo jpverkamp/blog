@@ -47,7 +47,7 @@ Heh. Cultural confusion. Tasty cats.
 
 ![Neverwhere-6](/embeds/books/attachments/neverwhere-6.jpg)  
 
-Anaesthesia is a fun character. I wonder if (like in Gainman's {{< goodreads series="The Sandman" text="Sandman series" >}} that's a Title or just a name. We never do find out, but for what little she's about, she's a fun character.  
+Anaesthesia is a fun character. I wonder if (like in Gainman's [[The Sandman|Sandman series]]() that's a Title or just a name. We never do find out, but for what little she's about, she's a fun character.  
 
 ![Neverwhere-7](/embeds/books/attachments/neverwhere-7.jpg)  
 

@@ -22,6 +22,6 @@ Leroy Ninker wants to be a cowboy--to be a cowboy, he needs a horse. Enter: Mayb
 
 <!--more-->
 
-As part of the {{< goodreads series="Tales from Deckawoo Drive" >}} series, it's certainly a bit longer than the other Mercy Watson books, which was a bit of a surprise. And while it starts out a bit sweet (Leroy isn't picky and he's more than willing to work with what he's given), it goes somewhat over the top with the endless weird compliments (to a horse).  
+As part of the [[Tales from Deckawoo Drive]]() series, it's certainly a bit longer than the other Mercy Watson books, which was a bit of a surprise. And while it starts out a bit sweet (Leroy isn't picky and he's more than willing to work with what he's given), it goes somewhat over the top with the endless weird compliments (to a horse).  
 
 On top of that, despite the length, it doesn't really *go* anywhere. Unlike [[Francine Poulet Meets the Ghost Raccoon]]() and [[Where Are You Going, Baby Lincoln?]](), there's not really much of a story here. Those being the only three I've read, I would say this is easily the weakest. Still a decent enough read I suppose and the kids certainly enjoyed it.

@@ -15,7 +15,7 @@ page_count: 308
 ---
 > Do not try any of this at home. The author of this book is an internet cartoonist, not a health or safety expert.
 
-In a nutshell, {{< goodreads author="Randall Monroe" >}} takes the humor that makes up [xkcd](https://xkcd.com/) and the [what if](https://what-if.xkcd.com/) series and turns it into a book series. It's weird, it's wonderful, and it's worth a read. You might just learn something-- even if it's not at all the thing you were expecting to learn.  
+In a nutshell, [[Randall Munroe]]() takes the humor that makes up [xkcd](https://xkcd.com/) and the [what if](https://what-if.xkcd.com/) series and turns it into a book series. It's weird, it's wonderful, and it's worth a read. You might just learn something-- even if it's not at all the thing you were expecting to learn.  
 
 <!--more-->
 

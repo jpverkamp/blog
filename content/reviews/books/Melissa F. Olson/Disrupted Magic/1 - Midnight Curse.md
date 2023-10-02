@@ -14,7 +14,7 @@ rating: 5
 page_count: 294
 series_index: [1]
 ---
-When I finished [[Boundary Crossed]]() and the sequels in 2017, I enjoyed them enough to put {{< goodreads author="Melissa F. Olson" >}}'s other books on my ever expanding to-read list. [Last year](https://blog.jverkamp.com/2019/01/01/2019-reading-list/), I randomly choose [[Midnight Curse]]() to read and finally got to it this year--not realizing that it's actually the _second_ Scarlett Bernard series. [[todo:Dead Spots]]() is the first (even before Boundary Crossed actually).  
+When I finished [[Boundary Crossed]]() and the sequels in 2017, I enjoyed them enough to put [[Melissa F. Olson]]()'s other books on my ever expanding to-read list. [Last year](https://blog.jverkamp.com/2019/01/01/2019-reading-list/), I randomly choose [[Midnight Curse]]() to read and finally got to it this year--not realizing that it's actually the _second_ Scarlett Bernard series. [[todo:Dead Spots]]() is the first (even before Boundary Crossed actually).  
 
 It doesn't actually matter that much, at least so far, but there are a number of references to previous events that I expect I would already know about. So it goes. It's actually kind of nice not to go through Scarlett first finding out about the Old World and getting acclimated and just start out in the middle of everything. Plus, having the protagonist that basically cleans up messes and neutralizes anyone else in the Old World is pretty cool. Also, she's wonderfully snarky.  
 

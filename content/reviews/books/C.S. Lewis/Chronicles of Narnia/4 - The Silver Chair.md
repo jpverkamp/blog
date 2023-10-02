@@ -26,4 +26,4 @@ Plotwise, I actually appreciate that Aslan gives them the quest and then peaces 
 
 I enjoyed it.  
 
-[^belief]: It's fascinating to see how much {{< goodreads author="C.S. Lewis" >}}'s beliefs are sort of the core of this book. Aslan, as always. Comments about how misguided a school without religion is, especially with (gasp) a female headmaster. It's ... questionable. But kind of par for the course.
+[^belief]: It's fascinating to see how much [[C.S. Lewis]]()'s beliefs are sort of the core of this book. Aslan, as always. Comments about how misguided a school without religion is, especially with (gasp) a female headmaster. It's ... questionable. But kind of par for the course.

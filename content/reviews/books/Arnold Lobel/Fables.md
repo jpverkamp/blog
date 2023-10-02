@@ -15,7 +15,7 @@ page_count: 48
 ---
 > All the miles of a hard road are worth a moment of true happiness.
 
-I enjoy fables. It's a nice way to illustrate various lessons and morals and pass them along to children somewhat subtly. Especially when you take the wordcraft and illustrations of {{< goodreads author="Arnold Lobel" >}} ([[Frog and Toad Storybook Treasury: 4 Complete Stories in 1 Volume!|Frog and Toad]]()).  
+I enjoy fables. It's a nice way to illustrate various lessons and morals and pass them along to children somewhat subtly. Especially when you take the wordcraft and illustrations of [[Arnold Lobel]]() ([[Frog and Toad Storybook Treasury: 4 Complete Stories in 1 Volume!|Frog and Toad]]()).  
 
 <!--more-->
 

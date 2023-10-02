@@ -30,7 +30,7 @@ Let's do this.
 
 <!--more-->
 
-Only 16 series this year, down again. Everything is new this time around, other than re-reading {{< goodreads series="Artemis Fowl" >}} and {{< goodreads series="Abhorsen" >}} in order to read their newest entries. All told, the total is somewhere between my official goal of 50 and stretch goal of 100.
+Only 16 series this year, down again. Everything is new this time around, other than re-reading [[Artemis Fowl]]() and [[Abhorsen]]() in order to read their newest entries. All told, the total is somewhere between my official goal of 50 and stretch goal of 100.
 
 Here's my list of reviews (it will update as each one is added):
 

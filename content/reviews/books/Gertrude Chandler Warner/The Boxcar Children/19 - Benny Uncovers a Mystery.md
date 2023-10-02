@@ -16,7 +16,7 @@ rating: 4
 page_count: 128
 series_index: [19]
 ---
-And so it ends--at least the original 19 books written by {{< goodreads author="Gertrude Chandler Warner" >}}, which is where I'll be stopping for the time being.  
+And so it ends--at least the original 19 books written by [[Gertrude Chandler Warner]](), which is where I'll be stopping for the time being.  
 
 And it's a rather strange story. Benny gets it in his head that he absolutely needs a summer job--so he ropes Henry into going with him... and the both of them end up working at the same place? With a mystery in the works to boot? Sure. It works.  
 
