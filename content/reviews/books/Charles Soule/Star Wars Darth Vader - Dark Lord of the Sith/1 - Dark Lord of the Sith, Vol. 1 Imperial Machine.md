@@ -6,6 +6,7 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
+- Marvel Star Wars
 reviews/authors:
 - Charles Soule
 goodreads_id: 35009957
@@ -14,7 +15,7 @@ isbn: '1302907441'
 isbn13: '9781302907440'
 rating: 5
 page_count: 154
-series_index: [1]
+series_index: [1, 0]
 ---
 Another day... another Darth Vader serial?  
 

@@ -6,6 +6,7 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - 'Star Wars: Darth Vader (2015)'
+- Marvel Star Wars
 reviews/authors:
 - Kieron Gillen
 goodreads_id: 24819813
@@ -14,7 +15,7 @@ isbn: 0785192557
 isbn13: '9780785192558'
 rating: 5
 page_count: 160
-series_index: [1]
+series_index: [1, 0]
 ---
 Star Wars!  
 

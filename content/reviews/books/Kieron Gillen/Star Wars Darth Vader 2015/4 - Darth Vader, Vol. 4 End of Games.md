@@ -6,6 +6,7 @@ reviews/lists:
 - 2021 Book Reviews
 reviews/series:
 - 'Star Wars: Darth Vader (2015)'
+- Marvel Star Wars
 reviews/authors:
 - Kieron Gillen
 goodreads_id: 29467582
@@ -14,7 +15,7 @@ isbn: 0785199780
 isbn13: '9780785199786'
 rating: 5
 page_count: 144
-series_index: [4]
+series_index: [4, 0]
 ---
 Okay. We're heading towards the conclusion of this particular story arc. I really do like this length. 4 volumes has about as much oomph as a novel length story, albeit with a much higher concentration of pretty* pictures.  
 
