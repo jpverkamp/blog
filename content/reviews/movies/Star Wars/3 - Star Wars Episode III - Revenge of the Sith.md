@@ -52,7 +52,7 @@ Overall, I find this movie stronger than Attack of the Clones, but it really is 
 
 Characterwise, I did really like Christopher Lee for what little he's in it. That look just before betrayal. And Samuel Jackson as Mace Windu of course is a treasure in his final confrontation with Ian McDiarmid as Palpatine. Great. 
 
-Plotwise, the entire idea of Order 66 is absolutely terrifying--and completely believable. Although the ability to send it across the entire universe brings up a lot of the points I was talking about in my previous review of [Attack of the Clones]({{< ref "2021-11-07-attack-of-the-clones" >}}). 
+Plotwise, the entire idea of Order 66 is absolutely terrifying--and completely believable. Although the ability to send it across the entire universe brings up a lot of the points I was talking about in my previous review of [[Star Wars: Episode III - Revenge of the Sith|Attack of the Clones]]().
 
 A few random thoughts:
 
