@@ -200,7 +200,7 @@ Also, paraphrasing the Laws of Thermodynamics as:
 
 ### Chapter 15: Precognition
 
-It really comes down to time travel though, no? So it's strange that this is here versus with [Chapter 12]({{ref "#chapter-12-time-travel"}}). 
+It really comes down to time travel though, no? So it's strange that this is here versus with [Chapter 12](#chapter-12-time-travel).
 
 You do get wacky things like:
 
