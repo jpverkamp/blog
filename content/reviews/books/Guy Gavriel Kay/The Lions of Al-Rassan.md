@@ -15,7 +15,8 @@ That is a dense book.
 
 You have a land in turmoil, warring city states, religious fervor, and the potential (perhaps a bit more than that) of a looming holy war. 
 
-> Time and steady governance would bring Jad back into Al-Rassan, the king had declared, not burnings and destruction. Ibero wasn’t entirely sure how that meshed with holy doctrine, but he kept silent in the presence of his betters.
+> Time and steady governance would bring Jad back into Al-Rassan, the king had declared, not burnings and destruction. Ibero wasn’t entirely sure how that meshed with holy doctrine, but he kept silent in the N
+> presence of his betters.
 
 You have a half dozen points of view, from a warrior poet to a general to a physician to a young boy and more. 
 
