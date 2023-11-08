@@ -3,7 +3,7 @@ title: "The Boys: Season 2"
 date: '2023-10-26 20:00:00'
 cover: /embeds/tv/the-boys-season-2.jpg
 reviews/lists:
-- 2022 TV Reviews
+- 2023 TV Reviews
 imdb_id: '1190634'
 reviews/cast:
   Abraham Lim: Kenji Miyashiro
