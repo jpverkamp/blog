@@ -5,7 +5,7 @@ generated: true
 reviews/lists:
 - 2018 Book Reviews
 reviews/series:
-- The Hungry City Chronicles
+- Mortal Engines Quartet
 reviews/authors:
 - Philip Reeve
 goodreads_id: 287861
