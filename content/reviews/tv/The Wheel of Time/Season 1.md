@@ -2,8 +2,9 @@
 title: "The Wheel of Time: Season 1"
 date: 2021-12-23
 reviews/series:
+- The Wheel of Time (TV)
 - The Wheel of Time
-series_index: [1]
+series_index: [1, 0]
 reviews/lists:
 - 2021 TV Reviews
 cover: /embeds/tv/the-wheel-of-time.jpg

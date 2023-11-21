@@ -2,8 +2,9 @@
 title: "The Wheel of Time: Season 2"
 date: '2023-10-09 23:00:00'
 reviews/series:
+- The Wheel of Time (TV)
 - The Wheel of Time
-series_index: [2]
+series_index: [2, 0]
 reviews/lists:
 - 2023 TV Reviews
 cover: /embeds/tv/the-wheel-of-time-2.jpg
