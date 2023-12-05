@@ -11,6 +11,7 @@ title: 'Origins of The Wheel of Time: The Legends and Mythologies that Inspired 
   Jordan'
 reviews/series:
 - The Wheel of Time
+series_index: [0]
 ---
 I love [[The Wheel of Time]](). 
 
