@@ -7,6 +7,9 @@ reviews/authors:
 - Brandon Sanderson
 reviews/lists:
 - 2023 Book Reviews
+reviews/series:
+- Year of Sanderson
+series_index: [2]
 title: "The Frugal Wizard\u2019s Handbook for Surviving Medieval England"
 ---
 > What products did one use in Anglo-Saxon England? Beaver snot? A grudging four stars.

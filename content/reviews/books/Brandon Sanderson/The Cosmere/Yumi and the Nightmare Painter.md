@@ -9,8 +9,10 @@ reviews/lists:
 - 2023 Book Reviews
 reviews/series:
 - The Cosmere
+- Year of Sanderson
 series_index:
 - 0
+- 3
 title: Yumi and the Nightmare Painter
 ---
 Oh Sanderson. How *do* you do it. 
