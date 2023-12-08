@@ -94,8 +94,6 @@ Benchmark 1: just run 6 1-brute
 
 That's fine for now.
 
-___
-
 ## Part 2
 
 > Instead of treating the input as individual values, concatenate each line of input into a single (much larger) value. So instead of times of `7 15 30`, you have one of `71530`. 
@@ -143,8 +141,6 @@ Benchmark 1: just run 6 2-brute
 ```
 
 Actually... it's completely fine. I didn't expect that, but I suppose it's still only ~50 million values. 
-
-___
 
 ## (Premature) Optimization 
 

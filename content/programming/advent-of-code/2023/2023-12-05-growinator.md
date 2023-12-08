@@ -183,8 +183,6 @@ Not bad. And it at least verifies that the `CategoryMaps` are in the right order
 
 Keen eyed observers may note that I've changed my general solution to solving these problems. Now rather than a `part1` and `part2` function, I have a separate `bin` for each part. This let's me write up alternate solutions. I'll write it up (at some point!)
 
-___
-
 ## Part 2
 
 > Treat each pair of input values as a range. So if the first two inputs to part one were `79 14`, now you have `79..=79+14`. 
@@ -478,8 +476,6 @@ Benchmark 1: just run 5 2
 Why yes. Yes it does. 
 
 It's not microseconds. But it's awfully fast. 
-
-___
 
 ## Performance
 
