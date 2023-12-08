@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3)
 
+{{<toc>}}
+
 ## Part 1
 
 > Take as input a 2D grid of numbers or symbols (`.` represents empty space). Numbers will be 1 or more digits written horizontally which should be concatenated (`.467*` is the number `467` followed by the symbol `*`). 

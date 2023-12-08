@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2)
 
+{{<toc>}}
+
 ## Part 1
 
 > Play a game where you have some number of red, green, and blue dice in a cup, which you draw and roll (without replacement). Which game is possible with only 12 red, 13 gree, and 14 blue cubes? 

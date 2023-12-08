@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1)
 
+{{<toc>}}
+
 ## Part 1
 
 > Given a list of alphanumeric strings, find the first and last digit on each line (they may be the same). Concatenate each pair and sum them. 

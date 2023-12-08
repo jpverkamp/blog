@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 4: Scratchcards](https://adventofcode.com/2023/day/4)
 
+{{<toc>}}
+
 ## Part 1
 
 > Simulate [[wiki:scratchcards]](). Given a list of winning numbers and guessed numbers, count how many guessed numbers are in the winning list. Your score is 1, 2, 4, 8, ... for 1, 2, 3, 4, ... matching numbers. 
