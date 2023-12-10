@@ -10,6 +10,10 @@ series:
 ---
 ## Source: [Day 8: Haunted Wasteland](https://adventofcode.com/2023/day/8)
 
+[Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day08) for today (spoilers!)
+
+{{<toc>}}
+
 ## Part 1
 
 > Given a (repeated) sequence of moves (`L` for left and `R` for right) and a directed graph where each node has two neighbors (left and right), count how many total steps it takes to get from the node `AAA` to the node `ZZZ`. The sequence of moves can (and will) need to repeat. 

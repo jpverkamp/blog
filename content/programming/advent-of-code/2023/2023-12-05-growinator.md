@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)
 
+[Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day05) for today (spoilers!)
+
 {{<toc>}}
 
 ## Part 1

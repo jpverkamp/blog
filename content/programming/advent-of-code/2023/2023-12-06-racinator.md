@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 6: Wait For It](https://adventofcode.com/2023/day/6)
 
+[Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day06) for today (spoilers!)
+
 {{<toc>}}
 
 ## Part 1

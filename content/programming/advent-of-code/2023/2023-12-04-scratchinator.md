@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 4: Scratchcards](https://adventofcode.com/2023/day/4)
 
+[Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day04) for today (spoilers!). Note: I did slightly change my solutions template after writing this blog post, so the final solution is structured slightly differently than the code in this post. The functionality itself hasn't changed. 
+
 {{<toc>}}
 
 ## Part 1

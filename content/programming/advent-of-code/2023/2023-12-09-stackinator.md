@@ -10,6 +10,10 @@ series:
 ---
 ## Source: [Day 9: Mirage Maintenance](https://adventofcode.com/2023/day/9)
 
+[Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day09) for today (spoilers!)
+
+{{<toc>}}
+
 ## Part 1
 
 > Given a list of terms, repeatedly calculate the differences of terms until these differences are 0. So:

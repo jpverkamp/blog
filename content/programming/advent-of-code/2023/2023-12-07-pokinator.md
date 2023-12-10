@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 7: Camel Cards](https://adventofcode.com/2023/day/7)
 
+[Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day07) for today (spoilers!)
+
 {{<toc>}}
 
 ## Part 1
