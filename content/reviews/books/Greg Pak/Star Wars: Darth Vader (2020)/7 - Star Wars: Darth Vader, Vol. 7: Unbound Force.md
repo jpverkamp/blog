@@ -13,7 +13,7 @@ reviews/series:
 series_index:
 - 7
 - 0
-title: 'Star Wars: Darth Vader, Vol. 7: Unbound Force'
+title: 'Darth Vader, Vol. 7: Unbound Force'
 ---
 ![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-bfbe5d.png)
 

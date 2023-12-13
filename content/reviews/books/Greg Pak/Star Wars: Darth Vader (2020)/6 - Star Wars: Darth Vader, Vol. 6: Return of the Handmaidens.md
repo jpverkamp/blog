@@ -13,7 +13,7 @@ reviews/series:
 series_index:
 - 6
 - 0
-title: 'Star Wars: Darth Vader, Vol. 6: Return of the Handmaidens'
+title: 'Darth Vader, Vol. 6: Return of the Handmaidens'
 ---
 
 The Handmaidens. Hired to look like Padme; now they’re impersonating one another. 
