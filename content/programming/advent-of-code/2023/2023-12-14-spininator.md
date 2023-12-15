@@ -407,3 +407,131 @@ Range (min … max):    5.862 s …  6.340 s    10 runs
 ```
 
 ...but part 2 is unfortunately well over the 1 second mark, even with improvements. I really do think that I should be able to do better. But for now, this will have to do. We'll see!
+
+## Edit 1, Optimization 4: ... removing a debugging line
+
+Okay, I kept working on it. 
+
+Fix #1 (and I feel so bad about this)... I left a debugging line in. 
+
+```rust
+// Let the rocks slide until they stop moving
+loop {
+    let mut changed = false;
+
+    for i in 0..platform.round_rocks.len() {
+        let r = platform.round_rocks[i];
+
+        // Move in that direction until we hit something (or a wall)
+        let mut next = r;
+        loop {
+            next = next + direction;
+
+            if !platform.bounds.contains(&next) || platform.occupied.contains(&next) {
+                // Have to step back to the last valid point
+                next = next - direction;
+                break;
+            }
+        }
+
+        // If we didn't actually move, do nothing
+        if next == r {
+            continue;
+        }
+
+        // If we get here, we can move; do it
+        platform.round_rocks[i].x = next.x;
+        platform.round_rocks[i].y = next.y;
+
+        platform.occupied.remove(&r);
+        platform.occupied.insert(next);
+
+        changed = true;
+        break;
+    }
+
+    if !changed {
+        break;
+    }
+}
+```
+
+That second last break (after `changed = true`) means that each update will only update a single stone. To update any future stone, it has to at least check each previous one. 
+
+That's ... not helpful. 
+
+Removing that and:
+
+```bash
+$ just time 14 2
+
+hyperfine --warmup 3 'just run 14 2'
+Benchmark 1: just run 14 2
+  Time (mean ± σ):      1.776 s ±  0.039 s    [User: 1.657 s, System: 0.019 s]
+  Range (min … max):    1.715 s …  1.830 s    10 runs
+```
+
+This does also improve pretty much all of the previous part 2 runtimes, but I'm not going to go back and fix them retroactively. Such is life. 
+
+## Edit 2, Optimization 5: Pre-sorting the rocks
+
+For the first 'real' optimization, I noted previously that we're sliding each stone as far as we can. Well, it turns out that's only partially true. In order to move each stone as far as possible, we have to be moving in the right direction. If we're moving from 'top to bottom', then moving North is easier than moving South. 
+
+To fix this, let's add a quick sort within the direction loop:
+
+```rust
+// The rocks will slide N, W, S, E
+for (direction_i, direction) in [Point::NORTH, Point::WEST, Point::SOUTH, Point::EAST]
+    .into_iter()
+    .enumerate()
+{
+    // Resort the rocks in the direction we're moving
+    platform.round_rocks.sort_by(|a, b| {
+        if direction_i == 0 {
+            // direction == Point::NORTH
+            a.y.cmp(&b.y)
+        } else if direction_i == 1 {
+            // direction == Point::WEST
+            a.x.cmp(&b.x)
+        } else if direction_i == 2 {
+            // direction == Point::SOUTH
+            b.y.cmp(&a.y)
+        } else if direction_i == 3 {
+            // direction == Point::EAST
+            b.x.cmp(&a.x)
+        } else {
+            panic!("Invalid direction_i: {}", direction_i)
+        }
+    });
+
+    // Slide each rock once
+    // Note: No more `loop` here waiting for them to stop sliding!
+    for i in 0..platform.round_rocks.len() {
+        // ...
+    }
+}
+```
+
+It should sort in place, so no more allocation and I tried to (perhaps prematurely) optimize the comparison about which way we're sorting. 
+
+Downside: we have to spend the extra time each part of each cycle to sort. Upside, we can remove the actual `loop` and just go directly to updating each rock!
+
+So, does it help? 
+
+```bash
+$ hyperfine --warmup 3 'just run 14 2-order' 'just run 14 2'
+
+Benchmark 1: just run 14 2-order
+  Time (mean ± σ):      1.769 s ±  0.183 s    [User: 1.550 s, System: 0.020 s]
+  Range (min … max):    1.621 s …  2.151 s    10 runs
+
+Benchmark 2: just run 14 2
+  Time (mean ± σ):      1.909 s ±  0.152 s    [User: 1.651 s, System: 0.019 s]
+  Range (min … max):    1.716 s …  2.103 s    10 runs
+
+Summary
+  just run 14 2-order ran
+    1.08 ± 0.14 times faster than just run 14 2
+```
+
+~8%. So it's progress, but not much. 
