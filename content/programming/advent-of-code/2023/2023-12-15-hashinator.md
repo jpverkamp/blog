@@ -163,4 +163,4 @@ cat data/$(printf "%02d" 15).txt | cargo run --release -p day$(printf "%02d" 15)
 
 Yeah... less than 1/10 ms for part 1 and 1/4 for part 2. 
 
-Perhaps I should rethink how I'm timing these. :smile:
+Perhaps I should rethink how I'm timing these. :smile: But it really only matters when the majority of the runtime is disk access, for any interesting problem (like [[AoC 2023 Day 14: Spininator|day 14]]()), it's not really relevant. 
