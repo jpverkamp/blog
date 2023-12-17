@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 16: The Floor Will Be Lava](https://adventofcode.com/2023/day/16)
 
+<video controls src="/embeds/2023/aoc23-16.mp4"></video>
+
 [Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day16) for today (spoilers!)
 
 {{<toc>}}
@@ -392,3 +394,112 @@ impl Bounds {
     }
 }
 ```
+
+## Edit 1, Adding to_string and to_image for Grid
+
+It's nice to be able to debug and we can basically reverse the `from_c` function:
+
+```rust
+impl Grid<T> {
+        pub fn to_string(&self, empty_c: char, to_c: impl Fn(&T) -> char) -> String {
+        let mut s = String::new();
+
+        for y in self.bounds.min_y..=self.bounds.max_y {
+            for x in self.bounds.min_x..=self.bounds.max_x {
+                let p = Point { x, y };
+                if let Some(c) = self.get(&p).map(&to_c) {
+                    s.push(c);
+                } else {
+                    s.push(empty_c);
+                }
+            }
+            s.push('\n');
+        }
+
+        s
+    }
+
+    pub fn to_image(
+        &self,
+        empty_c: image::Rgba<u8>,
+        to_c: impl Fn(&T) -> image::Rgba<u8>,
+    ) -> image::RgbaImage {
+        let width = self.bounds.max_x - self.bounds.min_x + 1;
+        let height = self.bounds.max_y - self.bounds.min_y + 1;
+
+        let mut image = image::RgbaImage::new(width as u32, height as u32);
+
+        for y in self.bounds.min_y..=self.bounds.max_y {
+            for x in self.bounds.min_x..=self.bounds.max_x {
+                let p = Point { x, y };
+                if let Some(c) = self.get(&p).map(&to_c) {
+                    image.put_pixel(
+                        (x - self.bounds.min_x) as u32,
+                        (y - self.bounds.min_y) as u32,
+                        c,
+                    );
+                } else {
+                    image.put_pixel(
+                        (x - self.bounds.min_x) as u32,
+                        (y - self.bounds.min_y) as u32,
+                        empty_c,
+                    );
+                }
+            }
+        }
+
+        image
+    }
+}
+```
+
+With that, we can make a nice `part2-render.rs`:
+
+```rust
+let background = mirrors.to_image(image::Rgba([0, 0, 0, 0]), |_| {
+    image::Rgba([255, 255, 255, 255])
+});
+let barely_black = image::RgbaImage::from_pixel(
+    background.width(),
+    background.height(),
+    image::Rgba([0, 0, 0, 8]),
+);
+let mut foreground = image::RgbaImage::new(background.width(), background.height());
+
+let mut frame = 0;
+while let Some(points) = queue.pop() {
+    if frame > RENDER_FRAMES {
+        break;
+    }
+
+    // Render the current frame
+    {
+        frame += 1;
+        let filename = format!("frames/{:04}.png", frame);
+        println!("Rendering {}", filename);
+
+        create_dir_all("frames").ok();
+
+        let mut frame = image::RgbaImage::new(background.width(), background.height());
+
+        // Darken the previous foreground frames slightly
+        image::imageops::overlay(&mut foreground, &barely_black, 0, 0);
+
+        for (p, _) in &points {
+            if mirrors.bounds.contains(&p) {
+                foreground.put_pixel(p.x as u32, p.y as u32, image::Rgba([255, 0, 0, 255]));
+            }
+        }
+
+        image::imageops::overlay(&mut frame, &foreground, 0, 0);
+        image::imageops::overlay(&mut frame, &background, 0, 0);
+        frame.save(filename).unwrap();
+    }
+
+    // ...
+}
+```
+
+I did tweak it to 1) not check `visited` points, so that we get full effect and 2) keep an ever growing list of the current points, rather than the more efficient queue. I think the results are pretty cool!
+
+<video controls src="/embeds/2023/aoc23-16.mp4"></video>

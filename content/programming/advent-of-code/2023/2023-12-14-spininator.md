@@ -10,6 +10,8 @@ series:
 ---
 ## Source: [Day 14: Parabolic Reflector Dish](https://adventofcode.com/2023/day/14)
 
+<video controls src="/embeds/2023/aoc23-14-direction.mp4"></video>
+
 [Full solution](https://github.com/jpverkamp/advent-of-code/tree/master/2023/solutions/day14) for today (spoilers!)
 
 {{<toc>}}
@@ -535,3 +537,17 @@ Summary
 ```
 
 ~8%. So it's progress, but not much. 
+
+## Edit 3, Rendering
+
+Much as I've now added to , I have rendering!
+
+Here is the solution (for [part 2](#part-2)) rendering one frame per cycle:
+
+<video controls src="/embeds/2023/aoc23-14-cycle.mp4"></video>
+
+And here is rendering one frame per subcycle/direction:
+
+<video controls src="/embeds/2023/aoc23-14-direction.mp4"></video>
+
+Not exactly as I expected, but still pretty fun!
