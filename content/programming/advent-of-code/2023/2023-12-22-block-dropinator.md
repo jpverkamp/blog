@@ -229,6 +229,83 @@ The algorithm is:
 
 I think that's fairly elegant!
 
+### Edit 1, Now with faster dropping
+
+Okay, it was [bothering me](#performance) that part 1 / the drop part of part 2 was taking so long. We can do better!
+
+Take the realization that the 'bottom' blocks can drop straight to the floor and that any block above them (if dropped from bottom to top) can drop in a single cycle. 
+
+In code, that means that we want to:
+
+* Sort the blocks from bottom to top (based on the lower end)
+* For each block
+  * Find the highest blocks beneath it
+    * If there is one: drop to touching it
+    * If not: drop to the floor
+
+In code:
+
+```rust
+// Sort blocks ascending
+blocks.sort_by(|b1, b2| b1.min.z.cmp(&b2.min.z));
+
+// For each block, find all blocks in the region beneath it
+log::info!("Dropping blocks");
+for block_i in 0..blocks.len() {
+    // Generate the region beneath this block
+    let block = blocks[block_i];
+    let beneath = Block::new(
+        Point::new(block.min.x, block.min.y, 1),
+        Point::new(block.max.x, block.max.y, block.min.z - 1),
+    );
+
+    // Find the height of the tallest block under it
+    if let Some(fall_to) = blocks
+        .iter()
+        .filter_map(|b| {
+            if beneath.intersects(b) {
+                Some(b.max.z)
+            } else {
+                None
+            }
+        })
+        .max()
+    {
+        // If we have a height, drop the block
+        let block = &mut blocks[block_i];
+        let fall_by = block.min.z - fall_to - 1;
+        block.min.z -= fall_by;
+        block.max.z -= fall_by;
+    } else {
+        // No blocks beneath, fall to the floor
+        let block = &mut blocks[block_i];
+        let fall_by = block.min.z - 1;
+        block.min.z -= fall_by;
+        block.max.z -= fall_by;
+    }
+}
+```
+
+That's ... actually not that bad. Generate a psuedo-`Block` that contains the entire region beneath our block (since then we can use `intersects`). Use the `filter_map` to get only blocks beneath and record their tops. Drop. 
+
+```bash
+$ hyperfine --warmup 3 'just run 22 1-settle' 'just run 22 1'
+
+Benchmark 1: just run 22 1-settle
+  Time (mean ± σ):      1.409 s ±  0.074 s    [User: 1.273 s, System: 0.016 s]
+  Range (min … max):    1.361 s …  1.612 s    10 runs
+
+Benchmark 2: just run 22 1
+  Time (mean ± σ):     136.6 ms ±  22.2 ms    [User: 61.7 ms, System: 14.9 ms]
+  Range (min … max):   123.7 ms … 224.1 ms    20 runs
+
+Summary
+  just run 22 1 ran
+   10.32 ± 1.76 times faster than just run 22 1-settle
+```
+
+Yeah... that's much faster!
+
 ## Part 2
 
 > For each block, count how many blocks would fall if that block were removed (including transitively). Sum these numbers. 
@@ -394,9 +471,31 @@ Another option would be to completely remove all of the `log::info!` lines and t
 
 Luckily, it seems Rust's compiler is pretty smart anyways, this only saves us ~1/100 of a second more. So we'll leave it in. 
 
+### Edit 1, Using fast drop
+
+Using the same upgrade as [part 1](#edit-1-now-with-faster-dropping):
+
+```bash
+$ hyperfine --warmup 3 'just run 22 2-hash-set' 'just run 22 2'
+
+Benchmark 1: just run 22 2-hash-set
+  Time (mean ± σ):      2.021 s ±  0.104 s    [User: 1.832 s, System: 0.026 s]
+  Range (min … max):    1.916 s …  2.160 s    10 runs
+
+Benchmark 2: just run 22 2
+  Time (mean ± σ):     674.3 ms ±  10.6 ms    [User: 563.3 ms, System: 24.7 ms]
+  Range (min … max):   660.1 ms … 695.6 ms    10 runs
+
+Summary
+  just run 22 2 ran
+    3.00 ± 0.16 times faster than just run 22 2-hash-set
+```
+
+It's not the 10x speedup, since we're only speeding up the first part, but 3x is still nothing to scoff at. And we're under a second! Onward!
+
 ## Performance
 
-With the tweaks above, we have:
+Even with the tweaks to data structures above, we have:
 
 ```bash
 $ just time 22 1
@@ -417,3 +516,23 @@ Benchmark 1: just run 22 2
 Come to think of it, our runtime is actually 2/3 in `part1`... I bet we could speed that up. Another day though. 
 
 Onward!
+
+Edit 1, with the upgrades in [part 1](#edit-1-now-with-faster-dropping) and [part 2](#edit-1-using-fast-drop):
+
+```bash
+$ just time 22 1
+
+hyperfine --warmup 3 'just run 22 1'
+Benchmark 1: just run 22 1
+  Time (mean ± σ):     128.0 ms ±   4.0 ms    [User: 60.7 ms, System: 15.1 ms]
+  Range (min … max):   123.1 ms … 135.5 ms    21 runs
+
+$ just time 22 2
+
+hyperfine --warmup 3 'just run 22 2'
+Benchmark 1: just run 22 2
+  Time (mean ± σ):     660.8 ms ±  13.6 ms    [User: 545.9 ms, System: 21.8 ms]
+  Range (min … max):   649.6 ms … 696.0 ms    10 runs
+```
+
+Not bad. :smile:
