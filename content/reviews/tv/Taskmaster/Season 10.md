@@ -54,7 +54,7 @@ And yet somehow… second place! This show is wonderfully random.
 
 Also:
 
-![](/embeds/books/attachments/taskmaster-10-2f8623.png)
+![](/embeds/tv/attachments/taskmaster-10-2f8623.png)
 
 … this show. 
 
