@@ -122,6 +122,130 @@ Each time we get to the exit, record the path; at the end, record the longest an
 
 It's not the fastest solution, but for part 1 it's fine? 
 
+### Edit 1: Petgraph
+
+I haven't yet had a chance to look at the [`petgraph`](https://docs.rs/petgraph/latest/petgraph/) crate. Let's remedy that. 
+
+Essentially, we can represent our map as a graph. To do that, we'll want to generate a list of nodes (each walkable tile, including slopes) and edges (which nodes you can walk to from a given node). 
+
+One interesting thing about `petgraph` is that everything you do uses `NodeIndexes`. When you insert a node into a graph, you get the index back. When you add an edge, you add it between 2 `NodeIndex`. And in the end, when we want to find all paths, we'll need to pass those back. 
+
+So we need to return 3 things: the graph and the `NodeIndex` for the start and end points. 
+
+Let's do it. 
+
+```rust
+let (graph, start, end) = {
+    let mut g = DiGraph::new();
+    let mut nodes = Vec::new();
+    let mut start = None;
+    let mut end = None;
+
+    for y in 0..=grid.bounds.max_y {
+        for x in 0..=grid.bounds.max_x {
+            let p = Point::new(x, y);
+
+            if let Some(Object::Wall) = grid.get(&p) {
+                continue;
+            }
+
+            let node = g.add_node(p);
+            nodes.push(node);
+
+            if x == 1 && y == 0 {
+                start = Some(node);
+            }
+            if x == grid.bounds.max_x - 1 && y == grid.bounds.max_y {
+                end = Some(node);
+            }
+        }
+    }
+
+    for node in &nodes {
+        let p = *g.node_weight(*node).unwrap();
+
+        for direction in &[
+            Point::new(0, 1),
+            Point::new(0, -1),
+            Point::new(1, 0),
+            Point::new(-1, 0),
+        ] {
+            let next_position = p + *direction;
+
+            // If we're out of bounds, we've found an invalid path
+            if !grid.bounds.contains(&next_position) {
+                continue;
+            }
+
+            // If we're on a slope, we can only go in the direction of the slope
+            if let Some(Object::Slope(s)) = grid.get(&p) {
+                if direction != &Point::from(*s) {
+                    continue;
+                }
+            }
+
+            // Cannot go through walls
+            match grid.get(&next_position) {
+                Some(Object::Wall) => continue,
+                _ => (),
+            }
+
+            // Otherwise, queue it up
+            let next_node = nodes
+                .iter()
+                .find(|n| *g.node_weight(**n).unwrap() == next_position)
+                .unwrap();
+
+            g.add_edge(*node, *next_node, ());
+        }
+    }
+
+    (g, start.unwrap(), end.unwrap())
+};
+```
+
+Once we have the `graph`, there's a perfect algorithm for us in `petgraph::algo::all_simple_paths`:
+
+```rust
+let result = all_simple_paths(&graph, start, end, 0, None)
+    .map(|path: Vec<&NodeIndex>| path.len() - 1)
+    .max()
+    .unwrap();
+```
+
+A `simple_path` is exactly what we want: a `path` that doesn't visit any node in the graph more than once. So we can just go through all of them, find the longest, and get the length of that. 
+
+One gotcha that I had to deal with was that we needed to type the `a` and `b` in closure as `&Vec<NodeIndex>`. Alternative, you can `turbofish` the call itself:
+
+```rust
+let result = all_simple_paths(&graph, start, end, 0, None)
+    .map(|path: Vec<NodeIndex>| path.len() - 1)
+    .max()
+    .unwrap();
+```
+
+I think I actually like that one better. 
+
+So how does it actually compare? 
+
+```bash
+$ hyperfine --warmup 3 'just run 23 1' 'just run 23 1-petgraph'
+
+Benchmark 1: just run 23 1
+  Time (mean ± σ):     412.3 ms ±  12.5 ms    [User: 319.7 ms, System: 20.6 ms]
+  Range (min … max):   392.1 ms … 442.0 ms    10 runs
+
+Benchmark 2: just run 23 1-petgraph
+  Time (mean ± σ):     188.4 ms ±   4.3 ms    [User: 98.9 ms, System: 19.8 ms]
+  Range (min … max):   182.5 ms … 199.4 ms    15 runs
+
+Summary
+  just run 23 1-petgraph ran
+    2.19 ± 0.08 times faster than just run 23 1
+```
+
+That's actually pretty impressive. 
+
 ## Part 2
 
 > Ignore slopes. 
@@ -441,6 +565,93 @@ It's still 10x my worst case goal of 1 second, but at least we actually have a s
 
 And since it's the weekend, that's where I'll leave it for now, but I'm probably going to have to come back and try this one again!
 
+### Edit 1: More petgraph!
+
+As is the case in [part 1](#edit-1-petgraph), we can speed this up significantly with `petgraph`. And the conversion is actually even easier once we've already done `splits`:
+
+```rust
+// Build a petgraph graph from these splits
+let (graph, start, end) = {
+    let mut g = DiGraph::new();
+    let mut nodes = Vec::new();
+    let mut start = None;
+    let mut end = None;
+
+    // Add all splits as nodes
+    for split in splits.iter() {
+        let node = g.add_node(*split);
+        nodes.push(node);
+
+        if *split == Point::new(1, 0) {
+            start = Some(node);
+        }
+        if *split == Point::new(walls.bounds.max_x - 1, walls.bounds.max_y) {
+            end = Some(node);
+        }
+    }
+
+    // Add weighted edges between each split that's connected
+    for ((src, dst), d) in split_distances.iter() {
+        let src = nodes
+            .iter()
+            .find(|n| *g.node_weight(**n).unwrap() == *src)
+            .unwrap();
+        let dst = nodes
+            .iter()
+            .find(|n| *g.node_weight(**n).unwrap() == *dst)
+            .unwrap();
+
+        g.add_edge(*src, *dst, *d);
+    }
+
+    (g, start.unwrap(), end.unwrap())
+};
+```
+
+The `result` calculation is a bit more complicated this time, since we want to rebuild the lengths of each path:
+
+```rust
+// Get the length of the longest path
+let result = all_simple_paths::<Vec<_>, _>(&graph, start, end, 0, None)
+    .map(|path| 
+        path
+            .iter()
+            .tuple_windows()
+            .map(|(a, b)| 
+                split_distances.get(&(
+                    *graph.node_weight(*a).unwrap(),
+                    *graph.node_weight(*b).unwrap(),
+                )).unwrap())
+            .sum::<usize>()
+    )
+    .max()
+    .unwrap();
+```
+
+I feel like it's a bit weird that `all_simple_paths` doesn't return anything about the sum of `weights` of a path, but perhaps there's another method I'm missing? It's not the worst to write though. 
+
+Side note, I did pull in `itertools` as well, just for `tuple_windows`. 
+
+And it's faster:
+
+```bash
+$ hyperfine --warmup 3 'just run 23 2' 'just run 23 2-petgraph'
+
+Benchmark 1: just run 23 2
+  Time (mean ± σ):      9.386 s ±  0.167 s    [User: 8.964 s, System: 0.125 s]
+  Range (min … max):    9.108 s …  9.607 s    10 runs
+
+Benchmark 2: just run 23 2-petgraph
+  Time (mean ± σ):      1.859 s ±  0.145 s    [User: 1.641 s, System: 0.024 s]
+  Range (min … max):    1.741 s …  2.077 s    10 runs
+
+Summary
+  just run 23 2-petgraph ran
+    5.05 ± 0.40 times faster than just run 23 2
+```
+
+Still not *quite* 1 second, but we're getting there!
+
 ## Performance
 
 Overall (even though it's just above us), this is where we are right now:
@@ -461,3 +672,24 @@ Benchmark 1: just run 23 2
   Range (min … max):    9.555 s …  9.906 s    10 runs
 ```
 
+### Edit 1: Petgraph performance
+
+Now that we've updated [part 1](#edit-1-petgraph) and [part 2](#edit-1-more-petgraph), we have better overall performance:
+
+```bash
+$ just time 23 1-petgraph
+
+hyperfine --warmup 3 'just run 23 1-petgraph'
+Benchmark 1: just run 23 1-petgraph
+  Time (mean ± σ):     190.9 ms ±   7.4 ms    [User: 100.6 ms, System: 20.2 ms]
+  Range (min … max):   180.0 ms … 210.7 ms    16 runs
+
+$ just time 23 2-petgraph
+
+hyperfine --warmup 3 'just run 23 2-petgraph'
+Benchmark 1: just run 23 2-petgraph
+  Time (mean ± σ):      1.799 s ±  0.110 s    [User: 1.599 s, System: 0.023 s]
+  Range (min … max):    1.698 s …  1.999 s    10 runs
+```
+
+Not bad!
