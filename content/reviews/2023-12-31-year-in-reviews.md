@@ -89,7 +89,7 @@ Series I read in their entirety this year (non-graphic novels):
 * [Skyward](http://localhost/reviews/series/skyward/)* (1 short story, 3 novels, 3 novellas, I haven't read the most recent novel yet)
 * [The 5th Wave](http://localhost/reviews/series/the-5th-wave/) (3 novels)
 * [The Magicians](http://localhost/reviews/series/the-magicians/) (3 novels)
-oud of this one)
+
 
 Graphic novels/comics:
 
@@ -99,7 +99,7 @@ Graphic novels/comics:
 * [Marvel 1602](https://blog.jverkamp.com/reviews/series/marvel-1602/) (5  graphic novels)
 * [Runaways](https://blog.jverkamp.com/reviews/series/runaways-2003-2009/) (11 graphic novels)
 * [Star Wars: Darth Vader (2020)](https://blog.jverkamp.com/reviews/series/star-wars-darth-vader-2020/) (7 graphic novels)
-* The [entire Marvel Ultimate line](https://blog.jverkamp.com/reviews/series/ultimate-marvel-universe/) (all 118 graphic novels, I'm pr
+* The [entire Marvel Ultimate line](https://blog.jverkamp.com/reviews/series/ultimate-marvel-universe/) (all 118 graphic novels, I'm proud of this one)
 
 Series I started:
 
