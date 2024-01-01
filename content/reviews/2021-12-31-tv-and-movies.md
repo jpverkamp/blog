@@ -1,6 +1,8 @@
 ---
 title: 2021 TV & Movies Retrospective
 date: 2021-12-31 23:59:59
+series:
+- Year in Reviews
 reviews/lists:
 - 2021 TV Reviews
 - 2021 Movie Reviews

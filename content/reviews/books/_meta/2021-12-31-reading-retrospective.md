@@ -1,6 +1,8 @@
 ---
 title: 2021 Reading Retrospective
 date: 2021-12-31 23:59:55
+series:
+- Year in Reviews
 reviews/lists:
 - 2021 Book Reviews
 is_review_meta: true

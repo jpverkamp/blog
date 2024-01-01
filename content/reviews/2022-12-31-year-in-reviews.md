@@ -1,6 +1,8 @@
 ---
 title: 2022 Year in Reviews
 date: 2022-12-31 23:59:59
+series:
+- Year in Reviews
 reviews/lists:
 - 2022 Book Reviews
 - 2022 TV Reviews

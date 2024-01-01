@@ -1,6 +1,8 @@
 ---
 title: 2018 Reading List Retrospective
 date: 2018-12-31 23:59:59
+series:
+- Year in Reviews
 reviews/lists:
 - 2018 Book Reviews
 is_review_meta: true

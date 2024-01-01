@@ -1,6 +1,8 @@
 ---
 title: 2016 Reading List Retrospective
 date: 2016-12-31 23:59:59
+series:
+- Year in Reviews
 reviews/lists:
 - 2016 Book Reviews
 is_review_meta: true

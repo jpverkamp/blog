@@ -1,6 +1,8 @@
 ---
 title: 2015 Reading List Retrospective
 date: 2015-12-31
+series:
+- Year in Reviews
 reviews/lists:
 - 2015 Book Reviews
 is_review_meta: true
