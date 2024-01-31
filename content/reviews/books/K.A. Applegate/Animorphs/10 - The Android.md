@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-android.jpg
 date: '2024-01-18'
-draft: true
 goodreads_id: 7089
-rating: -1
+rating: 5
 reviews/authors:
 - K.A. Applegate
 reviews/lists:

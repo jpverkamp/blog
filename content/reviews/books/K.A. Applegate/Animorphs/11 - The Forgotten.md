@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-forgotten.jpg
 date: '2024-01-21'
-draft: true
 goodreads_id: 363392
-rating: -1
+rating: 5
 reviews/authors:
 - K.A. Applegate
 reviews/lists:
