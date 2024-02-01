@@ -1,7 +1,6 @@
 ---
 cover: /embeds/books/shadow-rites.jpg
 date: '2024-01-29'
-draft: true
 goodreads_id: 25759452
 rating: 5
 reviews/authors:
@@ -17,6 +16,8 @@ title: Shadow Rites
 And now things take a different take. We've dealt with it all. Vampires, weres, skinwalkers, aliens from other dimensions, thousand year old uber-vamps... now it's time to let some witches shine once again. 
 
 And oh, how crazy things get. I'm so glad to see the Truebloods again. Pregnant Molly is fun. Angie Baby is scary and adorable. Evan is going to get himself revealed. And now we can good witch / evil witch with the best of them!
+
+<!--more-->
 
 Things I liked:
 

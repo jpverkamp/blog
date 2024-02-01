@@ -19,6 +19,8 @@ And so we're introduced to a *really* old big bad.
 
 It's interesting in books like these when you have relatively 'normal' points of view mixed in with characters that are literally centuries/millennia old. 
 
+<!--more-->
+
 *Dark Heir* does that well enough, by mostly completely ignoring the problem. For the most part, Joses is a monster. He doesn't talk (much? at all?). He wantonly murders humans, vampires, and anything else he can get hold of. And just about everyone wants him contained--albeit in various ways and numbers of pieces. 
 
 So of course this is where Jane gets involved. 
