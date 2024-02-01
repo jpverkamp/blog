@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/cave-of-bones-a-true-story-of-discovery-adventure-and-human-origins.jpg
 date: '2024-01-29'
-draft: true
 goodreads_id: 122858878
-rating: -1
+rating: 4
 reviews/authors:
 - Lee Berger
 reviews/lists:
