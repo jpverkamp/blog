@@ -34,8 +34,19 @@ build:
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
 	cd public; git status
 
-deploy: push build
+check-drafts:
+	@if grep -iR "draft: true" content; then \
+		echo "Draft(s) found. Proceed? [y/N]"; \
+		read ans; \
+		case "$ans" in \
+			[Yy]* ) \
+				echo "Proceeding...";; \
+			* ) \
+				exit 1; \
+		esac \
+	fi
+
+deploy: check-drafts push build
 	cd public; git add .
 	cd public; git commit -m "Automatic deployment: {{LAST_COMMIT}}"
 	cd public; git push origin master
-	
