@@ -19,6 +19,7 @@ pycryptodome = "^3.18.0"
 pyyaml = "^6.0.1"
 requests = "^2.31.0"
 tqdm = "^4.65.1"
+pillow-heif = "^0.15.0"
 
 
 [build-system]
