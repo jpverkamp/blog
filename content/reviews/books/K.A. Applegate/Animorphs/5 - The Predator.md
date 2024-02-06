@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-predator.jpg
 date: '2024-01-08'
-draft: true
 goodreads_id: 125337
-rating: -1
+rating: 4
 reviews/authors:
 - K.A. Applegate
 reviews/lists:
