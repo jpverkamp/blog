@@ -5,6 +5,7 @@ goodreads_id: 7089
 rating: 5
 reviews/authors:
 - K.A. Applegate
+- Michael Grant
 reviews/lists:
 - 2024 Book Reviews
 reviews/series:

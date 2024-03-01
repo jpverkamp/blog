@@ -5,6 +5,7 @@ goodreads_id: 363388
 rating: 4
 reviews/authors:
 - K.A. Applegate
+- Michael Grant
 reviews/lists:
 - 2024 Book Reviews
 reviews/series:
@@ -23,7 +24,7 @@ Yes. Spoilers. The Ellimist is around.
 
 And since this originally released the same day as [[The Andalite Chronicles]]()--and because it's a Tobias book, you had to expect it. 
 
-In short, the Ellimist is (totally not :wink:) interfering to free some Hork-Bajir. Tobias gets roped in. We do learn a lot more about Hork-Bajir (more than we will really until somewhat later in [[todo:The Hork-Bajir Chronicles]]()). It's a good thing to be doing. 
+In short, the Ellimist is (totally not :wink:) interfering to free some Hork-Bajir. Tobias gets roped in. We do learn a lot more about Hork-Bajir (more than we will really until somewhat later in [[The Hork-Bajir Chronicles]]()). It's a good thing to be doing. 
 
 And yet, I still totally get Tobias lamenting getting jerked around like that. 
 
