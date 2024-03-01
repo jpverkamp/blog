@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 4
 - 0
+- "2022-10-18"
+- 5.4
 title: 'Darth Vader, Vol. 4: Crimson Reign'
 ---
 

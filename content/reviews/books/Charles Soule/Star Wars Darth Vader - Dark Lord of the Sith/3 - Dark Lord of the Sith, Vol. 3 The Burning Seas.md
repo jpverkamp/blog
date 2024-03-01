@@ -7,6 +7,8 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 reviews/authors:
 - Charles Soule
 goodreads_id: 39668120
@@ -15,7 +17,11 @@ isbn: '1302910566'
 isbn13: '9781302910563'
 rating: 5
 page_count: 136
-series_index: [3, 0]
+series_index: 
+- 3
+- 0
+- "2018-09-11"
+- 3.3
 ---
 Well that's a fascinating addition. It takes what we've already been seeing-- Vader solidifying his power in the time between Revenge of the Sith and A New Hope--and takes us to the Mon Cala system, home of Admiral Ackbar. And yes, it is in fact a trap.  
 

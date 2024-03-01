@@ -7,6 +7,8 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2015)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 reviews/authors:
 - Kieron Gillen
 goodreads_id: 28118847
@@ -15,7 +17,11 @@ isbn: 0785199772
 isbn13: '9780785199779'
 rating: 5
 page_count: 128
-series_index: [3, 0]
+series_index: 
+- 3
+- 0
+- "2016-08-09"
+- 4.3
 ---
 Okay, now this went a bit sideways. Forget the Emperor and politicking (more or less). Instead, get thrown into a rivalry on a mining planet that's obsessed with etiquette...  
 

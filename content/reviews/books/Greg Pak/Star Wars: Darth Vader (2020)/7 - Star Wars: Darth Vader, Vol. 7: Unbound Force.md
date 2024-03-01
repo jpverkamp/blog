@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 7
 - 0
+- "2023-10-10"
+- 5.7
 title: 'Darth Vader, Vol. 7: Unbound Force'
 ---
 ![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-bfbe5d.png)

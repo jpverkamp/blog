@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 1
 - 0
+- "2015-10-06"
+- 4.1
 title: "Star Wars Vol. 1: Skywalker Strikes"
 ---
 Let's read another [[Marvel Star Wars]]() series! This time, getting a bit away from Vadar, we have Star Wars (2015). Set (initially) right after A New Hope, we have the fallout of the (first) Death Star and the whole gang out on a variety of adventures!

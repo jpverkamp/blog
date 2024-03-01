@@ -5,10 +5,15 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-i---the-phantom-menace.jpg
-series_index: [1]
+series_index: 
+- 1
+- "1999-05-19"
+- 1
 imdb_id: 0120915
 reviews/cinematographers:
 - David Tattersall

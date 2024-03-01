@@ -10,10 +10,14 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 7
 - 0
-title: The Ashes of Jedha
+- "2018-03-03"
+- 4.7
+title: "Star Wars Vol. 7: The Ashes of Jedha"
 ---
 
 ![](/embeds/books/attachments/star-wars-2015-v7-b17de1.jpeg)

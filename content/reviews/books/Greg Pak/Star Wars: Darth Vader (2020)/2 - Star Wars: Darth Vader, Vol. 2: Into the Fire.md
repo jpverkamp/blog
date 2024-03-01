@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 2
 - 0
+- "2021-06-22"
+- 5.2
 title: 'Darth Vader, Vol. 2: Into the Fire'
 ---
 

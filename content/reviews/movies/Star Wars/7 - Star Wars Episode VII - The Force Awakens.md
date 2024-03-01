@@ -5,10 +5,15 @@ reviews/lists:
 - 2022 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-vii---the-force-awakens.jpg
-series_index: [7]
+series_index: 
+- 7
+- "2015-12-18"
+- 7
 imdb_id: '2488496'
 reviews/cinematographers:
 - Dan Mindel

@@ -39,6 +39,10 @@ reviews/writers:
 - Yasumi Atarashi
 - Hitoshi Haga
 reviews/year: 2021
+reviews/series:
+- Star Wars
+series_index:
+- "2021-09-22"
 ---
 That's a fascinating expirment. I'm not sure who got that made, but I'm glad they did. Take Star Wars, give it to a bunch of different Japanese (or Japanese inspired) animators, and make sure that nothing in this will be canon (so you can tell all sorts of stories). There aren't any particularly deep, they're too short for that. But beautiful, oh this series has that in spades. 
 

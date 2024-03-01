@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 6
 - 0
+- "2017-12-05"
+- 4.6
 title: "Star Wars Vol. 6: Out Among the Stars"
 ---
 STAR WARS #33-37 

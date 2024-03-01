@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 3
 - 0
+- "2016-08-16"
+- 4.3
 title: "Star Wars Vol. 3: Rebel Jail"
 ---
 

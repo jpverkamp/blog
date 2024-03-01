@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 2
 - 0
+- "2016-01-13"
+- 4.2
 title: " Star Wars Vol. 2: Showdown on the Smuggler's Moon"
 ---
 

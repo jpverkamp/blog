@@ -5,10 +5,15 @@ reviews/lists:
 - 2022 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-viii---the-last-jedi.jpg
-series_index: [8]
+series_index: 
+- 8
+- "2017-12-15"
+- 8
 imdb_id: '2527336'
 reviews/cinematographers:
 - Steve Yedlin

@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 6
 - 0
+- "2023-07-27"
+- 5.6
 title: 'Darth Vader, Vol. 6: Return of the Handmaidens'
 ---
 

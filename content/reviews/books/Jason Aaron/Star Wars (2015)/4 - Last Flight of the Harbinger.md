@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 4
 - 0
+- "2017-01-18"
+- 4.4
 title: "Star Wars Vol. 4: Last Flight of the Harbinger"
 ---
 

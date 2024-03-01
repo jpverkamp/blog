@@ -5,10 +5,15 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-v---the-empire-strikes-back.jpg
-series_index: [5]
+series_index: 
+- 5
+- "1980-05-21"
+- 5
 imdb_id: 0080684
 reviews/cinematographers:
 - Peter Suschitzky

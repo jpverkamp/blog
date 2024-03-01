@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 5
 - 0
+- "2023-01-10"
+- 5.5
 title: 'Darth Vader, Vol. 5: The Shadow''s Shadow'
 ---
 Sabe!

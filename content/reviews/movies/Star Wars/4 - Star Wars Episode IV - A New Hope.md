@@ -5,10 +5,15 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-iv---a-new-hope.jpg
-series_index: [4]
+series_index:
+- 4
+- "1977-05-25"
+- 4
 imdb_id: 0076759
 reviews/cinematographers:
 - Gilbert Taylor

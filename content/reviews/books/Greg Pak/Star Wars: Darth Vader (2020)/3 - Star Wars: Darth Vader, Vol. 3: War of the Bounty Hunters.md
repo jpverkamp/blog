@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 3
 - 0
+- "2021-12-21"
+- 5.3
 title: 'Darth Vader, Vol. 3: War of the Bounty Hunters'
 ---
 

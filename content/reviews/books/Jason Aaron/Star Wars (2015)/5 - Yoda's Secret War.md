@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - Star Wars (2015)
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 5
 - 0
+- "2017-07-05"
+- 4.5
 title: "Star Wars Vol. 5: Yoda's Secret War"
 ---
 C-3PO has been captured!

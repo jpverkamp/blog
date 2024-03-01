@@ -5,10 +5,15 @@ reviews/lists:
 - 2022 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-ix---the-rise-of-skywalker.jpg
-series_index: [9]
+series_index: 
+- 9
+- "2019-12-16"
+- 9
 imdb_id: '2527338'
 reviews/cinematographers:
 - Dan Mindel

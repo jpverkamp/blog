@@ -7,6 +7,8 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2015)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 reviews/authors:
 - Kieron Gillen
 goodreads_id: 25861679
@@ -15,7 +17,11 @@ isbn: 0785192565
 isbn13: '9780785192565'
 rating: 5
 page_count: 136
-series_index: [2, 0]
+series_index: 
+- 2
+- 0
+- "2016-01-05"
+- 4.2
 ---
 More Vader! More Aphra!  
 

@@ -7,6 +7,8 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 reviews/authors:
 - Charles Soule
 goodreads_id: 36040437
@@ -15,7 +17,11 @@ isbn: 130290745X
 isbn13: '9781302907457'
 rating: 5
 page_count: 136
-series_index: [2, 0]
+series_index:
+- 2
+- 0
+- "2014-04-24"
+- 3.2
 ---
 Vader's goal this time?  
 

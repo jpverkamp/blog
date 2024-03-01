@@ -5,10 +5,15 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-iii---revenge-of-the-sith.jpg
-series_index: [3]
+series_index: 
+- 3
+- "2005-05-19"
+- 3
 imdb_id: '0121766'
 reviews/cinematographers:
 - David Tattersall

@@ -10,9 +10,13 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader (2020)'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 series_index:
 - 1
 - 0
+- "2020-11-24"
+- 5.1
 title: 'Darth Vader, Vol. 1: Dark Heart of the Sith'
 ---
 

@@ -5,10 +5,15 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-vi---return-of-the-jedi.jpg
-series_index: [6]
+series_index: 
+- 6
+- "1983-05-25"
+- 6
 imdb_id: 0086190
 reviews/cinematographers:
 - Alan Hume

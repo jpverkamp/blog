@@ -7,6 +7,8 @@ reviews/lists:
 reviews/series:
 - 'Star Wars: Darth Vader - Dark Lord of the Sith'
 - Marvel Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 reviews/authors:
 - Charles Soule
 goodreads_id: 35009957
@@ -15,7 +17,11 @@ isbn: '1302907441'
 isbn13: '9781302907440'
 rating: 5
 page_count: 154
-series_index: [1, 0]
+series_index: 
+- 1
+- 0
+- "2017-12-05"
+- 3.1
 ---
 Another day... another Darth Vader serial?  
 

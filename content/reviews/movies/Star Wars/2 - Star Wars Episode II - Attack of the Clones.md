@@ -5,10 +5,15 @@ reviews/lists:
 - 2021 Movie Reviews
 reviews/series:
 - Star Wars
+- "Star Wars (All - Release Order)"
+- "Star Wars (All - Chronological Order)"
 source:
 - Disney+
 cover: /embeds/movies/star-wars-episode-ii---attack-of-the-clones.jpg
-series_index: [2]
+series_index: 
+- 2
+- "2002-05-16"
+- 2
 imdb_id: '0121765'
 reviews/cinematographers:
 - David Tattersall
