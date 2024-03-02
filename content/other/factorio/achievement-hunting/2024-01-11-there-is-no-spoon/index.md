@@ -1,5 +1,5 @@
 ---
-title: "Factorio Achievement Hunting; There is no Spoon"
+title: "Factorio Achievement Hunting: There is no Spoon"
 date: 2024-01-11
 series:
 - "Factorio"
@@ -136,5 +136,5 @@ And... achievements!
 
 ![achievements](assets/18-achievements.png)
 
-Join me next time for [[Factorio Achievement Hunting; Lazy Bastard / 100%|Lazy Bastard]]()!
+Join me next time for [[Factorio Achievement Hunting: Lazy Bastard / 100%|Lazy Bastard]]()!
 

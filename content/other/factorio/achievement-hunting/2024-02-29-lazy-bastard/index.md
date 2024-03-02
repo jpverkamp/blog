@@ -1,11 +1,11 @@
 ---
-title: "Factorio Achievement Hunting; Lazy Bastard / 100%"
+title: "Factorio Achievement Hunting: Lazy Bastard / 100%"
 date: 2024-02-29
 series:
 - "Factorio"
 - "Factorio: Achievement Hunting"
 ---
-And here it is, [[Factorio Achievement Hunting; There is no Spoon|a month and a half later]]():
+And here it is, [[Factorio Achievement Hunting: There is no Spoon|a month and a half later]]():
 
 ![all-done](assets/00-all-done.png)
 
