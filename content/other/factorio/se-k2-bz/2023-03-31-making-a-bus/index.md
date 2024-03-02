@@ -2,6 +2,7 @@
 title: "[Factorio: SE-K2-BZ; Hours 8-13] Making a bus"
 date: '2023-03-31 23:00:00'
 series:
+- "Factorio"
 - "Factorio: SE-K2-BZ"
 ---
 You thought I'd forgotten, didn't you? Well, yeah. It took a while, but I'm still here!

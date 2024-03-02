@@ -2,6 +2,7 @@
 title: "[Factorio: SE-K2-BZ; Hours 14-24] Starting trains"
 date: '2023-05-02 00:03:00'
 series:
+- "Factorio"
 - "Factorio: SE-K2-BZ"
 ---
 Been a bit. I ... did not realize just how much a bit though. 10 hours? I must have left it running at some point... really I must have. :smile:

@@ -2,6 +2,7 @@
 title: "[Factorio: SE-K2-BZ; Hours 1-7] Hello world"
 date: 2023-02-18
 series:
+- "Factorio"
 - "Factorio: SE-K2-BZ"
 ---
 [Factorio](https://www.factorio.com/) is an absolute masterpiece of a game. It's perfect for a brian like main that loves to build things up, solve problems, and make things work. Perhaps too perfect. To date, I've put almost 2000 hours into the game over a number of runs, getting more complicated each time. Most recently, I've started a heavily modded run based around Space Exploration (adds planets!), Krastorio2 (designed to work with SE, think of it as Factorio++), LTN (automatic trains), Rampant (better enemies, although disabled on Nauvis), and the entire Brevven suite of a half dozen additional materials. If you'd like a full list of mods, I've included one [at the end of this post](#mods).
