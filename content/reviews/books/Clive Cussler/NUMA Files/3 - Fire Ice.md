@@ -5,6 +5,7 @@ goodreads_id: 97595
 rating: 4
 reviews/authors:
 - Clive Cussler
+- Paul Kemprecos
 reviews/lists:
 - 2023 Book Reviews
 reviews/series:
