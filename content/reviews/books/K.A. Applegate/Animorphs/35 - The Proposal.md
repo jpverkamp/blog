@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/the-proposal.jpg
-date: '2024-02-27'
+date: '2024-02-27 00:00:35'
 goodreads_id: 363393
 rating: 5
 reviews/authors:

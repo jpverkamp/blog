@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/the-unknown.jpg
-date: '2023-01-25'
+date: '2024-01-25'
 goodreads_id: 363391
 rating: 4
 reviews/authors:

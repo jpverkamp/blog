@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/the-prophecy.jpg
-date: '2024-02-27'
+date: '2024-02-27 00:00:34'
 goodreads_id: 366782
 rating: 5
 reviews/authors:

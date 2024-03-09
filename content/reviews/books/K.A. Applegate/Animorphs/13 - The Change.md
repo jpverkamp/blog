@@ -36,4 +36,4 @@ But in the end--it was all worth it?
 
 Random thoughts (spoilers): 
 
-We don't learn the details until much later in [[todo:The Ellimist Chronicles]](), but it does make me wonder... what did the Ellimist give up to be able to do this? 
+We don't learn the details until much later in [[The Ellimist Chronicles]](), but it does make me wonder... what did the Ellimist give up to be able to do this? 

@@ -46,7 +46,7 @@ So... remember that big weird biomechanical appearance at the end of [[The Captu
 > 
 > The Ellimist smiled. "Neither do you. All you know are the fairy stories your people tell to children."
 
-I remember [[todo:The Ellimist Chronicles]]() being one of my favorite books of the series. I did *not* remember that they showed up quite so early. An interesting bit of worldbuilding, if nearing on an almost *literal* deus-ex-machina. 
+I remember [[The Ellimist Chronicles]]() being one of my favorite books of the series. I did *not* remember that they showed up quite so early. An interesting bit of worldbuilding, if nearing on an almost *literal* deus-ex-machina. 
 
 It's a good book, but it's tonally weird compared to any of the books thus far--quite a jump in scope/scale. 
 

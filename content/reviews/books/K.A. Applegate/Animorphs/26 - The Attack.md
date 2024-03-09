@@ -16,7 +16,7 @@ title: The Attack
 ---
 Whelp, it seems [[The Extreme]]() wasn't *extreme* enough. Forget the Arctic, now the Animorphs are going to a world far, *far* away. 
 
-It's a(nother) precursor to [[todo:The Ellimist Chronicles]](), detailing that long, *long* battle between the Ellimist and Crayak.
+It's a(nother) precursor to [[The Ellimist Chronicles]](), detailing that long, *long* battle between the Ellimist and Crayak.
 
 > "But it wasn't to be that simple. Approximately a hundred million Earth years ago, we became aware of a new force in the galaxy. Not a species, an individual. He was a fugitive from another galaxy, chased out of that galaxy by a power even greater than he. Greater than me."
 >
