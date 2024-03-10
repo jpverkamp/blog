@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/cold-reign.jpg
 date: '2024-03-03'
-draft: true
 goodreads_id: 29533184
-rating: -1
+rating: 5
 reviews/authors:
 - Faith Hunter
 reviews/lists:
@@ -35,3 +34,5 @@ Other other than that, there is one problem I think I've been having with this s
 When... did this happen? I don't think I remember it. There are about a billion short stories, so perhaps in one of those, but it feels kind of weird to have the mainline novels not more stand alone than that. Is it just me? (Or did I just forget something?)
 
 But really, it's a wonderful series and I'm looking forward to where it goes from here!
+
+<!--more-->
