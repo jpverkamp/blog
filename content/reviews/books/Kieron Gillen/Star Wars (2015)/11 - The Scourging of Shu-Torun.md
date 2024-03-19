@@ -17,7 +17,7 @@ series_index:
 - 0
 - "2019-08-20"
 - 4.11
-title: The Scourging of Shu-Torun
+title: "Star Wars Vol. 11: The Scourging of Shu-Torun"
 ---
 
 Princess Leia has a plan! Economic upset on a massive scale... and if it happens to come with revenge against a certain recent traitor to the Rebellion? All the better.  

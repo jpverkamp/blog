@@ -17,7 +17,7 @@ series_index:
 - 0
 - "2019-04-09"
 - 4.10
-title: The Escape
+title: "Star Wars Vol. 10: The Escape"
 ---
 
 ![](/embeds/books/attachments/star-wars-2015-v10-textbundle-743363.jpeg)

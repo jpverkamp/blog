@@ -17,7 +17,7 @@ series_index:
 - 0
 - "2019-11-19"
 - 4.12
-title: Rebels and Rogues
+title: "Star Wars Vol. 12: Rebels and Rogues"
 ---
 > All of our lives, we have fought this war. Tonight I believe we can end it. Tonight is not an accident. There are no accidents. We have not come here by chance. I do not believe in chance. When I see three objectives, three captains, three ships. I do not see coincidence, I see providence. I see purpose. I believe it our fate to be here. It is our destiny. I believe this night holds for each and every one of us, the very meaning of our lives.
 

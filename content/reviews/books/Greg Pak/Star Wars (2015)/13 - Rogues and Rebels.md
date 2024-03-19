@@ -17,7 +17,7 @@ series_index:
 - 0
 - "2020-03-17"
 - 4.13
-title: Rogues and Rebels
+title: "Star Wars Vol. 13: Rogues and Rebels"
 ---
 
 ![](/embeds/books/attachments/star-wars-2015-v13-textbundle-02b2d1.jpeg)
