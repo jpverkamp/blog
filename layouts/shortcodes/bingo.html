@@ -69,7 +69,7 @@
             <td>
                 {{- $index := (printf "%dx%d" (add 1 $row) (add 1 $col) )}}
                 {{- $indexHard := (printf "%dx%d+" (add 1 $row) (add 1 $col) )}}
-                {{- $squareData := index $data (add $row (mul 5 $col)) }}
+                {{- $squareData := index $data (add (mul 5 $row) $col) }}
 
                 {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
                 {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
@@ -123,9 +123,9 @@
     <h3>Full categories</h3>
     <ul>
         {{- range $square := $data -}}
-        <li>
-            {{ index $square "title" }}: {{ index $square "summary" | markdownify }} (Hard Mode: {{ index $square "hard_mode" | markdownify }})
-        </li>
+        <h4>{{ index $square "title" }}</h4>
+        <p>{{ index $square "summary" | markdownify }}</p>
+        <p>Hard Mode: {{ index $square "hard_mode" | markdownify }}</p>
         {{- end -}}
     </ul>
 {{- else -}}

@@ -109,7 +109,7 @@
                                     </li>      
                                 {{- else if eq $version 2 -}}
                                     <li>
-                                        {{ index (index $data (add $row (mul $col 5)) "title") | markdownify }}
+                                        {{ index (index $data (add $col (mul $row 5)) "title") | markdownify }}
                                     </li>      
                                 {{- end -}}
                             {{- end -}}
