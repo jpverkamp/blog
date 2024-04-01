@@ -42,7 +42,8 @@
 
 .bingo.covers-only p,
 .bingo.covers-only hr,
-.bingo.covers-only figcaption {
+.bingo.covers-only figcaption,
+.bingo.covers-only div {
     display: none;
 
 

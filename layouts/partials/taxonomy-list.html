@@ -100,9 +100,18 @@
                         {{- $col := sub (int (substr $v 2 1)) 1 -}}
                         {{- range $bingoTitle, $bingoEntries := $.Site.Data.bingo -}}
                             {{- if eq $k ($bingoTitle | lower ) -}}
-                                <li>
-                                    {{ index (index $bingoEntries $row) $col | markdownify }}
-                                </li>      
+                                {{- $version := index $bingoEntries "version" -}}
+                                {{- $data := index $bingoEntries "data" -}}
+
+                                {{- if eq $version 1 -}}
+                                    <li>
+                                        {{ index (index $data $row) $col | markdownify }}
+                                    </li>      
+                                {{- else if eq $version 2 -}}
+                                    <li>
+                                        {{ index (index $data (add $row (mul $col 5)) "title") | markdownify }}
+                                    </li>      
+                                {{- end -}}
                             {{- end -}}
                         {{- end -}}
                     {{- end -}}
