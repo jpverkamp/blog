@@ -9,6 +9,8 @@ programming/topics:
 - Generators
 - Puzzles
 - Sudoku
+series:
+- Rust Solvers
 ---
 [Rust](programming/languages/rust/), yet again! Let's take what we did last time with [[Solving Sudoku (again)]]() and improve the code structure a bit more. 
 
