@@ -17,7 +17,7 @@ hard_mode = "None. Actually finishing a book you’ve been putting off for so lo
 
 [[data]]
 title = "Magical Realism or Literary Fantasy"
-summary = "Read a book that portrays magical or unreal elements in an otherwise realistic or mundane environment. These books are often found on literary fiction shelves and book lists and not always shelved as genre fiction. This is a hard square to pin down as what makes something literary or magical can often come down to vibes, so use your best judgment. No saying A Game of Thrones is literary fiction since there aren’t a lot of magical elements. Check out this thread for further ideas and guidelines."
+summary = "Read a book that portrays magical or unreal elements in an otherwise realistic or mundane environment. These books are often found on literary fiction shelves and book lists and not always shelved as genre fiction. This is a hard square to pin down as what makes something literary or magical can often come down to vibes, so use your best judgment. No saying A Game of Thrones is literary fiction since there aren’t a lot of magical elements. Check out [this thread](https://www.reddit.com/r/Fantasy/comments/4bhiua/proposed_magical_realism_recommendation_list/) for further ideas and guidelines."
 hard_mode = "Not one of the thirty books in the linked thread."
 
 [[data]]
@@ -33,7 +33,7 @@ hard_mode = "Does not take place on Earth."
 [[data]]
 title = "Published in the 00s"
 summary = "Read a book that was published between 2000 and 2009."
-hard_mode = "Not in the top 30 of r/Fantasy’s Best of 2023 List."
+hard_mode = "Not in the top 30 of r/Fantasy’s [Best of 2023 List](https://www.reddit.com/r/Fantasy/comments/11mvwsa/rfantasy_top_novels_2023_results/)."
 
 [[data]]
 title = "Angels and Demons"
@@ -53,11 +53,11 @@ hard_mode = "Not Stephen King or H. P. Lovecraft."
 [[data]]
 title = "Self-Published OR Indie Publisher"
 summary = "Self-published or published through a small, indie publisher. If the novel has been picked up by a publisher, it only counts for this challenge if you read it when it was still self-published."
-hard_mode = "Self-published and has fewer than 100 ratings on Goodreads, OR an indie publisher that has done an AMA with r/Fantasy."
+hard_mode = "Self-published and has fewer than 100 ratings on Goodreads, OR an indie publisher that has done an [AMA with r/Fantasy](https://www.reddit.com/r/Fantasy/wiki/ama/small-press-friday/)."
 
 [[data]]
 title = "Set in the Middle East/Middle Eastern SFF"
-summary = "Read a book that is set in the Middle East or in an analogous setting that is based on real-world Middle Eastern settings, myths, and culture. See these pages for more info on which countries and regions qualify: Wikipedia page for the Middle East, SWANA page. Example novels would include The Daevabad Trilogy by S. A. Chakraborty and The Candle and the Flame by Nafiza Azad"
+summary = "Read a book that is set in the Middle East or in an analogous setting that is based on real-world Middle Eastern settings, myths, and culture. See these pages for more info on which countries and regions qualify: Wikipedia page for [the Middle East](https://en.wikipedia.org/wiki/Middle_East), [SWANA page](https://swanaalliance.com/about). Example novels would include The Daevabad Trilogy by S. A. Chakraborty and The Candle and the Flame by Nafiza Azad"
 hard_mode = "Author is of Middle Eastern heritage."
 
 [[data]]
@@ -77,7 +77,7 @@ hard_mode = "Novel takes place in a futuristic, sci-fi world. NOTE: this is now 
 
 [[data]]
 title = "Book Club OR Readalong Book"
-summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs here. NOTE: All of the current book club info can also be found on our Goodreads page. Every book added to our Goodreads shelf or on this Google Sheet counts for this square. You can see our past readalongs here."
+summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs [here](https://www.reddit.com/r/Fantasy/wiki/index/bookclubs)."
 hard_mode = "Must read a current selection of either a book club or readalong and participate in the discussion."
 
 [[data]]
@@ -87,7 +87,7 @@ hard_mode = "Novella is NOT published by Tordotcom Publishing."
 
 [[data]]
 title = "Mythical Beasts"
-summary = "Read a book that prominently features at least one mythical beast, meaning a creature that doesn't exist in reality. See this Wikipedia page for an idea of what counts."
+summary = "Read a book that prominently features at least one mythical beast, meaning a creature that doesn't exist in reality. See [this Wikipedia page](https://en.wikipedia.org/wiki/Legendary_creature) for an idea of what counts."
 hard_mode = "No dragons or dragon-like creatures (e.g. wyverns, Draccus in Kingkiller)."
 
 [[data]]

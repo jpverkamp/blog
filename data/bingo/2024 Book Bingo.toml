@@ -43,7 +43,7 @@ hard_mode = "The book must have both."
 [[data]]
 title = "Self-Published or Indie Publisher"
 summary = "Self-published or published through an indie publisher. If a formerly self-published novel has been picked up by a publisher, it only counts for this challenge if you read it when it while was still only self-published."
-hard_mode = "Self-published and has fewer than 100 ratings on Goodreads OR an indie publisher that has done an AMA with r/Fantasy."
+hard_mode = "Self-published and has fewer than 100 ratings on Goodreads OR an indie publisher that has done an [AMA with r/Fantasy](https://www.reddit.com/r/Fantasy/wiki/ama/small-press-friday/)."
 
 [[data]]
 title = "Romantasy"
@@ -52,7 +52,7 @@ hard_mode = "The main character is LGBTQIA+."
 
 [[data]]
 title = "Dark Academia"
-summary = "Read a book that fits the dark academia aesthetic. This includes school and university, secret societies, and dark secrets. Does not have to be fantasy, but must be speculative."
+summary = "Read a book that fits the [dark academia aesthetic](https://en.wikipedia.org/wiki/Dark_academia). This includes school and university, secret societies, and dark secrets. Does not have to be fantasy, but must be speculative."
 hard_mode = "The school itself is entirely mundane."
 
 [[data]]
@@ -112,7 +112,7 @@ hard_mode = "Read an entire speculative anthology or collection."
 
 [[data]]
 title = "Eldritch Creatures"
-summary = "Read a book featuring a being that is uncanny, unearthly, and weird. This can be a god or monster from another plane or realm and is usually beyond mortal understanding. See this link for further information."
+summary = "Read a book featuring a being that is uncanny, unearthly, and weird. This can be a god or monster from another plane or realm and is usually beyond mortal understanding. See [this link](https://tvtropes.org/pmwiki/pmwiki.php/Main/EldritchAbomination) for further information."
 hard_mode = "The book is not related to the Cthulhu mythos."
 
 [[data]]
@@ -122,5 +122,5 @@ hard_mode = "Book contains at least two types of additional materials."
 
 [[data]]
 title = "Book Club or Readalong Book"
-summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs here. NOTE: All of the current book club info can also be found on our Goodreads page. Every book added to our Goodreads shelf or on this Google Sheet counts for this square. You can see our past readalongs here."
+summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs [here](https://www.reddit.com/r/Fantasy/wiki/index/bookclubs)."
 hard_mode = "Must read a current selection of either a book club or readalong and participate in the discussion. "
