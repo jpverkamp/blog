@@ -71,21 +71,11 @@
                 {{- $indexHard := (printf "%dx%d+" (add 1 $row) (add 1 $col) )}}
                 {{- $squareData := index $data (add $row (mul 5 $col)) }}
 
-                {{- /* The bingo square data */ -}}
-                <div class="tooltip">
-                    {{ index $squareData "title" | markdownify }}
-                    <div class="tooltiptext">
-                        <p>{{ index $squareData "summary" | markdownify }}</p>
-                        <p>Hard Mode: {{ index $squareData "hard_mode" | markdownify }}</p>
-                    </div>
-                </div>
-
                 {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
                 {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
 
                 {{- /* Covers for included books */ -}}
                 {{- if (or (in $squares $index) (in $squares $indexHard)) -}}
-                <hr>
                 <a href="{{ $page.Permalink }}">
                     <figure class="
                         {{- if in $squares $indexHard -}}hard-mode{{- end -}}
@@ -112,8 +102,18 @@
                 </p>
                 {{- end -}}
                 {{- if in $squares $indexHard -}}<p>Hard Mode ✓</p>{{- end -}}
+                <hr>
                 {{- end -}}
                 {{- end -}}
+
+                {{- /* The bingo square data */ -}}
+                <div class="tooltip">
+                    {{ index $squareData "title" | markdownify }}
+                    <div class="tooltiptext">
+                        <p>{{ index $squareData "summary" | markdownify }}</p>
+                        <p>Hard Mode: {{ index $squareData "hard_mode" | markdownify }}</p>
+                    </div>
+                </div>
             </td>
             {{- end -}}
         </tr>

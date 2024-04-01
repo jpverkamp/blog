@@ -1,0 +1,127 @@
+version = 2
+
+[[data]]
+title = "A Book from r/Fantasy's Top LGBTQIA List"
+summary = "Any book on [this list](https://www.reddit.com/r/Fantasy/comments/ifmx04/rfantasys_2020_top_lgbtqa_books_voting_results/), including sequels."
+hard_mode = "A book or series that received ten votes or less."
+
+[[data]]
+title = "Weird Ecology"
+summary = "Story takes place in a world that is wildly different from our own and includes such things as unique environments, strange flora and fauna, unusual ecosystems, etc. The difference in environment, flora and fauna, and ecosystems cannot simply be \"it’s a fantasy world,\" but something that is fundamentally different about the world itself. Example: The Bone Ships by RJ Barker counts as this is a poisonous world without trees and the world had to evolve in significantly different ways to deal with that. Meanwhile The Liveship Traders by Robin Hobb would not count, as it is fairly close to our own world’s ecology just with the added presence of dragons."
+hard_mode = "Not written by Jeff VanderMeer or China Miéville."
+
+[[data]]
+title = "Two or More Authors"
+summary = "Any book written by two or more authors such as This is How You Lose the Time War by Amal El-Mohtar and Max Gladstone. Anthologies count!"
+hard_mode = "Three or more authors."
+
+[[data]]
+title = "Historical SFF"
+summary = "Any book within the historical fantasy subgenre."
+hard_mode = "Not based in Britain or Ireland."
+
+[[data]]
+title = "Set in Space"
+summary = "A book that takes place primarily (at least 50%) off planet. IE: on a spaceship, space station, asteroid, space whale, free floating in space, etc."
+hard_mode = "Characters are not originally from Earth. It is acceptable for the characters to be descendants of Earthlings as long as they are not themselves from Earth."
+
+[[data]]
+title = "Standalone"
+summary = "A book that is not part of a series or a larger world. No connected novellas or short stories."
+hard_mode = "Not on r/Fantasy’s [Favorite Standalones List](https://www.reddit.com/r/Fantasy/comments/e9ukxr/the_2019_rfantasy_favourite_standalones_poll/)."
+
+[[data]]
+title = "Anti-Hero"
+summary = "Wikipedia describes an antihero as “a character in a story who lacks conventional heroic qualities and attributes, such as idealism, courage, and morality. Although antiheroes may sometimes perform actions that are morally correct, it is not always for the right reasons, often acting primarily out of self-interest or in ways that defy conventional ethical codes.” Examples: Locke Lamora in the Gentleman Bastard series or most grimdark books."
+hard_mode = "A YA book with an anti-hero."
+
+[[data]]
+title = "Book Club OR Readalong Book"
+summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs [here](https://www.reddit.com/r/Fantasy/wiki/index/bookclubs)."
+hard_mode = "Must read a current selection of either a book club or readalong and participate in the discussion."
+
+[[data]]
+title = "Cool Weapon"
+summary = "At least one main character uses a weapon with magical properties."
+hard_mode = "Weapon has a unique name. Examples: Excalibur from Arthurian legend, Dragnipur in Malazan, Sting in Lord of the Rings, etc."
+
+[[data]]
+title = "Revolutions and Rebellions"
+summary = "A book featuring a revolution. Any overthrowing of governments, monarchs, and systems will do."
+hard_mode = "Revolution/Rebellion is the main focus of the plot."
+
+[[data]]
+title = "Name in the Title"
+summary = "A character’s first or last name appears in the title. Example: Gideon the Ninth."
+hard_mode = "The title has the character’s first and last name. Example: The First Fifteen Lives of Harry August."
+
+[[data]]
+title = "Author Uses Initials"
+summary = "Read a book by an author who goes by their initials like N. K. Jemisin or uses initials somewhere in their name like George R. R. Martin."
+hard_mode = "Initials are a pseudonym and not from the author’s actual name. Examples: T. Kingfisher or K. J. Parker. ADDENDUM: Please do not go snooping to see if a name fits. If it isn't clear based on an author's webpage or social media, assume that it is their real name."
+
+[[data]]
+title = "Published in 2022"
+summary = "A book published for the first time in 2022 (no reprints or new editions)."
+hard_mode = "It's also a debut novel--as in it's the author's first published novel."
+
+[[data]]
+title = "Urban Fantasy"
+summary = "A subgenre of fantasy in which the narrative uses supernatural elements in a 19th-century to 21st-century urban society. Often overlaps with other subgenres like paranormal romance and superhero stories."
+hard_mode = "Book has an LGBTQ+ POV character."
+
+[[data]]
+title = "Set in Africa"
+summary = "Book must either be set in Africa like Rosewater by Tade Thompson or in an analogous setting that is based on a real-world African setting like Raybearer by Jordan Ifueko."
+hard_mode = "Author is of African heritage."
+
+[[data]]
+title = "Non-Human Protagonist"
+summary = "Main character must not be human or partially human. Humanoid aliens or anthropomorphic animals do count."
+hard_mode = "Non-humanoid protagonist. No elves, angels, dwarves, hobbits, or humanoid aliens."
+
+[[data]]
+title = "Wibbly Wobbly Timey Wimey"
+summary = "Any book that deals with time not behaving as it should. Time travel, time slips, time loops, time stopping, multiple timelines, etc., all work for this square."
+hard_mode = "No time travel. Book involves something off about time that’s not necessarily time travel. Example: In The Chronicles of Narnia, time moves at a different speed in Narnia than in the real world."
+
+[[data]]
+title = "Five SFF Short Stories"
+summary = "Any short story as long as there are five of them."
+hard_mode = "Read an entire SFF anthology or collection."
+
+[[data]]
+title = "Features Mental Health"
+summary = "Story takes a strong interest in or explores themes like mental wellness and illness, self-care, and so on. Learn more about the basics of mental health [here](https://www.cdc.gov/mentalhealth/learn/index.htm). Here is [a list](https://www.tor.com/2020/09/22/8-sff-books-that-center-mental-health/) of SFF books that center mental health to get you started."
+hard_mode = "Not The Stormlight Archive or any books in the linked list."
+
+[[data]]
+title = "Self-Published OR Indie Publisher"
+summary = "Self-published or published through a small, indie publisher. If the novel has been picked up by a publisher as long as you read it when it was self-pubbed it will still count."
+hard_mode = "Self-published and has fewer than 100 ratings on Goodreads, OR an indie publisher that has done an AMA with r/Fantasy."
+
+[[data]]
+title = "Award Finalist, But Not Won"
+summary = "Any book that was short-listed for an award (or multiple awards) but never received an award. You can check out [this list](http://www.isfdb.org/cgi-bin/award_directory.cgi) of SFF awards at ISFDB for inspiration."
+hard_mode = "Neither Hugo-nominated nor Nebula-nominated (check [this list](https://docs.google.com/spreadsheets/d/1K649Hvjwi4P6Ne9wNjJYFglWj0_KGp91ik2wYSH33Kk/edit?usp=sharing) for ineligible novels and novellas)."
+
+[[data]]
+title = "BIPOC Author"
+summary = "Author must be Black, Indigenous or a Person of Color."
+hard_mode = "A book written by an Indigenous author. Check out [this list](https://www.buzzfeednews.com/article/margaretkingsbury/native-american-heritage-month-book-recommendations) of Indigenous SFF books to get you started."
+
+[[data]]
+title = "Shapeshifters"
+summary = "At least one character has the ability to change their physical form."
+hard_mode = "Most prominent shifter is not a wolf/dog shifter. For instance, werewolves can exist but can’t be the most notable shifter characters/main characters."
+
+[[data]]
+title = "No Ifs, Ands, or Buts"
+summary = "Title does not include the following words: the, a/an, and, or, if, of, but."
+hard_mode = "Title is three words or more."
+
+[[data]]
+title = "Family Matters"
+summary = "A book that features biological family ties. Sisters, brothers, mothers, fathers, grandparents, and children – as long as the relationship plays a part, it’s welcome for this square."
+hard_mode = "Features at least three generations in a single family."
+
