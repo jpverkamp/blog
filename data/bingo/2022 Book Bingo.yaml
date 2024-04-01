@@ -1,34 +1,36 @@
-- 
-  - "A book on [r/Fantasy's Top LGBTQIA List](https://www.reddit.com/r/Fantasy/comments/ifmx04/rfantasys_2020_top_lgbtqa_books_voting_results/) (Hard: A book/series with ten votes or less)"
-  - "Weird Ecology (Hard: Not written by Jeff VanderMeer or China Miéville)"
-  - "Two or More Authors (Hard: Three or More)"
-  - "Historical SFF (Hard: Not based in Britain or Ireland)"
-  - "Set in Space (Hard: Characters not originally from Earth)"
+version: 1
+data:
+  - 
+    - "A book on [r/Fantasy's Top LGBTQIA List](https://www.reddit.com/r/Fantasy/comments/ifmx04/rfantasys_2020_top_lgbtqa_books_voting_results/) (Hard: A book/series with ten votes or less)"
+    - "Weird Ecology (Hard: Not written by Jeff VanderMeer or China Miéville)"
+    - "Two or More Authors (Hard: Three or More)"
+    - "Historical SFF (Hard: Not based in Britain or Ireland)"
+    - "Set in Space (Hard: Characters not originally from Earth)"
 
-- 
-  - "Standalone (Hard: not on [r/Fantasy's Favorite Standalones List](https://www.reddit.com/r/Fantasy/comments/e9ukxr/the_2019_rfantasy_favourite_standalones_poll/))"
-  - "Anti-Hero (Hard: YA)"
-  - "<strike>Book Club / Readalong (Hard: With participation)</strike><br><br>(2021) Found Family (Hard: Featuring an LGBTQ+ character)"
-  - "Cool Weapon (Hard: Weapon has a unique name)"
-  - "Revolutions and Rebellions (Hard: Main focus of the plot)"
+  - 
+    - "Standalone (Hard: not on [r/Fantasy's Favorite Standalones List](https://www.reddit.com/r/Fantasy/comments/e9ukxr/the_2019_rfantasy_favourite_standalones_poll/))"
+    - "Anti-Hero (Hard: YA)"
+    - "<strike>Book Club / Readalong (Hard: With participation)</strike><br><br>(2021) Found Family (Hard: Featuring an LGBTQ+ character)"
+    - "Cool Weapon (Hard: Weapon has a unique name)"
+    - "Revolutions and Rebellions (Hard: Main focus of the plot)"
 
-- 
-  - "Character's Name in the Title (Hard: Includes first and last name)"
-  - "Author Uses Initials (Hard: Initials are a pseudonym and not the author's actual name)"
-  - "Published in 2022 (Hard: Debut)"
-  - "Urban Fantasy (Hard: LGBTQ+ POV character)"
-  - "Set in Africa (Hard: Author is of African heritage)"
+  - 
+    - "Character's Name in the Title (Hard: Includes first and last name)"
+    - "Author Uses Initials (Hard: Initials are a pseudonym and not the author's actual name)"
+    - "Published in 2022 (Hard: Debut)"
+    - "Urban Fantasy (Hard: LGBTQ+ POV character)"
+    - "Set in Africa (Hard: Author is of African heritage)"
 
-- 
-  - "Non-Human Protagonist (Hard: Non-humanoid)"
-  - "Wibbly Wobbly Timey Wimey; time doesn't behave as it should (Hard: No time travel)"
-  - "Five SFF Short Stories (Hard: Entire collection)"
-  - "Features Mental Health (Hard: Not the Stormlight Archive or on [this list](https://www.tor.com/2020/09/22/8-sff-books-that-center-mental-health/))"
-  - "Self-Published OR Indie Publisher (Hard: Fewer than 100 ratings or with an AMA)"
+  - 
+    - "Non-Human Protagonist (Hard: Non-humanoid)"
+    - "Wibbly Wobbly Timey Wimey; time doesn't behave as it should (Hard: No time travel)"
+    - "Five SFF Short Stories (Hard: Entire collection)"
+    - "Features Mental Health (Hard: Not the Stormlight Archive or on [this list](https://www.tor.com/2020/09/22/8-sff-books-that-center-mental-health/))"
+    - "Self-Published OR Indie Publisher (Hard: Fewer than 100 ratings or with an AMA)"
 
-- 
-  - "Award Finalist, But Not Won (Hard: Neither Hugo- nor Nebula-nominated)"
-  - "BIPOC Author (Hard: Indigenous author)"
-  - "Shapeshifters (Hard: Most prominent shifter is not a were/dog shifter)"
-  - "No Ifs, Ands, or Buts; Title doesn't contain the, a/an, and, or, if, of, but (Hard: Title is three words or more)"
-  - "Family Matters (Hard: At least three generations)"
+  - 
+    - "Award Finalist, But Not Won (Hard: Neither Hugo- nor Nebula-nominated)"
+    - "BIPOC Author (Hard: Indigenous author)"
+    - "Shapeshifters (Hard: Most prominent shifter is not a were/dog shifter)"
+    - "No Ifs, Ands, or Buts; Title doesn't contain the, a/an, and, or, if, of, but (Hard: Title is three words or more)"
+    - "Family Matters (Hard: At least three generations)"

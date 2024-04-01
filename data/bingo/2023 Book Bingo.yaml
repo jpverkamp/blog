@@ -1,34 +1,36 @@
-- 
-  - "Title with a Title (Hard: Not a title of royalty)"
-  - "Superheroes (Hard: Not DC or Marvel)"
-  - "Bottom of the TBR (Hard: Always hard mode, this is hard enough)"
-  - "Magical Realism or Literary Fantasy ([examples](https://www.reddit.com/r/Fantasy/comments/4bhiua/proposed_magical_realism_recommendation_list/)) (Hard: Not from the examples)" 
-  - "Young Adult (Hard: Published in the last 5 years)"
+version: 1
+data:
+  - 
+    - "Title with a Title (Hard: Not a title of royalty)"
+    - "Superheroes (Hard: Not DC or Marvel)"
+    - "Bottom of the TBR (Hard: Always hard mode, this is hard enough)"
+    - "Magical Realism or Literary Fantasy ([examples](https://www.reddit.com/r/Fantasy/comments/4bhiua/proposed_magical_realism_recommendation_list/)) (Hard: Not from the examples)" 
+    - "Young Adult (Hard: Published in the last 5 years)"
 
-- 
-  - "Mundane Jobs (Hard: Does not take place on Earth)"
-  - "Published in the 00s (Hard: Not top 30 on the [Best of 2023 list](https://www.reddit.com/r/Fantasy/comments/11mvwsa/rfantasy_top_novels_2023_results/))"
-  - "Angels and Demons (Hard: Angel or demon protagonist)"
-  - "Five SFF Shorts (Hard: An entire anthology)"
-  - "Horror (Hard: Not Stephen King or H.P. Lovecraft)"
+  - 
+    - "Mundane Jobs (Hard: Does not take place on Earth)"
+    - "Published in the 00s (Hard: Not top 30 on the [Best of 2023 list](https://www.reddit.com/r/Fantasy/comments/11mvwsa/rfantasy_top_novels_2023_results/))"
+    - "Angels and Demons (Hard: Angel or demon protagonist)"
+    - "Five SFF Shorts (Hard: An entire anthology)"
+    - "Horror (Hard: Not Stephen King or H.P. Lovecraft)"
 
-- 
-  - "Self-Published / Indie Publisher (Hard: Fewer than 100 ratings or an AMA)"
-  - "Set in the Middle East / Middle Eastern SFF (Hard: Author of Middle Eastern heritage)"
-  - "Published in 2023 (Hard: Debut)"
-  - "Multiverse and Alternate Realities (Hard: Travel is not through a literal door)"
-  - "POC Author (Hard: In a futuristic, sci-fi world)"
+  - 
+    - "Self-Published / Indie Publisher (Hard: Fewer than 100 ratings or an AMA)"
+    - "Set in the Middle East / Middle Eastern SFF (Hard: Author of Middle Eastern heritage)"
+    - "Published in 2023 (Hard: Debut)"
+    - "Multiverse and Alternate Realities (Hard: Travel is not through a literal door)"
+    - "POC Author (Hard: In a futuristic, sci-fi world)"
 
-- 
-  - "<strike>Book Club / Readalong (Hard: With participation)</strike><br><br>Set in Space (Hard: Characters not originally from Earth)"
-  - "Novella (Hard: Not published by Tordotcom)"
-  - "Mythical Beasts (Hard: No dragons or dragon-like creatures)"
-  - "Elemental Magic (Hard: Not *Shades of Magic* or *Codex Alera*)"
-  - "Myths and Retellings (Hard: Not Greek or Roman)"
+  - 
+    - "<strike>Book Club / Readalong (Hard: With participation)</strike><br><br>Set in Space (Hard: Characters not originally from Earth)"
+    - "Novella (Hard: Not published by Tordotcom)"
+    - "Mythical Beasts (Hard: No dragons or dragon-like creatures)"
+    - "Elemental Magic (Hard: Not *Shades of Magic* or *Codex Alera*)"
+    - "Myths and Retellings (Hard: Not Greek or Roman)"
 
-- 
-  - "Queernorm Setting (Hard: Not futuristic)"
-  - "Coastal or Island Setting (Hard: Features sea-faring)"
-  - "Druids (Hard: Not the *Iron Druid Chronicles*)"
-  - "Featuring Robots (Hard: Robot protagonist)"
-  - "Sequel (Hard: Book 3+)"
+  - 
+    - "Queernorm Setting (Hard: Not futuristic)"
+    - "Coastal or Island Setting (Hard: Features sea-faring)"
+    - "Druids (Hard: Not the *Iron Druid Chronicles*)"
+    - "Featuring Robots (Hard: Robot protagonist)"
+    - "Sequel (Hard: Book 3+)"

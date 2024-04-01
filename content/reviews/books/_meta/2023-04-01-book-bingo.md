@@ -7,7 +7,7 @@ reviews/lists:
 - r/Fantasy Book Bingo
 is_review_meta: true
 ---
-Two years down ([[2021 Book Bingo|2021]](), [[2022 Book Bingo|2022]]()) and yet another one to go!
+Two years down [2021]({{< ref "2021-04-01-book-bingo" >}}), [2022]({{< ref "2022-04-01-book-bingo" >}}) and yet another one to go!
 
 Much more breathing room last year than the year before (two weeks!) and I've already been reading more this year, so I'm confident. Let's do it. 
 

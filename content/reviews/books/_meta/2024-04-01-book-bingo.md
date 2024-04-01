@@ -11,9 +11,9 @@ Let's do it again!
 
 Previous years:
 
-* [[2021 Book Bingo|2021]]()
-* [[2022 Book Bingo|2022]]()
-* [[2023 Book Bingo|2022]]()
+* [2023 Book Bingo]({{< ref "2023-04-01-book-bingo" >}})
+* [2022 Book Bingo]({{< ref "2022-04-01-book-bingo" >}})
+* [2021 Book Bingo]({{< ref "2021-04-01-book-bingo" >}})
 
 If anyone I know wants to read along on any of these, drop me a line. Love to chat about books! :smile: 
 

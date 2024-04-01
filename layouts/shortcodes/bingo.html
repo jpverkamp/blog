@@ -1,54 +1,63 @@
 {{- $title := .Get 0 -}}
 {{- $slug := $title | urlize }}
 {{- $data := index $.Site.Data.bingo $title -}}
-{{- /* force rebuild nonce: 1 */ -}}
+{{- $version := index $data "version" -}}
 
-<h1>{{ $title }}</h1>
+{{- if eq $version 1 -}}
+    {{- $data := index $data "data" -}}
+    {{- /* force rebuild nonce: 1 */ -}}
 
-<button class="bingo-toggle">Toggle Display Mode</button>
+    <h1>{{ $title }}</h1>
+    <button class="bingo-toggle">Toggle Display Mode</button>
 
-<table class="bingo">
-    {{- range $row := seq 0 4 -}}
-    <tr>
-        {{- range $col := seq 0 4 -}}
-        <td>
-            {{- $index := (printf "%dx%d" (add 1 $row) (add 1 $col) )}}
-            {{- $indexHard := (printf "%dx%d+" (add 1 $row) (add 1 $col) )}}
-            {{- $title := index $data $row $col }}
+    <table class="bingo">
+        {{- range $row := seq 0 4 -}}
+        <tr>
+            {{- range $col := seq 0 4 -}}
+            <td>
+                {{- $index := (printf "%dx%d" (add 1 $row) (add 1 $col) )}}
+                {{- $indexHard := (printf "%dx%d+" (add 1 $row) (add 1 $col) )}}
+                {{- $title := index $data $row $col }}
 
-            {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
-            {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
-            {{- if (or (in $squares $index) (in $squares $indexHard)) -}}
-            <a href="{{ $page.Permalink }}">
-                <figure class="
-                    {{- if in $squares $indexHard -}}hard-mode{{- end -}}
-                    ">
-                    {{ if isset .Params "cover" }}
-                    <img src="{{ .Params.cover }}">
-                    {{ else }}
-                    {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
-                    {{ end }} 
-                        <figcaption>
-                            {{ .Title }}
-                        </figcaption>
-                </figure>
-            </a>
-            {{- with index .Params "reviews/authors" -}}
-            <p>
-                {{- $last := sub (len .) 1 -}}
-                by {{ range $i, $e := . }}
-                    <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
-                    {{- if (lt $i $last) -}}, {{- end -}}
+                {{- range $page := index $.Site.Taxonomies "bingo" $slug -}}
+                {{- $squares := index $page.Params "bingo-data" (replace $slug "-" " ") -}}
+                {{- if (or (in $squares $index) (in $squares $indexHard)) -}}
+                <a href="{{ $page.Permalink }}">
+                    <figure class="
+                        {{- if in $squares $indexHard -}}hard-mode{{- end -}}
+                        ">
+                        {{ if isset .Params "cover" }}
+                        <img src="{{ .Params.cover }}">
+                        {{ else }}
+                        {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
+                        {{ end }} 
+                            <figcaption>
+                                {{ .Title }}
+                            </figcaption>
+                    </figure>
+                </a>
+                {{- with index .Params "reviews/authors" -}}
+                <p>
+                    {{- $last := sub (len .) 1 -}}
+                    by {{ range $i, $e := . }}
+                        <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
+                        {{- if (lt $i $last) -}}, {{- end -}}
+                    {{- end -}}
+                </p>
                 {{- end -}}
-            </p>
+                {{- if in $squares $indexHard -}}<hr><p>Hard Mode ✓</p>{{- end -}}
+                <hr>
+                {{- end -}}
+                {{- end -}}
+                <p>{{ $title | markdownify }}</p>
+            </td>
             {{- end -}}
-            {{- if in $squares $indexHard -}}<hr><p>Hard Mode ✓</p>{{- end -}}
-            <hr>
-            {{- end -}}
-            {{- end -}}
-            <p>{{ $title | markdownify }}</p>
-        </td>
+        </tr>
         {{- end -}}
-    </tr>
-    {{- end -}}
-</table>
+    </table>
+{{- else if eq $version 2 -}}
+Version 2!
+
+{{- else -}}
+{{- errorf "Unknown bingo data version" -}}
+{{- end -}}
