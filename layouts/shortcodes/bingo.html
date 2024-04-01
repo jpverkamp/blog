@@ -119,6 +119,15 @@
         </tr>
         {{- end -}}
     </table>
+
+    <h3>Full categories</h3>
+    <ul>
+        {{- range $square := $data -}}
+        <li>
+            {{ index $square "title" }}: {{ index $square "summary" | markdownify }} (Hard Mode: {{ index $square "hard_mode" | markdownify }})
+        </li>
+        {{- end -}}
+    </ul>
 {{- else -}}
 {{- errorf "Unknown bingo data version" -}}
 {{- end -}}
