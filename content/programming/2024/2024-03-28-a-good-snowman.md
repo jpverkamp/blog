@@ -1,6 +1,6 @@
 ---
 title: "A Good Snowman Is Hard To ... Solve?"
-date: 2024-04-28
+date: 2024-03-28
 programming/languages:
 - Rust
 programming/topics:
@@ -8,7 +8,7 @@ programming/topics:
 - Backtracking
 - Generators
 - Puzzles
-- Sudoku
+- Sokoban
 series:
 - Rust Solvers
 ---
