@@ -45,8 +45,17 @@ while True:
     # Otherwise, use the HTML based search
     # I haven't found a graphql search yet
     else:
-        response = requests.get(urllib.parse.urljoin(GOODREADS, '/search'), params={'q': title})
+        response = requests.get(
+            urllib.parse.urljoin(GOODREADS, "/search"),
+            params={"q": title},
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+            },
+        )
         soup = bs4.BeautifulSoup(response.text, features='html.parser')
+
+        with open("/tmp/review-book.html", "w") as f:
+            f.write(soup.prettify())
 
         urls = []
         for i, el in enumerate(soup.select('a.bookTitle'), 1):
