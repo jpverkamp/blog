@@ -25,7 +25,7 @@ Overall, it's a pretty solid follow up, taking the relatively constrained world 
 
 It is interesting how a large part of the book is centered around Anden in Espenia. Away from home, without Jade, but finding parts of his people are here as well. And finding love, or at least something that could be love one day.  
 
-I think my biggest problem with the story is that in the end, despite deaths and conflict and hundreds of pages... nothing actually changed in the grand scheme of things. It's something of a problem for second books and it's not the worst thing that could happen, but it is more annoying when the third book ([[todo:Jade Legacy]]()) isn't out yet. So it goes.  
+I think my biggest problem with the story is that in the end, despite deaths and conflict and hundreds of pages... nothing actually changed in the grand scheme of things. It's something of a problem for second books and it's not the worst thing that could happen, but it is more annoying when the third book ([[Jade Legacy]]()) isn't out yet. So it goes.  
 
 Random note, this chapter title amused me to no end:  
 

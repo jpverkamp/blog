@@ -16,8 +16,7 @@ bingo:
 - 2024 Book Bingo
 bingo-data:
   2024 Book Bingo:
-  - 1x4
-  - 2x4+
+# - 1x4
   - 3x4+
 ---
 > “You'd think it would be easier to face death as you get older, but it doesn't work that way. You get more attached to life, to people you love and things that are worth living for.” 

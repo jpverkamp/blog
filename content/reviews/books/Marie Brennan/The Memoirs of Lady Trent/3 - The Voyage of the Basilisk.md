@@ -1,6 +1,6 @@
 ---
 cover: /embeds/books/the-voyage-of-the-basilisk.jpg
-date: '2024-04-07'
+date: '2024-04-07 02:00:00'
 goodreads_id: 21893608
 rating: 5
 reviews/authors:
@@ -17,8 +17,8 @@ bingo:
 bingo-data:
   2024 Book Bingo:
   - 2x1+
-  - 4x4+
-  - 1x3
+# - 4x4+
+# - 1x3
 ---
 The third book of [[The Memoirs of Lady Trent]]. First she went to studing dragons in rocky mountanious islands--and almost died. And then she spent some time studying river dragons deep in the jungle--and almost died. 
 
