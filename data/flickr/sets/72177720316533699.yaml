@@ -1,0 +1,31 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 10
+count_videos: 0
+count_views: '0'
+date_create: '1714192194'
+date_update: '1714192267'
+description: A work trip to San Francisco and everything is already blooming. I got
+  a chance to walk around the city so of course I took it.
+farm: 66
+id: '72177720316533699'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '53681604894'
+- '53680380397'
+- '53681697995'
+- '53681467028'
+- '53681237946'
+- '53681237821'
+- '53681605039'
+- '53681237676'
+- '53681237741'
+- '53681605124'
+primary: '53681604894'
+secret: 1f90d6e2e3
+server: '65535'
+title: Flower in SF
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
