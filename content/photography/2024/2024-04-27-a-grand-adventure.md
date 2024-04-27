@@ -1,5 +1,5 @@
 ---
-title: "Going West"
+title: "A Grand Adventure"
 date: 2024-04-27 00:29:54
 photography/types:
 - Flickr Album
