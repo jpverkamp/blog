@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-quantum-war.jpg
 date: '2024-04-20'
-draft: true
 goodreads_id: 56897863
-rating: -1
+rating: 4
 reviews/authors:
 - "Derek Künsken"
 reviews/lists:
