@@ -1,7 +1,7 @@
 ---
-title: "For All Mankind"
+title: "For All Mankind: Season 1"
 date: 2024-01-16
-cover: /embeds/tv/for-all-mankind.jpg
+cover: /embeds/tv/for-all-mankind-season-1.jpg
 reviews/lists:
 - 2024 TV Reviews
 imdb_id: '7772588'
