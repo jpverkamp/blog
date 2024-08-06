@@ -1,9 +1,9 @@
 ---
 title: "Doctor Who: Season 1"
-date: 2025-08-02
+date: 2024-08-02
 cover: /embeds/tv/doctor-who-season-1.jpg
 reviews/lists:
-- 2025 TV Reviews
+- 2024 TV Reviews
 imdb_id: '0436992'
 reviews/series:
 - Doctor Who

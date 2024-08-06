@@ -9,7 +9,6 @@ reviews/lists:
 - 2024 Book Reviews
 reviews/series:
 - Spider-Man 2099 Classic
-- Spider-Man
 series_index:
 - 1
 title: Spider-Man 2099 Classic, Vol. 1

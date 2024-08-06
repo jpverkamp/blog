@@ -2,6 +2,12 @@
 title: "Spider-Man: Across the Spider-Verse"
 date: 2024-05-30
 cover: /embeds/movies/spider-man-across-the-spider-verse.jpg
+reviews/series:
+- Spider-Verse
+- Spider-Man
+source:
+- Theater
+series_index: [2, 0]
 reviews/lists:
 - 2024 Movie Reviews
 imdb_id: '9362722'
