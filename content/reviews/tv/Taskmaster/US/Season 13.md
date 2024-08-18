@@ -5,7 +5,10 @@ reviews/lists:
 - 2024 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [13]
+- Taskmaster (All)
+series_index:
+- 13
+- 2022.04
 cover: /embeds/tv/taskmaster-series-13.png
 ---
 > No way. 

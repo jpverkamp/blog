@@ -5,7 +5,10 @@ reviews/lists:
 - 2021 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [12]
+- Taskmaster (All)
+series_index: 
+- 12
+- 2021.09
 cover: /embeds/tv/taskmaster-series-12.jpg
 ---
 Oh, that's quite a cast.

@@ -5,7 +5,10 @@ reviews/lists:
 - 2024 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [15]
+- Taskmaster (All)
+series_index:
+- 15
+- 2023.03
 cover: /embeds/tv/taskmaster-series-15.png
 ---
 We're almost caught up to the present day! And what a crew to catch up on. 

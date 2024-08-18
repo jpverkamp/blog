@@ -5,7 +5,10 @@ reviews/lists:
 - 2021 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [5]
+- Taskmaster (All)
+series_index: 
+- 5
+- 2017.09
 source:
 - YouTube
 cover: /embeds/tv/taskmaster-series-5.jpg

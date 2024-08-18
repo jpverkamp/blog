@@ -5,7 +5,10 @@ reviews/lists:
 - 2024 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [14]
+- Taskmaster (All)
+series_index:
+- 14
+- 2022.09
 cover: /embeds/tv/taskmaster-series-14.png
 ---
 That's such a delight of a season, mostly due to Fern Brady, although I enjoyed the entire cast. 

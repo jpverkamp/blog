@@ -5,7 +5,10 @@ reviews/lists:
 - 2023 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [11]
+- Taskmaster (All)
+series_index: 
+- 11
+- 2021.03
 cover: /embeds/tv/taskmaster-series-11.jpg
 ---
 Catching up / almost back to watching these in order! I'm pretty sure I'd watched this season before, but not reviewed it, so here you go.

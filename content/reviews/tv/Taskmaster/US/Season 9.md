@@ -5,7 +5,10 @@ reviews/lists:
 - 2021 TV Reviews
 reviews/series:
 - Taskmaster
-series_index: [9]
+- Taskmaster (All)
+series_index:
+- 9
+- 2019.09
 cover: /embeds/tv/taskmaster-series-9.jpg
 ---
 A great season! I loved all of the people on here. I was writing up my favorite and ... I just couldn't do it. They're all a lot of fun. 
