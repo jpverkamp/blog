@@ -16,7 +16,7 @@ bingo-data:
 ---
 > We are of opinion that instead of letting books grow moldy behind an iron grating, far from the vulgar gaze, it is better to let them wear out by being read.
 
-This year [[Book Bingo 2024|book bingo]]() has a 'Underground' category--and I've been meaning to actually go back and read more Verne. Seemed like a great chance to check out Journey to the Center of the Earth!
+This year [[2024 Book Bingo|book bingo]]() has a 'Underground' category--and I've been meaning to actually go back and read more Verne. Seemed like a great chance to check out Journey to the Center of the Earth!
 
 In a nutshell, it's a quintessential Jules Verne adventure. A student and professor find an old manuscript purporting to describe a path to the very center of the Earth... and off they go to Snæfellsjökull (Icelandic is such a lovely language) and down into the Earth. 
 
