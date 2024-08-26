@@ -8,6 +8,11 @@ reviews/authors:
 reviews/lists:
 - 2024 Book Reviews
 title: Jonathan Strange & Mr Norrell
+bingo:
+- 2024 Book Bingo
+bingo-data:
+  2024 Book Bingo:
+  - 3x2+
 ---
 That one has been on my list for years now. It's just got such a *fun* title! 
 
