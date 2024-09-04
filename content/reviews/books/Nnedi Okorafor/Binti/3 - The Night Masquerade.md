@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-night-masquerade.jpg
 date: '2024-08-24'
-draft: true
 goodreads_id: 34386617
-rating: -1
+rating: 4
 reviews/authors:
 - Nnedi Okorafor
 reviews/lists:
