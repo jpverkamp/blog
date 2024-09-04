@@ -1,7 +1,6 @@
 ---
 title: "CodeCrafters: Build Myself an Interpreter"
 date: 2024-09-04
-draft: true
 programming/languages:
 - Rust
 programming/topics:
