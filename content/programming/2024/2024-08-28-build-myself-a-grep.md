@@ -1,7 +1,6 @@
 ---
 title: "CodeCrafters: Build Myself a Grep"
 date: 2024-08-28
-draft: true
 programming/languages:
 - Rust
 programming/topics:
@@ -34,6 +33,8 @@ In a nutshell, the project on CodeCrafters (as of this writing), takes you throu
 There's also currently one advanced module: backreferences. This includes single, multiple, and nested backreferences. 
 
 It's a pretty interesting (if not at all complete) selection. Here's what I ended up with as a solution for the first parts: [jp-grep](https://github.com/jpverkamp/jp-grep). I'm just going to go through the most recent version of the code, but you can go through the repo [history](https://github.com/jpverkamp/jp-grep/commits/main/) to see it at previous points. 
+
+{{<toc>}}
 
 ## Representing a regex
 
