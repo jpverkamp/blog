@@ -9,6 +9,8 @@ programming/topics:
 - Generators
 - Puzzles
 - Pathfinding
+aliases:
+- /2024/09/02/solving-cosmic-encounter/
 series:
 - Rust Solvers
 ---
