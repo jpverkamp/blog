@@ -1,6 +1,6 @@
 ---
 title: "Flower in SF"
-date: 2024-03-07 00:29:54
+date: 2024-03-07 00:00:00
 photography/types:
 - Flickr Album
 generated: true

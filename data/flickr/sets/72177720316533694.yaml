@@ -2,9 +2,9 @@ can_comment: 0
 count_comments: '0'
 count_photos: 99
 count_videos: 0
-count_views: '0'
+count_views: '2'
 date_create: '1714192194'
-date_update: '1714192268'
+date_update: '1714194135'
 description: Taking 4 kids and 3 grandparents out West. To Yosemite and then the Bay
   Area for a week and a half. Beautiful as always and great fun for all.
 farm: 66
@@ -114,7 +114,8 @@ photos:
 primary: '53680379752'
 secret: 9c4572c0c7
 server: '65535'
-title: Going West
+sorting_option_id: manual-add-to-end
+title: A Grand Adventure
 username: jpverkamp
 videos: 0
 visibility_can_see_set: 1
