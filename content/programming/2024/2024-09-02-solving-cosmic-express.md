@@ -1,5 +1,5 @@
 ---
-title: "Solving Cosmic Encounter"
+title: "Solving Cosmic Express"
 date: 2024-09-02
 programming/languages:
 - Rust
