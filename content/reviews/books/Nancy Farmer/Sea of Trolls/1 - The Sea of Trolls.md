@@ -47,4 +47,6 @@ I've absolutely no idea if it's particularly historically accurate (barring the 
 
 Side note: Great fun for an audiobook, lightly accented. Just enough to get into the feel of the book all the more!
 
+Second side note: I totally caught the {{<spoiler>}}Jack and Jill{{</spoiler>}} reference from when we first learned her birth name. But man. Them just outright using that as an in universe poem was fun. 
+
 <!--more-->

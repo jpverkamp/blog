@@ -14,36 +14,36 @@ series:
 ---
 ### Source: [Fractal Art](http://adventofcode.com/2017/day/21)
 
-> **Part 1:** Start with an input image made of `.` and `#` pixels. For `n` iterations, break the image into blocks:
-
-> - If the current size is even, break the image into 2x2 chunks and replace each with a 3x3 chunk
-> - If the current size is odd, break the image into 3x3 chunks and replace each with a 4x4 chunk
-
-> The replacement rules will be specified in the following format (example is a 3x3 -> 4x4 rule):
-
-> ```
-.#./..#/### => #..#/..../..../#..#
-```
-
+> **Part 1:** Start with an input image made of `.` and `#` pixels. For `n` iterations, break the image into blocks:  
+>   
+> - If the current size is even, break the image into 2x2 chunks and replace each with a 3x3 chunk  
+> - If the current size is odd, break the image into 3x3 chunks and replace each with a 4x4 chunk  
+>   
+> The replacement rules will be specified in the following format (example is a 3x3 -> 4x4 rule):  
+>   
+>    ```  
+>    .#./..#/### => #..#/..../..../#..#  
+>    ```  
+>
 > In that example, replace this:
-
-> ```
-.#.
-..#
-###
-```
-
+>
+>   ```
+>   .#.
+>   ..#
+>   ###
+>   ```
+>
 > With this:
-
-> ```
-#..#
-....
-....
-#..#
-```
-
+>
+>    ```
+>    #..#
+>    ....
+>    ....
+>    #..#
+>    ```
+>
 > Any rotation or reflection of a chunk can be used to match the input of a replacement rule.
-
+>
 > After `n = 18` iterations, how many `#` pixels are there?
 
 <!--more-->
