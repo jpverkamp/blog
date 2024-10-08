@@ -11,6 +11,7 @@ programming/topics:
 - Games
 - Falling Sand
 series:
+- Ludum Dare 
 - Ludum Dare 30
 ---
 We're getting there. 18 hours in and I have the first hints of what might actually be a game...

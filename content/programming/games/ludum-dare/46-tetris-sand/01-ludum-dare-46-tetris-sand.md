@@ -10,6 +10,7 @@ programming/topics:
 - Cellular Automata
 - Games
 series:
+- Ludum Dare
 - Ludum Dare 46
 ---
 It's [been a while]({{< ref "2014-08-24-sandbox-battle.md" >}}) since I've last done a [Ludum Dare](https://ldjam.com/). I felt the itch though, so let's do it again. 

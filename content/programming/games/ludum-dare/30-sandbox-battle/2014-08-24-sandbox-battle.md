@@ -10,6 +10,9 @@ programming/topics:
 - Cellular Automata
 - Games
 - Falling Sand
+series:
+- Ludum Dare 
+- Ludum Dare 30
 ---
 {{< figure src="/embeds/2014/title.png" >}}
 

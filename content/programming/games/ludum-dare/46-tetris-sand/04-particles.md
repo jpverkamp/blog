@@ -10,6 +10,7 @@ programming/topics:
 - Cellular Automata
 - Games
 series:
+- Ludum Dare
 - Ludum Dare 46
 ---
 I've got particles working!

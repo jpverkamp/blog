@@ -9,6 +9,9 @@ programming/sources:
 programming/topics:
 - Games
 - Vectors
+series:
+- Ludum Dare
+- Ludum Dare 26
 ---
 So when I got home, I decided that I really didn't want to miss another Ludum Dare. Granted, there was only about two hours left in the competition. I'm good, but I'm not that good. :smile:
 

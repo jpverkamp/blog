@@ -11,6 +11,7 @@ programming/topics:
 - Games
 - Falling Sand
 series:
+- Ludum Dare 
 - Ludum Dare 30
 ---
 A few hours later and we've already finished (or at least made good progress on) two of the goals that I was hoping for:

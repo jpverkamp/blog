@@ -8,6 +8,9 @@ programming/sources:
 programming/topics:
 - Games
 - Vectors
+series:
+- Ludum Dare
+- Ludum Dare 26
 ---
 The voting period for Ludum Dare 26 has ended, which means that now we have <a title="Ludum Dare 26 Results" href="http://www.ludumdare.com/compo/2013/05/20/ludum-dare-26-results/">some results</a>! Before I post my own, take a moment to check out the overall leaders. Given that there were *2346* games submitted (1610 in the compo and 736 in the jam), there are bound to be some real gems in there.
 

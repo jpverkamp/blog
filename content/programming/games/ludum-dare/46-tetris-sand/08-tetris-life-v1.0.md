@@ -11,6 +11,7 @@ programming/topics:
 - Physics
 - Games
 series:
+- Ludum Dare
 - Ludum Dare 46
 ---
 <iframe width="320" height="640" style="border: 1px solid black;" src="/embeds/games/ludum-dare/46/v1.0/launcher.html"></iframe>
