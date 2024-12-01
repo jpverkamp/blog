@@ -8,11 +8,11 @@ reviews/authors:
 reviews/lists:
 - 2024 Book Reviews
 reviews/series:
+- Spider-Gwen (2015)
 - Spider-Gwen
-- Spider-Gwen (2015B)
 series_index:
 - 3
-- '14-15, Annual #1'
+- 0
 title: 'Spider-Gwen, Vol. 3: Long-Distance'
 ---
 
