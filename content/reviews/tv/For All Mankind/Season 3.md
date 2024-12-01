@@ -9,7 +9,7 @@ reviews/series:
 - For All Mankind
 reviews/writers:
 - Ronald D. Moore
-reviews/year: 2021
+reviews/year: 2022
 series_index:
 - 3
 ---
