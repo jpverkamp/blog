@@ -40,7 +40,7 @@ series_index:
 ---
 **language warning** (duh?)
 
-Oh hey, [[todo:Deadpool & Wolverine]]() is out on streaming (and it's been a *while* since I reviewed or even watched a movie). Let's rewatch these!
+Oh hey, [[Deadpool & Wolverine]]() is out on streaming (and it's been a *while* since I reviewed or even watched a movie). Let's rewatch these!
 
 > From the studio that inexplicably sewed his fucking mouth shut the first time comes five-time Academy Award viewer, Ryan Reynolds in an eHarmony date with destiny. Ladies and gentlemen, I give you... me! Deadpool.
 
