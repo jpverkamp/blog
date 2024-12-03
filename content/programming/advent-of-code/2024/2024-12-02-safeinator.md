@@ -238,36 +238,13 @@ So, how do both versions perform with a full benchmark run?
 ```bash
 $ cargo aoc bench --day 2
 
-Benchmarking Day2 - Part1/initial: Collecting 100 samples in estimated 5.5021 s Day2 - Part1/initial    time:   [120.51 µs 120.73 µs 120.96 µs]
-                        change: [-0.0749% +0.3389% +0.7582%] (p = 0.11 > 0.05)
-                        No change in performance detected.
-Found 5 outliers among 100 measurements (5.00%)
-  3 (3.00%) low mild
-  2 (2.00%) high mild
-
-Benchmarking Day2 - Part1/iterator: Collecting 100 samples in estimated 5.4904 sDay2 - Part1/iterator   time:   [120.35 µs 121.58 µs 123.96 µs]
-                        change: [+0.4946% +1.4258% +2.7944%] (p = 0.01 < 0.05)
-                        Change within noise threshold.
-Found 3 outliers among 100 measurements (3.00%)
-  2 (2.00%) high mild
-  1 (1.00%) high severe
-
-Benchmarking Day2 - Part2/initial: Collecting 100 samples in estimated 5.7159 s Day2 - Part2/initial    time:   [279.26 µs 279.78 µs 280.34 µs]
-                        change: [+1.6753% +2.3699% +3.0701%] (p = 0.00 < 0.05)
-                        Performance has regressed.
-Found 3 outliers among 100 measurements (3.00%)
-  1 (1.00%) low mild
-  2 (2.00%) high mild
-
-Benchmarking Day2 - Part2/iterator: Collecting 100 samples in estimated 5.8043 sDay2 - Part2/iterator   time:   [163.52 µs 164.28 µs 165.29 µs]
-                        change: [-2.9062% -0.0046% +2.4325%] (p = 1.00 > 0.05)
-                        No change in performance detected.
-Found 10 outliers among 100 measurements (10.00%)
-  3 (3.00%) high mild
-  7 (7.00%) high severe
+Day2 - Part1/initial    time:   [120.00 µs 120.36 µs 120.75 µs]
+Day2 - Part1/iterator   time:   [120.22 µs 120.52 µs 120.85 µs]
+Day2 - Part2/initial    time:   [277.14 µs 277.99 µs 278.82 µs]
+Day2 - Part2/iterator   time:   [160.85 µs 161.30 µs 161.78 µs]
 ```
 
-See? This time, `Part1/iterator` is actually slightly slower. It varies. 
+See? This time, `Part1/iterator` is actually *slightly* slower. It varies. 
 
 But still. Pretty quick. :smile:
 

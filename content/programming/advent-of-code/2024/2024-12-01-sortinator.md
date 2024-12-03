@@ -135,15 +135,5 @@ Day 1 - Part 2 - i32 : 21328497
 $ cargo aoc bench --day 1
 
 Day1 - Part1/i32        time:   [11.425 µs 11.542 µs 11.652 µs]
-                        change: [+3.3222% +3.9587% +4.6305%] (p = 0.00 < 0.05)
-                        Performance has regressed.
-Found 7 outliers among 100 measurements (7.00%)
-  7 (7.00%) high mild
-
 Day1 - Part2/i32        time:   [39.095 µs 39.379 µs 39.701 µs]
-                        change: [+2.4526% +2.9211% +3.4246%] (p = 0.00 < 0.05)
-                        Performance has regressed.
-Found 4 outliers among 100 measurements (4.00%)
-  1 (1.00%) high mild
-  3 (3.00%) high severe
 ```
