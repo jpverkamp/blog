@@ -27,6 +27,7 @@ series:
 Fair enough. First, we'll parse:
 
 ```rust
+#[aoc_generator(day2)]
 fn parse(input: &str) -> Vec<Vec<i32>> {
     input
         .lines()
@@ -61,8 +62,7 @@ Okay, we have that, check if all the given lists are `safe`:
 
 ```rust
 #[aoc(day2, part1, initial)]
-pub fn part1_initial(input: &str) -> usize {
-    let input = parse(input);
+fn part1_initial(input: &[Vec<i32>]) -> usize {
     input.iter().filter(|report| safe(report)).count()
 }
 ```
@@ -74,8 +74,8 @@ $ cargo aoc --day 2 --part 1
 
 AOC 2024
 Day 2 - Part 1 - initial : 432
-	generator: 125ns,
-	runner: 134.459µs
+	generator: 112.208µs,
+	runner: 14.834µs
 ```
 
 Nice!
@@ -88,8 +88,7 @@ Okay, this one is actually more interesting that you'd expect to do more quickly
 
 ```rust
 #[aoc(day2, part2, initial)]
-pub fn part2_initial(input: &str) -> usize {
-    let input = parse(input);
+fn part2_initial(input: &[Vec<i32>]) -> usize {
     input
         .iter()
         .filter(|report| {
@@ -115,11 +114,11 @@ $ cargo aoc --day 2 --part 2
 
 AOC 2024
 Day 2 - Part 2 - initial : 488
-	generator: 42ns,
-	runner: 293.333µs
+	generator: 96µs,
+	runner: 164.75µs
 ```
 
-But... despite the fact that it's already running in ~300µs (which really is plenty fast), we can do better.
+But... despite the fact that it's already running in ~250µs (including parsing; and that's really plenty fast), we can do better.
 
 ## Optimization 1: Don't clone `vec`
 
@@ -159,8 +158,7 @@ How do we actually use that?
 
 ```rust
 #[aoc(day2, part1, iterator)]
-pub fn part1(input: &str) -> usize {
-    let input = parse(input);
+fn part1_iter(input: &[Vec<i32>]) -> usize {
     input
         .iter()
         .filter(|report| safe_iter(report.iter()))
@@ -168,8 +166,7 @@ pub fn part1(input: &str) -> usize {
 }
 
 #[aoc(day2, part2, iterator)]
-pub fn part2(input: &str) -> usize {
-    let input = parse(input);
+fn part2_iter(input: &[Vec<i32>]) -> usize {
     input
         .iter()
         .filter(|report| {
@@ -187,15 +184,15 @@ $ cargo aoc --day 2 --part 1
 
 AOC 2024
 Day 2 - Part 1 - initial : 432
-	generator: 125ns,
-	runner: 134.459µs
+	generator: 112.208µs,
+	runner: 14.834µs
 
 Day 2 - Part 1 - iterator : 432
-	generator: 83ns,
-	runner: 134.042µs
+	generator: 96.916µs,
+	runner: 14.542µs
 ```
 
-Less than 1µs in runtime. It's actually *slightly* faster in general, although I expect it's mostly noise. 
+Less than 1µs improvement runtime. Noise really for the change in generator (I didn't touch that). It's actually *slightly* faster in general, although I expect it's mostly noise. 
 
 `part2` is a bit weirder, since we want to create a new `iter` that skips an element:
 
@@ -217,15 +214,15 @@ $ cargo aoc --day 2 --part 2
 
 AOC 2024
 Day 2 - Part 2 - initial : 488
-	generator: 42ns,
-	runner: 293.333µs
+	generator: 96µs,
+	runner: 164.75µs
 
 Day 2 - Part 2 - iterator : 488
-	generator: 42ns,
-	runner: 199.5µs
+	generator: 95.917µs,
+	runner: 83.916µs
 ```
 
-Yup. Roughly 1/3 faster! (It varies between 1/2 and 1/3).
+Yup. Roughly 2x faster! (It varies between 1.5x and 2x).
 
 And I don't *think* it's actually that much less readable. Personally, I think that's the line for me. You can *certainly* get this code to run more quickly by skipping out on various overhead (for example, input values always seem to be 1-100, so we could probably speed up parsing a decent bit). But I'm okay with wicked fast and still fairly general/readable. 
 
@@ -238,10 +235,10 @@ So, how do both versions perform with a full benchmark run?
 ```bash
 $ cargo aoc bench --day 2
 
-Day2 - Part1/initial    time:   [120.00 µs 120.36 µs 120.75 µs]
-Day2 - Part1/iterator   time:   [120.22 µs 120.52 µs 120.85 µs]
-Day2 - Part2/initial    time:   [277.14 µs 277.99 µs 278.82 µs]
-Day2 - Part2/iterator   time:   [160.85 µs 161.30 µs 161.78 µs]
+Day2 - Part1/initial    time:   [4.2950 µs 4.3041 µs 4.3147 µs]
+Day2 - Part1/iterator   time:   [4.3080 µs 4.3201 µs 4.3327 µs]
+Day2 - Part2/initial    time:   [146.64 µs 147.04 µs 147.45 µs]
+Day2 - Part2/iterator   time:   [40.862 µs 41.077 µs 41.299 µs]
 ```
 
 See? This time, `Part1/iterator` is actually *slightly* slower. It varies. 
