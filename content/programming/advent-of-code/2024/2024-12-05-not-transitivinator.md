@@ -289,3 +289,122 @@ Day5 - Part2/v1         time:   [59.691 µs 60.810 µs 62.017 µs]
 ```
 
 It's interesting how much faster that is than one run. Some impressive caching going on there I expect. 
+
+## Optimization 1: Drop the `hashmap`
+
+Okay, `hashbrown` is fast enough, but we don't *really* need that if we really want this solution to be fast. Instead, let's just throw some memory at it. We know (from looking at our input) that all values will be two digits, so let's just initialize a 100*100 array of booleans:
+
+```rust
+#[derive(Debug, Clone)]
+pub struct Ordering {
+    data: [bool; 100*100]
+}
+
+impl Ordering {
+    pub fn new() -> Self {
+        Self {
+            data: [false; 100*100],
+        }
+    }
+
+    pub fn insert(&mut self, a: u32, b: u32) {
+        self.data[(a as usize)*100+(b as usize)] = true;
+    }
+
+    pub fn can_precede(&self, a: u32, b: u32) -> bool {
+        !self.data[(a as usize)*100+(b as usize)]
+    }
+
+    pub fn validates(&self, list: &[u32]) -> bool {
+        list.iter().is_sorted_by(|&a, &b| self.can_precede(*a, *b))
+    }
+}
+```
+
+Nothing else actually needs to change (although this can certainly `panic!` if any input is > 100). 
+
+```bash
+$ cargo aoc bench --day 5
+
+Day5 - Part1/v1         time:   [229.10 ns 230.04 ns 231.17 ns]
+Day5 - Part2/v1         time:   [14.302 µs 14.369 µs 14.437 µs]
+```
+
+That's ... nanoseconds. Whee! And a 4x speedup on part 2. 
+
+Can we go further? 
+
+## Optimization 2: `bitvec`
+
+I'm not 100% sure how optimized Rust's `[bool]` is under the hood, but what if we directly use a crate that's designed to work with a `vec` of `bits`? [`bitvec`](https://docs.rs/bitvec/latest/bitvec/)!
+
+```rust
+#[derive(Debug, Clone)]
+pub struct Ordering {
+    data: BitVec,
+}
+
+impl Ordering {
+    pub fn new() -> Self {
+        Self {
+            data: bitvec![0; 100*100],
+        }
+    }
+
+    pub fn insert(&mut self, a: u32, b: u32) {
+        self.data.set((a as usize)*100+(b as usize), true);
+    }
+
+    pub fn can_precede(&self, a: u32, b: u32) -> bool {
+        !self.data[(a as usize)*100+(b as usize)]
+    }
+
+    pub fn validates(&self, list: &[u32]) -> bool {
+        list.iter().is_sorted_by(|&a, &b| self.can_precede(*a, *b))
+    }
+}
+```
+
+Basically the same; only a few names have changed and `IndexMut` isn't defined. 
+
+```bash
+$ cargo aoc bench --day 5
+
+Day5 - Part1/v1         time:   [304.75 ns 306.14 ns 307.66 ns]
+Day5 - Part2/v1         time:   [20.223 µs 20.430 µs 20.766 µs]
+```
+
+Huh, we'll that's certainly interesting. The runtimes are a *bit* slower. It seems that the Rust folks did a pretty good job optimization `[bool]` already!
+
+One interesting thing to note though:
+
+```bash
+# With [bool]
+cargo aoc --day 5
+
+AOC 2024
+Day 5 - Part 1 - v1 : 4924
+	generator: 101.291µs,
+	runner: 3.292µs
+
+Day 5 - Part 2 - v1 : 6085
+	generator: 69.458µs,
+	runner: 22.583µs
+
+
+# With bitvec
+cargo aoc --day 5
+
+AOC 2024
+Day 5 - Part 1 - v1 : 0
+	generator: 83.584µs,
+	runner: 1.583µs
+
+Day 5 - Part 2 - v1 : 11009
+	generator: 62.041µs,
+	runner: 34.834µs
+```
+
+The `generator` part (that does the parsing and building of the initial `bitvec`) *is* ~20% faster. 
+
+It would be interesting to dig into why exactly that is!
