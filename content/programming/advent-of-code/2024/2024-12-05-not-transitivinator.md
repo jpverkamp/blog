@@ -408,3 +408,105 @@ Day 5 - Part 2 - v1 : 11009
 The `generator` part (that does the parsing and building of the initial `bitvec`) *is* ~20% faster. 
 
 It would be interesting to dig into why exactly that is!
+
+## Optimization (attempt) 3: A `vec` of pairs
+
+Okay, let's keep going. Next attempt, let's see if a `vec` of `(a, b)` does any better. In theory, we can store the whole vec in memory, but we do have to scan through `O(n)` (~1k) entries on each search.
+
+```rust
+#[derive(Debug, Clone)]
+pub struct Ordering {
+    data: Vec<(u32, u32)>,
+}
+
+impl Ordering {
+    pub fn new() -> Self {
+        Self {
+            data: Vec::with_capacity(2000),
+        }
+    }
+
+    pub fn insert(&mut self, a: u32, b: u32) {
+        let point = (a, b);
+        let index = self.data.binary_search(&(a, b)).unwrap_or_else(|e| e);
+        self.data.insert(index, point);
+    }
+
+    pub fn can_precede(&self, a: u32, b: u32) -> bool {
+        self.data.binary_search(&(a, b)).is_ok()
+    }
+
+    pub fn validates(&self, list: &[u32]) -> bool {
+        list.iter().is_sorted_by(|&a, &b| self.can_precede(*a, *b))
+    }
+}
+```
+
+Performance:
+
+```bash
+$ cargo aoc bench --day 5
+
+Day5 - Part1/v1         time:   [380.36 µs 381.16 µs 382.14 µs]
+Day5 - Part2/v1         time:   [2.2590 ms 2.2695 ms 2.2801 ms]
+```
+
+Part 1 is slightly slower, but part 2... ouch! That's many times slower. It turns out that sorting has to do a bunch of comparisons, which actually makes that `O(n)` meaningful...
+
+### Optimization (attempt) 4: Sorted `vec` of pairs
+
+I don't think this will actually help, but one last try down this method: let's store the `(a, b)` list as sorted and use a [[wiki:binary search]]() to check each comparison. It should be `O(log n)` instead (roughly 3 comparisons, since N ≅ 1k)!
+
+```rust
+#[derive(Debug, Clone)]
+pub struct Ordering {
+    data: Vec<(u32, u32)>,
+}
+
+impl Ordering {
+    pub fn new() -> Self {
+        Self {
+            data: Vec::with_capacity(2000),
+        }
+    }
+
+    pub fn insert(&mut self, a: u32, b: u32) {
+        let point = (a, b);
+        let index = self.data.binary_search(&(a, b)).unwrap_or_else(|e| e);
+        self.data.insert(index, point);
+    }
+
+    pub fn can_precede(&self, a: u32, b: u32) -> bool {
+        self.data.binary_search(&(a, b)).is_ok()
+    }
+
+    pub fn validates(&self, list: &[u32]) -> bool {
+        list.iter().is_sorted_by(|&a, &b| self.can_precede(*a, *b))
+    }
+}
+```
+
+That `binary_search` is an interesting API. It returns `Ok` if the value was found and `Err` if not; thus the `unwrap_or_else`. 
+
+```bash
+$ cargo aoc bench --day 5
+
+Day5 - Part1/v1         time:   [42.928 µs 43.629 µs 44.586 µs]
+Day5 - Part2/v1         time:   [245.26 µs 248.05 µs 251.44 µs]
+```
+
+Well, that's ~10x as fast as the unsorted `vec`! But still ~10x *slower* than the `bitvec`. So I guess no luck either way! 
+
+## Overall timing graph
+
+Since I've done a chunk of optimizations for this one, here are the benchmarks in a nice table.
+
+| Version             | Part 1        | Part 2        |
+| ------------------- | ------------- | ------------- |
+| `hashbrown`         | 8.2175 µs     | 60.810 µs     |
+| `[bool]`            | **230.04 ns** | **14.369 µs** |
+| `bitvec`[^loadtime] | 306.14 ns     | 20.420 µs     |
+| `Vec<(a, b)>`       | 381.16 µs     | 2.2695 ms     |
+| `binary_search`     | 42.629 µs     | 248.05 µs     |
+
+[^loadtime]: But it does load faster; so it's better if you include parsing time. 
