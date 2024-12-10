@@ -207,6 +207,50 @@ Just to show a bit more dramatically how much faster the dynamic algorithm can b
 
 It's not a perfect comparison, since the amount of actual work done per frame isn't *exactly* the same, but it's pretty close. 
 
+### Optimization 2: Smarter bitmasks
+
+I realized after writing most of this up but before publishing it: We don't actually *need* globally unique bitmasks! Because each `9` can only be reached by a `0` at most `8` tiles away from it, we can store them all in a `u128`:
+
+```rust
+#[aoc(day10, part1, dynamic_smart)]
+fn part1_dynamic_smart(input: &Grid<u8>) -> usize {
+    let mut trail_counts: Grid<u128> = Grid::new(input.width, input.height);
+
+    // Flag each 9 with a unique bit
+    // The bits only have to be unique within 10 tiles of each other
+    // So within a 10x10 area, assign to that bit
+    input.iter_enumerate().for_each(|(p, &v)| {
+        if v == 9 {
+            let mask = 1u128 << ((p.x % 10) + (p.y % 10) * 10);
+            trail_counts.set(p, mask);
+        }
+    });
+
+    ...
+}
+```
+
+Originally, I was only using an `8x8` area (thus a `u64`), but that doesn't *quite* work, since it's possible for two `9s` that are right on the edges of that to get the same ID and thus get missed. Out of 659, this missed 2. 
+
+But... does it actually perform any better? 
+
+```bash 
+$ cargo aoc --day 10 --part 1
+
+AOC 2024
+Day 10 - Part 1 - dynamic_tupled : 659
+	generator: 7.166µs,
+	runner: 80.084µs
+
+Day 10 - Part 1 - dynamic_smart : 659
+	generator: 7.666µs,
+	runner: 77.709µs
+```
+
+Barely. 
+
+I think it's worth it when comparing complexity though. The mask generation is a bit more complicated, but the algorithm itself is cleaner. (the reduce is just `.reduce(|a, b| a | b)`). 
+
 ## Part 2
 
 > Instead of counting reachable `9s`, count how many *unique* paths there are to any `9`. 
@@ -263,10 +307,12 @@ Colorscale changed entirely to be confusing :smile:. Red is lower, blue is highe
 ```bash
 $ cargo aoc bench --day 10
 
-Day10 - Part1/search            time:   [69.130 µs 69.275 µs 69.420 µs]
-Day10 - Part1/dynamic           time:   [293.75 µs 294.80 µs 295.96 µs]
-Day10 - Part1/dynamic_tupled    time:   [45.959 µs 46.867 µs 47.826 µs]
-Day10 - Part2/dynamic           time:   [35.210 µs 35.861 µs 36.570 µs]
+Day10 - Part1/search            time:   [65.198 µs 66.052 µs 67.339 µs]
+Day10 - Part1/dynamic           time:   [278.43 µs 280.80 µs 283.53 µs]
+Day10 - Part1/dynamic_tupled    time:   [42.502 µs 43.356 µs 44.197 µs]
+Day10 - Part1/dynamic_smart     time:   [41.415 µs 42.406 µs 43.625 µs]
+
+Day10 - Part2/dynamic           time:   [34.976 µs 36.044 µs 37.158 µs]
 ```
 
-Part 2 faster than part 1. Funny. 
+Part 2 faster than part 1. Funny. Although it makes sense, we don't have to deal with the mask generation and `+` should be as fast as `|` (might even be faster, since you potentially don't have to deal with all of the bits?). 
