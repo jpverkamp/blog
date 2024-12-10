@@ -166,6 +166,10 @@ Day 8 - Part 2 - v1 : 1032
 	runner: 18.625µs
 ```
 
+I did render this one too. It's fun:
+
+<video controls src="/embeds/2024/aoc/day8-part2.mp4" width="100%"></video>
+
 ## Benchmarks
 
 It's been a long day, so I probably won't optimize this one too much more. We're probably paying a decent bit in parsing the `Grid` and then immediately throwing it away, plus (maybe) in keeping multiple `Vec` instead of one with offsets for each tower. So it goes. 

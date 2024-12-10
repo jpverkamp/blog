@@ -274,6 +274,12 @@ Day 6 - Part 1 - v1 : 5551
 
 Quick enough for now!
 
+I did have some fun rendering this one:
+
+<video controls src="/embeds/2024/aoc/day6-part1.mp4" width="100%"></video>
+
+The colors don't mean anything, they just look fun. 
+
 ## Part 2
 
 > How many points are there such that you can add exactly 1 wall to make the guard walk in a repeating loop? 
