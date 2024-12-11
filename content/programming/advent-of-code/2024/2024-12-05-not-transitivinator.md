@@ -7,6 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Sorting
+- Data Structures
+- Binary Search
 ---
 ## Source: [Day Day 5: Print Queue](https://adventofcode.com/2024/day/5)
 

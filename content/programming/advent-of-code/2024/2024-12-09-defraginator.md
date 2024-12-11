@@ -7,6 +7,14 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Optimization
+- Disk Fragmentation
+- Binary Tree
+- Benchmarking
+- Simulation
+- Grid Traversal
+- Visualization
 ---
 ## Source: [Day 9: Disk Fragmenter](https://adventofcode.com/2024/day/9)
 

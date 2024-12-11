@@ -7,6 +7,8 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Word Search
 ---
 ## Source: [Day 4: Ceres Search](https://adventofcode.com/2024/day/4)
 
@@ -184,6 +186,17 @@ Day 4 - Part 1 - inner_looping : 2406
 ```
 
 Performance wise, it falls well into the 'fast enough' category. Onward!
+
+If you'd like to see the algorithm in action:
+
+<video controls src="/embeds/2024/aoc/day4-part1-example.mp4" width="100%"></video>
+
+Or on the entire image:
+
+<video controls src="/embeds/2024/aoc/day4-part1.mp4" width="100%"></video>
+
+(That's running at ~40x. The full render took... a while.)
+
 
 ### Optimization 1: Less loops
 

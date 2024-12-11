@@ -7,6 +7,17 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Dynamic Programming
+- Graphs
+- Graph Theory
+- Graph Algorithms
+- Bitmasking
+- Pathfinding
+- Search
+- Depth First Search
+- Benchmarking
+- Visualization
 ---
 ## Source: [Day 10: Hoof It](https://adventofcode.com/2024/day/10)
 

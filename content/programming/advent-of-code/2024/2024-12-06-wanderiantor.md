@@ -7,6 +7,12 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Parallel Programming
+- Hashing
+- Loop Detection
+- Grid Traversal
+- Visualization
 ---
 ## Source: [Day 6: Guard Gallivant](https://adventofcode.com/2024/day/6)
 

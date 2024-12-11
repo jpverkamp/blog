@@ -7,6 +7,14 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Recursion
+- Search
+- Depth First Search
+- Benchmarking
+- Memoization
+- Mathematics
+- Combinatorial Search
 ---
 ## Source: [Day 7: Bridge Repair](https://adventofcode.com/2024/day/7)
 

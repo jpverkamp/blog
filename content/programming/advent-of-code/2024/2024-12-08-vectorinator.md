@@ -7,6 +7,13 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Geometry
+- Vectors
+- Benchmarking
+- Simulation
+- Hashing
+- Visualization
 ---
 ## Source: [Day 8: Resonant Collinearity](https://adventofcode.com/2024/day/8)
 
