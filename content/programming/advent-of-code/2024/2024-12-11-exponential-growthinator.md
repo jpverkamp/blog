@@ -135,6 +135,10 @@ Nice!
 
 But we can do better.
 
+My guess is that we're going to duplicate *a lot* of work as we're going. If one branch of this giant recursion finds that we have `N` steps after we see a `0` with 15 steps to go... well, that will always be true! 
+
+So we're going to create a cache of `(value, depth) -> steps`. Now, whenever we recur, if we've already recorded the value for any given value, just return it (cutting out all of the substeps!); otherwise, calculate it and cache it! 
+
 ```rust
 // Add memoization
 
@@ -171,10 +175,6 @@ fn part1_recursive_memo(input: &[u64]) -> usize {
     blink_recur_memo(input, 25)
 }
 ```
-
-My guess is that we're going to duplicate *a lot* of work as we're going. If one branch of this giant recursion finds that we have `N` steps after we see a `0` with 15 steps to go... well, that will always be true! 
-
-So we're going to create a cache of `(value, depth) -> steps`. Now, whenever we recur, if we've already recorded the value for any given value, just return it (cutting out all of the substeps!); otherwise, calculate it and cache it! 
 
 And man, we get a nice speedup for that one:
 
@@ -269,6 +269,7 @@ AOC 2024
 [Blink 49, 24.70]: 4431170168
 [Blink 50, 37.64]: 6727602136
 [Blink 51, 57.47]: 10218016566
+...
 ```
 
 Much better, but still exponential:
