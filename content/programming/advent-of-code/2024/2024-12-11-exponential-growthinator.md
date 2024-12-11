@@ -7,6 +7,14 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Recursion
+- Memoization
+- Optimization
+- Benchmarking
+- HashMap
+- BTreeMap
+- Association List
 ---
 ## Source: [Day 11: Plutonian Pebbles](https://adventofcode.com/2024/day/11)
 
@@ -280,14 +288,90 @@ And with ~1/3 of the problem to go!
 
 So... we'll stick to the memoized version. :smile:
 
+### Optimization (attempt) 3: Association list cache
+
+Out of curiosity, I wondered if using an [[wiki:association list]]() for the cache instead of a hashmap would help any:
+
+```rust
+fn blink_recur_memo_assoc(input: &[u64], count: usize) -> usize {
+    fn recur(cache: &mut Vec<(u64, usize, usize)>, value: u64, depth: usize) -> usize {
+        if let Some(r) = cache
+            .iter()
+            .find_map(|(v, d, r)| {
+                if *v == value && *d == depth {
+                    Some(*r)
+                } else {
+                    None
+                }
+            })
+        {
+            return r;
+        }
+
+        // ...
+
+        cache.push((value, depth, result));
+        result
+    }
+
+    let mut cache = vec![];
+    input
+        .iter()
+        .map(|&v| recur(&mut cache, v, count))
+        .sum::<usize>()
+}
+```
+
+Unfortunately, not really. In this case, the `O(n)` constants from re-allocating and scanning the `Vec` outweigh the `O(1)` constants of hashing. 
+
+```bash 
+$ cargo aoc --day 11 --part 2
+
+AOC 2024
+Day 11 - Part 2 - recursive_memo : 232454623677743
+	generator: 11.875µs,
+	runner: 4.933167ms
+
+Day 11 - Part 2 - recursive_memo_assoc : 232454623677743
+	generator: 875ns,
+	runner: 3.543555083s
+```
+
+### Optimization (attempt) 4: `BTree` cache
+
+What about a BTree? 
+
+In this case, really all you have to do is replace the `HashMap` with `BTreeMap`. This should give us `O(log n)`, but what about the constants?
+
+```bash
+$ cargo aoc --day 11 --part 2
+
+AOC 2024
+Day 11 - Part 2 - recursive_memo : 232454623677743
+	generator: 11.875µs,
+	runner: 4.933167ms
+
+Day 11 - Part 2 - recursive_memo_assoc : 232454623677743
+	generator: 875ns,
+	runner: 3.543555083s
+
+Day 11 - Part 2 - recursive_memo_btree : 232454623677743
+	generator: 2µs,
+	runner: 28.405458ms
+```
+
+That's pretty close! But not quite there. So it goes. 
+
 ## Benchmarks
 
 ```bash
 $ cargo aoc bench --day 11
 
-Day11 - Part1/v1                time:   [8.4353 ms 8.4996 ms 8.6118 ms]
-Day11 - Part1/recursive         time:   [1.0363 ms 1.0448 ms 1.0569 ms]
-Day11 - Part1/recursive_memo    time:   [112.83 µs 113.84 µs 115.80 µs]
+Day11 - Part1/v1                    time:   [8.4353 ms 8.4996 ms 8.6118 ms]
+Day11 - Part1/recursive             time:   [1.0363 ms 1.0448 ms 1.0569 ms]
+Day11 - Part1/recursive_memo        time:   [112.83 µs 113.84 µs 115.80 µs]
 
-Day11 - Part2/recursive_memo    time:   [4.6260 ms 4.6967 ms 4.7933 ms]
+Day11 - Part2/recursive_memo        time:   [4.4928 ms 4.5440 ms 4.6099 ms]
+Day11 - Part2/recursive_memo_assoc  time:   [3.6567 s  3.6678 s  3.6792 s]
+Day11 - Part2/recursive_memo_btree  time:   [28.396 ms 28.763 ms 29.323 ms]
 ```
