@@ -9,7 +9,7 @@ programming/topics:
 - Interpreters
 - Lexers
 - Tokenizers
-- Parsers
+- Parsering
 - Lux
 series:
 - CodeCrafters

@@ -9,7 +9,7 @@ series:
 - Advent of Code 2022
 programming/topics:
 - Algorithms
-- Data Structure
+- Data Structures
 - Graphs
 ---
 ## Source: [Boiling Boulders](https://adventofcode.com/2022/day/18)

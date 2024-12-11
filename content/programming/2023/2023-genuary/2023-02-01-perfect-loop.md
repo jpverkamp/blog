@@ -7,7 +7,6 @@ programming/topics:
 - Generative Art
 - Procedural Content
 - Perfect Loops
-- Animated
 - p5js
 series:
 - Genuary 2023
