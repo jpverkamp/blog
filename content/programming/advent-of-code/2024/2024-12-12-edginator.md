@@ -217,7 +217,7 @@ And the left/right edges:
 
 {{<figure src="/embeds/2024/aoc/day12-edges-right.png">}}
 
-It's somewhat slower, since we're calculating the edges for each region as it's own `Grid`. We'll come back to that. 
+It's somewhat slower, since we're calculating the edges for each region as it's own `Grid`. I expect I could optimize that, but for the moment, we need each edges because it's multiplied by each area.
 
 ```bash
 $ cargo aoc --day 12 --part 2
@@ -230,4 +230,11 @@ Day 12 - Part 2 - v1 : 865662
 
 ## Benchmarks
 
-___
+```bash
+$ cargo aoc bench --day 12
+
+Day12 - Part1/v1        time:   [834.35 µs 837.71 µs 841.51 µs]
+Day12 - Part2/v1        time:   [626.04 ms 630.51 ms 634.95 ms]
+```
+
+That's by far my slowest so far, but still under a second, so we'll go with it for the moment.
