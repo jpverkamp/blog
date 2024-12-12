@@ -362,6 +362,72 @@ Day 11 - Part 2 - recursive_memo_btree : 232454623677743
 
 That's pretty close! But not quite there. So it goes. 
 
+### Optimization 5: Iterate over `HashMap<value, count>`
+
+Okay, one last optimization, this time we're going to ignore all of the fancy recursion and memoization and iterate directly. But rather than storing the entire vector, we're going to use the fact that the order does not matter at all and instead just keep a `count` of how many times we see each `value`:
+
+```rust
+fn blink_count_hash(input: &[u64], count: usize) -> usize {
+    let mut list1 = HashMap::new();
+    let mut list2 = HashMap::new();
+
+    for v in input {
+        list1.entry(*v).and_modify(|c| *c += 1).or_insert(1);
+    }
+
+    for _ in 0..count {
+        for (v, c) in list1.drain() {
+            if v == 0 {
+                list2.entry(1).and_modify(|c2| *c2 += c).or_insert(c);
+            } else {
+                let digit_count = v.ilog10() + 1;
+                if digit_count % 2 == 0 {
+                    let divisor = 10u64.pow(digit_count / 2);
+                    list2
+                        .entry(v / divisor)
+                        .and_modify(|c2| *c2 += c)
+                        .or_insert(c);
+                    list2
+                        .entry(v % divisor)
+                        .and_modify(|c2| *c2 += c)
+                        .or_insert(c);
+                } else {
+                    list2.entry(v * 2024).and_modify(|c2| *c2 += c).or_insert(c);
+                }
+            }
+        }
+
+        std::mem::swap(&mut list1, &mut list2);
+        list2.clear();
+    }
+
+    list1.values().sum()
+}
+```
+
+Even with clearing one `list` each time (so we don't re-alloc), it's still a bit quicker:
+
+```bash
+$ $ cargo aoc --day 11
+
+AOC 2024
+Day 11 - Part 2 - recursive_memo : 232454623677743
+    generator: 11.875µs,
+    runner: 4.933167ms
+
+Day 11 - Part 1 - count_hash : 194482
+    generator: 459ns,
+    runner: 92.916µs
+
+Day 11 - Part 2 - recursive_memo : 232454623677743
+    generator: 11.875µs,
+    runner: 4.933167ms
+
+Day 11 - Part 2 - count_hash : 232454623677743
+    generator: 1.125µs,
+    runner: 2.748583ms
+```
+
 ## Benchmarks
 
 ```bash
@@ -370,8 +436,10 @@ $ cargo aoc bench --day 11
 Day11 - Part1/v1                    time:   [8.4353 ms 8.4996 ms 8.6118 ms]
 Day11 - Part1/recursive             time:   [1.0363 ms 1.0448 ms 1.0569 ms]
 Day11 - Part1/recursive_memo        time:   [112.83 µs 113.84 µs 115.80 µs]
+Day11 - Part1/count_hash            time:   [84.005 µs 84.317 µs 84.666 µs]
 
 Day11 - Part2/recursive_memo        time:   [4.4928 ms 4.5440 ms 4.6099 ms]
 Day11 - Part2/recursive_memo_assoc  time:   [3.6567 s  3.6678 s  3.6792 s]
 Day11 - Part2/recursive_memo_btree  time:   [28.396 ms 28.763 ms 29.323 ms]
+Day11 - Part2/count_hash            time:   [2.7752 ms 2.7868 ms 2.7996 ms]
 ```
