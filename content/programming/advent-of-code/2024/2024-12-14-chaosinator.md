@@ -313,7 +313,7 @@ $$
 74 + 101t_2 = target
 $$
 
-For some $t1$ and $t2$. It's not *quite* equal though, in my case it's 78 and 79. That's because (I *think*) the actual zero for the second one was before we started, so they're off by one cycle. 
+For some $t_1$ and $t_2$. It's not *quite* equal though, in my case it's 78 and 79. That's because (I *think*) the actual zero for the second one was before we started, so they're off by one cycle. 
 
 In any case:
 
