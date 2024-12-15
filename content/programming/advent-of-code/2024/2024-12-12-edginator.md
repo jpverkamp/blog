@@ -7,6 +7,11 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Flood Fill
+- Geometry
+- Edge Detection
+- Optimization
 ---
 ## Source: [Day 12: Garden Groups](https://adventofcode.com/2024/day/12)
 

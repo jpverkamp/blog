@@ -7,6 +7,12 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Simulation
+- Chaos
+- Image Generation
+- Chinese Remainder Theorem
+- Linear Algebra
 ---
 ## Source: [Day 14: Restroom Redoubt](https://adventofcode.com/2024/day/14)
 

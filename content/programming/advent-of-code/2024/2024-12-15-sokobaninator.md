@@ -7,6 +7,9 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Sokoban
+- Iterators
 ---
 ## Source: [Day 15: Warehouse Woes](https://adventofcode.com/2024/day/15)
 

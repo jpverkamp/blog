@@ -7,6 +7,12 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- Cramer's Rule
+- Mathematics
+- Brute Force
+- Algorithms
+- Linear Algebra
 ---
 ## Source: [Day 13: Claw Contraption](https://adventofcode.com/2024/day/13)
 
