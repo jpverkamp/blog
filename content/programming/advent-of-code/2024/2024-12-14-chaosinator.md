@@ -365,6 +365,7 @@ fn part2_v2((width, height, input): &(usize, usize, Vec<Robot>)) -> usize {
 
         // If we have both, we have an answer
         // I'm still not sure why the cycles can be off by ±1
+        // NOTE: This is incorrect, see the correction below
         if hline_start.is_some() && vline_start.is_some() {
             for h_times in 0..100 {
                 for v_times in (h_times - 1)..=(h_times + 1) {
@@ -387,6 +388,8 @@ fn part2_v2((width, height, input): &(usize, usize, Vec<Robot>)) -> usize {
 
 That is some pretty bonkers code. Especially the `htimes ± 1` mess. But it returns the right answer!
 
+Edit: Nope. It doesn't. See [here](#correction-for-optimization-1-chinese-remainder-theorem). 
+
 And it's *substantially* quicker:
 
 ```bash
@@ -403,6 +406,43 @@ Day 14 - Part 2 - v2 : 8053
 ```
 
 A 1000x speedup? We'll take that!
+
+### Correction for Optimization 1: Chinese Remainder Theorem
+
+It turns out... that whole 'off by one' I was trying to account for was actually just a feature of my input. Many others' inputs had a different of 2 or more. So that's not at all how you're supposed to solve the problem. 
+
+Instead, you have two sets of cycles, which you can use the [[wiki:Chinese Remainder Theorem]]() to solve:
+
+```rust
+// If we have both, we have an answer
+// I'm still not sure why the cycles can be off by ±1
+if hline_start.is_some() && vline_start.is_some() {
+    // Solve using the Chinese remainder theorem
+    let h_offset = hline_start.unwrap() % *height;
+    let v_offset = vline_start.unwrap() % *width;
+
+    let mut h_timer = h_offset;
+    let mut v_timer = v_offset;
+
+    loop {
+        if h_timer == v_timer {
+            return h_timer;
+        }
+
+        if h_timer < v_timer {
+            h_timer += *height;
+        } else {
+            v_timer += *width;
+        }
+    }
+}
+```
+
+Check out the wikipedia page above for more details on how/why exactly works, but the nice thing is that it doesn't have to iterate through to find this value, instead it iterates down both at once. 
+
+In the end, the runtime is the same and it has the advantage of actually being correct on more than my input. 
+
+Woot!
 
 ## Benchmarks
 
