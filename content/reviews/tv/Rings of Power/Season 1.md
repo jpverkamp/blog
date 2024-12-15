@@ -1,64 +1,16 @@
 ---
-title: "The Lord of the Rings: The Rings of Power"
+title: "The Rings of Power: Season 1"
 date: 2023-02-04 23:55:00
-cover: /embeds/tv/the-lord-of-the-rings-the-rings-of-power.jpg
+cover: /embeds/tv/rings-of-power-season-1.jpg
 reviews/lists:
 - 2023 TV Reviews
 imdb_id: '7631058'
-reviews/cast:
-  Alex Tarrant: Valandil
-  Anthony Crum: Ontamo
-  Antonio Te Maioha: Sail Master
-  Augustus Prew: "M\xE9dhor"
-  Beau Cassidy: Dilly Brandyfoot
-  Benjamin Walker: High King Gil-galad
-  Bridie Sisson: The Dweller
-  Charles Edwards: Lord Celebrimbor
-  Charlie Vickers: Halbrand
-  Cynthia Addai-Robinson: "Queen Regent M\xEDriel"
-  Daniel Weyman: The Stranger
-  Dylan Smith: Largo Brandyfoot
-  Edith Poor: The Nomad
-  Edward Clendon: "Grugz\xFBk"
-  Ema Horvath: "E\xE4rien"
-  Geoff Morrell: Waldreg
-  Ian Blackburn: Rowan
-  Ismael Cruz Cordova: Arondir
-  Jason Hood: Tamar
-  Jed Brophy: Vrath
-  Joseph Mawle: Adar
-  Justin Doble: Milky-Eyed Patron
-  Kali Kopae: The Ascetic
-  Ken Blackburn: Tar-Palantir
-  Lenny Henry: Sadoc Burrows
-  Leon Wadham: Kemen
-  Lloyd Owen: Captain Elendil
-  Luke Hawker: Magrot
-  Markella Kavenagh: Nori Brandyfoot
-  Maxim Baldry: Isildur
-  Maxine Cunliffe: Vilma
-  Megan Richards: Poppy Proudfellow
-  Morfydd Clark: Galadriel
-  Nazanin Boniadi: Bronwyn
-  Owain Arthur: Prince Durin IV
-  Paula Nazarski: Malva's Sister
-  Peter Mullan: King Durin III
-  Peter Tait: Tredwill
-  Phil Grieve: Bazur
-  Phil Vaughan: Smithy
-  Preston O'Brien: Guardsman Two
-  Robert Aramayo: Elrond
-  Robert Strange: Dying Orc
-  Sara Zwangobani: Marigold Brandyfoot
-  Simon Merrells: Watchwarden Revion
-  Sophia Nomvete: Princess Disa
-  Thusitha Jayasundera: Malva
-  Trystan Gravelle: "Pharaz\xF4n"
-  Tyroe Muhafidin: Theo
-  Will Fletcher: Finrod
 reviews/writers:
 - Patrick McKay
 reviews/year: 2022
+reviews/series:
+- The Rings of Power
+series_index: [1]
 ---
 Well that’s quite the thing. 
 
