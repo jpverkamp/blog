@@ -142,7 +142,7 @@ TV this year was:
 * Finishing [[The Orville]]() - starts rough, gets much better
 * Watching all of [[Downton Abbey]]() - far better than I expected
 * Watching a couple more seasons of [[Taskmaster]]() - I love that show and it's on YouTube now/again!)
-* Watching [[The Lord of the Rings: The Rings of Power]]() - Pretty, but rushed
+* Watching [[The Rings of Power]]() - Pretty, but rushed
 * Watching [[The Wheel of Time: Season 2]]() - Far better than season 1; I'm still cautiously optimistic
 * Finally starting [[Black Mirror]]() - I should have watched this a long time ago
 * Watching the two new (to me) seasons of [[The Boys]]() - graphic as heck; better than the comics!
