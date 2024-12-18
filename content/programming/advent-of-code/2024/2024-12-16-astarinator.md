@@ -7,6 +7,14 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
+programming/topics:
+- A-Star
+- Graph Search
+- Maze Solving
+- Priority Queue
+- Heuristic Search
+- Pathfinding
+- Manhattan Distance
 ---
 ## Source: [Day 16: Reindeer Maze](https://adventofcode.com/2024/day/16)
 
