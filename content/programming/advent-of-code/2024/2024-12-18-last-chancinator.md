@@ -7,7 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
-programming/topics: []
+programming/topics: 
+- A-Star
+- Pathfinding
+- Binary Search
 ---
 ## Source: [Day 18: RAM Run](https://adventofcode.com/2024/day/18)
 
