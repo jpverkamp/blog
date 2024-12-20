@@ -8,7 +8,8 @@ programming/topics:
 - Interpreters
 - Lexers
 - Grep
-- Regular Expression
+- Regular Expressions
+- Regexp
 series:
 - CodeCrafters
 ---
