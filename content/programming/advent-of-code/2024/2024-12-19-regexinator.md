@@ -7,7 +7,13 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
-programming/topics: []
+programming/topics: 
+- Regular Expressions
+- Regex
+- Backtracking
+- Memoization
+- ReDoS 
+- Regular Expression Denial of Service
 ---
 ## Source: [Day 19: Linen Layout](https://adventofcode.com/2024/day/19)
 
@@ -180,6 +186,70 @@ Alllllll righty then. At least we're ±1 order of magnitude, that's pretty cool.
 
 I expect that manually compiling this to a state machine would really be the way to go here, but for the moment, let's look at part 2 instead. 
 
+### Optimization 2: Memoization
+
+Okay, after writing up [part 2](#part-2) and thinking about it a bit more while doing other things, I realize that my original assumption that memoization wouldn't help at all because we we only need to return the first value was wrong! We *can* memoize--we just need to memoize any substrings we find that we *know* can't be made. 
+
+```rust
+#[aoc(day19, part1, bt_memo)]
+fn part1_bt_memo(input: &str) -> usize {
+    let puzzle: Puzzle = input.into();
+    let mut cache = HashSet::new();
+
+    fn recur<'input>(cache: &mut HashSet<&'input str>, towels: &[&str], target: &'input str) -> bool {
+        if target.is_empty() {
+            return true;
+        }
+
+        if cache.contains(target) {
+            return false;
+        }
+
+        for towel in towels {
+            if let Some(rest) = target.strip_prefix(towel) {
+                if recur(cache, towels, rest) {
+                    return true;
+                }
+            }
+        }
+
+        cache.insert(target);
+        false
+    }
+
+    puzzle
+        .targets
+        .iter()
+        .filter(|target| recur(&mut cache, &puzzle.towels, target))
+        .count()
+}
+```
+
+That looks very strange, but totally works! Storing the `&str` in the `HashSet` is an interesting one, because Rust really wants to know what the lifetime of those strings are. Which is exactly why I am tying it to be the same lifetime as the `target: &'input str`. Both live the same time (since they're the same string!)
+
+And how does it compare? 
+
+```bash
+$ AOC 2024
+Day 19 - Part 1 - regex : 336
+	generator: 125ns,
+	runner: 5.632208ms
+
+Day 19 - Part 1 - bt_simplified : 336
+	generator: 34.417µs,
+	runner: 30.939375ms
+
+Day 19 - Part 1 - bt_memo : 336
+	generator: 167ns,
+	runner: 15.559042ms
+```
+
+Well. The regex crate is still faster, but I did cut the simplified version in half! 
+
+I did also try combining the two (simplified + memo), but that ends up not being any faster. We're basically gaining the same reduced branching factor either way. 
+
+Okay, onward for real this time!
+
 ## Part 2
 
 > How many possible ways are there to make each string? 
@@ -297,6 +367,7 @@ $ cargo aoc bench --day 19
 
 Day19 - Part1/regex             time:   [2.3272 ms 2.3387 ms 2.3520 ms]
 Day19 - Part1/bt_simplified     time:   [11.778 ms 11.826 ms 11.882 ms]
+Day19 - Part1/bt_memo           time:   [6.7616 ms 6.8033 ms 6.8641 ms]
 
 Day19 - Part2/bt_memo           time:   [28.469 ms 28.573 ms 28.688 ms]
 ```
