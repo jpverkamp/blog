@@ -9,7 +9,7 @@ programming/topics:
 - Lexers
 - Grep
 - Regular Expressions
-- Regexp
+- Regex
 series:
 - CodeCrafters
 ---
