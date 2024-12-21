@@ -326,7 +326,7 @@ fn part1_dijkstra(input: &Puzzle) -> usize {
 
                 // For all other cases, calculate up how much we're saving
                 match distances.get(&(p + d + d)) {
-                    Some((_, new_distance)) if *new_distance > current_distance + cutoff + 2 => {
+                    Some((_, new_distance)) if *new_distance > current_distance + cutoff => {
                         shortcut_count += 1;
                     }
                     _ => {}
@@ -580,6 +580,99 @@ There are *a lot* more lookups this time around, so that's a fairly dramatic spe
 
 Onward!
 
+### Optimization 4: Inverting the loop
+
+Okay, a bit later, one final way to look at the problem. 
+
+Very specifically, because we know that there is only one path and every point is on the path, instead of searching from each point out to a radius of 20, instead, we can:
+
+* From each point on the path:
+  * For each point starting 100 after that point:
+    * If the two points are within 20 of each other AND at least 100 better overall
+
+We still need to find the best path and all the distance to each point and it's really dependent on the structure of the problem, but it turns out that it's got a slightly better constant on the runtime. 
+
+If you want to write it with iters:
+
+```rust
+#[aoc(day20, part2, listiter)]
+fn part2_listiter(input: &Puzzle) -> usize {
+    // ...
+
+    // For any point on the path, for any point at least cutoff further along the path
+    // If those two points are within skip_length, there is a shortcut between them
+    path.iter()
+        .enumerate()
+        .map(|(start, p1)| {
+            path.iter()
+                .skip(start + cutoff)
+                .filter(|p2| {
+                    // The skip is short enough + the distance saved is big enough
+                    p1.manhattan_distance(p2) <= skip_length
+                        && distances.get(*p1).unwrap()
+                            - distances.get(**p2).unwrap()
+                            - p1.manhattan_distance(p2)
+                            >= cutoff as i32
+                })
+                .count()
+        })
+        .sum::<usize>()
+}
+```
+
+And if you want to write it with nested for loops:
+
+```rust
+#[aoc(day20, part2, listfor)]
+fn part2_listfor(input: &Puzzle) -> usize {
+    // ...
+
+    // For any point on the path, for any point at least cutoff further along the path
+    // If those two points are within skip_length, there is a shortcut between them
+    let mut shortcut_count = 0;
+
+    for (start, p1) in path.iter().enumerate() {
+        for p2 in path.iter().skip(start + cutoff) {
+            // The skip is short enough + the distance saved is big enough
+            if p1.manhattan_distance(p2) <= skip_length
+                && distances.get(*p1).unwrap()
+                    - distances.get(*p2).unwrap()
+                    - p1.manhattan_distance(p2)
+                    >= cutoff as i32
+            {
+                shortcut_count += 1;
+            }
+        }
+    }
+
+    shortcut_count
+}
+```
+
+And they do perform *slightly* quicker:
+
+
+```bash 
+$ cargo aoc --day 20 --part 1
+
+AOC 2024
+Day 20 - Part 2 - pathscan : 994807
+	generator: 31.125µs,
+	runner: 110.209833ms
+
+Day 20 - Part 2 - griddist : 4712224
+	generator: 62.625µs,
+	runner: 38.130625ms
+
+Day 20 - Part 2 - listiter : 994807
+	generator: 30.25µs,
+	runner: 30.332125ms
+
+Day 20 - Part 2 - listfor : 994807
+	generator: 62.625µs,
+	runner: 23.924083ms
+```
+
 ### Prettier pictures
 
 Okay, rendering time. I had quite a time getting something both interesting and in a reasonable time/filesize:
@@ -603,6 +696,8 @@ Day20 - Part1/grid      time:   [627.17 µs 633.33 µs 641.92 µs]
 
 Day20 - Part2/pathscan  time:   [113.84 ms 114.70 ms 115.77 ms]
 Day20 - Part2/griddist  time:   [34.101 ms 34.353 ms 34.697 ms]
+Day20 - Part2/listiter  time:   [30.221 ms 30.579 ms 31.203 ms]
+Day20 - Part2/listfor   time:   [22.468 ms 22.921 ms 23.492 ms]
 ```
 
 None too shabby. I spent... more time than I care to admit on this one. But it was a fun one, so it goes!
