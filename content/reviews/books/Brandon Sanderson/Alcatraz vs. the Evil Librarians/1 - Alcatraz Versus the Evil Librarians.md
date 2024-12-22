@@ -11,7 +11,9 @@ reviews/series:
 - Alcatraz vs. the Evil Librarians
 series_index:
 - 1
-title: Alcatraz vs. the Evil Librarians
+title: Alcatraz Versus the Evil Librarians
+aliases: 
+- /2024/11/10/alcatraz-vs.-the-evil-librarians/
 ---
 I've read pretty much all of [[Brandon Sanderson]]()'s works... yet somehow I've managed to completely miss *Alcatraz vs. the Evil Librarians*. Let's remedy that. 
 
