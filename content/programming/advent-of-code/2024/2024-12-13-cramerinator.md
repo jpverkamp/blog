@@ -389,8 +389,8 @@ Day13 - Part1/bruteforce    time:   [23.116 µs 23.249 µs 23.415 µs]
 Day13 - Part1/cramer        time:   [741.83 ns 746.53 ns 751.96 ns]
 Day13 - Part2/cramer        time:   [5.7927 µs 5.8130 µs 5.8341 µs]
 
-day13/day13_part1           time:   [13.225 µs 13.465 µs 13.788 µs]
-day13/day13_part2           time:   [13.645 µs 13.699 µs 13.761 µs]
+Day13 - Part1/fastparse     time:   [13.225 µs 13.465 µs 13.788 µs]
+Day13 - Part2/fastparse     time:   [13.645 µs 13.699 µs 13.761 µs]
 ```
 
 These times are actually slower than the benchmarks above... but that's because those don't include parsing. To get an idea about how long the parsing (the `generator` part) takes:
