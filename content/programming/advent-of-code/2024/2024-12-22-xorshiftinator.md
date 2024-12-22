@@ -7,7 +7,13 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
-programming/topics: []
+programming/topics:
+- Random Number Generators
+- Pseudo Random Number Generators
+- Xorshift
+- Visualization
+- Data Structures
+- Bit shifts
 ---
 ## Source: [Day 22: Monkey Market](https://adventofcode.com/2024/day/22)
 

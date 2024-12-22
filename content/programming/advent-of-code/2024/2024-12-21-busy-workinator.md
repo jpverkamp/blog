@@ -7,7 +7,10 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2024
-programming/topics: []
+programming/topics:
+- Recursion
+- Memoization
+- Tracing
 ---
 ## Source: [Day 21: Keypad Conundrum](https://adventofcode.com/2024/day/21)
 
