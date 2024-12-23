@@ -456,66 +456,66 @@ fn part2_nested_loops(input: &str) -> String {
 
     for (i0, n0) in nodes.iter().enumerate() {
         for (i1, n1) in nodes.iter().enumerate().skip(i0 + 1) {
-            if vec![n0].iter().any(|&n| !graph.has_edge(n, n1)) {
+            if [n0].iter().any(|&n| !graph.has_edge(n, n1)) {
                 continue;
             }
 
             for (i2, n2) in nodes.iter().enumerate().skip(i1 + 1) {
-                if vec![n0, n1].iter().any(|&n| !graph.has_edge(n, n2)) {
+                if [n0, n1].iter().any(|&n| !graph.has_edge(n, n2)) {
                     continue;
                 }
 
                 for (i3, n3) in nodes.iter().enumerate().skip(i2 + 1) {
-                    if vec![n0, n1, n2].iter().any(|&n| !graph.has_edge(n, n3)) {
+                    if [n0, n1, n2].iter().any(|&n| !graph.has_edge(n, n3)) {
                         continue;
                     }
 
                     for (i4, n4) in nodes.iter().enumerate().skip(i3 + 1) {
-                        if vec![n0, n1, n2, n3].iter().any(|&n| !graph.has_edge(n, n4)) {
+                        if [n0, n1, n2, n3].iter().any(|&n| !graph.has_edge(n, n4)) {
                             continue;
                         }
 
                         for (i5, n5) in nodes.iter().enumerate().skip(i4 + 1) {
-                            if vec![n0, n1, n2, n3, n4].iter().any(|&n| !graph.has_edge(n, n5)) {
+                            if [n0, n1, n2, n3, n4].iter().any(|&n| !graph.has_edge(n, n5)) {
                                 continue;
                             }
 
                             for (i6, n6) in nodes.iter().enumerate().skip(i5 + 1) {
-                                if vec![n0, n1, n2, n3, n4, n5].iter().any(|&n| !graph.has_edge(n, n6)) {
+                                if [n0, n1, n2, n3, n4, n5].iter().any(|&n| !graph.has_edge(n, n6)) {
                                     continue;
                                 }
 
                                 for (i7, n7) in nodes.iter().enumerate().skip(i6 + 1) {
-                                    if vec![n0, n1, n2, n3, n4, n5, n6].iter().any(|&n| !graph.has_edge(n, n7)) {
+                                    if [n0, n1, n2, n3, n4, n5, n6].iter().any(|&n| !graph.has_edge(n, n7)) {
                                         continue;
                                     }
 
                                     for (i8, n8) in nodes.iter().enumerate().skip(i7 + 1) {
-                                        if vec![n0, n1, n2, n3, n4, n5, n6, n7].iter().any(|&n| !graph.has_edge(n, n8)) {
+                                        if [n0, n1, n2, n3, n4, n5, n6, n7].iter().any(|&n| !graph.has_edge(n, n8)) {
                                             continue;
                                         }
 
                                         for (i9, n9) in nodes.iter().enumerate().skip(i8 + 1) {
-                                            if vec![n0, n1, n2, n3, n4, n5, n6, n7, n8].iter().any(|&n| !graph.has_edge(n, n9)) {
+                                            if [n0, n1, n2, n3, n4, n5, n6, n7, n8].iter().any(|&n| !graph.has_edge(n, n9)) {
                                                 continue;
                                             }
 
                                             for (i10, n10) in nodes.iter().enumerate().skip(i9 + 1) {
-                                                if vec![n0, n1, n2, n3, n4, n5, n6, n7, n8, n9].iter().any(|&n| !graph.has_edge(n, n10)) {
+                                                if [n0, n1, n2, n3, n4, n5, n6, n7, n8, n9].iter().any(|&n| !graph.has_edge(n, n10)) {
                                                     continue;
                                                 }
 
                                                 for (i11, n11) in nodes.iter().enumerate().skip(i10 + 1) {
-                                                    if vec![n0, n1, n2, n3, n4, n5, n6, n7, n8, n9, n10].iter().any(|&n| !graph.has_edge(n, n11)) {
+                                                    if [n0, n1, n2, n3, n4, n5, n6, n7, n8, n9, n10].iter().any(|&n| !graph.has_edge(n, n11)) {
                                                         continue;
                                                     }
 
                                                     for (_, n12) in nodes.iter().enumerate().skip(i11 + 1) {
-                                                        if vec![n0, n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11].iter().any(|&n| !graph.has_edge(n, n12)) {
+                                                        if [n0, n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11].iter().any(|&n| !graph.has_edge(n, n12)) {
                                                             continue;
                                                         }
 
-                                                        return vec![n0, n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12]
+                                                        return [n0, n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12]
                                                             .iter()
                                                             .sorted()
                                                             .join(",");
@@ -552,8 +552,8 @@ Day 23 - Part 2 - most_connected : di,gs,jw,kz,md,nc,qp,rp,sa,ss,uk,xk,yn
 	runner: 3.456209ms
 
 Day 23 - Part 2 - nested_loops : di,gs,jw,kz,md,nc,qp,rp,sa,ss,uk,xk,yn
-	generator: 2.208µs,
-	runner: 500.730375ms
+	generator: 1.084µs,
+	runner: 167.462333ms
 ```
 
 It's slower and stupider... but it works?
@@ -579,11 +579,11 @@ fn part2_nested_loops_macro(input: &str) -> String {
         // Base case / innermost loop, finally does the return
         ($last_i:ident $last_n:ident => $prev_i:ident $($prev_n:ident),*) => {
             for (_, $last_n) in nodes.iter().enumerate().skip($prev_i + 1) {
-                if vec![$($prev_n),*].iter().any(|&n| !graph.has_edge(n, $last_n)) {
+                if [$($prev_n),*].iter().any(|&n| !graph.has_edge(n, $last_n)) {
                     continue;
                 }
 
-                return vec![$($prev_n),*, $last_n]
+                return [$($prev_n),*, $last_n]
                     .iter()
                     .sorted()
                     .join(",");
@@ -593,7 +593,7 @@ fn part2_nested_loops_macro(input: &str) -> String {
         // Intermediate cases, continues the recursion
         ($i:ident $n:ident $($rest_i:ident $rest_n:ident)* => $prev_i:ident $($prev_n:ident),*) => {
             for ($i, $n) in nodes.iter().enumerate().skip($prev_i + 1) {
-                if vec![ $($prev_n),* ].iter().any(|&n| !graph.has_edge(n, $n)) {
+                if [ $($prev_n),* ].iter().any(|&n| !graph.has_edge(n, $n)) {
                     continue;
                 }
 
@@ -637,12 +637,12 @@ Day 23 - Part 2 - most_connected : di,gs,jw,kz,md,nc,qp,rp,sa,ss,uk,xk,yn
 	runner: 3.456209ms
 
 Day 23 - Part 2 - nested_loops : di,gs,jw,kz,md,nc,qp,rp,sa,ss,uk,xk,yn
-	generator: 2.208µs,
-	runner: 500.730375ms
+	generator: 1.084µs,
+	runner: 167.462333ms
 
 Day 23 - Part 2 - nested_loops_macro : di,gs,jw,kz,md,nc,qp,rp,sa,ss,uk,xk,yn
-	generator: 7.875µs,
-	runner: 557.933ms
+	generator: 1.542µs,
+	runner: 263.257291ms
 ```
 
 And kind of hilarious. 
@@ -658,6 +658,6 @@ Day23 - Part1/v1                    time:   [20.133 ms 20.535 ms 21.110 ms]
 
 Day23 - Part2/sorted_complete       time:   [4.5812 ms 4.6292 ms 4.6934 ms]
 Day23 - Part2/most_connected        time:   [650.01 µs 662.88 µs 681.55 µs]
-Day23 - Part2/nested_loops          time:   [464.16 ms 467.09 ms 470.40 ms]
-Day23 - Part2/nested_loops_macro    time:   [543.19 ms 546.76 ms 550.63 ms]
+Day23 - Part2/nested_loops          time:   [181.16 ms 182.90 ms 184.81 ms]
+Day23 - Part2/nested_loops_macro    time:   [291.93 ms 293.87 ms 295.91 ms]
 ```
