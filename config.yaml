@@ -1,7 +1,6 @@
 title: jverkamp.com
 languageCode: en-us
 baseURL: https://blog.jverkamp.com/
-pygmentsCodeFences: true
 pluralizelisttitles: false
 enableEmoji: true
 
@@ -9,6 +8,8 @@ markup:
     goldmark:
         renderer:
             unsafe: true
+    highlight:
+        style: monokai
 
 params:
     listTermsPerTaxonomy: 1000
