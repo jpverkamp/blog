@@ -5,7 +5,7 @@ reviews/series:
 - Mr. Robot
 series_index: [4]
 reviews/lists:
-- 2024 TV Reviews
+- 2022 TV Reviews
 source:
 - Amazon Prime
 cover: /embeds/tv/mr.robot-season-4.jpg
