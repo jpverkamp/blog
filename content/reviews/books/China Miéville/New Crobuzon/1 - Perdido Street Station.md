@@ -4,7 +4,7 @@ date: '2024-10-04'
 goodreads_id: 68494
 rating: 5
 reviews/authors:
-- "China Mi\xE9ville"
+- China Miéville
 reviews/lists:
 - 2024 Book Reviews
 reviews/series:
