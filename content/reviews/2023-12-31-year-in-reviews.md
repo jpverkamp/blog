@@ -9,7 +9,7 @@ reviews/lists:
 - 2023 Movie Reviews
 is_review_meta: true
 ---
-And so another year passes. I've been doing these for quite a :
+And so another year passes. I've been doing these for quite a while now :smile:
 
 {{< taxonomy-list "series" "Year in Reviews" >}}
 
