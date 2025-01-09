@@ -243,8 +243,6 @@ I played with 53 different people in real life. Mostly immediate family, but I h
 
 This year, I'm at 450 wins (34%), so right about the same as last year. 
 
-Of all of those games, I won 536 (35%) of them, which isn't at all shabby. 
-
 I played the most in March-May and again in August-September, but nothing dramatically different. 
 
 ## Steam Games
