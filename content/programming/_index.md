@@ -5,6 +5,8 @@ The earliest memory I have of 'programming' is in the early/mid 90s when my fath
 
 After that, I picked up programming for real in QBASIC (I still have a few of those programs lying around), got my own (junky) Linux desktop from my cousin, tried to learn VBasic (without a Windows machine), and eventually made it to high school... In college, I studied computer science and mathematics, mostly programming in Java/.NET, although with a bit of everything in the mix. A few of my oldest programming posts on this blog are from that time.
 
-After that, on to grad school! Originally, I was going to study computational linguistics, but that fell through. Then programming languages (the school's specialty). And finally I ended up studying censorship and computer security. That's about where I am today!
+After that, on to grad school! Originally, I was going to study computational linguistics, but that fell through. Then programming languages (the school's specialty). And finally I ended up studying censorship and computer security... before taking a hard turn into the private sector to follow my PhD advisor. 
+
+Since then, I've worked in the computer security space at a couple of different companies. Some don't exist any more, some you've probably heard of. I still program for fun too, and not just in security. 
 
 But really, I still have a habit of doing [a little bit of everything](/programming/topics/). Whatever seems interesting at the time!
