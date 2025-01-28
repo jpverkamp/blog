@@ -1,9 +1,13 @@
 ---
-title: "Arcane"
+title: "Arcane: Season 1"
 date: 2022-01-23
 reviews/lists:
 - 2022 TV Reviews
-cover: /embeds/tv/arcane.jpg
+reviews/series:
+- Arcane
+series_index: [1]
+cover: /embeds/tv/arcane-1.jpg
+alias: /2022/01/23/arcane/
 ---
 That is an absolutely beautiful delight of a show. I love the asthetic/worldbuilding, with a mix of steampunk/magic plus a major cyberpunk visual style. It's something that I really could do with some more of and the animated style *really* lends itself nicely to it.
 

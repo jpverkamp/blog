@@ -9,7 +9,7 @@ reviews/series:
 - Doctor Who
 reviews/writers:
 - Russell T Davies
-reviews/year: 2015
+reviews/year: 2006
 series_index:
 - 1
 ---
@@ -21,13 +21,13 @@ I do wish we'd gotten more of Eccelston, I forgot how much I liked his Doctor. B
 
 Onward.
 
-<!--more-->
+<!--more-->  
 
 - - - - -
 
 Episode by episode reviews:
 
-{{<toc>}}
+{{<toc>}}  
 
 
 ## 1. *Rose*
@@ -36,7 +36,7 @@ Episode by episode reviews:
 
 And the Doctor's first word? 
 
-> The Doctor: Run. 
+> The Doctor: Run.  
 
 And away we go!
 
@@ -58,14 +58,14 @@ Flirting with Trees! The last human! The Face of Bo! Blue plumbers!
 
 This one has it all. And gives Rose just a bit of time to realize how very off the deep end she leapt...
 
-> Jabe: What about your ancestry, Doctor? Perhaps you could tell a story or two. Perhaps a man only enjoys trouble when there's... nothing else left. I scanned you earlier. The metal machine had trouble identifying your species. Refused to admit your existence. And even when it named you, I couldn't believe it. But it was right. I know where you're from. Forgive me for intruding it's remarkable that you even exist. I just want to say... how sorry I am.
+> Jabe: What about your ancestry, Doctor? Perhaps you could tell a story or two. Perhaps a man only enjoys trouble when there's... nothing else left. I scanned you earlier. The metal machine had trouble identifying your species. Refused to admit your existence. And even when it named you, I couldn't believe it. But it was right. I know where you're from. Forgive me for intruding it's remarkable that you even exist. I just want to say... how sorry I am.  
 
 Other fun (ridiculous) moment?
 
 > Cassandra: The planet's end! Come gather, come gather! Bid farewell to the cradle of civilization! Let us mourn her with a traditional ballad...  
 > [jukebox selects "Toxic" by Britney Spears]  
 
-> {{<spoiler>}}Moxx of Balhoon: This is the Bad Wolf scenario.{{</spoiler>}}
+> {{<spoiler>}}Moxx of Balhoon: This is the Bad Wolf scenario.{{</spoiler>}}  
 
 
 ## 3. *The Unquiet Dead*
@@ -74,7 +74,7 @@ Zombies! That walking dead! Certainly a creepy one and tending a bit more toward
 
 Also, historical figures go!
 
-> Charles Dickens: What the Shakespeare is going on?
+> Charles Dickens: What the Shakespeare is going on?  
 
 The first of a theme:
 
@@ -89,12 +89,12 @@ It's been a long time since I've seen Torchwood. But Gwyneth being Gwen... was t
 
 Especially with a 'rift in Cardiff'. 😃
 
-> {{<spoiler>}}Gwyneth: You're from London. I've seen London in drawings, but never like that. All those people rushing about, half naked. For shame. And the noise, and the metal boxes racing past. And the birds in the sky... No, they're metal as well. Metal birds with people in them. People are flying. And you, you've flown so far, further than anyone! The things you've seen. The darkness... The Big Bad Wolf.{{</spoiler>}}
+> {{<spoiler>}}Gwyneth: You're from London. I've seen London in drawings, but never like that. All those people rushing about, half naked. For shame. And the noise, and the metal boxes racing past. And the birds in the sky... No, they're metal as well. Metal birds with people in them. People are flying. And you, you've flown so far, further than anyone! The things you've seen. The darkness... The Big Bad Wolf.{{</spoiler>}}  
 
 ## 4. *Aliens of London*
 
-> [to Rose]
-> The Doctor: It's not twelve hours, it's twelve months. You've been gone a whole year. Sorry.
+> [to Rose]  
+> The Doctor: It's not twelve hours, it's twelve months. You've been gone a whole year. Sorry.  
 
 Just... sorry. 
 
@@ -109,7 +109,7 @@ Oh this show varies *widely* in tone.
 
 Also also Harriet Jones (MP)!
 
-> {{<spoiler>}}A boy spray painting the Tardis: BADWOLF. {{</spoiler>}}
+> {{<spoiler>}}A boy spray painting the Tardis: BADWOLF. {{</spoiler>}}  
 
 ## 5. *World War Three*
 
@@ -159,9 +159,9 @@ Also also, Daleks!
 
 Oh Daleks. 
 
-{{<spoiler>}}
-> Attention all personnel. Bad Wolf 1 descending. Bed Wolf 2 descending. 
-{{</spoiler>}}
+{{<spoiler>}}  
+> Attention all personnel. Bad Wolf 1 descending. Bed Wolf 2 descending.  
+{{</spoiler>}}  
 
 ## 7. *The Long Game*
 
@@ -193,11 +193,11 @@ Time beasts?! Any time you change time? Oh, that will certainly come back again 
 
 ## 9. *The Empty Child*
 
-> Are you my Mummy?
+> Are you my Mummy?  
 
 Delightfully creepy. 
 
-> The Doctor: Ringing? What's that about? Ringing? You're not even a real phone and you're ringing?
+> The Doctor: Ringing? What's that about? Ringing? You're not even a real phone and you're ringing?  
 
 The Tardis ringing. Ratcheting up the tension. 
 
@@ -222,14 +222,14 @@ A lovely mix of terror and humor. Doctor Who does this well.
 
 I did really enjoy the whole titular conversation. 
 
-> Rose Tyler: Doesn't the universe implode or something if you dance?
-> The Doctor: Well, I've got the moves, but I wouldn't want to boast.
+> Rose Tyler: Doesn't the universe implode or something if you dance?  
+> The Doctor: Well, I've got the moves, but I wouldn't want to boast.  
 
 The whole thing is delightful. 
 
 And when you get back down to it? 
 
-> The Doctor: Everybody lives, Rose! Just this once, everybody lives!
+> The Doctor: Everybody lives, Rose! Just this once, everybody lives!  
 
 In hundreds and hundreds of years… he probably doesn’t actually get that many of those. 
 
@@ -254,7 +254,7 @@ A story of loose ends … and maybe, just maybe, redemption?
 
 ## 12. *Bad Wolf*
 
-> The Anne Droid: You are the weakest link. Goodbye.
+> The Anne Droid: You are the weakest link. Goodbye.  
 
 That’s 2006 for you…
 
@@ -282,11 +282,11 @@ Excellent ending.
 
 ## 13. *The Parting of the Ways*
 
-> Rose Tyler: You don't just give up. You don't just let things happen. You make a stand. You say "no"! You have the guts to do what's right when everyone else just runs away!
+> Rose Tyler: You don't just give up. You don't just let things happen. You make a stand. You say "no"! You have the guts to do what's right when everyone else just runs away!  
 
-The end of the first nu Who season. The first {{<spoiler>}}regeneration{{</spoiler>}}. The end of the beginning. 
+The end of the first nu Who season. The first {{<spoiler>}}regeneration{{</spoiler>}}. The end of the beginning.  
 
-> The Doctor: You know what they call me in the ancient legends of the Dalek homeworld? The Oncoming Storm. You might have removed all your emotions, but I reckon right down deep in your DNA there's one little spark left. And that's fear. Doesn't it just burn when you face me?
+> The Doctor: You know what they call me in the ancient legends of the Dalek homeworld? The Oncoming Storm. You might have removed all your emotions, but I reckon right down deep in your DNA there's one little spark left. And that's fear. Doesn't it just burn when you face me?  
 
 Oh are we in for a ride. 
 
@@ -301,7 +301,7 @@ And answers.
 
 Of sorts. 
 
-Quite an episode. And I wish we had more {{<spoiler>}}Eccleston, but Tennant is great too!{{</spoiler>}}. 
+Quite an episode. And I wish we had more {{<spoiler>}}Eccleston, but Tennant is great too!{{</spoiler>}}.  
 
 
 > {{<spoiler>}}The Doctor: Rose, before I go I just wanna tell you - you were fantastic... absolutely fantastic... and d'you know what?  {{</spoiler>}}  
@@ -311,7 +311,7 @@ Quite an episode. And I wish we had more {{<spoiler>}}Eccleston, but Tennant is 
 
 Onward!
 
-## 14. *The Christmas Invasion*
+## Special: *The Christmas Invasion*
 
 Just kidding. 
 
