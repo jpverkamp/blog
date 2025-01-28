@@ -17,10 +17,10 @@
     <ul>
         <li><a href="/reviews/authors">All reviews by author</a></li>
         <li><a href="/reviews/series">All reviews by series</a></li>
-        <li><a href="/2024/04/01/2024-book-bingo/">2024 Book Bingo Card</a> (<a href="/reviews/lists/r/fantasy-book-bingo/">all Bingo posts</a>)</li>
-        <li><a href="/reviews/lists/2024-book-reviews/">2024 Book Reviews</a></li>
-        <li><a href="/reviews/lists/2024-movie-reviews/">2024 Movie Reviews</a></li>
-        <li><a href="/reviews/lists/2024-tv-reviews/">2024 TV Reviews</a></li>
+        <li><a href="/2024/04/01/2024-book-bingo/">2024/2025 Book Bingo Card</a> (<a href="/reviews/lists/r/fantasy-book-bingo/">all Bingo posts</a>)</li>
+        <li><a href="/reviews/lists/2025-book-reviews/">2025 Book Reviews</a></li>
+        <li><a href="/reviews/lists/2025-movie-reviews/">2025 Movie Reviews</a></li>
+        <li><a href="/reviews/lists/2025-tv-reviews/">2025 TV Reviews</a></li>
     </ul>
 
     <h2>Categories</h2>
@@ -39,18 +39,15 @@
             {{- else if gt $i 20 -}}
                 {{- /* already printed twenty */ -}}
             {{- else -}}
-                {{- $.Scratch.Add "count" 1 -}}
-
-                <figure class="cover-image">
-                <a href="{{ .Permalink }}">
-                    {{- if isset .Params "cover" -}}
-                        <img src="{{ .Params.cover }}" />
-                    {{- else -}}
-                        {{ safeHTML (index (findRE "(?m:<img.*?>)" .Content 1) 0) }}
-                    {{- end -}}
-                </a>
-                </figure>
+                {{- if isset .Params "cover" -}}
+                    {{- $.Scratch.Add "count" 1 -}}
+                    <figure class="cover-image">
+                        <a href="{{ .Permalink }}">
+                            <img src="{{ .Params.cover }}" />
+                        </a>
+                    </figure>
                 {{- end -}}
+            {{- end -}}
         {{- end -}}
     </div>
 
