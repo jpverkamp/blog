@@ -2031,7 +2031,7 @@ It's fun when a change only impacts loading and still has a fairly big impact.
 
 Okay, now we're actually back to a new `Entity` we need to implement: `Splitters`. In this case, they have one input and two outputs: 90° clockwise and counterclockwise / left and right of the input. It will always alternate between the two, sending one donut left, then one right, then left, etc. 
 
-![Screenshot showing splitters]({{TODO}})
+![Screenshot showing splitters](06-08-order-matters.png)
 
 For the most part, we can keep ignoring the details of our current implementation and just replace the one donut we're simulating now (by `continue 'each_donut`) with two new ones (`donuts.push`):
 
