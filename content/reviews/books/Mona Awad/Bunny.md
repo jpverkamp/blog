@@ -12,7 +12,7 @@ bingo:
 - 2024 Book Bingo
 bingo-data:
   2024 Book Bingo:
-  - 5x1+
+  - 3x1+
 ---
 > I've got a theory... it could be bunnies. 
 
