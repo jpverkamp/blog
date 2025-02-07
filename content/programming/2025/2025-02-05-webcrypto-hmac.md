@@ -55,3 +55,5 @@ Also, for what it's worth, this is equivalent to the Python standard libraries' 
 >>> base64.b64encode(hmac.digest(b'super secret', b'lorem ipsum', 'SHA256')).decode()
 'qArFX93Zi83ccIayhYnuFDpd4pk3eB4rZYDvNteobSU='
 ```
+
+<!--more-->
