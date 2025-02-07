@@ -29,6 +29,8 @@ Rules:
 
 [Recommendations thread](https://www.reddit.com/r/Fantasy/comments/1bt4km0/the_2024_rfantasy_bingo_recommendations_list/)
 
+If you'd like to search within that thread, here's a query to use with [Firefox bookmark keywords](https://support.mozilla.org/en-US/kb/bookmarks-firefox#w_how-to-use-keywords-with-bookmarks): `https://www.reddit.com/r/Fantasy/comments/1bt4km0/the_2024_rfantasy_bingo_recommendations_list/?q=%s&type=comments`
+
 This post will automatically update as I tag books and I'll post ~if~ when I finish! I'm going to go for hard mode again as much as possible. Should be fun. :D
 
 {{< bingo "2024 Book Bingo" >}}
