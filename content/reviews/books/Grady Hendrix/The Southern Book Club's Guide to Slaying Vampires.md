@@ -20,7 +20,7 @@ If I had a nickel for every book I'd read recently where I went into it not real
 
 Which probably should have clued me in. 
 
-It's a fascinating story that starts out fairly tape. A southern woman settled into a life of housewife--a life of long days, unthanked by her family.
+It's a fascinating story that starts out fairly tame. A southern woman settled into a life of housewife--a life of long days, unthanked by her family.
 
 > “Why do you pretend what we do is nothing?” she asked. “Every day, all the chaos and messiness of life happens and every day we clean it all up. Without us, they would just wallow in filth and disorder and nothing of any consequence would ever get done. Who taught you to sneer at that? I’ll tell you who. Someone who took their mother for granted.” 
  
