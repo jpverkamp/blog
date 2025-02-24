@@ -63,7 +63,7 @@ reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 5
 - MCU TV
-series_index: [34.1, 2.1, 10]
+series_index: [32.1, 2.1, 9]
 source:
 - Disney+
 ---

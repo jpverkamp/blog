@@ -82,7 +82,7 @@ reviews/year: 2023
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 5
-series_index: [34, 2]
+series_index: [32, 2]
 ---
 > Rocket: Someday I'm gonna make great machines that fly. And me and my friends are gonna go flying together, into the forever and beautiful sky.
 

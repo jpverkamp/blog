@@ -7,7 +7,7 @@ reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 5
 - MCU TV
-series_index: [34.2, 2.2, 11]
+series_index: [32.2, 2.2, 10]
 source:
 - Disney+
 cover: /embeds/tv/loki-2.jpg

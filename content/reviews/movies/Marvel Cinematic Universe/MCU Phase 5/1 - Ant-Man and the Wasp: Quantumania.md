@@ -39,7 +39,7 @@ reviews/year: 2023
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 5
-series_index: [33, 1]
+series_index: [31, 1]
 ---
 Upside: It's visually super colorful and weird and it's got a lot of potential for the new MCU Phase 5!
 

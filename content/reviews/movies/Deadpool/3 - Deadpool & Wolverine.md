@@ -124,3 +124,4 @@ Overall, I enjoyed it! All three of them. But I'm also ready to watch something 
 
 Onward!
 
+{{< ranking "Marvel Cinematic Universe" >}}
