@@ -1,0 +1,43 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 21
+count_videos: 0
+count_views: '0'
+date_create: '1740430589'
+date_update: '1740430661'
+description: A much warmer season to visit Clifty Falls than last year. A great park
+  and some great trails.
+farm: 66
+id: '72177720324046036'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '54347825682'
+- '54348715166'
+- '54349131395'
+- '54348925744'
+- '54349131180'
+- '54348714866'
+- '54349131025'
+- '54349130975'
+- '54348941113'
+- '54349130930'
+- '54348714331'
+- '54348714291'
+- '54349130820'
+- '54348714046'
+- '54348940873'
+- '54348940828'
+- '54348940678'
+- '54347824222'
+- '54347824052'
+- '54348713501'
+- '54348924439'
+primary: '54347825682'
+secret: 3347c34f36
+server: '65535'
+sorting_option_id: manual-add-to-end
+title: Clifty Falls 2025
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

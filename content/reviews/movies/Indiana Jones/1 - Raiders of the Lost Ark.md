@@ -1,5 +1,6 @@
 ---
-title: "Raiders of the Lost Ark"
+title: "Indiana Jones and the Raiders of the Lost Ark"
+alias: /2025/02/24/raiders-of-the-lost-ark/
 date: 2025-02-24
 cover: /embeds/movies/raiders-of-the-lost-ark.jpg
 reviews/lists:
