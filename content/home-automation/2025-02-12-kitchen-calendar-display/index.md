@@ -59,6 +59,23 @@ To install, I used the [Raspberry Pi Imager](https://www.raspberrypi.com/news/ra
 
 Copy it to the SD card, install in the Orange Pi, turn it on and... That's it. I have a running Linux system! That ... was surprisingly easy. I can SSH in or use the desktop environment so long as I'm hooked up to a keyboard and monitor. It's a little sluggish, but I am planning on displaying static content, so that will be fine. 
 
+## Adding mDNS discovery
+
+Basically, the thing that lets you use `orangepizero2w.local`:
+
+```bash
+sudo apt-get update
+sudo apt-get install avahi-daemon
+sudo systemctl start avahi-daemon
+sudo systemctl enable avahi-daemon
+```
+
+As a sidenote, if you want to change the hostname of your machine (to match the above):
+
+```bash
+$ sudo hostnamectl hostname new-hostname-here
+```
+
 ## Enable autologin
 
 Okay, next up the software tweaks. First off, I want this machine to immediately go into it's kiosk mode when launching and to do that, I need to enable autologin. Luckily, this is pretty straight forward:
@@ -122,7 +139,7 @@ One last tweak that I needed was that by default Armbian (Gnome) launches into '
 To get around that, I ended up just directly using [this StackExchange post's solution](https://unix.stackexchange.com/questions/717123/how-to-disable-gnome-workspace-selection-at-login):
 
 ```bash
-#!/usr/bin/sh
+#!/usr/bin/bash
 # Located in /usr/bin/exit-overview
 
 # Monitoring time in tenths of seconds
@@ -140,6 +157,17 @@ done
 This has a matching `.config/autostart` file. 
 
 With all that, it just works! We have our software launch on boot as intended. While I still had it hooked up to a keyboard, I went through one last time to log in and configure [Browser Mod](https://github.com/thomasloven/hass-browser_mod) for remote control and that was it!
+
+## Disable sleep
+
+```bash
+$ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-ac-timeout '0'
+$ gsettings set org.gnome.settings-daemon.plugins.power sleep-inactive-battery-timeout '0'
+
+$ gsettings set org.gnome.desktop.session idle-delay 0
+
+$ sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
+```
 
 ## Home Assistant: WallPanel
 
