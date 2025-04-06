@@ -76,9 +76,9 @@ summary = "Author must be Person of Color."
 hard_mode = "Novel takes place in a futuristic, sci-fi world. NOTE: this is now a recurring, yearly square but the hard mode will be changing every year to keep it exciting."
 
 [[data]]
-title = "Book Club OR Readalong Book"
-summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs [here](https://www.reddit.com/r/Fantasy/wiki/index/bookclubs)."
-hard_mode = "Must read a current selection of either a book club or readalong and participate in the discussion."
+title = "Set in Space<br />(replacing Book Club/Readalong)"
+summary = "A book that takes place primarily (at least 50%) off planet. IE: on a spaceship, space station, asteroid, space whale, free floating in space, etc."
+hard_mode = "Characters are not originally from Earth. It is acceptable for the characters to be descendants of Earthlings as long as they are not themselves from Earth."
 
 [[data]]
 title = "Novella"

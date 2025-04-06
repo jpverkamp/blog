@@ -18,7 +18,7 @@ bingo-data:
   2024 Book Bingo:
   - 4x5+
 ---
-Yeah, this definitely fits this year's 'Judge A Book By Its Cover' on the [[2024 Book Bingo]]. I mean... look at it! I love the title and have a soft spot for the illustrated manuscript style. 
+Yeah, this definitely fits this year's 'Judge A Book By Its Cover' on the [[2024 Book Bingo]](). I mean... look at it! I love the title and have a soft spot for the illustrated manuscript style. 
 
 And then on top of that, it's actually quite a delightful book as well. Win win!
 

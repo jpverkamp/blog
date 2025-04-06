@@ -121,6 +121,6 @@ summary = "Read a book that features additional material, such as a map, footnot
 hard_mode = "Book contains at least two types of additional materials."
 
 [[data]]
-title = "Book Club or Readalong Book"
-summary = "Any past or active r/Fantasy book clubs count as well as past or active r/Fantasy readalongs. See our full list of book clubs [here](https://www.reddit.com/r/Fantasy/wiki/index/bookclubs)."
-hard_mode = "Must read a current selection of either a book club or readalong and participate in the discussion. "
+title = "Sequel<br />(replacing Book Club/Readalong)"
+summary = "Read a book that is a sequel to another SFF book."
+hard_mode = "Book 3 or on in the series. "

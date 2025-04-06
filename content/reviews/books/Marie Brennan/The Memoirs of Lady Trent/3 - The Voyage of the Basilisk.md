@@ -20,7 +20,7 @@ bingo-data:
 # - 4x4+
 # - 1x3
 ---
-The third book of [[The Memoirs of Lady Trent]]. First she went to studing dragons in rocky mountanious islands--and almost died. And then she spent some time studying river dragons deep in the jungle--and almost died. 
+The third book of [[The Memoirs of Lady Trent]](). First she went to studing dragons in rocky mountanious islands--and almost died. And then she spent some time studying river dragons deep in the jungle--and almost died. 
 
 And now she's off on a voyage around the world--akin to Darwin's [[wiki:Voyage of the Beagle]]()--to study dragons. Only to almost die not once, not twice, but at least three times. Assuming I didn't miss any. 
 

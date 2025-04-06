@@ -1,0 +1,126 @@
+version = 2
+
+[[data]]
+title = "Knights and Paladins"
+summary = "One of the protagonists is a paladin or knight."
+hard_mode = "The character has an oath or promise to keep."
+
+[[data]]
+title = "Hidden Gem"
+summary = "A book with under 1,000 ratings on Goodreads. New releases and ARCs from popular authors do not count. Follow the spirit of the square!"
+hard_mode = "Published more than five years ago."
+
+[[data]]
+title = "Published in the 80s"
+summary = "Read a book that was first published any time between 1980 and 1989."
+hard_mode = "Written by an author of color."
+
+[[data]]
+title = "High Fashion"
+summary = "Read a book where clothing/fashion or fiber arts are important to the plot. This can be a crafty main character (such as Torn by Rowenna Miller) or a setting where fashion itself is explored (like A Mask of Mirrors by M.A. Carrick)."
+hard_mode = "The main character makes clothes or fibers."
+
+[[data]]
+title = "Down With the System"
+summary = "Read a book in which a main plot revolves around disrupting a system."
+hard_mode = "Not a governmental system."
+
+[[data]]
+title = "Impossible Places"
+summary = "Read a book set in a location that would break a physicist. The geometry? Non-Euclidean. The volume? Bigger on the inside. The directions? Merely a suggestion."
+hard_mode = "At least 50% of the book takes place within the impossible place."
+
+[[data]]
+title = "A Book in Parts"
+summary = "Read a book that is separated into large sections within the main text. This can include things like acts, parts, days, years, and so on but has to be more than just chapter breaks."
+hard_mode = "The book has 4 or more parts."
+
+[[data]]
+title = "Gods and Pantheons"
+summary = "Read a book featuring divine beings."
+hard_mode = "There are multiple pantheons involved."
+
+[[data]]
+title = "Last in a Series"
+summary = "Read the final entry in a series."
+hard_mode = "The series is 4 or more books long."
+
+[[data]]
+title = "Book Club or Readalong Book"
+summary = "Read a book that was or is officially a group read on r/Fantasy. Every book added to our Goodreads shelf or on this Google Sheet counts for this square. You can see our past readalongs here."
+hard_mode = "Read and participate in an r/Fantasy book club or readalong during the Bingo year."
+
+[[data]]
+title = "Parent Protagonist"
+summary = "Read a book where a main character has a child to care for. The child does not have to be biologically related to the character."
+hard_mode = "The child is also a major character in the story."
+
+[[data]]
+title = "Epistolary"
+summary = "The book must prominently feature any of the following: diary or journal entries, letters, messages, newspaper clippings, transcripts, etc."
+hard_mode = "The book is told entirely in epistolary format."
+
+[[data]]
+title = "Published in 2025"
+summary = "A book published for the first time in 2025 (no reprints or new editions)."
+hard_mode = "It's also a debut novel--as in it's the author's first published novel."
+
+[[data]]
+title = "Author of Color"
+summary = "Read a book written by a person of color."
+hard_mode = "Read a horror novel by an author of color."
+
+[[data]]
+title = "Small Press or Self Published"
+summary = "Read a book published by a small press (not one of the Big Five publishing houses or Bloomsbury) or self-published. If a formerly self-published book has been picked up by a publisher, it only counts if you read it before it was picked up."
+hard_mode = "The book has under 100 ratings on Goodreads OR written by a marginalized author."
+
+[[data]]
+title = "Biopunk"
+summary = "Read a book that focuses on biotechnology and/or its consequences."
+hard_mode = "There is no electricity-based technology."
+
+[[data]]
+title = "Elves and/or Dwarves"
+summary = "Read a book that features the classical fantasy archetypes of elves and/or dwarves. They do not have to fit the classic tropes, but must be either named as elves and/or dwarves or be easily identified as such."
+hard_mode = "The main character is an elf or a dwarf. "
+
+[[data]]
+title = "LGBTQIA Protagonist"
+summary = "Read a book where a main character is under the LGBTQIA+ umbrella."
+hard_mode = "The character is marginalized on at least one additional axis, such as being a person of color, disabled, a member of an ethnic/religious/cultural minority in the story, etc."
+
+[[data]]
+title = "Five SFF Short Stories"
+summary = "Any short SFF story as long as there are five of them."
+hard_mode = "Read an entire SFF anthology or collection."
+
+[[data]]
+title = "Stranger in a Strange Land"
+summary = "Read a book that deals with being a foreigner in a new culture. The character (or characters, if there are a group) must be either visiting or moving in as a minority."
+hard_mode = "The main character is an immigrant or refugee."
+
+[[data]]
+title = "Recycle a Bingo Square"
+summary = "Use a square from a previous year (2015-2024) as long as it does not repeat one on the current card (as in, you can’t have two book club squares)"
+hard_mode = "Not very clever of us, but do the Hard Mode for the original square! Apologies that there are no hard modes for Bingo challenges before 2018 but that still leaves you with 7 years of challenges with hard modes to choose from."
+
+[[data]]
+title = "Cozy SFF"
+summary = "“Cozy” is up to your preferences for what you find comforting, but the genre typically features: relatable characters, low stakes, minimal conflict, and a happy ending."
+hard_mode = "The author is new to you."
+
+[[data]]
+title = "Generic Title"
+summary = "Read a book that has one or more of the following words in the title: blood, bone, broken, court, dark, shadow, song, sword, or throne (plural is allowed)."
+hard_mode = "The title contains more than one of the listed words or contains at least one word and a color, number, or animal (real or mythical)."
+
+[[data]]
+title = "Not A Book"
+summary = "Do something <b>new</b> besides reading a book! Watch a TV show, play a game, learn how to summon a demon! Okay maybe not that last one…"
+hard_mode = "Write and post a review to r/Fantasy."
+
+[[data]]
+title = "Pirates"
+summary = "Read a book where characters engage in piracy."
+hard_mode = "Not a seafaring pirate. "
