@@ -132,6 +132,6 @@ Oh it's a wonderful movie.
 
 Watch it!
 
-Which of course means [[todo:Indiana Jones and the Kingdom of the Crystal Skull]]() is up next... hmm. 
+Which of course means [[Indiana Jones and the Kingdom of the Crystal Skull]]() is up next... hmm. 
 
 <!--more-->
