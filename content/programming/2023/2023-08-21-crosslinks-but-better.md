@@ -99,7 +99,7 @@ if (and (strings.HasPrefix .PlainText "[")
     {{- if $scratch.Get "crosslink-url" -}}
         <a href="{{ $scratch.Get "crosslink-url" }}">{{ $text }}</a>
     {{- else -}}
-        {{ errorf "Markdown crosslink error in %s, for title: %s, title: %s" .Page.File.Path $title $text }}
+        {{ errorf "Markdown crosslink error in %s, for title: %s, text: %s" .Page.File.Path $title $text }}
     {{- end -}}
 
 {{- else -}}

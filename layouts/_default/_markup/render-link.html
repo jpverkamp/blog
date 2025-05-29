@@ -68,8 +68,18 @@ else if (and (strings.HasPrefix .PlainText "[")
         {{- $scratch.Set "crosslink-url" (printf "https://en.wikipedia.org/wiki/%s" $title) -}}
     {{- end -}}
 
+    {{- $title = (replace $title "&lsquo;" "'") -}}
+    {{- $title = (replace $title "&rsquo;" "'") -}}
+    {{- $title = (replace $title "‘" "'") -}}
+    {{- $title = (replace $title "’" "'") -}}
+
     {{- range $page := .Page.Site.AllPages -}}
-        {{- if (and (not ($scratch.Get "crosslink-url")) (eq $page.Title $title)) -}}
+        {{- $pageTitle := (replace $page.Title "&lsquo;" "'") -}}
+        {{- $pageTitle = (replace $pageTitle "&rsquo;" "'") -}}
+        {{- $pageTitle = (replace $pageTitle "‘" "'") -}}
+        {{- $pageTitle = (replace $pageTitle "’" "'") -}}
+
+        {{- if (and (not ($scratch.Get "crosslink-url")) (eq $pageTitle $title)) -}}
             {{- $scratch.Set "crosslink-url" $page.Permalink -}}
         {{- end -}}
     {{- end -}}
@@ -77,7 +87,7 @@ else if (and (strings.HasPrefix .PlainText "[")
     {{- if $scratch.Get "crosslink-url" -}}
         <a href="{{ $scratch.Get "crosslink-url" }}">{{ $text }}</a>
     {{- else -}}
-        {{ errorf "Markdown crosslink error in %s, for title: %s, title: %s" .Page.File.Path $title $text }}
+        {{ errorf "Markdown crosslink error in %s, for title: %s, text: %s" .Page.File.Path $title $text }}
     {{- end -}}
 
 {{- else -}}
