@@ -10,22 +10,37 @@
 
     {{- if eq .Paginator.PageNumber 1 -}}
         {{- if eq .Title "Programming" -}}
-            <h1>Popular Github Repos</h1>
-            <ul>
-                {{- range (first 10 (sort (getJSON "https://api.github.com/users/" $.Site.Params.githubUsername "/repos") "stargazers_count" "desc")) -}}
-                    <li>
-                        <a href="{{ index . "html_url" }}">{{ index . "name" }}</a>
-                        --
-                        {{ if gt (index . "watchers_count") 0 -}}
-                            {{ index . "watchers_count" }}☆
+            {{ $url := fmt.Printf "https://api.github.com/users/%s/repos" $.Site.Params.githubUsername }}
+            {{ $data := dict -}}
+            {{ $data = dict "Err" nil "Value" nil -}}
+
+            {{/* Get the remote resource */}}
+            {{/* Note: This will only work if the site is built with the hugo server */}}
+            {{ with try (resources.GetRemote $url) }}
+                {{ with .Err }}
+                    {{ errorf "%s" . }}
+                {{ else with .Value }}
+                    {{ $data = . | transform.Unmarshal }}
+
+                    <h1>Popular Github Repos</h1>
+                    <ul>
+                        {{- range (first 10 (sort $data "stargazers_count" "desc")) -}}
+                            <li>
+                                <a href="{{ index . "html_url" }}">{{ index . "name" }}</a>
+                                --
+                                {{ if gt (index . "watchers_count") 0 -}}
+                                    {{ index . "watchers_count" }}☆
+                                {{- end -}}
+                                {{ if gt (index . "forks") 0 }}
+                                    {{ index . "forks" }}⑂
+                                {{- end -}}
+                            </li>
                         {{- end -}}
-                        {{ if gt (index . "forks") 0 }}
-                            {{ index . "forks" }}⑂
-                        {{- end -}}
-                    </li>
-                {{- end -}}
-            </ul>
-            
+                    </ul>
+                {{ else }}
+                    {{ errorf "Unable to get remote resource %q" $url }}
+                {{ end }}
+            {{ end }}
             <h1>Posts</h1>
         {{- end -}}
     {{- end -}}
