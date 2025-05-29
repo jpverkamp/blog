@@ -2,11 +2,28 @@ LAST_COMMIT := `git log -1 --pretty=%B | head -n 1`
 
 run baseURL="localhost":
 	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
-	hugo server --baseURL {{baseURL}} --watch --logLevel info --buildFuture --buildDrafts --bind 0.0.0.0 --port 80
+	hugo server \
+		--baseURL {{baseURL}}		\
+		--watch --logLevel info 	\
+		--buildFuture --buildDrafts \
+		--bind 0.0.0.0 --port 80    \
+		--disableKinds RSS			
+
 
 debug baseURL="localhost":
 	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
-	hugo server --baseURL {{baseURL}} --watch --logLevel info --buildFuture --buildDrafts --bind 0.0.0.0 --port 80 --debug
+	hugo server \
+		--baseURL {{baseURL}} 		\
+		--watch --logLevel debug	\
+		--buildFuture --buildDrafts \
+		--disableKinds RSS			\
+		--bind 0.0.0.0 --port 80 	\
+		--printI18nWarnings        	\
+		--printMemoryUsage         	\
+		--printPathWarnings        	\
+		--printUnusedTemplates     	\
+		--templateMetrics          	\
+		--templateMetricsHints		
 
 import-flickr:
 	python3 scripts/flickr.py --generate
