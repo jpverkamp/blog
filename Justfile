@@ -1,24 +1,27 @@
 LAST_COMMIT := `git log -1 --pretty=%B | head -n 1`
 
 run baseURL="localhost":
-	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
-	just run-hugo baseURL="localhost"
+	npm_config_yes=true npx pagefind --site "build/run" --output-subdir ../static/pagefind
+	just --justfile {{justfile()}} run-hugo "{{baseURL}}"
 
 run-hugo baseURL="localhost":
 	hugo server \
 		--baseURL {{baseURL}}		\
+		--environment staging		\
+		--destination build/run     \
 		--watch --logLevel info 	\
 		--buildFuture --buildDrafts \
-		--bind 0.0.0.0 --port 80    \
-		--disableKinds RSS			
+		--bind 0.0.0.0 --port 80
 
 debug baseURL="localhost":
-	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
-	just run debug-hugo baseURL="localhost"
+	npm_config_yes=true npx pagefind --site "build/debug" --output-subdir ../static/pagefind
+	just --justfile {{justfile()}} run debug-hugo "{{baseURL}}"
 
 debug-hugo baseURL="localhost":
 	hugo server \
 		--baseURL {{baseURL}} 		\
+		--environment development	\
+		--destination build/debug   \
 		--watch --logLevel debug	\
 		--buildFuture --buildDrafts \
 		--disableKinds RSS			\
@@ -47,10 +50,10 @@ push:
 	git push origin HEAD
 
 build:
-	if [ ! -d public ]; then git clone git@github.com:jpverkamp/jpverkamp.github.io.git public; fi
-	cd public; git wipe; git pull --rebase --prune; git submodule update --init --recursive
+	if [ ! -d build/release ]; then mkdir -p build; git clone git@github.com:jpverkamp/jpverkamp.github.io.git build/release; fi
+	cd build/release; git wipe; git pull --rebase --prune; git submodule update --init --recursive
 	
-	hugo --minify
+	hugo --minify --destination build/release
 	npx pagefind --site "public"
 
 	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
