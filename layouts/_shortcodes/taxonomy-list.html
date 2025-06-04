@@ -9,13 +9,18 @@
                 {{- $data = $pages -}}
             {{- end -}}
         {{- end -}}
-        {{- range $page := $data.Pages.ByDate -}}
-            <li>
-                <a href="{{ $page.Permalink }}">
-                    {{ $page.Title }}
-                </a>
-                {{- partial "series.html" $page -}}
-            </li>
+
+        {{- if gt (len $data) 0 -}}
+            {{- range $page := $data -}}
+                <li>
+                    <a href="{{ $page.Permalink }}">
+                        {{ $page.Title }}
+                    </a>
+                    {{- partial "series.html" $page -}}
+                </li>
+            {{- end -}}
+        {{- else -}}
+            <li>No posts found.</li>
         {{- end -}}
         </ul>
     </div>
