@@ -2,6 +2,9 @@ LAST_COMMIT := `git log -1 --pretty=%B | head -n 1`
 
 run baseURL="localhost":
 	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
+	just run-hugo baseURL="localhost"
+
+run-hugo baseURL="localhost":
 	hugo server \
 		--baseURL {{baseURL}}		\
 		--watch --logLevel info 	\
@@ -9,9 +12,11 @@ run baseURL="localhost":
 		--bind 0.0.0.0 --port 80    \
 		--disableKinds RSS			
 
-
 debug baseURL="localhost":
 	npm_config_yes=true npx pagefind --site "public" --output-subdir ../static/pagefind
+	just run debug-hugo baseURL="localhost"
+
+debug-hugo baseURL="localhost":
 	hugo server \
 		--baseURL {{baseURL}} 		\
 		--watch --logLevel debug	\
