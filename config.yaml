@@ -22,13 +22,16 @@ outputFormats:
     baseName: "atom"
 
 permalinks:
-    photography: /:year/:month/:day/:title/
-    programming: /:year/:month/:day/:title/
-    research: /:year/:month/:day/:title/
-    writing: /:year/:month/:day/:title/
-    reviews: /:year/:month/:day/:title/
-    other: /:year/:month/:day/:title/
-    page: /:title/
+    taxonomy:
+        tags: /:slug/
+    page:
+        home-automation: /:year/:month/:day/:title/
+        programming: /:year/:month/:day/:title/
+        research: /:year/:month/:day/:title/
+        writing: /:year/:month/:day/:title/
+        reviews: /:year/:month/:day/:title/
+        other: /:year/:month/:day/:title/
+        page: /:title/
 
 taxonomies:
     series: series
