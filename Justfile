@@ -54,10 +54,10 @@ build:
 	cd build/release; git wipe; git pull --rebase --prune; git submodule update --init --recursive
 	
 	hugo --minify --destination build/release
-	npx pagefind --site "public"
+	npx pagefind --site "build/release"
 
-	cd public; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
-	cd public; git status
+	cd build/release; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
+	cd build/release; git status
 
 check-drafts:
 	@if grep -iR "draft: true" content; then \
@@ -72,6 +72,6 @@ check-drafts:
 	fi
 
 deploy: check-drafts push build
-	cd public; git add .
-	cd public; git commit -m "Automatic deployment: {{LAST_COMMIT}}"
-	cd public; git push origin master
+	cd build/release; git add .
+	cd build/release; git commit -m "Automatic deployment: {{LAST_COMMIT}}"
+	cd build/release; git push origin master
