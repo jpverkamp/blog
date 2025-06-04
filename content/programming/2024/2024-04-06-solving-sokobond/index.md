@@ -32,9 +32,9 @@ This eventually gets more complicated, adding:
 
 It's a pretty neat puzzle game with 144 levels of increasing difficulty. Perfect to solve.
 
-- - -
-
 <!--more-->
+
+- - -
 
 {{<toc>}}
 

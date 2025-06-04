@@ -29,9 +29,9 @@ And I'm worried we won't see more/any of this for at the very least a very long 
 
 It's still very worth the read. 
 
-- - - - -
+- - <!--more-->
 
-<!--more-->
+- - -
 
 A few small parts I particularly enjoyed:
 

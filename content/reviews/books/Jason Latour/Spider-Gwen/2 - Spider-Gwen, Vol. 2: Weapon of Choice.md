@@ -26,9 +26,9 @@ Time running out for Gwen, Castle on her tail—and on the edge it seems—and C
 
 Intense. Curious how long this lasts. 
 
-----
+-<!--more-->
 
-<!--more-->
+- - -
 
 Thoughts as I’m reading; SPOILERS!
 

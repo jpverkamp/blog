@@ -18,9 +18,9 @@ The cast is great of course, with Tom Hiddleston's Loki carrying the show. I rea
 
 As I mentioned in [the last episode review below](#6-glorious-purpose), it's a crazy show, and there's a lot to like about it. It could really change everything... but I have the unfortunate feeling they're not going to let it. We shall have to see!
 
-- - - - -
+- - <!--more-->
 
-<!--more-->
+- - -
 
 Episode by episode reviews:
 

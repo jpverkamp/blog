@@ -21,9 +21,9 @@ Side note: I do with Shortcuts had the ability to share a JSON (or whatever) fil
 
 But that's just the Apple way it seem :\ So it goes. 
 
-- - - 
-
 <!--more-->
+
+- - -
 
 ## Enabling Grayness
 

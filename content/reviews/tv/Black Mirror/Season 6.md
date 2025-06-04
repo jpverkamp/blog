@@ -19,9 +19,9 @@ I actually watched *Joan is Awful* on accident a while back and that's really th
 
 Other than that, this is really getting more into horror anthology territory, which I'm not sure what to think about. I'll still catch Season 7 if/when it's out, but it's a bit less sure than I used to be. 
 
-- - - 
-
 <!--more-->
+
+- - -
 
 Episodes:
 

@@ -21,9 +21,9 @@ It's an interesting style and I think it gives a lot to the book. It's also non-
 
 Overall, I think it's weaker than the first five Lady Trent books, but there's a bit more depth to the Draconean history we didn't quite get to in those books, which I appreciated. If that's something you were left wanting more of, go for it!
 
-- - - 
-
 <!--more-->
+
+- - -
 
 A few supporting notes / other comments. 
 

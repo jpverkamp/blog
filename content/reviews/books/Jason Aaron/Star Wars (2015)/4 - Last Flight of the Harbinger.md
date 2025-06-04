@@ -28,9 +28,9 @@ Worth a read!
 
 On a side note: how much or how little the artwork looks like Mark Hammill/Harrison Ford/Carrie Fisher varies *widely*, especially if you include issue covers. 
 
-- - -
-
 <!--more-->
+
+- - -
 
 For the first, it’s always interesting to see the little guys on the other side of a conflict:
 ![](/embeds/books/attachments/star-wars-2015-v4-e88114.png)

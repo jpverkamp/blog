@@ -27,9 +27,9 @@ And here's the fun part: if you find a combination no one has ever found before:
 
 So of course seeing something like this I want to automate it. :smile:
 
-- - -
-
 <!--more-->
+
+- - -
 
 {{<toc>}}
 

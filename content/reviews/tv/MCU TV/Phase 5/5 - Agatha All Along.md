@@ -71,9 +71,9 @@ Man that song has been stuck in my head for weeks now.
 
 I personally would have dropped the last half of the last episode, the penultimate really works better as a conclusion. This really doesn't need a sequel (although apparently there will be a third show as a 'TV trilogy' sort of thing?), but so it goes. 
 
----
-
 <!--more-->
+
+- - -
 
 Episode by episode reviews (potential spoilers for previous episodes).
 

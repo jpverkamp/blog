@@ -27,9 +27,9 @@ I first read [[Jade City]]() and [[Jade War]]() a few years[^time] ago--before t
 
 And oh, does this book ever deliver. If you're like me and have read the first two and not this--what are you waiting for? 
 
-- - -
-
 <!--more-->
+
+- - -
 
 On a slightly more detailed front, this is an epic conclusion all the stories that came before, at once at far more scale (both in time and place) and more personal (several more close calls... and more deaths)[^size]. 
 

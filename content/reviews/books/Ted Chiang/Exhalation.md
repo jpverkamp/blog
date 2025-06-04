@@ -24,9 +24,9 @@ In particular, I *The Merchant and the Alchemist's Gate* and *Anxiety is the Diz
 
 It's interesting, I think that especially from this book, I find that I enjoy scifi more in shorts--you have time to explore many more *ideas* there--and longer form in fantasy--really digging into the worlds and characters more than the ideas. 
 
----
-
 <!--more-->
+
+- - -
 
 Thoughts on each short--spoilers should be minimal at worst. 
 
