@@ -2,6 +2,7 @@ secrets.yaml
 *.pyc
 __pycache__
 public/
+build/
 .DS_Store
 _cache
 *.lock
