@@ -1,63 +1,41 @@
 {{ define "title" }}
-    Reviews – {{ .Site.Title -}}
+    {{- if .Data.Singular -}}
+        {{- replace .Data.Singular "/" ", " | title }}:
+    {{ end -}}
+    {{- .Title }} - {{ .Site.Title -}}
 {{ end }}
 
 {{ define "main" }}
-    <header>    
-		<h1 class="entry-title">
-            {{ if not (index .Params "is_review_meta") }}Review:{{ end }} {{ .Title -}}       
-        </h1>
-    </header>
+    <h1 class="entry-title" data-pagefind-meta="title">
+        {{- if .Data.Singular -}}
+            {{- replace .Data.Singular "/" ", " | title }}:
+        {{ end -}}
+        {{- .Title }}
+        {{- partial "series.html" . -}}
+    </h1>
 
-    <div class="entry-content">
-        {{- .Content -}}
-    </div>
-
-    <h2>Current Lists</h2>
-    <ul>
-        <li><a href="/reviews/authors">All reviews by author</a></li>
-        <li><a href="/reviews/series">All reviews by series</a></li>
-        <li><a href="/2025/04/01/2025-book-bingo/">2025/2026 Book Bingo Card</a> (<a href="/reviews/lists/r/fantasy-book-bingo/">all Bingo posts</a>)</li>
-        <li><a href="/reviews/lists/2025-book-reviews/">2025 Book Reviews</a></li>
-        <li><a href="/reviews/lists/2025-movie-reviews/">2025 Movie Reviews</a></li>
-        <li><a href="/reviews/lists/2025-tv-reviews/">2025 TV Reviews</a></li>
-    </ul>
-
-    <h2>Categories</h2>
-
-    {{/* Render taxonomies with a matching prefix, but not on the home page */}}
-    {{- if $.Section -}}
-    {{- partial "taxonomy-list.html" . -}}
+  <div class="entry-content">{{- .Content -}}</div>
+  
+  <div class="cover-list">
+    {{- range .Pages | first 20 -}}
+      {{- if isset .Params "cover" -}} 
+      <figure class="cover-image">
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.cover }}" />
+        </a>
+      </figure>
+      {{- end -}}
     {{- end -}}
+    {{- if gt (len .Pages) 20 -}}(and more!){{- end -}}
+  </div>
 
-    <h2>Recent Reviews (Mixed)</h2>
-    <div class="cover-list">
-        {{- .Scratch.Set "count" 0 -}}
-        {{- range $i, $page := .Pages -}}
-            {{- if $page.Params.is_review_meta -}}
-                {{- /* skip meta posts */ -}}
-            {{- else if gt $i 20 -}}
-                {{- /* already printed twenty */ -}}
-            {{- else -}}
-                {{- if isset .Params "cover" -}}
-                    {{- $.Scratch.Add "count" 1 -}}
-                    <figure class="cover-image">
-                        <a href="{{ .Permalink }}">
-                            <img src="{{ .Params.cover }}" />
-                        </a>
-                    </figure>
-                {{- end -}}
-            {{- end -}}
-        {{- end -}}
-    </div>
-
-    <h1>All Reviews</h1>
-    <ul>
-        {{- range .Pages -}}
-        <li>
-            {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
-            <a href="{{ .Permalink }}">{{ .Title }}</a>{{ partial "series.html" . }}
-        </li>
-        {{- end -}}
-    </ul>
+  <ul>
+    {{- range .Pages -}}
+    <li>
+        {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>{{ partial
+      "series.html" . }}
+    </li>
+    {{- end -}}
+  </ul>
 {{- end -}}

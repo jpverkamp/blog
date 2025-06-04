@@ -1,0 +1,54 @@
+{{ define "title" }}
+    {{- if .Data.Singular -}}
+        {{- replace .Data.Singular "/" ", " | title }}:
+    {{ end -}}
+    {{- .Title }} - {{ .Site.Title -}}
+{{ end }}
+
+{{ define "main" }}
+    <h1 class="entry-title" data-pagefind-meta="title">
+        {{- if .Data.Singular -}}
+            {{- replace .Data.Singular "/" ", " | title }}:
+        {{ end -}}
+        {{- .Title }}
+        {{- partial "series.html" . -}}
+    </h1>
+
+  <div class="entry-content">{{- .Content -}}</div>
+
+  {{- $pageList := slice -}}
+  {{- range .Pages -}}
+      {{- $page := . }}
+      {{- range $i, $series := index .Params "reviews/series" -}}
+          {{- if eq $.Title $series }}
+              {{ $pageList = $pageList | append (dict
+                  "index" (index (default (slice 0) $page.Params.series_index) $i)
+                  "page" $page
+              ) }}
+          {{- end -}}
+      {{- end -}}
+  {{- end }}
+  {{- $pageList := sort $pageList "index" }}
+
+  <div class="cover-list">
+    {{- range $pageList -}}
+      {{- if isset .page.Params "cover" -}} 
+      <figure class="cover-image">
+        <a href="{{ .page.Permalink }}">
+          <img src="{{ .page.Params.cover }}" />
+        </a>
+      </figure>
+      {{- end -}}
+    {{- end -}}
+  </div>
+
+  <ul>
+    {{- range $pageList -}}
+    <li>
+      {{- if gt .index 0 }}{{ .index }}: {{ end -}}
+      <a href="{{ .page.Permalink }}">{{ .page.Title }}</a>{{ partial
+      "series.html" .page }}
+    </li>
+    {{- end -}}
+  </ul>
+{{- end -}}

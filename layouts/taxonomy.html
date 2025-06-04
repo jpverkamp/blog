@@ -1,48 +1,40 @@
+{{ define "title" }}
+    {{- if .Data.Plural -}}
+        {{- replace .Data.Plural "/" ", " | title }}
+    {{ else }}
+        {{- .Title }}
+    {{ end -}} - {{ .Site.Title -}}
+{{ end }}
+
 {{ define "main" }}
     <div class="entry-content">
         {{- .Content -}}
     </div>
-
-    {{/* partial "taxonomy-list.html" . */}}
-
-    {{- $last := add (len .Paginator.Pages) -1 -}}
-    {{- range $i, $page := .Paginator.Pages -}}
-    {{- with $page -}}
+    
+    <h1 class="entry-title" data-pagefind-meta="title">
+        {{- if .Data.Plural -}}
+            {{- replace .Data.Plural "/" ", " | title }}
+        {{ else }}
+            {{- .Title }}
+        {{ end -}}
+        {{- partial "series.html" . -}}
+    </h1>
     <article class="li">
-    	<header>
-    		<h1 class="entry-title">
-                <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>{{- partial "series.html" . -}}
-            </h1>
-
-    		<div class="entry-meta">
-                {{- if .Date -}}
-                <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
-                <!--
-                <span class="entry-date" data-posted-on="{{ .Date.Format "2006-01-02" }}">
-                    <span class="month">{{ .Date.Month }}</span>
-                    <span class="day">{{ .Date.Day }}</span><span class="sep">, </span>
-                    <span class="year">{{ .Date.Year }}</span>
-                </span>
-                -->
-                {{- end -}}
-    		</div>
-    	</header>
     	<div class="entry-content">
-        {{- if .Truncated -}}
-                {{- .Summary -}}
-                <p><a href="{{ .RelPermalink }}">read more...</a></p>
-            {{- else -}}
-                {{- .Content -}}
-            {{- end -}}
-    	</div>
-
-        {{/* Add the HR to all but the last element and the last one only if we have more than one page */}}
-        {{- if or (not (eq $i $last)) (gt $.Paginator.TotalPages 1) }}<hr />{{ end -}}
+            <table>
+                <tr>
+                    <th></th>
+                    <th>Posts</th>
+                    <th>Most recent</th>
+                </tr>
+                {{- range (sort .Pages "Title") -}}
+                <tr>
+                    <td><a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a></td>
+                    <td>{{ len .Data.Pages }}</td>
+                    <td>{{- if .Date -}}{{ .Date.Format "2006-01-02" }}{{- end -}}</td>
+                </tr>
+                {{- end -}}        
+            </table>
+        </div>
     </article>
-    {{- end -}}
-    {{- end -}}
-
-    <nav id="pagination-navigation" role="navigation">
-        {{- template "_internal/pagination.html" . -}}
-    </nav>
-{{- end -}}
+{{ end }}

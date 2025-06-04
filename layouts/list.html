@@ -1,51 +1,38 @@
+{{ define "title" }}
+    {{- if .Data.Singular -}}
+        {{- replace .Data.Singular "/" ", " | title }}:
+    {{ end -}}
+    {{- .Title }} - {{ .Site.Title -}}
+{{ end }}
+
 {{ define "main" }}
+    <h1 class="entry-title" data-pagefind-meta="title">
+        {{- if .Data.Singular -}}
+            {{- replace .Data.Singular "/" ", " | title }}:
+        {{ end -}}
+        {{- .Title }}
+        {{- partial "series.html" . -}}
+    </h1>
+
     <div class="entry-content">
         {{- .Content -}}
     </div>
-
-    {{/* Render taxonomies with a matching prefix, but not on the home page */}}
-    {{- if $.Section -}}
-    {{- partial "taxonomy-list.html" . -}}
+    {{- if .Content -}}
+    <hr>
     {{- end -}}
 
-    {{- if eq .Paginator.PageNumber 1 -}}
-        {{- if eq .Title "Programming" -}}
-            {{ $url := fmt.Printf "https://api.github.com/users/%s/repos" $.Site.Params.githubUsername }}
-            {{ $data := dict -}}
-            {{ $data = dict "Err" nil "Value" nil -}}
-
-            {{/* Get the remote resource */}}
-            {{/* Note: This will only work if the site is built with the hugo server */}}
-            {{ with try (resources.GetRemote $url) }}
-                {{ with .Err }}
-                    {{ errorf "%s" . }}
-                {{ else with .Value }}
-                    {{ $data = . | transform.Unmarshal }}
-
-                    <h1>Popular Github Repos</h1>
-                    <ul>
-                        {{- range (first 10 (sort $data "stargazers_count" "desc")) -}}
-                            <li>
-                                <a href="{{ index . "html_url" }}">{{ index . "name" }}</a>
-                                --
-                                {{ if gt (index . "watchers_count") 0 -}}
-                                    {{ index . "watchers_count" }}☆
-                                {{- end -}}
-                                {{ if gt (index . "forks") 0 }}
-                                    {{ index . "forks" }}⑂
-                                {{- end -}}
-                            </li>
-                        {{- end -}}
-                    </ul>
-                {{ else }}
-                    {{ errorf "Unable to get remote resource %q" $url }}
-                {{ end }}
-            {{ end }}
-            <h1>Posts</h1>
+    <h2>All posts</h2>
+    <ul>
+        {{- range .Pages -}}
+        <li>
+            {{- if not .Date.IsZero }}<span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>:{{ end }}
+          <a href="{{ .Permalink }}">{{ .Title }}</a>{{ partial
+          "series.html" . }}
+        </li>
         {{- end -}}
-    {{- end -}}
+    </ul>
 
-    {{/* Render posts on this list, but paginate (so many posts) */}}
+    <h2>Recent posts</h2>
     <div class="post-list">
     {{- $last := add (len .Paginator.Pages) -1 -}}
     {{- range $i, $page := .Paginator.Pages -}}

@@ -35,3 +35,20 @@
         </div>
     </div>
 </footer>
+{{- if eq hugo.Environment "development" -}}
+<pre style="background: white;">
+Debug:
+{{ debug.Dump . }}
+
+Params
+{{ debug.Dump .Params }}
+
+Data
+{{- range $key, $data := .Data }}
+{{ $key }}: {{ $data }}
+{{- end }}
+
+Environment
+{{ hugo.Environment }}
+</pre>
+{{- end -}}
