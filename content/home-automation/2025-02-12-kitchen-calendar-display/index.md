@@ -11,6 +11,8 @@ programming/topics:
 ---
 ![The final display on the wall](final-display.jpg)
 
+**UPDATE 2025-06-05: [And... I give up: Plan B](#and-i-give-up-plan-b)**
+
 I've been on a home automation kick for the last little while, so what better time than to dust off an old project and put up a home / family dashboard in the kitchen/dining room!
 
 Previously, I had this running off a FireTV and [MagicMirror](https://magicmirror.builders/). This worked well enough... but oh man is the FireTV browser terrible. Plus I had to do some crazy things to get it to stay on and never could get it to launch right back into the display on a power outage. So now we have version 2!
@@ -243,3 +245,43 @@ For the case, I just printed [this one](https://www.thingiverse.com/thing:631966
 ## Overview
 
 And... that's it! It was a fun little project and so much better to get working that my previous FireTV + MagicMirror setup. We'll have to see what else I can do with it now!
+
+## And... I give up: Plan B
+
+Man, that was such a cool idea. 
+
+In the end though, the hardware just kept burning through SD cards. I could reset them or switch them out and it would work for a while longer, but that's not really something that I want to deal with. So instead, I already have a server I'm using. 
+
+1. Hook a wireless HDMI transmitter/receiver to the server + my display. 
+
+    That's really it. 
+
+    But if you want to remote in to manage it, this is what I have set up:
+
+2. Set up Vino (Gnome VNC server):
+
+    ```bash
+    # Enable vino
+    gsettings set org.gnome.Vino prompt-enabled true
+
+    # Disable encryption
+    # Yes, I know
+    gsettings set org.gnome.Vino require-encryption false
+
+    # Only allow connections over loopback
+    # This makes the above better :)
+    gsettings set org.gnome.Vino network-interface lo
+    ```
+
+3. Set up an SSH tunnel + the VNC server (to set it up)
+
+    ```bash
+    # The -L is tunneling, 5900 to 5900 is the VNC port, connecting to localhost
+    # The --display :0 is to connect to the default display
+    # You should only need to change the yourself.local
+    ssh -L 5900:localhost:5900 yourserver.local /usr/lib/vino/vino-server --display :0
+    ```
+
+4. Profit? (Not likely)
+
+Such is life. 
