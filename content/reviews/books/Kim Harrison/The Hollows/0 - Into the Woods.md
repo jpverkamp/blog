@@ -29,20 +29,13 @@ Because I track my reading, I have to draw the line somewhere, so here it is: al
 
 ## The Bespelled
 
-draft: true
+So here we have the backstory of Al and Ceri, a thousand years ago. 
 
-# The bespelled 
-Al backstory
+Oy. 
 
-Ceri  7 years
+It'll be interesting to see more of her (and it was interesting to see where those blue butterflies came from). 
 
-टtarot ceri on death taken by a demon. Second rate Italian painter. 
-
-Card was demon being drug off 
-
-"Take me"
-
-> another thousand years
+And now I really want to know who that 'second rate Italian painter' was. 
 
 ## Two Ghosts for Sister Rachel
 
