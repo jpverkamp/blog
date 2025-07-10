@@ -27,7 +27,22 @@ Because I track my reading, I have to draw the line somewhere, so here it is: al
 
 - - -
 
-## The Bespelled (*todo*)
+## The Bespelled
+
+draft: true
+
+# The bespelled 
+Al backstory
+
+Ceri  7 years
+
+टtarot ceri on death taken by a demon. Second rate Italian painter. 
+
+Card was demon being drug off 
+
+"Take me"
+
+> another thousand years
 
 ## Two Ghosts for Sister Rachel
 
@@ -67,9 +82,9 @@ Oh Kisten.
 
 It's a cute story, but oy that timing.
 
-## Ley Line Driver (*todo*)
+## Ley Line Driver
 
-A novella, see: [[todo:Ley Line Drifter]]()
+A novella, see: [[Ley Line Drifter]]()
 
 ## Million Dollar Baby (*todo*)
 
