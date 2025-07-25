@@ -87,7 +87,8 @@ while True:
 
         additional_headers[header_key] = value
 
-    additional_headers['reviews/cast'] = {person['name']: str(person.currentRole) for person in more_data['cast']}
+    if 'cast' in more_data:
+        additional_headers['reviews/cast'] = {person['name']: str(person.currentRole) for person in more_data['cast']}
 
     # Ask for series information
     series_input = input('Part of a series? (ex "The Matrix #1" (multiple comma delimited) or leave blank to skip) ')
@@ -127,13 +128,20 @@ while True:
         content_type = 'tv'
 
     # Download cover
-    cover_url = movie['full-size cover url']
-    cover_filename = slug + '.jpg'
-    logging.info(f'Saving cover {cover_filename} <- {cover_url}')
+    import pprint
+    pprint.pprint(movie)
 
-    image = Image.open(requests.get(cover_url, stream=True).raw)
-    image = image.resize(TARGET_COVER_SIZE)
-    image.save(os.path.join(COVER_DIR, content_type, cover_filename))
+    try:
+        cover_url = movie['full-size cover url']
+        cover_filename = slug + '.jpg'
+        logging.info(f'Saving cover {cover_filename} <- {cover_url}')
+
+        image = Image.open(requests.get(cover_url, stream=True).raw)
+        image = image.resize(TARGET_COVER_SIZE)
+        image.save(os.path.join(COVER_DIR, content_type, cover_filename))
+    except Exception as ex:
+        logging.error(f'Error downloading cover: {ex}')
+        cover_filename = None
 
     # Create post
     if content_type == 'tv':
