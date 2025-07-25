@@ -79,9 +79,9 @@ It's a cute story, but oy that timing.
 
 A novella, see: [[Ley Line Drifter]]()
 
-## Million Dollar Baby (*todo*)
+## Million Dollar Baby
 
-A novella, see: [[todo:Million Doller Baby]]()
+A novella, see: [[Million Dollar Baby]]()
 
 ## Pet Shop Boys (*todo*)
 

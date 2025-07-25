@@ -12,7 +12,6 @@ comments: False
 * Resume: https://blog.jverkamp.com/resume/
 * Github: https://github.com/jpverkamp/
 
-
 ---
 
 ## Industry Experience
@@ -21,9 +20,13 @@ comments: False
 
 #### Senior Security Engineer (Application Security) (Remote)
 
-* Headed project to triage, detect, and remove any secrets committed to source code both retroactively and on an ongoing basis for new pull requests. Implemented [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) [Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning). 
+* Headed project to triage, detect, and remove any secrets committed to source code both retroactively and on an ongoing basis for new pull requests. Implemented [GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security) [Secret Scanning](https://docs.github.com/en/code-security/secret-scanning/about-secret-scanning) and [Entro Security](https://entro.security/). 
 
+* Modernized security header posture across web applications with a focus on implementing and refining strict Content Security Policies (CSP) and implementing monitoring to proactively detect CSP misconfiguration. 
 
+* Participated in on-call security rotation, handling real-time incident response, security-focused code reviews, and triage of security reports.
+
+* Supported engineering teams via the internal "Ask Security" queue, providing guidance on secure architecture and design patterns.
 
 ### 2020 -- 2022: [Ethos Life](https://www.ethoslife.com/)
 
@@ -37,7 +40,7 @@ comments: False
 
 * Set up a logging and inventory system to synchronize and detect oddities between various systems used by IT, infrastructure, and employees at the company. 
 
-### 2013 -- 2020: [Edmodo](https://edmodo.com/)
+### 2013 -- 2020: [Edmodo](https://en.wikipedia.org/wiki/Edmodo)
 
 #### Senior Security/Operations Engineer (Onsite in 2013 to Remote in 2016)
 
