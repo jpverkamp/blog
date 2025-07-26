@@ -4,7 +4,17 @@ date: 2025-07-21
 programming/languages:
 - Assembly
 programming/topics:
-- TODO
+- Assemblers
+- Assembly Languages
+- Binary
+- Circuits
+- Games
+- Simulation
+- Stacks
+- Virtual Machines
+- Computer Engineering
+- CPU Design
+- Virtual Machines
 ---
 Over the past couple of weeks, I've spent entirely longer than I probably should have falling down the rabbit hole that is the game [Turing Complete](https://store.steampowered.com/app/1444480/Turing_Complete/). 
 
