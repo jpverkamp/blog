@@ -29,8 +29,8 @@ It's again not my favorite novel, but if you liked The Color of Magic, you'll pr
 
 Random fun things I particularly liked about this book:  
 
-\- The Luggage. It's quite the idea and a lot of fun for a character that can't even speak.  
+- The Luggage. It's quite the idea and a lot of fun for a character that can't even speak.  
 
-\- The Druids and their stone 'computer'. It feels like padding, but it's an interesting aside into what could/probably will be expanded in a later book.  
+- The Druids and their stone 'computer'. It feels like padding, but it's an interesting aside into what could/probably will be expanded in a later book.  
 
-\- The shopkeepers. Cursed by some random wizard to never close because they didn't have something in stock. A good example of Prachett taking something you see in the real world and amplifying it.
+- The shopkeepers. Cursed by some random wizard to never close because they didn't have something in stock. A good example of Prachett taking something you see in the real world and amplifying it.

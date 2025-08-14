@@ -15,7 +15,7 @@ rating: 5
 page_count: 59
 series_index: [8, 0]
 ---
-I've previously listened about this story on the [Writing Excuses](http://www.writingexcuses.com/) podcast and read it in the [Shadows Beneath](https://www.goodreads.com/book/show/21844946-shadows- beneath?from_search=true) anthology, but it's just as weird/good now as it was then.  
+I've previously listened about this story on the [Writing Excuses](http://www.writingexcuses.com/) podcast and read it in the [Shadows Beneath](https://www.goodreads.com/book/show/21844946-shadows-beneath?from_search=true) anthology, but it's just as weird/good now as it was then.  
 
 Worldbuildingwise, the idea of an ocean culture that travels between terrifying islands (with just as terrifying beasties in the water) is fascinating. Sentient birds (  {{< spoiler >}}/ worms{{< /spoiler >}}  ) that people can tame and carry with them to grant them special powers? Yes please.  
 

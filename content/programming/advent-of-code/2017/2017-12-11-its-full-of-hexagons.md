@@ -11,17 +11,16 @@ series:
 ### Source: [Hex Ed](http://adventofcode.com/2017/day/11)[^punny]
 
 > **Part 1:** Work on a hex grid:
-
+>
 > ```
-  \ n  /
-nw +--+ ne
-  /    \
--+      +-
-  \    /
-sw +--+ se
-  / s  \
-```
-
+>   \ n  /
+> nw +--+ ne
+>   /    \
+> -+      +-
+>   \    /
+> sw +--+ se
+>   / s  \
+> ```
 > Given a series of steps (`n`, `se`, `ne`) etc, how many steps away from the origin do you end up?
 
 <!--more-->

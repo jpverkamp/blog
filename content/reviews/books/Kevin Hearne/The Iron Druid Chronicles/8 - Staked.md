@@ -14,7 +14,7 @@ rating: 4
 page_count: 336
 series_index: [8]
 ---
-It looks like I started reviewing individual books after I read the first seven Iron Druid books, so this is my first individual review. I reviewed the first seven all together on my blog: [https://blog.jverkamp.com/2015/02/20/...](https://blog.jverkamp.com/2015/02/20/the- iron-druid-chronicles/)  
+It looks like I started reviewing individual books after I read the first seven Iron Druid books, so this is my first individual review.
 
 On the downside, Staked has pretty much the same issues I've had with each of the previous novels. I don't really care for the shifting points of view, either the style or the additional viewpoint characters themselves. I think the talking dogs are vastly overdone. The worldbuilding (although neat in a lot of places) is badly kitchen sinky, with literally everything thrown into the same world. And Atticus is just too strong. He's always been too strong from the first book and never felt like he had/has to work at anything.  
 

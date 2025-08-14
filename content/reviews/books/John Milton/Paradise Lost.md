@@ -39,7 +39,7 @@ A few thoughts (that will come up throughout the review):
 
 * God knew they would make that choice, wouldn't He have? And if it was such a bad choice, He could have just scrubbed the universe and started over, who would have known?
 
-Like I said, I'm sure a lot of hardline Christians would either be thrilled to hear any one of those questions--or alternatively *actually* thrilled to talk about it, in which case [mailto:blog@jverkamp.com](feel free to email me :))
+Like I said, I'm sure a lot of hardline Christians would either be thrilled to hear any one of those questions--or alternatively *actually* thrilled to talk about it, in which case [feel free to email me :)](mailto:blog@jverkamp.com)
 
 All that being said, here are my thoughts as I was reading Paradise lost. Good luck?
 

@@ -23,7 +23,7 @@ It's funny and there are more than enough hints and examples to give you a few m
 
 I would argue that not even that is an obligation, but it certainly helps. There's a passion to it you can feel and something I should probably pay a little more attention to in my own works.  
 
-On the downside, just about everything in this book comes almost directly from Hickson's [Hello Future Me YouTube channel](https://www.youtube.com/channel/UCFQMO-YL87u-6Rt8hIVsRjA), specifically the [On writing](https://www.youtube.com/watch?v=YqC7IVKQPbg&list=PL1TLSKocOLTvdl54a6wgNdB8oSm- eZ7h6) playlist. Certainly helpful if you prefer one medium over the other, but I've already seen all of his YouTube videos. It was interesting to see them in another form though.  
+On the downside, just about everything in this book comes almost directly from Hickson's [Hello Future Me YouTube channel](https://www.youtube.com/channel/UCFQMO-YL87u-6Rt8hIVsRjA), specifically the [On writing](https://www.youtube.com/watch?v=YqC7IVKQPbg&list=PL1TLSKocOLTvdl54a6wgNdB8oSm-eZ7h6) playlist. Certainly helpful if you prefer one medium over the other, but I've already seen all of his YouTube videos. It was interesting to see them in another form though.  
 
 Another interesting comment is that several chapters that deal with magic systems crib heavily from Sanderson's 'Three Rules of Magic'.  
 

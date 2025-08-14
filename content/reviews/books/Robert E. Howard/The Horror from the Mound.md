@@ -17,6 +17,6 @@ If The Horror from the Mound is any indication, Howard took the feel of the worl
 
 <!--more-->
 
-If you'd like to listen to the story, Pseudopod had an excellent recording on their 11 Aug 2016 release: [Pseudopod 503: The Horror from the Mound](http://pseudopod.org/2016/08/11/pseudopod-503-the-horror-from-the- mound/).  
+If you'd like to listen to the story, Pseudopod had an excellent recording on their 11 Aug 2016 release: [Pseudopod 503: The Horror from the Mound](http://pseudopod.org/2016/08/11/pseudopod-503-the-horror-from-the-mound/).  
 
 On top of that, he created Conan and Solomon Kane? I'm going to have to read some more of his works.

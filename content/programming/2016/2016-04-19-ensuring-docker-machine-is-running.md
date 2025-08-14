@@ -36,7 +36,7 @@ docker () { assert-docker && command docker $@ }
 docker-compose () { assert-docker && command docker-compose $@ }
 ```
 
-The basic idea is that `assert-docker` first checks if `docker` is running by trying to run `docker ps`. `$?` contains the status code, which will be non-zero if `docker ps` failed, so check that. If that's the case, assume `docker ps` failed because `docker-machine` wasn't running, so start it up. This will run `docker-machine start default` more often than needed, but it turns out it's a `[[wiki:NOP]]()` if it's already running.
+The basic idea is that `assert-docker` first checks if `docker` is running by trying to run `docker ps`. `$?` contains the status code, which will be non-zero if `docker ps` failed, so check that. If that's the case, assume `docker ps` failed because `docker-machine` wasn't running, so start it up. This will run `docker-machine start default` more often than needed, but it turns out it's a [[wiki:NOP]]() if it's already running.
 
 The only interesting part here is the use of the keyword `command` that prefixes `docker` or `docker-machine` within the functions. Basically, this tells ZSH to use the system version of `docker` or `docker-compose` rather than the one that I defined, thus preventing an infinite loop. Whee!
 

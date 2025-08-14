@@ -25,10 +25,9 @@ What went well:
 * [noise](https://github.com/jpverkamp/noise) \-- generate [[wiki:Simplex noise|Simplex]]()or [[wiki:Perlin noise|Perlin]]() noise
 * [thing ](https://github.com/jpverkamp/thing)\-- an alternative prototype-based object system
 
-</li>
-	<li>The display looks pretty good for ASCII (much better than my original system for [House on the Hill]({{< ref "2013-03-12-the-house-on-the-hill-day-1.md" >}}))</li>
-	<li>Other than [a break for getting married]({{< ref "2013-05-24-racket-roguelike-going-on-hiatus.md" >}}), I managed to keep up a weekly posting schedule</li>
-</ul>
+	* The display looks pretty good for ASCII (much better than my original system for [House on the Hill]({{< ref "2013-03-12-the-house-on-the-hill-day-1.md" >}}))</li>
+	* Other than [a break for getting married]({{< ref "2013-05-24-racket-roguelike-going-on-hiatus.md" >}}), I managed to keep up a weekly posting schedule</li>
+
 What went less than well:
 
 * It's still not really a game; there's no end game / no way to win

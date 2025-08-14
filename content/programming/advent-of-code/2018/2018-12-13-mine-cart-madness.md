@@ -11,16 +11,16 @@ series:
 ### Source: [Mine Cart Madness](https://adventofcode.com/2018/day/13)
 
 > **Part 1:** Load a minecart track that looks like this:
-
+>
 > ```
-/->-\        
-|   |  /----\
-| /-+--+-\  |
-| | |  | v  |
-\-+-/  \-+--/
-  \------/
-```
-
+> /->-\        
+> |   |  /----\
+> | /-+--+-\  |
+> | | |  | v  |
+> \-+-/  \-+--/
+>   \------/
+> ```
+> 
 > Assuming minecarts follow the tracks and alternate turning left, going straight, and turning right on each intersection (`+`), where does the first collision occur?
 
 > NOTE: Update carts top to bottom, left to right. Carts can collide mid update.

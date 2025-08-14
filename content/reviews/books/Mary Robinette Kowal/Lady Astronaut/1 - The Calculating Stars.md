@@ -14,7 +14,7 @@ rating: 5
 page_count: 432
 series_index: [1]
 ---
-I cam to [[The Calculating Stars]]() by way of the [Writing Excuses](https://writingexcuses.com/) podcast. I've read all of [[Brandon Sanderson]]() , most of [[todo:Howard Tayler]]()'s [Schlock Mercenary](https://www.goodreads.com/series/50869-schlock- mercenary) series, and [[Dan Wells]]() 's [[Partials]]() and [[I Am Not a Serial Killer]]() series and loved them all. The one outstanding author? [[Mary Robinette Kowal]]() .  
+I cam to [[The Calculating Stars]]() by way of the [Writing Excuses](https://writingexcuses.com/) podcast. I've read all of [[Brandon Sanderson]]() , most of [[todo:Howard Tayler]]()'s [Schlock Mercenary](https://www.goodreads.com/series/50869-schlock-mercenary) series, and [[Dan Wells]]() 's [[Partials]]() and [[I Am Not a Serial Killer]]() series and loved them all. The one outstanding author? [[Mary Robinette Kowal]]() .  
 
 I was not at all disappointed.  
 

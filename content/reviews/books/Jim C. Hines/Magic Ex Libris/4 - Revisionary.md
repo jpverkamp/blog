@@ -18,7 +18,7 @@ series_index: [4]
 ---
 > For security reasons, no books will be permitted in the chamber during your testimony.
 
-Revisionary is a fascinating work. It takes the world building of the first three [Magic Ex Libris](https://www.goodreads.com/series/67567-magic-ex- libris) books and explores what happens when magic comes out in the modern world. It's probably the best example I've seen of this, right up there with the [Mercy Thompson books](https://www.goodreads.com/series/40932-mercy- thompson) (and honestly does a better job of showing the changes from the point of view of humans dragged into a new world).  
+Revisionary is a fascinating work. It takes the world building of the first three [Magic Ex Libris](https://www.goodreads.com/series/67567-magic-ex-libris) books and explores what happens when magic comes out in the modern world. It's probably the best example I've seen of this, right up there with the [Mercy Thompson books](https://www.goodreads.com/series/40932-mercy-thompson) (and honestly does a better job of showing the changes from the point of view of humans dragged into a new world).  
 
 <!--more-->
 

@@ -27,4 +27,4 @@ This is his earliest work and in some ways it shows. He actually commented recen
 
 I did like a lot of the characters. Sarene reminds me strongly of Shallan from The Way of Kings (perhaps because it's the most recent other Sanderson novel I've read), but I think I actually like her more. Raoden seems almost too good to be true, but keeps just enough human trivialities (especially when interacting with Sarene), that I still like him. I particularly grew to like Hrathen. It's always interesting to see how fantasy novels interact with religion.  
 
-More than anything, I wish this novel had a sequel. Well, it sort of does in [[The Emperor's Soul]](), although that it in a completely different part of the world. It looks like there is a true sequel in the works though ([FAQ](http://brandonsanderson.com/faq-will-there-be-a-sequel-to- elantris/)). Awesome.
+More than anything, I wish this novel had a sequel. Well, it sort of does in [[The Emperor's Soul]](), although that it in a completely different part of the world. It looks like there is a true sequel in the works though ([FAQ](http://brandonsanderson.com/faq-will-there-be-a-sequel-to-elantris/)). Awesome.

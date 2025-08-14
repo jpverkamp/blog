@@ -90,7 +90,7 @@ Next, we're going to take a bit of a break to set up a nice abstraction for a fo
 
 
 * `(update {{< doc racket "key-event" >}})` - update the screen when user input is received, return the next screen
-* `(draw [ascii-canvas]({{< ref "2013-03-28-writing-a-roguelike-in-racket-day-0.md" >}}))` - draw the screen when the GUI needs to refresh, given an ascii-canvas
+* `(draw ascii-canvas)` - draw the screen using [ascii-canvas]({{< ref "2013-03-28-writing-a-roguelike-in-racket-day-0.md" >}}) when the GUI needs to refresh, given an ascii-canvas
 
 
 In terms of code, we want this class:

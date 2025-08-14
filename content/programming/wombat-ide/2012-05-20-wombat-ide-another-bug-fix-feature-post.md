@@ -9,7 +9,7 @@ series:
 ---
 Additional features:
 
-* Since both the image and turtle libraries need the same color code, I've factored that out into it's own module: `[(c211 color)](http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-color.htm "C211 Color API")`
+* Since both the image and turtle libraries need the same color code, I've factored that out into it's own module: [`(c211 color)`](http://www.cs.indiana.edu/cgi-pub/c211/wombat/docs/c211-color.htm "C211 Color API")
 * [Issue 193](https://code.google.com/p/wombat-ide/issues/detail?id=193 "Issue 193"): Opening a file on top of an empty  replaces that document.
 
 Bug fixes:

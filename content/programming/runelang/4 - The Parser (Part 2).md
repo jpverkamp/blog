@@ -40,7 +40,8 @@ function parseExpression() {
     log.error("unable to parse expression, got EOF")
   }
 
-  // Parse using the [Shunting-Yard algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm)
+  // Parse using the Shunting-Yard algorithm
+  // https://en.wikipedia.org/wiki/Shunting-yard_algorithm
   let output = []
   let operator_stack = []
 

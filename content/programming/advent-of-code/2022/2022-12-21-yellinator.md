@@ -37,7 +37,7 @@ enum Monkey {
 }
 ```
 
-Where `Weak` is an `Rc` that doesn't count towards the current reference count and will become `None` if the value goes out of scope (if all related `Rc` go out of scope) first. But I had one heck of a time actually getting the thing to go together. I really need to work through one of the various [other posts](about it). But for the moment, I just went for a much easier approach:
+Where `Weak` is an `Rc` that doesn't count towards the current reference count and will become `None` if the value goes out of scope (if all related `Rc` go out of scope) first. But I had one heck of a time actually getting the thing to go together. I really need to work through one of the various... But for the moment, I just went for a much easier approach:
 
 ```rust
 #[derive(Debug)]
@@ -208,7 +208,7 @@ If that's the case, replace the parent with a new `Constant` node that applies t
 
 ```rust
 impl Troop {
-        // Simplify all non-human and non-human-dependant lifeforms
+    // Simplify all non-human and non-human-dependant lifeforms
     // If both children of a node are constant, apply the expression
     // Do not simplify the 'humn' node
     fn simplify_constants(&mut self) {

@@ -13,6 +13,14 @@ run-hugo baseURL="localhost":
 		--buildFuture --buildDrafts \
 		--bind 0.0.0.0 --port 80
 
+run-build-only baseURL="localhost":
+	hugo build \
+		--baseURL {{baseURL}}		\
+		--environment staging		\
+		--destination build/run     \
+		--logLevel info 			\
+		--buildFuture --buildDrafts
+
 debug baseURL="localhost":
 	npm_config_yes=true npx pagefind --site "build/debug" --output-subdir ../static/pagefind
 	just --justfile {{justfile()}} run debug-hugo "{{baseURL}}"
@@ -71,7 +79,31 @@ check-drafts:
 		esac \
 	fi
 
-deploy: check-drafts push build
+deploy: run-build-only check check-drafts push build
 	cd build/release; git add .
 	cd build/release; git commit -m "Automatic deployment: {{LAST_COMMIT}}"
 	cd build/release; git push origin master
+
+check:
+	@echo 
+	
+	@echo "Malformed markdown links:"
+	@# The egrep -v lines exclude known false positives
+	@ag --html '\[.+?\]\(.+?\)' -l build/run \
+		| sed 's|^build/run/||' \
+		| egrep -v "2015/12/16/advent-of-code-day-16/" \
+		| egrep -v "2015/12/07/advent-of-code-day-7/" \
+		| egrep -v "2021/06/24/categorizing-r/fantasy-book-bingo-books/" \
+		| egrep -v "2021/07/15/crosslinks-by-title-in-hugo/" \
+		| egrep -v "2021/12/24/aoc-2021-day-24-aluinator/" \
+		| egrep -v "2023/08/21/crosslinks-by-title-in-hugo--but-better" \
+		| egrep '^20' \
+		&& false || echo "✅ No malformed markdown links found"
+	@echo
+
+	@echo "Empty code blocks:"
+	@ag --html '<pre tabindex="0"><code></code></pre></blockquote>' -l build/run \
+		| sed 's|^build/run/||' \
+		| egrep '^20' \
+		&& false || echo "✅ No empty code blocks found"
+	@echo

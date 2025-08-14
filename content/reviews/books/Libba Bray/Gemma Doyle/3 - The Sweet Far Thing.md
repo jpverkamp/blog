@@ -28,7 +28,7 @@ series_index: [3]
 
 Things that annoyed me about this book:  
 
-\- Gemma  
+- Gemma  
 
 The entire book revolves around the time where she will make her 'debut' into society and become a woman. She has the magic of the realms at her disposal-- never really explained what that actually mains. And yet she spends the entire book mind controlling her family and others around her and wining about how hard it is to actually make a descision and stick with it.  
 
@@ -39,7 +39,7 @@ The entire book revolves around the time where she will make her 'debut' into so
 
 I mean. It's funny, but it's just a very different sort of scale.  
 
-\- Ann  
+- Ann  
 
 I get where the whole lack of belief in herself comes from, but oh does it grow grating after a while.  
 
@@ -50,7 +50,7 @@ I get where the whole lack of belief in herself comes from, but oh does it grow 
 
 Not to mention (too late) that after the fiasco of using magic to pretend to be someone she's not last book backfires... she does it again? Oy.  
 
-\- Felicity  
+- Felicity  
 
 So it turns out that she's actually  {{< spoiler >}}either a lesbian or bi and had a relationship with Pippa before she died{{< /spoiler >}}  ? But this is only mentioned in the last part of the last book? I think I actually like her the most of the main trio, but she's still very much a young adult/teenage girl.  
 

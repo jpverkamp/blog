@@ -29,6 +29,6 @@ There's just not much to it.
 
 One downside of listening to this one in audiobook is apparently missing out on some pretty crazy illustrations.  
 
-![](https://i.gr- assets.com/images/S/photo.goodreads.com/hostedimages/1400702021i/9710000._SX540_.jpg)  
+![](https://i.gr-assets.com/images/S/photo.goodreads.com/hostedimages/1400702021i/9710000._SX540_.jpg)  
 
 So it goes.

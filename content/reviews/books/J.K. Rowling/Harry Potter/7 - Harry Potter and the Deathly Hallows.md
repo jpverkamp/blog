@@ -26,12 +26,12 @@ Overall, it's a solid end to the series and, by itself, could have stood as an o
 
 A few random thoughts:  
 
-\- After Cursed Child came out, it appears that  {{< spoiler >}}Voldemort and Bellatrix had something of a relationship{{< /spoiler >}}  . It's interesting reading the first chapter of the Deathly Hallows with that in mind. Perhaps Rowling actually did plan it all along.  
+- After Cursed Child came out, it appears that  {{< spoiler >}}Voldemort and Bellatrix had something of a relationship{{< /spoiler >}}  . It's interesting reading the first chapter of the Deathly Hallows with that in mind. Perhaps Rowling actually did plan it all along.  
 
-\- What exactly is stopping Voldemort from hiring some goons to firebomb Privet Drive? Do Harry's magical protections somehow prevent that as well?  
+- What exactly is stopping Voldemort from hiring some goons to firebomb Privet Drive? Do Harry's magical protections somehow prevent that as well?  
 
-\- When  {{< spoiler >}}flying on the dragon out of Gringots{{< /spoiler >}}  , why can't they just disapparate off once they're outside again?  
+- When  {{< spoiler >}}flying on the dragon out of Gringots{{< /spoiler >}}  , why can't they just disapparate off once they're outside again?  
 
-\- I maintain that the whole idea of the Slytherins being all (or even just mostly) evil is lazy writing / kind of stupid, although I guess it works slightly better in a kids book. But the fact that not even one would be willing to defend Hogwarts? Seriously?  
+- I maintain that the whole idea of the Slytherins being all (or even just mostly) evil is lazy writing / kind of stupid, although I guess it works slightly better in a kids book. But the fact that not even one would be willing to defend Hogwarts? Seriously?  
 
-\- Ron speaking snake is weird.
+- Ron speaking snake is weird.

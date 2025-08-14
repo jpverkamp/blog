@@ -16,7 +16,7 @@ rating: 4
 page_count: 607
 series_index: [4]
 ---
-My favorite of [The Grand Tour](https://www.goodreads.com/series/51185-the- grand-tour) books so far, by a decent margin.  
+My favorite of [The Grand Tour](https://www.goodreads.com/series/51185-the-grand-tour) books so far, by a decent margin.  
 
 It's closer to 'pure' science fiction than the previous three, with the exploration of Mars and the science of getting there and exploring taking the front seat, with a lesser focus on politics and character than the previous books (although there still a decent amount of both).  
 

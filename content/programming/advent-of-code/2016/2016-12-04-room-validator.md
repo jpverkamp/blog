@@ -13,15 +13,15 @@ series:
 ### Source: [Security Through Obscurity](http://adventofcode.com/2016/day/4)[^1]
 
 > **Part 1:** A room is described as a name, a sector ID, and a checksum as follows:
-
+> 
 > ```
-aaaaa-bbb-z-y-x-123[abxyz]
-
-name: aaaaa-bbb-z-y-x
-sector ID: 123
-checksum: abxyz
-```
-
+> aaaaa-bbb-z-y-x-123[abxyz]
+> 
+> name: aaaaa-bbb-z-y-x
+> sector ID: 123
+> checksum: abxyz
+> ```
+> 
 > A room is valid if the checksum contains the five most common letters if the name (ties broken alphabetically).
 
 <!--more-->

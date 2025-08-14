@@ -13,7 +13,7 @@ programming/topics:
 series:
 - Cloning Redis in Rust
 ---
-And I'm back. It's been a busy month with the [Genuary]([Genuary 2023]) series and life in general, but I'm still thinking about Redis in general :smile:.
+And I'm back. It's been a busy month with the [[Genuary 2023]]() series and life in general, but I'm still thinking about Redis in general :smile:.
 
 Up this time, let's see what the official `redis-cli` app does when talking to our client and actually start handling some commands. Specifically, the very basic commands: `SET` and `GET`. With that, we would actually have a (very very basic) keystore up and running!
 

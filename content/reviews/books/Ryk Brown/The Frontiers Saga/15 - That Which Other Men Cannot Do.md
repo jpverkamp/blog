@@ -32,7 +32,7 @@ And then it ends. With a cliffhanger, which I've come to expect from this series
 
 And then I find that there are already two more series out:  
 
-\- [Fall of the Core](https://www.goodreads.com/series/154635-the-frontiers- saga-fall-of-the-core) with 4 novellas as a prequel to the main series and about the Digital Plague   \- [Part 2: Rogue Castes](https://www.goodreads.com/series/186145-the- frontiers-saga-part-2-rogue-castes) with 13 of 15 books published so far   \- A total planned 3 more parts for 5 total, each with 15 books (that's crazy)  
+- [Fall of the Core](https://www.goodreads.com/series/154635-the-frontiers-saga-fall-of-the-core) with 4 novellas as a prequel to the main series and about the Digital Plague   \- [Part 2: Rogue Castes](https://www.goodreads.com/series/186145-the-frontiers-saga-part-2-rogue-castes) with 13 of 15 books published so far   \- A total planned 3 more parts for 5 total, each with 15 books (that's crazy)  
 
 I'm a bit burned out at the moment, but I'm going to have to give them a chance at some point.  
 

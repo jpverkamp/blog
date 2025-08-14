@@ -33,17 +33,17 @@ print('part 1:', possible_triangles)
 The most interesting part is probably sorting the sides so that you know the largest will always be `sides[2]`.
 
 > **Part 2:** Reorder the sides so that each triangle is three numbers in a column. For example:
-
+> 
 > ```
-A B C
-D E F
-G H I
-J K L
-M N O
-P Q R
-...
-```
-
+> A B C
+> D E F
+> G H I
+> J K L
+> M N O
+> P Q R
+> ...
+> ```
+> 
 > The triangles would be `ADG`, `BEH`, `CFI`, `JMP`, etc.
 
 This mostly comes down to figuring out how to read the data in. In order to use mostly the same loop as before, I wrote a {{< doc python generator >}} that would read in three lines at a time into a buffer and then {{< doc python yield >}} the triangles from those three rows before reading the next:

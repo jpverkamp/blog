@@ -34,7 +34,7 @@ I've added a bunch of new procedures today, mostly to improve compatibility with
 ```
 
 
-* `[[wiki:Fold (higher-order function)|fold-left]]()` - perform formulaic recursive procedures on lists from, see the linked Wikipedia article for more details
+* `fold-left` - perform formulaic recursive procedures on lists from, see the linked Wikipedia article for more details
 
 
 ```scheme
@@ -46,7 +46,7 @@ I've added a bunch of new procedures today, mostly to improve compatibility with
 ```
 
 
-* `[[wiki:Fold (higher-order function)|fold-right]]()` - similar to `fold-left` with the arguments reversed
+* `fold-right` - similar to `fold-left` with the arguments reversed
 
 
 ```scheme

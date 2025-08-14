@@ -28,10 +28,10 @@ If you've read this far, you're going to read this book. Overall, it's a solid e
 
 Things that I didn't like about this book / the series in general:  
 
-\- We never did find out anything more about the woman in the wall back in book #3. Guess we never will.  
+- We never did find out anything more about the woman in the wall back in book #3. Guess we never will.  
 
-\- So what happens to Brooke? We get a bit of off screen closure, but I want to know more about that. Perhaps a spin off series some day?  
+- So what happens to Brooke? We get a bit of off screen closure, but I want to know more about that. Perhaps a spin off series some day?  
 
-\- How did the Withered come to be in the first place? I guess it seems more magical this way and you can't be disappointed with some magical maguffin, but I still want to know more.  
+- How did the Withered come to be in the first place? I guess it seems more magical this way and you can't be disappointed with some magical maguffin, but I still want to know more.  
 
-\- Why are all of the Withered in the US? Given that they're ten thousand years old and (theoretically) originally from the Middle East, wouldn't one expect to find at least a few around the world?
+- Why are all of the Withered in the US? Given that they're ten thousand years old and (theoretically) originally from the Middle East, wouldn't one expect to find at least a few around the world?

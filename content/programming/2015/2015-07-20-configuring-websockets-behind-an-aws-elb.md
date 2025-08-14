@@ -16,7 +16,7 @@ Recently at work, we were trying to get an application that uses [[wiki:websocke
 
 If you're either not using a secure connection or handling the cryptography on the instance (either in nginx or Flask), it works right out of the box. But if you want the ELB to handle TLS termination it doesn't work nearly as well... Luckily, after a bit of fiddling, I got it working.
 
-**Update 2018-05-31:** A much easier solution, [https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/](just use an ALB):
+**Update 2018-05-31:** A much easier solution, [just use an ALB](https://aws.amazon.com/blogs/aws/new-aws-application-load-balancer/):
 
 > **WebSocket** allows you to set up long-standing TCP connections between your client and your server. This is a more efficient alternative to the old-school method which involved HTTP connections that were held open with a “heartbeat” for very long periods of time. WebSocket is great for mobile devices and can be used to deliver stock quotes, sports scores, and other dynamic data while minimizing power consumption. ALB provides native support for WebSocket via the `ws://` and `wss://` protocols.
 

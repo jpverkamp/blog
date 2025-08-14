@@ -46,7 +46,7 @@ The next thing I had to do was on the software end. ZHA doesn't (didn't at the t
 To do this, you have to manually install and configure the script:
 
 * Install to a path in your config directory (like `/config/custom_zha_quirks`)
-* Update your `configuration.yaml`:![alt text](image.png)
+* Update your `configuration.yaml`:
 
   ```text
   zha:
@@ -164,7 +164,7 @@ sequence:
           {% elif device == "2" %}
           C2gjsxEGAscGBgJiAuAFA0AB4AMTQCPgDwNAJ4AbAGKgBwMGAmIC4AEDQA9AAeAHEwLHBmIgAwkGAt2eaCO4CAYC
           {% elif device == "3" %}
-          DT0jsRECAtAGAgJkAgIC4BMDQCPgEwNAO8AfQAvgBwNAG8ATQAvgAwMPw549IwQJAgL//z0jBAkCAg==![alt text](image.png)
+          DT0jsRECAtAGAgJkAgIC4BMDQCPgEwNAO8AfQAvgBwNAG8ATQAvgAwMPw549IwQJAgL//z0jBAkCAg==
           {% elif device == "4" %}
           CXEjzxEVAqsGFQJAAQFjAuARA0Aj4A8DQAEBqwZAPQEVAkAFA6sGFQJAAUALQAMBqwZABQMVAqsGQAPACwBjIA+AAwdTnnEjsQhjAg==
           {% elif device == "5" %}

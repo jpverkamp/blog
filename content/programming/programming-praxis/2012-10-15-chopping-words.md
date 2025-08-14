@@ -68,4 +68,4 @@ Let's try it out:
 
 Looks pretty good. :smile: As you may have guessed, you're going to need a word containing either `A` or `I` for there to be a valid tree at all. Still, pretty neat though. An even more interesting trick would be to generate a graph rather than a tree, branching out from the initial word and eventually collapsing back into the one or two final states. In this case, there would be a single final state and only three states before that: `PA`, `AN`, and `AT`. Perhaps we'll leave that for another day.
 
-The code is short enough today that I don't have a full source code download. You can just copy/paste the code into Racket to try it out for yourself. Don't forget the `(require "[dictionary.rkt]({{< ref "2012-10-11-dictionary-tries-in-racket.md" >}})")` line though, otherwise `contains?` isn't likely to work so well. :smile:
+The code is short enough today that I don't have a full source code download. You can just copy/paste the code into Racket to try it out for yourself. Don't forget the `(require "dictionary.rkt")` line though, otherwise `contains?` isn't likely to work so well. :smile:
