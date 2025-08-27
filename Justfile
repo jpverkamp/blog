@@ -42,10 +42,10 @@ debug-hugo baseURL="localhost":
 		--templateMetricsHints		
 
 import-flickr:
-	python3 scripts/flickr.py --generate
+	uv run python3 scripts/flickr.py --generate
 
 review what:
-	python3 scripts/review-{{what}}.py
+	uv run python3 scripts/review-{{what}}.py
 
 detextbundle path:
 	detextbundle \
