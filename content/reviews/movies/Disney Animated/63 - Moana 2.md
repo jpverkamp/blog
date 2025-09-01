@@ -1,7 +1,6 @@
 ---
 title: "Moana 2"
 date: 2025-08-16
-draft: True
 cover: /embeds/movies/moana-2.jpg
 reviews/lists:
 - 2025 Movie Reviews
