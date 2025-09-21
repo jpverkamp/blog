@@ -1,5 +1,5 @@
 {{- $title := .Get 0 -}}
-{{- $slug := $title | urlize }}
+{{- $slug := replace ($title | urlize) "-" " " }}
 {{- $data := index $.Site.Data.bingo $title -}}
 {{- $version := index $data "version" -}}
 
