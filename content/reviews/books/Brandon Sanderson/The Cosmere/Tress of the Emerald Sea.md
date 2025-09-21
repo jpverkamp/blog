@@ -10,8 +10,10 @@ reviews/lists:
 reviews/series:
 - The Cosmere
 - Year of Sanderson
+- Secret Projects
 series_index:
 - 0
+- 1
 - 1
 title: Tress of the Emerald Sea
 bingo:
