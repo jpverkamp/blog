@@ -11,7 +11,7 @@ reviews/series:
 series_index:
 - 1
 title: Misty of Chincoteague
-cover: /embeds/books/misty-of-chinoteague.jpg
+cover: /embeds/books/misty-of-chicoteague.jpg
 ---
 Well, that's a cute little story for what it is. And my daughter really enjoyed it. 
 
