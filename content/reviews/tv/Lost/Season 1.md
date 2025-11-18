@@ -1,5 +1,5 @@
 ---
-title: "Lost"
+title: "Lost: Season 1"
 date: 2025-10-07
 cover: /embeds/tv/lost-season-1.jpg
 reviews/lists:
