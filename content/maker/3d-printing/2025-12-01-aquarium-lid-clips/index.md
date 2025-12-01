@@ -48,6 +48,12 @@ So instead, I jumped online to TinkerCAD, imported the two pieces, and just drew
 
 It feels *so* hacky, but it works!
 
+Even better? The best way I've found to print it? 
+
+![Corner clip with supports](supports.png)
+
+This piece is not very friendly to printing without supports. But they've proven easy enough to remove, so we'll go with it. 
+
 And the final results?
 
 ![Final result of a corner clip](result.png)
