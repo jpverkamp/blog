@@ -61,3 +61,5 @@ And the final results?
 It slides on perfectly and is exactly the right depth to hold the lid. 
 
 3D printing is just so cool sometimes. 
+
+(If you'd like to download the file, [here you go!](side-clip.FCStd))
