@@ -205,4 +205,10 @@ part2: 2.237187ms ± 52.313µs [min: 2.031584ms, max: 2.337917ms, median: 2.2384
 part2_inline: 1.870518ms ± 50.308µs [min: 1.711708ms, max: 1.953917ms, median: 1.877375ms]
 ```
 
+| Day | Part | Solution       | Benchmark             |
+| --- | ---- | -------------- | --------------------- |
+| 1   | 1    | `part1`        | 215.243µs ± 11.937µs  |
+| 1   | 2    | `part2`        | 2.237187ms ± 52.313µs |
+| 1   | 2    | `part2_inline` | 1.870518ms ± 50.308µs |
+
 I fully expect I could write that to run quite a bit quicker, but... it's day 1. And I spent a while writing macros. So we're good. Onward!
