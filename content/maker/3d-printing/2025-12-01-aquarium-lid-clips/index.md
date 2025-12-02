@@ -63,3 +63,141 @@ It slides on perfectly and is exactly the right depth to hold the lid.
 3D printing is just so cool sometimes. 
 
 (If you'd like to download the file, [here you go!](side-clip.FCStd))
+
+## OpenSCAD
+
+Okay, I couldn't leave well enough alone. Here are some versions that use OpenSCAD instead!
+
+```scad
+// How thick the glass you're fitting over is
+glass_thickness = 4;
+glass_tolerance = 0.05;
+
+// How thick the lid is you're putting on top
+lid_thickness = 5;
+
+// How thick the plastic should be
+piece_thickness = 2;
+
+// How far the shelf extends inwards and then side to side
+shelf_depth = 10;
+shelf_width = 30;
+
+module shelf(glass_thickness) {
+    // Lip over the edge
+    difference() {
+        translate([0, 0, 0])
+            cube([
+                glass_thickness + 2 * piece_thickness,
+                shelf_width,
+                lid_thickness + 2 * piece_thickness
+            ]);
+
+        // Cut out for glass
+        translate([piece_thickness, 0, 0])
+            cube([
+                glass_thickness,
+                shelf_width,
+                lid_thickness + piece_thickness
+            ]);
+    }
+    
+    // Shelf
+    translate([
+        glass_thickness + 2 * piece_thickness,
+        0,
+        piece_thickness
+    ])
+        cube([
+            shelf_depth,
+            shelf_width,
+            piece_thickness
+        ]);
+}
+
+shelf(glass_thickness * (1 + glass_tolerance));
+```
+
+![OpenSCAD version of the clip](openscad-clip.png)
+
+And for the corner:
+
+```scad
+// How thick the glass you're fitting over is
+// These can be different for two different sides
+glass_thickness_a = 4;
+glass_thickness_b = 4;
+glass_tolerance = 0.05;
+
+// How thick the lid is you're putting on top
+lid_thickness = 5;
+
+// How thick the plastic should be
+piece_thickness = 2;
+
+// How large the cutout in the corner should be 
+corner_size = 20;
+
+// How far the shelf extends inwards and then side to side
+shelf_depth = 10;
+shelf_width = 30;
+
+module shelf(glass_thickness) {
+    // Lip over the edge
+    difference() {
+        translate([0, 0, 0])
+            cube([
+                glass_thickness + 2 * piece_thickness,
+                shelf_width,
+                lid_thickness + 2 * piece_thickness
+            ]);
+
+        // Cut out for glass
+        translate([piece_thickness, 0, 0])
+            cube([
+                glass_thickness,
+                shelf_width,
+                lid_thickness + piece_thickness
+            ]);
+    }
+    
+    // Shelf
+    translate([
+        glass_thickness + 2 * piece_thickness,
+        0,
+        piece_thickness
+    ])
+        cube([
+            shelf_depth,
+            shelf_width,
+            piece_thickness
+        ]);
+}
+
+translate([0, corner_size, 0])
+    shelf(glass_thickness_a * (1 + glass_tolerance));
+
+translate([corner_size + shelf_width, 0, 0])
+    rotate([0, 0, 90]) shelf(glass_thickness_a * (1 + glass_tolerance));
+
+difference() {
+    translate([corner_size, corner_size, piece_thickness])
+        cylinder(h=piece_thickness, r=shelf_width);
+        
+    translate([0, 0, piece_thickness])
+        cube([corner_size, corner_size, piece_thickness]);
+    
+    // Going along each lip
+    translate([-shelf_width, -shelf_width, piece_thickness])
+        cube([shelf_width + glass_thickness_a + piece_thickness * 2, 3*shelf_width, piece_thickness]);
+
+    translate([-shelf_width, -shelf_width, piece_thickness])
+        cube([3*shelf_width, shelf_width + glass_thickness_b + piece_thickness * 2, piece_thickness]);
+};
+```
+
+![OpenSCAN version of the corner clip](openscad-corner.png)
+
+It's even curved! 
+
+At this point, I already have the other version printed, so I'm not going to go back and make these as well... unless we get more fish tanks. :innocent:
