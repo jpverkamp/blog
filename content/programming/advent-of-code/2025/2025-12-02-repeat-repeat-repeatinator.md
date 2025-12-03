@@ -1,5 +1,5 @@
 ---
-title: "AoC 2025 Day 1: Repeat Repeat Repeatinator"
+title: "AoC 2025 Day 2: Repeat Repeat Repeatinator"
 date: 2025-12-02 00:00:03
 programming/languages:
 - Rust
