@@ -10,7 +10,9 @@ Rather than the 5mm side walls all the rest have, this one has 4mm on the sides 
 
 But hey, I have a 3d printer. This is a great chance to put it to good use!
 
-# The initial sketch
+{{<toc>}}
+
+## The initial sketch
 
 First, the initial sketch and notes on my desk:
 
@@ -30,7 +32,7 @@ So I can change any number in the sheet (and assuming it actually works), the pa
 
 You might notice the `4.02 mm` for the middle number there. That's because the *actual* forumla is `1.005 * <<params>>.glass_thickness`. This gives the pieces just a little bit of room (half a percent) of tolerance to slide on. That percent is completely a guess, but seems to be working so far, so we'll take it. 
 
-# Single clips
+## Single clips
 
 With the sketch done, all that was left was to extrude the parts in FreeCAD:
 
