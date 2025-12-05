@@ -279,6 +279,69 @@ The black pixels are `@`, white are `.`, and red pixels are the ones just remove
 
 Pretty cool!
 
+## [Edit] Part 2 - Floodfill
+
+Someone mentioned a bit of runtime analysis here. What if instead of going through the entire map until it stabilizes, we go through the entire map once, but at each point flood fill from there until we stop removing points? 
+
+```rust
+#[aoc::register]
+fn part2_floodfill(input: &str) -> impl Into<String> {
+    let mut g = Grid::read(input, |c| c == '@');
+    let mut count = 0;
+
+    for y in 0..g.height() {
+        for x in 0..g.width() {
+            // At each point, flood fill points we can remove 
+            let mut stack = vec![(x, y)];
+            while let Some((cx, cy)) = stack.pop() {
+                // Any points we can't remove in the stack are ignored
+                if g.get(cx, cy) != Some(true) {
+                    continue;
+                }
+                if g.neighbors(cx, cy).filter(|v| *v == Some(true)).count() >= 4 {
+                    continue;
+                }
+
+                // Remove point, add neighbors to stack
+                g.set(cx, cy, false);
+                count += 1;
+
+                for nx in (cx - 1)..=(cx + 1) {
+                    for ny in (cy - 1)..=(cy + 1) {
+                        if nx == cx && ny == cy {
+                            continue;
+                        }
+                        stack.push((nx, ny));
+                    }
+                }
+            }
+        }
+    }
+
+    count.to_string()
+}
+```
+
+Which:
+
+```bash
+$ just run 4 part2_floodfill
+
+8643
+
+$ just bench 4 part2_floodfill
+
+part2_floodfill: 666.912µs ± 26.553µs [min: 644.542µs, max: 824.167µs, median: 661.542µs]
+```
+
+Is actually ~2x as fast. Huh, neat. 
+
+Rendered:
+
+<video controls src="/embeds/2025/aoc/aoc2025_day4_part2_render_floodfill.mp4"></video>
+
+(It looks a lot slower since I'm rendering one frame per pixel removed.)
+
 ## Benchmarks
 
 ```bash
@@ -293,10 +356,12 @@ $ just bench 4
 part1: 107.041µs ± 5.007µs [min: 102.5µs, max: 121.5µs, median: 106.708µs]
 part2: 4.826662ms ± 86.921µs [min: 4.70625ms, max: 5.170375ms, median: 4.807792ms]
 part2_no_map: 1.164075ms ± 33.765µs [min: 1.115709ms, max: 1.286ms, median: 1.159042ms]
+part2_floodfill: 670.268µs ± 19.006µs [min: 645.541µs, max: 752.125µs, median: 667.542µs]
 ```
 
-| Day | Part | Solution       | Benchmark             |
-| --- | ---- | -------------- | --------------------- |
-| 4   | 1    | `part1`        | 107.041µs ± 5.007µs   |
-| 4   | 2    | `part2`        | 4.826662ms ± 86.921µs |
-| 4   | 2    | `part2_no_map` | 1.164075ms ± 33.765µs |
+| Day | Part | Solution          | Benchmark             |
+| --- | ---- | ----------------- | --------------------- |
+| 4   | 1    | `part1`           | 107.041µs ± 5.007µs   |
+| 4   | 2    | `part2`           | 4.826662ms ± 86.921µs |
+| 4   | 2    | `part2_no_map`    | 1.164075ms ± 33.765µs |
+| 4   | 2    | `part2_floodfill` | 670.268µs ± 19.006µs  |
