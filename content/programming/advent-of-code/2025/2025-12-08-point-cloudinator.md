@@ -157,6 +157,40 @@ part2: 16.645156ms ± 449.537µs [min: 15.710708ms, max: 17.517792ms, median: 16
 
 Amusing it's basically the same runtime. I wonder just how much of the runtime is spent parsing and calculating all the distances. 
 
+## Part 1 - Binary Heap
+
+One thing you can do to make it a bit faster is to use a [[wiki:Binary Heap]]() rather than sorting. Basically, this let's us only 'sort' the first bit of it. Slightly better:
+
+```rust
+// ...
+
+    // Pre-calculate and sort all distances
+    // This seems excessive, but I'm not sure you can avoid it...
+    let mut distances = BinaryHeap::new();
+    for i in 0..points_len {
+        for j in i + 1..points.len() {
+            distances.push((-points[i].distance_squared(&points[j]), (i, j)));
+        }
+    }
+
+    
+    // For the first n distances, join them
+    for _i in 0..join_count {
+        let (_, (i, j)) = distances.pop().unwrap();
+
+//...
+```
+
+Slightly better:
+
+```bash
+$ just run-and-bench 8 part1_heap
+
+90036
+
+part1_heap: 7.8063ms ± 206.49µs [min: 7.463625ms, max: 8.471375ms, median: 7.748459ms]
+```
+
 ## Benchmarks
 
 ```bash
@@ -166,7 +200,8 @@ part1: 16.634383ms ± 418.086µs [min: 15.914833ms, max: 17.943458ms, median: 16
 part2: 16.977939ms ± 497.608µs [min: 16.027458ms, max: 17.93675ms, median: 17.061291ms]
 ```
 
-| Day | Part | Solution | Benchmark               |
-| --- | ---- | -------- | ----------------------- |
-| 8   | 1    | `part1`  | 16.634383ms ± 418.086µs |
-| 8   | 2    | `part2`  | 16.977939ms ± 497.608µs |
+| Day | Part | Solution     | Benchmark               |
+| --- | ---- | ------------ | ----------------------- |
+| 8   | 1    | `part1`      | 16.634383ms ± 418.086µs |
+| 8   | 1    | `part1_heap` | 8.19521ms ± 314.775µs   |
+| 8   | 2    | `part2`      | 16.977939ms ± 497.608µs |
