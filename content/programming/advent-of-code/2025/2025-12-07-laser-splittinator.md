@@ -217,3 +217,13 @@ It's actually kind of cool to me that part 2 is *faster*. I expect that's becaus
 | --- | ---- | -------- | ------------------ |
 | 7   | 1    | `part1`  | 50.033µs ± 3.791µs |
 | 7   | 2    | `part2`  | 45.279µs ± 3.015µs |
+
+## Rendering
+
+Because I can! Part 1:
+
+<video controls src="/embeds/2025/aoc/aoc2025_day7_part1_vid.mp4"></video>
+
+And part 2:
+
+<video controls src="/embeds/2025/aoc/aoc2025_day7_part2_vid.mp4"></video>
