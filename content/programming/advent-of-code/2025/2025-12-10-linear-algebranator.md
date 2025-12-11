@@ -1195,6 +1195,370 @@ part2_z3_rayon: 129.899304ms ± 2.541906ms [min: 125.474959ms, max: 133.146667ms
 
 That is just not that satisfying. 
 
+## [12/11] Part 2 - Equations continued
+
+And so we go down the rabbit hole. 
+
+So this is basically the continuation of yesterdays work with [equations](#edit-part-2---equations-continued). Basically:
+
+1. For each machine, generate a set of equations of the form 
+
+    $$c_1 p_1 + c_2 p_2 + ... = C$$
+
+2. Several time, expand those equations by adding each set of equations pairwise
+3. Any time we end up with an expression exactly like
+
+ $$c_1 p_1 = C$$
+
+ We know that $$p_1 = \frac{C}{c_1}$$. 
+
+4. Any time we have all positive or negative values on an equation, it gives an upper bound 
+
+    So for the above equation (if all coefficients are positive), we know that 
+
+    $$p_1 \le \frac{C}{c_1}$$
+
+5. Start the solver as we did before, except:
+6. Any time we have a known value (from step 3), immediately assign that value
+7. Any time we have *any* equation where all but one `c_n` is known, assign that last value
+8. Iterate each remaining value recursively starting with the lowest bounds
+
+So in parts, first we create the equations:
+
+```rust
+let mut equations: HashSet<Equation> = HashSet::new();
+for idx in 0..self.size {
+    let mut coefficients = vec![0; self.buttons.len()];
+    for (bi, button) in self.buttons.iter().enumerate() {
+        if button.contains(&idx) {
+            coefficients[bi] = 1;
+        }
+    }
+    equations.insert(Equation {
+        constant: self.joltage[idx] as isize,
+        coefficients,
+    });
+}
+```
+
+Then we expand that list, setting bounds:
+
+```rust
+for _i in 0..3 {
+    tracing::info!(
+        "[{machine_id}] Expanding equations, iter={_i}, count={}",
+        equations.len()
+    );
+
+    let initial_equations = equations.clone();
+    let initial_size = equations.len();
+
+    for eq1 in initial_equations.iter() {
+        for eq2 in initial_equations.iter() {
+            if eq1 != eq2 {
+                equations.insert(eq1.clone() + eq2.clone());
+                equations.insert(eq1.clone().negated() + eq2.clone());
+                equations.insert(eq2.clone().negated() + eq1.clone());
+            }
+        }
+    }
+    if equations.len() == initial_size {
+        break;
+    }
+
+    // Look for any single-variable equations
+    let single_var_eqs: Vec<Equation> = equations
+        .iter()
+        .filter(|eq| eq.coefficients.iter().filter(|&&c| c != 0).count() == 1)
+        .cloned()
+        .collect();
+
+    tracing::info!(
+        "[{machine_id}] Found {} single-variable equations",
+        single_var_eqs.len()
+    );
+    for eq in single_var_eqs.iter() {
+        tracing::info!("  {eq}");
+    }
+
+    // Record known values
+    for eq in single_var_eqs.iter() {
+        let xi = eq.coefficients.iter().position(|&c| c != 0).unwrap();
+
+        assert!(eq.constant % eq.coefficients[xi] == 0);
+        bounds[xi] = Bound::Known(eq.constant / eq.coefficients[xi]);
+    }
+    tracing::info!("[{machine_id}] Known values so far: {bounds:?}");
+
+    // Apply known values to all equations
+    let known_values = bounds
+        .iter()
+        .map(|b| match b {
+            Bound::Known(v) => Some(*v as usize),
+            _ => None,
+        })
+        .collect::<Vec<_>>();
+    let updated_equations: HashSet<Equation> =
+        equations.iter().map(|eq| eq.apply(&known_values)).collect();
+    equations = updated_equations;
+
+    // For any equation with only positive co-efficients, we can set bounds
+    // Assume that we put as much as possible into each variable for bound
+    for eq in equations.iter() {
+        // All negative is all positive, just... opposite!
+        let eq = if eq.coefficients.iter().all(|&c| c <= 0) {
+            eq.negated()
+        } else {
+            eq.clone()
+        };
+
+        if !eq.coefficients.iter().all(|&c| c >= 0) {
+            continue;
+        }
+
+        if eq.constant <= 0 {
+            continue;
+        }
+
+        for (i, coef) in eq.coefficients.iter().enumerate() {
+            if *coef == 0 {
+                continue;
+            }
+
+            let max_times = eq.constant / *coef;
+            match &bounds[i] {
+                // Previously unknown bounds now have a maximum value
+                Bound::Unknown => {
+                    bounds[i] = Bound::Bounded(0, max_times);
+                }
+                // If this sets a better upper bound, yay?
+                Bound::Bounded(l, u) => {
+                    if *u > max_times {
+                        bounds[i] = Bound::Bounded(*l, max_times);
+                    }
+                }
+                // Known bounds don't need to change
+                // Hopefully this doesn't prove our bounds are wrong :smile:
+                Bound::Known(_) => {}
+            };
+        }
+    }
+
+    // Remove all equations that still depend on known variables
+    // Because of the apply step above, these should be zeroed out
+    let filtered_equations: HashSet<Equation> = equations
+        .iter()
+        .filter(|eq| {
+            eq.coefficients
+                .iter()
+                .enumerate()
+                .all(|(i, &c)| !(c != 0 && matches!(bounds[i], Bound::Known(_))))
+        })
+        .cloned()
+        .collect();
+    equations = filtered_equations;
+}
+```
+
+Then we have our recursive solver:
+
+```rust
+#[tracing::instrument(skip(machine, bounds, equations))]
+fn helper(
+    machine: &Machine,
+    presses: &Vec<Option<usize>>,
+    bounds: &Vec<Bound>,
+    equations: &HashSet<Equation>,
+) -> Option<usize> {
+    let machine_id = machine.id;
+
+    // If the currently known presses make for an impossible voltage, fail
+    // If we went beyond the bounds without finding an answer, fail
+    let mut current = vec![0; machine.size];
+    for (press, button) in presses.iter().zip(machine.buttons.iter()) {
+        if let Some(p) = press {
+            for b in button {
+                current[*b] += p;
+            }
+        }
+    }
+
+    log::debug!(
+        "[{machine_id}] helper({presses:?}) => {current:?} vs {:?}",
+        machine.joltage
+    );
+
+    // If we have exactly the right current, this is the correct solution
+    if current == machine.joltage {
+        log::debug!("[{machine_id}] Found an answer!: {presses:?}");
+        let press_total = presses.iter().map(|v| v.unwrap_or(0)).sum::<usize>();
+        return Some(press_total);
+    }
+
+    if current
+        .iter()
+        .zip(machine.joltage.iter())
+        .any(|(c, j)| c > j)
+    {
+        log::debug!("[{machine_id}] OVER JOLTAGE");
+        return None;
+    }
+
+    // If we made it this far and all presses are set, this solution is under joltage
+    if presses.iter().all(|f| f.is_some()) {
+        log::debug!("[{machine_id}] under joltage :(");
+        return None;
+    }
+
+    // If we have any equation where all but 1 variable is known, we can set the last one
+    for eq in equations.iter() {
+        let unknown_vars: Vec<usize> = eq
+            .coefficients
+            .iter()
+            .enumerate()
+            .filter(|(i, _)| presses[*i].is_none() && eq.coefficients[*i] != 0)
+            .map(|(i, _)| i)
+            .collect();
+
+        if unknown_vars.len() == 1 {
+            let xi = unknown_vars[0];
+            let mut sum_known = 0isize;
+            for (i, &coef) in eq.coefficients.iter().enumerate() {
+                if i != xi
+                    && let Some(p) = presses[i] {
+                        sum_known += coef * (p as isize);
+                    }
+            }
+
+            let required_xi = (eq.constant - sum_known) / eq.coefficients[xi];
+            if required_xi < 0 {
+                log::debug!(
+                    "[{machine_id}] Negative press violation on equation {eq} with {presses:?}"
+                );
+                return None;
+            }
+
+            let mut new_presses = presses.clone();
+            new_presses[xi] = Some(required_xi as usize);
+            log::debug!(
+                "[{machine_id}] Applying equation {eq}, {presses:?} => {new_presses:?}"
+            );
+            return helper(
+                machine,
+                &new_presses,
+                bounds,
+                equations,
+            );
+        }
+    }
+
+    // The current index is the unset press with the lowest range
+    let mut current_idx = 0;
+    let mut best_size = isize::MAX;
+    for (i, p) in presses.iter().enumerate() {
+        if p.is_some() {
+            continue;
+        }
+
+        let range_size = match bounds[i] {
+            Bound::Unknown => isize::MAX,
+            Bound::Bounded(lo, hi) => hi - lo + 1,
+            Bound::Known(_) => 1,
+        };
+
+        if range_size < best_size {
+            current_idx = i;
+            best_size = range_size;
+        }
+    }
+    tracing::debug!("[{machine_id}] Selected {current_idx} as the next index");
+
+    // Test each value at the current idx, finding the best recursive answer
+    let mut best = None;
+
+    match bounds[current_idx] {
+        Bound::Unknown => {
+            // Not sure how I can end up here, but it's possible?
+            // Hopefully we'll eventually find an answer
+            for value in 0.. {
+                let mut next_presses = presses.clone();
+                next_presses[current_idx] = Some(value as usize);
+                let result = helper(
+                    machine,
+                    &next_presses,
+                    bounds,
+                    equations,
+                );
+
+                if best.is_none() {
+                    best = result;
+                } else if result.is_some() {
+                    best = Some(best.unwrap().min(result.unwrap()));
+                }
+            }
+        }
+        Bound::Bounded(lo, hi) => {
+            for value in lo..=hi {
+                let mut next_presses = presses.clone();
+                next_presses[current_idx] = Some(value as usize);
+                let result = helper(
+                    machine,
+                    &next_presses,
+                    bounds,
+                    equations,
+                );
+
+                if best.is_none() {
+                    best = result;
+                } else if result.is_some() {
+                    best = Some(best.unwrap().min(result.unwrap()));
+                }
+            }
+        }
+        Bound::Known(v) => {
+            let mut next_presses = presses.clone();
+            next_presses[current_idx] = Some(v as usize);
+            best = helper(
+                machine,
+                &next_presses,
+                bounds,
+                equations,
+            );
+        }
+    }
+
+    best
+}
+```
+
+which we can kick off easy enough:
+
+```rust
+tracing::info!("[{machine_id}] Starting recursive search");
+let result = helper(
+    self,
+    &vec![None; self.buttons.len()],
+    &bounds,
+    &equations,
+);
+```
+
+And... it works!
+
+```text
+$ cargo run --release --bin day10 -- run part2_eqn_rayon input/2025/day10.txt
+
+17424
+
+$ cargo run --release --bin day10 -- bench part2_eqn_rayon --warmup 0 --iters 1 input/2025/day10.txt
+
+part2_eqn_rayon: 79.115645459s ± 0ns [min: 79.115645459s, max: 79.115645459s, median: 79.115645459s]
+```
+
+Digging into the debugging a bit more (it's fun to watch), the longest machine in my input was line 97 (zero based) taking 65.22s. There were fewer than the number of cores I had machines that took more than a minute, so the parallelization really worked out. 
+
+That's still more than a minute, but given that the time was basically ∞ before... that's not actually that bad. I expect I'm still doing a *ton* of allocations and work I probably don't have to. So I could really tune this down more. But at this point, I solved it fast (z3) and without libraries (other than rayon for free parallelization). Pretty good to me!
+
 ## Benchmarks
 
 This one is a mess.
@@ -1217,12 +1581,17 @@ $ just run-and-bench 10 part2_z3_rayon 10
 17424
 
 part2_z3_rayon: 129.899304ms ± 2.541906ms [min: 125.474959ms, max: 133.146667ms, median: 131.154084ms]
+
+$ cargo run --release --bin day10 -- bench part2_eqn_rayon --warmup 0 --iters 1 input/2025/day10.txt
+
+part2_eqn_rayon: 79.115645459s ± 0ns [min: 79.115645459s, max: 79.115645459s, median: 79.115645459s]
 ```
 
-| Day | Part | Solution         | Benchmark                  |
-| --- | ---- | ---------------- | -------------------------- |
-| 10  | 1    | `part1`          | 1.212226433s ± 13.832532ms |
-| 10  | 1    | `part1_rayon`    | 331.882295ms ± 5.14392ms   |
-| 10  | 2    | `part2_z3_rayon` | 129.899304ms ± 2.541906ms  |
+| Day | Part | Solution          | Benchmark                  |
+| --- | ---- | ----------------- | -------------------------- |
+| 10  | 1    | `part1`           | 1.212226433s ± 13.832532ms |
+| 10  | 1    | `part1_rayon`     | 331.882295ms ± 5.14392ms   |
+| 10  | 2    | `part2_z3_rayon`  | 129.899304ms ± 2.541906ms  |
+| 10  | 2    | `part2_eqn_rayon` | 79.115645459s ± 0ns        |
 
 I ... can do better. We'll see if/when I come back to this one. 
