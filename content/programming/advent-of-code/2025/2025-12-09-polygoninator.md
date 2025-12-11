@@ -7,7 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+  - 2D Geometry
+  - Polygon
+  - Rectangle
+  - Area Calculation
+  - Line Intersection
+  - Ray Casting
+  - Brute Force Search
+  - Optimization
+  - Rust Performance
 ---
 ## Source: [Day 9: Movie Theater](https://adventofcode.com/2025/day/9)
 

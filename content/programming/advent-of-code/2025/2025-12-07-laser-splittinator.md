@@ -7,7 +7,17 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+  - Grid Parsing
+  - Simulation
+  - Bitmask
+  - Double Buffer
+  - Dynamic Programming
+  - Combinatorics
+  - Iterators
+  - Rust Performance
+  - Counting Paths
+  - Parallel Universes
 ---
 ## Source: [Day 7: Laboratories](https://adventofcode.com/2025/day/7)
 

@@ -7,7 +7,20 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+- Algorithms
+- Grid Algorithms
+- Cellular Automata
+- Neighbor Search
+- Flood Fill
+- Simulation
+- Iteration
+- Performance
+- Benchmarking
+- Code Optimization
+- Rendering
+- Visualization
+- Rust Performance
 ---
 ## Source: [Day 4: Printing Department](https://adventofcode.com/2025/day/4)
 

@@ -7,7 +7,18 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+- Algorithms
+- Interval Merging
+- Range Processing
+- Sorting and Merging
+- Brute Force
+- Parsing
+- Iterators
+- Performance
+- Benchmarking
+- Code Optimization
+- Rust Performance
 ---
 ## Source: [Day 5: Cafeteria](https://adventofcode.com/2025/day/5)
 

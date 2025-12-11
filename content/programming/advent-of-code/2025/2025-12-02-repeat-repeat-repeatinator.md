@@ -7,7 +7,18 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+- Algorithms
+- Number Theory
+- Pattern Matching
+- Regex
+- Integer Arithmetic
+- Performance
+- Benchmarking
+- Code Optimization
+- Iterators
+- Parsing
+- Functional Programming
 ---
 ## Source: [Day 2: Gift Shop](https://adventofcode.com/2025/day/2)
 

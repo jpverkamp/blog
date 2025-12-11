@@ -7,7 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics: 
+- Algorithms
+- Simulation
+- Iterators
+- Functional Programming
+- Performance
+- Benchmarking
+- Code Optimization
+- Rust Iterators
+- Rust Performance
 ---
 ## Source: [Day 1: Secret Entrance](https://adventofcode.com/2025/day/1)
 

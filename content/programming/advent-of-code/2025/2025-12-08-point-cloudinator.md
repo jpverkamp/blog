@@ -7,7 +7,17 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+  - 3D Geometry
+  - Point Cloud
+  - Distance Calculations
+  - Closest Points
+  - Union-Find
+  - Region Merging
+  - Combinatorics
+  - Binary Heap
+  - Sorting
+  - Rust Performance
 ---
 ## Source: [Day 8: Playground](https://adventofcode.com/2025/day/8)
 

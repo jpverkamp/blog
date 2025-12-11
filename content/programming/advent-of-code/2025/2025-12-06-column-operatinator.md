@@ -7,7 +7,16 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+- Grid Parsing
+- Column Operations
+- Matrix Manipulation
+- Iterators
+- Folding
+- Mapping
+- Combinatorics
+- Parsing Numbers
+- Rust Performance
 ---
 ## Source: [Day 6: Trash Compactor](https://adventofcode.com/2025/day/6)
 
