@@ -7,7 +7,15 @@ programming/sources:
 - Advent of Code
 series:
 - Advent of Code 2025
-programming/topics: []
+programming/topics:
+- Knapsack problem
+- NP-complete
+- Backtracking
+- Memoization
+- Pruning
+- Grid algorithms
+- Parallelism
+- Visualization
 ---
 ## Source: [Day 12: Christmas Tree Farm](https://adventofcode.com/2025/day/12)
 
