@@ -452,19 +452,19 @@ Okay, let's render these.
 
 First, the example where there is a successful solution:
 
-<video controls src="/embeds/2025/aoc/aoc2025_day12_part1_example2.mp4" title="Title"></video>
+<video style="width: 400px; max-width: 100%;" controls src="/embeds/2025/aoc/aoc2025_day12_part1_example2.mp4" title="Title"></video>
 
 And the one where there is not:
 
-<video controls src="/embeds/2025/aoc/aoc2025_day12_part1_example3.mp4" title="Title"></video>
+<video style="width: 400px; max-width: 100%;" controls src="/embeds/2025/aoc/aoc2025_day12_part1_example3.mp4" title="Title"></video>
 
-That... is sped up by 1000x. The full video would be almost two *days* long. 
+That... is sped up by 1000x. The full video would be almost two *days* long. Granted, it solves it somewhat quicker than that, but still. That's a good example of just how bad this problem can get. 
 
 So what does our actual input look like?
 
 <video controls src="/embeds/2025/aoc/aoc2025_day12_part1.mp4" title="Title"></video>
 
-That's just fun to watch. It's any that have a valid solution in the first 32. Because of the 'not enough space' optimization, any invalid cases are just immediately eliminated. 
+That's just fun to watch. This isn't my whole input but rather any that have a valid solution in the first 32. Because of the 'not enough space' optimization, any invalid cases are just immediately eliminated. 
 
 You can also play a bit with the algorithm to choose which tile is next. If you use the lowest index, you get the above. If you instead use whichever has the most left to place you get this:
 
