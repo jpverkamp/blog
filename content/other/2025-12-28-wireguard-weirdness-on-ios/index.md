@@ -1,8 +1,14 @@
 ---
 title: "DNS/Wireguard Tunnel Weirdness on iOS"
 date: 2025-12-28
-programming/topics: []
-draft: True
+programming/topics:
+- Networking
+- WireGuard
+- DNS
+- iOS
+- VPN
+- Home Networking
+- Security
 ---
 A note so that if anyone ever haves this same bit of weirdness, hopefully they might stumble across this. I had a heck of a time searching for this...
 
