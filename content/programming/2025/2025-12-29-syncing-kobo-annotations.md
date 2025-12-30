@@ -1,7 +1,20 @@
 ---
 title: "Syncing Kobo Annotations"
 date: 2025-12-29
-programming/topics: []
+programming/languages:
+- Python
+- Bash
+programming/topics: 
+- Linux
+- SQLite
+- Shell Scripting
+- Filesystems
+- APIs
+- Dropbox
+- Automation
+- Productivity
+- Writing
+- Text
 draft: True
 ---
 I've recently been trying out a [Kobo](https://www.kobo.com/). Amazon has some issues and Kindles are hard to do any amount of customization to, let's just leave it at that. 
