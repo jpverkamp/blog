@@ -1,27 +1,67 @@
+{{- $category := "" -}}
+{{- $tag := "" -}}
+{{- $cover_mode := false -}}
+{{- $flag_reverse := false -}}
+
+{{- if .IsNamedParams -}}
+    {{- $category = .Get "category" | default "" -}}
+    {{- $tag = .Get "tag" | default "" -}}
+    {{- $cover_mode = .Get "cover_mode" | default false -}}
+    {{- $flag_reverse = .Get "reverse" | default false -}}
+{{- else -}}
+    {{- if eq (len .Params) 2 -}}
+        {{- $category = index .Params 0 -}}
+        {{- $tag = index .Params 1 -}}        
+    {{- else if eq (len .Params) 3 -}}
+        {{- $category = index .Params 0 -}}
+        {{- $tag = index .Params 1 -}}
+        {{- $cover_mode = index .Params 2 -}}
+    {{- else if eq (len .Params) 4 -}}
+        {{- $category = index .Params 0 -}}
+        {{- $tag = index .Params 1 -}}
+        {{- $cover_mode = index .Params 2 -}}
+        {{- $flag_reverse = index .Params 3 -}}
+    {{- end -}}
+{{- end -}}
+
 <div class="ranking">
-    <h3 class="title">Posts in <a href="/{{ .Get 0 | urlize }}/{{ .Get 1 | urlize }}/">{{ .Get 1 }}</a>:</h3>
-    <div class="content">
-        <ul>
-        {{- $targetKey := .Get 1 | urlize }}
+    <h3 class="title">Posts in <a href="/{{ $category | urlize }}/{{ $tag | urlize }}/">{{ $tag }}</a>:</h3>
+    <div class="content{{ if $cover_mode }} cover-list{{ end }}">
+        {{- if not $cover_mode -}}<ul>{{- end -}}
+        {{- $targetKey := $tag | urlize }}
         {{- $data := slice -}}
-        {{ range $key, $pages := (index (index $.Site.Taxonomies (.Get 0))) }}
+        {{ range $key, $pages := (index (index $.Site.Taxonomies ($category))) }}
             {{- if eq ($key | urlize) $targetKey -}}
                 {{- $data = $pages -}}
             {{- end -}}
         {{- end -}}
 
+        {{- if $flag_reverse -}}
+            {{- $data = sort $data "Date" -}}
+        {{- end -}}
+
         {{- if gt (len $data) 0 -}}
             {{- range $page := $data -}}
-                <li>
-                    <a href="{{ $page.Permalink }}">
-                        {{ $page.Title }}
-                    </a>
-                    {{- partial "series.html" $page -}}
-                </li>
+                {{- if not $cover_mode -}}<li>{{- end -}}
+                    {{- if $cover_mode -}}
+                        {{- with $page.Params.cover -}}
+                            <figure class="cover-image">
+                                <a href="{{ $page.Permalink }}">
+                                    <img src="{{ . }}" alt="{{ $page.Title }}" class="cover-image"/>
+                                </a>
+                            </figure>
+                        {{- end -}}
+                    {{- else -}}
+                        <a href="{{ $page.Permalink }}">
+                            {{ $page.Title }}
+                        </a>
+                        {{- partial "series.html" $page -}}
+                    {{- end -}}
+                {{- if not $cover_mode -}}</li>{{- end -}}
             {{- end -}}
         {{- else -}}
             <li>No posts found.</li>
         {{- end -}}
-        </ul>
+        {{- if not $cover_mode -}}</ul>{{- end -}}
     </div>
 </div>

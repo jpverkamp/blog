@@ -41,6 +41,11 @@ else if (and (strings.HasPrefix .PlainText "[")
             [[Title]]() 
             [[Title|Text]]()
 
+        Cover crosslinks:
+            [[cover:Title]]() 
+            [[cover:Title|Text]]()
+
+
         Wikipedia links:
             [[wiki:Title]]()
             [[wiki:Title|Text]]()
@@ -68,6 +73,13 @@ else if (and (strings.HasPrefix .PlainText "[")
         {{- $scratch.Set "crosslink-url" (printf "https://en.wikipedia.org/wiki/%s" $title) -}}
     {{- end -}}
 
+    {{- if strings.HasPrefix $title "cover:" -}}
+        {{- $title = substr $title 6 -}}
+        {{- $scratch.Set "cover-mode" true -}}
+    {{- else -}}
+        {{- $scratch.Set "cover-mode" false -}}
+    {{- end -}}
+
     {{- $title = (replace $title "&lsquo;" "'") -}}
     {{- $title = (replace $title "&rsquo;" "'") -}}
     {{- $title = (replace $title "‘" "'") -}}
@@ -81,11 +93,18 @@ else if (and (strings.HasPrefix .PlainText "[")
 
         {{- if (and (not ($scratch.Get "crosslink-url")) (eq $pageTitle $title)) -}}
             {{- $scratch.Set "crosslink-url" $page.Permalink -}}
+            {{- $scratch.Set "cover-url" $page.Params.cover -}}
         {{- end -}}
     {{- end -}}
 
     {{- if $scratch.Get "crosslink-url" -}}
-        <a href="{{ $scratch.Get "crosslink-url" }}">{{ $text }}</a>
+        {{- if $scratch.Get "cover-mode" -}}
+            <a href="{{ $scratch.Get "crosslink-url" }}">
+                <img src="{{ $scratch.Get "cover-url" }}" alt="{{ $text }}" />
+            </a>
+        {{- else -}}
+            <a href="{{ $scratch.Get "crosslink-url" }}">{{ $text }}</a>
+        {{- end -}}
     {{- else -}}
         {{ errorf "Markdown crosslink error in %s, for title: %s, text: %s" .Page.File.Path $title $text }}
     {{- end -}}
