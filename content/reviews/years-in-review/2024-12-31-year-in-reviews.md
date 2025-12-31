@@ -19,7 +19,7 @@ In any case, I enjoy collecting stats on various things and sharing them out. Bo
 
 Overall this year:
 
-* [Read 298 books](#books)
+* [Read 196 books](#books)
 * [Watch 17 seasons of TV](#tv)
 * [Watched 11 movies](#movies)
 * [Played 227 different (85 new) board games a total of 1313 times](#board-games)
