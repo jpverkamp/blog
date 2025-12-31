@@ -39,9 +39,13 @@
                 {{- with index .Params "reviews/authors" -}}
                 <p>
                     {{- $last := sub (len .) 1 -}}
-                    by {{ range $i, $e := . }}
-                        <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
-                        {{- if (lt $i $last) -}}, {{- end -}}
+                    {{- if gt (len .) 3 -}}
+                        (anthology)
+                    {{- else -}}
+                        by {{ range $i, $e := . }}
+                            <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
+                            {{- if (lt $i $last) -}}, {{- end -}}
+                        {{- end -}}
                     {{- end -}}
                 </p>
                 {{- end -}}
@@ -94,10 +98,14 @@
                 {{- /* Author links */ -}}
                 {{- with index .Params "reviews/authors" -}}
                 <p>
-                    {{- $last := sub (len .) 1 -}}
-                    by {{ range $i, $e := . }}
-                        <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
-                        {{- if (lt $i $last) -}}, {{- end -}}
+                    {{- if gt (len .) 3 -}}
+                        (anthology)
+                    {{- else -}}
+                        {{- $last := sub (len .) 1 -}}
+                        by {{ range $i, $e := . }}
+                            <a href="/reviews/authors/{{- $e | urlize -}}">{{- $e -}}</a>
+                            {{- if (lt $i $last) -}}, {{- end -}}
+                        {{- end -}}
                     {{- end -}}
                 </p>
                 {{- end -}}

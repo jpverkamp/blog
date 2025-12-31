@@ -32,7 +32,13 @@ reviews/authors:
 - Waubgeshig Rice
 reviews/lists:
 - 2025 Book Reviews
+- 2025 Book Bingo
 title: 'Never Whistle at Night: An Indigenous Dark Fiction Anthology'
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 4x4+
 ---
 > Many Indigenous people believe that one should never whistle at night. This belief takes many forms: for instance, Native Hawaiians believe it summons the Hukai’po, the spirits of ancient warriors, and Native Mexicans say it calls Lechuza, a witch that can transform into an owl. But what all these legends hold in common is the certainty that whistling at night can cause evil spirits to appear—and even follow you home.
 

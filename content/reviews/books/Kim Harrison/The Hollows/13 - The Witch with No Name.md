@@ -7,11 +7,17 @@ reviews/authors:
 - Kim Harrison
 reviews/lists:
 - 2025 Book Reviews
+- 2025 Book Bingo
 reviews/series:
 - The Hollows
 series_index:
 - 13
 title: The Witch with No Name
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 2x4+
 ---
 And so it ... ends? 
 

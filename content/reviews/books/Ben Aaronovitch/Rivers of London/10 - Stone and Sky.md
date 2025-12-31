@@ -7,11 +7,17 @@ reviews/authors:
 - Ben Aaronovitch
 reviews/lists:
 - 2025 Book Reviews
+- 2025 Book Bingo
 reviews/series:
 - Rivers of London
 series_index:
 - 10
 title: Stone and Sky
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 3x3+
 ---
 > It all started when Dr Brian Robertson, retired GP, enthusiastic amateur ecologist and self-confessed cryptid aficionado, stumbled over a dead sheep a few kilometres west of the town of Mintlaw, Aberdeenshire. Normally, because they are famously geniuses at finding inventive ways of getting themselves killed, a dead sheep does not cause much concern beyond irritation in the farmer and speculation as to whether it can be disposed of off the books to avoid costs.
 

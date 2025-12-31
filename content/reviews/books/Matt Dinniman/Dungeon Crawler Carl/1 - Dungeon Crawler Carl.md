@@ -7,11 +7,17 @@ reviews/authors:
 - Matt Dinniman
 reviews/lists:
 - 2025 Book Reviews
+- 2025 Book Bingo
 reviews/series:
 - Dungeon Crawler Carl
 series_index:
 - 1
 title: Dungeon Crawler Carl
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 1x5+
 ---
 > Goddammit Donut!
 

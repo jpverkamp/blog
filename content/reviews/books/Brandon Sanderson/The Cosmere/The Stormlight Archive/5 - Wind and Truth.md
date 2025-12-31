@@ -7,6 +7,7 @@ reviews/authors:
 - Brandon Sanderson
 reviews/lists:
 - 2025 Book Reviews
+- 2025 Book Bingo
 reviews/series:
 - The Stormlight Archive
 - The Cosmere
@@ -14,6 +15,11 @@ series_index:
 - 5
 - 31
 title: Wind and Truth
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 2x2+
 ---
 > An oath could be broken, but a promise? A promise stood as long as you were still trying. A promise understood that sometimes your best wasn’t enough. A promise cried with you when all went to Damnation. A promise came to help when you could barely stand. Because a promise knew that sometimes, being there was all you could offer.
 
