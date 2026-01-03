@@ -10,22 +10,20 @@
 ` }}
 
 {{- $scripts := slice 
-    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/2.0.5/p5.min.js"
     "https://unpkg.com/p5.gui.variables@1.0.1/libraries/quicksettings.js"
     "https://unpkg.com/p5.gui.variables@1.0.1/libraries/p5.gui.js"
 -}}
 
 {{- range $script := $scripts -}}
-    {{- $resource := resources.GetRemote $script | minify | fingerprint }}
-    {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) }}
-    {{/* $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" defer></script>`) */}}
+    {{- $resource := resources.GetRemote $script | fingerprint -}}
+    {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `"></script>`) }}
 {{- end }}   
 
 {{ range $library := (split $libraries " ") }}
     {{- if $library -}}
         {{- $resource := resources.GetRemote $library | minify | fingerprint }}
-        {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `" defer></script>`) }}
-        {{/* $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" defer></script>`) */}}
+        {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `" integrity="` $resource.Data.Integrity `"></script>`) }}
     {{- end -}}
 {{ end }}
 
