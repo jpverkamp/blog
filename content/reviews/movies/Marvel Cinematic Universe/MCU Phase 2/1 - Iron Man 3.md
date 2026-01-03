@@ -4,7 +4,6 @@ date: 2021-05-05
 reviews/lists:
 - 2013 Movie Reviews
 - 2021 Movie Reviews
-cover: /embeds/movies/iron-man-3.jpg
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2

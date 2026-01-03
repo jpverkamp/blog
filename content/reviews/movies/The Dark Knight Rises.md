@@ -5,7 +5,6 @@ reviews/lists:
 - 2012 Movie Reviews
 cover: /embeds/movies/dark-knight.jpg
 imdb_id: '1345836'
-imdb_id: '1345836'
 reviews/cinematographers:
 - Wally Pfister
 reviews/composers:

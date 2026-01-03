@@ -6,8 +6,6 @@ reviews/lists:
 reviews/series:
 - Altered Carbon
 series_index: [2]
-reviews/lists:
-- 2022 TV Reviews
 source:
 - Netflix
 cover: /embeds/tv/altered-carbon.jpg

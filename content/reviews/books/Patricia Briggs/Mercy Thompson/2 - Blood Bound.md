@@ -4,8 +4,6 @@ date: 2016-07-23
 generated: true
 reviews/lists:
 - 2016 Book Reviews
-reviews/series:
-- Mercy Thompson
 reviews/authors:
 - Patricia Briggs
 goodreads_id: 285205

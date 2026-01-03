@@ -3,7 +3,6 @@ title: The Avengers
 date: 2021-04-04
 reviews/lists:
 - 2012 Movie Reviews
-cover: /embeds/movies/avengers.jpg
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 1

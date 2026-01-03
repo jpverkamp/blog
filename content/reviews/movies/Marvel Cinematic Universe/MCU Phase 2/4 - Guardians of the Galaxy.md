@@ -4,7 +4,6 @@ date: 2021-07-13
 reviews/lists:
 - 2014 Movie Reviews
 - 2021 Movie Reviews
-cover: /embeds/movies/guardians-of-the-galaxy.jpg
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2

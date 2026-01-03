@@ -4,7 +4,6 @@ date: 2021-05-12
 reviews/lists:
 - 2013 Movie Reviews
 - 2021 Movie Reviews
-cover: /embeds/movies/thor-the-dark-world.jpg
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2

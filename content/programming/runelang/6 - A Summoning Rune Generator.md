@@ -5,7 +5,6 @@ programming/languages:
 - Javascript
 programming/topics:
 - Small Scripts
-programming/topics:
 - Generative Art
 - Procedural Content
 series:

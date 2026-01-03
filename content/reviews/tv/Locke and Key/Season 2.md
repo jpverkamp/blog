@@ -6,8 +6,6 @@ reviews/lists:
 reviews/series:
 - Locke & Key (TV)
 series_index: [2.1, 2]
-reviews/lists:
-- 2022 TV Reviews
 source:
 - Netflix
 cover: /embeds/tv/locke-and-key-season-2.jpg
