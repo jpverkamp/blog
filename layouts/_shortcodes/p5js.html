@@ -42,6 +42,9 @@
 
 {{ $additionalScript := `
 function setup() {
+    // Store a copy of the original params
+    const defaultParams = typeof params !== "undefined" ? { ...params } : {};
+
     // Load saved settings from the browser hash fragment
     if (parent.location.hash && typeof params !== "undefined") {
         try {
@@ -79,6 +82,56 @@ function setup() {
     createButton("reload").mousePressed(() => {
         window.location.reload();
     });
+
+    if (typeof params !== "undefined") {
+        createButton("default").mousePressed(() => {
+            for (const key in defaultParams) {
+                params[key] = defaultParams[key];
+            }
+            parent.location.hash = btoa(JSON.stringify(params));
+        });
+
+        createButton("randomize").mousePressed(() => {
+            // Grab all inputs inside the GUI container
+            const guiContainer = document.querySelector('.qs_main'); 
+            if (!guiContainer) return;
+
+            const inputs = guiContainer.querySelectorAll('input');
+            let i = 0;
+
+            for (const key in params) {
+                const el = inputs[i++];
+                if (!el) continue;
+
+                if (el.type === "checkbox") {
+                    el.checked = Math.random() < 0.5;
+                    params[key] = el.checked;
+                } else if (el.type === "range") {
+                    const min = parseFloat(el.min);
+                    const max = parseFloat(el.max);
+                    const step = parseFloat(el.step) || 1;
+                    const rangeSteps = Math.floor((max - min) / step);
+                    const randomStep = Math.floor(Math.random() * (rangeSteps + 1));
+                    const value = min + randomStep * step;
+                    el.value = value;
+                    params[key] = value;
+                } else if (el.tagName.toLowerCase() === "select") {
+                    const options = el.options;
+                    const randomIndex = Math.floor(Math.random() * options.length);
+                    el.selectedIndex = randomIndex;
+                    params[key] = options[randomIndex].value;
+                } else {
+                    console.warn("Unsupported input type for randomization: " + el.type);
+                }
+
+                // Trigger input event to update the GUI and callbacks
+                el.dispatchEvent(new Event('input', { bubbles: true }));
+            }
+
+            // Save the random state to hash
+            parent.location.hash = btoa(JSON.stringify(params));
+        });
+    }
 
     if (typeof params !== "undefined") {
         for (var el of document.querySelectorAll('input')) {
