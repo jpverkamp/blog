@@ -33,7 +33,7 @@ function setup() {
 
   gui = createGuiPanel('params');
   gui.addObject(params);
-  gui.setPosition(520, 0);
+  gui.setPosition(420, 0);
 }
 
 function draw() {
