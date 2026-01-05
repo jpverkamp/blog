@@ -17,9 +17,9 @@ bingo-data:
 ---
 > "See? She'll be fine. Evander's charming with animals, he nad half the birds in the neighborhood following him around by the time he was three. C'mon, you need to hit the wine and cheese table. And maybe skip the cheese." Moira grabbed her arm and steered her around.
 
-So... basically we have a mundane couple who's daughter is attacked (and thus turned) by a werewolf. Suddenly, they're thrust into the magical world alongside our own, complete with kindergarten, children's sports, marriage woes, talent shows, and PTAs. 
+So... basically we have a mundane couple whose daughter is attacked (and thus turned) by a werewolf. Suddenly, they're thrust into the magical world alongside our own, complete with kindergarten, children's sports, marriage woes, talent shows, and PTAs. 
 
-And just while everyone around is magical in someways, it's at times humorous and at times entirely too on the nose combination of magic and mundane that really sets this series off. 
+And just while everyone around is magical in someways, it's at times humorous and at times entirely too on the nose combination of magic and mundane that really sets this off. 
 
 > "You cast an invisibility spell?" Steve and his wife exchanged the classic "we're in for it now" look every pair of parents perfects.
 "I just did what Daddy does when he's eating Mommy's chips," the boy said guilelessly.
