@@ -16,7 +16,7 @@
 -}}
 
 {{- range $script := $scripts -}}
-    {{- $resource := resources.GetRemote $script | fingerprint -}}
+    {{- $resource := resources.GetRemote $script | minify | fingerprint -}}
     {{ $header = (print $header `<script src="` (absURL $resource.RelPermalink) `"></script>`) }}
 {{- end }}   
 
