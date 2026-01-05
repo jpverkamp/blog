@@ -9,7 +9,7 @@ programming/topics:
 - p5js
 series:
 - Genuary 2026
-cover: cover.png
+cover: gen26.01.png
 ---
 It's been a [[Genuary 2023|couple years]]() since I last did [Genuary](https://genuary.art/). Let's do it again. I don't expect to make any masterpieces, but I enjoy making tiny pretty pictures. It's something I've been doing honestly as long as I've been programming (I remember making [[wiki:brownian motion]]() 'bugs' in QBasic in the 90s...). 
 

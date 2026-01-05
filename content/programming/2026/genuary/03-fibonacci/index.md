@@ -9,7 +9,7 @@ programming/topics:
 - p5js
 series:
 - Genuary 2026
-cover: cover.png
+cover: gen26.03.png
 ---
 ## 3) Fibonacci forever
 

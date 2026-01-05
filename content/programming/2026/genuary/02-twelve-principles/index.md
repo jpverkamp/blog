@@ -9,7 +9,7 @@ programming/topics:
 - p5js
 series:
 - Genuary 2026
-cover: cover.png
+cover: gen26.02.png
 ---
 ## 2) Twelve principles of animation 
 
