@@ -20,6 +20,7 @@ So basically I made a very simple stack based virtual machine. You can check the
 If not, it will randomly mutate and try again. 
 
 * `ticksPerFrame` - How fast the simulation will run
+* `asFastAsPossible` - Run an entire simulation per frame (it could *technically* go even faster :smile:)
 * `breakAfter` - If this many ops run without output, break
 * `maxStack` - Limit the size of the stack
 * `pauseAfter` - Pause to see what happened after output is done or a break
@@ -32,11 +33,12 @@ If you manage to find a quine, I'd *love* to hear what it was. I haven't found o
 
 <!--more-->
 
-{{<p5js width="600" height="420">}}
+{{<p5js width="600" height="460">}}
 let gui;
 let params = {
   cellSize: 10, cellSizeMin: 2, cellSizeMax: 40,
-  ticksPerFrame: 100, ticksPerFrameMin: 0, ticksPerFrameMax: 1000,
+  ticksPerFrame: 100, ticksPerFrameMin: 0, ticksPerFrameMax: 10000,
+  asFastAsPossible: false,
   breakAfter: 1000, breakAfterMin: 1, breakAfterMax: 10000,
   maxStack: 256, maxStackMin: 4, maxStackMax: 1024,
   pauseAfter: true,
@@ -274,6 +276,9 @@ function draw() {
   }
   
   for (let i = 0; i < params.ticksPerFrame; i++) {
+    if (params.asFastAsPossible) {
+      i = 0; // lol
+    }
     currentVM.step();
     
     if (currentVM.output.length >= currentVM.code.length) {
