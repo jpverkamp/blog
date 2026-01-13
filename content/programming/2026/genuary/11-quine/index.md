@@ -214,7 +214,8 @@ class VM {
       if (i < previousCode.length && random() > params.randomizePercent) {
         this.code.push(previousCode[i]);
       } else {
-        this.code.push(floor(random() * 256));
+        // My valid solution requires a `push 22` and we only have 21 opcodes :smile:
+        this.code.push(floor(random() * Math.max(OPS.length, 32)));
       }      
     }
   }
