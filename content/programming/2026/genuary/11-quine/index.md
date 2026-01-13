@@ -11,7 +11,7 @@ series:
 - Genuary 2026
 cover: gen26.11.png
 ---
-## 9) Quine
+## 11j) Quine
 
 Making a genart [[wiki:quine]]()? That's... certainly a thing!
 

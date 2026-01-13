@@ -11,7 +11,7 @@ series:
 - Genuary 2026
 cover: gen26.10.png
 ---
-## 9) Polar coordinates
+## 10) Polar coordinates
 
 CIrcles within circles within circles. 
 
