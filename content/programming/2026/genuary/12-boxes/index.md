@@ -15,6 +15,10 @@ cover: gen26.12.png
 
 It's like [draw a box](https://drawabox.com/). But somehow even more. And automatic. 
 
+If you let it run for a while, you get some crazy abstract art!
+
+![Boxes after running for a long time](run-for-a-while.png)
+
 <!--more-->
 
 {{<p5js width="600" height="460">}}
