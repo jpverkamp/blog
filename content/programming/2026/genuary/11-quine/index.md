@@ -271,12 +271,13 @@ class VM {
           }
           
           let v = data[i];
-          //let hue = 360 * (v % OPS.length) / OPS.length;
-          let hue = 360 * v / 256;
-
+          let hue = 360 * ((v - 1) % OPS.length) / OPS.length;
+          
           noStroke();
 
-          if (!params.highlightActive || this.activeMemory.has(i)) {
+          if (v == 0) {
+            fill(0, 100, 0);
+          } else if (!params.highlightActive || this.activeMemory.has(i)) {
             fill(hue, 100, 100);
           } else {
             fill(hue, 50, 100);
@@ -456,20 +457,29 @@ function draw() {
       let newCode = currentVM.output.slice(0, currentVM.code.length);
       
       let isQuine = true;
+      let isSemiQuine = true;
+
       for (let i = 0; i < previousCode.length; i++) {
-        if (params.allowSemiQuine && !currentVM.activeMemory.has(i)) {
-          // currentVM.code[i] = newCode[i];
-          continue;
-        }
-        
         if (previousCode[i] != newCode[i]) {
           isQuine = false;
-          break;
+          if (currentVM.activeMemory.has(i)) {
+            isSemiQuine = false;
+          }
+          
+          if (params.allowSemiQuine && !currentVM.activeMemory.has(i)) {
+            continue;
+          } else {
+            break;
+          }
         }
       }
       
-      if (isQuine) {
-        currentVM.message = "QUINE FOUND!";
+      if (isQuine || isSemiQuine) {
+        if (!isQuine) {
+          currentVM.message = "(SEMI) QUINE FOUND!";
+        } else {
+          currentVM.message = "QUINE FOUND!";
+        }
         
         let source = '';
         for (let i = 0; i < previousCode.length; i++) {
@@ -523,6 +533,9 @@ function draw() {
     // Or at least taking annoyingly long, so kill it
     if (currentVM.ticksSinceOutput >= currentVM.w * currentVM.h) {
       currentVM.message = "timed out";
+      while (currentVM.output.length < currentVM.code.length) {
+        currentVM.out(0);
+      }
       currentVM.draw();
       
       currentVM.randomize();
@@ -678,6 +691,10 @@ jumpback
 
 This was fun to get working!
 
+Here it is at `cellSize = 20`:
+
+![Hand written quine at cell size 20](quine.png)
+
 When it runs, it will automatically output the 'un-assembled' version:
 
 ```text
@@ -784,3 +801,29 @@ jumpback
 But it's fun looking :smile:
 
 Also, it does as a 'semi quine' but not an actual quine, since it does output exactly the code that *was actually run*, what it writes to the rest of the image doesn't matter. Try it!
+
+## Minimal quine
+
+Here's as small as I've gotten it (same idea):
+
+```text
+push 10     ; jump to prefix
+jump
+dup         ; main loop
+peek
+out
+push 1
+add
+push 8
+jumpback
+push 1 out  ; write prefix
+push 10 out 
+push 13 out 
+push 3 out  
+push 22     ; return to main loop
+jumpback
+```
+
+That one is small enough to even run at size 40 with room to spare! (27 of 40 bytes). 
+
+![Image of my minimal quine](minimal-quine.png)
