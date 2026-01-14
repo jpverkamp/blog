@@ -21,6 +21,8 @@ Basically, it will take recursively divide the picture over time. Each time, it 
 * `edges` will draw the boxes of the tree
 * `minimumBlock` is the size at which it won't split any more
 * `resetAfter` will generate new colors even this many frames
+* `evenSplit` will split each box into exactly 4; if this is off, each axis will randomly be 25-75%
+* `weightErrorBySize` will split small boxes earlier; with this off, larger boxes have more error because they are larger
 
 If you don't want to look at me any more, turning off `selfPortraitMode` will load an image from [picsum.dev](https://picsum.dev/). 
 
@@ -34,6 +36,8 @@ let params = {
   minimumBlock: 3, minimumBlockMin: 1, minimumBlockMax: 10,
   selfPortraitMode: true,
   resetAfter: 1000, resetAfterMin: 10, resetAfterMax: 10000,
+  evenSplit: false,
+  weightErrorBySize: true,
 };
 
 let portraitImage;
@@ -113,7 +117,11 @@ function totalError(x, y, w, h, r, g, b) {
     }
   }
 
-  return error / (w * h / 2);
+  if (params.weightErrorBySize) {
+    return error / (w * h);
+  } else {
+    return error;
+  }
 }
 
 // Find the closest color in colors to r, g, b
@@ -161,8 +169,12 @@ function splitAtError(tree, error) {
   if (tree.type === 'leaf' && tree.error === error) {
     const { x, y, w, h } = tree;
 
-    const hw = Math.floor(w / 2);
-    const hh = Math.floor(h / 2);
+    let hw = Math.floor(w / 2);
+    let hh = Math.floor(h / 2);
+    if (!params.evenSplit) {
+      hw = Math.floor(w * (0.25 + random() / 2));
+      hh = Math.floor(h * (0.25 + random() / 2));
+    }
 
     tree.type = 'branch';
     tree.children = [
