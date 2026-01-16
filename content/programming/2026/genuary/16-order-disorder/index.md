@@ -243,11 +243,11 @@ function draw() {
 
 ## Examples
 
-It's fun to push this to all order:
+It's fun to push this to [all order](?agentRatio=0):
 
 ![](all-order.png)
 
-Or all chaos:
+Or all [chaos](?agentRatio=1):
 
 ![](all-chaos.png)
 
