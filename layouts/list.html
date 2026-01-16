@@ -34,41 +34,8 @@
 
     <h2>Recent posts</h2>
     <div class="post-list">
-    {{- $last := add (len .Paginator.Pages) -1 -}}
-    {{- range $i, $page := .Paginator.Pages -}}
-    {{- with $page -}}
-        <article class="li">
-        	<header>
-        		<h1 class="entry-title">
-                    <a href="{{ .Permalink }}" class="clearfix">{{ .Title }}</a>
-                </h1>
-
-        		<div class="entry-meta">
-                    {{- if .Date -}}
-                    <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span>
-                    <!--
-                    <span class="entry-date" data-posted-on="{{ .Date.Format "2006-01-02" }}">
-                        <span class="month">{{ .Date.Month }}</span>
-                        <span class="day">{{ .Date.Day }}</span><span class="sep">, </span>
-                        <span class="year">{{ .Date.Year }}</span>
-                    </span>
-                    -->
-                    {{- end -}}
-        		</div>
-        	</header>
-            <div class="entry-content">
-                {{- if .Truncated -}}
-                    {{- .Summary -}}
-                    <p><a href="{{ .RelPermalink }}">read more...</a></p>
-                {{- else -}}
-                    {{- .Content -}}
-                {{- end -}}
-        	</div>
-
-            {{/* Add the HR to all but the last element and the last one only if we have more than one page */}}
-            {{- if or (not (eq $i $last)) (gt $.Paginator.TotalPages 1) }}<hr />{{ end -}}
-        </article>
-    {{- end -}}
+    {{- range .Paginator.Pages -}}
+        {{- partial "post-card.html" . -}}
     {{- end -}}
     </div>
 

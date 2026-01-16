@@ -1,0 +1,57 @@
+{{- $post := . -}}
+{{- $coverImage := "" -}}
+
+{{- /* First check for cover in frontmatter */ -}}
+{{- with $post.Params.cover -}}
+    {{- $coverImage = . -}}
+{{- else -}}
+    {{- /* Try to find the first image in the content */ -}}
+    {{- $content := $post.Content -}}
+    {{- $imgRegex := `<img[^>]+src="([^"]+)"` -}}
+    {{- if findRE $imgRegex $content 1 -}}
+        {{- $match := index (findRE $imgRegex $content 1) 0 -}}
+        {{- $srcRegex := `src="([^"]+)"` -}}
+        {{- with findRE $srcRegex $match 1 -}}
+            {{- $coverImage = replaceRE `src="([^"]+)"` "$1" (index . 0) -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- /* Resolve relative image paths */ -}}
+{{- if $coverImage -}}
+    {{- if not (or (hasPrefix $coverImage "/") (hasPrefix $coverImage "http")) -}}
+        {{- $coverImage = printf "%s%s" $post.RelPermalink $coverImage -}}
+    {{- end -}}
+{{- end -}}
+
+<article class="post-card">
+    {{- if $coverImage -}}
+    <div class="post-card-image">
+        <a href="{{ $post.Permalink }}">
+            <img src="{{ $coverImage }}" alt="{{ $post.Title }}" loading="lazy" />
+        </a>
+    </div>
+    {{- end -}}
+    <div class="post-card-content">
+        <header>
+            <h1 class="entry-title">
+                <a href="{{ $post.Permalink }}" class="clearfix">{{ $post.Title }}</a>
+            </h1>
+            <div class="entry-meta">
+                {{- if $post.Date -}}
+                <span class="entry-date">{{ $post.Date.Format "2006-01-02" }}</span>
+                {{- end -}}
+                {{- if $post.Section -}}
+                <br>
+                <span class="entry-category">Posted in <a href="/{{ $post.Section }}/">{{ $post.Section | title }}</a></span>
+                {{- end -}}
+            </div>
+        </header>
+        <div class="entry-content">
+            {{- if $post.Summary -}}
+                {{ $post.Summary }}
+            {{- end -}}
+        </div>
+    </div>
+</article>
+

@@ -1,22 +1,32 @@
 {{ define "main" }}
 
+<h2>Recent posts</h2>
+<div class="post-list">
+    {{- range first 20 .Site.RegularPages -}}
+        {{- partial "post-card.html" . -}}
+    {{- end -}}
+</div>
+
+<hr />
+
+<h2>Recent posts by category</h2>
+
 {{- range $index, $section := .Site.Sections -}}
 {{- with $section -}}
-    {{- if not (eq .Title "Othe2r") -}}
-        <h2>
+    {{- if and (ne .Title "Othe2r") (ne .Title "search") -}}
+        <h3>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             <sup>
                 <a href="/{{ .Title | urlize }}/atom.xml">
                     {{- partial "rss-icon.html" (dict "size" 8 "color" "green") }}
                 </a>
             </sup>
-        </h2>
+        </h3>
 
         <section>
         {{ .Content }}
         </section>
 
-        <h3>Recent posts:</h3>
         <ul>
             {{- range first 10 .Pages -}}
             <li>
@@ -25,10 +35,6 @@
             </li>
             {{- end -}}
         </ul>
-
-        {{- if eq $index 0 -}}
-        <hr />
-        {{- end -}}
     {{- end -}}
 {{- end -}}
 {{- end -}}

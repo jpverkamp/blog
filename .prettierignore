@@ -1,0 +1,4 @@
+build/
+.hugo_build.lock
+node_modules/
+_cache/

@@ -20,3 +20,64 @@ article .entry-meta {
 .entry-comments {
     padding-bottom: 2em;
 }
+
+/* Post card styles */
+.post-card {
+    margin-bottom: 2em;
+    padding-bottom: 1.5em;
+    overflow: auto; /* Clearfix */
+}
+
+.post-card:not(:last-child) {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.post-card-image {
+    float: left;
+    width: 200px;
+    margin-right: 1.5em;
+    margin-bottom: 1em;
+}
+
+.post-card-image img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.post-card-content {
+    /* Text will flow around the floated image */
+}
+
+.post-card .entry-title {
+    margin-top: 0;
+}
+
+.post-card .entry-content {
+    margin-top: 0.5em;
+    color: #666;
+}
+
+/* Clear floats before block elements so they don't wrap around the image */
+.post-card .entry-content blockquote,
+.post-card .entry-content pre,
+.post-card .entry-content ul,
+.post-card .entry-content ol,
+.post-card .entry-content h1,
+.post-card .entry-content h2,
+.post-card .entry-content h3,
+.post-card .entry-content h4,
+.post-card .entry-content h5,
+.post-card .entry-content h6 {
+    clear: both;
+}
+
+/* Make cards stack on mobile */
+@media (max-width: 600px) {
+    .post-card-image {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+    }
+}
