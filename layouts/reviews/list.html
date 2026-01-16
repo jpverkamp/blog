@@ -16,6 +16,8 @@
 
   <div class="entry-content">{{- .Content -}}</div>
   
+  <h3>Recent Reviews</h3>
+
   <div class="cover-list">
     {{- range .Pages | first 20 -}}
       {{- if isset .Params "cover" -}} 

@@ -11,6 +11,8 @@
 
 <h2>Recent posts by category</h2>
 
+Click a category to see all posts in that category, or click the RSS icon to subscribe to that category's RSS feed.
+
 {{- range $index, $section := .Site.Sections -}}
 {{- with $section -}}
     {{- if and (ne .Title "Othe2r") (ne .Title "search") -}}

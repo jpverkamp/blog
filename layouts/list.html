@@ -21,6 +21,20 @@
     <hr>
     {{- end -}}
 
+    {{- $p := .Paginator -}}
+    <h2>Recent posts{{ if gt $p.TotalPages 1 }} (Page {{ $p.PageNumber }} of {{ $p.TotalPages }}){{ end }}</h2>
+    <div class="post-list">
+    {{- range .Paginator.Pages -}}
+        {{- partial "post-card.html" . -}}
+    {{- end -}}
+    </div>
+
+    <nav id="pagination-navigation" role="navigation">
+        {{- template "_internal/pagination.html" . -}}
+    </nav>
+
+    <hr>
+
     <h2>All posts</h2>
     <ul>
         {{- range .Pages -}}
@@ -31,15 +45,4 @@
         </li>
         {{- end -}}
     </ul>
-
-    <h2>Recent posts</h2>
-    <div class="post-list">
-    {{- range .Paginator.Pages -}}
-        {{- partial "post-card.html" . -}}
-    {{- end -}}
-    </div>
-
-    <nav id="pagination-navigation" role="navigation">
-        {{- template "_internal/pagination.html" . -}}
-    </nav>
 {{- end -}}

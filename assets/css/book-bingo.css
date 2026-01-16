@@ -30,23 +30,17 @@
     border: 1px solid black;
     border-radius: 3px;
 }
-.bingo.covers-only td {
+.bingo td.covers-only {
     border: 0;
-}
-
-.bingo.covers-only th,
-.bingo.covers-only td {
     margin: 0;
     padding: 0;
 }
 
-.bingo.covers-only p,
-.bingo.covers-only hr,
-.bingo.covers-only figcaption,
-.bingo.covers-only div {
+.bingo td.covers-only p,
+.bingo td.covers-only hr,
+.bingo td.covers-only figcaption,
+.bingo td.covers-only div {
     display: none;
-
-
 }
 .bingo img {
     border: 3px solid black;
