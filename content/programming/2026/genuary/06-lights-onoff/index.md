@@ -15,9 +15,9 @@ cover: gen26.06.png
 
 :smile:
 
-(Turn on flickering.)
+([Turn on flickering.](?flicker=true))
 
-(If you dare.)
+([If you dare.](?flicker=true&flickerPercent=1))
 
 <!--more-->
 

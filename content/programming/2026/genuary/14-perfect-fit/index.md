@@ -27,6 +27,8 @@ Here is an example with diameter 1-200; spacing 0, and fillInside/black off. I d
 
 ![An image matching the prompt with an actually full space](prompt.png)
 
+[Run it yourself](?retriesPerFrame=100&minDiameter=1&maxDiameter=400&spacing=0&borders=false&fillInside=false&blackPercent=0)
+
 <!--more-->
 
 {{<p5js width="600" height="460">}}

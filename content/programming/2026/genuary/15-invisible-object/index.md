@@ -227,24 +227,23 @@ Here are some fun ones I've found.
 
 ## Brownian motion
 
-Not rainbow, high die off, low wind scale.
+[Not rainbow, high die off, low wind scale.](?dustDieOff=0.814&onlyEdgeDust=false&rainbowDust=false&windScale=0&shadowForce=3)
 
 ![](brownian.png)
 
-There's that artifact along the top I was talking about. 
-
 ## Weakly interacting
 
-High speed, shadow force 0
+[High speed, shadow force 0](?dustSpeed=10&dustDieOff=0.007&onlyEdgeDust=false&windScale=5&shadowForce=0)
 
 ![](wimp.png)    
 
 ## Gradient
 
-Only edge, die off 0.05. 
+[Only edge, die off 0.05.](?dustSpeed=10&dustDieOff=0.007&rainbowDust=false&windScale=5&shadowForce=3)
 
 ![](gradiant.png)
 
+There's that artifact along the top I was talking about. 
 
 ## Texture
 

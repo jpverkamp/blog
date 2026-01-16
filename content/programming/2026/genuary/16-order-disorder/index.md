@@ -251,4 +251,8 @@ Or all [chaos](?agentRatio=1):
 
 ![](all-chaos.png)
 
+[Here's a fun one](?updateRate=7&agentRatio=1&spawnRate=0.31&resetPercent=0.56&pauseOnReset=true) that grows like coral/frost:
+
+![](frost.png)
+
 {{< taxonomy-list "series" "Genuary 2026" >}}
