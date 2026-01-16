@@ -42,14 +42,16 @@
                 <span class="entry-date">{{ $post.Date.Format "2006-01-02" }}</span>
                 {{- end -}}
                 {{- if $post.Section -}}
-                <br>
-                <span class="entry-category">Posted in <a href="/{{ $post.Section }}/">{{ $post.Section | title }}</a></span>
+                <span class="entry-category"> in <a href="/{{ $post.Section }}/">{{ $post.Section | title }}</a></span>
                 {{- end -}}
             </div>
         </header>
         <div class="entry-content">
             {{- if $post.Summary -}}
                 {{ $post.Summary }}
+                {{- if $post.Truncated -}}
+                <p><a href="{{ $post.RelPermalink }}">read more...</a></p>
+                {{- end -}}
             {{- end -}}
         </div>
     </div>
