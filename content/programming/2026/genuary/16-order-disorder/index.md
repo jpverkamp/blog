@@ -255,4 +255,8 @@ Or all [chaos](?agentRatio=1):
 
 ![](frost.png)
 
+It's really fun to [do it with order instead](?updateRate=7&agentRatio=0&spawnRate=0.21&resetPercent=0.28&pauseOnReset=true):
+
+![](order-coral.png)
+
 {{< taxonomy-list "series" "Genuary 2026" >}}
