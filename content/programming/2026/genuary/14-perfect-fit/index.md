@@ -23,12 +23,6 @@ Basically, we'll pack as many circles in as we can!
 * `fillInside` will place circles *inside* of each other as well as outside, so long as there is still enough `spacing`
 * `blackPercent` is how many of the circles will be black rather than bright colors
 
-Here is an example with diameter 1-200; spacing 0, and fillInside/black off. I did max out retriesPerFrame, but this still took a while, since even with 100/frame, the last few empty spots have a ~1/100,000 chance of being chosen. 
-
-![An image matching the prompt with an actually full space](prompt.png)
-
-[Run it yourself](?retriesPerFrame=100&minDiameter=1&maxDiameter=400&spacing=0&borders=false&fillInside=false&blackPercent=0)
-
 <!--more-->
 
 {{<p5js width="600" height="460">}}
@@ -130,5 +124,15 @@ function draw() {
   }
 }
 {{</p5js>}}
+
+Here is an example with diameter 1-200; spacing 0, and fillInside/black off. I did max out retriesPerFrame, but this still took a while, since even with 100/frame, the last few empty spots have a ~1/100,000 chance of being chosen. 
+
+![An image matching the prompt with an actually full space](prompt.png)
+
+[Run it yourself](?retriesPerFrame=100&minDiameter=1&maxDiameter=400&spacing=0&borders=false&fillInside=false&blackPercent=0)
+
+And here's the epitome of [[wiki:trypophobia]]()! ([run it](?retriesPerFrame=100&minDiameter=1&spacing=1&borders=false&fillInside=false&blackPercent=1))
+
+![](trypophobia.png)
 
 {{< taxonomy-list "series" "Genuary 2026" >}}

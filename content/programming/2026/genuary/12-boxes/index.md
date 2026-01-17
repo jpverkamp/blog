@@ -29,6 +29,7 @@ let params = {
   spin: true,
   colorful: true,
   persist: true,
+  blackPercent: 0, blackPercentMin: 0, blackPercentMax: 1, blackPercentStep: 0.01,
 };
 
 let buffer;
@@ -86,6 +87,7 @@ class CubeDrawer {
     this.speedVariance = random(0.9, 1.1);
     
     this.hue = random(360);
+    this.isBlack = random() < params.blackPercent;
 
     this.rx = random(TWO_PI);
     this.ry = random(TWO_PI);
@@ -152,6 +154,11 @@ class CubeDrawer {
     } else {
       buffer.stroke(255);  
     }
+
+    if (this.isBlack) {
+      buffer.stroke("black");
+    }
+
     buffer.strokeWeight(1);
 
     for (let i = 0; i < steps; i++) {
