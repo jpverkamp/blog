@@ -44,7 +44,7 @@ If you manage to find a quine organically (or write one), I'd *love* to hear wha
 let gui;
 let params = {
   cellSize: 10, cellSizeMin: 2, cellSizeMax: 40,
-  ticksPerFrame: 10, ticksPerFrameMin: 0, ticksPerFrameMax: 1000,
+  ticksPerFrame: 10, ticksPerFrameMin: 1, ticksPerFrameMax: 1000,
   asFastAsPossible: false,
   pauseAfter: false,
   stopAfter: false,

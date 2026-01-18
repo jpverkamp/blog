@@ -29,7 +29,7 @@ Settings:
 
 <!--more-->
 
-{{<p5js width="600" height="500">}}
+{{<p5js width="600" height="420">}}
 let gui;
 let params = {
   updateRate: 10, updateRateMin: 1, updateRateMax: 100,
@@ -179,7 +179,7 @@ class ChaosAgent {
   
   draw() {
     noStroke();
-    fill(this.h, 100, 100);
+    fill(240, 100, 100 * this.h / 360);
     rect(this.p.x, this.p.y, 1, 1);
   }
 }
