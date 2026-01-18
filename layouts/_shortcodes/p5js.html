@@ -95,6 +95,11 @@ function setup() {
         }
     });
 
+    createButton("step").mousePressed(() => {
+        noLoop();
+        draw();
+    });
+
     createButton("save").mousePressed(() => {
         saveCanvas('photo', 'png')
     });

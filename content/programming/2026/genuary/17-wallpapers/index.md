@@ -34,8 +34,7 @@ Not all of the groups and cell types are perfectly compatible. In fact, probably
 {{<p5js width="600" height="440">}}
 let gui;
 let params = {
-  cellSize: 100,
-  frameRate: 1,
+  cellSize: 100, cellSizeMin: 1, cellSizeMax: 200,
   showBorders: false,
   group: [
     "random",
@@ -96,13 +95,14 @@ function setup() {
   createCanvas(400, 400);
   colorMode(HSB, 360, 100, 100, 100);
 
+  frameRate(1);
+
   gui = createGuiPanel("params");
   gui.addObject(params);
   gui.setPosition(420, 0);
 }
 
 function draw() {
-  frameRate(params.frameRate);
   blendMode(BLEND);
   background("white");
   blendMode(MULTIPLY);
