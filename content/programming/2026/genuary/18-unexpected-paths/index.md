@@ -61,21 +61,15 @@ The modes are:
 
 <!--more-->
 
-{{<p5js width="600" height="440">}}
+{{<p5js width="600" height="500">}}
 let gui;
 let params = {
   rule: "RL",
-  antCount: 1,
-  antCountMin: 1,
-  antCountMax: 100,
-  spawnRadius: 10,
-  spawnRadiusMin: 0,
-  spawnRadiusMax: 100,
+  antCount: 1, antCountMin: 1, antCountMax: 100,
+  spawnRadius: 10, spawnRadiusMin: 0, spawnRadiusMax: 100,
   dieOfOldAge: false,
   maxAge: "100",
-  updatesPerTick: 1,
-  updatesPerTickMin: 1,
-  updatesPerTickMax: 1000,
+  updatesPerTick: 1, updatesPerTickMin: 1, updatesPerTickMax: 1000,
   hexGrid: false,
   pauseMode: ["n-tiles", "one-at-edge", "all-at-edge", "no-pause"],
   centerMode: ["origin", "bounds", "ants", "tiles", "mouse"],
