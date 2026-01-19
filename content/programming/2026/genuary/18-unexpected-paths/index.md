@@ -42,6 +42,21 @@ You can also do some interesting things with multiple ants (they'll spawn in a c
 
 * [circular](?rule=NRL&antCount=100&spawnRadius=100)
 
+The modes are:
+
+* `pauseMode` controls when the simulation will stop (note: will always pause at width * height * 100 tiles)
+  * `n-tiles` will pause when the tile count is `width * height` (no matter where they are)
+  * `one-at-edge` will stop when each cell is 1 pixel and any ant reaches the edge of the image
+  * `all-at-edge` will only stop when all ants reach the edge
+  * `no-pause` will never pause (this can get really laggy eventually)
+
+* `centerMode` is how the displayed part of the simulation will be centered
+  * `origin` will stay centered at 0,0
+  * `bounds` will center on the middle of the current overall bounds
+  * `ants` will average the x,y of all ants 
+  * `tiles` will average the x,y of all tiles
+  * `mouse` will allow some mouse control; left click and drag to move, right click (in theory) to reset
+
 <br> 
 
 <!--more-->
@@ -50,38 +65,38 @@ You can also do some interesting things with multiple ants (they'll spawn in a c
 let gui;
 let params = {
   rule: "RL",
-  antCount: 1, antCountMin: 1, antCountMax: 100,
-  spawnRadius: 10, spawnRadiusMin: 0, spawnRadiusMax: 100,
+  antCount: 1,
+  antCountMin: 1,
+  antCountMax: 100,
+  spawnRadius: 10,
+  spawnRadiusMin: 0,
+  spawnRadiusMax: 100,
   dieOfOldAge: false,
   maxAge: "100",
-  updatesPerTick: 1, updatesPerTickMin: 1, updatesPerTickMax: 1000,
+  updatesPerTick: 1,
+  updatesPerTickMin: 1,
+  updatesPerTickMax: 1000,
   hexGrid: false,
-  colorScheme: [
-    "rainbow",
-    "fire",
-    "ocean",
-    "forest",
-    "pastel",
-    "monochrome",
-  ],
+  pauseMode: ["n-tiles", "one-at-edge", "all-at-edge", "no-pause"],
+  centerMode: ["origin", "bounds", "ants", "tiles", "mouse"],
+  colorScheme: ["rainbow", "fire", "ocean", "forest", "pastel", "monochrome"],
 };
 
 const HEX_DIRS = [
-  { x:  1, y:  0 },
-  { x:  0, y:  1 },
-  { x: -1, y:  1 },
-  { x: -1, y:  0 },
-  { x:  0, y: -1 },
-  { x:  1, y: -1 },
+  { x: 1, y: 0 },
+  { x: 0, y: 1 },
+  { x: -1, y: 1 },
+  { x: -1, y: 0 },
+  { x: 0, y: -1 },
+  { x: 1, y: -1 },
 ];
 
 const SQUARE_DIRS = [
-  { x:  0, y: -1 },
-  { x:  1, y:  0 },
-  { x:  0, y:  1 },
-  { x: -1, y:  0 },
+  { x: 0, y: -1 },
+  { x: 1, y: 0 },
+  { x: 0, y: 1 },
+  { x: -1, y: 0 },
 ];
-
 
 let lastParams;
 let paused = false;
@@ -90,41 +105,56 @@ let ants;
 let tiles;
 let bounds;
 
+let mouseCenterX = 0;
+let mouseCenterY = 0;
+
 const randomD = () => {
   const r = Math.floor(Math.random() * 4);
   return [
-    { x:  1, y:  0 },
-    { x: -1, y:  0 },
-    { x:  0, y:  1 },
-    { x:  0, y: -1 },
+    { x: 1, y: 0 },
+    { x: -1, y: 0 },
+    { x: 0, y: 1 },
+    { x: 0, y: -1 },
   ][r];
 };
 
 function setup() {
   createCanvas(400, 400);
   colorMode(HSB, 360, 100, 100, 100);
-  
+
   gui = createGuiPanel("params");
   gui.addObject(params);
   gui.setPosition(420, 0);
 }
 
 function draw() {
-  if (lastParams == undefined || Object.keys(params).some(k => params[k] !== lastParams[k])) {
+  if (
+    lastParams == undefined ||
+    Object.keys(params).some((k) => params[k] !== lastParams[k])
+  ) {
     ants = [];
-    for (let i = 0; i < params.antCount; i++) {
-      let x = floor(cos(i * TWO_PI / params.antCount) * params.spawnRadius);
-      let y = floor(sin(i * TWO_PI / params.antCount) * params.spawnRadius);
-      
+    
+    if (params.antCount == 1) {
       ants.push({
-        position: {x, y},
+        position: { x: 0, y: 0 },
         direction: 0,
         age: 0,
       });
+    } else {
+      for (let i = 0; i < params.antCount; i++) {
+        let x = floor(cos((i * TWO_PI) / params.antCount) * params.spawnRadius);
+        let y = floor(sin((i * TWO_PI) / params.antCount) * params.spawnRadius);
+
+        ants.push({
+          position: { x, y },
+          direction: 0,
+          age: 0,
+        });
+      }  
     }
     
     tiles = new Map();
-    
+
     bounds = {
       minX: ants[0].position.x,
       maxX: ants[0].position.x,
@@ -137,35 +167,38 @@ function draw() {
       bounds.minY = min(bounds.minY, ant.position.y);
       bounds.maxY = max(bounds.maxY, ant.position.y);
     }
-    
+
     paused = false;
-    lastParams = {...params};
+    lastParams = { ...params };
   }
-  
+
   if (paused) {
     return;
   }
-  
+
   for (let tick = 0; tick < params.updatesPerTick; tick++) {
     for (let ant of ants) {
       ant.age += 1;
-    
-      let positionString = `${ant.position.x},${ant.position.y}`
+
+      let positionString = `${ant.position.x},${ant.position.y}`;
       let ruleIndex = tiles.get(positionString) || 0;
       tiles.set(positionString, (ruleIndex + 1) % params.rule.length);
 
       let ruleValue = params.rule[ruleIndex];
 
       if (params.hexGrid) {
-        if (ruleValue === 'L') ant.direction = (ant.direction + 5) % 6;      // -60°
-        else if (ruleValue === 'R') ant.direction = (ant.direction + 1) % 6; // +60°
-        else if (ruleValue === 'M') ant.direction = (ant.direction + 4) % 6; // -120°
-        else if (ruleValue === 'S') ant.direction = (ant.direction + 2) % 6; // +120°
-        else if (ruleValue === 'U') ant.direction = (ant.direction + 3) % 6; // +180°
+        if (ruleValue === "L") ant.direction = (ant.direction + 5) % 6; // -60°
+        else if (ruleValue === "R")
+          ant.direction = (ant.direction + 1) % 6; // +60°
+        else if (ruleValue === "M")
+          ant.direction = (ant.direction + 4) % 6; // -120°
+        else if (ruleValue === "S")
+          ant.direction = (ant.direction + 2) % 6; // +120°
+        else if (ruleValue === "U") ant.direction = (ant.direction + 3) % 6; // +180°
       } else {
-        if (ruleValue === 'L') ant.direction = (ant.direction + 3) % 4;
-        else if (ruleValue === 'R') ant.direction = (ant.direction + 1) % 4;
-        else if (ruleValue === 'U') ant.direction = (ant.direction + 2) % 4;
+        if (ruleValue === "L") ant.direction = (ant.direction + 3) % 4;
+        else if (ruleValue === "R") ant.direction = (ant.direction + 1) % 4;
+        else if (ruleValue === "U") ant.direction = (ant.direction + 2) % 4;
       }
 
       let d = (params.hexGrid ? HEX_DIRS : SQUARE_DIRS)[ant.direction];
@@ -181,7 +214,7 @@ function draw() {
 
     if (params.dieOfOldAge) {
       let maxAge = parseInt(params.maxAge);
-      if (!isNaN(maxAge)) {        
+      if (!isNaN(maxAge)) {
         for (let j = ants.length - 1; j >= 0; j--) {
           if (ants[j].age > maxAge) {
             ants.splice(j, 1);
@@ -194,25 +227,95 @@ function draw() {
   background("black");
   let tilesWide = bounds.maxX - bounds.minX + 1;
   let tilesTall = bounds.maxY - bounds.minY + 1;
-  
+
+  let centerX = 0;
+  let centerY = 0;
+
+  if (params.centerMode === "bounds") {
+    centerX = (bounds.minX + bounds.maxX) / 2;
+    centerY = (bounds.minY + bounds.maxY) / 2;
+  } else if (params.centerMode === "ants") {
+    for (let ant of ants) {
+      centerX += ant.position.x;
+      centerY += ant.position.y;
+    }
+    centerX /= ants.length;
+    centerY /= ants.length;
+  } else if (params.centerMode === "tiles") {
+    for (let [key, value] of tiles.entries()) {
+      let [x, y] = key.split(",").map(Number);
+      centerX += x;
+      centerY += y;
+    }
+    centerX /= tiles.size;
+    centerY /= tiles.size;
+  } else if (params.centerMode === "mouse") {
+    // Move towards the direction the mouse is from the center of then screen
+    // Only when the mouse button is pressed
+    if (mouseIsPressed) {
+      let targetX = map(mouseX, 0, width, -tilesWide / 2, tilesWide / 2);
+      let targetY = map(mouseY, 0, height, -tilesTall / 2, tilesTall / 2);
+
+      mouseCenterX += (targetX - mouseCenterX) * 0.1;
+      mouseCenterY += (targetY - mouseCenterY) * 0.1;
+    }
+
+    // Right mouse button resets to center
+    if (mouseIsPressed && mouseButton === RIGHT) {
+      mouseCenterX = 0;
+      mouseCenterY = 0;
+    }
+
+    centerX = mouseCenterX;
+    centerY = mouseCenterY;
+  }
+
   let cellSize = min(width / tilesWide, height / tilesTall);
   if (cellSize < 1) {
     cellSize = 1;
-    paused = true;
-  } 
+    if (params.pauseMode == "one-at-edge") {
+      // If any ant is more than width / 2 from centerX or height / 2 from centerY, pause
+      for (let ant of ants) {
+        if (
+          abs(ant.position.x - centerX) > width / (2 * cellSize) ||
+          abs(ant.position.y - centerY) > height / (2 * cellSize)
+        ) {
+          paused = true;
+          break;
+        }
+      }
+    } else if (params.pauseMode == "one-at-edge") {
+      // If all ants are more than width / 2 from centerX or height / 2 from centerY, pause
+      let allAtEdge = true;
+      for (let ant of ants) {
+        if (
+          abs(ant.position.x - centerX) <= width / (2 * cellSize) &&
+          abs(ant.position.y - centerY) <= height / (2 * cellSize)
+        ) {
+          allAtEdge = false;
+          break;
+        }
+      }
+      if (allAtEdge) {
+        paused = true;
+      }
+    }
+  }
+
   if (ants.length == 0) {
     paused = true;
   }
 
+  if (params.pauseMode == "n-tiles" && tiles.size > width * height) {
+    paused = true;
+  }
+
   push();
-  
-  translate(
-    width / 2 - (bounds.minX + tilesWide / 2) * cellSize,
-    height / 2 - (bounds.minY + tilesTall / 2) * cellSize
-  );
+
+  translate(centerX * -cellSize + width / 2, centerY * -cellSize + height / 2);
 
   noStroke();
-  
+
   for (let [key, value] of tiles.entries()) {
     let [x, y] = key.split(",").map(Number);
 
@@ -230,17 +333,12 @@ function draw() {
     } else if (params.colorScheme === "forest") {
       let hue = map(value, 0, params.rule.length, 90, 150);
       fill(hue, 100, 50);
-    } else  if (params.colorScheme === "rainbow") {
+    } else if (params.colorScheme === "rainbow") {
       let hue = map(value, 0, params.rule.length, 0, 360);
       fill(hue, 100, 100);
     }
 
-    rect(
-      x * cellSize,
-      y * cellSize,
-      cellSize,
-      cellSize
-    );
+    rect(x * cellSize, y * cellSize, cellSize, cellSize);
   }
 
   fill(0);
@@ -253,6 +351,6 @@ function draw() {
     );
   }
 
-  pop();  
+  pop();
 }
 {{</p5js>}}
