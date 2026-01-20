@@ -14,6 +14,8 @@ let params = {
 
 let tree;
 let lastParams;
+let pauseCounter = 0;
+let stopped = false;
 
 class TreeNode {
   constructor(x, y, angle, parent=null) {
@@ -141,6 +143,8 @@ function setup() {
 
 function reset() {
   tree = new TreeNode(width / 2, height / 2, -PI / 2);
+  pauseCounter = 0;
+  stopped = false;
 }
 
 function draw() {
@@ -150,14 +154,31 @@ function draw() {
   }
 
   background("white");
-  for (let i = 0; i < params.ticksPerFrame; i++) {
-    tree.update();
+  
+  // Only update and draw if not stopped or still pausing
+  if (!stopped || pauseCounter > 0) {
+    for (let i = 0; i < params.ticksPerFrame; i++) {
+      tree.update();
+    }
   }
+  
   tree.draw();
 
   if (!tree.anyGrowing()) {
-    reset();
-
-    // TODO: If params.stopOnReset, don't draw a new tree (but still allow changing params). If !stop, pause for pauseOnResetFor frames before continuing.
+    // If params.stopOnReset, don't draw a new tree (but still allow changing params)
+    if (params.stopOnReset) {
+      stopped = true;
+    } else {
+      // If !stopOnReset, pause for pauseOnResetFor frames before continuing
+      if (pauseCounter === 0) {
+        pauseCounter = params.pauseOnResetFor;
+      }
+      
+      pauseCounter--;
+      
+      if (pauseCounter === 0) {
+        reset();
+      }
+    }
   }
 }
