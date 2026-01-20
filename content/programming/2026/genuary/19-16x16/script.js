@@ -155,8 +155,8 @@ function draw() {
 
   background("white");
   
-  // Only update and draw if not stopped or still pausing
-  if (!stopped || pauseCounter > 0) {
+  // Only update if not stopped and not pausing
+  if (!stopped && pauseCounter === 0) {
     for (let i = 0; i < params.ticksPerFrame; i++) {
       tree.update();
     }
