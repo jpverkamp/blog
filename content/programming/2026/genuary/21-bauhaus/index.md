@@ -11,7 +11,7 @@ series:
 - Genuary 2026
 cover: gen26.21.png
 ---
-A [[wiki:Bauhaus]] style poster. 
+A [[wiki:Bauhaus]]() style poster. 
 
 <!--more-->
 
