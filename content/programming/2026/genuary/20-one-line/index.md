@@ -44,6 +44,7 @@ let params = {
   stopOnReset: false,
   colorMode: [
     "black-and-white",
+    "inverted",
     "flame",
     "rainbow",
     "random",
@@ -129,6 +130,8 @@ class TreeNode {
 
     if (params.colorMode === "black-and-white") {
       stroke("white");
+    } else if (params.colorMode === "inverted") {
+      stroke("black");
     } else if (params.colorMode === "flame") {
       let t = this.depth / MAX_DEPTH;
       let hue = lerp(60, 0, t);
@@ -264,7 +267,11 @@ function draw() {
     lastParams = { ...params };
   }
 
-  background("black");
+  if (params.colorMode === "inverted") {
+    background("white");
+  } else {
+    background("black");
+  }
   for (let i = 0; i < TICKS_PER_FRAME; i++) {
     tree.update();
   }
