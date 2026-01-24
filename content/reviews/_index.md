@@ -14,4 +14,4 @@ Then, starting in 2021, I started again with the [movie reviews](/reviews/lists/
 
 And... here we are. Really, it's as much a memory aid for me as anything. I love being able to look back at all the covers I read in a year, pick one at random, and use my own writing to remind me of a particular book/movie/show. And if anyone else is inspired to read something out of it? Well, all the better!
 
-Current book bingo: [[2025 Book Bingo]]()
+Current book bingo: [2025 Book Bingo]({{<ref "2025-04-01-book-bingo.md">}})

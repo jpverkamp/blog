@@ -7,11 +7,17 @@ reviews/authors:
 - Arkady Martine
 reviews/lists:
 - 2026 Book Reviews
+- 2025 Book Bingo
 reviews/series:
 - Teixcalaan
 series_index:
 - 1
 title: A Memory Called Empire
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 4x3+
 ---
 > This book is dedicated to anyone who has ever fallen in love with a culture that was devouring their own.
 

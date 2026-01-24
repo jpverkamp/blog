@@ -7,11 +7,17 @@ reviews/authors:
 - Katherine Arden
 reviews/lists:
 - 2026 Book Reviews
+- 2025 Book Bingo
 reviews/series:
 - The Winternight Trilogy
 series_index:
 - 1
 title: The Bear and the Nightingale
+bingo:
+- 2025 Book Bingo
+bingo-data:
+  2025 Book Bingo:
+  - 2x3+
 ---
 > “All my life,” she said, “I have been told ‘go’ and ‘come.’ I am told how I will live, and I am told how I must die. I must be a man’s servant and a mare for his pleasure, or I must hide myself behind walls and surrender my flesh to a cold, silent god. I would walk into the jaws of hell itself, if it were a path of my own choosing. I would rather die tomorrow in the forest than live a hundred years of the life appointed me. Please. Please let me help you.” 
 
