@@ -23,32 +23,306 @@ By default, we split into an average of 5x5, but it can vary (using a [[wiki:gau
 
 `splitChance` controls what percent of frames tries to spawn a new maze. 
 
-`colorize` is a little hard to look at this time, but figured I might as well. 
+`colorize` is a little hard to look at this time, but figured I might as well. It does work better (somehow) with the solver state visualization on. 
 
 If `onlySplitVisited` is set, only squares that are currently on the path of the generated maze already will be split. This is mostly visual while it's running, the end result should be the same. 
 
-The wall modes control how the different levels of cell interact:
+~The wall modes control how the different levels of cell interact:~
 
-* `centered` - Remove the center 'half' of the wall (leaving 1/4 on either side)
-* `recursive` - Remove a wall if this node or any parent of it didn't have a wall there
-* `corners` - Remove only the corner of each node
-* `tiny` - Remove only a single spot on each node--this one more than the others doesn't always generate solvable mazes
+* ~`centered` - Remove the center 'half' of the wall (leaving 1/4 on either side)~
+* ~`recursive` - Remove a wall if this node or any parent of it didn't have a wall there~
+* ~`corners` - Remove only the corner of each node~
+* ~`tiny` - Remove only a single spot on each node--this one more than the others doesn't always generate solvable mazes~
 
-One thing I would love to do would be to add an A* solver after it's done that works just on the pixels of the generated image. That'd be cool. Maybe later. 
+Edit: I removed wall modes since only `corners` actually always makes solvable mazes (so that's the only remaining one). 
+
+~One thing I would love to do would be to add an A* solver after it's done that works just on the pixels of the generated image. That'd be cool. Maybe later.~
+
+Edit: I added the solver! It runs A*, turn it on with `runSolver`. It won't reset the maze. 
 
 {{<p5js width="600" height="500">}}
 let gui;
 let params = {
   divisions: 5, divisionsMin: 2, divisionsMax: 20,
   randomizeDivisions: true,
-  maxDepth: 5, maxDepthMin: 2, maxDepthMax: 10,
-  maxMazes: "1000",
+  maxDepth: 4, maxDepthMin: 2, maxDepthMax: 10,
+  maxMazes: "250",
+  solverStepsPerFrame: 25, solverStepsPerFrameMin: 1, solverStepsPerFrameMax: 1000,
   pauseMode: ["pause", "stop", "continue"],
   splitChance: 0.5, splitChanceMin: 0, splitChanceMax: 1, splitChanceStep: 0.01,
   colorize: false,  
   onlySplitVisited: true,
-  wallMode: ["centered", "recursive", "corners", "tiny"],
+  runSolver: false,
+  displaySolverState: true,
 };
+
+class AStarSolver {
+  constructor() {
+    this.stateBuffer = createGraphics(width, height);
+    this.stateBuffer.colorMode(HSB, 360, 100, 100, 100);
+    this.stateBufferDirty = true;
+    this.resetFromPixels();
+  }
+
+  // Reload the current maze from the current pixel data of the canvas
+  // This has to be done when we hit a wall that didn't previously exist
+  resetFromPixels(pixelData) {
+    this.pixelData = pixelData || this.capturePixels();
+    this.w = width;
+    this.h = height;
+    this.size = this.w * this.h;
+
+    this.walkable = new Uint8Array(this.size);
+    for (let y = 0; y < this.h; y++) {
+      for (let x = 0; x < this.w; x++) {
+        this.walkable[this.idx(x, y)] = this.isWalkableFromData(x, y, this.pixelData) ? 1 : 0;
+      }
+    }
+
+    this.startIdx = this.findFirstOpen();
+    this.goalIdx = this.findLastOpen();
+
+    this.cameFrom = new Int32Array(this.size).fill(-1);
+    this.gScore = new Float32Array(this.size).fill(Infinity);
+    this.fScore = new Float32Array(this.size).fill(Infinity);
+    this.openSet = [];
+    this.openFlags = new Uint8Array(this.size);
+    this.closed = new Uint8Array(this.size);
+    this.path = [];
+    this.finished = false;
+    this.stateBufferDirty = true;
+
+    if (this.startIdx >= 0 && this.goalIdx >= 0) {
+      this.gScore[this.startIdx] = 0;
+      this.fScore[this.startIdx] = this.heuristic(this.startIdx, this.goalIdx);
+      this.openSet.push(this.startIdx);
+      this.openFlags[this.startIdx] = 1;
+      this.bestIdx = this.startIdx;
+    } else {
+      this.finished = true;
+    }
+  }
+
+  capturePixels() {
+    loadPixels();
+    return Uint8ClampedArray.from(pixels);
+  }
+
+  idx(x, y) {
+    return y * this.w + x;
+  }
+
+  pos(i) {
+    return [i % this.w, Math.floor(i / this.w)];
+  }
+
+  isWalkableFromData(x, y, data) {
+    const base = 4 * (y * this.w + x);
+    const r = data[base];
+    const g = data[base + 1];
+    const b = data[base + 2];
+    return (r + g + b) > 512;
+  }
+
+  // Find the 'start' of the maze
+  // This is mostly just 1,1
+  findFirstOpen() {
+    for (let i = width + 1; i < this.size; i++) {
+      if (this.walkable[i]) return i;
+    }
+    return -1;
+  }
+
+  // Find the 'end' of the maze
+  findLastOpen() {
+    for (let i = this.size - width - 1; i >= 0; i--) {
+      if (this.walkable[i]) return i;
+    }
+    return -1;
+  }
+
+  refreshWalkable() {
+    const snapshot = this.capturePixels();
+    for (let y = 0; y < this.h; y++) {
+      for (let x = 0; x < this.w; x++) {
+        const i = this.idx(x, y);
+        const w = this.isWalkableFromData(x, y, snapshot) ? 1 : 0;
+        this.walkable[i] = w;
+      }
+    }
+    this.pixelData = snapshot;
+  }
+
+  // Manhattan distance heuristic
+  heuristic(a, b) {
+    const [ax, ay] = this.pos(a);
+    const [bx, by] = this.pos(b);
+    return abs(ax - bx) + abs(ay - by);
+  }
+
+  // Reconstruct the best path so far so we can display it
+  reconstructPath(i) {
+    const rev = [];
+    let current = i;
+    while (current >= 0) {
+      rev.push(this.pos(current));
+      current = this.cameFrom[current];
+    }
+    return rev.reverse();
+  }
+
+  popLowestF() {
+    let bestIdx = 0;
+    for (let i = 1; i < this.openSet.length; i++) {
+      if (this.fScore[this.openSet[i]] < this.fScore[this.openSet[bestIdx]]) {
+        bestIdx = i;
+      }
+    }
+    const node = this.openSet.splice(bestIdx, 1)[0];
+    this.openFlags[node] = 0;
+    return node;
+  }
+
+  neighbors(i) {
+    const [x, y] = this.pos(i);
+    const out = [];
+    if (x > 0) out.push(this.idx(x - 1, y));
+    if (x < this.w - 1) out.push(this.idx(x + 1, y));
+    if (y > 0) out.push(this.idx(x, y - 1));
+    if (y < this.h - 1) out.push(this.idx(x, y + 1));
+    return out;
+  }
+
+  // Verify that the current path is still valid
+  // The maze changes over time, so reset if we hit a new wall
+  verify() {
+    const stillOpen = (idx) => idx >= 0 && this.isWalkableFromData(...this.pos(idx), this.pixelData);
+
+    if (!stillOpen(this.startIdx) || !stillOpen(this.goalIdx)) {
+      this.resetFromPixels(this.pixelData);
+      return;
+    }
+
+    // If solver is finished but has no path, the maze was impossible - reset to try again
+    if (this.finished && this.path.length === 0) {
+      this.resetFromPixels(this.pixelData);
+      return;
+    }
+
+    if (this.path.length === 0) return;
+    for (const [x, y] of this.path) {
+      if (!this.isWalkableFromData(x, y, this.pixelData)) {
+        this.resetFromPixels(this.pixelData);
+        return;
+      }
+    }
+  }
+
+  // Perform one step of the A* algorithm
+  step() {
+    if (this.finished || this.startIdx < 0 || this.goalIdx < 0) return;
+    if (this.openSet.length === 0) {
+      this.finished = true;
+      return;
+    }
+
+    const current = this.popLowestF();
+    this.closed[current] = 1;
+    this.bestIdx = current;
+    this.stateBufferDirty = true;
+
+    if (current === this.goalIdx) {
+      this.finished = true;
+      this.path = this.reconstructPath(current);
+      return;
+    }
+
+    for (const n of this.neighbors(current)) {
+      if (!this.walkable[n] || this.closed[n]) continue;
+      const tentativeG = this.gScore[current] + 1;
+      if (tentativeG < this.gScore[n]) {
+        this.cameFrom[n] = current;
+        this.gScore[n] = tentativeG;
+        this.fScore[n] = tentativeG + this.heuristic(n, this.goalIdx);
+        if (!this.openFlags[n]) {
+          this.openSet.push(n);
+          this.openFlags[n] = 1;
+        }
+      }
+    }
+  }
+
+  updateStateBuffer() {
+    this.stateBuffer.clear();
+    this.stateBuffer.noStroke();
+    
+    if (params.colorize) {
+      // Vary hue of closed set when colorize is enabled
+      for (let i = 0; i < this.size; i++) {
+        if (this.closed[i]) {
+          const [x, y] = this.pos(i);
+          const hue = (i / this.size) * 360;
+          this.stateBuffer.fill(hue, 60, 80, 40);
+          this.stateBuffer.rect(x, y, 1, 1);
+        }
+      }
+    } else {
+      // Closed set in light gray
+      this.stateBuffer.fill(0, 0, 60, 40);
+      for (let i = 0; i < this.size; i++) {
+        if (this.closed[i]) {
+          const [x, y] = this.pos(i);
+          this.stateBuffer.rect(x, y, 1, 1);
+        }
+      }
+    }
+    
+    // Open set in orange
+    this.stateBuffer.fill(30, 90, 90, 70);
+    for (let i = 0; i < this.size; i++) {
+      if (this.openFlags[i]) {
+        const [x, y] = this.pos(i);
+        this.stateBuffer.rect(x, y, 1, 1);
+      }
+    }
+    
+    this.stateBufferDirty = false;
+  }
+
+  draw() {
+    if (this.startIdx < 0 || this.goalIdx < 0) return;
+
+    if (params.displaySolverState) {
+      if (this.stateBufferDirty) {
+        this.updateStateBuffer();
+      }
+      image(this.stateBuffer, 0, 0);
+    }
+
+    strokeWeight(2);
+    noFill();
+
+    let toDraw = this.path;
+    if (toDraw.length === 0 && this.bestIdx >= 0) {
+      toDraw = this.reconstructPath(this.bestIdx);
+    }
+
+    if (toDraw.length > 1) {
+        stroke("red");
+        beginShape();
+        for (const [x, y] of toDraw) {
+            vertex(x + 0.5, y + 0.5);
+        }
+        endShape();
+    }
+
+    stroke("blue");
+    strokeWeight(6);
+    point(...this.pos(this.startIdx));
+    stroke("green");
+    point(...this.pos(this.goalIdx));
+  }
+}
 
 class Maze {
   constructor(size, startSide = "north", endSide = "south") {
@@ -145,8 +419,8 @@ class Maze {
     let y = floor(random(this.size));
     let cell = this.grid[y][x];
     
-    let cellW = w / this.size;
-    let cellH = h / this.size;
+    let cellW = floor(w / this.size);
+    let cellH = floor(h / this.size);
 
     if (cell.subMaze) {
       return cell.subMaze.recur(cellW, cellH, depth + 1);
@@ -160,8 +434,10 @@ class Maze {
     }
     newSize = max(newSize, 2);
         
-    if (newSize * 2 > cellW) return false;
-    if (newSize * 2 > cellH) return false;
+    // Ensure each cell is at least 3 pixels wide to avoid subpixel rendering issues
+    let minCellSize = 3;
+    if (cellW / newSize < minCellSize) return false;
+    if (cellH / newSize < minCellSize) return false;
     
     if (params.onlySplitVisited && !cell.visited) return false;
     
@@ -187,91 +463,41 @@ class Maze {
     let height34 = height14 * 3;
 
     stroke("black");
-    strokeWeight(0.5);
+    strokeWeight(1);
     noFill();
     for (let row of this.grid) {
       for (let cell of row) {
         const cx = x + cell.x * cellW;
         const cy = y + cell.y * cellH;
         
-        // Edges 
-        if (cell.y == 0) {
-          
-        }
-        
         let enabled = {...cell.walls};
         
         let removeX = true;
         let removeY = true;
         
-        // If any ancestor didn't have a wall on this boder, we don't either
-        if (params.wallMode == 'recursive') {
-          if (cell.x == 0 && !walls.W) enabled.W = false;
-          if (cell.x == this.size - 1 && !walls.E) enabled.E = false;
-          if (cell.y == 0 && !walls.N) enabled.N = false;
-          if (cell.y == 0 && !walls.S) enabled.S = false;
-        }
-        
-        // Corners skip their walls
-        if (params.wallMode == 'corners') {
-          if (cell.x == 0) {
+        if (cell.x == 0) {
             if (cell.y == 0) {
-              enabled.N = false;
-              enabled.W = false;
+                enabled.N = false;
+                enabled.W = false;
             } else if (cell.y == this.size - 1) {
-              enabled.S = false;
-              enabled.W = false;
+                enabled.S = false;
+                enabled.W = false;
             }
-          } else if (cell.x == this.size - 1) {
+            } else if (cell.x == this.size - 1) {
             if (cell.y == 0) {
-              enabled.N = false;
-              enabled.E = false;
+                enabled.N = false;
+                enabled.E = false;
             } else if (cell.y == this.size - 1) {
-              enabled.S = false;
-              enabled.E = false;
+                enabled.S = false;
+                enabled.E = false;
             }
-          }
-        }
-        
-        // A single spot on each wall is removed
-        if (params.wallMode == 'tiny') {
-          let halfP = floor(this.size / 2);
-          if (cell.x == 0 && cell.y == halfP) {
-            enabled.W = false;
-          }
-          if (cell.x == this.size - 1 && cell.y == halfP) {
-            enabled.E = false;
-          }
-          if (cell.y == 0 && cell.x == halfP) {
-            enabled.N = false;
-          }
-          if (cell.y == this.size - 1 && cell.x == halfP) {
-            enabled.S = false;
-          }
-        }
-        
-        // The center half (1/4 each side) is removed
-        if (params.wallMode == 'centered') {
-          let qs = this.size / 4;
-          if (cell.x == 0 && cell.y >= qs && cell.y <= this.size - qs) {
-            enabled.W = false;
-          }
-          if (cell.x == this.size - 1 && cell.y >= qs && cell.y <= this.size - qs) {
-            enabled.E = false;
-          }
-          if (cell.y == 0 && cell.x >= qs && cell.x <= this.size - qs) {
-            enabled.N = false;
-          }
-          if (cell.y == this.size - 1 && cell.x >= qs && cell.x <= this.size - qs) {
-            enabled.S = false;
-          }
         }
           
         if (enabled.N) line(cx, cy, cx + cellW, cy);
         if (enabled.E) line(cx + cellW, cy, cx + cellW, cy + cellH);
         if (enabled.S) line(cx + cellW, cy + cellH, cx, cy + cellH);
         if (enabled.W) line(cx, cy + cellH, cx, cy);
-        
+
         if (cell.subMaze) {
           let subWalls = {
             N: cell.walls.N & walls.N,
@@ -301,6 +527,7 @@ class Maze {
 let maze;
 let lastParams;
 let pauseUntil;
+let solver;
 
 function setup() {
   createCanvas(400, 400);
@@ -316,14 +543,26 @@ function setup() {
 function reset() {
   pauseUntil = undefined;
   maze = new Maze(params.divisions);
+  solver = undefined;
 }
 
 function draw() {
-  if (lastParams == undefined || Object.keys(params).some((k) => params[k] !== lastParams[k])) {
+  // Rendering related params don't reset the maze (so we can solve a maze we generated!)
+  const dontResetMazeParams = ['runSolver', 'displaySolverState', 'solverStepsPerFrame', 'colorize'];
+  const mazeParamsChanged = lastParams == undefined || Object.keys(params).some((k) => 
+    !dontResetMazeParams.includes(k) && params[k] !== lastParams[k]
+  );
+  
+  if (mazeParamsChanged) {
     reset();
     lastParams = {
       ...params
     };
+  } else if (lastParams) {
+    lastParams = {
+      ...params
+    };
+    pauseUntil = undefined;
   }
 
   if (pauseUntil) {
@@ -341,7 +580,25 @@ function draw() {
     didUpdate |= maze.recur();    
   }
   
-  if (!didUpdate && hitMaximum) {
+  background("white");
+  
+  maze.draw();
+
+  if (params.runSolver) {
+    if (!solver) solver = new AStarSolver();
+    solver.refreshWalkable();
+    solver.verify();
+    for (let i = 0; i < params.solverStepsPerFrame; i++) {
+      solver.step();
+    }
+    solver.draw();
+  } else {
+    solver = undefined;
+  }
+  
+  // Only pause/stop when maze is done AND solver is either disabled or finished
+  let solverDone = !params.runSolver || (solver && solver.finished);
+  if (!didUpdate && hitMaximum && solverDone) {
     if (params.pauseMode == "pause") {
       pauseUntil = millis() + 1000;    
     } else if (params.pauseMode == "stop") {
@@ -350,27 +607,25 @@ function draw() {
       reset();
     }
   }
-  
-  background("white");
-  
-  maze.draw();
 }
 {{</p5js>}}
 
 ## Examples
 
-### [Even fifths](?randomizeDivisions=false)
+### [Even fifths](?randomizeDivisions=false&runSolver=true)
 
 ![](even-fifths.png)
 
-### [Lucky 13](?divisions=13&randomizeDivisions=false)
+### [Lucky 13](?divisions=13&randomizeDivisions=false&runSolver=true)
 
 ![](lucky-13.png)
 
-### [Four corners](?divisions=4&wallMode=corners)
+Edit: This was previously possible on 13x13, but now it has to be 11x11 to avoid subpixel issues with the solver. I'm keeping the name anyways. :p
+
+### [Four corners](?divisions=4&wallMode=corners&runSolver=true)
 
 ![](four-corners.png)
 
-### [It's certainly colorful](?divisions=4&maxDepth=10&colorize=true&wallMode=corners)
+### [It's certainly colorful](?divisions=7&maxDepth=10&maxMazes=1000&splitChance=1&colorize=true&runSolver=true)
 
 ![](colorful.png)
