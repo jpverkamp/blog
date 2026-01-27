@@ -28,6 +28,8 @@ In a nutshell, you have a grid with N possible values (the length of the rule st
 
 This ends up with some really interesting behavior for such a short ruleset. Langton's Ant (LR, the default) is definitely an interesting one. For 10,000 ticks, you get chaotic behavior... and then suddenly it stabilizes!
 
+<!--more-->
+
 Here are some interesting patterns:
 
 * [RLR - chaotic growth](?rule=RLR)
@@ -58,8 +60,6 @@ The modes are:
   * `mouse` will allow some mouse control; left click and drag to move, right click (in theory) to reset
 
 <br> 
-
-<!--more-->
 
 {{<p5js width="600" height="500">}}
 let gui;

@@ -25,7 +25,9 @@ The Bear and the Nightingale.
 
 Basically, what happens if you take a Russian fairy tale and expand it to the full length of a novel while still managing to keep both the whimsical magical aspects... and all the dark bits as well. 
 
-We go through years, watching as our main character Vasya is born (and her mother dies), up through when she's a teenager on the cusp of being married off--or sent to a monastery. She never quite fits in and makes for a wonderful point of view into this wordl. 
+<!--more-->
+
+We go through years, watching as our main character Vasya is born (and her mother dies), up through when she's a teenager on the cusp of being married off--or sent to a monastery. She never quite fits in and makes for a wonderful point of view into this world. 
 
 In the meantime, we see Russia 'growing up' as well, abandoning the old gods and spirits of the forest in favor of the Church. It's not the only conflict of the story (or, I'd argue, even the main one), but it does underlie the whole thing. 
 
@@ -34,5 +36,3 @@ In the meantime, we see Russia 'growing up' as well, abandoning the old gods and
 This was a delightful, haunting sort of story. 
 
 Side note: I did not realize this was a trilogy until writing this review! More to read!
-
-<!--more-->

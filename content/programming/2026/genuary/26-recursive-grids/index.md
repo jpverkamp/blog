@@ -11,11 +11,13 @@ series:
 - Genuary 2026
 cover: gen26.26.png
 ---
-A favorite technique of mine. I've already done it on [[Genuary 2026.05: Write 'genuary'|day 5]]() and [[Genuary 2026.07: Boolean algebra|day 7]](). But now we can go one a-maze-ing step further...
+A favorite technique of mine. I've already done it on [[Genuary 2026.05: Write 'genuary'|day 5]](), [[Genuary 2026.07: Boolean algebra|day 7]](), and [[Genuary 2026.13: Self Portrait|day 13]](). But now we can go one a-maze-ing step further...
 
 See what I did there? :smile:
 
 Basically: generate a maze. For each cell in the maze... generate a smaller maze! Recursively. 
+
+<!--more-->
 
 By default, we split into an average of 5x5, but it can vary (using a [[wiki:gaussian distribution]]()). You can limit the recursion based on `maxDepth` or `maxMazes` (it will very rarely / never hit a depth of 10; you can set `maxMazes` to any non-number to disable it). If you turn off `randomizeDivisions`, it will always split into *exactly* that many child nodes. 
 
@@ -33,8 +35,6 @@ The wall modes control how the different levels of cell interact:
 * `tiny` - Remove only a single spot on each node--this one more than the others doesn't always generate solvable mazes
 
 One thing I would love to do would be to add an A* solver after it's done that works just on the pixels of the generated image. That'd be cool. Maybe later. 
-
-<!--more-->
 
 {{<p5js width="600" height="500">}}
 let gui;

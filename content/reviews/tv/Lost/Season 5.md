@@ -16,6 +16,8 @@ Season 5 is where it really started to get obvious that the writers of the first
 
 I suppose that's what you get any time a show introduces {{<spoiler>}}time travel{{</spoiler>}}. 
 
+<!--more-->
+
 > Faraday: I studied relativistic physics my entire life. One thing emerged over and over--can't change the past. Can't do it. Whatever happened, happened. All right? But then I finally realized... I had been spending so much time focused on the constants, I forgot about the variables. Do you know what the variables in these equations are, Jack?
 > 
 > Jack: No.
@@ -37,5 +39,3 @@ And then, in the latter half, once the Island stabilizes a bit? Well, that's whe
 Oh, that's quite the set up for season 6. 
 
 One more to go!
-
-<!--more-->
