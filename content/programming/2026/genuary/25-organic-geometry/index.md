@@ -13,6 +13,8 @@ cover: gen26.25.png
 ---
 So basically we have a simulation where each of n different species has a weight of attraction/repulsion for each other species. This is, by itself, enough to generate some pretty organic behavior!
 
+Edit: This one probably fits better for [[Genuary 2026.27: Lifeform]]() and that one here. 
+
 <!--more-->
 
 {{<p5js width="600" height="500">}}
