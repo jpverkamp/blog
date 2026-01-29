@@ -88,7 +88,7 @@ class Node {
     while (this.hue > 360) this.hue -= 360;
     
     this.theta += (random() - random()) / (10 ** (5 - params.wigglyness));
-    while (this.theta < 0) this.theta += TWO_PI;
+    while (this.theta < -TWO_PI) this.theta += TWO_PI;
     while (this.theta > TWO_PI) this.theta -= TWO_PI;
     
     let nextSegment = this.children.length > 1 ? 0 : segment + 1;
