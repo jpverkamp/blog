@@ -15,7 +15,7 @@ cover: gen26.24.png
 
 This is another one that really benefits from the animation, but it's neat enough to see each simulation done. 
 
-Try playing with the settings. [This one](?gridX=2&gridY=100&maxActivationsPerFrame=10&rainbow=false&fadeIn=false&fadeOut=false&perfectlyImperfect=false) looks like a game of Pick Up Sticks. 
+Try playing with the settings. [This one](?gridX=2&gridY=100&maxActivationsPerFrame=10&rainbow=false&fadeIn=false&fadeOut=false&perfectlyImperfect=false) looks like a game of Pick Up Sticks. And [this one](?gridX=70&gridY=100&maxActivationsPerFrame=100&rainbow=false&fadeIn=false&fadeOut=false) is just tiny brick chaos!
 
 <!--more-->
 
