@@ -45,9 +45,15 @@
                 {{- if not $cover_mode -}}<li>{{- end -}}
                     {{- if $cover_mode -}}
                         {{- with $page.Params.cover -}}
+                            {{- $coverSrc := . -}}
+                            {{- if not (or (hasPrefix . "http") (hasPrefix . "/")) -}}
+                                {{- with $page.Resources.GetMatch . -}}
+                                    {{- $coverSrc = .RelPermalink -}}
+                                {{- end -}}
+                            {{- end -}}
                             <figure class="cover-image">
                                 <a href="{{ $page.Permalink }}">
-                                    <img src="{{ . }}" alt="{{ $page.Title }}" class="cover-image"/>
+                                    <img src="{{ $coverSrc }}" alt="{{ $page.Title }}" class="cover-image"/>
                                 </a>
                             </figure>
                         {{- end -}}
