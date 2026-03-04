@@ -23,7 +23,7 @@
     {{- end -}}
 {{- end -}}
 
-{{- $listData := cond $shortMode (.Scratch.Get "shortList") (.Scratch.Get "fullList") }}
+{{- $listData := $scratch.Get "shortList" -}}
 
 <div class="ranking">
     <h3 class="title">Ranked: {{ $list }}</h3>
