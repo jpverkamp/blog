@@ -21,11 +21,11 @@ So I took a chance to make that a bit better!
 
 The code for this is available on Github here: https://github.com/jpverkamp/kobo-highlights/
 
+<!--more-->
+
 {{<toc>}}
 
 - - -
-
-<!--more-->
 
 ## Client/Kobo side
 
