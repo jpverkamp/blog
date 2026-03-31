@@ -8,6 +8,9 @@ programming/topics:
 - Backtracking
 - Generators
 - Puzzles
+commit_root: https://github.com/jpverkamp/rust-solvers/commit/
+series:
+- Solving Gentoo Rescue
 ---
 Months ago now[^time], I started playing [Gentoo Rescue](https://store.steampowered.com/app/2830480/Gentoo_Rescue/) (after seeing the [Aliensrock video](https://www.youtube.com/watch?v=XK9AhMh5K_o&list=PLIwiAebpd5CIoqMDun9X7aMJIINeHT4Vz&index=1)). At the core, it's a Sokoban style puzzle game where you have to guide cute little sliding penguins to their color coded nests... but oh man does it start getting more complicated quickly.
 
@@ -21,6 +24,10 @@ Overall, it's been a fun est of my solving framework. But before I spend too muc
 
 If you'd like to follow along with the code I've written so far, [here are the commits](https://github.com/jpverkamp/rust-solvers/compare/e47949c3af88589fd3b13775c51819b73969acdd...b17946447238c98ea50b7050cba9295ea08cbd9c) from my initial work on this puzzle up through the end of part 1. 
 
+Also, here are the posts in this series thus far:
+
+{{<taxonomy-list "series" "Solving Gentoo Rescue" false true>}}
+
 Onward!
 
 - - - 
@@ -31,7 +38,7 @@ Onward!
 
 ## Initial solver
 
-Okay, let's get started. Here's the [first commit](https://github.com/jpverkamp/rust-solvers/commit/bc257029c5513fbdfd803fc3f5f8728ec4ad92fd) for this solver. 
+Okay, let's get started. Here's the [first commit]({{<commit bc257029c5513fbdfd803fc3f5f8728ec4ad92fd>}}) for this solver. 
 
 ### Map loader
 
@@ -265,7 +272,7 @@ Just... try to move. That's it. (For now!)
 
 ## Adding seals 
 
-Next up... seals! Or perhaps walruses? I called them seals in the code, so that's how they'll probably stick. [Here is the commit](https://github.com/jpverkamp/rust-solvers/commit/b88fed2c03c04ddd752d8e7f437077aa49a50ccd)
+Next up... seals! Or perhaps walruses? I called them seals in the code, so that's how they'll probably stick. [Here is the commit]({{<commit b88fed2c03c04ddd752d8e7f437077aa49a50ccd>}})
 
 ![A screenshot showing the first level with seals](escape.png)
 
@@ -325,7 +332,7 @@ Voila. Seals.
 
 ## Restructuring to only local state
 
-Okay, [next up](https://github.com/jpverkamp/rust-solvers/commit/b0d35b0f427d8d60d13546779501f43549e16e85), I'm going to make a relatively big change that I really should push into the solver framework itself: I'm going to do away with the global state. 
+Okay, [next up]({{<commit b0d35b0f427d8d60d13546779501f43549e16e85>}}), I'm going to make a relatively big change that I really should push into the solver framework itself: I'm going to do away with the global state. 
 
 Mostly, everything changes. The floors and walls can be broken, critters move around (and sometimes wander off entirely), and the items that we'll be dealing with soon get picked up and moved around with the critters. Better to just make everything mutable:
 
@@ -357,7 +364,7 @@ It doesn't really help in this case (since, as above, everything changes), but I
 
 ## Let's get cracking
 
-Okay, [next up](https://github.com/jpverkamp/rust-solvers/commit/ead5b2cc3c29a6224da1fbb38cc0d9ef1e3fde0e). Cracking!
+Okay, [next up]({{<commit ead5b2cc3c29a6224da1fbb38cc0d9ef1e3fde0e>}}). Cracking!
 
 ![Level showing cracking floors](separation.png)
 
@@ -533,7 +540,7 @@ Anyways, that's enough to solve these levels. Onward!
 
 Okay, next new concept! Springs (and things)!
 
-[Commit](https://github.com/jpverkamp/rust-solvers/commit/5ed902a23a5a5c828a152b987cd4aec80ccf67a5)
+[Commit]({{<commit 5ed902a23a5a5c828a152b987cd4aec80ccf67a5>}})
 
 Basically, a `Thing` is something that can be placed on the `Map` and be picked up by any `Critter` that walks across it[^hack]:
 
@@ -599,7 +606,7 @@ impl Map {
 }
 ```
 
-For the moment, it works just fine to bounce 'back to where you came from', although that will eventually et trickier[^teleport]. I do end up refactoring `try_move` into a separate `try_move_one` function in the [next commit](https://github.com/jpverkamp/rust-solvers/commit/c837227d0a8739d590e7b383d7d1642e71333834) to start to solve this. 
+For the moment, it works just fine to bounce 'back to where you came from', although that will eventually et trickier[^teleport]. I do end up refactoring `try_move` into a separate `try_move_one` function in the [next commit]({{<commit c837227d0a8739d590e7b383d7d1642e71333834>}}) to start to solve this. 
 
 [^teleport]: Teleporters.
 
@@ -611,7 +618,7 @@ Y B .
 
 Where `Y` is Yellow, `B` is Blue with a spring, and `.` is open, if Blue moves to the left, they will slide into Yellow, bounce back one space, and then stop moving at `.`. Since we couldn't move single spaces before, this will come in handy!
 
-I did end up with one more weirdness with springs that I [fixed here](https://github.com/jpverkamp/rust-solvers/commit/e91c43d5f170ae4807e71f284dac1042386183f4):
+I did end up with one more weirdness with springs that I [fixed here]({{<commit e91c43d5f170ae4807e71f284dac1042386183f4>}}):
 
 ![Demo of the weirdness of infinite bouncing](twist.png)
 
@@ -645,7 +652,7 @@ It doesn't actually help solve this level, but I did have to solve it or the sol
 
 ## Hammer time
 
-In [this change](https://github.com/jpverkamp/rust-solvers/commit/5a6bfa6ee32c4114e7e7d92458647ef72fee0fec), we have a new `Thing`: `Hammers`!
+In [this change]({{<commit 5a6bfa6ee32c4114e7e7d92458647ef72fee0fec>}}), we have a new `Thing`: `Hammers`!
 
 ![Demonstrating hammers](nails.png)
 
@@ -702,7 +709,7 @@ For now, we're keeping track of the `active_critter` in the `Map`. We'll change 
 
 [^again]: Teleporters[^teleport]. Again. 
 
-But there is actually a second behavior of a `Hammer` that we'll get to [here](https://github.com/jpverkamp/rust-solvers/commit/801b8e191f73d53da2e3872d189ef241e10adfc8): If a `Critter` with a `Hammer` hits a `Cracked Wall`, they don't stop and break it. They just break it and keep right on sliding!
+But there is actually a second behavior of a `Hammer` that we'll get to [here]({{<commit 801b8e191f73d53da2e3872d189ef241e10adfc8>}}): If a `Critter` with a `Hammer` hits a `Cracked Wall`, they don't stop and break it. They just break it and keep right on sliding!
 
 ```rust
 // Internal function to move a single tile in a direction, looped to slide or used once to bounce
@@ -741,7 +748,7 @@ fn try_move_one(&mut self, direction: Direction, depth: usize) -> bool {
 
 ## A wall for thee but not for me
 
-Okay, [next up](https://github.com/jpverkamp/rust-solvers/commit/23a92dfab8fbfd6d439532bb7959e1c01e8f03ba): color coded walls!
+Okay, [next up]({{<commit 23a92dfab8fbfd6d439532bb7959e1c01e8f03ba>}}): color coded walls!
 
 ![Demonstrating colored walls](trail.png)
 
@@ -792,7 +799,7 @@ And that's it! An easy one.
 
 ## Eat my dust
 
-[Next up](https://github.com/jpverkamp/rust-solvers/commit/3d30f1949257943b9aa143dcc91317e2f84a5ad3), dust clouds!
+[Next up]({{<commit 3d30f1949257943b9aa143dcc91317e2f84a5ad3>}}), dust clouds!
 
 ![An example of a level with dust](smash.png)
 
@@ -817,7 +824,7 @@ This is already handled in the calling `next_states` function. If a critter cann
 
 A few small changes to clean things up before the next big change. 
 
-1. [Fix what happens](https://github.com/jpverkamp/rust-solvers/commit/9fa8000eb417b002e792c7029f6fddc4a264807c) when you pick up a second/new `Thing`.
+1. [Fix what happens]({{<commit 9fa8000eb417b002e792c7029f6fddc4a264807c>}}) when you pick up a second/new `Thing`.
 
     ```rust
     // Standing on a thing, pick it up
@@ -830,7 +837,7 @@ A few small changes to clean things up before the next big change.
     }
     ```
 
-2. [Handle (ish)](https://github.com/jpverkamp/rust-solvers/commit/7d29a7e4494e54c8457749aabf7b4611cc3144c4) what happens if one critter bumps another and then gets `Hammered` before we return to evaluating it
+2. [Handle (ish)]({{<commit 7d29a7e4494e54c8457749aabf7b4611cc3144c4>}}) what happens if one critter bumps another and then gets `Hammered` before we return to evaluating it
 
     ```rust
     // The other critter gets bumped out of our way
@@ -856,7 +863,7 @@ A few small changes to clean things up before the next big change.
     }
     ```
 
-3. [Bouncing off a wall into a crack](https://github.com/jpverkamp/rust-solvers/commit/deca14c5b6e558fe8db6f2a8a495e374547cd520)
+3. [Bouncing off a wall into a crack]({{<commit deca14c5b6e558fe8db6f2a8a495e374547cd520>}})
 
     Or rather, stopping when don't hit a cracked wall / loop but one of them is cracked. 
 
@@ -898,7 +905,7 @@ A few small changes to clean things up before the next big change.
 
 ![...with portals](thinking.png)
 
-Yup. We [get to solve](https://github.com/jpverkamp/rust-solvers/commit/c8fcb6a566bdcb7c299a9079f996f7122a9fe847) portals. 
+Yup. We [get to solve]({{<commit c8fcb6a566bdcb7c299a9079f996f7122a9fe847>}}) portals. 
 
 One the easy side, when a `Critter` hits a portal source they teleport to the portal destination and continue in the same direction they were moving. 
 
@@ -953,7 +960,7 @@ pub(crate) fn try_move(&self, direction: Direction) -> Option<(Map, bool)> {
 }
 ```
 
-However that needed [a refactor](https://github.com/jpverkamp/rust-solvers/commit/99964179fbdd7aaed9f0028dbca733c1b2faee57) as it didn't handle the case that if you teleport directly onto another source, you don't teleport again. And it doesn't solve infinite loops (`* . B . x` with `Teleport` from `*` to `x` and Blue moving left), so we needed a new helper for that, plus additional state tracking:
+However that needed [a refactor]({{<commit 99964179fbdd7aaed9f0028dbca733c1b2faee57>}}) as it didn't handle the case that if you teleport directly onto another source, you don't teleport again. And it doesn't solve infinite loops (`* . B . x` with `Teleport` from `*` to `x` and Blue moving left), so we needed a new helper for that, plus additional state tracking:
 
 ```rust
 fn maybe_do_teleport(&mut self, direction: Direction) -> Option<bool> {
@@ -994,7 +1001,7 @@ fn maybe_do_teleport(&mut self, direction: Direction) -> Option<bool> {
 }
 ```
 
-And then we did have to [deal with the case](https://github.com/jpverkamp/rust-solvers/commit/c79d70810aa822f57c23bec497fde1f5c7b40fcf) of a `Critter` sitting right where you're going...
+And then we did have to [deal with the case]({{<commit c79d70810aa822f57c23bec497fde1f5c7b40fcf>}}) of a `Critter` sitting right where you're going...
 
 ```rust
 fn maybe_do_teleport(&mut self, direction: Direction) -> Option<bool> {
@@ -1025,7 +1032,7 @@ fn maybe_do_teleport(&mut self, direction: Direction) -> Option<bool> {
 
 Which is yet another way to deal with seals, so that's cool!
 
-This led to even more issues with escaping critters though. Since, as you see, I was just teleporting them off the map (to `-10, -10`), but that isn't *really* right, so [here](https://github.com/jpverkamp/rust-solvers/commit/39c8ea820a90eca8f6c97f682f7c44f029bd7f0f) I added an `escaped` flag to critters basically making them non-interactive (along with some other rewrites):
+This led to even more issues with escaping critters though. Since, as you see, I was just teleporting them off the map (to `-10, -10`), but that isn't *really* right, so [here]({{<commit 39c8ea820a90eca8f6c97f682f7c44f029bd7f0f>}}) I added an `escaped` flag to critters basically making them non-interactive (along with some other rewrites):
 
 ```rust
 #[derive(Copy, Clone, Debug, PartialEq, Eq, Hash)]
@@ -1040,7 +1047,7 @@ pub struct Critter {
 
 ## Crutches
 
-And [finally](https://github.com/jpverkamp/rust-solvers/commit/99028c34a7f213a7eded9781e3cccabd5306dad6)[^part1], we get `Crutches`. This is such a silly thing to get so relatively far into the game but `Crutches` let you... walk a single square at a time. That's it. Although give how much we've dealt with sliding all over the place, that's actually something...
+And [finally]({{<commit 99028c34a7f213a7eded9781e3cccabd5306dad6>}})[^part1], we get `Crutches`. This is such a silly thing to get so relatively far into the game but `Crutches` let you... walk a single square at a time. That's it. Although give how much we've dealt with sliding all over the place, that's actually something...
 
 [^part1]: For part 1! Now that this is written, I can start solving more levels!
 

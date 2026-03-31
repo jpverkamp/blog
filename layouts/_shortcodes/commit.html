@@ -1,0 +1,4 @@
+{{ $commitRoot := .Page.Params.commit_root }}
+{{ $hash := .Get 0 }}
+
+{{ printf "%s%s" $commitRoot $hash }}
