@@ -200,9 +200,9 @@ cargo build --release --bin gentoo-rescue
 testit update --dry-run testit/gentoo-rescue.json
 
 Summary:
-	Successes: 100 (0 new)
-	Failures: 0
-	Timeouts: 0
+    Successes: 100 (0 new)
+    Failures: 0
+    Timeouts: 0
 
 # This do the same thing but without dry-run (so we can commit updated solutions)
 $ just update gentoo-rescue 
@@ -232,9 +232,9 @@ note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
 
 
 Summary:
-	Successes: 0 (0 new)
-	Failures: 2
-	Timeouts: 0
+    Successes: 0 (0 new)
+    Failures: 2
+    Timeouts: 0
 error: Recipe `test` failed on line 3 with exit code 1
 ;_; code=1
 ```

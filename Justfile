@@ -44,8 +44,8 @@ debug-hugo baseURL="localhost":
 import-flickr:
 	uv run python3 scripts/flickr.py --generate
 
-review what:
-	uv run python3 scripts/review-{{what}}.py
+review what *args:
+	uv run python3 scripts/review-{{what}}.py {{args}}
 
 detextbundle path:
 	detextbundle \
