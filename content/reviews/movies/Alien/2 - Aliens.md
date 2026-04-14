@@ -6,6 +6,16 @@ reviews/lists:
 - 2025 Movie Reviews
 reviews/series:
 - Alien
+reviews/directors:
+- James Cameron
+reviews/writers:
+- James Cameron
+- David Giler
+- Walter Hill
+reviews/cast:
+- Sigourney Weaver
+- Michael Biehn
+- Carrie Henn
 reviews/year: 1986
 series_index:
 - 2
@@ -31,6 +41,6 @@ And some *very* memorable lines.
 
 > Ripley: I say we take off and nuke the entire site from orbit. It's the only way to be sure.
 
-Overall, it's a different feel of movie, but every bit as good as [[Alien]](). I've heard that [[todo:Alien³]]() is a step down, but honestly, it would be hard to believe they could do it a *third* time in the first place. Onward! 
+Overall, it's a different feel of movie, but every bit as good as [[Alien]](). I've heard that [[Alien³]]() is a step down, but honestly, it would be hard to believe they could do it a *third* time in the first place. Onward! 
 
 <!--more-->

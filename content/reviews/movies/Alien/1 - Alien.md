@@ -4,6 +4,15 @@ date: 2025-09-15
 cover: /embeds/movies/alien.jpg
 reviews/lists:
 - 2025 Movie Reviews
+reviews/directors:
+- Ridley Scott
+reviews/writers:
+- Dan O'Bannon
+- Ronald Shusett
+reviews/cast:
+- Sigourney Weaver
+- Tom Skerritt
+- John Hurt
 reviews/series:
 - Alien
 reviews/year: 1979
