@@ -25,6 +25,35 @@
             <strong>{{ $photo.title }}</strong> - <a href="{{ $photo.page }}">View on Flickr</a>
         </figcaption>
     </figure>
+{{- else if .Get "all" -}}
+    {{- $count := int (.Get "all") | default 100 -}}
+    {{- $photos := $.Site.Data.flickr.photos -}}
+
+
+    {{- $ids := slice -}}
+    {{- range $id, $_ := $photos -}}
+        {{- $ids = $ids | append $id -}}
+    {{- end -}}
+
+    {{- $ids = sort $ids | collections.Reverse -}}
+
+    <div class="imageGallery2">
+    {{- range $index, $id := first $count $ids -}}
+        {{- $photo := index $photos $id -}}
+        <a
+            data-fancybox="gallery"
+            data-fancybox-index="{{ $index }}"
+            data-caption="{{ default $photo.title $photo.description }}"
+            data-flickr="{{ $photo.page }}"
+            href="{{ $photo.thumbnails.large }}">
+            <img class="img-rounded" src="{{ $photo.thumbnails.small }}" />
+        </a>
+    {{- end -}}
+    </div>
+
+    <div class="viewOnFlicker">
+        <a href="https://flickr.com/photos/jpverkamp">View on Flickr</a>
+    </div>
 {{ else }}
 WARNING UNKNOWN FLICKR TYPE
 {{- end -}}

@@ -29,4 +29,4 @@ Worldbuildingwise, one crazy bit is that Celcha is member of a third race we had
 
 Plotwise, it's interesting seeing the myths that were always true in this particular world start to come to the fore. In a series so wrapped up in it's own ideas of time travel and stable(ish) time loops... well, I very much want to see where this whole plot is going to go!
 
-Overall, it's very much a middle book. I think [[The Book That Wouldn't Burn]]() would (mostly) stand alone. This one, less so. It's building out the world, but not quite finishing anything just yet. So of course, onward to [[todo:The Book That Held Her Heart]]()!
+Overall, it's very much a middle book. I think [[The Book That Wouldn't Burn]]() would (mostly) stand alone. This one, less so. It's building out the world, but not quite finishing anything just yet. So of course, onward to [[The Book That Held Her Heart]]()!

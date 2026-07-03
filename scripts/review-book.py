@@ -45,25 +45,16 @@ while True:
     # Otherwise, use the HTML based search
     # I haven't found a graphql search yet
     else:
-        response = requests.get(
-            urllib.parse.urljoin(GOODREADS, "/search"),
-            params={"q": title},
-            headers={
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-            },
-        )
-        soup = bs4.BeautifulSoup(response.text, features='html.parser')
+        output = subprocess.check_output(["gr", "search", title])
+        books = json.loads(output)
 
-        with open("/tmp/review-book.html", "w") as f:
-            f.write(soup.prettify())
-
-        urls = []
-        for i, el in enumerate(soup.select('a.bookTitle'), 1):
-            title = el.text.strip()
-            author = el.parent.select_one('a.authorName').text.strip()
+        ids = []
+        for i, el in enumerate(books, 1):
+            title = el["title"]
+            author = el["author"]
 
             print(f'{i}: {title} by {author}')
-            urls.append(el.attrs['href'])
+            ids.append(el["id"])
 
         choice = input('Choose a book (leave blank to skip and quit): ')
         if not choice:
@@ -72,8 +63,7 @@ while True:
             print('Enter a number')
             continue
 
-        url = urls[int(choice) - 1]
-        id = int(url.split('/')[-1].split('.')[0].split('-')[0])
+        id = ids[int(choice) - 1]
 
     # Use my goodreads (gr) command line tool to fetch via graphql
     output = subprocess.check_output(['gr', 'book', '--legacy', str(id)])
