@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-liberation.jpg
 date: '2026-04-28'
-draft: true
 goodreads_id: 28962883
-rating: -1
+rating: 3
 reviews/authors:
 - Ian Tregillis
 reviews/lists:

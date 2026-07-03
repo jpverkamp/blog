@@ -1,9 +1,8 @@
 ---
 cover: /embeds/books/the-book-that-held-her-heart.jpg
 date: '2026-05-01'
-draft: true
 goodreads_id: 216247528
-rating: -1
+rating: 3
 reviews/authors:
 - Mark  Lawrence
 reviews/lists:
