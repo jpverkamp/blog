@@ -58,10 +58,12 @@ push:
 	git push origin HEAD
 
 build:
-	if [ ! -d build/release ]; then mkdir -p build; git clone git@github.com:jpverkamp/jpverkamp.github.io.git build/release; fi
-	cd build/release; git wipe; git pull --rebase --prune; git submodule update --init --recursive
+	if [ ! -d build/release ]; then mkdir -p build; git clone --depth 1 git@github.com:jpverkamp/jpverkamp.github.io.git build/release; fi
+	cd build/release; git fetch --depth=1 origin master; git reset --hard origin/master; git submodule update --init --recursive
 	
-	hugo --minify --destination build/release
+	find build/release -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+	hugo --minify --cleanDestinationDir --destination build/release
+	rm -rf build/release/pagefind
 	npx pagefind --site "build/release"
 
 	cd build/release; mkdir -p feed; cp atom.xml feed/; cp atom.xml feed/index.html
