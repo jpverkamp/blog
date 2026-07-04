@@ -58,17 +58,19 @@ push:
 	git push origin HEAD
 
 build:
-	if [ ! -d build/release ]; then mkdir -p build; git clone --depth 1 git@github.com:jpverkamp/jpverkamp.github.io.git build/release; fi
-	cd build/release; git fetch --depth=1 origin master; git reset --hard origin/master
-	if [ -d build/release/embeds/runelang/.git ] || git -C build/release/embeds/runelang rev-parse --is-inside-work-tree >/dev/null 2>&1; then \
-		cd build/release/embeds/runelang; git fetch --depth=1 origin master; git reset --hard origin/master; \
-	else \
-		rm -rf build/release/embeds/runelang; mkdir -p build/release/embeds; git clone --depth 1 git@github.com:jpverkamp/runelang.git build/release/embeds/runelang; \
+	if [ ! -d build/release ]; then \
+		mkdir -p build; \
+		git clone --depth 1 git@github.com:jpverkamp/jpverkamp.github.io.git build/release; \
 	fi
 	
+	cd build/release; \
+		git fetch --depth=1 origin master; \
+		git reset --hard origin/master
+	
 	find build/release -mindepth 1 -maxdepth 1 ! \( -name .git -o -name embeds \) -exec rm -rf {} +
-	find build/release/embeds -mindepth 1 -maxdepth 1 ! -name runelang -exec rm -rf {} +
+	
 	hugo --minify --cleanDestinationDir --destination build/release
+	
 	rm -rf build/release/pagefind
 	npx pagefind --site "build/release"
 
