@@ -31,11 +31,11 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v18-textbundle-fec1ed.png)
+![](/embeds/books/attachments/ultimate-x-men-v18-textbundle-fec1ed.jpg)
 
 I feel this would be more impactful of if we’d seen more than this volume of Apocalypse. 
 
-![](/embeds/books/attachments/ultimate-x-men-v18-textbundle-fcab6a.png)
+![](/embeds/books/attachments/ultimate-x-men-v18-textbundle-fcab6a.jpg)
 
 
 That’s a different style. 

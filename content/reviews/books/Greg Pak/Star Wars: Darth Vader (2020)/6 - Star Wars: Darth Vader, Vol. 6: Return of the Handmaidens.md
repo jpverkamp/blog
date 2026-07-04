@@ -22,7 +22,7 @@ title: 'Darth Vader, Vol. 6: Return of the Handmaidens'
 
 The Handmaidens. Hired to look like Padme; now they’re impersonating one another. 
 
-![](/embeds/books/attachments/darth-vader-2020-v6-textbundle-07f7e6.png)
+![](/embeds/books/attachments/darth-vader-2020-v6-textbundle-07f7e6.jpg)
 
 Good times. Silly names. But that’s Star Wars for you. 
 
@@ -36,6 +36,6 @@ Overall, it’s fine. But Ochi and the Handmaidens make for a weaker Vader story
 
 Random cool scene of the day: 
 
-![](/embeds/books/attachments/darth-vader-2020-v6-textbundle-5fc4d6.png)
+![](/embeds/books/attachments/darth-vader-2020-v6-textbundle-5fc4d6.jpg)
 
 

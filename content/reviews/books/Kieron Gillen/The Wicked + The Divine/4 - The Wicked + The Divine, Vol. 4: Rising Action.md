@@ -25,11 +25,11 @@ A huge step up from Volume 3. Glad to have read it.
 ---
 
 
-![](/embeds/books/attachments/wicked-divine-4-c9e720.png)
+![](/embeds/books/attachments/wicked-divine-4-c9e720.jpg)
 
 There we go!
 
-![](/embeds/books/attachments/wicked-divine-4-872394.png)
+![](/embeds/books/attachments/wicked-divine-4-872394.jpg)
 
 **The** most bonkers fight scenes. I love it. 
 

@@ -37,33 +37,33 @@ Onward!
 
 ## In-line Thoughts (potential spoilers)
 
-![](/embeds/books/attachments/unwritten-1-429872.png)
+![](/embeds/books/attachments/unwritten-1-429872.jpg)
 
 Oh my. 
 
-![](/embeds/books/attachments/unwritten-1-d90efa.png)
+![](/embeds/books/attachments/unwritten-1-d90efa.jpg)
 
 Ah I see. Very interesting. 
 
-![](/embeds/books/attachments/unwritten-1-0628ed.png)
+![](/embeds/books/attachments/unwritten-1-0628ed.jpg)
 
 Ooh. 
 
-![](/embeds/books/attachments/unwritten-1-80b514.png)
+![](/embeds/books/attachments/unwritten-1-80b514.jpg)
 
 And because it’s a story… I expect the crazy man is probably very well right. 
 
-![](/embeds/books/attachments/unwritten-1-ee560e.png)
+![](/embeds/books/attachments/unwritten-1-ee560e.jpg)
 
 Wow. Bit darker even than the later Harry Potter. 
 
 Good thing it’s fan fiction. :) But if I’m guessing where this story is going to go… oh my. 
 
-![](/embeds/books/attachments/unwritten-1-8964c8.png)
+![](/embeds/books/attachments/unwritten-1-8964c8.jpg)
 
 There it goes. 
 
-![](/embeds/books/attachments/unwritten-1-8d5f3d.png)
+![](/embeds/books/attachments/unwritten-1-8d5f3d.jpg)
 
 That’s certainly an interesting point of view.
 

@@ -24,6 +24,6 @@ Backstory! Work Obi-Wan and Luke’s uncle. A prison hidden tucked right up agai
 
 It’s a decent enough adventure with quite the set pieces. I just wish I had more time in Obi-Wan’s backstory now!
 
-![](/embeds/books/attachments/star-wars-2015-v3-textbundle-17ed10.png)
+![](/embeds/books/attachments/star-wars-2015-v3-textbundle-17ed10.jpg)
 
 <!--more-->

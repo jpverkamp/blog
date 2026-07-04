@@ -20,7 +20,7 @@ series_index:
 title: 'All-New Ultimates, Volume 1: Power for Power'
 ---
 
-![](/embeds/books/attachments/all-new-ultimates-1-textbundle-e19138.png)
+![](/embeds/books/attachments/all-new-ultimates-1-textbundle-e19138.jpg)
 
 So, a new team. It’s… certainly not the Ultimates, despite the name. More of a Spidey and Friends. 
 

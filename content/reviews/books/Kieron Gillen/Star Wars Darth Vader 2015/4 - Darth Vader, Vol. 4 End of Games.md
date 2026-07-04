@@ -29,19 +29,19 @@ With that being said, Vader is making his way back into Palpatine's good (bad?) 
 
 <!--more-->
 
-![](/embeds/books/attachments/vader-4.2.png)  
+![](/embeds/books/attachments/vader-4.2.jpg)  
 
 On the way there, we have more discussions about man versus machine:  
 
-![](/embeds/books/attachments/vader-4.5.png)  
+![](/embeds/books/attachments/vader-4.5.jpg)  
 
 Some even crazier cybernetically enhanced set pieces/battle scenes:  
 
-![](/embeds/books/attachments/vader-4.4.png)  
+![](/embeds/books/attachments/vader-4.4.jpg)  
 
 And of course... more Triple-Zero.  
 
-![](/embeds/books/attachments/vader-4.3.png)  
+![](/embeds/books/attachments/vader-4.3.jpg)  
 
 Delightful.  
 

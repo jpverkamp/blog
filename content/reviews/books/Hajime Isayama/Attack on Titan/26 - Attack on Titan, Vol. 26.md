@@ -16,7 +16,7 @@ series_index: [26]
 ---
 Battles in the street! Killing enemy civilians! Wait... aren't Eren and the Survey Corps supposed to be the good guys?  
 
-![AoT-26-1](/embeds/books/attachments/aot-26-1.png)  
+![AoT-26-1](/embeds/books/attachments/aot-26-1.jpg)  
 
 <!--more-->
 

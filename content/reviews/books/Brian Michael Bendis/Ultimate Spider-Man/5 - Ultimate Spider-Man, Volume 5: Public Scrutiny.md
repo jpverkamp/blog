@@ -18,7 +18,7 @@ title: 'Ultimate Spider-Man, Volume 5: Public Scrutiny'
 ---
 Poor Spider-Man. School troubles, girl troubles, and super hero identify struggles. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v5-0468c7.png)
+![](/embeds/books/attachments/ultimate-spider-man-v5-0468c7.jpg)
 
 Just can’t catch a break. 
 
@@ -34,13 +34,13 @@ Onward!
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/ultimate-spider-man-v5-8c01c5.png)
+![](/embeds/books/attachments/ultimate-spider-man-v5-8c01c5.jpg)
 
 I’m going to assume it’s the same Wasp as in the Ultimates. Good for Fury to send help!
 
 What does he want…
 
-![](/embeds/books/attachments/ultimate-spider-man-v5-60a57a.png)
+![](/embeds/books/attachments/ultimate-spider-man-v5-60a57a.jpg)
 
 Ironic, I’m sure intentionally, given Miles Morales. In Into the Spider-Verse, he’s definitely not white and if I remember correctly, totally spoke Spanish. 
 

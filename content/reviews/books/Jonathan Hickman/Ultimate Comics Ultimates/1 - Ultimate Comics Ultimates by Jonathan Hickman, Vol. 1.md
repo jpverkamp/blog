@@ -19,13 +19,13 @@ title: Ultimate Comics Ultimates by Jonathan Hickman, Vol. 1
 ---
 And so we’re back with the Ultimates…
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-textbundle-ece1a9.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-textbundle-ece1a9.jpg)
 
 … and things are going very. very sideways. 
 
 Because there’s a new* villain in town.
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-textbundle-a83ac9.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-textbundle-a83ac9.jpg)
 
 This should be interesting. 
 

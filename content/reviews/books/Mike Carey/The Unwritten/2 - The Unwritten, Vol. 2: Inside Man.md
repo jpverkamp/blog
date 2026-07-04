@@ -24,23 +24,23 @@ Things are starting to move now! Prison, dedicated journalists, some real magic,
 
 ## As I read, potential spoilers
 
-![](/embeds/books/attachments/unwritten-2-d7920c.png)
+![](/embeds/books/attachments/unwritten-2-d7920c.jpg)
 
 That’s a neat trick. Reminds me of [Ghostwriter](https://en.wikipedia.org/wiki/Ghostwriter_(1992_TV_series)) (which apparently got a reboot a few years ago?). 
 
-![](/embeds/books/attachments/unwritten-2-5b85a1.png)
+![](/embeds/books/attachments/unwritten-2-5b85a1.jpg)
 
 So that’s what he can do!
 
-![](/embeds/books/attachments/unwritten-2-d1d32d.png)
+![](/embeds/books/attachments/unwritten-2-d1d32d.jpg)
 
 All that and he doesn’t yet believe. Safer to be seeing things. 
 
-![](/embeds/books/attachments/unwritten-2-e09739.png)
+![](/embeds/books/attachments/unwritten-2-e09739.jpg)
 
 Dramatic. Understandably so. 
 
-![](/embeds/books/attachments/unwritten-2-d9497e.png)
+![](/embeds/books/attachments/unwritten-2-d9497e.jpg)
 
 More world building!
 

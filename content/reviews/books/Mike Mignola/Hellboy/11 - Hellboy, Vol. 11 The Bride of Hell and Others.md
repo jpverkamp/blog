@@ -22,25 +22,25 @@ Another collection of shorts.
 
 <!--more-->
 
-![Hellboy-11-1-Hellboy-in-Mexico](/embeds/books/attachments/hellboy-11-1-hellboy-in-mexico.png)  
+![Hellboy-11-1-Hellboy-in-Mexico](/embeds/books/attachments/hellboy-11-1-hellboy-in-mexico.jpg)  
 
 All righty then! It's a pretty cool story, fun to see a new theme. A bit confusing where there's an entire collection named the same: [[Hellboy in Mexico]]()  
 
  **The House:**  
 
-![Hellboy-11-2-The-House](/embeds/books/attachments/hellboy-11-2-the-house.png)  
+![Hellboy-11-2-The-House](/embeds/books/attachments/hellboy-11-2-the-house.jpg)  
 
 That's a cool story. Hellboy is not one to try to sacrifice...  
 
  **The House of Sobek:**  
 
-![Hellboy-11-3-The-House-of-Sebek](/embeds/books/attachments/hellboy-11-3-the-house-of-sebek.png)  
+![Hellboy-11-3-The-House-of-Sebek](/embeds/books/attachments/hellboy-11-3-the-house-of-sebek.jpg)  
 
 A house theme? Sure! And good advice!  
 
  **Vampire Story:**  
 
-![Hellboy-11-4-Vampire-Story](/embeds/books/attachments/hellboy-11-4-vampire-story.png)  
+![Hellboy-11-4-Vampire-Story](/embeds/books/attachments/hellboy-11-4-vampire-story.jpg)  
 
 Not quite what I expected but nicely creepy.  
 
@@ -48,15 +48,15 @@ Not quite what I expected but nicely creepy.
 
  **The Whittier Legacy:**  
 
-![Hellboy-11-6a-Wittier](/embeds/books/attachments/hellboy-11-6a-wittier.png)  
+![Hellboy-11-6a-Wittier](/embeds/books/attachments/hellboy-11-6a-wittier.jpg)  
 
-![Hellboy-11-6b-Wittier](/embeds/books/attachments/hellboy-11-6b-wittier.png)  
+![Hellboy-11-6b-Wittier](/embeds/books/attachments/hellboy-11-6b-wittier.jpg)  
 
 I love it.  
 
 **Buster Oakley Gets His Wish:**  
 
-![Hellboy-11-7-Buster](/embeds/books/attachments/hellboy-11-7-buster.png)  
+![Hellboy-11-7-Buster](/embeds/books/attachments/hellboy-11-7-buster.jpg)  
 
 > Ghost cows. There’s something you don’t see every day.  
 >
@@ -66,6 +66,6 @@ I love it.
 
 This story is just truly bizarre, but in a good way.  
 
-![Hellboy-11-7b-Cowman-vs-the-Aliens](/embeds/books/attachments/hellboy-11-7b-cowman-vs-the-aliens.png)  
+![Hellboy-11-7b-Cowman-vs-the-Aliens](/embeds/books/attachments/hellboy-11-7b-cowman-vs-the-aliens.jpg)  
 
 I'm surprised to say this is probably my favorite of the Hellboy shorts yet. It's just so surreal compared to a lot of them--and that's saying something.

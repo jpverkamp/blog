@@ -35,23 +35,23 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-9d5666.png)
+![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-9d5666.jpg)
 
 Ultimate Cap vs Red Skull. Wonder where this is going to have come from. 
 
-![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-3e0c2c.png)
+![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-3e0c2c.jpg)
 
 Oh my. Between this and Wolverine’s, a lot of super progeny floating around. 
 
-![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-27e1fb.png)
+![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-27e1fb.jpg)
 
 … oh my. 
 
-![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-a01bd5.png)
+![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-a01bd5.jpg)
 
 Double oh my. That’s a potentially fun twist. Will he suit up? Something else?
 
-![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-dbe331.png)
+![](/embeds/books/attachments/ultimate-avengers-v1-textbundle-dbe331.jpg)
 
 Another one? That’s one with the X-Men (of sorts), the illusion from Mysterio, and now this. 
 

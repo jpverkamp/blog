@@ -23,13 +23,13 @@ Comics are weird sometimes.
 
 But hey, this version of the (literally) Howling Commandos has potential!
 
-![](/embeds/books/attachments/old-man-logan-4-textbundle-0afed6.png)
+![](/embeds/books/attachments/old-man-logan-4-textbundle-0afed6.jpg)
 
 Speaking of potential, that’s apparently only enough for half the volume. 
 
 After that…
 
-![](/embeds/books/attachments/old-man-logan-4-textbundle-958c62.png)
+![](/embeds/books/attachments/old-man-logan-4-textbundle-958c62.jpg)
 
 Wolverine IN SPACE. 
 

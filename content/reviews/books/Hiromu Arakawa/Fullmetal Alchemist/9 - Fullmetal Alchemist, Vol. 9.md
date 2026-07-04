@@ -28,11 +28,11 @@ This is the chapter that really hints at the costs of war. Strongarm Alchemist A
 
 And then there's Barry the Chopper. Such ways of showing affection:  
 
-![FMA-9-34a-Showing-affection](/embeds/books/attachments/fma-9-34a-showing-affection.png)  
+![FMA-9-34a-Showing-affection](/embeds/books/attachments/fma-9-34a-showing-affection.jpg)  
 
 And Gluttony: Oy.  
 
-![FMA-9-34b-Friends](/embeds/books/attachments/fma-9-34b-friends.png)  
+![FMA-9-34b-Friends](/embeds/books/attachments/fma-9-34b-friends.jpg)  
 
 New friend?  
 
@@ -42,7 +42,7 @@ New friend?
 
 He had to come up with something on the fly... but oy. They're going to find out.  
 
-![FMA-9-35a-The-problem-with-lying](/embeds/books/attachments/fma-9-35a-the-problem-with-lying.png)  
+![FMA-9-35a-The-problem-with-lying](/embeds/books/attachments/fma-9-35a-the-problem-with-lying.jpg)  
 
 And there we are.  
 
@@ -52,7 +52,7 @@ And whooaaaa that got dark.  {{< spoiler >}}Flame Alchemist cooking a friend?{{<
 
 **Chapter 36: Alchemist in Distress**  
 
-![FMA-9-36a-Identify-the-body](/embeds/books/attachments/fma-9-36a-identify-the-body.png)  
+![FMA-9-36a-Identify-the-body](/embeds/books/attachments/fma-9-36a-identify-the-body.jpg)  
 
 So... was it Ross? With alchemy, I expect even dental records can be faked. {{< spoiler >}}From the future: CALLED IT!{{< /spoiler >}}  
 
@@ -62,11 +62,11 @@ And then... holy crap.  {{< spoiler >}}Two Barrys{{< /spoiler >}}  ? Can souls b
 
 **Chapter 37: The Body of a Criminal**  
 
-![FMA-9-37a-BARRYS-BODY](/embeds/books/attachments/fma-9-37a-barrys-body.png)  
+![FMA-9-37a-BARRYS-BODY](/embeds/books/attachments/fma-9-37a-barrys-body.jpg)  
 
 BARRY'S BODY!  
 
-![FMA-9-37b-BARRY-IS-CRAZY](/embeds/books/attachments/fma-9-37b-barry-is-crazy.png)  
+![FMA-9-37b-BARRY-IS-CRAZY](/embeds/books/attachments/fma-9-37b-barry-is-crazy.jpg)  
 
 BARRY IS (wonderfully) CRAZY!  
 

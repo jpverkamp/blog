@@ -17,7 +17,7 @@ I love space. Space missions, thinking about other planets/worlds/alien life. It
 
 <!--more-->
 
-![Voyager](/embeds/books/attachments/voyager.png)  
+![Voyager](/embeds/books/attachments/voyager.jpg)  
 
 In a nutshell, it's a story of the Voyager missions, going into background years (centuries) before they were even launched up through each of the fly- bys, and into a more than decent sprinkling of the human side of the story.  
 

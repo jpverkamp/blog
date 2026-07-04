@@ -32,7 +32,7 @@ Episode by episode reviews, now with slightly less screenshots (that was bonkers
 
 ## 1. *The Natural Friends*
 
-![](/embeds/books/attachments/taskmaster-16-47703d.jpeg)
+![](/embeds/books/attachments/taskmaster-16-47703d.jpg)
 
 > Greg: Because it's such a big heavy bum table...
 
@@ -40,7 +40,7 @@ We're off to a good start.
 
 Right from there to a can of blindfold. 
 
-![](/embeds/books/attachments/taskmaster-16-d9ad2b.jpeg)
+![](/embeds/books/attachments/taskmaster-16-d9ad2b.jpg)
 
 > Where do you buy blindfolds in cans from?
 
@@ -48,13 +48,13 @@ They had to build a tower!
 
 > I'm tempted just to leave it. Cause I'm going to make it worse. 
 
-![](/embeds/books/attachments/taskmaster-16-d07954.jpeg)
+![](/embeds/books/attachments/taskmaster-16-d07954.jpg)
 
 Yes. Yes you are. 
 
 And the first team task of the series:
 
-![](/embeds/books/attachments/taskmaster-16-f567b7.jpeg)
+![](/embeds/books/attachments/taskmaster-16-f567b7.jpg)
 
 It is, of course, a two part task. 
 
@@ -62,7 +62,7 @@ Also.
 
 Duck. 
 
-![](/embeds/books/attachments/taskmaster-16-8f1da1.jpeg)
+![](/embeds/books/attachments/taskmaster-16-8f1da1.jpg)
 
 > Well that's the difference between a light entertainment comedy format... and the law. 
 
@@ -74,38 +74,38 @@ And of course there is:
 
 ## 2. *Hell is Here*
 
-![](/embeds/books/attachments/taskmaster-16-640071.jpeg)
+![](/embeds/books/attachments/taskmaster-16-640071.jpg)
 
 Taskmaster trivia, go!
 
-![](/embeds/books/attachments/taskmaster-16-f8bf69.jpeg)
+![](/embeds/books/attachments/taskmaster-16-f8bf69.jpg)
 
 Head shaking go!
 
-![](/embeds/books/attachments/taskmaster-16-964cbc.jpeg)
+![](/embeds/books/attachments/taskmaster-16-964cbc.jpg)
 
 Mischief go. 
 
 And finally: art go!
 
-![](/embeds/books/attachments/taskmaster-16-7778fb.jpeg)
+![](/embeds/books/attachments/taskmaster-16-7778fb.jpg)
 
 ## 3. *Languidly*
 
-![](/embeds/books/attachments/taskmaster-16-c72e5e.jpeg)
+![](/embeds/books/attachments/taskmaster-16-c72e5e.jpg)
 
 > Is it a sex toy Sue?
 
-![](/embeds/books/attachments/taskmaster-16-9e610c.jpeg)
+![](/embeds/books/attachments/taskmaster-16-9e610c.jpg)
 
 > Is the task finding the task?
 > The task is to do the task
 
-![](/embeds/books/attachments/taskmaster-16-1f4b55.jpeg)
+![](/embeds/books/attachments/taskmaster-16-1f4b55.jpg)
 
 I'm underneath it. 
 
-![](/embeds/books/attachments/taskmaster-16-4163a4.jpeg)
+![](/embeds/books/attachments/taskmaster-16-4163a4.jpg)
 
 Sounds like cattle tips. 
 
@@ -115,13 +115,13 @@ Apparently the game's name is plural in the UK?
 
 > I’m going to get all emotional now. Because it’s my absolute favorite. Is time for sausages!
 
-![](/embeds/books/attachments/taskmaster-16-fb0122.jpeg)
+![](/embeds/books/attachments/taskmaster-16-fb0122.jpg)
 
 😃
 
 Art!
 
-![](/embeds/books/attachments/taskmaster-16-70302b.jpeg)
+![](/embeds/books/attachments/taskmaster-16-70302b.jpg)
 
 ## 5. *Skateboard Division*
 
@@ -129,27 +129,27 @@ Art!
 
 Things can only go … up? From there. 
 
-![](/embeds/books/attachments/taskmaster-16-ef2d4e.jpeg)
+![](/embeds/books/attachments/taskmaster-16-ef2d4e.jpg)
 
 Things. Things. 
 
 Things things things. 
 
-![](/embeds/books/attachments/taskmaster-16-110a00.jpeg)
+![](/embeds/books/attachments/taskmaster-16-110a00.jpg)
 
 Eyes. Eyes. 
 
-![](/embeds/books/attachments/taskmaster-16-8fbeef.jpeg)
+![](/embeds/books/attachments/taskmaster-16-8fbeef.jpg)
 
 Eyes eyes eyes. 
 
-![](/embeds/books/attachments/taskmaster-16-4996f8.jpeg)
+![](/embeds/books/attachments/taskmaster-16-4996f8.jpg)
 
 Science!
 
 ## 6. *Brother Alex*
 
-![](/embeds/books/attachments/taskmaster-16-23cab5.jpeg)
+![](/embeds/books/attachments/taskmaster-16-23cab5.jpg)
 
 > I've got a bucket. Lined with sandpaper. Filled to the brim with matches and fire alarms. 
 
@@ -157,11 +157,11 @@ As one does.
 
 That was an impressive prize task. 
 
-![](/embeds/books/attachments/taskmaster-16-59369f.jpeg)
+![](/embeds/books/attachments/taskmaster-16-59369f.jpg)
 
 You'd never guess she was running from a rubbish robot. 
 
-![](/embeds/books/attachments/taskmaster-16-045cc6.jpeg)
+![](/embeds/books/attachments/taskmaster-16-045cc6.jpg)
 
 You might guess he was
 
@@ -169,15 +169,15 @@ You might guess he was
 
 😃
 
-![](/embeds/books/attachments/taskmaster-16-c79c32.jpeg)
+![](/embeds/books/attachments/taskmaster-16-c79c32.jpg)
 
 > Knees and toes. 
 
-![](/embeds/books/attachments/taskmaster-16-dc08d6.jpeg)
+![](/embeds/books/attachments/taskmaster-16-dc08d6.jpg)
 
 > Knees. And. Tooooooessss.  
 
-![](/embeds/books/attachments/taskmaster-16-d493a7.jpeg)
+![](/embeds/books/attachments/taskmaster-16-d493a7.jpg)
 
 Totally not the task. 
 
@@ -185,7 +185,7 @@ Totally not the task.
 
 > Have you had Botox?
 
-![](/embeds/books/attachments/taskmaster-16-c9406f.jpeg)
+![](/embeds/books/attachments/taskmaster-16-c9406f.jpg)
 
 > But why would you...
 
@@ -195,35 +195,35 @@ That's a delightful switch.
 
 Or seven of them. 
 
-![](/embeds/books/attachments/taskmaster-16-2e9008.jpeg)
+![](/embeds/books/attachments/taskmaster-16-2e9008.jpg)
 
 Chaos. 
 
-![](/embeds/books/attachments/taskmaster-16-b873c1.jpeg)
+![](/embeds/books/attachments/taskmaster-16-b873c1.jpg)
 
 Delightful chaos. 
 
-![](/embeds/books/attachments/taskmaster-16-159659.jpeg)
+![](/embeds/books/attachments/taskmaster-16-159659.jpg)
 
 Wayne. 
 
 That's my favorite. 
 
-![](/embeds/books/attachments/taskmaster-16-0d26f7.jpeg)
+![](/embeds/books/attachments/taskmaster-16-0d26f7.jpg)
 
 > Susan: Waynes my favorite!
 > Sue: Come on you little shit. 
 
-![](/embeds/books/attachments/taskmaster-16-aa45c2.jpeg)
+![](/embeds/books/attachments/taskmaster-16-aa45c2.jpg)
 
 > Well. It's not my problem is it. 
 
-![](/embeds/books/attachments/taskmaster-16-8a0165.png)
+![](/embeds/books/attachments/taskmaster-16-8a0165.jpg)
 
 > Alex: 8cm. 8cm away.
 > Sue: I knew what happened and even I was swept away by the narrative. 
 
-![](/embeds/books/attachments/taskmaster-16-8d180d.png)
+![](/embeds/books/attachments/taskmaster-16-8d180d.jpg)
 
 Ball.
 
@@ -258,7 +258,7 @@ Oh. Well that’s a thing.
 
 All that for +/- 1 point and…
 
-![](/embeds/books/attachments/taskmaster-16-1d2ec1.png)
+![](/embeds/books/attachments/taskmaster-16-1d2ec1.jpg)
 
 > It’s like a really really weird version of Handmaid’s Tale.
 
@@ -299,7 +299,7 @@ print(average)
 
 An average of just over 60 flips. 😆
 
-![](/embeds/books/attachments/taskmaster-16-a4000a.png)
+![](/embeds/books/attachments/taskmaster-16-a4000a.jpg)
 
 And then a nighttime task. 
 
@@ -309,9 +309,9 @@ That was a really weird task.
 
 > I’m not going to show you somebody called Sam.
 
-![](/embeds/books/attachments/taskmaster-16-9fef97.png)
+![](/embeds/books/attachments/taskmaster-16-9fef97.jpg)
 
-![](/embeds/books/attachments/taskmaster-16-35fc7d.png)
+![](/embeds/books/attachments/taskmaster-16-35fc7d.jpg)
 
 O.o
 
@@ -323,7 +323,7 @@ Delightful.
 
 ## 9. *Fagin at the Disco*
 
-![](/embeds/books/attachments/taskmaster-16-cda99d.png)
+![](/embeds/books/attachments/taskmaster-16-cda99d.jpg)
 
 Amuses me a bit that a couple of them don’t have licenses. Oh different countries/cultures. 
 
@@ -336,30 +336,30 @@ Okay, I see why they might not have their licenses. If that’s what it takes to
 
 Anyways. 
 
-![](/embeds/books/attachments/taskmaster-16-d09b9c.png)
+![](/embeds/books/attachments/taskmaster-16-d09b9c.jpg)
 
 > Can you fit in there okay?
 
-![](/embeds/books/attachments/taskmaster-16-a3b559.png)
+![](/embeds/books/attachments/taskmaster-16-a3b559.jpg)
 
 Anyways anyways.
 
-![](/embeds/books/attachments/taskmaster-16-c1d559.png)
+![](/embeds/books/attachments/taskmaster-16-c1d559.jpg)
 
 > Alex: That’s in the clown.
 > Julian: That’s what you wanted? 
 
-![](/embeds/books/attachments/taskmaster-16-682ff7.png)
+![](/embeds/books/attachments/taskmaster-16-682ff7.jpg)
 
 He had a lot of fun with that. 
 
-![](/embeds/books/attachments/taskmaster-16-3b1a6f.png)
+![](/embeds/books/attachments/taskmaster-16-3b1a6f.jpg)
 
 They all did. 
 
 ## 10. *Always Forks and Marbles*
 
-![](/embeds/books/attachments/taskmaster-16-42818b.png)
+![](/embeds/books/attachments/taskmaster-16-42818b.jpg)
 
 Wait, who’s that? 
 
@@ -367,13 +367,13 @@ Wait, who’s that?
 
 It would have been quite the thing had they never acknowledged it. 
 
-![](/embeds/books/attachments/taskmaster-16-7aa35f.png)
+![](/embeds/books/attachments/taskmaster-16-7aa35f.jpg)
 
 > Alex: It’s a standard ingredient in vanilla ice cream, yes. 
 > …
 > Greg: Well where are all these beavers? 
 
-![](/embeds/books/attachments/taskmaster-16-aa9226.png)
+![](/embeds/books/attachments/taskmaster-16-aa9226.jpg)
 
 > Are you hungry baby bird?
 
@@ -384,15 +384,15 @@ This… isn’t going where I think it’s going is it?
 
 I skipped most of this task. 
 
-![](/embeds/books/attachments/taskmaster-16-7c04ef.png)
+![](/embeds/books/attachments/taskmaster-16-7c04ef.jpg)
 
 Much better. Somehow. 
 
-![](/embeds/books/attachments/taskmaster-16-8e4194.png)
+![](/embeds/books/attachments/taskmaster-16-8e4194.jpg)
 
 … yup.
 
-![](/embeds/books/attachments/taskmaster-16-b29558.png)
+![](/embeds/books/attachments/taskmaster-16-b29558.jpg)
 
 > Greg: This is shaking up to be one anti-climax. 
 

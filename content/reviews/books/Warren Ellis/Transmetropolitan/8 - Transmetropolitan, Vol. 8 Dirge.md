@@ -18,7 +18,7 @@ series_index: [8]
 ---
 Well. That's a storm.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-8-dirge-x-1.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-8-dirge-x-1.jpg)  
 
 <!--more-->
 
@@ -34,10 +34,10 @@ On top of that, {{<spoiler>}}we finally learn what's going on with Spider's heal
 
 Images (spoilers):  
 
-![](/embeds/books/attachments/transmetropolitan-vol-8-dirge-x-3.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-8-dirge-x-3.jpg)  
 
 Yup. Up against time.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-8-dirge-x-4.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-8-dirge-x-4.jpg)  
 
 And Spider actually talks right with the President. I don't know who's further gone...

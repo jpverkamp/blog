@@ -40,37 +40,37 @@ Individual thoughts (spoilers).
 ## X-Men/Fantastic Four
 Future X-Men, led by Captain America, back to prevent some future disaster!
 
-![](/embeds/books/attachments/march-on-ultimatum-87855b.png)
+![](/embeds/books/attachments/march-on-ultimatum-87855b.jpg)
 
 By killing Reed Richards? I mean, he probably did it. But this will go badly. 
 
-![](/embeds/books/attachments/march-on-ultimatum-dee11b.png)
+![](/embeds/books/attachments/march-on-ultimatum-dee11b.jpg)
 
 She can do what now?
 
 And _then_ things got weird. 
 
-![](/embeds/books/attachments/march-on-ultimatum-883e6a.png)
+![](/embeds/books/attachments/march-on-ultimatum-883e6a.jpg)
 
 ## Fantastic Four/X-Men
 And now, then! Getting to the future roots of the trouble. 
 
-![](/embeds/books/attachments/march-on-ultimatum-04d452.png)
+![](/embeds/books/attachments/march-on-ultimatum-04d452.jpg)
 
 ## Captain America
-![](/embeds/books/attachments/march-on-ultimatum-164de7.png)
+![](/embeds/books/attachments/march-on-ultimatum-164de7.jpg)
 
 Oh interesting. 
 
 How the real Black Panther came to be—and came up be Captain America. 
 
 ## Hulk
-![](/embeds/books/attachments/march-on-ultimatum-7b153f.png)
+![](/embeds/books/attachments/march-on-ultimatum-7b153f.jpg)
 
 So there’s someone from some other universe that can go toe to toe with the Hulk. Who is naked. For reasons. 
 
 ## Spider-Man (3)
 
-![](/embeds/books/attachments/march-on-ultimatum-72c618.png)
+![](/embeds/books/attachments/march-on-ultimatum-72c618.jpg)
 
 That’s a style switch…

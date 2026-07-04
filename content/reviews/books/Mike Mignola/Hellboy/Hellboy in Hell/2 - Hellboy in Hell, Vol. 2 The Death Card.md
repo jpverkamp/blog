@@ -23,13 +23,13 @@ Two in a day? Yes!
 
 <!--more-->
 
-![Hellboy-in-Hell-2-1-Geography-of-Hell](/embeds/books/attachments/hellboy-in-hell-2-1-geography-of-hell.png)  
+![Hellboy-in-Hell-2-1-Geography-of-Hell](/embeds/books/attachments/hellboy-in-hell-2-1-geography-of-hell.jpg)  
 
 Bumping into a couple of souls trying to go on as they did in life and impose some sense of order onto Hell? That's a fascinating idea. And helpful. And hey, the whole 'see them as alive, turn around and they're actually skeletons the whole time' thing happens in Hell too. Who'da thunk.  
 
 **2: The Trials of Doctor Hoffmann**  
 
-![Hellboy-2-2-How-much-worse](/embeds/books/attachments/hellboy-2-2-how-much-worse.png)  
+![Hellboy-2-2-How-much-worse](/embeds/books/attachments/hellboy-2-2-how-much-worse.jpg)  
 
 That's just not something you ever say. Particularly in a world where magic is very very real and quite often out to eat you.  
 
@@ -37,7 +37,7 @@ Speaking of which... giant monsters are always fun. The sense of scale is great.
 
 **3: The Hounds of Pluto**  
 
-![Hellboy-2-3-It-did-not-turn-out-that-way](/embeds/books/attachments/hellboy-2-3-it-did-not-turn-out-that-way.png)  
+![Hellboy-2-3-It-did-not-turn-out-that-way](/embeds/books/attachments/hellboy-2-3-it-did-not-turn-out-that-way.jpg)  
 
 Ah yup.  
 
@@ -45,11 +45,11 @@ Ah yup.
 
 One of my favorite storylines from Hellboy's life... when he got drunk in Mexico and ended up married to some nasty beasty.  
 
-![Hellboy-2-4-Wedding-night](/embeds/books/attachments/hellboy-2-4-wedding-night.png)  
+![Hellboy-2-4-Wedding-night](/embeds/books/attachments/hellboy-2-4-wedding-night.jpg)  
 
  **5: For Whom the Bell Tolls**  
 
-![Hellboy-2-5-It-Tolls-for-Thee](/embeds/books/attachments/hellboy-2-5-it-tolls-for-thee.png)  
+![Hellboy-2-5-It-Tolls-for-Thee](/embeds/books/attachments/hellboy-2-5-it-tolls-for-thee.jpg)  
 
 And so it ends.  
 

@@ -22,18 +22,18 @@ Then there's  {{< spoiler >}}idea that the Attack Titan doesn't give you access 
 
 Crazy pictures/spoilers:  
 
-![Aot-30-1](/embeds/books/attachments/aot-30-1.png)  
+![Aot-30-1](/embeds/books/attachments/aot-30-1.jpg)  
 
 Well, that's a plan. It doesn't help that Eren's is even crazier.  
 
-![Aot-30-2](/embeds/books/attachments/aot-30-2.png)  
+![Aot-30-2](/embeds/books/attachments/aot-30-2.jpg)  
 
 Yeah... that's a wacky idea. It makes a few things work, but non-linear time always makes things... complicated.  
 
-![Aot-30-3](/embeds/books/attachments/aot-30-3.png)  
+![Aot-30-3](/embeds/books/attachments/aot-30-3.jpg)  
 
 Yup. Even worse.  
 
-![Aot-30-4](/embeds/books/attachments/aot-30-4.png)  
+![Aot-30-4](/embeds/books/attachments/aot-30-4.jpg)  
 
 Well. That's thoroughly screwed up.

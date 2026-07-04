@@ -35,15 +35,15 @@ Onward!
 Random fun scenes; possible spoilers!
 
 
-![](/embeds/books/attachments/spider-gwen-2015-v3-textbundle-1c4567.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v3-textbundle-1c4567.jpg)
 
 Wonderful to read just before Thanksgiving. 😃
 
-![](/embeds/books/attachments/spider-gwen-2015-v3-textbundle-2cfa91.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v3-textbundle-2cfa91.jpg)
 
 References yo. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v3-textbundle-23f333.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v3-textbundle-23f333.jpg)
 
 Sounds legit. 
 

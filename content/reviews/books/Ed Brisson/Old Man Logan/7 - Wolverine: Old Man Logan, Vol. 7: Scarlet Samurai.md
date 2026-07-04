@@ -15,7 +15,7 @@ title: 'Wolverine: Old Man Logan, Vol. 7: Scarlet Samurai'
 ---
 The hand! Samurai! Resurrection!
 
-![](/embeds/books/attachments/old-man-logan-7-textbundle-9db182.png)
+![](/embeds/books/attachments/old-man-logan-7-textbundle-9db182.jpg)
 
 That’s a hot mess of a story—although some of that is probably not really having the background for who a lot of these people are. So it goes. 
 

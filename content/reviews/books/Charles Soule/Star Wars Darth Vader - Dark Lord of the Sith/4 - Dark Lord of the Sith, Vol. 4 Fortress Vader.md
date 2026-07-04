@@ -33,22 +33,22 @@ Pretty (and not so pretty) pictures (potential spoilers):
 
 More Jedi hunts!  
 
-![](/embeds/books/attachments/vader-4-1.png) 
+![](/embeds/books/attachments/vader-4-1.jpg) 
 
 Killing babies? In case you weren't sure these were the bad guys...  
 
-![](/embeds/books/attachments/vader-4-2.png)
+![](/embeds/books/attachments/vader-4-2.jpg)
 
 Yeah, okay. The whole cursed mask thing is done a lot in fantasy genres, so it totally works in Star Wars...  
 
-![](/embeds/books/attachments/vader-4-3.png)
+![](/embeds/books/attachments/vader-4-3.jpg)
 
 Also creepy. And amusing that an old Sith thinks the current Sith are obsessed with the Jedi. On one hand, true. On the other hand, I suppose they've solved that problem for the time being.  
 
-![](/embeds/books/attachments/vader-4-4.png)
+![](/embeds/books/attachments/vader-4-4.jpg)
 
 And finally:  
 
-![](/embeds/books/attachments/vader-4-5.png)
+![](/embeds/books/attachments/vader-4-5.jpg)
 
 You know, that was probably the best thing to come out of the entire prequel trilogy: that one image. It's pretty cool to get a callback now.

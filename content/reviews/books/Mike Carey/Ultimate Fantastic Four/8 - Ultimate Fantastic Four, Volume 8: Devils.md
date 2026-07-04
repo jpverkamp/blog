@@ -20,7 +20,7 @@ Hundreds of years ago, a big bad got locked up—only he could somehow reach int
 
 Weird enough, but even better, here’s how they decided to go back in time incognito:
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v8-textbundle-f57b49.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v8-textbundle-f57b49.jpg)
 
 Yeah. 
 

@@ -18,7 +18,7 @@ series_index: [7]
 ---
 Spider has lost ... his column, his money, somewhere to live... but he's and his Filthy Assistants (the title kind of bugs me, but I suppose it fits) still have their lives...  
 
-![](/embeds/books/attachments/transmetropolitan-vol-7-spiders-thrash-x-1.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-7-spiders-thrash-x-1.jpg)  
 
 <!--more-->
 
@@ -26,6 +26,6 @@ Spider has lost ... his column, his money, somewhere to live... but he's and his
 
 Also:  
 
-![](/embeds/books/attachments/transmetropolitan-vol-7-spiders-thrash-x-2.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-7-spiders-thrash-x-2.jpg)  
 
 Defenestration is a wonderful word.

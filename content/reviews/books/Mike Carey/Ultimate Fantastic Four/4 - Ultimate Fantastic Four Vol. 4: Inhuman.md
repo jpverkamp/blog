@@ -18,19 +18,19 @@ title: 'Ultimate Fantastic Four Vol. 4: Inhuman'
 
 Story the first: 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v4-6f7f18.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v4-6f7f18.jpg)
 
 New art. New baddie (once again fallout of the Baxter Building policies). Not the easiest story to follow. 
 
 Story the second:
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v4-ba46d0.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v4-ba46d0.jpg)
 
 Lockjaw. Inhumans. Introduced… and gone in an episode. Weird that. 
 
 Story the third: 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v4-eac28c.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v4-eac28c.jpg)
 
 Mole Man? Seriously
 

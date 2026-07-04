@@ -24,11 +24,11 @@ For a while, I was reading an online copy. Turns out that was a fan translation.
 
 Examples (official is second):  
 
-![FMA-3-09-1a-Yelling-match](/embeds/books/attachments/fma-3-09-1a-yelling-match.png)   ![FMA-3-09-1b-Yelling-match-official](/embeds/books/attachments/fma-3-09-1b-yelling-match-official.png)  
+![FMA-3-09-1a-Yelling-match](/embeds/books/attachments/fma-3-09-1a-yelling-match.jpg)   ![FMA-3-09-1b-Yelling-match-official](/embeds/books/attachments/fma-3-09-1b-yelling-match-official.jpg)  
 
 Such language!  
 
-![FMA-3-09-2a-Winry-and-Geek](/embeds/books/attachments/fma-3-09-2a-winry-and-geek.png)   ![FMA-3-09-2b-Winry-and-Geek-official](/embeds/books/attachments/fma-3-09-2b-winry-and-geek-official.png)  
+![FMA-3-09-2a-Winry-and-Geek](/embeds/books/attachments/fma-3-09-2a-winry-and-geek.jpg)   ![FMA-3-09-2b-Winry-and-Geek-official](/embeds/books/attachments/fma-3-09-2b-winry-and-geek-official.jpg)  
 
 The official ... doesn't translate geek? Because that's totally what otaku means. Anyways. Switched to the second one now.  
 
@@ -36,32 +36,32 @@ Some thoughts. Man. They're 14 and 15. Dang they're young to have gone through s
 
 But hey, Strongarm Alchemist Strongarm (I got that this time...)  
 
-![FMA-3-09-3-Strongarm-Alchemist-Armstrong-is-the-best](/embeds/books/attachments/fma-3-09-3-strongarm-alchemist-armstrong-is-the-best.png)  
+![FMA-3-09-3-Strongarm-Alchemist-Armstrong-is-the-best](/embeds/books/attachments/fma-3-09-3-strongarm-alchemist-armstrong-is-the-best.jpg)  
 
 And short jokes:  
 
-![FMA-3-10-1-A-short-fuse](/embeds/books/attachments/fma-3-10-1-a-short-fuse.png)  
+![FMA-3-10-1-A-short-fuse](/embeds/books/attachments/fma-3-10-1-a-short-fuse.jpg)  
 
 One thing this chapter in particular brought up... just how much money do they have? The salary for a National Alchemist is really nice?  
 
 Some other random images that show just how perfect comics are:  
 
-![FMA-3-10-2-GLOOM](/embeds/books/attachments/fma-3-10-2-gloom.png)  
+![FMA-3-10-2-GLOOM](/embeds/books/attachments/fma-3-10-2-gloom.jpg)  
 
 GLOOM!  
 
-![FMA-3-10-3-YO](/embeds/books/attachments/fma-3-10-3-yo.png)  
+![FMA-3-10-3-YO](/embeds/books/attachments/fma-3-10-3-yo.jpg)  
 
 YO!  
 
 And they can even make you really feel for Gluttony, which is saying something:  
 
-![FMA-3-11-1-Poor-Gluttony](/embeds/books/attachments/fma-3-11-1-poor-gluttony.png)  
+![FMA-3-11-1-Poor-Gluttony](/embeds/books/attachments/fma-3-11-1-poor-gluttony.jpg)  
 
 Maybe that's just me.  
 
 A final thought from the end that really makes you think (and I expect we'll see explored some more.  
 
-![FMA-3-12-2-What-does-it-mean-to-be-human](/embeds/books/attachments/fma-3-12-2-what-does-it-mean-to-be-human.png)  
+![FMA-3-12-2-What-does-it-mean-to-be-human](/embeds/books/attachments/fma-3-12-2-what-does-it-mean-to-be-human.jpg)  
 
 In a world like this, where it's possible (if not exactly easy) to live without a body at all... What exactly does it mean to be human?

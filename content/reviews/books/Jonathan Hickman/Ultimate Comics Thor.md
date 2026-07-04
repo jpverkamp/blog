@@ -17,7 +17,7 @@ title: Ultimate Comics Thor
 ---
 Ultimate Thor. Ages ago, in Asgard. Decades ago, attacked by Nazis. And not that long ago, having a conversation with Dr. Blake—an old friend?
 
-![](/embeds/books/attachments/ultimate-comics-thor-textbundle-65439b.png)
+![](/embeds/books/attachments/ultimate-comics-thor-textbundle-65439b.jpg)
 
 It’s not a bad story, although it feels weird as both a stand-alone and where it is in the Ultimate universe. What with Thor dead in Ultimatum and all. 
 

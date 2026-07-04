@@ -32,15 +32,15 @@ A decent volume. Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v11-textbundle-88724f.png)
+![](/embeds/books/attachments/ultimate-x-men-v11-textbundle-88724f.jpg)
 
 Isn’t that the name of a big mutant that defends the Institute in All New X-Men?
 
-![](/embeds/books/attachments/ultimate-x-men-v11-textbundle-92cdaa.png)
+![](/embeds/books/attachments/ultimate-x-men-v11-textbundle-92cdaa.jpg)
 
 I understood that reference!
 
-![](/embeds/books/attachments/ultimate-x-men-v11-textbundle-4e4a1e.png)
+![](/embeds/books/attachments/ultimate-x-men-v11-textbundle-4e4a1e.jpg)
 
 I did not understand that reference. 
 

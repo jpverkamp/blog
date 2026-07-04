@@ -17,7 +17,7 @@ title: 'Runaways, Vol. 6: Parental Guidance'
 ---
 The one where we finally get a hint at what’s been going on with the other new Pride. 
 
-![](/embeds/books/attachments/runaways-v6-3469d1.png)
+![](/embeds/books/attachments/runaways-v6-3469d1.jpg)
 
 That never does go well. Plus short bits with Molly on her own and Karolina in space! The gang is  back (ish)!
 
@@ -32,11 +32,11 @@ Onward.
 ---
 
 
-![](/embeds/books/attachments/runaways-v6-c32f72.png)
+![](/embeds/books/attachments/runaways-v6-c32f72.jpg)
 
 Cute, in a surreal sort of way. 
 
-![](/embeds/books/attachments/runaways-v6-d4e232.png)
+![](/embeds/books/attachments/runaways-v6-d4e232.jpg)
 
 Cute, in a teenager sort of way. 
 

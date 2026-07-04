@@ -28,7 +28,7 @@ Thoughts as I read:
 
 ## Vehicle 1: Getting Around
 
-![](/embeds/books/attachments/vehicles-67458e.png)
+![](/embeds/books/attachments/vehicles-67458e.jpg)
 
 # Vehicle 2: Fear and Aggression
 
@@ -38,7 +38,7 @@ Thoughts as I read:
 
 # Vehicle 3: Love
 
-![](/embeds/books/attachments/vehicles-38117f.png)
+![](/embeds/books/attachments/vehicles-38117f.jpg)
 
 Adding multiple sensors and the ability to invert them has given this vehicle the ability to rank and respond differently to different inputs. 
 
@@ -54,7 +54,7 @@ Of course, you can get even more interesting than bell curves for activation fun
 
 # Vehicle 5: Logic
 
-![](/embeds/books/attachments/vehicles-8ab4aa.png)
+![](/embeds/books/attachments/vehicles-8ab4aa.jpg)
 
 And then suddenly… neutral networks!
 
@@ -68,13 +68,13 @@ Now change the wiring so that you can turn on and off wires dynamically, making 
 
 # Vehicle 8: Space, Things, and Movement
 
-![](/embeds/books/attachments/vehicles-ca5eaf.png)
+![](/embeds/books/attachments/vehicles-ca5eaf.jpg)
 
 Upgrade the sensors to eyes! Now with more than analogue resolution!
 
 This lets us detect objects or, with the previously described memory circuits, motion. 
 
-![](/embeds/books/attachments/vehicles-7156f7.png)
+![](/embeds/books/attachments/vehicles-7156f7.jpg)
 
 # Vehicle 9: Shapes 
 Edge detection follows from vehicle 8 above; if you can detect high_low_high you can detect edges. But now, we expand that into symmetry (lateral and radial) and shapes.
@@ -100,7 +100,7 @@ And now for a quick interlude into linguistics. It’s an interesting discussion
 # Vehicle 12: Trains of Thought
 Turns out, our imaginary machines could suffer from epilepsy. Put in a global governance circuit to stop that. 
 
-![](/embeds/books/attachments/vehicles-3afe1d.png)
+![](/embeds/books/attachments/vehicles-3afe1d.jpg)
 
 > I hope you realize what this means. If you could observe the inner workings of the vehicle’s brain, say, by watching light bulbs connected to the threshold devices, and these light bulbs lit up every time the corresponding element became active, you could not even predict how many lights would light up in the next moment, let alone what kind of pattern they would form. (For any given number there are of course many constellations with that number of active elements!) At this point we should again invite our philosophers to comment.  
 >    
@@ -118,7 +118,7 @@ Brain children. That is all.
 
 Oh, note that’s interesting. The idea of planning a sequence of actions is one thing, but planning actions based on the outcomes of  what hasn’t happened yet but might/should? That’s interesting. I wonder how common that is among animals. 
 
-![](/embeds/books/attachments/vehicles-866fff.png)
+![](/embeds/books/attachments/vehicles-866fff.jpg)
 
 Long term and short term memory! It’s a neat concept to have N values available in short term but to have to shuffle off some of those into long term (or forget them entirely) in order to pull out older memories or try to look ahead/predict. 
 

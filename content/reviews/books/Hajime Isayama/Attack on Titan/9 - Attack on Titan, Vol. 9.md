@@ -24,20 +24,20 @@ Man the twists in this series. I think at some point, the biggest twist is going
 
 A few of my favorite scenes:  
 
-![AoT-9-1](/embeds/books/attachments/aot-9-1.png)  
+![AoT-9-1](/embeds/books/attachments/aot-9-1.jpg)  
 
 Inspirational speaches!  
 
-![AoT-9-2](/embeds/books/attachments/aot-9-2.png)  
+![AoT-9-2](/embeds/books/attachments/aot-9-2.jpg)  
 
 A new, weird fuzzy Titan. That can ... talk!  
 
-![AoT-9-3](/embeds/books/attachments/aot-9-3.png)  
+![AoT-9-3](/embeds/books/attachments/aot-9-3.jpg)  
 
 Sick of not knowing what's going on? It's easier when Titans aren't trying to eat me, but I toitally get it...  
 
 And then finally:  
 
-![AoT-9-4](/embeds/books/attachments/aot-9-4.png)  
+![AoT-9-4](/embeds/books/attachments/aot-9-4.jpg)  
 
 Saw *whaaaaaaat*

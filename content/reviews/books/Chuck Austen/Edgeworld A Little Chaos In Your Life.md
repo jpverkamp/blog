@@ -17,44 +17,44 @@ Individual issues (potential spoilers):
 
 # Sand: Part 1
 
-![](/embeds/books/attachments/edgeworld-132403.png)
+![](/embeds/books/attachments/edgeworld-132403.jpg)
 
 ## Sand: Part 2
 
 A cheerful world. 
 
-![](/embeds/books/attachments/edgeworld-836bc2.png)
+![](/embeds/books/attachments/edgeworld-836bc2.jpg)
 
 ## Bird in the Hand
 
 I love weird alien worlds and weirder biology. 
 
-![](/embeds/books/attachments/edgeworld-0cd9cc.png)
+![](/embeds/books/attachments/edgeworld-0cd9cc.jpg)
 
 He ate… his children. Ooooy. 
 
 ## I Will Always Hate You: Part 1
 
-![](/embeds/books/attachments/edgeworld-a201ef.png)
+![](/embeds/books/attachments/edgeworld-a201ef.jpg)
 
 Ah! The frame story makes more sense now!
 
-![](/embeds/books/attachments/edgeworld-609f62.png)
+![](/embeds/books/attachments/edgeworld-609f62.jpg)
 
 Walking naked down the street twice in a relatively short span. Starting to think he might enjoy it. 
 
 The Skeeds are a neat if terrifying bit of world building. 
 
-![](/embeds/books/attachments/edgeworld-7965dd.png)
+![](/embeds/books/attachments/edgeworld-7965dd.jpg)
 
 Oh my. 
 
 # I Will Always Hate You: Part 2
 
-![](/embeds/books/attachments/edgeworld-3c54db.png)
+![](/embeds/books/attachments/edgeworld-3c54db.jpg)
 
 Twist!
 
-![](/embeds/books/attachments/edgeworld-dd05c2.png)
+![](/embeds/books/attachments/edgeworld-dd05c2.jpg)
 
 O.o

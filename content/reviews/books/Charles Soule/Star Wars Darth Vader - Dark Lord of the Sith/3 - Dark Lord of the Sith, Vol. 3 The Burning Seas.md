@@ -31,22 +31,22 @@ It's a fascinating way to expand a bit of the Star Wars universe I at least didn
 
 On another note, this also gives us a lot more of Grand Moff Tarkin (I don't recall if that's already his rank here or not), which is interesting enough.  
 
-![](/embeds/books/attachments/vader-3-1.png)
+![](/embeds/books/attachments/vader-3-1.jpg)
 
 I mean, he has a point there. And it really does drive home that the Empire is just that: an Empire.  
 
-![](/embeds/books/attachments/vader-3-2.png)
+![](/embeds/books/attachments/vader-3-2.jpg)
 
 They're are some that would argue that the Rebellion, no matter how nobly guided, is nothing more than an extremists terrorist group, but really there's no good side in this war. That's a side of Star Wars that the movies never really get that far into (which is probably for the best), but also where some of the best stories can be told in my opinion.  
 
 Other fun world building bits:  
 
-![](/embeds/books/attachments/vader-3-3.png)
+![](/embeds/books/attachments/vader-3-3.jpg)
 
 Two intelligence species on an ocean planet? Tell me more> They have wonderfully odd technology.  
 
 And then of course... the darker side of Vader. Oh goodness.  
 
-![](/embeds/books/attachments/vader-3-4.png)
+![](/embeds/books/attachments/vader-3-4.jpg)
 
 A solid addition, perhaps my favorite of two 7 Vader comics I've read thus far.

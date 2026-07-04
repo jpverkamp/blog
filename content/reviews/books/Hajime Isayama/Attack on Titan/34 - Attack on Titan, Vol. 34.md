@@ -24,11 +24,11 @@ Until then...
 
 Man that's a ridiculous conclusion. Some absolutely spectacular battle scenes with all of the named titans over and over again. We knew it was going to happen--and I really want to watch the anime now. It's hard to really imagine any of this.  
 
-![Attack-on-Titan-34-1](/embeds/books/attachments/attack-on-titan-34-1.png)  
+![Attack-on-Titan-34-1](/embeds/books/attachments/attack-on-titan-34-1.jpg)  
 
 Yet to imagine... Eren had a plan all along. There are certain advantages to being able to see the future I suppose.  
 
-![Attack-on-Titan-34-2](/embeds/books/attachments/attack-on-titan-34-2.png)  
+![Attack-on-Titan-34-2](/embeds/books/attachments/attack-on-titan-34-2.jpg)  
 
 Side note: ... where'd the giant bird come from? Did I miss that?  
 

@@ -33,22 +33,22 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v13-5529e3.png)
+![](/embeds/books/attachments/ultimate-spider-man-v13-5529e3.jpg)
 
 
 **Now** we get time to process. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v13-18a719.png)
+![](/embeds/books/attachments/ultimate-spider-man-v13-18a719.jpg)
 
 And process. 
 
 (One decent cop lady though.)
 
-![](/embeds/books/attachments/ultimate-spider-man-v13-5095e3.png)
+![](/embeds/books/attachments/ultimate-spider-man-v13-5095e3.jpg)
 
 Missed seeing that one coming. Oh boy Harry’s got it complicated. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v13-73bda8.png)
+![](/embeds/books/attachments/ultimate-spider-man-v13-73bda8.jpg)
 
 That is certainly one option. Oh my he’s lucky he didn’t get immediately fried. 
 

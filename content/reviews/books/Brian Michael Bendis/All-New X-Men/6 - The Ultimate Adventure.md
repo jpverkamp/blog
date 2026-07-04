@@ -16,7 +16,7 @@ series_index:
 - 6
 title: "All-New X-Men, Vol. 6: The Ultimate Adventure"
 ---
-![](/embeds/books/attachments/all-new-x-men-6-34226a.png)
+![](/embeds/books/attachments/all-new-x-men-6-34226a.jpg)
 
 As if time travel weren’t enough… now the new old X-Men happen to bump into a new new mutant with the power to send them to all sorts of different places and times. Oh boy.
 
@@ -33,11 +33,11 @@ Right?
 
 Other thoughts (spoilers):
 
-![](/embeds/books/attachments/all-new-x-men-6-1c2b51.png)
+![](/embeds/books/attachments/all-new-x-men-6-1c2b51.jpg)
 
 Laura’s budding relationship is cute. As is Jean’s new outlook. I like seeing the characters grow.
 
-![](/embeds/books/attachments/all-new-x-men-6-ef0020.png)
+![](/embeds/books/attachments/all-new-x-men-6-ef0020.jpg)
 
 And so it ends as it began. Ew. :)
 

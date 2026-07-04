@@ -35,22 +35,22 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-402ef9.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-402ef9.jpg)
 
 The reluctant phase!
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-f268c1.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-f268c1.jpg)
 
 Of all the ways to get that line… at his funeral. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-3beba2.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-3beba2.jpg)
 
 That’s a twist that could go well… or terribly. Or both!
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-43617b.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-43617b.jpg)
 
 😆 okay I didn’t expect it to immediately go that way. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-2fe3a2.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-1-textbundle-2fe3a2.jpg)
 
 I did not consider how much it would freak out Spider-Man’s villains. 

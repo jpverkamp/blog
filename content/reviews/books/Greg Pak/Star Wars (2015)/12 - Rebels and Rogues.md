@@ -23,7 +23,7 @@ title: "Star Wars Vol. 12: Rebels and Rogues"
 
 Wait. No. Wrong franchise. 
 
-![](/embeds/books/attachments/star-wars-2015-v12-textbundle-e31864.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v12-textbundle-e31864.jpg)
 
 It doesn’t help when that’s their disguise garb. 
 
@@ -39,20 +39,20 @@ A thrilling… part one!
 
 Aside (minor spoilers):
 
-![](/embeds/books/attachments/star-wars-2015-v12-textbundle-52e7d3.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v12-textbundle-52e7d3.jpg)
 
 This comic came out a year after Solo. 
 
-![](/embeds/books/attachments/star-wars-2015-v12-textbundle-79972d.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v12-textbundle-79972d.jpg)
 
 And Rogue One was two years before that. 
 
 Also, I love this scene:
 
-![](/embeds/books/attachments/star-wars-2015-v12-textbundle-d8da59.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v12-textbundle-d8da59.jpg)
 
 And this moment:
 
-![](/embeds/books/attachments/star-wars-2015-v12-textbundle-24a06e.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v12-textbundle-24a06e.jpg)
 
 

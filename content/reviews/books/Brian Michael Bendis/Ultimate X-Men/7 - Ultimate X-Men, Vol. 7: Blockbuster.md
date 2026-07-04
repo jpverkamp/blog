@@ -20,11 +20,11 @@ The one that starts digging into Logan’s issues. And oh does he have issues.
 Best part: 
 
 
-![](/embeds/books/attachments/ultimate-x-men-v7-c53993.png)
+![](/embeds/books/attachments/ultimate-x-men-v7-c53993.jpg)
 
 A good part of the story is Spider-Man and Wolverine teaming up. That’s just wonderful. I really enjoy the contrast.
 
-![](/embeds/books/attachments/ultimate-x-men-v7-fcbbf8.png)
+![](/embeds/books/attachments/ultimate-x-men-v7-fcbbf8.jpg)
 
 And Daredevil! Even if not much. Good times. 
 
@@ -40,17 +40,17 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v7-47ee59.png)
+![](/embeds/books/attachments/ultimate-x-men-v7-47ee59.jpg)
 
 … yeah okay. Even with the wedding ring, I did not see that one coming. 
 
 Even if a panel later she instead claims sister / mother / etc. 
 
-![](/embeds/books/attachments/ultimate-x-men-v7-ab19ba.png)
+![](/embeds/books/attachments/ultimate-x-men-v7-ab19ba.jpg)
 
 That’s mildly terrifying. 
 
-![](/embeds/books/attachments/ultimate-x-men-v7-b7b9a8.png)
+![](/embeds/books/attachments/ultimate-x-men-v7-b7b9a8.jpg)
 
 And that’s even more so. 
 

@@ -16,7 +16,7 @@ title: 'Ms. Marvel, Vol. 4: Last Days'
 
 The world… is ending. 
 
-![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-724339.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-724339.jpg)
 
 Or at least that’s how it feels. 
 
@@ -24,7 +24,7 @@ Didn’t she know him for like… a couple days? I suppose it’s not that unusu
 
 But still. 
 
-![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-c5a44b.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-c5a44b.jpg)
 
 Bigger problems. 
 
@@ -44,7 +44,7 @@ A chaotic delightful mess of a story.
 
 Also in this volume, random Spider-Man team up!
 
-![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-67442a.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-67442a.jpg)
 
 lol
 
@@ -54,7 +54,7 @@ Bit of a weird, unrelated story. Fun team up. Silk … certainly has a look; no 
 
 This though:
 
-![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-488425.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-488425.jpg)
 
 Ironic that’s. But I suppose he’s earned it. 
 
@@ -65,7 +65,7 @@ Ironic that’s. But I suppose he’s earned it.
 
 Side note:
 
-![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-05a30f.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v4-textbundle-05a30f.jpg)
 
 A few hundred dollars in 2015. Not exactly a penny… but then again not nearly the current ~$70k. Expensive thoughts…
 

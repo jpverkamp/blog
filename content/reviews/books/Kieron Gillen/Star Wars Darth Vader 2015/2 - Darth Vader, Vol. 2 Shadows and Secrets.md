@@ -31,7 +31,7 @@ More... trouble?
 
 Vader actually seems to care about Aphra for reasons I haven't quite figured out yet (and I could totally be projecting that on him), but combine that with the idea that he's still not back into the Emperor's good graces... well, Vader has something of a mess on his hands.  
 
-![](/embeds/books/attachments/vader-2.1.png)
+![](/embeds/books/attachments/vader-2.1.jpg)
 
 You're not wrong.  
 
@@ -39,6 +39,6 @@ It's a fascinating story. Onwards!
 
 Side note: Man, I love Triple-Zero.  
 
-![](/embeds/books/attachments/vader-2.2.png)
+![](/embeds/books/attachments/vader-2.2.jpg)
 
 Unabashedly evil characters can be fascinating to read when done well. Especially when they have a *reason* to be so evil (even if that reason isn't much more than 'insane and torture-loving').

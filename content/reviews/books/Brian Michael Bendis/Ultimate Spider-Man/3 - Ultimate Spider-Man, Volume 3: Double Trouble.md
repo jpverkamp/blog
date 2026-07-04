@@ -17,7 +17,7 @@ series_index:
 - 12
 title: 'Ultimate Spider-Man, Volume 3: Double Trouble'
 ---
-![](/embeds/books/attachments/ultimate-spider-man-v3-301e23.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-301e23.jpg)
 
 Lol. 
 
@@ -36,31 +36,31 @@ I’m looking forward to what’s next!
 Notes (minor spoilers):
 
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-898132.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-898132.jpg)
 
 I feel like I’ve read that one before. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-b17119.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-b17119.jpg)
 
 … so that’s Ultimate Gwen Stacy. She’s new here. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-4cde56.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-4cde56.jpg)
 
 Pym? Like the one who abused his wife and got his (giant) jaw broken by Captain America? I had assumed these stories would be in a shared continuity and in order. Is that actually true?
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-5490b4.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-5490b4.jpg)
 
 B-plot… activate!
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-5ed58f.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-5ed58f.jpg)
 
 Cheerful. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-c5e836.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-c5e836.jpg)
 
 His snarky banter really is the best. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v3-2a63d3.png)
+![](/embeds/books/attachments/ultimate-spider-man-v3-2a63d3.jpg)
 
 Lol. 
 

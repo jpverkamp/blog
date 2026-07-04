@@ -35,27 +35,27 @@ Notes. Spoilers.
 
 The introduction:
 
-![](/embeds/books/attachments/ultimate-spider-man-v12-a59386.png)
+![](/embeds/books/attachments/ultimate-spider-man-v12-a59386.jpg)
 
 Delightful. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v12-daa88c.png)
+![](/embeds/books/attachments/ultimate-spider-man-v12-daa88c.jpg)
 
 … that’s wonderful. Not entirely fair to Parker. But greatly amusing. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v12-36d16f.png)
+![](/embeds/books/attachments/ultimate-spider-man-v12-36d16f.jpg)
 
 Back in his body, back to bullying and other high school drama. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v12-ffad79.png)
+![](/embeds/books/attachments/ultimate-spider-man-v12-ffad79.jpg)
 
 I expect Liz is regretting this now. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v12-e799fd.png)
+![](/embeds/books/attachments/ultimate-spider-man-v12-e799fd.jpg)
 
 That’s cute. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v12-80a2c7.png)
+![](/embeds/books/attachments/ultimate-spider-man-v12-80a2c7.jpg)
 
 **And** a slightly different take on Doctor Strange? Quite the volume. 
 

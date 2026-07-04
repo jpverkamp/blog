@@ -18,7 +18,7 @@ series_index: [5]
 ---
 **5.17: The Boomtown of Broken Down**  
 
-![FMA-5-17-WOMP](/embeds/books/attachments/fma-5-17-womp.png)  
+![FMA-5-17-WOMP](/embeds/books/attachments/fma-5-17-womp.jpg)  
 
 <!--more-->
 
@@ -26,29 +26,29 @@ WOMP. That is all. Oh this series sometimes.
 
 **5.18: The Value of Sincerity**  
 
-![FMA-5-18-So-young-baby](/embeds/books/attachments/fma-5-18-so-young-baby.png)  
+![FMA-5-18-So-young-baby](/embeds/books/attachments/fma-5-18-so-young-baby.jpg)  
 
 Man they're young.  
 
 Hilarious though:  
 
-![FMA-5-18b-PANIC-PANIC-PANIC](/embeds/books/attachments/fma-5-18b-panic-panic-panic.png)  
+![FMA-5-18b-PANIC-PANIC-PANIC](/embeds/books/attachments/fma-5-18b-panic-panic-panic.jpg)  
 
 ...  
 
-![FMA-5-18c-PANIC-PANIC-PANIC](/embeds/books/attachments/fma-5-18c-panic-panic-panic.png)  
+![FMA-5-18c-PANIC-PANIC-PANIC](/embeds/books/attachments/fma-5-18c-panic-panic-panic.jpg)  
 
 I wonder if I would have thought they were so young if I had read this book a decade and multiple children of my own ago?  
 
  **5.19: I'll Do It for You Guys!**  
 
-![FMA-5-19-Babies-are-the-ultimate-alchemy](/embeds/books/attachments/fma-5-19-babies-are-the-ultimate-alchemy.png)  
+![FMA-5-19-Babies-are-the-ultimate-alchemy](/embeds/books/attachments/fma-5-19-babies-are-the-ultimate-alchemy.jpg)  
 
 Eh? 200 days is only 6.5 months. They never really explain that one. It's an interesting point. There's always something complicated about straight up making life.  
 
 Also:  
 
-![FMA-5-19b-Grannys-got-a-rep](/embeds/books/attachments/fma-5-19b-grannys-got-a-rep.png)  
+![FMA-5-19b-Grannys-got-a-rep](/embeds/books/attachments/fma-5-19b-grannys-got-a-rep.jpg)  
 
 Oh Granny's got a rep.  
 
@@ -58,7 +58,7 @@ Teacher! I remember thinking this section was pretty cool in the show.
 
  **5.21: The Brothers' Secret**  
 
-![FMA-6-21-Bored-at-school](/embeds/books/attachments/fma-6-21-bored-at-school.png)  
+![FMA-6-21-Bored-at-school](/embeds/books/attachments/fma-6-21-bored-at-school.jpg)  
 
 I know that feeling.  
 

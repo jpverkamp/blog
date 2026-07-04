@@ -31,20 +31,20 @@ I suppose we’re building up to another big event, but at this point, I’m mos
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-921727.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-921727.jpg)
 
 That’s mildly terrifying. 
 
-![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-d1d93a.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-d1d93a.jpg)
 
 Oh that’s sneaky. 
 
 She’s neither there I bet!
 
-![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-05968e.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-05968e.jpg)
 
 Colossus is pissed. 
 
-![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-2eefa2.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-2-textbundle-2eefa2.jpg)
 
 … more. 

@@ -16,7 +16,7 @@ rating: 5
 page_count: 168
 series_index: [1]
 ---
-![](/embeds/books/attachments/locke-and-key-1.1.png)  
+![](/embeds/books/attachments/locke-and-key-1.1.jpg)  
 
 Well that's certainly one way for a story to start.  
 
@@ -28,6 +28,6 @@ The creepy mystery of it all really does pull you through the story, made all th
 
 And of course... hints of something more.  
 
-![](/embeds/books/attachments/locke-and-key-1.2.png)  
+![](/embeds/books/attachments/locke-and-key-1.2.jpg)  
 
 Oh, I'm looking forward to see where this goes from here!

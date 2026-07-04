@@ -36,11 +36,11 @@ Almost to the end. Onward!
 
 Notes. Minor spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-x-men-wood-1-textbundle-c281cf.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-wood-1-textbundle-c281cf.jpg)
 
 Where do you even go from a story like that?
 
-![](/embeds/books/attachments/ultimate-comics-x-men-wood-1-textbundle-d05263.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-wood-1-textbundle-d05263.jpg)
 
 Handy. Mildly terrifying. 
 

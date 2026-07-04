@@ -19,7 +19,7 @@ It’s fascinating seeing Logan’s past, everything between when the villains t
 
 Fascinating… and bloody. But that’s Wolverine for you. 
 
-![](/embeds/books/attachments/old-man-logan-3-textbundle-aae697.png)
+![](/embeds/books/attachments/old-man-logan-3-textbundle-aae697.jpg)
 
 So… what’s the Japanese word for Bub exactly?
 

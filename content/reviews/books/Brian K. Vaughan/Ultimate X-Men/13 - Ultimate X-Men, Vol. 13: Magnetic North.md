@@ -33,24 +33,24 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-7d7a1e.png)
+![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-7d7a1e.jpg)
 
 Emma Frost having her own school that’s more a school than excuse to train a super team is a neat plot line. 
 
-![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-5bb95c.png)
+![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-5bb95c.jpg)
 
 They _have_ to have a better option than that. 
 
-![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-908ece.png)
+![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-908ece.jpg)
 
 Although I’ll admit that was not the problem I expected with it. Accidentally setting Magneto free as well by trying to help their friend. Oy. 
 
 Also mutants looking down on the Ultimates for not being mutants is greatly amusing. I hope we see that. 
 
-![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-390d0c.png)
+![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-390d0c.jpg)
 
 … **ow** 
 
-![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-2e240e.png)
+![](/embeds/books/attachments/ultimate-x-men-v13-textbundle-2e240e.jpg)
 
 Oh that’s sneaky. 😆

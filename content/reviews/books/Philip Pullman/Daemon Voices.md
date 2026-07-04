@@ -189,7 +189,7 @@ The Borderlands is such an interesting space to write in. It's what makes Urban 
 
 [There's a subreddit for that](https://old.reddit.com/r/LiminalSpace/). A weird one too. 
 
-![](/embeds/books/attachments/daemon-voices-03c3ad.png)
+![](/embeds/books/attachments/daemon-voices-03c3ad.jpg)
 
 > *Wanderer Above the Sea of Fog* by Caspar David Friedrich
 

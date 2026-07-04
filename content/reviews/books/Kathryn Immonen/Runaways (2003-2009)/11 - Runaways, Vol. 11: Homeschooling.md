@@ -15,7 +15,7 @@ series_index:
 - 11
 title: 'Runaways, Vol. 11: Homeschooling'
 ---
-![](/embeds/books/attachments/runaways-v11-8a6ca4.png)
+![](/embeds/books/attachments/runaways-v11-8a6ca4.jpg)
 
 Oh boy. 
 
@@ -34,7 +34,7 @@ Fin.
 
 Also:
 
-![](/embeds/books/attachments/runaways-v11-565ea2.png)
+![](/embeds/books/attachments/runaways-v11-565ea2.jpg)
 
 New powers? New problems!
 

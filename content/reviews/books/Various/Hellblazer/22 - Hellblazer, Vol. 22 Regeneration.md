@@ -24,29 +24,29 @@ Individual readalong reviews. Spoilers:
 ## Christmas Special
 ### Happy Fucking New Year
 
-![](/embeds/books/attachments/hellblazer-22-774073.png)
+![](/embeds/books/attachments/hellblazer-22-774073.jpg)
 
 Awfully rude of him not to wait until after New Year’s, what with the thievery and baby sacrifice. 
 
 ### Christmas Cards
 
-![](/embeds/books/attachments/hellblazer-22-34a85d.png)
+![](/embeds/books/attachments/hellblazer-22-34a85d.jpg)
 
 What’s more Christmas than poker?
 
 ### All I Goat For Christmas
 
-![](/embeds/books/attachments/hellblazer-22-20817b.png)
+![](/embeds/books/attachments/hellblazer-22-20817b.jpg)
 
 Constantine done poetically, via the [[wiki:Curse of the Billygoat]](). 
 
 ### The Curse of Christmas
 
-![](/embeds/books/attachments/hellblazer-22-1e0bff.png)
+![](/embeds/books/attachments/hellblazer-22-1e0bff.jpg)
 
 Work/life balance. She’ll take a look at it?
 
-![](/embeds/books/attachments/hellblazer-22-3827db.png)
+![](/embeds/books/attachments/hellblazer-22-3827db.jpg)
 
 Oh. Oh!
 
@@ -54,7 +54,7 @@ Sneaky.
 
 ### Snow Had Fallen 
 
-![](/embeds/books/attachments/hellblazer-22-016684.png)
+![](/embeds/books/attachments/hellblazer-22-016684.jpg)
 
 … well that got dark. And that’s before we get to the industrial magic. 
 
@@ -62,7 +62,7 @@ Sneaky.
 
 ## Scab
 
-![](/embeds/books/attachments/hellblazer-22-6bccfb.png)
+![](/embeds/books/attachments/hellblazer-22-6bccfb.jpg)
 
 I don’t think she believes him. 
 
@@ -72,7 +72,7 @@ That got twisted. Body horror by way of terrible scabs (both the physical and la
 
 ## Plague Doctor
 
-![](/embeds/books/attachments/hellblazer-22-179b50.png)
+![](/embeds/books/attachments/hellblazer-22-179b50.jpg)
 
 They’re perfect for each other. 
 
@@ -80,50 +80,50 @@ And then we get ghosts to prevent the Olympics, a plague doctor with a thing for
 
 ## There’s Something About Phoebe
 
-![](/embeds/books/attachments/hellblazer-22-459e04.png)
+![](/embeds/books/attachments/hellblazer-22-459e04.jpg)
 
 … what are you doing Constantine. 
 
-![](/embeds/books/attachments/hellblazer-22-714ef8.png)
+![](/embeds/books/attachments/hellblazer-22-714ef8.jpg)
 
 And she **knows**?!
 
-![](/embeds/books/attachments/hellblazer-22-b20bbc.png)
+![](/embeds/books/attachments/hellblazer-22-b20bbc.jpg)
 
 Oh, she’s good. 
 
-![](/embeds/books/attachments/hellblazer-22-71b20d.png)
+![](/embeds/books/attachments/hellblazer-22-71b20d.jpg)
 
 Well that sucks. I liked her. 
 
 Although with Constantine, who knows. 
 
-![](/embeds/books/attachments/hellblazer-22-9893a9.png)
+![](/embeds/books/attachments/hellblazer-22-9893a9.jpg)
 
 That didn’t take long. 
 
 ## The Cottage
 
-![](/embeds/books/attachments/hellblazer-22-a62b1a.png)
+![](/embeds/books/attachments/hellblazer-22-a62b1a.jpg)
 
 Oh Constantine. That’s more like you. How many more times is he going to have to try…
 
 ## The Long Crap Friday 
 
-![](/embeds/books/attachments/hellblazer-22-266d46.png)
+![](/embeds/books/attachments/hellblazer-22-266d46.jpg)
 
 At least he’s making some progress?
 
 ## The Knowledge
 
-![](/embeds/books/attachments/hellblazer-22-c277b8.png)
+![](/embeds/books/attachments/hellblazer-22-c277b8.jpg)
 
 All those streets to memorize…
 
-![](/embeds/books/attachments/hellblazer-22-3b11f7.png)
+![](/embeds/books/attachments/hellblazer-22-3b11f7.jpg)
 
 Yo, I heard you like booze. So I put booze in your booze so you can booze while you booze. 
 
-![](/embeds/books/attachments/hellblazer-22-c1cc3a.png)
+![](/embeds/books/attachments/hellblazer-22-c1cc3a.jpg)
 
 Go Chas!

@@ -20,7 +20,7 @@ series_index:
 title: "Star Wars Vol. 10: The Escape"
 ---
 
-![](/embeds/books/attachments/star-wars-2015-v10-textbundle-743363.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v10-textbundle-743363.jpg)
 
 Well...
 

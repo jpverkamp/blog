@@ -32,39 +32,39 @@ There's not really much to say at this point. If you've read this far, you're go
 
  **Chapter 96: Two Strong Women**  
 
-![FMA-24-096-1-Sloth](/embeds/books/attachments/fma-24-096-1-sloth.png)  
+![FMA-24-096-1-Sloth](/embeds/books/attachments/fma-24-096-1-sloth.jpg)  
 
 Man Sloth just keeps going...  
 
-![FMA-24-096-2-Watch-out-Izumi](/embeds/books/attachments/fma-24-096-2-watch-out-izumi.png)  
+![FMA-24-096-2-Watch-out-Izumi](/embeds/books/attachments/fma-24-096-2-watch-out-izumi.jpg)  
 
 Heh. Strongarm Alchemist Armstrong is wonderful. Watch out Izumi!  
 
-![FMA-24-096-3-A-housewife-and-an-alchemist](/embeds/books/attachments/fma-24-096-3-a-housewife-and-an-alchemist.png)  
+![FMA-24-096-3-A-housewife-and-an-alchemist](/embeds/books/attachments/fma-24-096-3-a-housewife-and-an-alchemist.jpg)  
 
 She's a housewife AND an alchemist. It's a minor plot, but I really feel it coming to a head here.  
 
-![FMA-24-096-4-Sins-make-us-human](/embeds/books/attachments/fma-24-096-4-sins-make-us-human.png)  
+![FMA-24-096-4-Sins-make-us-human](/embeds/books/attachments/fma-24-096-4-sins-make-us-human.jpg)  
 
 It's true you know. It's not only our virtues that make us human... but also the terrible things we can do and that we fight against.  
 
  **Chapter 97: The Two Philosophers**  
 
-![FMA-24-097-1-Madness](/embeds/books/attachments/fma-24-097-1-madness.png)  
+![FMA-24-097-1-Madness](/embeds/books/attachments/fma-24-097-1-madness.jpg)  
 
 ... that way lies madness. But it does explain a bit about why he seems so distance.  
 
-![FMA-24-097-2-Woman-power](/embeds/books/attachments/fma-24-097-2-woman-power.png)  
+![FMA-24-097-2-Woman-power](/embeds/books/attachments/fma-24-097-2-woman-power.jpg)  
 
 Woman power! Izumi and Major General Armstrong are pretty badass. And an interesting contrast against one another.  
 
-![FMA-24-097-2-ZU-ZU-ZU-ZU](/embeds/books/attachments/fma-24-097-2-zu-zu-zu-zu.png)  
+![FMA-24-097-2-ZU-ZU-ZU-ZU](/embeds/books/attachments/fma-24-097-2-zu-zu-zu-zu.jpg)  
 
 ZU ZU ZU... Father is bizarre. It's interesting how much it's form and Pride's look the same.  
 
 **Chapter 98: Greed Without Limits**  
 
-![FMA-24-098-1-Ab-block](/embeds/books/attachments/fma-24-098-1-ab-block.png)  
+![FMA-24-098-1-Ab-block](/embeds/books/attachments/fma-24-098-1-ab-block.jpg)  
 
 ... he blocked a sword with his abs. That is all.  
 

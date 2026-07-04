@@ -16,7 +16,7 @@ title: 'Ms. Marvel, Vol. 2: Generation Why'
 
 You know all those rumors about pet alligators flushed down the sewers?
 
-![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-34caa9.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-34caa9.jpg)
 
 Yeah, they generally fail to mention the freakin laser beams. 
 
@@ -33,17 +33,17 @@ A solid volume 2! Onward!
 
 Side notes (spoilers?):
 
-![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-1503d4.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-1503d4.jpg)
 
 That’s so delightfully weird.  
 
 Although apparently it’s the [[Old Man Logan]]() version, sans healing factor. But hey, he’s still got the tracer thing going on!
 
-![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-69506f.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-69506f.jpg)
 
 Other than that, we have…
 
-![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-e74fa9.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v2-textbundle-e74fa9.jpg)
 
 A very Matrix-esque sort of justification. Only more voluntary?
 

@@ -17,7 +17,7 @@ title: 'Wolverine: Old Man Logan, Vol. 0: Warzones!'
 ---
 A followup to [[Wolverine: Old Man Logan]]() and a quick stop in the Battleworlds that predate [[Secret Wars]](). 
 
-![](/embeds/books/attachments/old-man-logan-0-textbundle-4b18b6.png)
+![](/embeds/books/attachments/old-man-logan-0-textbundle-4b18b6.jpg)
 
 It's a fascinating bit of story, with poor 'Old Man' Logan bouncing between a world (or two) where the X-Men live, a world where anyone not in Iron man armor contracts a techno virus, and a world of the dead. 
 

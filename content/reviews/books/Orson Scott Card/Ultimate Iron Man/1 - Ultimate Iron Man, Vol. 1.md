@@ -27,19 +27,19 @@ I think there’s a reason this was later removed from the Ultimate Marvel canon
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/ultimate-iron-man-1b6cda.png)
+![](/embeds/books/attachments/ultimate-iron-man-1b6cda.jpg)
 
 He’s… blue da ba di? I’m really not sure what to think about this. The point of Iron Man is that he’s rich, brilliant, and otherwise entirely human. 
 
-![](/embeds/books/attachments/ultimate-iron-man-fde20e.png)
+![](/embeds/books/attachments/ultimate-iron-man-fde20e.jpg)
 
 It’s better because it’s so blatant about being racist?
 
-![](/embeds/books/attachments/ultimate-iron-man-3cdd1c.png)
+![](/embeds/books/attachments/ultimate-iron-man-3cdd1c.jpg)
 
 Ha. Ha. 
 
-![](/embeds/books/attachments/ultimate-iron-man-5f950f.png)
+![](/embeds/books/attachments/ultimate-iron-man-5f950f.jpg)
 
 Obadiah done cartoon villain. Cool. 
 

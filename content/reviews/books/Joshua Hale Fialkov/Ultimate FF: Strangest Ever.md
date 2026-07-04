@@ -44,42 +44,42 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-78eb6b.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-78eb6b.jpg)
 
 That’s certainly a different art style. Feels unfinished. But I kind of like it?
 
 Also, Ultimate Coulson? After all this time. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-2c0e6f.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-2c0e6f.jpg)
 
 Girl power?
 
 Mostly, it seems a weird time for a quip from someone not particularly known for one liners. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-34051a.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-34051a.jpg)
 
 She has a point. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-34eaa8.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-34eaa8.jpg)
 
 😆 Once again, not wrong. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-6efa56.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-6efa56.jpg)
 
 I like this style even less. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-39b159.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-39b159.jpg)
 
 … wat. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-01daa4.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-01daa4.jpg)
 
 Yeah okay. That’s hilarious. Tonewise, truly bizarre. But hilarious. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-3c49da.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-3c49da.jpg)
 
 A bit gross. Right. 
 
-![](/embeds/books/attachments/ultimate-ff-textbundle-217727.png)
+![](/embeds/books/attachments/ultimate-ff-textbundle-217727.jpg)
 
 … well that escalated quickly. Tonal whiplash yo. 

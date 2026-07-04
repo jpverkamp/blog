@@ -22,7 +22,7 @@ Let’s get the team together! Iron Man! Bruce Banner! Thor? Nah. The Pyms!
 
 And of course…
 
-![](/embeds/books/attachments/the-ultimates-v1-ef3bba.png)
+![](/embeds/books/attachments/the-ultimates-v1-ef3bba.jpg)
 
 Captain America!
 
@@ -40,38 +40,38 @@ I’m looking forward to seeing where else they go from here!
 
 Notes (minor spoilers):
 
-![](/embeds/books/attachments/the-ultimates-v1-a1714d.png)
+![](/embeds/books/attachments/the-ultimates-v1-a1714d.jpg)
 
 Why yes. That is Captain America attempting to stop a hydrogen bomb carrying rocket by… jumping aboard. 
 
-![](/embeds/books/attachments/the-ultimates-v1-8575c2.png)
+![](/embeds/books/attachments/the-ultimates-v1-8575c2.jpg)
 
 Banner doing the science thing. 
 
-![](/embeds/books/attachments/the-ultimates-v1-71309e.png)
+![](/embeds/books/attachments/the-ultimates-v1-71309e.jpg)
 
 The Pyms… doing the science thing. 
 
-![](/embeds/books/attachments/the-ultimates-v1-574f25.png)
+![](/embeds/books/attachments/the-ultimates-v1-574f25.jpg)
 
 Iron Man doing his own thing, showing off. Curious if it will be the healing factor Iron Man we saw a few volumes ago or if they’ve already scrapped (heh) that idea. 
 
-![](/embeds/books/attachments/the-ultimates-v1-c3a9d1.png)
+![](/embeds/books/attachments/the-ultimates-v1-c3a9d1.jpg)
 
 lol awesome. Especially when this comic came out in 2002… 6 years before the MCU Iron Man. 
 
-![](/embeds/books/attachments/the-ultimates-v1-70acdb.png)
+![](/embeds/books/attachments/the-ultimates-v1-70acdb.jpg)
 
 😆
 
-![](/embeds/books/attachments/the-ultimates-v1-fcb13a.png)
+![](/embeds/books/attachments/the-ultimates-v1-fcb13a.jpg)
 
 Not perfectly prescient after all them. Can you imagine Iron Depp? 
 
-![](/embeds/books/attachments/the-ultimates-v1-d55f5e.png)
+![](/embeds/books/attachments/the-ultimates-v1-d55f5e.jpg)
 
 … oh my. 
 
-![](/embeds/books/attachments/the-ultimates-v1-4ebaea.png)
+![](/embeds/books/attachments/the-ultimates-v1-4ebaea.jpg)
 
 Nice. 

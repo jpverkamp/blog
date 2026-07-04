@@ -22,10 +22,10 @@ Or perhaps more...
 
 Spoilers:  
 
-![AoT-25-2](/embeds/books/attachments/aot-25-2.png)  
+![AoT-25-2](/embeds/books/attachments/aot-25-2.jpg)  
 
 Well now. We sort of knew that, but can you imagine the strength of millions of Colossus Titans? That could take over the world!  
 
-![AoT-25-3](/embeds/books/attachments/aot-25-3.png)  
+![AoT-25-3](/embeds/books/attachments/aot-25-3.jpg)  
 
 They say the Survey Corps are the real strength, but that's just because they're highly trained and they've never fought anything like this before. But there are few and they're only human...

@@ -14,7 +14,7 @@ series_index:
 title: Spider-Man 2099 Classic, Vol. 2
 ---
 
-![](/embeds/books/attachments/spider-man-2099-v2-textbundle-be7453.jpeg)
+![](/embeds/books/attachments/spider-man-2099-v2-textbundle-be7453.jpg)
 
 Eugenics man? [[wiki:Lamarckism]]() Guy?
 
@@ -28,7 +28,7 @@ There’s a lot of chaos in this volume, but it’s enjoyable. I'm not a *huge* 
 
 Side note:
 
-![](/embeds/books/attachments/spider-man-2099-v2-textbundle-ce5296.jpeg)
+![](/embeds/books/attachments/spider-man-2099-v2-textbundle-ce5296.jpg)
 
 Convenient that. 
 

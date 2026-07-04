@@ -23,15 +23,15 @@ He's on the run and--eventually--starting to accept his destiny. It's interestin
 
 <!--more-->\n\n---\n
 
-![](/embeds/books/attachments/unwritten-3-fd5a6c.png)
+![](/embeds/books/attachments/unwritten-3-fd5a6c.jpg)
 
 Ooh. Sneaky wordplay and fun worldbuilding. 
 
-![](/embeds/books/attachments/unwritten-3-8d45de.png)
+![](/embeds/books/attachments/unwritten-3-8d45de.jpg)
 
 Okay, I’ll admit I didn’t see that one coming. 
 
-![](/embeds/books/attachments/unwritten-3-47a829.png)
+![](/embeds/books/attachments/unwritten-3-47a829.jpg)
 
 References!
 
@@ -39,11 +39,11 @@ Ah, this is all from the 14th “novel”. I love it!
 
 So many twists and turns! Death and betrayals!  And then:
 
-![](/embeds/books/attachments/unwritten-3-3f489e.png)
+![](/embeds/books/attachments/unwritten-3-3f489e.jpg)
 
 Now that’s a fascinating structure. 
 
-![](/embeds/books/attachments/unwritten-3-2bbf38.png)
+![](/embeds/books/attachments/unwritten-3-2bbf38.jpg)
 
 A little older than the stories. 
 

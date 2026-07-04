@@ -22,4 +22,4 @@ The strength in this is really the worldbuilding. I'm still trying to figure out
 
 <!--more-->
 
-![Attack-on-Titan-3-2](/embeds/books/attachments/attack-on-titan-3-2.png)
+![Attack-on-Titan-3-2](/embeds/books/attachments/attack-on-titan-3-2.jpg)

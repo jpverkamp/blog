@@ -26,11 +26,11 @@ Individual thoughts (spoilers):
 ## Lapdogs and Englishmen 
 That’s  what I was looking for. Great art style, interesting story. Bit of magic (ish), bits of fate. 
 
-![](/embeds/books/attachments/hellblazer-15-af100d.png)
+![](/embeds/books/attachments/hellblazer-15-af100d.jpg)
 
 Oh Constantine. It fits though. 5
 
-![](/embeds/books/attachments/hellblazer-15-012b27.png)
+![](/embeds/books/attachments/hellblazer-15-012b27.jpg)
 
 And then suddenly young punk Constantine. 
 
@@ -39,21 +39,21 @@ I’m really liking the art in this one.
 ## Highwater 
 The twisted, racist Book of Genesis? Follow up on the jail / murder storylines from last time? Goodness. 
 
-![](/embeds/books/attachments/hellblazer-15-8bfc8f.png)
+![](/embeds/books/attachments/hellblazer-15-8bfc8f.jpg)
 
 The fact that this is not an over fictionalized story… and something you hear about more and more today is terrifying. 
 
-![](/embeds/books/attachments/hellblazer-15-c49e5d.png)
+![](/embeds/books/attachments/hellblazer-15-c49e5d.jpg)
 
 So how do you fight Nazis?
 
-![](/embeds/books/attachments/hellblazer-15-ce829f.png)
+![](/embeds/books/attachments/hellblazer-15-ce829f.jpg)
 
 Neat. 
 
 ## A Fresh Coat of Red Paint
 
-![](/embeds/books/attachments/hellblazer-15-e5c0cf.png)
+![](/embeds/books/attachments/hellblazer-15-e5c0cf.jpg)
 
 Weird one. Interesting development though. Constantine is dead (again) and he didn’t even have to make a deal with the devil this time. 
 
@@ -61,7 +61,7 @@ Weird one. Interesting development though. Constantine is dead (again) and he di
 Nothing much to say. 
 
 ## Ashes & Dust in the City of Angels 
-![](/embeds/books/attachments/hellblazer-15-346c78.png)
+![](/embeds/books/attachments/hellblazer-15-346c78.jpg)
 
 Oh my. 
 

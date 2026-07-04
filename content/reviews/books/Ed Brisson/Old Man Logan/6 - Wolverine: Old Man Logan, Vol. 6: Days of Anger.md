@@ -15,7 +15,7 @@ title: 'Wolverine: Old Man Logan, Vol. 6: Days of Anger'
 ---
 Hulks! Maestro!
 
-![](/embeds/books/attachments/old-man-logan-6-textbundle-6dc07a.png)
+![](/embeds/books/attachments/old-man-logan-6-textbundle-6dc07a.jpg)
 
 Apparently in all the wacky parallel universe shenanigans, Maestro “rescued” a bunch of Hulks and brought them back to this world. 
 

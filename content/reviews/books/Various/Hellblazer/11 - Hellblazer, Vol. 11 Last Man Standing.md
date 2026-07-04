@@ -22,17 +22,17 @@ Mini-reviews (spoilers):
 ## Days of Wine and Roses
 A little bit of Constantine, a little bit of regular human terror. 
 
-![](/embeds/books/attachments/hellblazer-11-7dc859.png)
+![](/embeds/books/attachments/hellblazer-11-7dc859.jpg)
 
 ## The Wild Hunt 
 
-![](/embeds/books/attachments/hellblazer-11-0793bb.png)
+![](/embeds/books/attachments/hellblazer-11-0793bb.jpg)
 
 Oh my. 
 
 Also: Colts!
 
-![](/embeds/books/attachments/hellblazer-11-c89570.png)
+![](/embeds/books/attachments/hellblazer-11-c89570.jpg)
 
 ## Last Man Standing
 Argue and his men as ancient immortals? Merlin as a dragon? Sign me up!
@@ -41,11 +41,11 @@ Painting God as imperfect and screwed up as the rest of us is controversial to s
 
 ### Part One: a Different Kind of Tension
 
-![](/embeds/books/attachments/hellblazer-11-e0eb33.png)
+![](/embeds/books/attachments/hellblazer-11-e0eb33.jpg)
 
 Boom.  Boom. Boom. 
 
-![](/embeds/books/attachments/hellblazer-11-ee7d2c.png)
+![](/embeds/books/attachments/hellblazer-11-ee7d2c.jpg)
 
 Oh Constantine’s face. 
 
@@ -53,13 +53,13 @@ Oh Constantine’s face.
 
 But which is the actual plot?
 
-![](/embeds/books/attachments/hellblazer-11-327843.png)
+![](/embeds/books/attachments/hellblazer-11-327843.jpg)
 
 Neither! MERLIN!
 
 Constantine really does seem to get right in the middle of things. 
 
-![](/embeds/books/attachments/hellblazer-11-fb84e1.png)
+![](/embeds/books/attachments/hellblazer-11-fb84e1.jpg)
 
 Old beings fighting is a neat trope though. And it’s not angels and demons this time! (Or is it…)
 
@@ -67,13 +67,13 @@ Especially given that they were apparently there almost at Creation and the Grai
 
 ### Part Three: Human Punk
 
-![](/embeds/books/attachments/hellblazer-11-2ea94f.png)
+![](/embeds/books/attachments/hellblazer-11-2ea94f.jpg)
 
 … of course. 
 
 Which then tends to go rather sideways: 
 
-![](/embeds/books/attachments/hellblazer-11-b26050.png)
+![](/embeds/books/attachments/hellblazer-11-b26050.jpg)
 
 … so what’s in the box?
 
@@ -81,11 +81,11 @@ Oh my.
 
 ### Part Four: You’re Just a…
 
-![](/embeds/books/attachments/hellblazer-11-fa0c7c.png)
+![](/embeds/books/attachments/hellblazer-11-fa0c7c.jpg)
 
 **insert Austin Powers style head puns here**
 
-![](/embeds/books/attachments/hellblazer-11-2b55b1.png)
+![](/embeds/books/attachments/hellblazer-11-2b55b1.jpg)
 
 I love this. There’s just so much you could do with this version of Arthur. And I bet it is only a short run. Still cool. 
 
@@ -93,15 +93,15 @@ I love this. There’s just so much you could do with this version of Arthur. An
 
 A few pages of all the crazy terrible things Constantine has been through / mostly brought on himself. Oy. 
 
-![](/embeds/books/attachments/hellblazer-11-14195a.png)
+![](/embeds/books/attachments/hellblazer-11-14195a.jpg)
 
 … … … I’ve got nothing. 
 
-![](/embeds/books/attachments/hellblazer-11-e18f86.png)
+![](/embeds/books/attachments/hellblazer-11-e18f86.jpg)
 
 ## In the Red Corner
 
-![](/embeds/books/attachments/hellblazer-11-e739cf.png)
+![](/embeds/books/attachments/hellblazer-11-e739cf.jpg)
 
 That’s… saying something. Interesting. 
 
@@ -111,7 +111,7 @@ Gets much weirder before it’s done though.
 
 ### Part One
 
-![](/embeds/books/attachments/hellblazer-11-8e4878.png)
+![](/embeds/books/attachments/hellblazer-11-8e4878.jpg)
 
 He’s back! And so is ghostly trouble. 
 
@@ -119,7 +119,7 @@ He’s back! And so is ghostly trouble.
 
 … 
 
-![](/embeds/books/attachments/hellblazer-11-37c893.png)
+![](/embeds/books/attachments/hellblazer-11-37c893.jpg)
 
 That’s a jump. 
 
@@ -134,7 +134,7 @@ A short, sweet story.
 
 ## Undertow
 
-![](/embeds/books/attachments/hellblazer-11-c93965.png)
+![](/embeds/books/attachments/hellblazer-11-c93965.jpg)
 
 Oh Constantine. 
 
@@ -142,13 +142,13 @@ Sometimes, they they just can’t be saved.
 
 ## Desperately Seeking Something
 
-![](/embeds/books/attachments/hellblazer-11-8cdbb4.png)
+![](/embeds/books/attachments/hellblazer-11-8cdbb4.jpg)
 
 Who? Me?
 
 A fascinating story structure. And a nice place for a cameo too:
 
-![](/embeds/books/attachments/hellblazer-11-a4d8f5.png)
+![](/embeds/books/attachments/hellblazer-11-a4d8f5.jpg)
 
 Dead guy’s not wrong.
 

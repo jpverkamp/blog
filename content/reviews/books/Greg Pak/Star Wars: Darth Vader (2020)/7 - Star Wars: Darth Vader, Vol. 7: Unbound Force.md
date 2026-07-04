@@ -19,13 +19,13 @@ series_index:
 - 5.7
 title: 'Darth Vader, Vol. 7: Unbound Force'
 ---
-![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-bfbe5d.png)
+![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-bfbe5d.jpg)
 
 Yeah… no. 
 
 Just about stopped right there—not a huge fan of the Sabe plot line. It gets better though; until…
 
-![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-e718db.png)
+![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-e718db.jpg)
 
 The what now?
 
@@ -33,7 +33,7 @@ The what now?
 
 Star Wars is full of the most random one of a kind things. Which I suppose galaxy wide makes sense. But they keep cropping up. Speaking of…
 
-![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-e7d6d9.png)
+![](/embeds/books/attachments/darth-vader-2020-v7-textbundle-e7d6d9.jpg)
 
 I feel like they drew the picture and then had to justify it. It’s certainly a visual!
 

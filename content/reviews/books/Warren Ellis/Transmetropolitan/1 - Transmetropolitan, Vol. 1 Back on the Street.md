@@ -33,7 +33,7 @@ So let's give it a try!
 
 In a nutshell, it's a series of stories about Spider Jerusalem--a 'retired' 'journalist' who's been in a self-exposed exile in the mountains for five years only to be brought back to finish a novel deal. But to write, he needs a place to live and things to eat, and for that he needs money.  
 
-![Transmetropolitan-1-1](/embeds/books/attachments/transmetropolitan-1-1.png)  
+![Transmetropolitan-1-1](/embeds/books/attachments/transmetropolitan-1-1.jpg)  
 
 So he's back to the city--the city of the 23rd century. Chock full of corruption, ads, genetic modification, drugs, replication technology, and all manner of other weird and wonderful technology.  
 
@@ -45,31 +45,31 @@ It's coming back to me now and I'm looking forward to the reread!
 
 More pictures. Potential spoilers.  
 
-![Transmetropolitan-1-2](/embeds/books/attachments/transmetropolitan-1-2.png)  
+![Transmetropolitan-1-2](/embeds/books/attachments/transmetropolitan-1-2.jpg)  
 
 Little hints like these are wonderful worldbuilding. Auto-cannibalism memes? CATHOLIC auto-cannibalism memes?  
 
-![Transmetropolitan-1-3](/embeds/books/attachments/transmetropolitan-1-3.png)  
+![Transmetropolitan-1-3](/embeds/books/attachments/transmetropolitan-1-3.jpg)  
 
 Fuck fuck fuck etc.  
 
-![Transmetropolitan-1-4](/embeds/books/attachments/transmetropolitan-1-4.png)  
+![Transmetropolitan-1-4](/embeds/books/attachments/transmetropolitan-1-4.jpg)  
 
 Wonderful technology, all the better because it can be snarky back. Especially given...  
 
-![Transmetropolitan-1-5](/embeds/books/attachments/transmetropolitan-1-5.png)  
+![Transmetropolitan-1-5](/embeds/books/attachments/transmetropolitan-1-5.jpg)  
 
 One of the pretty cool things to find is the social commentary.  
 
-![Transmetropolitan-1-6](/embeds/books/attachments/transmetropolitan-1-6.png)  
+![Transmetropolitan-1-6](/embeds/books/attachments/transmetropolitan-1-6.jpg)  
 
 It works then and it works now/a few hundred years ago.  
 
-![Transmetropolitan-1-7](/embeds/books/attachments/transmetropolitan-1-7.png)  
+![Transmetropolitan-1-7](/embeds/books/attachments/transmetropolitan-1-7.jpg)  
 
 ... yup. He knows the President. And bumps into him in the bathroom. It gets worse.  
 
-![Transmetropolitan-1-9](/embeds/books/attachments/transmetropolitan-1-9.png)  
+![Transmetropolitan-1-9](/embeds/books/attachments/transmetropolitan-1-9.jpg)  
 
 And that... that's the terrifying bits of technology we learn a bit about.  
 

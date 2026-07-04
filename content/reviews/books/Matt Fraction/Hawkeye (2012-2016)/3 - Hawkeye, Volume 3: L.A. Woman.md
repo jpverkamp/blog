@@ -29,7 +29,7 @@ A conversation with my children:
 
 And now, a quick interluded with the _other_ Hawkeye.
 
-![](/embeds/books/attachments/hawkeye-2012-v3-391282.png)
+![](/embeds/books/attachments/hawkeye-2012-v3-391282.jpg)
 
 Broke in LA. Good times.
 
@@ -42,19 +42,19 @@ Of course she finds her own trouble. And gets herself out of it. More or less. I
 
 Other thoughts (potential spoilers):
 
-![](/embeds/books/attachments/hawkeye-2012-v3-6cff9c.png)
+![](/embeds/books/attachments/hawkeye-2012-v3-6cff9c.jpg)
 
 I expect that’s someone interesting doing the cameo thing. No idea who though. 
 
-![](/embeds/books/attachments/hawkeye-2012-v3-2c81fc.png)
+![](/embeds/books/attachments/hawkeye-2012-v3-2c81fc.jpg)
 
 Delightful. 
 
-![](/embeds/books/attachments/hawkeye-2012-v3-6399ce.png)
+![](/embeds/books/attachments/hawkeye-2012-v3-6399ce.jpg)
 
 I don’t know if I’d even be surprised at this point. 
 
-![](/embeds/books/attachments/hawkeye-2012-v3-23bd47.png)
+![](/embeds/books/attachments/hawkeye-2012-v3-23bd47.jpg)
 
 … sure. Sounds good. I do enjoy that Kate is getting the more ‘high level’ crap. It’s fun. 
 

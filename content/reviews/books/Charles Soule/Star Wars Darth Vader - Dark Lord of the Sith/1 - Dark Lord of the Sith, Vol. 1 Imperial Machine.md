@@ -31,7 +31,7 @@ Sure!
 
 Where [[Darth Vader, Vol. 1: Vader]]() took place just after A New Hope, *Darth Vader - Dark Lord of the Sith, Vol. 1: Imperial Machine* takes place earlier, after Revenge of the Sith, in the early days of the newly risen Empire.  
 
-![](/embeds/books/attachments/vader-17-1.1.png)  
+![](/embeds/books/attachments/vader-17-1.1.jpg)  
 
 Yup.  
 
@@ -43,19 +43,19 @@ Take for example a question that always seemed like poor worldbuilding to me-- w
 
 Well, perhaps:  
 
-![](/embeds/books/attachments/vader-17-1.2.png)    
+![](/embeds/books/attachments/vader-17-1.2.jpg)    
 
 Okay. It's weird, but it has potential, let's see where they go with that. So it seems that to build a Sith lightsaber, Vader needs to take an existing lightsaber crystal from a Jedi. Problem being... they just killed all of the Jedi, didn't they?  
 
-![](/embeds/books/attachments/vader-17-1.3.png)  
+![](/embeds/books/attachments/vader-17-1.3.jpg)  
 
 Nope. Of course not. Even among an order such as the Jedi, you're going to have outsiders--Jedi that wouldn't be caught dead in the halls of Coruscant-- and thus *weren't* caught dead in the halls of Coruscant.  
 
-![](/embeds/books/attachments/vader-17-1.4.png)  
+![](/embeds/books/attachments/vader-17-1.4.jpg)  
 
 Other than his lightsaber, one bit I appreciated with some backstory into Vader's armor. It's established that that the armor was the result of dark surgery needed to save Vader's life...  
 
-![](/embeds/books/attachments/vader-17-1.7.png)  
+![](/embeds/books/attachments/vader-17-1.7.jpg)  
 
 But the idea that Vader is still Anakin--brilliant mechanic on top of a powerful Jedi--and rebuilt his own armor? That really works.  
 

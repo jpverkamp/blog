@@ -41,24 +41,24 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-war-1c44f1.png)
+![](/embeds/books/attachments/ultimate-war-1c44f1.jpg)
 
 Well that’s certainly a start. 
 
-![](/embeds/books/attachments/ultimate-war-b9c978.png)
+![](/embeds/books/attachments/ultimate-war-b9c978.jpg)
 
 … why is Iron Man juicy?
 
-![](/embeds/books/attachments/ultimate-war-3f908e.png)
+![](/embeds/books/attachments/ultimate-war-3f908e.jpg)
 
 Why is the Hulk still alive and not locked away in some prison somewhere far from people in this continuity? He’s got quite the body count…
 
 I guess he at least isn’t made of it dependent on anything metallic. 
 
-![](/embeds/books/attachments/ultimate-war-ae6d6d.png)
+![](/embeds/books/attachments/ultimate-war-ae6d6d.jpg)
 
 That is awfully optimistic on Cap’s part there. 
 
-![](/embeds/books/attachments/ultimate-war-b0961f.png)
+![](/embeds/books/attachments/ultimate-war-b0961f.jpg)
 
 Oh boy. 

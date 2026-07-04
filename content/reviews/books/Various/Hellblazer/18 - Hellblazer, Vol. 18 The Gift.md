@@ -23,42 +23,42 @@ There’s a lot of crazy things going on better my here. Quiet a story… where 
 
 ## Reasons to be Cheerful
 
-![](/embeds/books/attachments/hellblazer-18-160bfb.png)
+![](/embeds/books/attachments/hellblazer-18-160bfb.jpg)
 
 Twisted. Of course this would come back sooner rather than later. 
 
-![](/embeds/books/attachments/hellblazer-18-7de297.png)
+![](/embeds/books/attachments/hellblazer-18-7de297.jpg)
 
 Wonder who they got that from…
 
 ## Cross Purpose
 
-![](/embeds/books/attachments/hellblazer-18-54f493.png)
+![](/embeds/books/attachments/hellblazer-18-54f493.jpg)
 
 New art, the fallout for Chas, and family troubles. Oh this story. 
 
 ## Down in the Ground Where the Dead Men Go
 Constantine is quite often questionable at best…
 
-![](/embeds/books/attachments/hellblazer-18-926732.png)
+![](/embeds/books/attachments/hellblazer-18-926732.jpg)
 
 And then he goes and does something like this. 
 
 Oh Constantine. 
 
-![](/embeds/books/attachments/hellblazer-18-90e901.png)
+![](/embeds/books/attachments/hellblazer-18-90e901.jpg)
 
 Ow. 
 
 ## The Gift
 
-![](/embeds/books/attachments/hellblazer-18-ca9853.png)
+![](/embeds/books/attachments/hellblazer-18-ca9853.jpg)
 
 ## R.S.V.P. 
-![](/embeds/books/attachments/hellblazer-18-884a4b.png)
+![](/embeds/books/attachments/hellblazer-18-884a4b.jpg)
 
 That’s certainly one way to do it. 
 
-![](/embeds/books/attachments/hellblazer-18-db639b.png)
+![](/embeds/books/attachments/hellblazer-18-db639b.jpg)
 
 Just tell the truth. Not like they’ll believe you.

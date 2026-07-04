@@ -36,7 +36,7 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-a59231.png)
+![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-a59231.jpg)
 
 Awesome. 
 
@@ -46,21 +46,21 @@ But a dark Hulk with the stones v got potential.
 
 And then to turn it up another notch?
 
-![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-6d149f.png)
+![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-6d149f.jpg)
 
 Reed also makes a better villain I think. 
 
-![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-720222.png)
+![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-720222.jpg)
 
 Huh. That’s an interesting point. 
 
 How do you define life to include what he’s become?
 
-![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-6ff14f.png)
+![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-6ff14f.jpg)
 
 That’s a neat trick. Poor Stark. And Anthony. Whatever he was/is. 
 
-![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-ef1ba9.png)
+![](/embeds/books/attachments/ultimate-comic-ultimates-disassembled-textbundle-ef1ba9.jpg)
 
 And now Stark is only the armor. That’s actually a fascinating concept. We’ll see how long it sticks. 
 

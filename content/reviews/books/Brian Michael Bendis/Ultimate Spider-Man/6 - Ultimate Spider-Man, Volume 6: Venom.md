@@ -35,15 +35,15 @@ Onward!
 Notes (spoilers):
 
 
-![](/embeds/books/attachments/ultimate-spider-man-v6-75df7c.png)
+![](/embeds/books/attachments/ultimate-spider-man-v6-75df7c.jpg)
 
 A reference! Just a line, but I’ll take it. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v6-47f84c.png)
+![](/embeds/books/attachments/ultimate-spider-man-v6-47f84c.jpg)
 
 😃
 
-![](/embeds/books/attachments/ultimate-spider-man-v6-609dc6.png)
+![](/embeds/books/attachments/ultimate-spider-man-v6-609dc6.jpg)
 
 A good rule. In comics, even if you **do** see the body…
 
@@ -51,7 +51,7 @@ So long as it’s not Uncle Ben at least. He (apparently) **stays** dead.
 
 Wonder if that’s still true. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v6-4c8936.png)
+![](/embeds/books/attachments/ultimate-spider-man-v6-4c8936.jpg)
 
 … that seems young for Fury. Perhaps I have Samuel Jackson in my head… and perhaps he’s the head of S.H.I.E.L.D. in his 30s?
 

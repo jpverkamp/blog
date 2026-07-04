@@ -37,28 +37,28 @@ Notes. Spoilers.
 
 The Punisher. 
 
-![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-7d42a0.png)
+![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-7d42a0.jpg)
 
 As …
 
-![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-7d2bc4.png)
+![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-7d2bc4.jpg)
 
 Where do they find these people. 
 
 Other than that, another Hulk. Ish. 
 
-![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-574b17.png)
+![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-574b17.jpg)
 
 And ‘The Spider’. 
 
-![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-9643c4.png)
+![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-9643c4.jpg)
 
 So how do you kill whatever Ghost Rider is?
 
-![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-8754db.png)
+![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-8754db.jpg)
 
 Well, I wouldn’t try fire…
 
-![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-03c164.png)
+![](/embeds/books/attachments/ultimate-avengers-v2-textbundle-03c164.jpg)
 
 See?

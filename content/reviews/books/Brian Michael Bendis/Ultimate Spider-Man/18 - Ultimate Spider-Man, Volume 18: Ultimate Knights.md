@@ -17,7 +17,7 @@ title: 'Ultimate Spider-Man, Volume 18: Ultimate Knights'
 ---
 So what have are today?
 
-![](/embeds/books/attachments/ultimate-spider-man-v18-555ad9.png)
+![](/embeds/books/attachments/ultimate-spider-man-v18-555ad9.jpg)
 
 New friends!
 
@@ -31,7 +31,7 @@ Oh, and also Peter and May finally have… the Talk.
 
 No. Not that one. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v18-84f624.png)
+![](/embeds/books/attachments/ultimate-spider-man-v18-84f624.jpg)
 
 That one. 
 
@@ -45,20 +45,20 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v18-0abde9.png)
+![](/embeds/books/attachments/ultimate-spider-man-v18-0abde9.jpg)
 
 Soooo awkward. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v18-fa7f43.png)
+![](/embeds/books/attachments/ultimate-spider-man-v18-fa7f43.jpg)
 
 
 Really now. Interesting. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v18-1d5007.png)
+![](/embeds/books/attachments/ultimate-spider-man-v18-1d5007.jpg)
 
 Magic! And Daredevil can’t see a bit of it. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v18-069efc.png)
+![](/embeds/books/attachments/ultimate-spider-man-v18-069efc.jpg)
 
 Miles…?
 

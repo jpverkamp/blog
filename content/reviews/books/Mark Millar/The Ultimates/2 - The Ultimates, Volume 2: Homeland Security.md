@@ -39,40 +39,40 @@ Also: The fact that in this continuity, Thor is thought  crazy is thoroughly amu
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/the-ultimates-v2-7efd25.png)
+![](/embeds/books/attachments/the-ultimates-v2-7efd25.jpg)
 
 So he’s a creep and has always been. An interesting topic to dig into. I’m worried it’s going to get swept under the rug somehow. 
 
-![](/embeds/books/attachments/the-ultimates-v2-492073.png)
+![](/embeds/books/attachments/the-ultimates-v2-492073.jpg)
 
 Hawkeye and Black Widow to join the party! They don’t make much sense as Avengers/Ultimates, but S.H.I.E.L.D. Agents? Certainly.
 
 The punk rock look worth hoop earrings is certainly a choice. 
 
-![](/embeds/books/attachments/the-ultimates-v2-03c5ad.png)
+![](/embeds/books/attachments/the-ultimates-v2-03c5ad.jpg)
 
 11, and the Chitauri made Hitler. That’s an interesting choice. 
 
-![](/embeds/books/attachments/the-ultimates-v2-d10266.png)
+![](/embeds/books/attachments/the-ultimates-v2-d10266.jpg)
 
 Wouldn’t be normal without a few hero on hero* fights. At least this time they’ve so far avoided areas prone to civilians?
 
-![](/embeds/books/attachments/the-ultimates-v2-22caf5.png)
+![](/embeds/books/attachments/the-ultimates-v2-22caf5.jpg)
 
 Lol. The conspiracy theories were right…
 
-![](/embeds/books/attachments/the-ultimates-v2-829044.png)
+![](/embeds/books/attachments/the-ultimates-v2-829044.jpg)
 
 Thor gets all the coolest scenes. 
 
-![](/embeds/books/attachments/the-ultimates-v2-038a3e.png)
+![](/embeds/books/attachments/the-ultimates-v2-038a3e.jpg)
 
 Captain America. Cold blooded murder (of an alien combatant) and lying (to save the day). He got up to speed with modern America pretty well I think. 
 
-![](/embeds/books/attachments/the-ultimates-v2-748fb0.png)
+![](/embeds/books/attachments/the-ultimates-v2-748fb0.jpg)
 
 It is interesting what has changed in 20 years. Captain America may be / have been frozen in the 40s… but Banner and the authors are still a product of the 90s / early 2000s. 
 
-![](/embeds/books/attachments/the-ultimates-v2-ebd9b3.png)
+![](/embeds/books/attachments/the-ultimates-v2-ebd9b3.jpg)
 
 … that’s hilarious. And probably practical. 

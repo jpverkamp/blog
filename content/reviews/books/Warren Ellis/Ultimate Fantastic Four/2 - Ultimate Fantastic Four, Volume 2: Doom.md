@@ -15,7 +15,7 @@ series_index:
 - 28
 title: 'Ultimate Fantastic Four, Volume 2: Doom'
 ---
-![](/embeds/books/attachments/ultimate-fantastic-four-v2-1a24d4.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v2-1a24d4.jpg)
 
 That’s really it in a nutshell. Van Damme is back with changes of his own. 
 
@@ -34,11 +34,11 @@ Onward!
 
 Notes. Minor spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v2-85c6f4.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v2-85c6f4.jpg)
 
 Many worlds theory. So they got lucky they survived the transformation at all?
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v2-4c1d7f.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v2-4c1d7f.jpg)
 
 I love how they’re just leaning into it. 
 

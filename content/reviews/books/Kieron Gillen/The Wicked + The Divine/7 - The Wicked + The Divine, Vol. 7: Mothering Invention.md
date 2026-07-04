@@ -18,7 +18,7 @@ series_index:
 - 7
 title: 'The Wicked + The Divine, Vol. 7: Mothering Invention'
 ---
-![](/embeds/books/attachments/wicked-divine-7-51846e.png)
+![](/embeds/books/attachments/wicked-divine-7-51846e.jpg)
 
 But really… it’s just that kind of story. 
 
@@ -31,29 +31,29 @@ Onward!
 ---
 
 
-![](/embeds/books/attachments/wicked-divine-7-306971.png)
+![](/embeds/books/attachments/wicked-divine-7-306971.jpg)
 
 … wonderful. 
 
-![](/embeds/books/attachments/wicked-divine-7-233995.png)
+![](/embeds/books/attachments/wicked-divine-7-233995.jpg)
 
 …
 
-![](/embeds/books/attachments/wicked-divine-7-82603c.png)
+![](/embeds/books/attachments/wicked-divine-7-82603c.jpg)
 
 …
 
-![](/embeds/books/attachments/wicked-divine-7-979821.png)
+![](/embeds/books/attachments/wicked-divine-7-979821.jpg)
 
 …
 
-![](/embeds/books/attachments/wicked-divine-7-a2efae.png)
+![](/embeds/books/attachments/wicked-divine-7-a2efae.jpg)
 
 All of them. 6000 years, 90 at a time. 
 
 Quite a spread. 
 
-![](/embeds/books/attachments/wicked-divine-7-d84a38.png)
+![](/embeds/books/attachments/wicked-divine-7-d84a38.jpg)
 
 An {{<spoiler>}}abortion clinic{{</spoiler>}}. I … didn’t see that one coming. 
 

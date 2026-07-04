@@ -18,7 +18,7 @@ title: 'Dead Man Logan, Vol. 1: Sins of the Father'
 
 And so he has an expiration date:
 
-![](/embeds/books/attachments/dead-man-logan-1-textbundle-1f9c64.png)
+![](/embeds/books/attachments/dead-man-logan-1-textbundle-1f9c64.jpg)
 
 I feel like it’s been a long time coming. He either has to figure out some way to heal… or move on from this world that isn’t even his in the first place. 
 
@@ -30,7 +30,7 @@ I feel like it’s been a long time coming. He either has to figure out some way
 
 So of course he decides (again) to get revenge for the baddies from another world for things they haven’t done yet. 
 
-![](/embeds/books/attachments/dead-man-logan-1-textbundle-63407f.png)
+![](/embeds/books/attachments/dead-man-logan-1-textbundle-63407f.jpg)
 
 This of course goes well. 
 

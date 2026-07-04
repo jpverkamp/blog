@@ -22,12 +22,12 @@ The story is hurtling towards and ending. It's fascinating and oh so weird.
 
 Pictures (spoilers):  
 
-![AoT-28-1](/embeds/books/attachments/aot-28-1.png)  
+![AoT-28-1](/embeds/books/attachments/aot-28-1.jpg)  
 
 I think I had the exact same reaction as those last two panels.  
 
-![AoT-28-2](/embeds/books/attachments/aot-28-2.png)  
+![AoT-28-2](/embeds/books/attachments/aot-28-2.jpg)  
 
 That's... creepy as heck. And he probably could have been a little more gentle about that, but he's kind of ... broken. Continued:  
 
-![AoT-28-3](/embeds/books/attachments/aot-28-3.png)
+![AoT-28-3](/embeds/books/attachments/aot-28-3.jpg)

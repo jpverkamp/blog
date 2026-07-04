@@ -31,15 +31,15 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v8-194596.png)
+![](/embeds/books/attachments/ultimate-spider-man-v8-194596.jpg)
 
 … huh. All right then. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v8-d22e52.png)
+![](/embeds/books/attachments/ultimate-spider-man-v8-d22e52.jpg)
 
 I don’t usually include entire pages… but the dialog here. Kingpin is dead serious. I’m sure Spider-Man gets that. So the snark is a defense mechanism… but how does he **actually** deal with this?
 
-![](/embeds/books/attachments/ultimate-spider-man-v8-685b59.png)
+![](/embeds/books/attachments/ultimate-spider-man-v8-685b59.jpg)
 
 … oh boy. 
 
@@ -47,13 +47,13 @@ I really have no words.
 
 How does an outfit like that even work?
 
-![](/embeds/books/attachments/ultimate-spider-man-v8-face46.png)
+![](/embeds/books/attachments/ultimate-spider-man-v8-face46.jpg)
 
 Elektra is back! And on the side of the angels looks like… (get it? Because Daredevil is a good guy?)
 
 And this at least, while still being a bit (more than a bit) over sexualized at least looks slightly more physically possible. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v8-3bd081.png)
+![](/embeds/books/attachments/ultimate-spider-man-v8-3bd081.jpg)
 
 I was vaguely thinking Gwen, but she took off her mask and Spider-Man didn’t recognize her. 
 

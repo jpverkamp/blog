@@ -18,7 +18,7 @@ series_index: [8]
 ---
 A Tavern at the World's End. Travellers from all manner of realities, thrown together. Stories around the fire.  
 
-![Sandman-8-01](/embeds/books/attachments/sandman-8-01.png)  
+![Sandman-8-01](/embeds/books/attachments/sandman-8-01.jpg)  
 
 <!--more-->
 
@@ -30,33 +30,33 @@ Well worth the read.
 
 Pretty pictures and spoilers:  
 
-![Sandman-8-02](/embeds/books/attachments/sandman-8-02.png)  
+![Sandman-8-02](/embeds/books/attachments/sandman-8-02.jpg)  
 
 A certain soul to everything, not just single things, not even just living things. It's one of the ways I wish I could believe the real world worked. It's fascinating to me.  
 
 I don't think I've ever really considered a city's dreams before though.  
 
-![Sandman-8-03](/embeds/books/attachments/sandman-8-03.png)  
+![Sandman-8-03](/embeds/books/attachments/sandman-8-03.jpg)  
 
 And one day... they'll awaken.  
 
-![Sandman-8-04](/embeds/books/attachments/sandman-8-04.png)  
+![Sandman-8-04](/embeds/books/attachments/sandman-8-04.jpg)  
 
 Oh the fae folk. We've seen him before, but he's still an interesting enough secondary character.  
 
-![Sandman-8-05](/embeds/books/attachments/sandman-8-05.png)  
+![Sandman-8-05](/embeds/books/attachments/sandman-8-05.jpg)  
 
 A truely enchanted apple, given as a gift that no one seems to want. An interesting core of what could be yet another fascinating story. There are a lot of those in here.  
 
-![Sandman-8-06](/embeds/books/attachments/sandman-8-06.png)  
+![Sandman-8-06](/embeds/books/attachments/sandman-8-06.jpg)  
 
 This story, away from the rest, was greatly amusing. Hinting at a bigger universe in just a strange enough way. And picking on the presidency, which I always appreciate.  
 
-![Sandman-8-07](/embeds/books/attachments/sandman-8-07.png)  
+![Sandman-8-07](/embeds/books/attachments/sandman-8-07.jpg)  
 
 There are a lot of these ways of dividing the world that, while too simple and imperfect, make a lot of sense. I think we all have a bit of teh hedgehog and the fox in us. But me, I'm more of a fox I believe.  
 
-![Sandman-8-08](/embeds/books/attachments/sandman-8-08.png)  
+![Sandman-8-08](/embeds/books/attachments/sandman-8-08.jpg)  
 
 It made me at least think differently about politics. Even the worst of them are still politicians, so just go and live your life and that's enough for now.  
 

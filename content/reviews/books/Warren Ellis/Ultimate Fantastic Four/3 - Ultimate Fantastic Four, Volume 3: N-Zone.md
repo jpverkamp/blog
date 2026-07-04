@@ -18,13 +18,13 @@ title: 'Ultimate Fantastic Four, Volume 3: N-Zone'
 
 Very important things are happening!
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v3-5883a0.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v3-5883a0.jpg)
 
 They’re coming up with names?
 
 But more seriously, it’s time to go back to the N-zone. And just maybe, find some answers. Or perhaps…
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v3-1b0b25.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v3-1b0b25.jpg)
 
 New “allies”?
 

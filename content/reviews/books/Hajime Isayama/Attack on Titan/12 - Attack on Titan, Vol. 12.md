@@ -26,24 +26,24 @@ Anyways.
 
 More girlfriend troubles:  
 
-![AoT-12-1](/embeds/books/attachments/aot-12-1.png)  
+![AoT-12-1](/embeds/books/attachments/aot-12-1.jpg)  
 
 But really... priorities yo.  
 
-![AoT-12-2](/embeds/books/attachments/aot-12-2.png)  
+![AoT-12-2](/embeds/books/attachments/aot-12-2.jpg)  
 
 Stuck as a Titan for 60 years if I read that correctly? Of course she's a little ... off. That is not something I expected though.  
 
-![AoT-12-3](/embeds/books/attachments/aot-12-3.png)  
+![AoT-12-3](/embeds/books/attachments/aot-12-3.jpg)  
 
 Wait. What. You can steal the Titan power? Is that what happened to Eren? Who are 'their people'?  
 
-![AoT-12-4](/embeds/books/attachments/aot-12-4.png)  
+![AoT-12-4](/embeds/books/attachments/aot-12-4.jpg)  
 
 DRAMATIC!  
 
 And finally to cap it off, an awesome new battle tactic. Of course the bigger ones can toss the little ones.  
 
-![AoT-12-5](/embeds/books/attachments/aot-12-5.png)  
+![AoT-12-5](/embeds/books/attachments/aot-12-5.jpg)  
 
 Oy. Just oy.

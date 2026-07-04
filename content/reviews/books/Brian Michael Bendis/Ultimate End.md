@@ -29,15 +29,15 @@ All you need to know is that this is the ... Ultimate End.
 
 Minor spoilers:
 
-![](/embeds/books/attachments/ultimate-end-textbundle-0a3967.png)
+![](/embeds/books/attachments/ultimate-end-textbundle-0a3967.jpg)
 
-![](/embeds/books/attachments/ultimate-end-textbundle-a97289.png)
+![](/embeds/books/attachments/ultimate-end-textbundle-a97289.jpg)
 
-![](/embeds/books/attachments/ultimate-end-textbundle-527c4a.png)
+![](/embeds/books/attachments/ultimate-end-textbundle-527c4a.jpg)
 
 …
 
-![](/embeds/books/attachments/ultimate-end-textbundle-6ca861.png)
+![](/embeds/books/attachments/ultimate-end-textbundle-6ca861.jpg)
 
 It's kind of crazy that out of all the billions on Earth and who knows how untold many others around the universe... only Miles Morales (and I assume his friends and family) survived. 
 

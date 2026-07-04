@@ -29,18 +29,18 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v16-4a1c96.png)
+![](/embeds/books/attachments/ultimate-spider-man-v16-4a1c96.jpg)
 
 
 😆 They’re cute. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v16-077198.png)
+![](/embeds/books/attachments/ultimate-spider-man-v16-077198.jpg)
 
 Mask vs Mask! And now we get to see what Ultimate Deadpool has going on…
 
 Ew. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v16-a1440b.png)
+![](/embeds/books/attachments/ultimate-spider-man-v16-a1440b.jpg)
 
 Costumes all torn… strategically. 
 
@@ -49,7 +49,7 @@ Costumes all torn… strategically.
 Edit: Apparently Morbius is part of this volume? 
 
 
-![](/embeds/books/attachments/ultimate-spider-man-morbius-textbundle-a2e5c7.png)
+![](/embeds/books/attachments/ultimate-spider-man-morbius-textbundle-a2e5c7.jpg)
 
 And then he Morbed all over. Or something like that?
 

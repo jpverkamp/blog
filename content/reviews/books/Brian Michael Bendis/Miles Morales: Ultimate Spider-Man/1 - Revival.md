@@ -41,6 +41,6 @@ Onward.
 
 Side note:
 
-![](/embeds/books/attachments/miles-morales-1-textbundle-d66254.png)
+![](/embeds/books/attachments/miles-morales-1-textbundle-d66254.jpg)
 
 Is funny because it’s true. :)

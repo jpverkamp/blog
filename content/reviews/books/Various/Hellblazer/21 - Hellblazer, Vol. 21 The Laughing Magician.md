@@ -25,16 +25,16 @@ Also: Tell me there’s a series about Johanna Constantine. That’s quite the s
 
 ## The Passage
 
-![](/embeds/books/attachments/hellblazer-21-98b683.png)
+![](/embeds/books/attachments/hellblazer-21-98b683.jpg)
 
 Oh my. Constantine? But laughing?
 ## The Laughing Magician
 
-![](/embeds/books/attachments/hellblazer-21-cbb9cf.png)
+![](/embeds/books/attachments/hellblazer-21-cbb9cf.jpg)
 
 Sounds pretty Constantine. 
 
-![](/embeds/books/attachments/hellblazer-21-cd02a3.png)
+![](/embeds/books/attachments/hellblazer-21-cd02a3.jpg)
 
 That’s been a while…
 
@@ -42,15 +42,15 @@ Another enemy left behind.
 
 ## The Mortification of the Flesh
 
-![](/embeds/books/attachments/hellblazer-21-cf6ea9.png)
+![](/embeds/books/attachments/hellblazer-21-cf6ea9.jpg)
 
 Mysterious ways…
 
-![](/embeds/books/attachments/hellblazer-21-fca135.png)
+![](/embeds/books/attachments/hellblazer-21-fca135.jpg)
 
 Is that true?
 
-![](/embeds/books/attachments/hellblazer-21-a0d380.png)
+![](/embeds/books/attachments/hellblazer-21-a0d380.jpg)
 
 Now that’s a cool bit of world building. 
 
@@ -58,38 +58,38 @@ And then one twist… and another. I’m intrigued!
 
 ## Newcastle Calling 
 
-![](/embeds/books/attachments/hellblazer-21-9ce841.png)
+![](/embeds/books/attachments/hellblazer-21-9ce841.jpg)
 
 Back to Newcastle. Oh my. 
 
 ## The Roots of Coincidence
 
-![](/embeds/books/attachments/hellblazer-21-9b2228.png)
+![](/embeds/books/attachments/hellblazer-21-9b2228.jpg)
 
 Heeeeeeee’s baaaaaaaack. 
 
-![](/embeds/books/attachments/hellblazer-21-8b6dba.png)
+![](/embeds/books/attachments/hellblazer-21-8b6dba.jpg)
 
 … is he using Hell to dump nuclear waste. That definitely falls into the brilliant/terrible idea category. 
 
-![](/embeds/books/attachments/hellblazer-21-e14c8a.png)
+![](/embeds/books/attachments/hellblazer-21-e14c8a.jpg)
 
 An awful lot of those about… and not just in this story. 
 
-![](/embeds/books/attachments/hellblazer-21-ddc292.png)
+![](/embeds/books/attachments/hellblazer-21-ddc292.jpg)
 
 Here we go again?
 
 ## Hell Hath no Fury
 
-![](/embeds/books/attachments/hellblazer-21-454556.png)
+![](/embeds/books/attachments/hellblazer-21-454556.jpg)
 
 History! Magic! Miss/Lady Constantine!
 
-![](/embeds/books/attachments/hellblazer-21-27bbc3.png)
+![](/embeds/books/attachments/hellblazer-21-27bbc3.jpg)
 
 I never considered that might go back further in the family history… fascinating. 
 
-![](/embeds/books/attachments/hellblazer-21-332237.png)
+![](/embeds/books/attachments/hellblazer-21-332237.jpg)
 
 Of course it’s **that** box.

@@ -22,47 +22,47 @@ An interesting collection. Constantine in India, looking for purity. Punk and th
 Spoilers:
 
 ## India 
-![](/embeds/books/attachments/hellblazer-23-5aa29a.png)
+![](/embeds/books/attachments/hellblazer-23-5aa29a.jpg)
 
 Constantine, trying to find purity in India. This will go well. 
 
-![](/embeds/books/attachments/hellblazer-23-bd499f.png)
+![](/embeds/books/attachments/hellblazer-23-bd499f.jpg)
 
 At least he has some help!
 
 ## No Future
 
-![](/embeds/books/attachments/hellblazer-23-621e3a.png)
+![](/embeds/books/attachments/hellblazer-23-621e3a.jpg)
 
 The spirit of punk? Sure!
 
-![](/embeds/books/attachments/hellblazer-23-4a83ea.png)
+![](/embeds/books/attachments/hellblazer-23-4a83ea.jpg)
 
 Politics.
 
 ## Pandemonium
 
-![](/embeds/books/attachments/hellblazer-23-8cea31.png)
+![](/embeds/books/attachments/hellblazer-23-8cea31.jpg)
 
 Haven’t we been down this road before? Bast? Been a while…
 
-![](/embeds/books/attachments/hellblazer-23-fdf90c.png)
+![](/embeds/books/attachments/hellblazer-23-fdf90c.jpg)
 
 That’s… an option. 
 
-![](/embeds/books/attachments/hellblazer-23-0c768a.png)
+![](/embeds/books/attachments/hellblazer-23-0c768a.jpg)
 
 Close?
 
-![](/embeds/books/attachments/hellblazer-23-c724e1.png)
+![](/embeds/books/attachments/hellblazer-23-c724e1.jpg)
 
 Ah. There we are. 
 
-![](/embeds/books/attachments/hellblazer-23-b323d6.png)
+![](/embeds/books/attachments/hellblazer-23-b323d6.jpg)
 
 Such a bargain!
 
-![](/embeds/books/attachments/hellblazer-23-3165bb.png)
+![](/embeds/books/attachments/hellblazer-23-3165bb.jpg)
 
 They’re not entirely wrong. Bit late to figure that out now though. 
 
@@ -70,14 +70,14 @@ They’re not entirely wrong. Bit late to figure that out now though.
 
 Another face we haven’t seen in a long time…
 
-![](/embeds/books/attachments/hellblazer-23-7db470.png)
+![](/embeds/books/attachments/hellblazer-23-7db470.jpg)
 
 Ah. I thought I remembered something like that. 
 
-![](/embeds/books/attachments/hellblazer-23-6f476a.png)
+![](/embeds/books/attachments/hellblazer-23-6f476a.jpg)
 
 Origin story: powering up montage!
 
-![](/embeds/books/attachments/hellblazer-23-1aa961.png)
+![](/embeds/books/attachments/hellblazer-23-1aa961.jpg)
 
 Oh. Oh my.

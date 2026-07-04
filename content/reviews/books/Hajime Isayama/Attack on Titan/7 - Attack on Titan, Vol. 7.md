@@ -22,7 +22,7 @@ This time around, we're still out of the city, dealing with the Female Titan. Th
 
 <!--more-->
 
-![Attack-on-Titan-7-1](/embeds/books/attachments/attack-on-titan-7-1.png)  
+![Attack-on-Titan-7-1](/embeds/books/attachments/attack-on-titan-7-1.jpg)  
 
 Which in hindsight makes a lot of sense, what else changed? The other option they're not mentioning is that they (whoever they are) have some way to detect the transformation or view at a distance.  
 
@@ -32,7 +32,7 @@ Onward!
 
 A few random things I was amused about:  
 
-![Attack-on-Titan-7-2](/embeds/books/attachments/attack-on-titan-7-2.png)  
+![Attack-on-Titan-7-2](/embeds/books/attachments/attack-on-titan-7-2.jpg)  
 
 They don't translate all of the original Japanese when it's an onomatopoeia. That's hilarious to me for some reason; especially the combination of both.  
 
@@ -40,4 +40,4 @@ AAAAAAAAAA.
 
 Also, sometimes, translations are just *weird*:  
 
-![Attack-on-Titan-7-3](/embeds/books/attachments/attack-on-titan-7-3.png)
+![Attack-on-Titan-7-3](/embeds/books/attachments/attack-on-titan-7-3.jpg)

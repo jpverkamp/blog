@@ -22,7 +22,7 @@ Of course, after causing so much trouble, they have to be on the run:
 
 <!--more-->
 
-![Serenity-4-1](/embeds/books/attachments/serenity-4-1.png)  
+![Serenity-4-1](/embeds/books/attachments/serenity-4-1.jpg)  
 
 For now.  
 
@@ -30,22 +30,22 @@ And that's not all! We get:
 
 Baby!  
 
-![Serenity-4-2](/embeds/books/attachments/serenity-4-2.png)  
+![Serenity-4-2](/embeds/books/attachments/serenity-4-2.jpg)  
 
 Jubal!  
 
-![Serenity-4-3](/embeds/books/attachments/serenity-4-3.png)  
+![Serenity-4-3](/embeds/books/attachments/serenity-4-3.jpg)  
 
 Zoe captured!  
 
-![Serenity-4-5](/embeds/books/attachments/serenity-4-5.png)  
+![Serenity-4-5](/embeds/books/attachments/serenity-4-5.jpg)  
 
 More Rivers! (Oh my)  
 
-![Serenity-4-6](/embeds/books/attachments/serenity-4-6.png)  
+![Serenity-4-6](/embeds/books/attachments/serenity-4-6.jpg)  
 
 And a few wonderful lines (I'm not sure why this story was last):  
 
-![Serenity-4-7](/embeds/books/attachments/serenity-4-7.png)  
+![Serenity-4-7](/embeds/books/attachments/serenity-4-7.jpg)  
 
 It's a wonderful story and well worth the read.

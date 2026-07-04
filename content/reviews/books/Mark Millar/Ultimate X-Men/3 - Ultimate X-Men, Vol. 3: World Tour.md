@@ -36,52 +36,52 @@ On the other hand, these plots really could use some more time to breath. In the
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/ultimate-x-men-v3-d5dbe7.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-d5dbe7.jpg)
 
 Gambit! Or at least Gambit’s accent. Hard to read. 
 
 Aw. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-cdad69.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-cdad69.jpg)
 
 
 On one hand, is that actually better than killing him? On the other … you know he’s going to figure out how to break that at some point. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-e0b6a5.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-e0b6a5.jpg)
 
 … just how young **are** those two?
 
-![](/embeds/books/attachments/ultimate-x-men-v3-e3c0f0.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-e3c0f0.jpg)
 
 Legion!
 
 Legion?
 
-![](/embeds/books/attachments/ultimate-x-men-v3-e8e0ba.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-e8e0ba.jpg)
 
 … oooooh my. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-fc5261.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-fc5261.jpg)
 
 And then new art style! Oh boy. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-c13d99.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-c13d99.jpg)
 
 He did kind of leave himself open for that one. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-0876f4.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-0876f4.jpg)
 
 Oooh boy. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-634cdf.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-634cdf.jpg)
 
 Yes. I’m sure he does. And because he does it for the ‘right reasons’ and doesn’t kill anybody, he’s the good guy. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-1b1689.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-1b1689.jpg)
 
 It continues. 
 
-![](/embeds/books/attachments/ultimate-x-men-v3-8284e4.png)
+![](/embeds/books/attachments/ultimate-x-men-v3-8284e4.jpg)
 
 Is that actually better? I do wonder if this time will have changed him at all. I expect not. 
 

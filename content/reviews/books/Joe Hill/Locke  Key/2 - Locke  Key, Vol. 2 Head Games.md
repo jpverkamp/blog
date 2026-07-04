@@ -16,7 +16,7 @@ series_index: [2]
 ---
 Okay last time around, we were introduced to Keyhose, to the Well (and the creepy denizen thereof). Nice and creepy. But of course, this time around, we have to go a few levels further...  
 
-![](/embeds/books/attachments/locke-and-key-2.1.png)  
+![](/embeds/books/attachments/locke-and-key-2.1.jpg)  
 
 <!--more-->
 
@@ -24,6 +24,6 @@ Yup. It's the Head Key. It ... openes your head. And so very much more, but we'l
 
 Just in time too, since there is far more building around Zach/Luke than we even thought last time around. He's cozying up to the Locke's something fierce... and it's terrifying. They've already been through so much.  
 
-![](/embeds/books/attachments/locke-and-key-2.3.png)  
+![](/embeds/books/attachments/locke-and-key-2.3.jpg)  
 
 So much history! So many questions!

@@ -21,13 +21,13 @@ title: 'Darth Vader, Vol. 5: The Shadow''s Shadow'
 ---
 Sabe!
 
-![](/embeds/books/attachments/darth-vader-2020-v5-textbundle-1f9451.png)
+![](/embeds/books/attachments/darth-vader-2020-v5-textbundle-1f9451.jpg)
 
 It seems the Handmaidens freed a number of former slaves from Tattooine. Including some familiar very minor characters from episode 1. 
 
 A great way to… blackmail Vader into doing a good thing?
 
-![](/embeds/books/attachments/darth-vader-2020-v5-textbundle-f081b2.png)
+![](/embeds/books/attachments/darth-vader-2020-v5-textbundle-f081b2.jpg)
 
 For all Vader touts order over chaos… he certainly does have a flair for shaking things up. 
 

@@ -19,7 +19,7 @@ title: 'Ultimate Comics: X-Men, by Brian Wood, Volume 3'
 ---
 Two mutant homelands, Tian and Utopia. Well, apparently you can’t have that…
 
-![](/embeds/books/attachments/ultimate-comics-x-men-wood-3-textbundle-5d58e0.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-wood-3-textbundle-5d58e0.jpg)
 
 Jean has never been the most stable personality, at last not in the Ultimate Universe. And… I get it. So much power, so young. And yet… she keeps causing more issues again and again. Oy. 
 
@@ -39,6 +39,6 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-x-men-wood-3-textbundle-33d642.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-wood-3-textbundle-33d642.jpg)
 
 I’ve got to agree. What exactly does Colossus being to the table? 

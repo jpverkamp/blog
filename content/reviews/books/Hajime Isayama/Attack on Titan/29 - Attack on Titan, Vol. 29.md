@@ -24,22 +24,22 @@ Going to push through to finish this, since it's been such a long time reading. 
 
 Favorite/most interesting scenes/spoilers:  
 
-![AoT-29-1](/embeds/books/attachments/aot-29-1.png)  
+![AoT-29-1](/embeds/books/attachments/aot-29-1.jpg)  
 
 Political betrayal! The arm bands always seemed a bit odd to me. People are going to lie.  
 
-![AoT-29-2](/embeds/books/attachments/aot-29-2.png)  
+![AoT-29-2](/embeds/books/attachments/aot-29-2.jpg)  
 
 No idea how much of this is happening or hallucination. That's always the problems with fantasy worlds--especially those with unreliable narrators. It could all very well be a dream... but I don't think so?  
 
-![AoT-29-3](/embeds/books/attachments/aot-29-3.png)  
+![AoT-29-3](/embeds/books/attachments/aot-29-3.jpg)  
 
 You know, I really don't disagree with this. Eren always felt like the hero of the story... but it's getting more and more questionable. We'll just have to see how it turns out.  
 
-![AoT-29-4](/embeds/books/attachments/aot-29-4.png)  
+![AoT-29-4](/embeds/books/attachments/aot-29-4.jpg)  
 
 Airdropped Titans. Because of course that's a thing.  
 
-![AoT-29-5](/embeds/books/attachments/aot-29-5.png)  
+![AoT-29-5](/embeds/books/attachments/aot-29-5.jpg)  
 
 What... is with that face?

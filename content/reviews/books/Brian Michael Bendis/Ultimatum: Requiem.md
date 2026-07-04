@@ -28,13 +28,13 @@ title: 'Ultimatum: Requiem'
 
 ## Spider-Man
 
-![](/embeds/books/attachments/ultimatum-requiem-fb5acd.png)
+![](/embeds/books/attachments/ultimatum-requiem-fb5acd.jpg)
 
 ## Fantastic Four
 
-![](/embeds/books/attachments/ultimatum-requiem-0e57f3.png)
+![](/embeds/books/attachments/ultimatum-requiem-0e57f3.jpg)
 
 ## X-Men
 
-![](/embeds/books/attachments/ultimatum-requiem-615047.png)
+![](/embeds/books/attachments/ultimatum-requiem-615047.jpg)
 

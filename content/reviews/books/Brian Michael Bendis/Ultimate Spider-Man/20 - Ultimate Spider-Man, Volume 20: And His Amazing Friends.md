@@ -33,27 +33,27 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-778bd5.png)
+![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-778bd5.jpg)
 
 This twist is unexpectedly wholesome. I wish good things for them. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-c6dcef.png)
+![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-c6dcef.jpg)
 
 Internal monologue!
 
-![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-f603c8.png)
+![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-f603c8.jpg)
 
 A day on the beach!
 
-![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-867fe0.png)
+![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-867fe0.jpg)
 
 Yeah that’s a delightful reveal. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-d666a2.png)
+![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-d666a2.jpg)
 
 😆
 
-![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-e7e9b3.png)
+![](/embeds/books/attachments/ultimate-spider-man-v20-textbundle-e7e9b3.jpg)
 
 {{<youtube 66cxc9emQgY>}}
 

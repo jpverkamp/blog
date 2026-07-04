@@ -31,29 +31,29 @@ Well worth a read, especially after the build up.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-547ab0.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-547ab0.jpg)
 
 Oy. 
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-68b93c.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-68b93c.jpg)
 
 Oy. 
 
 This Captain America never really adjusted to the shift to modern life. It makes sense and interesting to read. But oy. 
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-60b371.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-60b371.jpg)
 
 Holy oy…
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-e81086.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-e81086.jpg)
 
 Oy oy that escalated quickly. 
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-1d1730.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-1d1730.jpg)
 
 Pride goeth before the fall. 
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-eb16d1.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-eb16d1.jpg)
 
 So Pym and Widow? Oy. 
 
@@ -61,5 +61,5 @@ Also Ultron.
 
 And if that wasn’t enough…
 
-![](/embeds/books/attachments/ultimates-2-2-textbundle-3b3cef.png)
+![](/embeds/books/attachments/ultimates-2-2-textbundle-3b3cef.jpg)
 

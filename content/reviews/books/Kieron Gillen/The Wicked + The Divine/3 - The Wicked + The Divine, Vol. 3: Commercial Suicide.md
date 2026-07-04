@@ -33,14 +33,14 @@ We do get some neat backstory and introductions though!
 
 Tara, heard of her but haven’t seen her:
 
-![](/embeds/books/attachments/wicked-divine-3-4367b8.png)
+![](/embeds/books/attachments/wicked-divine-3-4367b8.jpg)
 
 More Morrigan, plus the how and the why of Bahphomet:
 
-![](/embeds/books/attachments/wicked-divine-3-086410.png)
+![](/embeds/books/attachments/wicked-divine-3-086410.jpg)
 
 And Sakhmet. Oh Sakhmet. 
 
-![](/embeds/books/attachments/wicked-divine-3-cf6037.png)
+![](/embeds/books/attachments/wicked-divine-3-cf6037.jpg)
 
 

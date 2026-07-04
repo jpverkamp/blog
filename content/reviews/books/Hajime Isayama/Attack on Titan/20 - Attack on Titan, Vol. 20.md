@@ -24,18 +24,18 @@ Might just work. Crazy place to stop.
 
 Spoilers:  
 
-![AoT-20-1](/embeds/books/attachments/aot-20-1.png)  
+![AoT-20-1](/embeds/books/attachments/aot-20-1.jpg)  
 
 More crazy simple drawing. This time with Colossus Titan.  
 
-![AoT-20-2](/embeds/books/attachments/aot-20-2.png)  
+![AoT-20-2](/embeds/books/attachments/aot-20-2.jpg)  
 
 BEING HUGE. PRETTY GOOD AT THAT.  
 
-![AoT-20-3](/embeds/books/attachments/aot-20-3.png)  
+![AoT-20-3](/embeds/books/attachments/aot-20-3.jpg)  
 
 Well. Yeah. But not everyone is died by Beast Titan thrown shrapnel.  
 
-![AoT-20-4](/embeds/books/attachments/aot-20-4.png)  
+![AoT-20-4](/embeds/books/attachments/aot-20-4.jpg)  
 
 I wonder how it's talking.

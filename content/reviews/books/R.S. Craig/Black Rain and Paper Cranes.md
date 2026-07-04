@@ -24,7 +24,7 @@ Historically, it's a fascinating and terrible story. So many brilliant scientist
 
 From a technical perspective, the first couple of chapters go surprisingly deep into the physics behind the atomic bombs. It's tonally a bit strange, since the technical aspects are effectively a talking dove explaining physics to a ten year old boy (like I said, I'll come back to that), but if you take it just as a quick primer? It works. The various diagrams are a nice touch. 
 
-![](/embeds/books/attachments/black-rain-and-paper-cranes-057507.png)
+![](/embeds/books/attachments/black-rain-and-paper-cranes-057507.jpg)
 
 And now, the dove-shaped elephant in the room: Fritz. The entire book is told roughly from his point of view, as he meets up with just about all the aforementioned characters and explains things to/argues with them. He's met with Einstein and explained relatively to Einstein's little sister (as we're reminded several times, it's another book in the series), he's flown across the Atlantic with Lindbergh (also another book), inspired the Christmas Truce during World War I, and talked to various world leaders multiple times. Everyone reacts with disbelief at first--a talking dove!--but then quickly gets over it and moves on with the story. We even get a 'who's going to believe you' anyways in text. So it goes. 
 

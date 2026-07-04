@@ -24,31 +24,31 @@ Onward!
 
 ## Thoughts as I read (spoilers)
 
-![](/embeds/books/attachments/unwritten-7-abd825.png)
+![](/embeds/books/attachments/unwritten-7-abd825.jpg)
 
 Unlikely allies?
 
-![](/embeds/books/attachments/unwritten-7-e3e184.png)
+![](/embeds/books/attachments/unwritten-7-e3e184.jpg)
 
 A magic sword or two...
 
-![](/embeds/books/attachments/unwritten-7-97d81e.png)
+![](/embeds/books/attachments/unwritten-7-97d81e.jpg)
 
 If it was mentioned that *The Unwritten* is in universe, I totally missed it. But also... not at all surprised. 
 
-![](/embeds/books/attachments/unwritten-7-e0ea58.png)
+![](/embeds/books/attachments/unwritten-7-e0ea58.jpg)
 
 The rules for what exactly is going on... are a mite fuzzy, no? I can't imagine being one of the people in the story...
 
-![](/embeds/books/attachments/unwritten-7-0f5608.png)
+![](/embeds/books/attachments/unwritten-7-0f5608.jpg)
 
 Lol. 
 
-![](/embeds/books/attachments/unwritten-7-7dfd3d.png)
+![](/embeds/books/attachments/unwritten-7-7dfd3d.jpg)
 
 Certainly an interesting analogy. 
 
-![](/embeds/books/attachments/unwritten-7-cb15ba.png)
+![](/embeds/books/attachments/unwritten-7-cb15ba.jpg)
 
 Sneaky. I like it. 
 

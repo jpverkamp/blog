@@ -28,15 +28,15 @@ Onwards and upwards!
 
 ## Thoughts as I read (spoilers)
 
-![](/embeds/books/attachments/unwritten-4-a02e85.png)
+![](/embeds/books/attachments/unwritten-4-a02e85.jpg)
 
 A good place to get back into things.
 
-![](/embeds/books/attachments/unwritten-4-714208.png)
+![](/embeds/books/attachments/unwritten-4-714208.jpg)
 
 Oh my.
 
-![](/embeds/books/attachments/unwritten-4-7c2a6e.png)
+![](/embeds/books/attachments/unwritten-4-7c2a6e.jpg)
 
 Cute. Expected.
 
@@ -50,4 +50,4 @@ Yer off the end of the map now Tommy. Here thar be monsters.
 
 And so it ends, but not before a quick venture to a twisted fairy tale and an old friend*…
 
-![](/embeds/books/attachments/unwritten-4-bcc911.png)
+![](/embeds/books/attachments/unwritten-4-bcc911.jpg)

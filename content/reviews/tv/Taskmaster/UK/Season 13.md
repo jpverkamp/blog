@@ -38,11 +38,11 @@ That's a weird prize task to start with.
 
 The first task (duck!)... near the ceiling. They're not all that tall Alex!
 
-![](/embeds/books/attachments/taskmaster-13-586a35.png)
+![](/embeds/books/attachments/taskmaster-13-586a35.jpg)
 
 Duck!
 
-![](/embeds/books/attachments/taskmaster-13-1105c5.png)
+![](/embeds/books/attachments/taskmaster-13-1105c5.jpg)
 
 DUCK!
 
@@ -50,11 +50,11 @@ Second tasks, of course no context necessary:
 
 > Woodpeckers must be hard as f***. 
 
-![](/embeds/books/attachments/taskmaster-13-4456bf.png)
+![](/embeds/books/attachments/taskmaster-13-4456bf.jpg)
 
 Third task... a duel!
 
-![](/embeds/books/attachments/taskmaster-13-233306.png)
+![](/embeds/books/attachments/taskmaster-13-233306.jpg)
 
 More or less. 
 
@@ -68,7 +68,7 @@ Impressing aliens with... weird paintings. Rubic's cube. And a mirror--with an a
 
 Blind folded spinning? 
 
-![](/embeds/books/attachments/taskmaster-13-f2ce91.png)
+![](/embeds/books/attachments/taskmaster-13-f2ce91.jpg)
 
 Always a good time. 
 
@@ -90,13 +90,13 @@ Bubbles.
 
 STOP COCK. 
 
-![](/embeds/books/attachments/taskmaster-13-b082aa.jpeg)
+![](/embeds/books/attachments/taskmaster-13-b082aa.jpg)
 
 Pheasant plucker. 
 
 Anyways. 
 
-![](/embeds/books/attachments/taskmaster-13-44cefa.jpeg)
+![](/embeds/books/attachments/taskmaster-13-44cefa.jpg)
 
 Delightful chaos. 
 
@@ -106,11 +106,11 @@ Delightful chaos.
 
 It’s truly something to see Alex actually get irritated. 
 
-![](/embeds/books/attachments/taskmaster-13-fe7beb.jpeg)
+![](/embeds/books/attachments/taskmaster-13-fe7beb.jpg)
 
 I liked ‘Guess Shoe’ personally. 
 
-![](/embeds/books/attachments/taskmaster-13-2534c2.jpeg)
+![](/embeds/books/attachments/taskmaster-13-2534c2.jpg)
 
 Meow. 
 
@@ -120,11 +120,11 @@ Two part tasks, especially when you’re inadvertently making life difficult for
 
 Direct competitions… for third place? Even better. 
 
-![](/embeds/books/attachments/taskmaster-13-cf582f.jpeg)
+![](/embeds/books/attachments/taskmaster-13-cf582f.jpg)
 
 > If I’d got here quicker then I’d probably done all right in this task. 
 
-![](/embeds/books/attachments/taskmaster-13-fab960.jpeg)
+![](/embeds/books/attachments/taskmaster-13-fab960.jpg)
 
 And so it ends…
 
@@ -132,7 +132,7 @@ And so it ends…
 
 ## 6. *The 75th Question*
 
-![](/embeds/books/attachments/taskmaster-13-daac99.jpeg)
+![](/embeds/books/attachments/taskmaster-13-daac99.jpg)
 
 Oh Bridget. 
 
@@ -142,17 +142,17 @@ Also,
 
 Savage. 
 
-![](/embeds/books/attachments/taskmaster-13-d510f6.jpeg)
+![](/embeds/books/attachments/taskmaster-13-d510f6.jpg)
 
 There are just so many Greg doing weird things for perfectly reasonable reasons this episode. 
 
 ## 7. *Heg*
 
-![](/embeds/books/attachments/taskmaster-13-9628c4.jpeg)
+![](/embeds/books/attachments/taskmaster-13-9628c4.jpg)
 
 It’s going to be that sort of episode then. 
 
-![](/embeds/books/attachments/taskmaster-13-59aa29.jpeg)
+![](/embeds/books/attachments/taskmaster-13-59aa29.jpg)
 
 But the best part? Make a 150g edible arrangement. And then for part 2…. Oh they should have seen that coming. 
 
@@ -162,13 +162,13 @@ And yet…
 
 > Greg: If I place your tofu ballerina above a vagina, I’m finished. 
 
-![](/embeds/books/attachments/taskmaster-13-ca781b.jpeg)
+![](/embeds/books/attachments/taskmaster-13-ca781b.jpg)
 
 ## 8. *You Tuper Super*
 
 The return of Fred the Swede. 
 
-![](/embeds/books/attachments/taskmaster-13-27ff7e.jpeg)
+![](/embeds/books/attachments/taskmaster-13-27ff7e.jpg)
 
 > As it turned out, I could speak Swedish all along. 
 
@@ -178,7 +178,7 @@ I think… Alex might actually regret the tongue task…
 
 > Alex: I don’t like it. 
 
-![](/embeds/books/attachments/taskmaster-13-9e3c4a.jpeg)
+![](/embeds/books/attachments/taskmaster-13-9e3c4a.jpg)
 
 > Judi: I was surprised how much I looked like a damn fish. 
 
@@ -186,7 +186,7 @@ It gets weirder.
 
 > Greg: I wasn’t expecting you to use an actual human baby. 
 
-![](/embeds/books/attachments/taskmaster-13-47be73.jpeg)
+![](/embeds/books/attachments/taskmaster-13-47be73.jpg)
 
 And I quote:
 
@@ -203,11 +203,11 @@ No. You get no context.
 
 😃
 
-![](/embeds/books/attachments/taskmaster-13-b8507a.jpeg)
+![](/embeds/books/attachments/taskmaster-13-b8507a.jpg)
 
 (Not context)
 
-![](/embeds/books/attachments/taskmaster-13-693726.jpeg)
+![](/embeds/books/attachments/taskmaster-13-693726.jpg)
 
 >Chris: You’re a psychopath. 
 
@@ -215,7 +215,7 @@ Sometimes, Bridget just screws around. And sometimes… she’s brilliant. Also 
 
 But the real standout?
 
-![](/embeds/books/attachments/taskmaster-13-1b35c3.jpeg)
+![](/embeds/books/attachments/taskmaster-13-1b35c3.jpg)
 
 > Judi: The ducks felt some motherly instincts. They wanted to be nursed in these breasts. 
 
@@ -223,10 +223,10 @@ Delightful.
 
 Singing: The boys going on about some aubergine task that only they had to do. And then the women… 
 
-![](/embeds/books/attachments/taskmaster-13-fabcaf.jpeg)
+![](/embeds/books/attachments/taskmaster-13-fabcaf.jpg)
 
 That was surprisingly good. 
 
 Side note: Sophie’s earrings are delightful. 
 
-![](/embeds/books/attachments/taskmaster-13-f79821.jpeg)
+![](/embeds/books/attachments/taskmaster-13-f79821.jpg)

@@ -22,15 +22,15 @@ Particular thoughts as I was reading (spoilers):
 
 ## Issue #1
 
-![](/embeds/books/attachments/stargate-universe-ab16a9.png)
+![](/embeds/books/attachments/stargate-universe-ab16a9.jpg)
 
 And so ends Season 2. The characters don’t look much like themselves. 
 
-![](/embeds/books/attachments/stargate-universe-6e47d5.png)
+![](/embeds/books/attachments/stargate-universe-6e47d5.jpg)
 
 I feel like the Ancients could have figured that out. Maybe they didn’t need to?
 
-![](/embeds/books/attachments/stargate-universe-e1a4bd.png)
+![](/embeds/books/attachments/stargate-universe-e1a4bd.jpg)
 
 A comics clip show?
 
@@ -40,7 +40,7 @@ That’s why I read by volume…
 
 ## Issue #2
 
-![](/embeds/books/attachments/stargate-universe-462c48.png)
+![](/embeds/books/attachments/stargate-universe-462c48.jpg)
 
 That’s amusing. 
 
@@ -48,21 +48,21 @@ Seems like a military rescue is a poor choice.
 
 ## Issue #3
 
-![](/embeds/books/attachments/stargate-universe-ba21db.png)
+![](/embeds/books/attachments/stargate-universe-ba21db.jpg)
 
 That’s a neat solution. 
 
-![](/embeds/books/attachments/stargate-universe-6b968b.png)
+![](/embeds/books/attachments/stargate-universe-6b968b.jpg)
 
 Miraculously opening up new areas of the ship (with help). Would have been an interesting Season 3. 
 
-![](/embeds/books/attachments/stargate-universe-cd99e9.png)
+![](/embeds/books/attachments/stargate-universe-cd99e9.jpg)
 
 Nice! How did they miss that…
 
 ## Issue #4
 
-![](/embeds/books/attachments/stargate-universe-6e6855.png)
+![](/embeds/books/attachments/stargate-universe-6e6855.jpg)
 
 Logically. 
 
@@ -70,20 +70,20 @@ Having a non-ascended Ancient around for any length of time could be a fascinati
 
 ## Issue #5
 
-![](/embeds/books/attachments/stargate-universe-367b75.png)
+![](/embeds/books/attachments/stargate-universe-367b75.jpg)
 
 … right. 
 
-![](/embeds/books/attachments/stargate-universe-e16550.png)
+![](/embeds/books/attachments/stargate-universe-e16550.jpg)
 
 Wouldn’t make for much of a story, now would it?
 
-![](/embeds/books/attachments/stargate-universe-391610.png)
+![](/embeds/books/attachments/stargate-universe-391610.jpg)
 
 Now that’s a trick. 
 
 ## Issue #6 
 
-![](/embeds/books/attachments/stargate-universe-177b5a.png)
+![](/embeds/books/attachments/stargate-universe-177b5a.jpg)
 
 Pew pew. Saved!

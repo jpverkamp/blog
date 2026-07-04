@@ -24,10 +24,10 @@ It's really interesting going back to the time of the Revolutionary War and the 
 
 It's touching:  
 
-![](/embeds/books/attachments/locke-and-key-5.1.png)
+![](/embeds/books/attachments/locke-and-key-5.1.jpg)
 
 It's horrifying:  
 
-![](/embeds/books/attachments/locke-and-key-5.2.png)
+![](/embeds/books/attachments/locke-and-key-5.2.jpg)
 
 Not to mention downright Lovecraftian. With the town name we all know it was coming... but it's fascinating to see it confirmed.

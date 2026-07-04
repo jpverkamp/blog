@@ -31,10 +31,10 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v17-textbundle-4ec64d.png)
+![](/embeds/books/attachments/ultimate-spider-man-v17-textbundle-4ec64d.jpg)
 
 See. That’s the fun, awkward sort of genius Reed Richards I like. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v17-textbundle-4497a3.png)
+![](/embeds/books/attachments/ultimate-spider-man-v17-textbundle-4497a3.jpg)
 
 Not sure it really fits… but it does make him more terrifying. 

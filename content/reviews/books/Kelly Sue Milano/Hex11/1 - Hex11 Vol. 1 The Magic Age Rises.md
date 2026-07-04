@@ -20,21 +20,21 @@ It's not a particularly new story, but it's an enjoyable enough framework. And t
 
 <!--more-->
 
-![Hex11-Vol-1-1](/embeds/books/attachments/hex11-vol-1-1.png)  
+![Hex11-Vol-1-1](/embeds/books/attachments/hex11-vol-1-1.jpg)  
 
 All that being said, what really stands out for this story (and what I love about it so far) is the art. This is a story very much made to be a graphic novel. Just _look at_ that magic:  
 
-![Hex11-Vol-1-2](/embeds/books/attachments/hex11-vol-1-2.png)  
+![Hex11-Vol-1-2](/embeds/books/attachments/hex11-vol-1-2.jpg)  
 
 It's magic and technology all wedded together in an aboslutely wonderful way. Another example, this gun:  
 
-![Hex11-Vol-1-3](/embeds/books/attachments/hex11-vol-1-3.png)  
+![Hex11-Vol-1-3](/embeds/books/attachments/hex11-vol-1-3.jpg)  
 
 I have absolutely no idea what's special about that gun or what the magic on it does, but I don't have to. It's a gun and it's magical and it _looks awesome_.  
 
 Not to mention the idea that magic is akin to programming/hacking reality?  
 
-![Hex11-Vol-1-4](/embeds/books/attachments/hex11-vol-1-4.png)  
+![Hex11-Vol-1-4](/embeds/books/attachments/hex11-vol-1-4.jpg)  
 
 Yeah. This book is right up my alley.  
 

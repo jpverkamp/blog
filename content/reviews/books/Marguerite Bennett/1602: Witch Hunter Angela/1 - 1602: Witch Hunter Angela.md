@@ -35,15 +35,15 @@ Onward!
 
 Thoughts. Spoilers. 
 
-![](/embeds/books/attachments/marvel-1602-witch-hunter-angela-289384.png)
+![](/embeds/books/attachments/marvel-1602-witch-hunter-angela-289384.jpg)
 
 What in the worlds is going on…
 
-![](/embeds/books/attachments/marvel-1602-witch-hunter-angela-fe09e3.png)
+![](/embeds/books/attachments/marvel-1602-witch-hunter-angela-fe09e3.jpg)
 
 Wrinkles and changes. Rather different. 
 
-![](/embeds/books/attachments/marvel-1602-witch-hunter-angela-1c7627.png)
+![](/embeds/books/attachments/marvel-1602-witch-hunter-angela-1c7627.jpg)
 
 … the Guardians. Oh my. 
 

@@ -29,7 +29,7 @@ Isn’t it great?
 ---
 
 
-![](/embeds/books/attachments/all-new-x-men-3-f4d960.png)
+![](/embeds/books/attachments/all-new-x-men-3-f4d960.jpg)
 
 lol. With great power and all that. 
 

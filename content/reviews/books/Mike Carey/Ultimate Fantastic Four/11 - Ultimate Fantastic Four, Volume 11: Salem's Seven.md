@@ -34,7 +34,7 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v11-textbundle-87bb4b.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v11-textbundle-87bb4b.jpg)
 
 Calling it. 
 
@@ -42,13 +42,13 @@ Calling it.
 
 :wink:
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v11-textbundle-698362.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v11-textbundle-698362.jpg)
 
 Weird. Cool. 
 
 It took me a minute to connect that to the Seven. Not exactly subtle, but I still missed it. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v11-textbundle-68a39d.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v11-textbundle-68a39d.jpg)
 
 😆
 

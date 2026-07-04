@@ -17,7 +17,7 @@ Old Man Logan is in the past… but it’s not his past.
 
 Fearing what could come, he goes to the one place be feels he can do the most good: to guard his future wife?
 
-![](/embeds/books/attachments/old-man-logan-2-textbundle-fba77f.png)
+![](/embeds/books/attachments/old-man-logan-2-textbundle-fba77f.jpg)
 
 Yeah… I’m not sure what else he thought might happen. 
 

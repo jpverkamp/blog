@@ -41,30 +41,30 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/world-according-to-peter-parker-a5a752.png)
+![](/embeds/books/attachments/world-according-to-peter-parker-a5a752.jpg)
 
 That’s… pretty much exactly how I expected that’s to go. 
 
 Although the defenestrative yeet immediately thereafter … that was fun. And yes. I said yeet. 
 
-![](/embeds/books/attachments/world-according-to-peter-parker-0478a5.png)
+![](/embeds/books/attachments/world-according-to-peter-parker-0478a5.jpg)
 
 Half or so of those survived though, no? Although I suppose he might not know that. 
 
-![](/embeds/books/attachments/world-according-to-peter-parker-c13fbc.png)
+![](/embeds/books/attachments/world-according-to-peter-parker-c13fbc.jpg)
 
 That’s fun. 😆
 
-![](/embeds/books/attachments/world-according-to-peter-parker-1c0d12.png)
+![](/embeds/books/attachments/world-according-to-peter-parker-1c0d12.jpg)
 
 Oh my. 
 
 The art style is certainly different but I think it’s growing on me. 
 
-![](/embeds/books/attachments/world-according-to-peter-parker-2f6500.png)
+![](/embeds/books/attachments/world-according-to-peter-parker-2f6500.jpg)
 
 Lol. Oh Peter. 
 
-![](/embeds/books/attachments/world-according-to-peter-parker-741d0b.png)
+![](/embeds/books/attachments/world-according-to-peter-parker-741d0b.jpg)
 
 Keeps getting funnier. This has potential. 

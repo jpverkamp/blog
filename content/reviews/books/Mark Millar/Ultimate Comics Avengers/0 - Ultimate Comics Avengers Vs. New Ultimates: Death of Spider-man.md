@@ -19,7 +19,7 @@ title: 'Ultimate Comics Avengers Vs. New Ultimates: Death of Spider-man'
 ---
 Danvers and the Ultimates vs Fury and the Avengers. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-ac3741.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-ac3741.jpg)
 
 Man that’s a mess. 
 
@@ -35,35 +35,35 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-d228e6.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-d228e6.jpg)
 
 I get that this Fury is BlackOps to the extreme. But oy. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-6180c1.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-6180c1.jpg)
 
 Official retcon go! It was all a TV show. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-cf0de9.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-cf0de9.jpg)
 
 … yeah I didn’t make the connection to **this** being where the shot came from. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-ac091d.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-ac091d.jpg)
 
 Well that’s an in universe way to change it. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-20d643.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-20d643.jpg)
 
 I did sort of expect it from that interview he gave. But it’s still a sensible plot line. What next?
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-0cec30.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-0cec30.jpg)
 
 Oh that’s **sneaky**. And you can Hulk without any real side effects? That’s risky. Wonder if we’ll see more of that? Like all the Giant Men in this universe. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-b8a348.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-b8a348.jpg)
 
 He **almost** gets it. 
 
-![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-42cda2.png)
+![](/embeds/books/attachments/ultimate-avengers-v-ultimates-textbundle-42cda2.jpg)
 
 I don’t think we ever established the “worthy” clause. Still surprising. 
 

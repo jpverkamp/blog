@@ -33,43 +33,43 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-f91441.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-f91441.jpg)
 
 Huh. All right.
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-4d92dc.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-4d92dc.jpg)
 
 “School”
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-d5655a.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-d5655a.jpg)
 
 Critters!
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-162cec.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-162cec.jpg)
 
 … half: cheerful. Half: again?
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-07189c.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-07189c.jpg)
 
 That’s a fun take on it. 
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-a1ea2b.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-a1ea2b.jpg)
 
 Modern Zola is interesting. I expect even the ones I don’t recognize are Ultimate versions of various heroes? (And villains)
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-9fb972.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-9fb972.jpg)
 
 Not **entirely** wrong. 
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-395e5f.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-395e5f.jpg)
 
 😆
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-327448.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-327448.jpg)
 
 Thor is back?
 
-![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-6946e4.png)
+![](/embeds/books/attachments/ultimate-comics-doomsday-textbundle-6946e4.jpg)
 
 That escalated quickly. 
 

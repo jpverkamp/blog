@@ -17,17 +17,17 @@ title: 'Spider-Gwen, Vol. 5: Gwenom'
 ---
 And do we have Gwenom. Great name. Interesting new power set. Less interaction with the symbiote than you get sometimes.
 
-![](/embeds/books/attachments/spider-gwen-2015-v5-textbundle-b0c691.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v5-textbundle-b0c691.jpg)
 
 … if that Venom Wolverine? That’s a terrifying idea. 
 
 Anyways, Gwenom. Great name, going to be a terrible idea for her. But she’s sort of stuck without many good ones…
 
-![](/embeds/books/attachments/spider-gwen-2015-v5-textbundle-ba9ca6.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v5-textbundle-ba9ca6.jpg)
 
 Yeah. It’s dark. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v5-textbundle-310d3e.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v5-textbundle-310d3e.jpg)
 
 And weird. 
 

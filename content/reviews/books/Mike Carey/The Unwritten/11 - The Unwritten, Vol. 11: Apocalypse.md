@@ -24,11 +24,11 @@ And of course, for the biggest story: the Grail (and the other stories based on 
 
 And... the End. 
 
-![](/embeds/books/attachments/unwritten-11-6820cf.png)
+![](/embeds/books/attachments/unwritten-11-6820cf.jpg)
 
 Ish. 
 
-![](/embeds/books/attachments/unwritten-11-8fd281.png)
+![](/embeds/books/attachments/unwritten-11-8fd281.jpg)
 
 It's a weird conclusion to a weird story. Fitting that way. 
 
@@ -38,11 +38,11 @@ Worth the read.
 
 ## A few more thoughts/cool scenes (spoilers)
 
-![](/embeds/books/attachments/unwritten-11-9c9f25.png)
+![](/embeds/books/attachments/unwritten-11-9c9f25.jpg)
 
 One of those prototypical items throughout time. 
 
-![](/embeds/books/attachments/unwritten-11-02094e.png)
+![](/embeds/books/attachments/unwritten-11-02094e.jpg)
 
 That's a fascinating (and kind of weird) style. 
 

@@ -46,7 +46,7 @@ And of course:
 
 And to
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-79a28a.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-79a28a.jpg)
 
 > I’ve never seen gameplay like that… in 15 series. 
 
@@ -62,11 +62,11 @@ Delightful.
 
 > For some reason, people in the Middle Ages couldn't paint cats. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-b10936.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-b10936.jpg)
 
 The first task with air trumpet/drums/cello/etc though? New favorite of the series!
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-66a913.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-66a913.jpg)
 
 With Greg giving out three 5s and two 4s...
 
@@ -76,7 +76,7 @@ I believe he agrees...
 
 Anyways. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-53a689.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-53a689.jpg)
 
 Potato. 
 
@@ -98,14 +98,14 @@ Also, Mae Martin's beavering joke! 😄
 
 Speaking of heroic:
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-582a03.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-582a03.jpg)
 
 > Alex: So did anything you planned with?
 > Ivo: No. No. Because it's f... so stupid. 
 
 ## 4. *How Heavy is the Water?*
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-52a4ca.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-52a4ca.jpg)
 
 Right. 
 
@@ -119,17 +119,17 @@ And then. Boats!
 
 > Jenny: You know these... the foamy tit cups. They'll act as a bouncy aid. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-a7372e.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-a7372e.jpg)
 
 >Greg: I dunno; I'm thinking it still counts. I'm going to give him the five. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-fe62c0.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-fe62c0.jpg)
 
 > I just said that to have a look at Kiell's face. 
 
 And then there is Ivo's:
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-163534.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-163534.jpg)
 
 And it ends on... a most remarkable tie. 
 
@@ -137,33 +137,33 @@ Oh this show.
 
 ## 5. *Old Honkfoot*
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-e83a44.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-e83a44.jpg)
 
 Wat. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-04748e.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-04748e.jpg)
 
 Of course. 
 
 A wonderful team task:
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-757473.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-757473.jpg)
 
 I ... don't know if they ever realized he couldn't see. 
 
 And a final team task:
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-c3fedf.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-c3fedf.jpg)
 
 Delightful chaos. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-d7b1ab.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-d7b1ab.jpg)
 
 All the better with a 15 point spread over two tasks...
 
 ## 6. *It's My Milk Now*
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-bdee78.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-bdee78.jpg)
 
 I Spy. 
 
@@ -181,31 +181,31 @@ You will absolutely never guess who 'she' is.
 
 Anyways. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-59a5a0.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-59a5a0.jpg)
 
 > Alex: I mean. I don't think I've ever seen anyone peel an egg this badly. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-1d4f40.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-1d4f40.jpg)
 
 That... is the most green. But it's not a red green. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-21e8f4.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-21e8f4.jpg)
 
 So close. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-0c6335.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-0c6335.jpg)
 
 ## 7. *Schrodinger's Egg*￼
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-e5333d.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-e5333d.jpg)
 
 Yes. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-b37886.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-b37886.jpg)
 
 Like an escape room!
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-475438.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-475438.jpg)
 
 He knew. 
 
@@ -217,23 +217,23 @@ Oh he's delightful.
 
 > Jenny: Come on big boy. 
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-3439ce.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-3439ce.jpg)
 
 What is a pineapple, after all?
 
 Or a banana?
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-ec8cba.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-ec8cba.jpg)
 
 This season does have quite a few team final tasks:
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-1249e3.png)
+![](/embeds/books/attachments/taskmaster-15-textbundle-1249e3.jpg)
 
 ## 9. *A Show About Pedantry*
 
 > Ivo: And that’s my face.
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-fe6c08.png)
+![](/embeds/books/attachments/taskmaster-15-textbundle-fe6c08.jpg)
 
 A whole task where if you look at or talk to Alex… you lose. 
 
@@ -241,13 +241,13 @@ Oh this show.
 
 ## 10. *A Yardstick for Failure*
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-df1863.png)
+![](/embeds/books/attachments/taskmaster-15-textbundle-df1863.jpg)
 
 That is a wonderful get up for a finale. 
 
 And now there are two of them:
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-fba63a.png)
+![](/embeds/books/attachments/taskmaster-15-textbundle-fba63a.jpg)
 
 That’s quite the high bar for the first prize task entry for the finale. 
 
@@ -255,14 +255,14 @@ It just keeps escalating.
 
 And then... chess?
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-947e10.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-947e10.jpg)
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-96e8ad.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-96e8ad.jpg)
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-7cca0a.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-7cca0a.jpg)
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-8a99b8.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-8a99b8.jpg)
 
-![](/embeds/books/attachments/taskmaster-15-textbundle-95f562.jpeg)
+![](/embeds/books/attachments/taskmaster-15-textbundle-95f562.jpg)
 
 Fin. 

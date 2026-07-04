@@ -14,7 +14,7 @@ series_index:
 title: 'Wolverine: Old Man Logan, Vol. 8: To Kill For'
 ---
 
-![](/embeds/books/attachments/old-man-logan-8-textbundle-093e2f.png)
+![](/embeds/books/attachments/old-man-logan-8-textbundle-093e2f.jpg)
 
 First half: Kingpin has gone all respectable! On the surface. Again. 
 
@@ -34,12 +34,12 @@ Cute. But also nothing special.
 
 Side note:
 
-![](/embeds/books/attachments/old-man-logan-8-textbundle-3a42b4.png)
+![](/embeds/books/attachments/old-man-logan-8-textbundle-3a42b4.jpg)
 
 That’s a scene that was made for video. 
 
 Also:
 
-![](/embeds/books/attachments/old-man-logan-8-textbundle-e17d76.png)
+![](/embeds/books/attachments/old-man-logan-8-textbundle-e17d76.jpg)
 
 … when did the mutants end up in Central Park. That’s a neat trick. 

@@ -19,7 +19,7 @@ title: Secret Wars
 ---
 So I picked up Secret Wars as a sort of conclusion to the Ultimate Universe. Without having read basically any of the leading material in the main Earth-616 lineup. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-07da17.png)
+![](/embeds/books/attachments/secret-wars-textbundle-07da17.jpg)
 
 So... it's a bit weird and confusing what's going on. 
 
@@ -43,47 +43,47 @@ Onward!
 
 Notes as I read. Spoilers. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-9c21a6.png)
+![](/embeds/books/attachments/secret-wars-textbundle-9c21a6.jpg)
 
 No. No you can not. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-11bfca.png)
+![](/embeds/books/attachments/secret-wars-textbundle-11bfca.jpg)
 
 I should go read more Guardians. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-a264eb.png)
+![](/embeds/books/attachments/secret-wars-textbundle-a264eb.jpg)
 
 Spider-Man! He remembers! Maybe he can fill in the blanks for me. 😃
 
-![](/embeds/books/attachments/secret-wars-textbundle-7913d5.png)
+![](/embeds/books/attachments/secret-wars-textbundle-7913d5.jpg)
 
 “The Man in the Sun”. Delightful. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-616d39.png)
+![](/embeds/books/attachments/secret-wars-textbundle-616d39.jpg)
 
 More Heroes! From 616 this time! Things are coming together! Or falling apart. Or both!
 
-![](/embeds/books/attachments/secret-wars-textbundle-d2bf68.png)
+![](/embeds/books/attachments/secret-wars-textbundle-d2bf68.jpg)
 
 🤪
 
-![](/embeds/books/attachments/secret-wars-textbundle-90f7ab.png)
+![](/embeds/books/attachments/secret-wars-textbundle-90f7ab.jpg)
 
 Marvel Cosmology!
 
-![](/embeds/books/attachments/secret-wars-textbundle-e17c09.png)
+![](/embeds/books/attachments/secret-wars-textbundle-e17c09.jpg)
 
 Ooh that’s sneaky. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-062db9.png)
+![](/embeds/books/attachments/secret-wars-textbundle-062db9.jpg)
 
 HULKS SMASH!
 
-![](/embeds/books/attachments/secret-wars-textbundle-6470d5.png)
+![](/embeds/books/attachments/secret-wars-textbundle-6470d5.jpg)
 
 Well that’s a scene straight out of Mortal Kombat. 
 
-![](/embeds/books/attachments/secret-wars-textbundle-4da40d.png)
+![](/embeds/books/attachments/secret-wars-textbundle-4da40d.jpg)
 
 Huh. So that’s how Miles cake to Earth-616 and got his mum back. Kind of crazy. But I like it. 
 

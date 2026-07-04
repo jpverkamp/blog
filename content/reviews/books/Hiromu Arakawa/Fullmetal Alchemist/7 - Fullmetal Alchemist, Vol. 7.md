@@ -24,7 +24,7 @@ These books are wonderful.
 
 The world gets a few steps weirder. Not only suits of armor with nobody inside them[^inside][^yet], but now we have human/animal hybrids as well!  
 
-![FMA-7-26-Stretch](/embeds/books/attachments/fma-7-26-stretch.png)  
+![FMA-7-26-Stretch](/embeds/books/attachments/fma-7-26-stretch.jpg)  
 
 So... How does Al see? He doesn't have eyes. Or a brain. The whole idea of souls bound to armor is ... weird. For that matter, how much does he weigh?  
 
@@ -32,31 +32,31 @@ So... How does Al see? He doesn't have eyes. Or a brain. The whole idea of souls
 
 On one hand:  
 
-![FMA-7-27-Greed](/embeds/books/attachments/fma-7-27-greed.png)  
+![FMA-7-27-Greed](/embeds/books/attachments/fma-7-27-greed.jpg)  
 
 GREED! We're still missing Sloth (although we've had references), Wrath (soon!), and Pride.  
 
 The best part of the chapter though? Teacher.  
 
-![FMA-7-27-Teacher-heart](/embeds/books/attachments/fma-7-27-teacher-heart.png)  
+![FMA-7-27-Teacher-heart](/embeds/books/attachments/fma-7-27-teacher-heart.jpg)  
 
 Man she's awesome.  
 
-![FMA-7-27-Housewife](/embeds/books/attachments/fma-7-27-housewife.png)  
+![FMA-7-27-Housewife](/embeds/books/attachments/fma-7-27-housewife.jpg)  
 
 Also comic book sounds:  
 
-![FMA-7-27-WHAM](/embeds/books/attachments/fma-7-27-wham.png)  
+![FMA-7-27-WHAM](/embeds/books/attachments/fma-7-27-wham.jpg)  
 
 **28: A Fool's Courage**  
 
 Strongarm Alchemist Armstrong is so ridiculous. And awesome. And now there are two of them...  
 
-![FMA-7-28-CLASP](/embeds/books/attachments/fma-7-28-clasp.png)  
+![FMA-7-28-CLASP](/embeds/books/attachments/fma-7-28-clasp.jpg)  
 
 **29: The Eye of the King**  
 
-![FMA-7-29-Oroborus](/embeds/books/attachments/fma-7-29-oroborus.png)  
+![FMA-7-29-Oroborus](/embeds/books/attachments/fma-7-29-oroborus.jpg)  
 
 {{< spoiler >}}FPK BRADLEY IS WRATH! HOLY CRAP{{< /spoiler >}}  
 
@@ -64,13 +64,13 @@ If that was a plot point in the anime, I totally don't remember it (it's been ye
 
 On a more comic books soundsy note:  
 
-![FMA-7-29-COMIC-BOOK-SOUNDS](/embeds/books/attachments/fma-7-29-comic-book-sounds.png)  
+![FMA-7-29-COMIC-BOOK-SOUNDS](/embeds/books/attachments/fma-7-29-comic-book-sounds.jpg)  
 
 COMIC BOOK SOUNDS  
 
 **Bonus Chapter: The Second Lieutenant Goes to Battle!**  
 
-![FMA-7-x-Armstrong-family](/embeds/books/attachments/fma-7-x-armstrong-family.png)  
+![FMA-7-x-Armstrong-family](/embeds/books/attachments/fma-7-x-armstrong-family.jpg)  
 
 Strongarm Alchemist Armstrong is so ridiculous... but I'm certainly not going to be the one to tell him that.  
 

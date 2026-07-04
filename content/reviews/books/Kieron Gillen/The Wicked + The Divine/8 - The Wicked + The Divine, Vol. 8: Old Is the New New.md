@@ -51,25 +51,25 @@ Onward to the conclusion!
 
 In one, Lucifer tries to return glory to Rome. 
 
-![](/embeds/books/attachments/wicked-divine-8-05e926.png)
+![](/embeds/books/attachments/wicked-divine-8-05e926.jpg)
 
 In another, a Lucifer trying to do good in world eaten by a mysterious plague. 
 
-![](/embeds/books/attachments/wicked-divine-8-64f82c.png)
+![](/embeds/books/attachments/wicked-divine-8-64f82c.jpg)
 
 In another, they tell horror stories. Become a horror story. 
 
-![](/embeds/books/attachments/wicked-divine-8-92ccd8.png)
+![](/embeds/books/attachments/wicked-divine-8-92ccd8.jpg)
 
 In one, it ends as it all began. 
 
-![](/embeds/books/attachments/wicked-divine-8-8781b2.png)
+![](/embeds/books/attachments/wicked-divine-8-8781b2.jpg)
 
 And in the Christmas issue of all things, a bit more backstory… and more than a bit more sex. 
 
-![](/embeds/books/attachments/wicked-divine-8-fb0f31.png)
+![](/embeds/books/attachments/wicked-divine-8-fb0f31.jpg)
 
 And then… things got weird. 
 
-![](/embeds/books/attachments/wicked-divine-8-63dbfd.png)
+![](/embeds/books/attachments/wicked-divine-8-63dbfd.jpg)
 

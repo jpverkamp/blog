@@ -15,7 +15,7 @@ series_index:
 - 23
 title: 'Ultimate Spider-Man, Volume 9: Ultimate Six'
 ---
-![](/embeds/books/attachments/ultimate-six-e6f5fb.png)
+![](/embeds/books/attachments/ultimate-six-e6f5fb.jpg)
 
 Huh. 
 
@@ -37,19 +37,19 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-six-a874b1.png)
+![](/embeds/books/attachments/ultimate-six-a874b1.jpg)
 
 Richards. Soon!
 
-![](/embeds/books/attachments/ultimate-six-60bfd4.png)
+![](/embeds/books/attachments/ultimate-six-60bfd4.jpg)
 
 They seem to go back and forth on that a bit. I suppose it works out better if you ignore One Tin Soldier?
 
-![](/embeds/books/attachments/ultimate-six-9e2dba.png)
+![](/embeds/books/attachments/ultimate-six-9e2dba.jpg)
 
 … that’s a neat trick. 
 
-![](/embeds/books/attachments/ultimate-six-3532d4.png)
+![](/embeds/books/attachments/ultimate-six-3532d4.jpg)
 
 It’s not Samuel Jackson’s Fury… but I can hear him in these lines. That’s probably on me though. 
 

@@ -29,17 +29,17 @@ As I read:
 
 Seems like they are settling in. 
 
-![](/embeds/books/attachments/all-new-x-men-2-4bfbd3.png)
+![](/embeds/books/attachments/all-new-x-men-2-4bfbd3.jpg)
 
 Let’s get timey wimey. 
 
-![](/embeds/books/attachments/all-new-x-men-2-afc464.png)
+![](/embeds/books/attachments/all-new-x-men-2-afc464.jpg)
 
 Oh that I’d pay to see. Comics can be so delightfully weird. Wolverine is fun in any universe_timeline. {{<spoiler>}} Even if he’s really Mystique_Raven.{{</spoiler>}}. 
 
 Speaking of which…
 
-![](/embeds/books/attachments/all-new-x-men-2-7df2ad.png)
+![](/embeds/books/attachments/all-new-x-men-2-7df2ad.jpg)
 
 :smile:
 

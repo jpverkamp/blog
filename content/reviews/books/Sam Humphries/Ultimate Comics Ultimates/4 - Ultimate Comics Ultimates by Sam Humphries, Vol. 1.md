@@ -36,32 +36,32 @@ Side note: Cap is a terrible President. 😃
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-323fdd.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-323fdd.jpg)
 
 You know, I kind of get the commentators that are saying he shouldn’t be doing this. There’s a whole country that needs saving—especially now. Does the President ever have the time to save individuals?
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-37ce3f.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-37ce3f.jpg)
 
 As weird as it is… this storyline is really starting to grow on me. 
 
 Pun intended. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-522576.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-522576.jpg)
 
 Here we go again?
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-305b4f.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-305b4f.jpg)
 
 Huh. Anthony is real enough to talk to external people. I somehow didn’t expect that. More and more interesting. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-0d6c19.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-0d6c19.jpg)
 
 I thought this universe already had a Vision. Who was both more female and not on Earth anymore. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-3580f4.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-3580f4.jpg)
 
 And **what** exactly is he going to do? 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-44a546.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-1-textbundle-44a546.jpg)
 
 Good. 

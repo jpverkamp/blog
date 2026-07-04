@@ -24,13 +24,13 @@ Man this story is taking a real turn of the very very weird. But in a good way?
 
  **Chapter 50: In the Belly of the Beast**  
 
-![gluttony](/embeds/books/attachments/gluttony.png)  
+![gluttony](/embeds/books/attachments/gluttony.jpg)  
 
 Gluttony has an eye in his belly and a super stretch creep rib cage. Because eating everything (and _wanting_ to eat everything) wasn't bad enough.  
 
 **Chapter 51: A Portal in the Darkness**  
 
-![it-could-work](/embeds/books/attachments/it-could-work.png)  
+![it-could-work](/embeds/books/attachments/it-could-work.jpg)  
 
 Well. That's the inside of Gluttony then. But hey! It could work! He made (or at least fixed) a radio way back, didn't he? Isn't there enough material eaten for that to work?  
 
@@ -40,10 +40,10 @@ Roy knows and FPKBradley knows he knows and it's all so weird and confusing.
 
 **Chapter 53: Signpost of the Soul**  
 
-![he-looks-familiar](/embeds/books/attachments/he-looks-familiar.png)  
+![he-looks-familiar](/embeds/books/attachments/he-looks-familiar.jpg)  
 
 ... that's Father? He looks really familiar. Altar egos or something?  
 
-![symbols-of-alchemy](/embeds/books/attachments/symbols-of-alchemy.png)  
+![symbols-of-alchemy](/embeds/books/attachments/symbols-of-alchemy.jpg)  
 
 Hearing this talk about the workings of alchemy makes me want to know more. I guess it may be better in theory than practice, but I hope we get a deeper look before this is all said and done.

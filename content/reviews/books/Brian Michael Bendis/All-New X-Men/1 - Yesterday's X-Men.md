@@ -18,7 +18,7 @@ title: "All-New X-Men, Vol. 1: Yesterday's X-Men"
 ---
 Been a while since I’ve read any of the more direct ‘comic booky’ comics. So let’s do this. 
 
-![](/embeds/books/attachments/all-new-x-men-1-d8bba3.png)
+![](/embeds/books/attachments/all-new-x-men-1-d8bba3.jpg)
 
 All righty then. 
 
@@ -29,7 +29,7 @@ All righty then.
 
 It’s about time. 
 
-![](/embeds/books/attachments/all-new-x-men-1-03e15e.png)
+![](/embeds/books/attachments/all-new-x-men-1-03e15e.jpg)
 
 Literally. 
 

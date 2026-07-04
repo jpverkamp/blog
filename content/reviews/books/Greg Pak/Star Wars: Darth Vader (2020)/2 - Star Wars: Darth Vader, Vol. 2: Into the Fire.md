@@ -22,7 +22,7 @@ title: 'Darth Vader, Vol. 2: Into the Fire'
 
 Vader learned Luke was his son… and ran off across the Galaxy, tracking down anyone he could that might have hidden the truth from him. 
 
-![](/embeds/books/attachments/darth-vader-2020-v2-textbundle-a28ead.png)
+![](/embeds/books/attachments/darth-vader-2020-v2-textbundle-a28ead.jpg)
 
 The Emperor was not thrilled. 
 
@@ -44,7 +44,7 @@ Worth a read.
 
 Also:
 
-![](/embeds/books/attachments/darth-vader-2020-v2-textbundle-4bc3b1.png)
+![](/embeds/books/attachments/darth-vader-2020-v2-textbundle-4bc3b1.jpg)
 
 Star Wars gets weird sometimes. 
 

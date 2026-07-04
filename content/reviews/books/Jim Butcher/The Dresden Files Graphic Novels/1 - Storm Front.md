@@ -22,7 +22,7 @@ All together: it's [[Storm Front]]() as a comic book.
 
 <!--more-->
 
-![Storm-Front-01-Wizard](/embeds/books/attachments/storm-front-01-wizard.png)  
+![Storm-Front-01-Wizard](/embeds/books/attachments/storm-front-01-wizard.jpg)  
 
 All of the big scenes are there, right from the very beginning.  
 
@@ -30,37 +30,37 @@ On top of that, you get some graphical depictions of the characters which are ..
 
 Toot toot!  
 
-![Storm-Front-02-Toot](/embeds/books/attachments/storm-front-02-toot.png)  
+![Storm-Front-02-Toot](/embeds/books/attachments/storm-front-02-toot.jpg)  
 
 Morgan!  
 
-![Storm-Front-03-Morgan](/embeds/books/attachments/storm-front-03-morgan.png)  
+![Storm-Front-03-Morgan](/embeds/books/attachments/storm-front-03-morgan.jpg)  
 
 I'm not one to picture characters as I'm reading, but if you are... this might cause a bit of dissonance.  
 
 One thing that is great about comics is just how crazy of scenes you can show... while having to censor out bits that novels can much more easily get away with:  
 
-![Storm-Front-05-Why-are-you-naked-and-Eyes](/embeds/books/attachments/storm-front-05-why-are-you-naked-and-eyes.png)  
+![Storm-Front-05-Why-are-you-naked-and-Eyes](/embeds/books/attachments/storm-front-05-why-are-you-naked-and-eyes.jpg)  
 
 Never ask that question... Also what's with the eyes?  
 
-![Storm-Front-06-Naked-magic-circle](/embeds/books/attachments/storm-front-06-naked-magic-circle.png)  
+![Storm-Front-06-Naked-magic-circle](/embeds/books/attachments/storm-front-06-naked-magic-circle.jpg)  
 
 Naked magic circle!  
 
-![Storm-Front-07-Rrroaarrawk](/embeds/books/attachments/storm-front-07-rrroaarrawk.png)  
+![Storm-Front-07-Rrroaarrawk](/embeds/books/attachments/storm-front-07-rrroaarrawk.jpg)  
 
 Frog demons! Convenient smoke! RRROAAARRRAWK! (I do love comic book sound effects).  
 
 Two reasons to really like the comic version:  
 
-![Storm-Front-04-Point-of-View](/embeds/books/attachments/storm-front-04-point-of-view.png)  
+![Storm-Front-04-Point-of-View](/embeds/books/attachments/storm-front-04-point-of-view.jpg)  
 
 You can actually get snippets from other points of view. That's not something we saw in the novels up until some of the very last ones (and a few shorts). It's interesting.  
 
 Plus, representations of things like The Sight:  
 
-![Storm-Front-09-The-Sight](/embeds/books/attachments/storm-front-09-the-sight.png)  
+![Storm-Front-09-The-Sight](/embeds/books/attachments/storm-front-09-the-sight.jpg)  
 
 Pretty cool. Glad I read it.  
 

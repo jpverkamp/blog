@@ -21,70 +21,70 @@ Another solid volume. In particular, there's another volume about angels/demons/
 ## End of the Line
 Family trouble…
 
-![](/embeds/books/attachments/hellblazer-7-a6d3d0.png)
+![](/embeds/books/attachments/hellblazer-7-a6d3d0.jpg)
 
 … of the magical kind. 
 
 Both ways:
 
-![](/embeds/books/attachments/hellblazer-7-a8e85f.png)
+![](/embeds/books/attachments/hellblazer-7-a8e85f.jpg)
 
 ## Forty 
 … years old and all alone. Until:
 
-![](/embeds/books/attachments/hellblazer-7-18065b.png)
+![](/embeds/books/attachments/hellblazer-7-18065b.jpg)
 
 Now that’s a party. Oh my. They even got Swamp Thing. 
 
-![](/embeds/books/attachments/hellblazer-7-ff7935.png)
+![](/embeds/books/attachments/hellblazer-7-ff7935.jpg)
 
 Literally lol. 
 
 ## Fear and Loathing 
 ### For King and Country
 
-![](/embeds/books/attachments/hellblazer-7-dcde8c.png)
+![](/embeds/books/attachments/hellblazer-7-dcde8c.jpg)
 
 So… that’s one interpretation of Gabriel. 
 
-![](/embeds/books/attachments/hellblazer-7-39fab7.png)
+![](/embeds/books/attachments/hellblazer-7-39fab7.jpg)
 
 That has a lot of potential!
 
 ### London Kills Me
 
-![](/embeds/books/attachments/hellblazer-7-d843d9.png)
+![](/embeds/books/attachments/hellblazer-7-d843d9.jpg)
 
 Gabriel might just be finding a better way… and someone is not happy about that. 
 
-![](/embeds/books/attachments/hellblazer-7-e38e8f.png)
+![](/embeds/books/attachments/hellblazer-7-e38e8f.jpg)
 
 ### Down to Earth
 
-![](/embeds/books/attachments/hellblazer-7-6bd68c.png)
+![](/embeds/books/attachments/hellblazer-7-6bd68c.jpg)
 
 Oh Gabriel. I have a feeling this is about to go sideways. 
 
-![](/embeds/books/attachments/hellblazer-7-922b5c.png)
+![](/embeds/books/attachments/hellblazer-7-922b5c.jpg)
 
 Oh. Oh oh oh. That’s who that of. And Constantine. Oy. To an Archangel? I mean, the whole ‘pure and good and beautiful’ is arguable given that scene from Part 1… but still. Oh my. 
 
 ## Dear John
 
-![](/embeds/books/attachments/hellblazer-7-7791cf.png)
+![](/embeds/books/attachments/hellblazer-7-7791cf.jpg)
 
 Oh. Oy. 
 
 ## Down All the Days
 Constantine isn’t doing so well…
 
-![](/embeds/books/attachments/hellblazer-7-36b5aa.png)
+![](/embeds/books/attachments/hellblazer-7-36b5aa.jpg)
 
 Also… vampires. Rather a part one. 
 
 ## Rough Trade
 
-![](/embeds/books/attachments/hellblazer-7-ed689c.png)
+![](/embeds/books/attachments/hellblazer-7-ed689c.jpg)
 
 Ah. There’s the connection. 
 
@@ -92,7 +92,7 @@ Went well enough for Constantine, not that he cares.
 
 ## Tainted Love
 
-![](/embeds/books/attachments/hellblazer-7-19fb16.png)
+![](/embeds/books/attachments/hellblazer-7-19fb16.jpg)
 
 The story of Emma… and not. 
 
@@ -102,16 +102,16 @@ Odd and not very Constantine.
 
 ## Finest Hour
 
-![](/embeds/books/attachments/hellblazer-7-259fde.png)
+![](/embeds/books/attachments/hellblazer-7-259fde.jpg)
 
 Still not rock bottom? Or will that of all things be what it takes?
 
 ## Confessional 
-![](/embeds/books/attachments/hellblazer-7-53da4f.png)
+![](/embeds/books/attachments/hellblazer-7-53da4f.jpg)
 
 Another young Constantine story. Man, he’s had a life. 
 
-![](/embeds/books/attachments/hellblazer-7-bb41d7.png)
+![](/embeds/books/attachments/hellblazer-7-bb41d7.jpg)
 
 You know… that’s an interesting argument. 
 

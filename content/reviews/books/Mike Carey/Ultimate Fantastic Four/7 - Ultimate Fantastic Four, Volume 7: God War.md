@@ -17,7 +17,7 @@ title: 'Ultimate Fantastic Four, Volume 7: God War'
 ---
 The Fantastic Four get **weird** yo. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v7-textbundle-5b8772.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v7-textbundle-5b8772.jpg)
 
 Something about visitors traveling from older worlds and causing trouble. Hard for me to get into. 
 

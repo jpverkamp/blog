@@ -27,7 +27,7 @@ Decent, but like I said. Quick.
 
 Spoilers, notes. 
 
-![](/embeds/books/attachments/ultimate-x-man-v12-textbundle-124e6f.png)
+![](/embeds/books/attachments/ultimate-x-man-v12-textbundle-124e6f.jpg)
 
 Oh really now. Bizarre. 
 

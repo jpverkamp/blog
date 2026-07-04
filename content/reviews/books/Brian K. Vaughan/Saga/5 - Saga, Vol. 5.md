@@ -22,24 +22,24 @@ For example, the Wisdom of Ghüs:
 
 <!--more-->
 
-![three-worst-days](/embeds/books/attachments/three-worst-days.png)  
+![three-worst-days](/embeds/books/attachments/three-worst-days.jpg)  
 
 It's worth considering. Even when you feel your worst or you've screwed up bad, you're still more than your worst. Also, Ghüs:  
 
-![ghus](/embeds/books/attachments/ghus.png)  
+![ghus](/embeds/books/attachments/ghus.jpg)  
 
 And then there's Granny "I'm too busy bleeding". She's a badass. I do wish we'd gotten a little more time to see the interactions between her and her husband, but he had a good, if short story line.  
 
-![granny-busy-bleeding](/embeds/books/attachments/granny-busy-bleeding.png)  
+![granny-busy-bleeding](/embeds/books/attachments/granny-busy-bleeding.jpg)  
 
 Speaking of which:  
 
-![honesty-of-children](/embeds/books/attachments/honesty-of-children.png)  
+![honesty-of-children](/embeds/books/attachments/honesty-of-children.jpg)  
 
 Oh children can be so brutally honest.  
 
 But really, when it all comes down to it...  
 
-![families-are-complicated](/embeds/books/attachments/families-are-complicated.png)  
+![families-are-complicated](/embeds/books/attachments/families-are-complicated.jpg)  
 
 Family--no matter how complicated, and no matter if you're actually related by blood or not--is what matters in the end.

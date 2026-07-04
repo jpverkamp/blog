@@ -18,7 +18,7 @@ title: 'Spider-Gwen, Vol. 4: Predators'
 
 Okay, after [[Spider-Man/Spider-Gwen: Sitting in a Tree|Sitting in a Tree]](), back to our regularly scheduled Spider-Gwen!
 
-![](/embeds/books/attachments/spider-gwen-2015-v4-textbundle-34c551.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v4-textbundle-34c551.jpg)
 
 lol. 
 
@@ -30,4 +30,4 @@ The main Spider-Gwen storyline was getting a bit weak there, but I'm glad to see
 
 Onward!
 
-![](/embeds/books/attachments/spider-gwen-2015-v4-textbundle-d2819d.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v4-textbundle-d2819d.jpg)

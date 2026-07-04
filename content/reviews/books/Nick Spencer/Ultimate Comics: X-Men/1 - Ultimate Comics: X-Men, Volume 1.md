@@ -17,7 +17,7 @@ series_index:
 - 18
 title: 'Ultimate Comics: X-Men, Volume 1'
 ---
-![](/embeds/books/attachments/ultimate-comics-x-men-1-textbundle-16d33c.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-1-textbundle-16d33c.jpg)
 
 …
 

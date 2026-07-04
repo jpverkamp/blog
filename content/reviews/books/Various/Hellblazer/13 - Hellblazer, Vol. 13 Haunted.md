@@ -24,7 +24,7 @@ That’s a story. Enough time to breathe, a cast of new and interesting story, a
 
 ### Part One
 
-![](/embeds/books/attachments/hellblazer-13-65d284.png)
+![](/embeds/books/attachments/hellblazer-13-65d284.jpg)
 
 Oy. Although you can’t say she’s wrong. 
 
@@ -32,7 +32,7 @@ Murder scene description: oy that’s graphic.
 
 ### Part Two
 
-![](/embeds/books/attachments/hellblazer-13-00fe1a.png)
+![](/embeds/books/attachments/hellblazer-13-00fe1a.jpg)
 
 Oh boy. Map is an interesting one. Hope we see more of him. 
 
@@ -40,17 +40,17 @@ Another step along the journey.
 
 ### Part Three 
 
-![](/embeds/books/attachments/hellblazer-13-638959.png)
+![](/embeds/books/attachments/hellblazer-13-638959.jpg)
 
 I think he might be on the right road… Takes a bit, but:
 
-![](/embeds/books/attachments/hellblazer-13-0bbe25.png)
+![](/embeds/books/attachments/hellblazer-13-0bbe25.jpg)
 
 ### Part Four 
 
 More Map!
 
-![](/embeds/books/attachments/hellblazer-13-0eea26.png)
+![](/embeds/books/attachments/hellblazer-13-0eea26.jpg)
 
 I… have no idea what exactly he just did, but go Map! (That was gross)
 
@@ -58,17 +58,17 @@ Still more steps forward.
 
 ### Part Five
 
-![](/embeds/books/attachments/hellblazer-13-93f80c.png)
+![](/embeds/books/attachments/hellblazer-13-93f80c.jpg)
 
 Where old magicians go to be dead. An interesting place. An interesting person. 
 
-![](/embeds/books/attachments/hellblazer-13-302ac5.png)
+![](/embeds/books/attachments/hellblazer-13-302ac5.jpg)
 
 Huh. I didn’t expect that. 
 
 ### Part Six
 
-![](/embeds/books/attachments/hellblazer-13-f94a70.png)
+![](/embeds/books/attachments/hellblazer-13-f94a70.jpg)
 
 Ah. That makes more sense. 
 
@@ -78,11 +78,11 @@ I wonder if he’ll be back…
 
 ## Locked
 
-![](/embeds/books/attachments/hellblazer-13-69012d.png)
+![](/embeds/books/attachments/hellblazer-13-69012d.jpg)
 
 The changing artists/styles remains jarring. I like this Constantine more than the chiseled jaw of Haunted though personally. 
 
-![](/embeds/books/attachments/hellblazer-13-f6d4f7.png)
+![](/embeds/books/attachments/hellblazer-13-f6d4f7.jpg)
 
 Wooooow. 
 
@@ -90,23 +90,23 @@ Quick, self-contained, and twisted. I like it.
 
 ## The Crib
 
-![](/embeds/books/attachments/hellblazer-13-608d92.png)
+![](/embeds/books/attachments/hellblazer-13-608d92.jpg)
 
 Well that’s certainly a bit of mythology…
 
 Yet anther style too:
 
-![](/embeds/books/attachments/hellblazer-13-d5f385.png)
+![](/embeds/books/attachments/hellblazer-13-d5f385.jpg)
 
 And then:
 
-![](/embeds/books/attachments/hellblazer-13-fb116a.png)
+![](/embeds/books/attachments/hellblazer-13-fb116a.jpg)
 
 I’m… not even sure sometimes. The idea of the crib fits in Constantine’s world… but so does—this. Oy. 
 
 ## Setting Sun
 
-![](/embeds/books/attachments/hellblazer-13-d01299.png)
+![](/embeds/books/attachments/hellblazer-13-d01299.jpg)
 
 Oh boy. 
 
@@ -115,19 +115,19 @@ Weird story.
 ## One Last Love Song
 The saga of dead girls past. 
 
-![](/embeds/books/attachments/hellblazer-13-0c9d86.png)
+![](/embeds/books/attachments/hellblazer-13-0c9d86.jpg)
 
 Oy. 
 
 ## Telling Tales
 
-![](/embeds/books/attachments/hellblazer-13-666257.png)
+![](/embeds/books/attachments/hellblazer-13-666257.jpg)
 
 “True story”
 
 Uh huh. 
 
-![](/embeds/books/attachments/hellblazer-13-ca3ef6.png)
+![](/embeds/books/attachments/hellblazer-13-ca3ef6.jpg)
 
 Exactly. 
 
@@ -135,14 +135,14 @@ Hilarious (in a twisted sort of way).
 
 ## Shoot
 
-![](/embeds/books/attachments/hellblazer-13-458fa0.png)
+![](/embeds/books/attachments/hellblazer-13-458fa0.jpg)
 
 Creepy. Incomplete. 
 
 ## Ashes & Honey
 ### Part One
 
-![](/embeds/books/attachments/hellblazer-13-5455ee.png)
+![](/embeds/books/attachments/hellblazer-13-5455ee.jpg)
 
 Supposed to be impossible… so what’s the cost now?
 
@@ -150,7 +150,7 @@ Supposed to be impossible… so what’s the cost now?
 
 Ah. 
 
-![](/embeds/books/attachments/hellblazer-13-ef28f4.png)
+![](/embeds/books/attachments/hellblazer-13-ef28f4.jpg)
 
 An interesting, quiet sort of magic. I like it. 
 
@@ -158,10 +158,10 @@ An interesting, quiet sort of magic. I like it.
 
 An odd ghost story.   
 
-![](/embeds/books/attachments/hellblazer-13-929c29.png)
+![](/embeds/books/attachments/hellblazer-13-929c29.jpg)
 
 ## All Those Little Girls and Boys
 
-![](/embeds/books/attachments/hellblazer-13-9dfc1e.png)
+![](/embeds/books/attachments/hellblazer-13-9dfc1e.jpg)
 
 I feel like we’ve already done this, this volume even.

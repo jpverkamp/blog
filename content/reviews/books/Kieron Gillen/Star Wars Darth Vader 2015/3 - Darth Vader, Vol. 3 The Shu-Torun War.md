@@ -25,7 +25,7 @@ series_index:
 ---
 Okay, now this went a bit sideways. Forget the Emperor and politicking (more or less). Instead, get thrown into a rivalry on a mining planet that's obsessed with etiquette...  
 
-![](/embeds/books/attachments/vader-3.1.png)
+![](/embeds/books/attachments/vader-3.1.jpg)
 
 <!--more-->
 
@@ -35,7 +35,7 @@ One plot point that I haven't really mentioned is the introduction of a small pi
 
 It's a fascinating parallel, especially given how Vader is as much if not more machine than man... and still a terrifyingly powerful Force user despite/because of it.  
 
-![](/embeds/books/attachments/vader-3.5.png)  
+![](/embeds/books/attachments/vader-3.5.jpg)  
 
 I'm ... not sure exactly what to think about that. From the prequels, we have midichlorians--an answer to a question that probably shouldn't have been answered about how the force works. And Triple-Zero (in his wonderfully creepy way) is right--it's about blood. Living blood. There's something interesting there.  
 
@@ -43,4 +43,4 @@ Quite a story. Onwards to the conclusion!
 
 Oh right. Triple-Zero remains homicidally delightful.  
 
-![](/embeds/books/attachments/vader-3.6.png)
+![](/embeds/books/attachments/vader-3.6.jpg)

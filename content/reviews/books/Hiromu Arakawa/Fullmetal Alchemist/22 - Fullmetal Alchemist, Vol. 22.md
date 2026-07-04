@@ -24,25 +24,25 @@ Per volume thoughts (potentially spoilery):
 
  **Chapter 88: The Understanding**  
 
-![FMA-22-088-1-Brothers](/embeds/books/attachments/fma-22-088-1-brothers.png)  
+![FMA-22-088-1-Brothers](/embeds/books/attachments/fma-22-088-1-brothers.jpg)  
 
 You know, it's totally true. And pretty badass of Ed to do what he did there.  
 
 **Chapter 89: Soldiers' Return**  
 
-![FMA-22-089-1-ICE-CREAM](/embeds/books/attachments/fma-22-089-1-ice-cream.png)  
+![FMA-22-089-1-ICE-CREAM](/embeds/books/attachments/fma-22-089-1-ice-cream.jpg)  
 
 ICE CREAM! Every once in a while this story is just really surreal.  
 
 **Chapter 90: Army of Immortals**  
 
-![FMA-22-090-1-That-s-kind-of-gross](/embeds/books/attachments/fma-22-090-1-that-s-kind-of-gross.png)  
+![FMA-22-090-1-That-s-kind-of-gross](/embeds/books/attachments/fma-22-090-1-that-s-kind-of-gross.jpg)  
 
 Youn women... That's kind of gross Van Hohenheim.  
 
 **Chapter 91: A Reunion of Alchemists**  
 
-![FMA-22-091-1-Pride-x-Kimblee](/embeds/books/attachments/fma-22-091-1-pride-x-kimblee.png)  
+![FMA-22-091-1-Pride-x-Kimblee](/embeds/books/attachments/fma-22-091-1-pride-x-kimblee.jpg)  
 
 So matter of factly. Ate him. And Kimblee barely even bats an eye.  
 
@@ -50,18 +50,18 @@ So matter of factly. Ate him. And Kimblee barely even bats an eye.
 
 The Elrics both be crazy, yo.  
 
-![FMA-22-091-3-MAY-FIGHT-SCENE](/embeds/books/attachments/fma-22-091-3-may-fight-scene.png)  
+![FMA-22-091-3-MAY-FIGHT-SCENE](/embeds/books/attachments/fma-22-091-3-may-fight-scene.jpg)  
 
 MAY FIGHT SCENE!  
 
 TINY. BUT. FIERCE.  
 
-![FMA-22-091-4-SMOOT](/embeds/books/attachments/fma-22-091-4-smoot.png)  
+![FMA-22-091-4-SMOOT](/embeds/books/attachments/fma-22-091-4-smoot.jpg)  
 
 SMOOT. That is all.  
 
 **Volume 22: Extras**  
 
-![FMA-22-x-PRIDE-ATE-GLUTTONY](/embeds/books/attachments/fma-22-x-pride-ate-gluttony.png)  
+![FMA-22-x-PRIDE-ATE-GLUTTONY](/embeds/books/attachments/fma-22-x-pride-ate-gluttony.jpg)  
 
 It kind of makes sense. Other than a few words, did anything really change when Pride ate Gluttony?

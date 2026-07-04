@@ -37,7 +37,7 @@ Episode by episode:
 
 
 
-![](/embeds/books/attachments/taskmaster-au-2-74307e.png)
+![](/embeds/books/attachments/taskmaster-au-2-74307e.jpg)
 
 ## 1. *Don’t Slip on the Chips Old Man*<
 

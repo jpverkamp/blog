@@ -18,7 +18,7 @@ title: "All-New X-Men, Vol. 7: The Utopians"
 ---
 So we have a trainingish montage with Jean and Magik, two issues were saw already, and a big character moment for Bobby…
 
-![](/embeds/books/attachments/all-new-x-men-7-9c940b.png)
+![](/embeds/books/attachments/all-new-x-men-7-9c940b.jpg)
 
 … which is cute way to do it I suppose. If it had any other impact. 
 
@@ -29,7 +29,7 @@ So we have a trainingish montage with Jean and Magik, two issues were saw alread
 
 And then there are mutants on Utopia. 
 
-![](/embeds/books/attachments/all-new-x-men-7-f88bc6.png)
+![](/embeds/books/attachments/all-new-x-men-7-f88bc6.jpg)
 
 These interludes are my favorite. 
 

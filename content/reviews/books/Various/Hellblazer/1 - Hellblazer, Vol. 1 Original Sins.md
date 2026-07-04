@@ -43,54 +43,54 @@ Onward!
 
 Screencaps that particularly hit home (potential spoilers):
 
-![](/embeds/books/attachments/hellblazer-1-01.png)
+![](/embeds/books/attachments/hellblazer-1-01.jpg)
 
 The heart of a banker and the soul of a gambler is an amusing description...
 
-![](/embeds/books/attachments/hellblazer-1-03.png)
+![](/embeds/books/attachments/hellblazer-1-03.jpg)
 
 Now that's quite a picture. Amusing to have it be comic books... in a comic book. 
 
-![](/embeds/books/attachments/hellblazer-1-04.png)
+![](/embeds/books/attachments/hellblazer-1-04.jpg)
 
 Well that's a wonderful description of a city. Oy. 
 
-![](/embeds/books/attachments/hellblazer-1-05.png)
+![](/embeds/books/attachments/hellblazer-1-05.jpg)
 
 And... he's crazy. Or in this world... is he?
 
-![](/embeds/books/attachments/hellblazer-1-06.png)
+![](/embeds/books/attachments/hellblazer-1-06.jpg)
 
 Midnite is a walking stereotype, but an interesting one at least. I like allies that aren't strictly on your side. 
 
-![](/embeds/books/attachments/hellblazer-1-07.png)
+![](/embeds/books/attachments/hellblazer-1-07.jpg)
 
 > Demon Yuppies. Soul-Brokers From Hell.
 
 I love it. 
 
-![](/embeds/books/attachments/hellblazer-1-08.png)
+![](/embeds/books/attachments/hellblazer-1-08.jpg)
 
 > Where do any of us come from? The sordid passions of our parents? 
 
 Oh that's a turn of phrase...
 
-![](/embeds/books/attachments/hellblazer-1-09.png)
+![](/embeds/books/attachments/hellblazer-1-09.jpg)
 
 Well that's wonderfully gross. 
 
-![](/embeds/books/attachments/hellblazer-1-10.png)
+![](/embeds/books/attachments/hellblazer-1-10.jpg)
 
 And... the Resurrection Crusade is creepy. Fundamentalism turned to 11 in a world where magic is real. 
 
-![](/embeds/books/attachments/hellblazer-1-11.png)
+![](/embeds/books/attachments/hellblazer-1-11.jpg)
 
 That's a fascinating take for the time period. And ends about exactly as I expected. 
 
-![](/embeds/books/attachments/hellblazer-1-12.png)
+![](/embeds/books/attachments/hellblazer-1-12.jpg)
 
 A deal with a devil. Because of course we'd have to go there. 
 
-![](/embeds/books/attachments/hellblazer-1-13.png)
+![](/embeds/books/attachments/hellblazer-1-13.jpg)
 
 Darkseid. Because we have to have references to other related properties. I like standalones, but this isn't a terrible way to do it at least.

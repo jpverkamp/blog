@@ -18,7 +18,7 @@ series_index: [8]
 ---
 An undead with eyes made of coins?  
 
-![Hellboy-8-1-Eyes-made-of-coins](/embeds/books/attachments/hellboy-8-1-eyes-made-of-coins.png)  
+![Hellboy-8-1-Eyes-made-of-coins](/embeds/books/attachments/hellboy-8-1-eyes-made-of-coins.jpg)  
 
 <!--more-->
 
@@ -26,13 +26,13 @@ YES!
 
 A bit more on Rasputin and Decate?  
 
-![Hellboy-8-2-Rasputin-and-Hecate](/embeds/books/attachments/hellboy-8-2-rasputin-and-hecate.png)  
+![Hellboy-8-2-Rasputin-and-Hecate](/embeds/books/attachments/hellboy-8-2-rasputin-and-hecate.jpg)  
 
 YES!  
 
 Koschei the Deathless.  
 
-![Hellboy-8-4-Koshchei-the-Deathless](/embeds/books/attachments/hellboy-8-4-koshchei-the-deathless.png)  
+![Hellboy-8-4-Koshchei-the-Deathless](/embeds/books/attachments/hellboy-8-4-koshchei-the-deathless.jpg)  
 
 Just... what?  
 

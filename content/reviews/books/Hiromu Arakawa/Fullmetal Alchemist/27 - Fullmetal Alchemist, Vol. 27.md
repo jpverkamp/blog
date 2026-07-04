@@ -30,17 +30,17 @@ Spoilers:
 
  **Chapter 107: The Last Battle**  
 
-![FMA-27-107-1-Riza-Armstrong-and-Chimera-oh-my](/embeds/books/attachments/fma-27-107-1-riza-armstrong-and-chimera-oh-my.png)  
+![FMA-27-107-1-Riza-Armstrong-and-Chimera-oh-my](/embeds/books/attachments/fma-27-107-1-riza-armstrong-and-chimera-oh-my.jpg)  
 
 Of all the people to say can't fight, you're going to choose Riza, Major General Armstrong, and a chimera? All righty then.  
 
-![FMA-27-107-2-Blub-glub](/embeds/books/attachments/fma-27-107-2-blub-glub.png)  
+![FMA-27-107-2-Blub-glub](/embeds/books/attachments/fma-27-107-2-blub-glub.jpg)  
 
 Body horror thy name is Fullmetal Alchemist.  
 
 **Chapter 108: Journey's End**  
 
-![FMA-27-108-1-Greed](/embeds/books/attachments/fma-27-108-1-greed.png)  
+![FMA-27-108-1-Greed](/embeds/books/attachments/fma-27-108-1-greed.jpg)  
 
 Of all the people to save the day, with the split of Greed and Lin? I like it.  
 
@@ -48,11 +48,11 @@ Of all the people to save the day, with the split of Greed and Lin? I like it.
 
 God...ish?  
 
-![FMA-27-108-3-VH-doing-the-right-thing](/embeds/books/attachments/fma-27-108-3-vh-doing-the-right-thing.png)  
+![FMA-27-108-3-VH-doing-the-right-thing](/embeds/books/attachments/fma-27-108-3-vh-doing-the-right-thing.jpg)  
 
 You know what? He's really trying to do the right thing. Major credit for that, even if the real 'right thing' turns out to be even better.  
 
-![FMA-27-108-4-A-proposal](/embeds/books/attachments/fma-27-108-4-a-proposal.png)  
+![FMA-27-108-4-A-proposal](/embeds/books/attachments/fma-27-108-4-a-proposal.jpg)  
 
 Did he just propose? In the most Fullmetal Alchemist way possible? All righty then.  
 

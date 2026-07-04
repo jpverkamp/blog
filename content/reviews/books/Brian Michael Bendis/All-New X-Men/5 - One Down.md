@@ -16,7 +16,7 @@ series_index:
 - 5
 title: "All-New X-Men, Vol. 5: One Down"
 ---
-![](/embeds/books/attachments/all-new-x-men-5-7ff825.png)
+![](/embeds/books/attachments/all-new-x-men-5-7ff825.jpg)
 
 Yup. Ya done screwed up Beast. 
 
@@ -35,11 +35,11 @@ Onward.
 
 Cool scenes and spoilers:
 
-![](/embeds/books/attachments/all-new-x-men-5-8db477.png)
+![](/embeds/books/attachments/all-new-x-men-5-8db477.jpg)
 
 … don’t do it. She’s like half your age. And not your Jean. 
 
-![](/embeds/books/attachments/all-new-x-men-5-d66d89.png)
+![](/embeds/books/attachments/all-new-x-men-5-d66d89.jpg)
 
 Okay. 
 
@@ -47,7 +47,7 @@ For now.
 
 You know, I actually like this older Scott well enough. He was painted as the villain but he’s not so bad. 
 
-![](/embeds/books/attachments/all-new-x-men-5-54bfc9.png)
+![](/embeds/books/attachments/all-new-x-men-5-54bfc9.jpg)
 
 … what. 
 
@@ -55,19 +55,19 @@ Mystique has how many kids with how many X-Men bouncing around now?
 
 Speaking of which…
 
-![](/embeds/books/attachments/all-new-x-men-5-02e325.png)
+![](/embeds/books/attachments/all-new-x-men-5-02e325.jpg)
 
 … Batman. Love it. 
 
-![](/embeds/books/attachments/all-new-x-men-5-46f4bc.png)
+![](/embeds/books/attachments/all-new-x-men-5-46f4bc.jpg)
 
 lol. Here we go again. 
 
-![](/embeds/books/attachments/all-new-x-men-5-dac01c.png)
+![](/embeds/books/attachments/all-new-x-men-5-dac01c.jpg)
 
 Comics are so weird. 
 
-![](/embeds/books/attachments/all-new-x-men-5-22755a.png)
+![](/embeds/books/attachments/all-new-x-men-5-22755a.jpg)
 
 I should read those. All of it. Everything. Onward!
 

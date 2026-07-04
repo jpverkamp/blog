@@ -22,11 +22,11 @@ It almost feels like a [bottle episode](https://en.wikipedia.org/wiki/Bottle_epi
 
 <!--more-->
 
-![War-Cry-1-Yoshimo](/embeds/books/attachments/war-cry-1-yoshimo.png)  
+![War-Cry-1-Yoshimo](/embeds/books/attachments/war-cry-1-yoshimo.jpg)  
 
 It's funny because things break down around Wizards. I wonder why they don't have a better way than running? Nice to see Yoki Yoshimo. We haven't seen her since Dead Beat and in the main series, nothing other than a comment in White Night as Dresden tries to trace down the history of the Swords[^king].  
 
-![War-Cry-2-Sterotypical-red](/embeds/books/attachments/war-cry-2-sterotypical-red.png)  
+![War-Cry-2-Sterotypical-red](/embeds/books/attachments/war-cry-2-sterotypical-red.jpg)  
 
 It's greatly amusing to me how stuck old creatures can get in their ways.  
 

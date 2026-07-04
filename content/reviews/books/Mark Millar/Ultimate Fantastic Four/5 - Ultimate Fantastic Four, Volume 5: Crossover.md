@@ -35,30 +35,30 @@ Onward!
 
 Full notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v5-1ad956.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v5-1ad956.jpg)
 
 So we’re just doing time travel now. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v5-ded996.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v5-ded996.jpg)
 
 And parallel universes. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v5-5975dd.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v5-5975dd.jpg)
 
 And zombies!
 
 All in a few pages!
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v5-29cce4.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v5-29cce4.jpg)
 
 Fight fight fight!
 
 And if that wasn’t enough, Atlantis! Namor!
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v5-30cc64.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v5-30cc64.jpg)
 
 I know, right?
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v5-909914.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v5-909914.jpg)
 
 … they appear to be alive. And we’re just going to brush by this, never to mention it again I bet. 

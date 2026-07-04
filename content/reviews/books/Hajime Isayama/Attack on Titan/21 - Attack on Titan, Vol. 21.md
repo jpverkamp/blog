@@ -24,18 +24,18 @@ Man, it's getting intense ramping up to the last run of the story.
 
 Spoilers:  
 
-![AoT-21-1](/embeds/books/attachments/aot-21-1.png)  
+![AoT-21-1](/embeds/books/attachments/aot-21-1.jpg)  
 
 I guess it's true enough, but it's still a hard choice.  
 
-![AoT-21-2](/embeds/books/attachments/aot-21-2.png)  
+![AoT-21-2](/embeds/books/attachments/aot-21-2.jpg)  
 
 Man. That's kind of terrifying. I mean, they have Eren still, but even that shouldn't possibly be enough.  
 
-![AoT-21-3](/embeds/books/attachments/aot-21-3.png)  
+![AoT-21-3](/embeds/books/attachments/aot-21-3.jpg)  
 
 Whoa. So... there's so much more to the world than we'd heard about. I mean, we figured this. But getting it spelled out like this is crazy. How's it all work?  
 
-![AoT-21-4](/embeds/books/attachments/aot-21-4.png)  
+![AoT-21-4](/embeds/books/attachments/aot-21-4.jpg)  
 
 Oooh backstory. True? Myth? Interesting!

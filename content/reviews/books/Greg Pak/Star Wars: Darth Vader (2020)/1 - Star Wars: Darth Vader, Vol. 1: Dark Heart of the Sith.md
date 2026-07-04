@@ -24,7 +24,7 @@ Darth Vader, shortly after Luke escapes him in The Empire Strikes Back. Realizin
 
 Off to trawl through the past. With… quite the droid. 
 
-![](/embeds/books/attachments/darth-vader-2020-v1-textbundle-108da3.png)
+![](/embeds/books/attachments/darth-vader-2020-v1-textbundle-108da3.jpg)
 
 It’s a fascinating look into Vader forced to dig into Anakin’s past. On Tattoine. On—and under—Naboo. Work the Handmaidens and other from Padme’s life. 
 

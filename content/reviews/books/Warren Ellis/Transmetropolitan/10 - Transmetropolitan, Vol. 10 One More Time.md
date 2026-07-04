@@ -18,7 +18,7 @@ series_index: [10]
 ---
 And so it ends. We all knew this wouldn't possible go well for anyone, but I think the author/illustrators did a wonderful job tying the story all together.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-10-one-more-time-x-1.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-10-one-more-time-x-1.jpg)  
 
 <!--more-->
 
@@ -26,11 +26,11 @@ Art imitating life imitating art. Oy.
 
 It's interesting seeing how far Spider will go.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-10-one-more-time-x-2.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-10-one-more-time-x-2.jpg)  
 
 One seen that was particularly moving in this final issue is the rest of the city's journalists all coming to the realization that this time around, Spider's form of Journalism may just be what they need.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-10-one-more-time-x-3.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-10-one-more-time-x-3.jpg)  
 
 There's an argument to be made either way--is it worth the cost? Either way: supporting the status quo or breaking it down and telling the Truth. But it certainly does tell an interesting story.  
 

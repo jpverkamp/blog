@@ -17,7 +17,7 @@ series_index: [3]
 ---
 Not terrible, but also not great. It starts very slowly with a hippie commune and takes a few issues to get going and gets downright weird at a few points. But enjoyable enough after that.
 
-![](/embeds/books/attachments/hellblazer-3-344b01.png)
+![](/embeds/books/attachments/hellblazer-3-344b01.jpg)
 
 Onward!
 
@@ -25,7 +25,7 @@ Issue specific reviews, spoilers:
 
 ## Touching the Earth
 
-![](/embeds/books/attachments/hellblazer-3-84c319.png)
+![](/embeds/books/attachments/hellblazer-3-84c319.jpg)
 
 Oh boy.
 
@@ -35,7 +35,7 @@ And then it goes all weird hippy commune. Sure? I don’t really get it. Imagine
 
 Well, it’s more of the same story, but there’s potential at least!
 
-![](/embeds/books/attachments/hellblazer-3-fd2189.png)
+![](/embeds/books/attachments/hellblazer-3-fd2189.jpg)
 
 An interesting aside I suppose.
 
@@ -43,7 +43,7 @@ An interesting aside I suppose.
 
 Incoming authority! And they’re not even here for Constantine! We’re getting hints of weird/spooky though, and best of all:
 
-![](/embeds/books/attachments/hellblazer-3-e79025.png)
+![](/embeds/books/attachments/hellblazer-3-e79025.jpg)
 
 He’s back!
 
@@ -51,7 +51,7 @@ He’s back!
 
 There we go. That’s the creepy I was looking for.
 
-![](/embeds/books/attachments/hellblazer-3-55f61f.png)
+![](/embeds/books/attachments/hellblazer-3-55f61f.jpg)
 
 Still not quite to answers, but questions aplenty.
 
@@ -59,33 +59,33 @@ Still not quite to answers, but questions aplenty.
 
 I like the format. Letters / journal entries between the main characters for the most part. An interesting variation.
 
-![](/embeds/books/attachments/hellblazer-3-6d41ce.png)
+![](/embeds/books/attachments/hellblazer-3-6d41ce.jpg)
 
 ## The Broken Man
 
 Now we’re getting somewhere.
 
-![](/embeds/books/attachments/hellblazer-3-9a5db6.png)
+![](/embeds/books/attachments/hellblazer-3-9a5db6.jpg)
 
 ## Betrayal
 
 Help…
 
-![](/embeds/books/attachments/hellblazer-3-f24327.png)
+![](/embeds/books/attachments/hellblazer-3-f24327.jpg)
 
 From the most interesting directions. Right up until the end.
 
-![](/embeds/books/attachments/hellblazer-3-32d8f4.png)
+![](/embeds/books/attachments/hellblazer-3-32d8f4.jpg)
 
 ## The God of all Gods
 
-![](/embeds/books/attachments/hellblazer-3-714932.png)
+![](/embeds/books/attachments/hellblazer-3-714932.jpg)
 
 Well. So far as twisted evil plans go, that’s certainly one of them.
 
 ## Balance
 
-![](/embeds/books/attachments/hellblazer-3-e9f9b1.png)
+![](/embeds/books/attachments/hellblazer-3-e9f9b1.jpg)
 
 And that’s why it’s rated for mature audiences.
 

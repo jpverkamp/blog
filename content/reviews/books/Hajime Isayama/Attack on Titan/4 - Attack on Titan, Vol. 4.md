@@ -18,16 +18,16 @@ series_index: [4]
 ---
 Use the Titans to save humanity from the Titans? Sounds like a plan!  
 
-![Attack-on-Titan-4-1](/embeds/books/attachments/attack-on-titan-4-1.png)  
+![Attack-on-Titan-4-1](/embeds/books/attachments/attack-on-titan-4-1.jpg)  
 
 <!--more-->
 
 It's a pretty crazy solution, but then again ... it's a pretty crazy world.  
 
-![Attack-on-Titan-4-2](/embeds/books/attachments/attack-on-titan-4-2.png)  
+![Attack-on-Titan-4-2](/embeds/books/attachments/attack-on-titan-4-2.jpg)  
 
 It's a bit tough to read back and forth in time, but I do enjoy seeing how the people we're beginning to know so much about came to be.  
 
-![Attack-on-Titan-4-4](/embeds/books/attachments/attack-on-titan-4-4.png)  
+![Attack-on-Titan-4-4](/embeds/books/attachments/attack-on-titan-4-4.jpg)  
 
 It's a screwed up sort of world, with screwed up people. But it's a pretty solid echo for our own world.

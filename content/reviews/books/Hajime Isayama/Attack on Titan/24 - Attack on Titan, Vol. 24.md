@@ -16,7 +16,7 @@ series_index: [24]
 ---
 Oh this extended world. The idea that there is a race of people (the Eldians) with a special power unique to their people which makes them makes them hated and feared, relegated to a suppressed class. Except a minor few that are brain washed and weaponized. It's a story we've heard time and time again, even going back throughout history, but that doesn't mean it's a bad story. It's one that really needs to be told.  
 
-![AoT-24-1](/embeds/books/attachments/aot-24-1.png)  
+![AoT-24-1](/embeds/books/attachments/aot-24-1.jpg)  
 
 <!--more-->
 
@@ -26,4 +26,4 @@ Spoilers:
 
 Well. I guess I sort of saw that coming. Interesting that there's such a time skip though.  
 
-![AoT-24-2](/embeds/books/attachments/aot-24-2.png)
+![AoT-24-2](/embeds/books/attachments/aot-24-2.jpg)

@@ -24,11 +24,11 @@ In any case, it's a crazy story that just keeps getting bigger and crazier. GIAN
 
 Spoilers:  
 
- **Chapter 100: Holding the Gate**   ![FMA-25-100-1-Greed-growing-human](/embeds/books/attachments/fma-25-100-1-greed-growing-human.png)  
+ **Chapter 100: Holding the Gate**   ![FMA-25-100-1-Greed-growing-human](/embeds/books/attachments/fma-25-100-1-greed-growing-human.jpg)  
 
 Like I said. Greed/Lin is becomming the most human. Of all the possible redemption arcs...  
 
-![FMA-25-100-2-A-little-bit-higher](/embeds/books/attachments/fma-25-100-2-a-little-bit-higher.png)  
+![FMA-25-100-2-A-little-bit-higher](/embeds/books/attachments/fma-25-100-2-a-little-bit-higher.jpg)  
 
 > A little bit higher than the peak of Mt. Briggs.
 
@@ -38,7 +38,7 @@ Of all the quotes in the series, that one really struck home.
 
 Ed, Al, Izumi, one they need to add and... who? I'm missing one. Von Hohenheim?  
 
-![FMA-25-101-1-Wrath](/embeds/books/attachments/fma-25-101-1-wrath.png)  
+![FMA-25-101-1-Wrath](/embeds/books/attachments/fma-25-101-1-wrath.jpg)  
 
 Oh Wrath. You just refuse to die.  
 
@@ -50,6 +50,6 @@ Also Al turned his body down!! MADNESS!
 
  **Chapter 103: For Whom?**  
 
-![FMA-25-103-1-VWOOP](/embeds/books/attachments/fma-25-103-1-vwoop.png)  
+![FMA-25-103-1-VWOOP](/embeds/books/attachments/fma-25-103-1-vwoop.jpg)  
 
 You know, I sort of expected the different sort of alchemy would work. And then VWOOP. Oh no!

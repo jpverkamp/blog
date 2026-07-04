@@ -33,24 +33,24 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimatum-textbundle-fe1e8a.png)
+![](/embeds/books/attachments/ultimatum-textbundle-fe1e8a.jpg)
 
 Among everything else… that’s pretty hilarious looking. 
 
-![](/embeds/books/attachments/ultimatum-textbundle-64c26b.png)
+![](/embeds/books/attachments/ultimatum-textbundle-64c26b.jpg)
 
 Cap in the afterlife? Sure. In Valhalla… that’s weird. 
 
-![](/embeds/books/attachments/ultimatum-textbundle-c96de5.png)
+![](/embeds/books/attachments/ultimatum-textbundle-c96de5.jpg)
 
 That… doesn’t make any sense. 
 
 He’s on the Brotherhood’s side through and through. Kill people, probably. Eat them… No way. 
 
-![](/embeds/books/attachments/ultimatum-textbundle-ce3e67.png)
+![](/embeds/books/attachments/ultimatum-textbundle-ce3e67.jpg)
 
 Oh my. 
 
-![](/embeds/books/attachments/ultimatum-textbundle-0571a5.png)
+![](/embeds/books/attachments/ultimatum-textbundle-0571a5.jpg)
 
 … delightful. I’m not overly surprised he survived that. How much more though?

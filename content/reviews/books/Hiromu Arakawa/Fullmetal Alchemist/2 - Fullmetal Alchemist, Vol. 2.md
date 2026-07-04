@@ -18,13 +18,13 @@ series_index: [2]
 ---
 [[Fullmetal Alchemist, Vol. 2]]() sees the introduction of a number of the other National Alchemists, with their ridiculous names  
 
-![](/embeds/books/attachments/fullmetal-alchemist-vol-2-x-1.png)  
+![](/embeds/books/attachments/fullmetal-alchemist-vol-2-x-1.jpg)  
 
 <!--more-->
 
 Along with a new baddy Scar who doesn't do the whole tear things apart and put them back together again... he just tears them apart:  
 
-![](/embeds/books/attachments/fullmetal-alchemist-vol-2-x-2.png)  
+![](/embeds/books/attachments/fullmetal-alchemist-vol-2-x-2.jpg)  
 
 And of course, the creepy old baddies are back again:  
 

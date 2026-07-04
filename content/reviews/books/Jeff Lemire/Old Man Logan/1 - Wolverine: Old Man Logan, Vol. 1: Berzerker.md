@@ -19,13 +19,13 @@ Old Man Logan of course goes straight from shock to murder. If he's in the past 
 
 Only...
 
-![](/embeds/books/attachments/old-man-logan-1-210d15.png)
+![](/embeds/books/attachments/old-man-logan-1-210d15.jpg)
 
 What if this isn't actually *his* past? What if it isn't *his* future that he's setting out to change? 
 
 It's a neat idea, but a bit thin on execution. I would have rather him kick up a bit more trouble before starting to figure things out. Seeing an equally old Captain America (no idea what the story was there) was neat. But the real amusing part is the apart team up with Kate Bishop. 
 
-![](/embeds/books/attachments/old-man-logan-1-a65f7c.png)
+![](/embeds/books/attachments/old-man-logan-1-a65f7c.jpg)
 
 Not at all who I would have picked... but amusing!
 

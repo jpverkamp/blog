@@ -22,25 +22,25 @@ Saga continues to paint pictures of modern world problems, such as how homosexua
 
 <!--more-->
 
-![relationships](/embeds/books/attachments/relationships.png)  
+![relationships](/embeds/books/attachments/relationships.jpg)  
 
 And racism (even if / especially when the one saying it often doesn't even see it that way):  
 
-![robot-racist](/embeds/books/attachments/robot-racist.png)  
+![robot-racist](/embeds/books/attachments/robot-racist.jpg)  
 
 It gets as dark as discussions of those topics are wont to be. But there's still plenty of cute moments, for example, with Squire (he's really growing on me):  
 
-![squire](/embeds/books/attachments/squire.png)  
+![squire](/embeds/books/attachments/squire.jpg)  
 
 And Hazel's Teacher, who is a praying mantis alien, because sure.  
 
-![teacher](/embeds/books/attachments/teacher.png)  
+![teacher](/embeds/books/attachments/teacher.jpg)  
 
 And who turns out to be a hero in her own right--as teachers so often do.  
 
 In the end, a point of view worth considering, in the blunt matter Saga is good at:  
 
-![helping-hand](/embeds/books/attachments/helping-hand.png)  
+![helping-hand](/embeds/books/attachments/helping-hand.jpg)  
 
 Aside, MIL goals?  
 

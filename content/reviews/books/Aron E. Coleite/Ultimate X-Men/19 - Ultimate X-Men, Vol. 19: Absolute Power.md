@@ -31,19 +31,19 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-d29c9b.png)
+![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-d29c9b.jpg)
 
 Huh. Weird time for that to come out. Potentially interesting though. 
 
-![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-f2fbff.png)
+![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-f2fbff.jpg)
 
 And then they’re all on it!
 
-![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-2f2609.png)
+![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-2f2609.jpg)
 
 Except Wolverine. He **is** it!
 
-![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-79abd3.png)
+![](/embeds/books/attachments/ultimate-x-men-v19-textbundle-79abd3.jpg)
 
 … oh my. 
 

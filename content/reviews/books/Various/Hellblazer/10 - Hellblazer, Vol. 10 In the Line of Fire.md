@@ -22,22 +22,22 @@ Not a standout volume, but still pretty good.
 Mini reviews (spoilers):
 
 ## The Nature of the Beast 
-![](/embeds/books/attachments/hellblazer-10-9036fb.png)
+![](/embeds/books/attachments/hellblazer-10-9036fb.jpg)
 
 Sure…
 
-![](/embeds/books/attachments/hellblazer-10-25d50c.png)
+![](/embeds/books/attachments/hellblazer-10-25d50c.jpg)
 
 Reading the future is a common enough trope in this genre, but I enjoyed it. 
 
 ## Walking the Dog
 Another ghost story...
 
-![](/embeds/books/attachments/hellblazer-10-64f853.png)
+![](/embeds/books/attachments/hellblazer-10-64f853.jpg)
 
 …ish. 
 
-![](/embeds/books/attachments/hellblazer-10-a3188e.png)
+![](/embeds/books/attachments/hellblazer-10-a3188e.jpg)
 
 Oops. A neat twist. 
 
@@ -45,9 +45,9 @@ Oops. A neat twist.
 
 Going to be a weird one:
 
-![](/embeds/books/attachments/hellblazer-10-80ecc4.png)
+![](/embeds/books/attachments/hellblazer-10-80ecc4.jpg)
 
-![](/embeds/books/attachments/hellblazer-10-5c4745.png)
+![](/embeds/books/attachments/hellblazer-10-5c4745.jpg)
 
 Excellent. 
 
@@ -55,17 +55,17 @@ Of course it all goes poorly in the end. As these sorts of things do.
 
 ## Sins of the Father
 
-![](/embeds/books/attachments/hellblazer-10-dece80.png)
+![](/embeds/books/attachments/hellblazer-10-dece80.jpg)
 
 That’s an interesting way to do magic, it literally true. I may have to steal it. 
 
-![](/embeds/books/attachments/hellblazer-10-94a936.png)
+![](/embeds/books/attachments/hellblazer-10-94a936.jpg)
 
 Oh my. 
 
 He’s such an odd / interesting one. 
 
-![](/embeds/books/attachments/hellblazer-10-ccd278.png)
+![](/embeds/books/attachments/hellblazer-10-ccd278.jpg)
 
 As far as strategies/metaphors go…
 
@@ -74,7 +74,7 @@ Quite a hard hitting story. A bit of mental relief for Constantine, I think? And
 ## Football: It’s a Funny Old Game
 Constantine, going to a football game. What could possibly go wrong?
 
-![](/embeds/books/attachments/hellblazer-10-64e4ca.png)
+![](/embeds/books/attachments/hellblazer-10-64e4ca.jpg)
 
 Well…
 
@@ -83,17 +83,17 @@ Well…
 
 Constantine has been through quite a lot… and the mental toll of that seems to be catching up with him. 
 
-![](/embeds/books/attachments/hellblazer-10-a88fbb.png)
+![](/embeds/books/attachments/hellblazer-10-a88fbb.jpg)
 
 ### Part Two: The Trouble with Worms
 
-![](/embeds/books/attachments/hellblazer-10-865252.png)
+![](/embeds/books/attachments/hellblazer-10-865252.jpg)
 
 Oooy. 
 
 ### Part Three: The Darkening of the Light
 
-![](/embeds/books/attachments/hellblazer-10-4fcce0.png)
+![](/embeds/books/attachments/hellblazer-10-4fcce0.jpg)
 
 Now that’s a follow up. Nothing without a cost, especially in Constantine’s world. 
 
@@ -104,11 +104,11 @@ A weird/incomplete place to end.
 ## A Taste of Heaven
 In a world where divine inspiration seems both commonplace…
 
-![](/embeds/books/attachments/hellblazer-10-8a8215.png)
+![](/embeds/books/attachments/hellblazer-10-8a8215.jpg)
 
 …and to come with a cost? I’m looking forward to it. 
 
-![](/embeds/books/attachments/hellblazer-10-f90dbe.png)
+![](/embeds/books/attachments/hellblazer-10-f90dbe.jpg)
 
 Oh Angels. 
 
@@ -117,14 +117,14 @@ Oh Angels.
 
 A solider’y ghost story sounds like. 
 
-![](/embeds/books/attachments/hellblazer-10-7ddb45.png)
+![](/embeds/books/attachments/hellblazer-10-7ddb45.jpg)
 
 ### Part Two: Over My Dead Body
 
-![](/embeds/books/attachments/hellblazer-10-05876a.png)
+![](/embeds/books/attachments/hellblazer-10-05876a.jpg)
 
 Another fascinating character. Ripe for puns:
 
-![](/embeds/books/attachments/hellblazer-10-0a7510.png)
+![](/embeds/books/attachments/hellblazer-10-0a7510.jpg)
 
 A quick end but a good story.

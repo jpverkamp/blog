@@ -17,7 +17,7 @@ A way to cure the Hulk.
 
 What could possibly go wrong?
 
-![](/embeds/books/attachments/ultimate-hulk-v-iron-man-textbundle-0fe034.png)
+![](/embeds/books/attachments/ultimate-hulk-v-iron-man-textbundle-0fe034.jpg)
 
 Not quite being ripped in half (yet). 
 
@@ -34,11 +34,11 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-hulk-v-iron-man-textbundle-8e1fb4.png)
+![](/embeds/books/attachments/ultimate-hulk-v-iron-man-textbundle-8e1fb4.jpg)
 
 So is Stark still a meta human, just not with the healing factor?
 
-![](/embeds/books/attachments/ultimate-hulk-v-iron-man-textbundle-7c4da1.png)
+![](/embeds/books/attachments/ultimate-hulk-v-iron-man-textbundle-7c4da1.jpg)
  
 Brilliant minds… and they didn’t even consider it. 
 

@@ -31,11 +31,11 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v9-f0c65f.png)
+![](/embeds/books/attachments/ultimate-x-men-v9-f0c65f.jpg)
 
 A German word for everything. 
 
-![](/embeds/books/attachments/ultimate-x-men-v9-6caa52.png)
+![](/embeds/books/attachments/ultimate-x-men-v9-6caa52.jpg)
 
 Logan… cares?
 

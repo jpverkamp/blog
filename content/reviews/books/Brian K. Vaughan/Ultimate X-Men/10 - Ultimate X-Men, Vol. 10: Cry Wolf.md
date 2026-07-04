@@ -29,21 +29,21 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v10-5526c6.png)
+![](/embeds/books/attachments/ultimate-x-men-v10-5526c6.jpg)
 
 Cute. 
 
-![](/embeds/books/attachments/ultimate-x-men-v10-91ef3f.png)
+![](/embeds/books/attachments/ultimate-x-men-v10-91ef3f.jpg)
 
 Ooh my. 
 
-![](/embeds/books/attachments/ultimate-x-men-v10-ac4a26.png)
+![](/embeds/books/attachments/ultimate-x-men-v10-ac4a26.jpg)
 
 Hard one to turn down that. 
 
 I like the new “baddies”. Forget conquering the world. Buy it. 
 
-![](/embeds/books/attachments/ultimate-x-men-v10-3dd685.png)
+![](/embeds/books/attachments/ultimate-x-men-v10-3dd685.jpg)
 
 1) Trump wannabes. So much more innocent then. 
 

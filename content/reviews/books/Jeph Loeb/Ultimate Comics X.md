@@ -17,7 +17,7 @@ title: 'Ultimate Comics X: Origins'
 ---
 And now, more aftermath. 
 
-![](/embeds/books/attachments/ultimate-comics-x-textbundle-7043fb.png)
+![](/embeds/books/attachments/ultimate-comics-x-textbundle-7043fb.jpg)
 
 So… they’re going to build a new team, right?
 
@@ -35,18 +35,18 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-x-textbundle-6e4f00.png)
+![](/embeds/books/attachments/ultimate-comics-x-textbundle-6e4f00.jpg)
 
 Oh my. 
 
-![](/embeds/books/attachments/ultimate-comics-x-textbundle-839800.png)
+![](/embeds/books/attachments/ultimate-comics-x-textbundle-839800.jpg)
 
 Double of my. Not who I expected, given the rather different look. But I suppose that’s the point. 
 
-![](/embeds/books/attachments/ultimate-comics-x-textbundle-6722ad.png)
+![](/embeds/books/attachments/ultimate-comics-x-textbundle-6722ad.jpg)
 
 Killing and eating hundreds of people. That’s certainly a stretch for a redemption arc. 
 
-![](/embeds/books/attachments/ultimate-comics-x-textbundle-cebc5f.png)
+![](/embeds/books/attachments/ultimate-comics-x-textbundle-cebc5f.jpg)
 
 Huh. So what’s the trick here now?

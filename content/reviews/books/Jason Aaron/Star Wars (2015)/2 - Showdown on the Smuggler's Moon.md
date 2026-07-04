@@ -32,15 +32,15 @@ It’s a fun one, a dueling pair of adventures and a bit of backstory bridging t
 
 Han and Leia are off meeting old wives (and getting shot at). 
 
-![](/embeds/books/attachments/star-wars-2015-v2-textbundle-c6670e.png)
+![](/embeds/books/attachments/star-wars-2015-v2-textbundle-c6670e.jpg)
 
 Luke is off reading Obi-Wan’s diaries…
 
-![](/embeds/books/attachments/star-wars-2015-v2-textbundle-807a6c.png)
+![](/embeds/books/attachments/star-wars-2015-v2-textbundle-807a6c.jpg)
 
 …and bumping into Hutts. What else is new?
 
-![](/embeds/books/attachments/star-wars-2015-v2-textbundle-9b4499.png)
+![](/embeds/books/attachments/star-wars-2015-v2-textbundle-9b4499.jpg)
 
 It’s such a mess that they have to end up rescuing Luke from, but I kind of appreciate that. Each gets their own turn being the one in distress!
 

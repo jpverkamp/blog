@@ -18,7 +18,7 @@ title: "All-New X-Men, Vol. 4: All-Different"
 ---
 Looks like things are settling and everyone is more or less getting along… as impossible as that seems. 
 
-![](/embeds/books/attachments/all-new-x-men-4-a9b25d.png)
+![](/embeds/books/attachments/all-new-x-men-4-a9b25d.jpg)
 
 All New X-Man! He said the thing! Also:
 
@@ -28,7 +28,7 @@ Comics are delightful.
 
 In any case, I guess they need a new big bad. Enter… religion!
 
-![](/embeds/books/attachments/all-new-x-men-4-fce3b3.png)
+![](/embeds/books/attachments/all-new-x-men-4-fce3b3.jpg)
 
 Run by Stryker apparently? Oh my. 
 
@@ -43,13 +43,13 @@ Onward!
 
 A few more parts I particularly enjoyed:
 
-![](/embeds/books/attachments/all-new-x-men-4-4a1316.png)
+![](/embeds/books/attachments/all-new-x-men-4-4a1316.jpg)
 
 I understood too. And it’s hilarious. 
 
 I can’t say that I like or even really understand this Magneto, compared to mostly my view of him from the movies. He just seems like a black slate. A robot even. But it’s certainly amusing seeing him dry snark Beast. 
 
-![](/embeds/books/attachments/all-new-x-men-4-f8cfc1.png)
+![](/embeds/books/attachments/all-new-x-men-4-f8cfc1.jpg)
 
 Time travel yo. 
 

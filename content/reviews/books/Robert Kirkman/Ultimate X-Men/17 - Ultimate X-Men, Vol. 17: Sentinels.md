@@ -33,11 +33,11 @@ Notes. Spoilers.
 
 Huh. Well I was wondering when they would do that. 
 
-![](/embeds/books/attachments/ultimate-x-men-v17-textbundle-39e9fd.png)
+![](/embeds/books/attachments/ultimate-x-men-v17-textbundle-39e9fd.jpg)
 
 Oh my. That’s an interesting choice. 
 
-![](/embeds/books/attachments/ultimate-x-men-v17-textbundle-623737.png)
+![](/embeds/books/attachments/ultimate-x-men-v17-textbundle-623737.jpg)
 
 Along all the ridiculously ‘minimal’ outfits the X-Men end up in… that’s certainly one of them. 
 

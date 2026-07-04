@@ -40,14 +40,14 @@ It’s a jam packed volume, just at the right scale for Spider-Man. A good one.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/miles-morales-ultimate-2-textbundle-edb7b3.png)
+![](/embeds/books/attachments/miles-morales-ultimate-2-textbundle-edb7b3.jpg)
 
 Then *why* did you bring him back?!
 
-![](/embeds/books/attachments/miles-morales-ultimate-2-textbundle-916df1.png)
+![](/embeds/books/attachments/miles-morales-ultimate-2-textbundle-916df1.jpg)
 
 I’ll admit, I didn’t see that one coming. Mostly because Hydra has barely been a thing in the Ultimate universe. It has potential, I guess. 
 
-![](/embeds/books/attachments/miles-morales-ultimate-2-textbundle-dc99fe.png)
+![](/embeds/books/attachments/miles-morales-ultimate-2-textbundle-dc99fe.jpg)
 
 You know… it works. I like a Spider-Person Black Widow. 

@@ -20,12 +20,12 @@ Weird, slow, and dark at first but then we get the Deadly Habits storyline. That
 ## The Bogeyman
 Oh Constantine. What is going on with you. Dark and depressing and little happening. Sets up a story I suppose. 
 
-![](/embeds/books/attachments/hellblazer-5-c7c574.png)
+![](/embeds/books/attachments/hellblazer-5-c7c574.jpg)
 
 ## Dead-Boy’s Heart 
 That’s a great issue. Took me a bit to realize it was typing Constantine. So he’s always been … a little different. 
 
-![](/embeds/books/attachments/hellblazer-5-29fe35.png)
+![](/embeds/books/attachments/hellblazer-5-29fe35.jpg)
 
 Interesting how stories grow. An old man with likely mental issues living alone in the quarry to the Boogeyman . 
 
@@ -34,15 +34,15 @@ Interesting how stories grow. An old man with likely mental issues living alone 
 ## The Undiscover’d Country
 To paraphrase the Bard:
 
-![](/embeds/books/attachments/hellblazer-5-7cba00.png)
+![](/embeds/books/attachments/hellblazer-5-7cba00.jpg)
 
 So it’d going to be one of those weird, psychedelic, out of body stories then?
 
-![](/embeds/books/attachments/hellblazer-5-efd627.png)
+![](/embeds/books/attachments/hellblazer-5-efd627.jpg)
 
 Visually fascinating at least. Dark echoes of a Christmas Story. A future now less than a decade away. 
 
-![](/embeds/books/attachments/hellblazer-5-c02f9c.png)
+![](/embeds/books/attachments/hellblazer-5-c02f9c.jpg)
 
 The dream ones are always weird. 
 
@@ -59,11 +59,11 @@ Bloody hazing and Mercury to save the day.
 
 Just… how in the world is she going to explain that to Marj and Constantine…
 
-![](/embeds/books/attachments/hellblazer-5-898b71.png)
+![](/embeds/books/attachments/hellblazer-5-898b71.jpg)
 
 Oy. 
 
-![](/embeds/books/attachments/hellblazer-5-d6e3b5.png)
+![](/embeds/books/attachments/hellblazer-5-d6e3b5.jpg)
 
 Yeah okay. Literally snickered at that one. 
 
@@ -74,20 +74,20 @@ A solid and very very weird two parter…
 
 ### The Hanged Man
 
-![](/embeds/books/attachments/hellblazer-5-9c05d5.png)
+![](/embeds/books/attachments/hellblazer-5-9c05d5.jpg)
 
 Tarot in a world with Power. I haven’t quite got an feel for this version of Zed versus the movie or TV show ones. 
 
 Flashbacks to Constantine’s birth:
 
-![](/embeds/books/attachments/hellblazer-5-0f4713.png)
+![](/embeds/books/attachments/hellblazer-5-0f4713.jpg)
 
 And now we know what Mercury meant about killing his brother. Oy. Dark that. 
 
 ### The Magus
 And then a story of what might have been. It’s an interesting story, but I’m not sure we’ve quite earned it having just learned about the brother. 
 
-![](/embeds/books/attachments/hellblazer-5-de4931.png)
+![](/embeds/books/attachments/hellblazer-5-de4931.jpg)
 
 Such a weird yet fascinating universe. 
 
@@ -96,13 +96,13 @@ Ah. Here begins the cancer storyline. I didn’t think that was solely a movie c
 
 ### The Beginning of the End
 
-![](/embeds/books/attachments/hellblazer-5-0f3ce7.png)
+![](/embeds/books/attachments/hellblazer-5-0f3ce7.jpg)
 
 All the  crazy things he’s done, and it will be came to kill him? I expect not. But how?
 
 ### A Drop of the Hard Stuff 
 
-![](/embeds/books/attachments/hellblazer-5-7de5ba.png)
+![](/embeds/books/attachments/hellblazer-5-7de5ba.jpg)
 
 Yeah okay. It’s a silly scene and his friend is certainly well into drinking himself to death. But that’s hilarious. 
 
@@ -110,11 +110,11 @@ Water into… Beer!
 
 Of course… it’s not long to last. 
 
-![](/embeds/books/attachments/hellblazer-5-4ece4a.png)
+![](/embeds/books/attachments/hellblazer-5-4ece4a.jpg)
 
 Yeah… Interesting way to go, but if you’re doomed anyways I suppose. And it gets better!
 
-![](/embeds/books/attachments/hellblazer-5-a5e00e.png)
+![](/embeds/books/attachments/hellblazer-5-a5e00e.jpg)
 
 A wonderful twist. And a chance for Constantine?
 
@@ -124,7 +124,7 @@ A wonderful twist. And a chance for Constantine?
 
 One option:
 
-![](/embeds/books/attachments/hellblazer-5-3e564f.png)
+![](/embeds/books/attachments/hellblazer-5-3e564f.jpg)
 
 Gabriel. Which of course goes purely. 
 
@@ -132,16 +132,16 @@ Gabriel. Which of course goes purely.
 
 A who’s who of meeting up and saying goodbye. Constantine style. Before one (hopefully not) last trick. 
 
-![](/embeds/books/attachments/hellblazer-5-4d33f0.png)
+![](/embeds/books/attachments/hellblazer-5-4d33f0.jpg)
 
 ### The Sting
 
-![](/embeds/books/attachments/hellblazer-5-59d9ea.png)
+![](/embeds/books/attachments/hellblazer-5-59d9ea.jpg)
 
 And there it is. Oh boy. That’s a delightful trick. Not likely to work more than once, but once is enough…
 
 ### Falling into Hell
 
-![](/embeds/books/attachments/hellblazer-5-387511.png)
+![](/embeds/books/attachments/hellblazer-5-387511.jpg)
 
 One heck of a story.

@@ -29,31 +29,31 @@ Onward!
 
 As I reads, spoilers:
 
-![](/embeds/books/attachments/runaways-v5-5b1db1.png)
+![](/embeds/books/attachments/runaways-v5-5b1db1.jpg)
 
 Not sure I’ll ever get used completely comics suddenly completely switching to different art styles. 
 
-![](/embeds/books/attachments/runaways-v5-49aae5.png)
+![](/embeds/books/attachments/runaways-v5-49aae5.jpg)
 
 That’s a thing? Of course that’s a thing. 
 
-![](/embeds/books/attachments/runaways-v5-a1b291.png)
+![](/embeds/books/attachments/runaways-v5-a1b291.jpg)
 
 I was just commenting on that. 
 
-![](/embeds/books/attachments/runaways-v5-2adc3c.png)
+![](/embeds/books/attachments/runaways-v5-2adc3c.jpg)
 
 Lol. 
 
-![](/embeds/books/attachments/runaways-v5-8f53df.png)
+![](/embeds/books/attachments/runaways-v5-8f53df.jpg)
 
 Poof. Rrrr? I like how get spells have to be unique. I wonder if language matters. 
 
-![](/embeds/books/attachments/runaways-v5-8fb4ab.png)
+![](/embeds/books/attachments/runaways-v5-8fb4ab.jpg)
 
 Delightful. 
 
-![](/embeds/books/attachments/runaways-v5-5810a4.png)
+![](/embeds/books/attachments/runaways-v5-5810a4.jpg)
 
 Go Molly! Also… reading in no particular order does lead to a lot of questions. Where are all the mutants?
 

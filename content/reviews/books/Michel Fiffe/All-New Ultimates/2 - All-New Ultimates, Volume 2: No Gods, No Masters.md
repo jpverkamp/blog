@@ -44,29 +44,29 @@ Onward to the end.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/all-new-ultimates-2-textbundle-9bd834.png)
+![](/embeds/books/attachments/all-new-ultimates-2-textbundle-9bd834.jpg)
 
 More different art, yet again!
 
-![](/embeds/books/attachments/all-new-ultimates-2-textbundle-2142e1.png)
+![](/embeds/books/attachments/all-new-ultimates-2-textbundle-2142e1.jpg)
 
 I don’t think I’ve seen Cloak and Dagger as civilians. Given Dagger’s glowing eyes at the beach, I didn’t think they could. 
 
 Haven’t seen them fighting either. Don’t like it. 
 
-![](/embeds/books/attachments/all-new-ultimates-2-textbundle-53d1b6.png)
+![](/embeds/books/attachments/all-new-ultimates-2-textbundle-53d1b6.jpg)
 
 Slightly more Ultimate, the FF. 
 
 Sue doesn’t have a nose… Falcon doesn’t have a *face*. 
 
-![](/embeds/books/attachments/all-new-ultimates-2-textbundle-4dcbcf.png)
+![](/embeds/books/attachments/all-new-ultimates-2-textbundle-4dcbcf.jpg)
 
 Well…
 
 I do like Drew’s new look. 
 
-![](/embeds/books/attachments/all-new-ultimates-2-textbundle-da081d.png)
+![](/embeds/books/attachments/all-new-ultimates-2-textbundle-da081d.jpg)
 
 O_O
 

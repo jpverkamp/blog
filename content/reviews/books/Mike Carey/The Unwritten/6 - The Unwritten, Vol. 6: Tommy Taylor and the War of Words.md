@@ -26,23 +26,23 @@ Onward!
 
 ## Ongoing thoughts, spoilers:
 
-![](/embeds/books/attachments/unwritten-6-c5db5f.png)
+![](/embeds/books/attachments/unwritten-6-c5db5f.jpg)
 
 Well that's certainly a neat trick. I can hear the Inception BROOOUM already. 
 
-![](/embeds/books/attachments/unwritten-6-73a22b.png)
+![](/embeds/books/attachments/unwritten-6-73a22b.jpg)
 
 Harry Potter gone dark. :D
 
-![](/embeds/books/attachments/unwritten-6-4570ca.png)
+![](/embeds/books/attachments/unwritten-6-4570ca.jpg)
 
 Yo. 
 
-![](/embeds/books/attachments/unwritten-6-866f2e.png)
+![](/embeds/books/attachments/unwritten-6-866f2e.jpg)
 
 I love this scene. :D 
 
-![](/embeds/books/attachments/unwritten-6-f041bd.png)
+![](/embeds/books/attachments/unwritten-6-f041bd.jpg)
 
 So *that's* who Pullman is!
 

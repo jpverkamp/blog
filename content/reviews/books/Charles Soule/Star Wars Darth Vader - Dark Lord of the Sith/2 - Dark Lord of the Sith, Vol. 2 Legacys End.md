@@ -25,7 +25,7 @@ series_index:
 ---
 Vader's goal this time?  
 
-![](/embeds/books/attachments/vader-17-2.1.png)  
+![](/embeds/books/attachments/vader-17-2.1.jpg)  
 
 <!--more-->
 
@@ -35,11 +35,11 @@ There's more to it than that of course, but the idea that the Emperor has ordere
 
 We also get the (re-)introduction of the Inquisitors. Other dark Jedi / Sith- wannabees.  
 
-![](/embeds/books/attachments/vader-17-2.2.png)   
+![](/embeds/books/attachments/vader-17-2.2.jpg)   
 
 It's ... kind of the same plot as last time, with a number of wildly outclassed foes for Vader's position, but we'll give it a chance.  
 
-![](/embeds/books/attachments/vader-17-2.3.png)   
+![](/embeds/books/attachments/vader-17-2.3.jpg)   
 
 Especially with scenes like that. Sympathy for Vader. Who would have thought...  
 

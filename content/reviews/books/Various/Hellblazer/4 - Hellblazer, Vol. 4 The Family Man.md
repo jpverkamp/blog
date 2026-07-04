@@ -21,29 +21,29 @@ Better than Volume 3 by a long shot. Starts weird but interesting and gets bette
 
 ## Larger than Life
 
-![](/embeds/books/attachments/hellblazer-4-97e9ca.png)
+![](/embeds/books/attachments/hellblazer-4-97e9ca.jpg)
 
 This has potential! Certainly starting the weird a bit quicker. 
 
-![](/embeds/books/attachments/hellblazer-4-f505d4.png)
+![](/embeds/books/attachments/hellblazer-4-f505d4.jpg)
 
 An interesting mix of mythologies. Given the nature of world building, it could very well be Cerberus or just named therefore. 
 
 An interesting and bizarre story. I wonder if it’s stand alone?
 
-![](/embeds/books/attachments/hellblazer-4-4b571a.png)
+![](/embeds/books/attachments/hellblazer-4-4b571a.jpg)
 
 Lovely. 
 
 ## The Family Man
 
-![](/embeds/books/attachments/hellblazer-4-1b0419.png)
+![](/embeds/books/attachments/hellblazer-4-1b0419.jpg)
 
 Uh huh. I think you might be there. 
 
 Also a reminder that while Constantine might be a good sort when demons are concerned…
 
-![](/embeds/books/attachments/hellblazer-4-141955.png)
+![](/embeds/books/attachments/hellblazer-4-141955.jpg)
 
 …he’s not exactly a perfect paragon of virtue. 
 
@@ -51,13 +51,13 @@ Then again, he ends up turning up something for more interesting.
 
 ## Early Warning
 
-![](/embeds/books/attachments/hellblazer-4-46cc59.png)
+![](/embeds/books/attachments/hellblazer-4-46cc59.jpg)
 
 They could very well be speaking literally (magitech is fascinating) or figuratively and I’d not know enough about this world to guess. I know demons are real, we’ve seen them. But do **they** know that?
 
 Well…
 
-![](/embeds/books/attachments/hellblazer-4-1b4d4d.png)
+![](/embeds/books/attachments/hellblazer-4-1b4d4d.jpg)
 
 A little of both and a bit of neither it seems. 
 
@@ -65,13 +65,13 @@ That’s what makes for interesting reading!
 
 ## How I Learned to Love the Bomb
 
-![](/embeds/books/attachments/hellblazer-4-29c769.png)
+![](/embeds/books/attachments/hellblazer-4-29c769.jpg)
 
 Well that got delightfully dark. 
 
 Especially when:
 
-![](/embeds/books/attachments/hellblazer-4-ea009e.png)
+![](/embeds/books/attachments/hellblazer-4-ea009e.jpg)
 
 Oh! The plot thickens. 
 
@@ -79,23 +79,23 @@ That’s a pretty cool story line.
 
 ## Hold Me
 
-![](/embeds/books/attachments/hellblazer-4-947625.png)
+![](/embeds/books/attachments/hellblazer-4-947625.jpg)
 
 Weird/different art style and a weird start to the plot (again with the sperm donation? Constantine comments on that :) but once we get to the smelly man things get **properly** weird. And then it’s over…
 
 ## Thicker than Water
 
-![](/embeds/books/attachments/hellblazer-4-0a037f.png)
+![](/embeds/books/attachments/hellblazer-4-0a037f.jpg)
 
 Well that’s a start. At least it’s more colorful? It’s nice (for some definitions thereof) to get back to the Family Man plot. 
 
-![](/embeds/books/attachments/hellblazer-4-4a2c3a.png)
+![](/embeds/books/attachments/hellblazer-4-4a2c3a.jpg)
 
 Of course that’s a thing. 
 
 ## Sick at Heart
 
-![](/embeds/books/attachments/hellblazer-4-3df16a.png)
+![](/embeds/books/attachments/hellblazer-4-3df16a.jpg)
 
 And then it was personal. I didn’t put that together last time…
 
@@ -113,17 +113,17 @@ Voodoo arrested via formaldehyde amuses me somewhat.
 
 ## New Tricks
 
-![](/embeds/books/attachments/hellblazer-4-fe72a6.png)
+![](/embeds/books/attachments/hellblazer-4-fe72a6.jpg)
 
 That’s a villain. 
 
-![](/embeds/books/attachments/hellblazer-4-92f765.png)
+![](/embeds/books/attachments/hellblazer-4-92f765.jpg)
 
 Heh. Seriously? That worked?
 
 ## Sundays are Different
 
-![](/embeds/books/attachments/hellblazer-4-9c0328.png)
+![](/embeds/books/attachments/hellblazer-4-9c0328.jpg)
 
 Llew… ttah gimht eb a bloprme…
 

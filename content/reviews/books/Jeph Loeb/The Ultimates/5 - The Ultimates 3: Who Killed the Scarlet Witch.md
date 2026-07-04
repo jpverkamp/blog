@@ -31,18 +31,18 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimates-3-textbundle-86d5a4.png)
+![](/embeds/books/attachments/ultimates-3-textbundle-86d5a4.jpg)
 
 Black Panther? Introduced now? Like this?
 
-![](/embeds/books/attachments/ultimates-3-textbundle-29aab1.png)
+![](/embeds/books/attachments/ultimates-3-textbundle-29aab1.jpg)
 
 That’s a neat trick. 
 
-![](/embeds/books/attachments/ultimates-3-textbundle-4e900d.png)
+![](/embeds/books/attachments/ultimates-3-textbundle-4e900d.jpg)
 
 … also a neat trick. How long?
 
-![](/embeds/books/attachments/ultimates-3-textbundle-67130a.png)
+![](/embeds/books/attachments/ultimates-3-textbundle-67130a.jpg)
 
 Yeah okay. That’s a cool twist. 

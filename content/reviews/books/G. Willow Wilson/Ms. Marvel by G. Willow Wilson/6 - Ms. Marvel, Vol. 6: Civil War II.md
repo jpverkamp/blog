@@ -17,7 +17,7 @@ title: 'Ms. Marvel, Vol. 6: Civil War II'
 
 High school athletic competition! New Jersey vs New York! Kamala vs…
 
-![](/embeds/books/attachments/ms-marvel-2014-v6-textbundle-69fae4.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v6-textbundle-69fae4.jpg)
 
 Miles? Oh my. 
 
@@ -33,7 +33,7 @@ So that went well.
 
 And then on to the meat of the story!
 
-![](/embeds/books/attachments/ms-marvel-2014-v6-textbundle-ffa770.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v6-textbundle-ffa770.jpg)
 
 Superheroes disagreeing? 
 
@@ -50,6 +50,6 @@ I’m curious how much more of this event there is.
 
 Also, this issue Kamala travels to Pakistan. Meets family and new ‘friends’. And I learned a fun new word!
 
-![](/embeds/books/attachments/ms-marvel-2014-v6-textbundle-a185ca.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v6-textbundle-a185ca.jpg)
 
 Apparently it’s discussed in DVD commentaries for Deep Space Nine, but I never listened to those. Curious if it’s a coincidence or inspiration. 

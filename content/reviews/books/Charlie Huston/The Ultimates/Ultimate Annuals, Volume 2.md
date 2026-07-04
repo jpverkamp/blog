@@ -29,7 +29,7 @@ The fallout of Grand Theft America. Captain America not dealing well with his ti
 
 And of course…
 
-![](/embeds/books/attachments/ultimate-annuals-2-textbundle-3b639d.png)
+![](/embeds/books/attachments/ultimate-annuals-2-textbundle-3b639d.jpg)
 
 … the ghost the the machine?
 
@@ -41,20 +41,20 @@ Once again, already in Inhuman. It didn’t make much sense there and wasn’t t
 ## X-Men
 Dazzler is awake! And Nightcrawler is perhaps not taking this well. 
 
-![](/embeds/books/attachments/ultimate-annuals-2-textbundle-2db51f.png)
+![](/embeds/books/attachments/ultimate-annuals-2-textbundle-2db51f.jpg)
 
 The only Nightcrawler I know is from the movies, so I don’t like this at all. Curious if we’ll get more of this story. 
 
 ## Spider-Man
 Been a while since we saw Spider-Man and his cop friend. 
 
-![](/embeds/books/attachments/ultimate-annuals-2-textbundle-f48b09.png)
+![](/embeds/books/attachments/ultimate-annuals-2-textbundle-f48b09.jpg)
 
 Did we know that?!
 
 Daredevil and the Punisher showing up was fun though!
 
-![](/embeds/books/attachments/ultimate-annuals-2-textbundle-86ed5e.png)
+![](/embeds/books/attachments/ultimate-annuals-2-textbundle-86ed5e.jpg)
 
 And Moon Knight!
 

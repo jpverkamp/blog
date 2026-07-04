@@ -28,29 +28,29 @@ Onward!
 
 More thoughts; spoilers:
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-1-b0b980.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-1-b0b980.jpg)
 
 Teenage problems. 
 
 Is that actually the lingo of the early 2000s? Not what I remember?
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-1-be151b.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-1-be151b.jpg)
 
 Not quite great responsibility. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-1-380d47.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-1-380d47.jpg)
 
 Science! Badly…
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-1-e96bbd.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-1-e96bbd.jpg)
 
 Heart of Spider gold!
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-1-998e2e.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-1-998e2e.jpg)
 
 Not quite the same words, but it’s got the same soul. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-1-922c45.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-1-922c45.jpg)
 
 A little slow, but he gets it eventually. Sort of. 
 

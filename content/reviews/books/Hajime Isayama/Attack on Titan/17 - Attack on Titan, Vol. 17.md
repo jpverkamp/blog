@@ -18,6 +18,6 @@ series_index: [17]
 ---
 Things continue to heat up (heh). Attack by a crawling mess of a Titan on the wall versus Eren and a bundle of explosives. Historia ascending. The Beast Titan. It’s a crazy story.  
 
-![File-Apr-27-8-14-59-PM-Ao-T-17](/embeds/books/attachments/file-apr-27-8-14-59-pm-ao-t-17.png)
+![File-Apr-27-8-14-59-PM-Ao-T-17](/embeds/books/attachments/file-apr-27-8-14-59-pm-ao-t-17.jpg)
 
 <!--more-->

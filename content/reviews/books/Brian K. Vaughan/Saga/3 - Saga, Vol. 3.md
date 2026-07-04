@@ -22,7 +22,7 @@ Dealing with the MIL:
 
 <!--more-->
 
-![Saga-3-1-MIL](/embeds/books/attachments/saga-3-1-mil.png)  
+![Saga-3-1-MIL](/embeds/books/attachments/saga-3-1-mil.jpg)  
 
 Doing dishes:  
 
@@ -30,6 +30,6 @@ Doing dishes:
 
 And a writer just wanting to make a paycheck, except it's getting away from him a bit. It's interesting to explore just what pacifism means, especially in a world gone mad.  
 
-![Saga-3-3-Fake-violence](/embeds/books/attachments/saga-3-3-fake-violence.png)  
+![Saga-3-3-Fake-violence](/embeds/books/attachments/saga-3-3-fake-violence.jpg)  
 
 Worth the read.

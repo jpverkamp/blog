@@ -35,21 +35,21 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v4-1191e1.png)
+![](/embeds/books/attachments/ultimate-x-men-v4-1191e1.jpg)
 
 Sun groups within mutants. Fascinating. 
 
-![](/embeds/books/attachments/ultimate-x-men-v4-c2ebe3.png)
+![](/embeds/books/attachments/ultimate-x-men-v4-c2ebe3.jpg)
 
 Cute. 
 
-![](/embeds/books/attachments/ultimate-x-men-v4-884b20.png)
+![](/embeds/books/attachments/ultimate-x-men-v4-884b20.jpg)
 
 Sudden art style changes!
 
 Totally not what’s going on to Jean… right? … right?
 
-![](/embeds/books/attachments/ultimate-x-men-v4-c8b4da.png)
+![](/embeds/books/attachments/ultimate-x-men-v4-c8b4da.jpg)
 
 Such a weird plot line. 
 

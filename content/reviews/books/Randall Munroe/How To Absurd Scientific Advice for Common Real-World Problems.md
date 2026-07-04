@@ -25,7 +25,7 @@ Random things I love about this book? I love the footnotes:
 
 I love how deadpan much of the humor is (the extremely simplistic art style makes it work):  
 
-![](/embeds/books/attachments/how-to-absurd-scientific-advice-for-common-real-world-problems-x-1.png)  
+![](/embeds/books/attachments/how-to-absurd-scientific-advice-for-common-real-world-problems-x-1.jpg)  
 
 And:  
 
@@ -41,7 +41,7 @@ Guilty.
 
 To top it all off...  
 
-![](/embeds/books/attachments/how-to-absurd-scientific-advice-for-common-real-world-problems-x-2.png)  
+![](/embeds/books/attachments/how-to-absurd-scientific-advice-for-common-real-world-problems-x-2.jpg)  
 
 Oh how things have changed living in the age of the coronavirus. Oy.  
 

@@ -29,15 +29,15 @@ A Mad Max style apocalyptic future, ruled by Marvel’s villains.
 
 Logan, old and worn. Something happened 50 years ago and he's refusing to fight. 
 
-![](/embeds/books/attachments/old-man-logan-textbundle-03be42.png)
+![](/embeds/books/attachments/old-man-logan-textbundle-03be42.jpg)
 
 Hawkeye, blind and perhaps a touch insane. 
 
-![](/embeds/books/attachments/old-man-logan-textbundle-4a99c2.png)
+![](/embeds/books/attachments/old-man-logan-textbundle-4a99c2.jpg)
 
 Genre awareness, always a fun aspect.
 
-![](/embeds/books/attachments/old-man-logan-textbundle-8cfe07.png)
+![](/embeds/books/attachments/old-man-logan-textbundle-8cfe07.jpg)
 
 Hulk's descendants, ruling out West. Dinosaurs. Venom riding a T-Rex. 
 

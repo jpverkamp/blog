@@ -32,15 +32,15 @@ Interesting enough. Onward!
 Notes. Spoilers. 
 
 
-![](/embeds/books/attachments/ultimate-x-men-v14-textbundle-48bd60.png)
+![](/embeds/books/attachments/ultimate-x-men-v14-textbundle-48bd60.jpg)
 
 Say who now?
 
-![](/embeds/books/attachments/ultimate-x-men-v14-textbundle-cb01c7.png)
+![](/embeds/books/attachments/ultimate-x-men-v14-textbundle-cb01c7.jpg)
 
 Two…
 
-![](/embeds/books/attachments/ultimate-x-men-v14-textbundle-0e2cd7.png)
+![](/embeds/books/attachments/ultimate-x-men-v14-textbundle-0e2cd7.jpg)
 
 Really now. 
 

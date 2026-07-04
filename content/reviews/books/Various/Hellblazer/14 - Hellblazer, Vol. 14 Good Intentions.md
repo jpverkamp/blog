@@ -29,7 +29,7 @@ Thoughts/spoilers:
 
 Been a while. Came back to…
 
-![](/embeds/books/attachments/hellblazer-14-ba5ec1.png)
+![](/embeds/books/attachments/hellblazer-14-ba5ec1.jpg)
 
 … a very different art style. Interesting. 
 
@@ -39,7 +39,7 @@ Oy.
 
 It only gets crazier from there. 
 
-![](/embeds/books/attachments/hellblazer-14-0e9de6.png)
+![](/embeds/books/attachments/hellblazer-14-0e9de6.jpg)
 
 Yeah… no. 
 
@@ -51,7 +51,7 @@ Quite a story. Five parts and I’m still not sure of I actually liked it or not
 
 Right off Hard Time:
 
-![](/embeds/books/attachments/hellblazer-14-7f570e.png)
+![](/embeds/books/attachments/hellblazer-14-7f570e.jpg)
 
 Same story, rather different art. Poor guy, trying to do a good deed… and he gets stuck work Constantine in a pissy mood. 
 
@@ -59,7 +59,7 @@ Better than the second car at least…
 
 And so on it goes, eventually hinting into the supernatural. 
 
-![](/embeds/books/attachments/hellblazer-14-58c26f.png)
+![](/embeds/books/attachments/hellblazer-14-58c26f.jpg)
 
 And in the end, it is people that are the worst. 
 
@@ -67,13 +67,13 @@ And in the end, it is people that are the worst.
 
 Quick interlude with my favorite art style of the volume so far. 
 
-![](/embeds/books/attachments/hellblazer-14-7c84e7.png)
+![](/embeds/books/attachments/hellblazer-14-7c84e7.jpg)
 
 The overall styles of the others have been good, but the Constantines just aren’t quite ‘right’. 
 
 ## … Freezes Over (Parts 1-4)
 
-![](/embeds/books/attachments/hellblazer-14-1d2a15.png)
+![](/embeds/books/attachments/hellblazer-14-1d2a15.jpg)
 
 Ooh. Now the guess, given that this is Constantine… is it a supernatural beastie or is one of them the murderer…
 
@@ -82,6 +82,6 @@ Ooh. Now the guess, given that this is Constantine… is it a supernatural beast
 ## The First Time
 An interlude. 
 
-![](/embeds/books/attachments/hellblazer-14-10e69f.png)
+![](/embeds/books/attachments/hellblazer-14-10e69f.jpg)
 
 Or an ending. Odd at that.

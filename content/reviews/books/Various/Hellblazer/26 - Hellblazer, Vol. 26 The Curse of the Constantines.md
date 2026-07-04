@@ -26,62 +26,62 @@ Reviews as I go/spoilers:
 ## Suicide Bridge
 
 Oh my. Also, he looks so old…
- ![](/embeds/books/attachments/hellblazer-26-2aa91e.png)
+ ![](/embeds/books/attachments/hellblazer-26-2aa91e.jpg)
 
 A bridge that only exists anymore for those who seek to jump off. An interesting concept. 
 
 ## The House of Wolves
 
-![](/embeds/books/attachments/hellblazer-26-fdaaa1.png)
+![](/embeds/books/attachments/hellblazer-26-fdaaa1.jpg)
 
 Heh. De Loup. 
 
-![](/embeds/books/attachments/hellblazer-26-6bf437.png)
+![](/embeds/books/attachments/hellblazer-26-6bf437.jpg)
 
 … that’s even weirder than their wedding…
 
 ## The Curse of the Constantines
 
-![](/embeds/books/attachments/hellblazer-26-e283c2.png)
+![](/embeds/books/attachments/hellblazer-26-e283c2.jpg)
 
 On one hand, a bit of closure. Oh the other, we didn’t even know about this boy until just recently. 
 
-![](/embeds/books/attachments/hellblazer-26-52d2dc.png)
+![](/embeds/books/attachments/hellblazer-26-52d2dc.jpg)
 
  
 Exactly. An interesting mirror of what Constantine might have been, I suppose. 
 
-![](/embeds/books/attachments/hellblazer-26-36d8bb.png)
+![](/embeds/books/attachments/hellblazer-26-36d8bb.jpg)
 
 Uh huh. 
 
-![](/embeds/books/attachments/hellblazer-26-766752.png)
+![](/embeds/books/attachments/hellblazer-26-766752.jpg)
 
 **There** we go. 
 
 ## Death and Cigarettes
 
-![](/embeds/books/attachments/hellblazer-26-684d4e.png)
+![](/embeds/books/attachments/hellblazer-26-684d4e.jpg)
 
 Death**s**?
 
-![](/embeds/books/attachments/hellblazer-26-0a6f61.png)
+![](/embeds/books/attachments/hellblazer-26-0a6f61.jpg)
 
 He’s **60**. 
 
-![](/embeds/books/attachments/hellblazer-26-919e11.png)
+![](/embeds/books/attachments/hellblazer-26-919e11.jpg)
 
 A lifetime and two dozen volumes. 
 
-![](/embeds/books/attachments/hellblazer-26-5647a5.png)
+![](/embeds/books/attachments/hellblazer-26-5647a5.jpg)
 
 Well. 
 
-![](/embeds/books/attachments/hellblazer-26-f151d3.png)
+![](/embeds/books/attachments/hellblazer-26-f151d3.jpg)
 
 Also not surprising. 
 
-![](/embeds/books/attachments/hellblazer-26-45f564.png)
+![](/embeds/books/attachments/hellblazer-26-45f564.jpg)
 
 Old “friends”. Goodness. 
 
@@ -89,7 +89,7 @@ And then he’s  back, running away from his wife/life, and gone again. Ass.
 
 ## Bad Blood
 
-![](/embeds/books/attachments/hellblazer-26-4b4691.png)
+![](/embeds/books/attachments/hellblazer-26-4b4691.jpg)
 
 Even older Constantine?
 

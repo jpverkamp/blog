@@ -20,7 +20,7 @@ title: 'Ultimate X-Men, Vol. 2: Return to Weapon X'
 ---
 Rogue. Juggernaut. Sabertooth. 
 
-![](/embeds/books/attachments/ultimate-x-men-v2-f2525e.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-f2525e.jpg)
 
 Good times. 
 
@@ -38,33 +38,33 @@ Onward!
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/ultimate-x-men-v2-579cc7.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-579cc7.jpg)
 
 That’s cute. 
 
-![](/embeds/books/attachments/ultimate-x-men-v2-bed298.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-bed298.jpg)
 
 A dark S.H.I.E.L.D. Because of course.
 
-![](/embeds/books/attachments/ultimate-x-men-v2-8874c3.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-8874c3.jpg)
 
 Well that’s certainly one excuse to draw her semi clothed all the time. 
 
-![](/embeds/books/attachments/ultimate-x-men-v2-a1fd97.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-a1fd97.jpg)
 
 Heh. That’s one way to find out though!
 
-![](/embeds/books/attachments/ultimate-x-men-v2-234d08.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-234d08.jpg)
 
 … that is an excellent point. 
 
 <spoiler>At least until the next page anyways… <spoiler>Unless of course they’re lying.<_spoiler><_spoiler>
 
-![](/embeds/books/attachments/ultimate-x-men-v2-9e62eb.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-9e62eb.jpg)
 
 
 Wife, seen before. Kid? Oh my. 
 
-![](/embeds/books/attachments/ultimate-x-men-v2-70af45.png)
+![](/embeds/books/attachments/ultimate-x-men-v2-70af45.jpg)
 
 Those outfits are so ridiculous. The men are scarcely any better, but seriously. For prisoners even?

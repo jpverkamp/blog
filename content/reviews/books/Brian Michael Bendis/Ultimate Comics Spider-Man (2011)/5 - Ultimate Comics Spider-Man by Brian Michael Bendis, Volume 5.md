@@ -20,13 +20,13 @@ title: Ultimate Comics Spider-Man by Brian Michael Bendis, Volume 5
 
 One Year Later. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-d8a1ae.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-d8a1ae.jpg)
 
 Miles is done. 
 
 But then (Ultimate) Cloak and Dagger show up:
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-710540.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-710540.jpg)
 
 Origin story and all. 
 
@@ -42,38 +42,38 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-9a0a75.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-9a0a75.jpg)
 
 Katie Bishop? Few new characters under the sun…
 
 I realize the irony of saying this while reading Miles Morales. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-d974b1.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-d974b1.jpg)
 
 Cute. And accepting!
 
 I need to see where Miles goes after whatever is coming up. I think he’s still around, yes?
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-42a949.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-42a949.jpg)
 
 Cloak & Dagger! And Bombshell!
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-abd7d5.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-abd7d5.jpg)
 
 Swearword. That’s cute!
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-740352.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-740352.jpg)
 
 No more work. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-ed907c.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-ed907c.jpg)
 
 😆 I’ve missed the simple banter. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-ef0397.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-ef0397.jpg)
 
 Yeah, Spider-Man gets the meta “make jokes about superhero media despite being in superhero media”. Is funny. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-72d217.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-5-textbundle-72d217.jpg)
 
 Ironic that. 

@@ -17,7 +17,7 @@ title: Ultimate Power
 ---
 Reed. Trying to do the right thing. 
 
-![](/embeds/books/attachments/ultimate-power-textbundle-7baf73.png)
+![](/embeds/books/attachments/ultimate-power-textbundle-7baf73.jpg)
 
 What can possibly go wrong? … this time. 
 
@@ -40,10 +40,10 @@ Spoilers.
 
 As an aside:
 
-![](/embeds/books/attachments/ultimate-power-textbundle-896535.png)
+![](/embeds/books/attachments/ultimate-power-textbundle-896535.jpg)
 
 Delightful. 
 
-![](/embeds/books/attachments/ultimate-power-textbundle-e02012.png)
+![](/embeds/books/attachments/ultimate-power-textbundle-e02012.jpg)
 
 … Fury brought him. That’s dumb. Giving him literal Spider-Man reigns though? I don’t even know how to describe that one. 

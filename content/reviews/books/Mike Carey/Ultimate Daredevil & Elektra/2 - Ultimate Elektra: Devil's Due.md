@@ -17,7 +17,7 @@ series_index:
 - 4
 title: 'Ultimate Elektra: Devil''s Due'
 ---
-![](/embeds/books/attachments/ultimate-elektra-70326f.png)
+![](/embeds/books/attachments/ultimate-elektra-70326f.jpg)
 
 Nothing bad ever came of a ‘who can you trust?’
 
@@ -33,16 +33,16 @@ And if Kingpin is involved…
 
 Thoughts. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-elektra-f55e73.png)
+![](/embeds/books/attachments/ultimate-elektra-f55e73.jpg)
 
 And so it all (so far at least) comes back to Fisk. Of course. 
 
-![](/embeds/books/attachments/ultimate-elektra-263747.png)
+![](/embeds/books/attachments/ultimate-elektra-263747.jpg)
 
 Or at least a few seasons on Netflix! 😃
 
 (Yes, I know they made the movie (s) first)
 
-![](/embeds/books/attachments/ultimate-elektra-4c6423.png)
+![](/embeds/books/attachments/ultimate-elektra-4c6423.jpg)
 
 Bit of a toss up which outfit is more over the top…

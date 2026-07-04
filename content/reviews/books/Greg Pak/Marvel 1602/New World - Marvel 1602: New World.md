@@ -30,25 +30,25 @@ Onward!
 
 A few thoughts while reading; spoilers. 
 
-![](/embeds/books/attachments/marvel-1602-new-world-82b0d1.png)
+![](/embeds/books/attachments/marvel-1602-new-world-82b0d1.jpg)
 
 Nay. Smash. 
 
 😃
 
-![](/embeds/books/attachments/marvel-1602-new-world-22445c.png)
+![](/embeds/books/attachments/marvel-1602-new-world-22445c.jpg)
 
 The more things are changed…
 
-![](/embeds/books/attachments/marvel-1602-new-world-695c99.png)
+![](/embeds/books/attachments/marvel-1602-new-world-695c99.jpg)
 
 Lord Iron!
 
-![](/embeds/books/attachments/marvel-1602-new-world-07f7c0.png)
+![](/embeds/books/attachments/marvel-1602-new-world-07f7c0.jpg)
 
 The Monkey!
 
-![](/embeds/books/attachments/marvel-1602-new-world-af04cc.png)
+![](/embeds/books/attachments/marvel-1602-new-world-af04cc.jpg)
 
 I like the Spanish Lord Iron. 
 

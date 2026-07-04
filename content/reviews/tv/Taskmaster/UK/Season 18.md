@@ -153,7 +153,7 @@ Rocket salad… was sillier.
 > Andy: I just feel, among the many things this show doesn’t address… war’s right up there. 
 > Emma: Cow’s the wrong way round.
 
-![](/embeds/books/attachments/taskmaster-18-78d856.png)
+![](/embeds/books/attachments/taskmaster-18-78d856.jpg)
 
 That was really quite impressive… especially for an art task. Those tend to go *really* sideways sometimes. 
 
@@ -407,7 +407,7 @@ Well.
 > Baba: I don’t know how to speak… what is this, French?
 > (later)
 
-![](/embeds/books/attachments/taskmaster-18-094d77.png)
+![](/embeds/books/attachments/taskmaster-18-094d77.jpg)
 
 > Baba: Bang!
 

@@ -35,30 +35,30 @@ So where do we start? *Darth Vader, Vol. 1: Vader*
 
 It's a relatively short story about Darth Vader, set in the close aftermath of A New Hope and the destruction of the (first) Death Star. Which is ... quite an interesting story to tell, making the protagonist a definite Bad Guy.  
 
-![](/embeds/books/attachments/vader-1.1.png)
+![](/embeds/books/attachments/vader-1.1.jpg)
 
 It's fascinating to see more of the relationship between Palpatine and Vader than we get in the movies. Palpatine is capital-E Evil, Vader is terrifying, and yet here we get stories about Vader on Palpatine's bad side. The Empire is in power, but it's a fragile power, something we don't actually see that much in the movies.  
 
-![](/embeds/books/attachments/vader-1.2.png) 
+![](/embeds/books/attachments/vader-1.2.jpg) 
 
 Other than that, perhaps my favorite part of the series is the addition of a few lovely fascinating new characters. Especially Triple-Zero:  
 
-![](/embeds/books/attachments/vader-1.3.png)
+![](/embeds/books/attachments/vader-1.3.jpg)
 
 Take C-3PO and make him insane and homicidal. Delightful.  
 
-![](/embeds/books/attachments/vader-1.5.png) 
+![](/embeds/books/attachments/vader-1.5.jpg) 
 
 Yup. Delightful.  
 
 On top of that, Dr. Aphra. She's basically a fixer for Vader and the relationship is kind of neat:  
 
-![](/embeds/books/attachments/vader-1.4.png)
+![](/embeds/books/attachments/vader-1.4.jpg)
 
 Ever since Amidala, Vader has been... let's go with a bit troubled. So to actually give him someone that he might just *care about* (even if it's only for the job, it's never quite clear, probably even to Vader), is fascinating.  
 
 Especially, since she knows what's up:  
 
-![](/embeds/books/attachments/vader-1.6.png)
+![](/embeds/books/attachments/vader-1.6.jpg)
 
 It's dark, it's fascinating, and I want more!

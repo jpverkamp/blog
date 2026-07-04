@@ -16,7 +16,7 @@ title: 'Ms. Marvel, Vol. 7: Damage Per Second'
 
 ## Election Day
 
-![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-be4695.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-be4695.jpg)
 
 Politics! Get out and vote!
 
@@ -26,7 +26,7 @@ Man single issues are short.
 
 ## Damage Per Second
 
-![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-a33f12.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-a33f12.jpg)
 
 Troll!
 
@@ -34,7 +34,7 @@ Or computer virus. Close enough.
 
 Ready to reveal all the big bad secrets of the world. 
 
-![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-7cf2e1.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-7cf2e1.jpg)
 
 Sometimes people are clueless. But sometimes Zoe is right on. She’s a fun side character. 
 
@@ -46,6 +46,6 @@ It’s a cute story. Expected weird/sappy solution. So it goes.
 
 And as an aside, Bruno! In Wakanda!
 
-![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-4fb109.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v7-textbundle-4fb109.jpg)
 
 That’s a fun one. Makes me want to read some Black Panther. 

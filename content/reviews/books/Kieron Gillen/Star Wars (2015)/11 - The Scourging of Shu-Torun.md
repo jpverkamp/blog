@@ -24,7 +24,7 @@ Princess Leia has a plan! Economic upset on a massive scale... and if it happens
 
 What could go wrong?
 
-![](/embeds/books/attachments/star-wars-2015-v11-textbundle-7a366e.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v11-textbundle-7a366e.jpg)
 
 (It's even better, as Luke was just looking for them...)
 
@@ -38,10 +38,10 @@ I quite enjoyed this one.
 
 Side note, this reminded me of the Ember Island Players / the opening of Thor Ragnarok in all the best ways. 
 
-![](/embeds/books/attachments/star-wars-2015-v11-textbundle-a0d965.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v11-textbundle-a0d965.jpg)
 
 Also, a very Han line. 
 
-![](/embeds/books/attachments/star-wars-2015-v11-textbundle-c5b521.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v11-textbundle-c5b521.jpg)
 
 They do the dialogue surprisingly well in these I think. 

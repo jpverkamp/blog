@@ -19,9 +19,9 @@ title: Death of Spider-Man Prelude
 ---
 Oh Peter. 
 
-![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-1876e6.png)
+![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-1876e6.jpg)
 
-![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-05237e.png)
+![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-05237e.jpg)
 
 All that time living a double life and causing absolute chaos along the way…
 
@@ -39,17 +39,17 @@ Notes. Spoilers.
 
 The Ultimates discussing Spider-Man: 
 
-![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-fa69f7.png)
+![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-fa69f7.jpg)
 
-![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-61be10.png)
+![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-61be10.jpg)
 
-![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-ef7582.png)
+![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-ef7582.jpg)
 
 It’s cute!
 
 Why is Thor alive?
 
-![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-dbedd9.png)
+![](/embeds/books/attachments/death-of-spider-man-prelude-textbundle-dbedd9.jpg)
 
 Whoa art whiplash yo. 
 

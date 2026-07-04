@@ -18,23 +18,23 @@ series_index: [4]
 ---
 > One day someone at Dark Horse asked if I was interested in doing a story about young Hellboy. I wasn't, but instead of saying no I said, "What about two pages of Hellboy eating pcancakes?" I thought it was a riot. I didn't expect anyone else to like it, but it turned out to be a big hit with a lot of readers. It's nice when that happens.
 
-![Hellboy-4-Pancakes](/embeds/books/attachments/hellboy-4-pancakes.png)  
+![Hellboy-4-Pancakes](/embeds/books/attachments/hellboy-4-pancakes.jpg)  
 
 <!--more-->
 
 And he's just so cute!  
 
-![Hellboy-4-Baby](/embeds/books/attachments/hellboy-4-baby.png)  
+![Hellboy-4-Baby](/embeds/books/attachments/hellboy-4-baby.jpg)  
 
 After that, we have a few wonderfully creepy short stories. Baddies that are just floating heads, which Hellboy discovered the people who he was talking to with said heads missing... only to find them trying to eat him. And a medium that accidentally tunes into the wrong spirit world and gets far more than he bargained for (I should steal that core idea).  
 
 Oh. And dragons:  
 
-![Hellboy-4-Dragons](/embeds/books/attachments/hellboy-4-dragons.png)  
+![Hellboy-4-Dragons](/embeds/books/attachments/hellboy-4-dragons.jpg)  
 
 Because those of course exist in this universe. But best of all?  
 
-![Hellboy-4-Monkey-got-a-gun](/embeds/books/attachments/hellboy-4-monkey-got-a-gun.png)  
+![Hellboy-4-Monkey-got-a-gun](/embeds/books/attachments/hellboy-4-monkey-got-a-gun.jpg)  
 
 We do get some more of Hellboy saving the world, which of course he's not overly thrilled with:  
 
@@ -42,6 +42,6 @@ We do get some more of Hellboy saving the world, which of course he's not overly
 
 And a summary of the universe as a whole:  
 
-![Hellboy-4-Beating-the-crap-out-of-things-a-lot-like-me](/embeds/books/attachments/hellboy-4-beating-the-crap-out-of-things-a-lot-like-me.png)  
+![Hellboy-4-Beating-the-crap-out-of-things-a-lot-like-me](/embeds/books/attachments/hellboy-4-beating-the-crap-out-of-things-a-lot-like-me.jpg)  
 
 It's just a wonderful series. Much stronger than [[Hellboy, Vol. 3: The Chained Coffin and Others]]().

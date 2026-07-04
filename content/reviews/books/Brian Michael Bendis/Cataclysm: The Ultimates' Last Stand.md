@@ -17,7 +17,7 @@ title: 'Cataclysm: The Ultimates'' Last Stand'
 ---
 Another giant story; the second 'biggest' of the Ultimate Marvel Universe 
 
-![](/embeds/books/attachments/cataclysm-textbundle-bf6180.png)
+![](/embeds/books/attachments/cataclysm-textbundle-bf6180.jpg)
 
 Uh oh. Gah Lak Tus? Time to meet GALACTUS!
 
@@ -37,7 +37,7 @@ Reed Richard's redemption arc (of a sort)? What... he does not deserve that.
 
 It’s kind of a deus ex solution to an impossible problem. But that’s sort of the way with comics. 
 
-![](/embeds/books/attachments/cataclysm-textbundle-97dfbe.png)
+![](/embeds/books/attachments/cataclysm-textbundle-97dfbe.jpg)
 
 Or … maybe it is?
 
@@ -57,14 +57,14 @@ Makes reading events (like this) in the Marvel Unlimited app tricky.
 
 Reading notes. Spoilers. 
 
-![](/embeds/books/attachments/cataclysm-textbundle-f908ff.png)
+![](/embeds/books/attachments/cataclysm-textbundle-f908ff.jpg)
 
 😆
 
-![](/embeds/books/attachments/cataclysm-textbundle-fd8061.png)
+![](/embeds/books/attachments/cataclysm-textbundle-fd8061.jpg)
 
 😆 
 
-![](/embeds/books/attachments/cataclysm-textbundle-083469.png)
+![](/embeds/books/attachments/cataclysm-textbundle-083469.jpg)
 
 😆

@@ -25,40 +25,40 @@ Thoughts as I read (spoilers):
 
 ## High on Life
 
-![](/embeds/books/attachments/hellblazer-16-9b6390.png)
+![](/embeds/books/attachments/hellblazer-16-9b6390.jpg)
 
 Constantine with brown hair?! (Might be red) What’s this?
 
-![](/embeds/books/attachments/hellblazer-16-fa036d.png)
+![](/embeds/books/attachments/hellblazer-16-fa036d.jpg)
 
 Bit of an ass. 
 
 Using his blood to heal/as a pick me up is quite the trick. 
 
-![](/embeds/books/attachments/hellblazer-16-7040a2.png)
+![](/embeds/books/attachments/hellblazer-16-7040a2.jpg)
 
 That’s a neat trick…
 
 # Red Sepulchre
 Really a continuation on High Life. It literally starts with ‘Six months later’. 
 
-![](/embeds/books/attachments/hellblazer-16-68f8e3.png)
+![](/embeds/books/attachments/hellblazer-16-68f8e3.jpg)
 
 Shadowy back room dealings go!
 
-![](/embeds/books/attachments/hellblazer-16-086de2.png)
+![](/embeds/books/attachments/hellblazer-16-086de2.jpg)
 
 That’s a neat trick!
 
-![](/embeds/books/attachments/hellblazer-16-e166f1.png)
+![](/embeds/books/attachments/hellblazer-16-e166f1.jpg)
 
 Map is  back! Sort of. 
 
-![](/embeds/books/attachments/hellblazer-16-16c52b.png)
+![](/embeds/books/attachments/hellblazer-16-16c52b.jpg)
 
 Ooooh it’s all in the family. That’s going to be complicated. 
 
-![](/embeds/books/attachments/hellblazer-16-14ae7f.png)
+![](/embeds/books/attachments/hellblazer-16-14ae7f.jpg)
 
 Now that’s a wonderfully nasty trick. 
 
@@ -67,13 +67,13 @@ A good story.
 # The Game of Cat and Mouse 
 The fallout continues. 
 
-![](/embeds/books/attachments/hellblazer-16-2ac331.png)
+![](/embeds/books/attachments/hellblazer-16-2ac331.jpg)
 
 That’s so Constantine…
 
 # Black Flowers
 
-![](/embeds/books/attachments/hellblazer-16-16b2c0.png)
+![](/embeds/books/attachments/hellblazer-16-16b2c0.jpg)
 
 I have a feeling it’s only beginning…
 
@@ -81,29 +81,29 @@ I have a feeling it’s only beginning…
 ## The Wild Card
 Haven’t seen Swamp Thing in a long while!
 
-![](/embeds/books/attachments/hellblazer-16-fdff78.png)
+![](/embeds/books/attachments/hellblazer-16-fdff78.jpg)
 
 That’ll be a neat trick. 
 
 ## Ordeal
 
-![](/embeds/books/attachments/hellblazer-16-aea2e2.png)
+![](/embeds/books/attachments/hellblazer-16-aea2e2.jpg)
 
 I’ve always enjoyed world building like this. 
 
 ## The Pit
 
-![](/embeds/books/attachments/hellblazer-16-94e696.png)
+![](/embeds/books/attachments/hellblazer-16-94e696.jpg)
 
 She’s fun. And ended up being a lot of help!
 
 # Bred in the Bone
 
-![](/embeds/books/attachments/hellblazer-16-3fa230.png)
+![](/embeds/books/attachments/hellblazer-16-3fa230.jpg)
 
 A fitting title it seems. 
 
-![](/embeds/books/attachments/hellblazer-16-764d07.png)
+![](/embeds/books/attachments/hellblazer-16-764d07.jpg)
 
 When the things that go bump in the night go bump in the night…
 

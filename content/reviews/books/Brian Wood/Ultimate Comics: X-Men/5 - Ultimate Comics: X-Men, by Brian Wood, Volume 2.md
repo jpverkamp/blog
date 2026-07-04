@@ -21,7 +21,7 @@ Utopia.
 
 Turns out, pretending the Sentient Seed died out lasted… not at all. Now there’s a new Mutant homeland in America…
 
-![](/embeds/books/attachments/ultimate-comics-x-men-wood-2-textbundle-475838.png)
+![](/embeds/books/attachments/ultimate-comics-x-men-wood-2-textbundle-475838.jpg)
 
 That’s actually really cool. 
 

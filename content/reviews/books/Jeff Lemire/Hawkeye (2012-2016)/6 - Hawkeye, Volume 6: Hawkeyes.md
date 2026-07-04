@@ -18,15 +18,15 @@ title: 'Hawkeye, Volume 6: Hawkeyes'
 ---
 One part now: 
 
-![](/embeds/books/attachments/hawkeye-2012-v6-c76564.png)
+![](/embeds/books/attachments/hawkeye-2012-v6-c76564.jpg)
 
 One part future:
 
-![](/embeds/books/attachments/hawkeye-2012-v6-fba351.png)
+![](/embeds/books/attachments/hawkeye-2012-v6-fba351.jpg)
 
 One part America (Chavez)!
 
-![](/embeds/books/attachments/hawkeye-2012-v6-69e746.png)
+![](/embeds/books/attachments/hawkeye-2012-v6-69e746.jpg)
 
 It’s a neat story, finishing up the story of Project Communion from volume 5, digging into how very much baggage both Hawkeyes carry, and really giving their working together a chance to (eventually) shine. 
 

@@ -21,7 +21,7 @@ Osborn’s back and green with envy! Or maybe just green.
 
 But have no fear…
 
-![](/embeds/books/attachments/ultimate-spider-man-v4-9aab24.png)
+![](/embeds/books/attachments/ultimate-spider-man-v4-9aab24.jpg)
 
 Nick Fury is on the case. 
 
@@ -41,19 +41,19 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v4-893da9.png)
+![](/embeds/books/attachments/ultimate-spider-man-v4-893da9.jpg)
 
 That’s a cute interaction. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v4-33182e.png)
+![](/embeds/books/attachments/ultimate-spider-man-v4-33182e.jpg)
 
 I can perfectly imagine the timing on that. Go Harry!
 
-![](/embeds/books/attachments/ultimate-spider-man-v4-fff737.png)
+![](/embeds/books/attachments/ultimate-spider-man-v4-fff737.jpg)
 
 That whole scene was bonkers and awesome. Especially seeing it first from Spider-Man’s point of view and then Osborn’s. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v4-a6df17.png)
+![](/embeds/books/attachments/ultimate-spider-man-v4-a6df17.jpg)
 
 Gklle. 
 

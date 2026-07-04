@@ -35,17 +35,17 @@ Onward.
 
 Notes. Minor spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v9-textbundle-12ccf8.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v9-textbundle-12ccf8.jpg)
 
 … he seems to do that a lot. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v9-textbundle-a44166.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v9-textbundle-a44166.jpg)
 
 I give it 3-4 pages until he breaks out. 
 
 Later: a bit less than 2. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v9-textbundle-c8e7a8.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v9-textbundle-c8e7a8.jpg)
 
 Quite a name. 
 

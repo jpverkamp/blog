@@ -27,15 +27,15 @@ In a nutshell, it appears that the world was overrun by semi intelligent, naked,
 
 <!--more-->
 
-![Attack-on-Titan-1-1](/embeds/books/attachments/attack-on-titan-1-1.png)  
+![Attack-on-Titan-1-1](/embeds/books/attachments/attack-on-titan-1-1.jpg)  
 
 Yeah. That's a crazy story. I really do empathize with the order going out, trying to figure out what's going on, even if there's something said about survival at this point. Sometimes, it's not enough to just survive.  
 
-![Attack-on-Titan-1-2](/embeds/books/attachments/attack-on-titan-1-2.png)  
+![Attack-on-Titan-1-2](/embeds/books/attachments/attack-on-titan-1-2.jpg)  
 
 Characterwise, it's fascinating to see the relationships between people we barely know developing. There is some crazy history going on here.  
 
-![Attack-on-Titan-1-3](/embeds/books/attachments/attack-on-titan-1-3.png)  
+![Attack-on-Titan-1-3](/embeds/books/attachments/attack-on-titan-1-3.jpg)  
 
 Especially when at the end  {{< spoiler >}}one of the named main characters is *eaten*{{< /spoiler >}}  ?! That can't stick, but how?  
 

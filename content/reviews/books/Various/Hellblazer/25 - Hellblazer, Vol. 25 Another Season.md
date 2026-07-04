@@ -27,25 +27,25 @@ Thoughts_spoilers_you know the drill:
 
 ## High-Frequency Man
 
-![](/embeds/books/attachments/hellblazer-25-c57c4a.png)
+![](/embeds/books/attachments/hellblazer-25-c57c4a.jpg)
 
 Yeah that’s still weird. 
 
-![](/embeds/books/attachments/hellblazer-25-75b611.png)
+![](/embeds/books/attachments/hellblazer-25-75b611.jpg)
 
 Wonderful. Amusing that marriage seems to have gotten Constantine interested in perhaps making a buck and I’m curious how the Druid is going to come back to mess things up (I assume he’s not the trader?). 
 
 ## Phantom Pains
 
-![](/embeds/books/attachments/hellblazer-25-61c06b.png)
+![](/embeds/books/attachments/hellblazer-25-61c06b.jpg)
 
 Who’s got two thumbs and some bizarre marital problems? Not Constantine!
 
-![](/embeds/books/attachments/hellblazer-25-25d3e4.png)
+![](/embeds/books/attachments/hellblazer-25-25d3e4.jpg)
 
 B plot!
 
-![](/embeds/books/attachments/hellblazer-25-9ac542.png)
+![](/embeds/books/attachments/hellblazer-25-9ac542.jpg)
 
 Maybe not so B plot. Gemma certainly has some baggage…
 
@@ -53,7 +53,7 @@ That was definitely twisted. And there’s not so much time any more, but I expe
 
 ## Inside
 
-![](/embeds/books/attachments/hellblazer-25-a5ce5f.png)
+![](/embeds/books/attachments/hellblazer-25-a5ce5f.jpg)
 
 Oy. That’s an ask. And an art style…
 
@@ -61,15 +61,15 @@ A weirdly quick and strange story.
 
 ## The Devil’s Trench Coat
 
-![](/embeds/books/attachments/hellblazer-25-8c02c3.png)
+![](/embeds/books/attachments/hellblazer-25-8c02c3.jpg)
 
 Point of view: coat. All righty then. 
 
-![](/embeds/books/attachments/hellblazer-25-2fb7f6.png)
+![](/embeds/books/attachments/hellblazer-25-2fb7f6.jpg)
 
 That will certainly go well for him…
 
-![](/embeds/books/attachments/hellblazer-25-b71385.png)
+![](/embeds/books/attachments/hellblazer-25-b71385.jpg)
 
 Fair…
 
@@ -79,15 +79,15 @@ Oh Gemma… and Terry. Ooooooy.
 
 ## Another Season in Hell
 
-![](/embeds/books/attachments/hellblazer-25-8d586c.png)
+![](/embeds/books/attachments/hellblazer-25-8d586c.jpg)
 
 That’s a visual. 
 
-![](/embeds/books/attachments/hellblazer-25-fce66f.png)
+![](/embeds/books/attachments/hellblazer-25-fce66f.jpg)
 
 I thought a brother?
 
-![](/embeds/books/attachments/hellblazer-25-d857ad.png)
+![](/embeds/books/attachments/hellblazer-25-d857ad.jpg)
 
 Oh that’s a lovely line. 
 

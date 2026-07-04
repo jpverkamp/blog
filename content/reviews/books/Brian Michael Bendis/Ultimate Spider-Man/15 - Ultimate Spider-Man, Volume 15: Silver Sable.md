@@ -31,15 +31,15 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v15-textbundle-ea38bf.png)
+![](/embeds/books/attachments/ultimate-spider-man-v15-textbundle-ea38bf.jpg)
 
 Yeah, catching Flash instead was pretty great. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v15-textbundle-cd0d7c.png)
+![](/embeds/books/attachments/ultimate-spider-man-v15-textbundle-cd0d7c.jpg)
 
 That did not go as I was led to expect. Unless she’s playing it off for someone listening?
 
-![](/embeds/books/attachments/ultimate-spider-man-v15-textbundle-6f7321.png)
+![](/embeds/books/attachments/ultimate-spider-man-v15-textbundle-6f7321.jpg)
 
 That’s delightful. 
 

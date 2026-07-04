@@ -33,31 +33,31 @@ Onward!
 
 Notes. Secrets. 
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-32b3f5.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-32b3f5.jpg)
 
 Kree! Mahr Vehl! I more or less recognize these names. Wonder if Captain Marvel is coming as I expect (we saw Danvers) or if this is one of the changes. 
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-32387b.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-32387b.jpg)
 
 … lol. 
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-86ba99.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-86ba99.jpg)
 
 Galactus is about to be blamed. Calling it. 
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-c31dd4.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-c31dd4.jpg)
 
 New favorite Fantastic Four scene. 
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-5dbe49.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-5dbe49.jpg)
 
 New friends!
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-6529fa.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-6529fa.jpg)
 
 😆
 
-![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-4cd670.png)
+![](/embeds/books/attachments/ultimate-galactus-2-secrets-textbundle-4cd670.jpg)
 
 Rather a different look for Hawkeye. Think I mentioned that when we last saw him a while ago. But he’s got a point…
 

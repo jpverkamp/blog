@@ -24,7 +24,7 @@ series_index:
 - 5
 title: 'The Wicked + The Divine, Vol. 5: Imperial Phase, Part I'
 ---
-![](/embeds/books/attachments/wicked-divine-5-b477ce.png)
+![](/embeds/books/attachments/wicked-divine-5-b477ce.jpg)
 
 I love the contrast with the usual 1, 2, 3, 4–plus the very real ‘New’ status quo. Reading this on New Year’s Eve is just a bonus. 
 
@@ -37,10 +37,10 @@ Persephone is bonkers, but who can blame her. The Great Darkness might be coming
 ---
 
 
-![](/embeds/books/attachments/wicked-divine-5-664611.png)
+![](/embeds/books/attachments/wicked-divine-5-664611.jpg)
 
 It’s back! Or at least something is!
 
-![](/embeds/books/attachments/wicked-divine-5-3b8edc.png)
+![](/embeds/books/attachments/wicked-divine-5-3b8edc.jpg)
 
 The gods being people, turned up to 11. And now Anarchy reigns. Of course they’ll build their own domains. 

@@ -19,7 +19,7 @@ title: 'Ultimate Spider-Man, Volume 22: Ultimatum'
 ---
 Well that escalated quickly. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-15de64.png)
+![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-15de64.jpg)
 
 Seems Magneto decided to kill everyone. Good times. Oy. 
 
@@ -37,25 +37,25 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-497049.png)
+![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-497049.jpg)
 
 That’s some impressive glass. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-4bec62.png)
+![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-4bec62.jpg)
 
 And so it begins. Off screen. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-1f98e8.png)
+![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-1f98e8.jpg)
 
 It got worse. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-d5b805.png)
+![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-d5b805.jpg)
 
 And worse. 
 
 (Unclear if that one was real.)
 
-![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-aff97a.png)
+![](/embeds/books/attachments/ultimate-spider-man-v22-textbundle-aff97a.jpg)
 
 And worse. 
 

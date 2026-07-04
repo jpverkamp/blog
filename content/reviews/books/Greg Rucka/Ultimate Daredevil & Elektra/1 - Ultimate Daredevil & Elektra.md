@@ -19,11 +19,11 @@ title: Ultimate Daredevil & Elektra
 ---
 Only <strike>one volume</strike> two volumes. Interesting. Let’s go!
 
-![](/embeds/books/attachments/ultimate-daredevil-and-elektra-c573e5.png)
+![](/embeds/books/attachments/ultimate-daredevil-and-elektra-c573e5.jpg)
 
 Elektra making new friends at college. 
 
-![](/embeds/books/attachments/ultimate-daredevil-and-elektra-f7b716.png)
+![](/embeds/books/attachments/ultimate-daredevil-and-elektra-f7b716.jpg)
 
 And a younger than I’m used to Matt Murdock, already fighting crime and just starting in on the law stuff. 
 

@@ -18,7 +18,7 @@ series_index: [6]
 ---
 It continues!  
 
-![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-1.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-1.jpg)  
 
 <!--more-->
 
@@ -26,24 +26,24 @@ It really is getting to be a mission now isn't it... It's interesting how the se
 
 There's also the delightful story 'The Walk', all about the girls out on the town...  
 
-![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-2.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-2.jpg)  
 
 And yet they're still caught up in Spider's web (heh, yes I have been waiting to use that one).  
 
 A few more interesting images/spoilers:  
 
-![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-3.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-3.jpg)  
 
 They're not supposed to make a difference and quite often they don't. But every once in a while, someone is mad enough to actually care.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-4.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-4.jpg)  
 
 It's ironic because... you kind of are.  
 
-![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-5.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-5.jpg)  
 
 There's an interesting discussion to be had there around journalism and Truth. Must the Truth be told? Is truth absolute?  
 
-![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-6.png)  
+![](/embeds/books/attachments/transmetropolitan-vol-6-gouge-away-x-6.jpg)  
 
 On the run! And it's just what he needed!

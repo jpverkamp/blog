@@ -29,29 +29,29 @@ Overall, it's a fun start. I'm looking forward to seeing where they go from here
 
 It's fun to see them all:
 
-![](/embeds/books/attachments/star-wars-2015-v1-b6cc52.png)
+![](/embeds/books/attachments/star-wars-2015-v1-b6cc52.jpg)
 
 Along with snarky droids:
 
-![](/embeds/books/attachments/star-wars-2015-v1-62e558.png)
+![](/embeds/books/attachments/star-wars-2015-v1-62e558.jpg)
 
 And potshots at the Falcon:
 
-![](/embeds/books/attachments/star-wars-2015-v1-c31680.png)
+![](/embeds/books/attachments/star-wars-2015-v1-c31680.jpg)
 
 It's quite the adventure:
 
-![](/embeds/books/attachments/star-wars-2015-v1-fed82e.png)
+![](/embeds/books/attachments/star-wars-2015-v1-fed82e.jpg)
 
 And that's all in the first issue. 
 
 I expect this should be a fun romp. Especially the early dynamic between Han Solo and Princess Leia:
 
-![](/embeds/books/attachments/star-wars-2015-v1-5d19e2.png)
+![](/embeds/books/attachments/star-wars-2015-v1-5d19e2.jpg)
 
 Especially especially when a certain someone (that never really came up in the movies) shows up:
 
-![](/embeds/books/attachments/star-wars-2015-v1-fb0d7d.png)
+![](/embeds/books/attachments/star-wars-2015-v1-fb0d7d.jpg)
 
 Oh my. 
 

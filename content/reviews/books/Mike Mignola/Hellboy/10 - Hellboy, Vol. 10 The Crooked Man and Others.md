@@ -18,7 +18,7 @@ series_index: [10]
 ---
 Crazy collection of short stories. And some weird connections between them. Two (really) stories where people just leave their skin alone:  
 
-![Hellboy-10-1-NSFW-Skin](/embeds/books/attachments/hellboy-10-1-nsfw-skin.png)  
+![Hellboy-10-1-NSFW-Skin](/embeds/books/attachments/hellboy-10-1-nsfw-skin.jpg)  
 
 <!--more-->
 
@@ -30,7 +30,7 @@ A mole that takes over life, leaving Hellboy's skin behind (again, see).
 
 Oh, and Mulengeons.  
 
-![Hellboy-10-2-Melungeons](/embeds/books/attachments/hellboy-10-2-melungeons.png)  
+![Hellboy-10-2-Melungeons](/embeds/books/attachments/hellboy-10-2-melungeons.jpg)  
 
 Appalachia? You're just as weird as everywhere else...  
 

@@ -24,22 +24,22 @@ Anyways, it's still a fascinating story. But I think I'm just about done. Good t
 
 Random pages I found interesting. Spoilers.  
 
-![AoT-27-2](/embeds/books/attachments/aot-27-2.png)  
+![AoT-27-2](/embeds/books/attachments/aot-27-2.jpg)  
 
 Iceburst Stone. It's neat. Don't get me wrong. And there's a reason the greater world hasn't heard about them. But  
 
-![AoT-27-3](/embeds/books/attachments/aot-27-3.png)  
+![AoT-27-3](/embeds/books/attachments/aot-27-3.jpg)  
 
 ... the 13 year thing is kind of weird, and the idea of forcing those carrying Titans to breed so that you have a pure bloodline to work with is... even weirder. But at least in universe I see where they're coming from.  
 
-![AoT-27-4](/embeds/books/attachments/aot-27-4.png)  
+![AoT-27-4](/embeds/books/attachments/aot-27-4.jpg)  
 
 That is so very bizarrely awkward. Makes a bit more sense later at least. I wonder how much is translation/cultural differences though.  
 
-![AoT-27-6](/embeds/books/attachments/aot-27-6.png)  
+![AoT-27-6](/embeds/books/attachments/aot-27-6.jpg)  
 
 Man. She's a kid that's been absolutely brainwashed into hating herself and her people, thinking all around that she's doing the right thing. Man it's a painful look at something all too common in our own world.  
 
-![AoT-27-7](/embeds/books/attachments/aot-27-7.png)  
+![AoT-27-7](/embeds/books/attachments/aot-27-7.jpg)  
 
 Every once in a while... weirdness.

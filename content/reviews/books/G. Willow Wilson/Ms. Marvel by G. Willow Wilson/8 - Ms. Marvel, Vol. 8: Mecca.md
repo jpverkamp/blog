@@ -18,7 +18,7 @@ title: 'Ms. Marvel, Vol. 8: Mecca'
 
 K.I.N.D.—or anything but—is in town. Rounding up anyone that ‘doesn’t look like they belong’. 
 
-![](/embeds/books/attachments/ms-marvel-2014-v8-textbundle-3ea845.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v8-textbundle-3ea845.jpg)
 
 😃 No, not quite like that. 
 
@@ -30,7 +30,7 @@ It’s a good one.
 
 And then…
 
-![](/embeds/books/attachments/ms-marvel-2014-v8-textbundle-f0963b.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v8-textbundle-f0963b.jpg)
 
 People are good at ignoring things, but even that’s a bit obvious…
 

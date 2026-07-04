@@ -28,22 +28,22 @@ My one (strong dislike) is replacing Virginia Dare with Mary Jane Watsonne. So n
 
 More thoughts. Spoilers. 
 
-![](/embeds/books/attachments/marvel-1602-spider-man-5e3215.png)
+![](/embeds/books/attachments/marvel-1602-spider-man-5e3215.jpg)
 
 Subtle. 
 
-![](/embeds/books/attachments/marvel-1602-spider-man-ed4346.png)
+![](/embeds/books/attachments/marvel-1602-spider-man-ed4346.jpg)
 
 Hanks Pym and McCoy helping out a more naturalistic Octavius. Mix and match. Love it.
 
-![](/embeds/books/attachments/marvel-1602-spider-man-83d24f.png)
+![](/embeds/books/attachments/marvel-1602-spider-man-83d24f.jpg)
 
 … oy. 
 
-![](/embeds/books/attachments/marvel-1602-spider-man-022b93.png)
+![](/embeds/books/attachments/marvel-1602-spider-man-022b93.jpg)
 
 Oh that’s a fun one. 
 
-![](/embeds/books/attachments/marvel-1602-spider-man-9e2bcc.png)
+![](/embeds/books/attachments/marvel-1602-spider-man-9e2bcc.jpg)
 
 They even have to fit in the black suit somehow. 

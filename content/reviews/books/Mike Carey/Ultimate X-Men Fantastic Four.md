@@ -29,11 +29,11 @@ Onward.
 
 Notes. Minor spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-fantastic-four-textbundle-6565b6.png)
+![](/embeds/books/attachments/ultimate-x-men-fantastic-four-textbundle-6565b6.jpg)
 
 Well that’s a start. 
 
-![](/embeds/books/attachments/ultimate-x-men-fantastic-four-textbundle-8b3e2c.png)
+![](/embeds/books/attachments/ultimate-x-men-fantastic-four-textbundle-8b3e2c.jpg)
 
 They are amusingly well matched. 
 

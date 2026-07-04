@@ -18,7 +18,7 @@ series_index: [6]
 ---
 One more story.  
 
-![](/embeds/books/attachments/locke-and-key-6.1.png)
+![](/embeds/books/attachments/locke-and-key-6.1.jpg)
 
 <!--more-->
 
@@ -32,11 +32,11 @@ Man. Don't get me wrong, it's a wonderfully written and illustrated story and I'
 
 There are a few solid moments before we say goodbye though.  
 
-![](/embeds/books/attachments/locke-and-key-6.3.png)  
+![](/embeds/books/attachments/locke-and-key-6.3.jpg)  
 
 Also:  
 
-![](/embeds/books/attachments/locke-and-key-6.2.png) 
+![](/embeds/books/attachments/locke-and-key-6.2.jpg) 
 
 Heh. They finally said it.  
 

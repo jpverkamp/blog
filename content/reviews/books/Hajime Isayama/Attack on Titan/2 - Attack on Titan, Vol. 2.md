@@ -18,7 +18,7 @@ series_index: [2]
 ---
 Ooh boy.  
 
-![Attack-on-Titan-2-3](/embeds/books/attachments/attack-on-titan-2-3.png)  
+![Attack-on-Titan-2-3](/embeds/books/attachments/attack-on-titan-2-3.jpg)  
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Well, apparently with gas powered, back mounted grappling hooks and swords. Whic
 
 Time skip from the first story. The first Colossus Titan attack is fading into memory, and now the townsfolk are again forgetting what the soldiers do for them:  
 
-![Attack-on-Titan-2-1](/embeds/books/attachments/attack-on-titan-2-1.png)  
+![Attack-on-Titan-2-1](/embeds/books/attachments/attack-on-titan-2-1.jpg)  
 
 Which seems crazy. Just look up at the walls. But after a year of COVID-19, I'm less jaded to the idea that perhaps people don't always act in the best interest of the group over their own.  
 
@@ -36,11 +36,11 @@ Anyways.
 
 Kick ass Mikasa:  
 
-![Attack-on-Titan-2-2](/embeds/books/attachments/attack-on-titan-2-2.png)  
+![Attack-on-Titan-2-2](/embeds/books/attachments/attack-on-titan-2-2.jpg)  
 
 Bizarre commentary:  
 
-![Attack-on-Titan-2-4](/embeds/books/attachments/attack-on-titan-2-4.png)  
+![Attack-on-Titan-2-4](/embeds/books/attachments/attack-on-titan-2-4.jpg)  
 
 I doubt that works. It's hilarious though.  
 

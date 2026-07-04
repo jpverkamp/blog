@@ -24,26 +24,26 @@ Onward!
 
 Spoilers:  
 
-![AoT-19-1](/embeds/books/attachments/aot-19-1.png)  
+![AoT-19-1](/embeds/books/attachments/aot-19-1.jpg)  
 
 Well. That's a particularly weird one.  
 
-![AoT-19-2](/embeds/books/attachments/aot-19-2.png)  
+![AoT-19-2](/embeds/books/attachments/aot-19-2.jpg)  
 
 The introduction of the even lower quality drawings like this, like sports arrangements or military drawings is pretty hilarious.  
 
-![AoT-19-3](/embeds/books/attachments/aot-19-3.png)  
+![AoT-19-3](/embeds/books/attachments/aot-19-3.jpg)  
 
 SWING. BOOM. Awesome.  
 
-![AoT-19-4](/embeds/books/attachments/aot-19-4.png)  
+![AoT-19-4](/embeds/books/attachments/aot-19-4.jpg)  
 
 So... that's disturbing. It's nice to get more answers.  
 
-![AoT-19-5](/embeds/books/attachments/aot-19-5.png)  
+![AoT-19-5](/embeds/books/attachments/aot-19-5.jpg)  
 
 Only two demands. Uh huh.  
 
-![AoT-19-6](/embeds/books/attachments/aot-19-6.png)  
+![AoT-19-6](/embeds/books/attachments/aot-19-6.jpg)  
 
 Boom. Oy.

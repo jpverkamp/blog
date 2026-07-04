@@ -25,25 +25,25 @@ Onward!
 ---
 
 
-![](/embeds/books/attachments/wicked-divine-2-e6aa75.png)
+![](/embeds/books/attachments/wicked-divine-2-e6aa75.jpg)
 
-![](/embeds/books/attachments/wicked-divine-2-cb1df7.png)
+![](/embeds/books/attachments/wicked-divine-2-cb1df7.jpg)
 
 Now **that** is the Divine popstars twist I was expecting. 
 
-![](/embeds/books/attachments/wicked-divine-2-335b1e.png)
+![](/embeds/books/attachments/wicked-divine-2-335b1e.jpg)
 
 Seems like moving on may very well be impossible for Laura. Of course, that's if she wasn't digging herself in deeper. 
 
-![](/embeds/books/attachments/wicked-divine-2-c434e9.png)
+![](/embeds/books/attachments/wicked-divine-2-c434e9.jpg)
 
 Pages and pages of dance party yo. 
 
-![](/embeds/books/attachments/wicked-divine-2-14e641.png)
+![](/embeds/books/attachments/wicked-divine-2-14e641.jpg)
 
 That’s a fascinating idea. I might just have to steal it. 
 
-![](/embeds/books/attachments/wicked-divine-2-e81a69.png)
+![](/embeds/books/attachments/wicked-divine-2-e81a69.jpg)
 
 Well… shit. That’s an ending. 
 

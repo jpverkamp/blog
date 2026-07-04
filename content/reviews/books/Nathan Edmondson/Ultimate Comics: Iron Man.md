@@ -31,22 +31,22 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-2b5199.png)
+![](/embeds/books/attachments/ultimate-iron-man-textbundle-2b5199.jpg)
 
 The Mandarin! Interesting. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-a155b9.png)
+![](/embeds/books/attachments/ultimate-iron-man-textbundle-a155b9.jpg)
 
 That’s an unexpected look for Jarvis. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-4c57b6.png)
+![](/embeds/books/attachments/ultimate-iron-man-textbundle-4c57b6.jpg)
 
 Not… War Machine?
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-ab1825.png)
+![](/embeds/books/attachments/ultimate-iron-man-textbundle-ab1825.jpg)
 
 I like it. 
 
-![](/embeds/books/attachments/ultimate-iron-man-textbundle-662417.png)
+![](/embeds/books/attachments/ultimate-iron-man-textbundle-662417.jpg)
 
 I enjoy the timing. 

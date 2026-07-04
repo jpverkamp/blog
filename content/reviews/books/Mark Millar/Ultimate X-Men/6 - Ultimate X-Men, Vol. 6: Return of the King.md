@@ -31,44 +31,44 @@ Onward.
 
  
 
-![](/embeds/books/attachments/ultimate-x-men-v6-64dc82.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-64dc82.jpg)
 
 … I suppose just because you have no problem with thievery shouldn’t immediately imply a lack of morals in all areas. An amusing conversation. 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-e90595.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-e90595.jpg)
 
 Nightcrawler! Haven’t had enough of him yet. 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-669680.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-669680.jpg)
 
 Well that’s certainly a thing. 
 
 Oh the ethics of psychics makes everything complicated. 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-c6c5cb.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-c6c5cb.jpg)
 
 There’s certainly an interesting argument there. The Professor screwed up, there’s little doubt about that. But can you actually safely hold a powerful mutant? Does that justify execution? Would S.H.I.E.L.D. actually have executed him? 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-152113.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-152113.jpg)
 
 Again. A better point if the means to his end weren’t mass border, but it’s hard to really find any purely good sides in this mess. Individuals, close enough. Collectives, less so. 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-3028dc.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-3028dc.jpg)
 
 Oy. 
 
 I don’t now which is worst. The centipedes, the hallucinations, or the “day twenty-six”. 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-7b911f.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-7b911f.jpg)
 
 Phoenix! Yay! And uh oh…
 
-![](/embeds/books/attachments/ultimate-x-men-v6-ee1f35.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-ee1f35.jpg)
 
 
 Pre Disney buying Marvel even. Prescient. 
 
-![](/embeds/books/attachments/ultimate-x-men-v6-318b7f.png)
+![](/embeds/books/attachments/ultimate-x-men-v6-318b7f.jpg)
 
 Keeping him alive may still be impractical. But there’s something pretty cool about that giant floating plastic prison. And the idea of him writing his way out of it is fun. 
 

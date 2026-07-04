@@ -18,13 +18,13 @@ Ms. Marvel! I watched the [[Ms. Marvel|TV show]](), so this should be about the 
 
 Right?
 
-![](/embeds/books/attachments/ms-marvel-2014-v1-textbundle-8f46f0.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v1-textbundle-8f46f0.jpg)
 
 Well… things get weird. Mostly due to an origin not entirely in the movies. So it’s a bit different. 
 
 But the feel?
 
-![](/embeds/books/attachments/ms-marvel-2014-v1-textbundle-e10d87.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v1-textbundle-e10d87.jpg)
 
 It’s still street level, teen girl, dealing with being from a Pakistani family/Muslim born in America. 
 

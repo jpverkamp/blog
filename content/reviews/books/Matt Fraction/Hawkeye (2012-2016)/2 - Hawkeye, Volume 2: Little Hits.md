@@ -18,7 +18,7 @@ title: 'Hawkeye, Volume 2: Little Hits'
 ---
 Clint is in over his head. Again. Tracksuit mafia. Managing a building. Installing AV equipment. Valentine’s Day. Women. 
 
-![](/embeds/books/attachments/hawkeye-2012-v2-905413.png)
+![](/embeds/books/attachments/hawkeye-2012-v2-905413.jpg)
 
 The dog gets it. 
 
@@ -36,23 +36,23 @@ Onward!
 More thoughts (spoilers):
 
 
-![](/embeds/books/attachments/hawkeye-2012-v2-8559bb.png)
+![](/embeds/books/attachments/hawkeye-2012-v2-8559bb.jpg)
 
 That’s quite the team. On one hand, it’s not literal Norse god / a Hulk. But they still have straight up super human powers. And Wolverine is basically immortal. So… why Hawkeye?
 
-![](/embeds/books/attachments/hawkeye-2012-v2-e9b90d.png)
+![](/embeds/books/attachments/hawkeye-2012-v2-e9b90d.jpg)
 
 It’s funny because ~Grills~ just calls Clint Hawkguy anyways. 
 
-![](/embeds/books/attachments/hawkeye-2012-v2-efde11.png)
+![](/embeds/books/attachments/hawkeye-2012-v2-efde11.jpg)
 
 😃
 
-![](/embeds/books/attachments/hawkeye-2012-v2-35eeec.png)
+![](/embeds/books/attachments/hawkeye-2012-v2-35eeec.jpg)
 
 That’s a delightful visual. I actually really like Hawkeye with the Avengers, but not currently **with** the Avengers stories. 
 
-![](/embeds/books/attachments/hawkeye-2012-v2-ab5c8d.png)
+![](/embeds/books/attachments/hawkeye-2012-v2-ab5c8d.jpg)
 
 Wait, who is the ex? Bobbi? I vaguely remember a Bobbi from Agents of S.H.I.E.L.D. (the show). So much to backfill. 
 

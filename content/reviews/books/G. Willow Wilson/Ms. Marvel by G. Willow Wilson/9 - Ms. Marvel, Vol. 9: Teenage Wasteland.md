@@ -16,7 +16,7 @@ title: 'Ms. Marvel, Vol. 9: Teenage Wasteland'
 
 ## Teenage Wasteland
 
-![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-109a07.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-109a07.jpg)
 
 Ironic that. 
 
@@ -32,7 +32,7 @@ I really liked this one.
 
 ##  Something New
 
-![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-6ced1f.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-6ced1f.jpg)
 
 Baby!
 
@@ -48,11 +48,11 @@ I wonder of Bruno shows up in any Black Panther issues while he was there.
 
 ## Random Thoughts (minor spoilers)
 
-![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-68e719.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-68e719.jpg)
 
 😆
 
-![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-cfbfb6.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v9-textbundle-cfbfb6.jpg)
 
 Bruno’s reaction was pretty delightful. 
 

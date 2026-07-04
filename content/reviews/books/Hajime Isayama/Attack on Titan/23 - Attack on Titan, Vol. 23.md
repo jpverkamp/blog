@@ -26,22 +26,22 @@ It's a crazy switch this far into the manga, but I'm up to it.
 
 Spoilers:  
 
-![AoT-23-1](/embeds/books/attachments/aot-23-1.png)  
+![AoT-23-1](/embeds/books/attachments/aot-23-1.jpg)  
 
 She is... insane and kind of awesome.  
 
-![AoT-23-2](/embeds/books/attachments/aot-23-2.png)  
+![AoT-23-2](/embeds/books/attachments/aot-23-2.jpg)  
 
 Of all the Titans, I think this is the weirdest one. But the marriage of technology and Titans by putting machine guns on it's back? Awesome. Terrifying.  
 
-![AoT-23-3](/embeds/books/attachments/aot-23-3.png)  
+![AoT-23-3](/embeds/books/attachments/aot-23-3.jpg)  
 
 Well... that's a way. As ugly as it is, I'm always fascinated to see ways that you can weaponize things unique to your world. If that involves dropping Titans... well...  
 
-![AoT-23-4](/embeds/books/attachments/aot-23-4.png)  
+![AoT-23-4](/embeds/books/attachments/aot-23-4.jpg)  
 
 Oh the backstory of the Yeager family. Complicated. Did we know Zeke was his son before? Eren's brother?! (Half-brother?)  
 
-![AoT-23-5](/embeds/books/attachments/aot-23-5.png)  
+![AoT-23-5](/embeds/books/attachments/aot-23-5.jpg)  
 
 Making fun of PTSD ... oy.

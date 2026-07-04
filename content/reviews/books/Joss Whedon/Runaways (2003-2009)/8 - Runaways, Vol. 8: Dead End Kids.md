@@ -33,15 +33,15 @@ And so ends the 2005-2008 run. Onwards!
 
 My notes (spoilers):
 
-![](/embeds/books/attachments/runaways-v8-f09f27.png)
+![](/embeds/books/attachments/runaways-v8-f09f27.jpg)
 
 They’re so teenagers sometimes… and back in New York. 
 
-![](/embeds/books/attachments/runaways-v8-af1751.png)
+![](/embeds/books/attachments/runaways-v8-af1751.jpg)
 
 I like Karolina and Xavin. And totally feel for Nico her. Trying to understand? Open foot, insert mouth. 
 
-![](/embeds/books/attachments/runaways-v8-a6d9b6.png)
+![](/embeds/books/attachments/runaways-v8-a6d9b6.jpg)
 
 Super Skrull! Powers of the Fantastic Four!
 
@@ -49,23 +49,23 @@ Some training required.
 
 They’re so bad at this. 
 
-![](/embeds/books/attachments/runaways-v8-6dfc8c.png)
+![](/embeds/books/attachments/runaways-v8-6dfc8c.jpg)
 
 Molly is cute. **Nothing** permanent had better happen to her. 
 
-![](/embeds/books/attachments/runaways-v8-eb7196.png)
+![](/embeds/books/attachments/runaways-v8-eb7196.jpg)
 
 Daw. Especially because she’s totally right. 
 
-![](/embeds/books/attachments/runaways-v8-8eaf03.png)
+![](/embeds/books/attachments/runaways-v8-8eaf03.jpg)
 
 Oh Molly. 
 
-![](/embeds/books/attachments/runaways-v8-1646f9.png)
+![](/embeds/books/attachments/runaways-v8-1646f9.jpg)
 
 Super… Zombie? Sure. Amusing pairing. 😆
 
-![](/embeds/books/attachments/runaways-v8-7e9eb7.png)
+![](/embeds/books/attachments/runaways-v8-7e9eb7.jpg)
 
 Aw. Closed time loops!
 

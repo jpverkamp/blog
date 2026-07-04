@@ -18,7 +18,7 @@ title: 'Ultimate Comics Iron Man: Armor Wars'
 
 The world’s turned upside down…
 
-![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-855465.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-855465.jpg)
 
 And someone has being stealing Stark Tech. 
 
@@ -34,15 +34,15 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-9be2ee.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-9be2ee.jpg)
 
 It’s always a girl for him, isn’t it?
 
-![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-407c8d.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-407c8d.jpg)
 
 That’s a neat trick. 
 
-![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-5d3040.png)
+![](/embeds/books/attachments/ultimate-comics-iron-man-armor-wars-textbundle-5d3040.jpg)
 
 … she’s not wrong. 
 

@@ -31,16 +31,16 @@ Onward!
 ---
 
 
-![](/embeds/books/attachments/wicked-divine-9-05c5fe.png)
+![](/embeds/books/attachments/wicked-divine-9-05c5fe.jpg)
 
 Still creepy. 
 
-![](/embeds/books/attachments/wicked-divine-9-7370df.png)
+![](/embeds/books/attachments/wicked-divine-9-7370df.jpg)
 
 And so a bit of it mattered. 
 
 Take that, a few years and we have 1, 2, …
 
-![](/embeds/books/attachments/wicked-divine-9-71f89b.png)
+![](/embeds/books/attachments/wicked-divine-9-71f89b.jpg)
 
 Fin. 

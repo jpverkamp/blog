@@ -33,15 +33,15 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-2-textbundle-9d2270.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-2-textbundle-9d2270.jpg)
 
 Only so many quips to go around. 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-2-textbundle-1b21b4.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-2-textbundle-1b21b4.jpg)
 
 Spider-Thor!
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-2-textbundle-54ddcd.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-2-textbundle-54ddcd.jpg)
 
 It’s certainly something for business. I think he’s just way too low level for Fury to care about at the moment. 
 

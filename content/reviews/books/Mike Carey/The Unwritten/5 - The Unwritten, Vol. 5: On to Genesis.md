@@ -24,19 +24,19 @@ It's good, if a bit convoluted at times.
 
 ## Thoughts as I read (spoilers)
 
-![](/embeds/books/attachments/unwritten-5-484b08.png)
+![](/embeds/books/attachments/unwritten-5-484b08.jpg)
 
 Sounds about right. 
 
-![](/embeds/books/attachments/unwritten-5-56f75b.png)
+![](/embeds/books/attachments/unwritten-5-56f75b.jpg)
 
 Now that makes me wonder where he actually did come from after all. Hmm. 
 
-![](/embeds/books/attachments/unwritten-5-f1d6d1.png)
+![](/embeds/books/attachments/unwritten-5-f1d6d1.jpg)
 
 I don't find the twist that the is B a woman to be  that surprising, but the way she phrases is it pretty wonderful. 
 
-![](/embeds/books/attachments/unwritten-5-40421b.png)
+![](/embeds/books/attachments/unwritten-5-40421b.jpg)
 
 The center of the coming changes. He's accepting some things... But not quite everything. Not yet. 
 

@@ -22,17 +22,17 @@ It's interesting to see the research [[Hiromu Arakawa]]() did for this book.
 
 <!--more-->
 
-![15-58-1-ww2](/embeds/books/attachments/15-58-1-ww2.png)  
+![15-58-1-ww2](/embeds/books/attachments/15-58-1-ww2.jpg)  
 
  **Chapter 58: The Footsteps of Ruin**  
 
 For one: Al is so young to react that way to love.  
 
-![15-58-2-love](/embeds/books/attachments/15-58-2-love.png)  
+![15-58-2-love](/embeds/books/attachments/15-58-2-love.jpg)  
 
 For two, _definite_ [[Elantris]]() vibes... I'm curious tosee if I'm right about that.  
 
-![15-58-3-elantris-vibes](/embeds/books/attachments/15-58-3-elantris-vibes.png)  
+![15-58-3-elantris-vibes](/embeds/books/attachments/15-58-3-elantris-vibes.jpg)  
 
 Also, Mustang and Hawkeye's relationship makes so much more sense now.  
 
@@ -42,13 +42,13 @@ Man so much background on the war. War sucks. War where one side has all the cra
 
 Also:  
 
-![15-59-sad-meta](/embeds/books/attachments/15-59-sad-meta.png)  
+![15-59-sad-meta](/embeds/books/attachments/15-59-sad-meta.jpg)  
 
 Sad meta is sad.  
 
 **Chapter 60: In the Absence of God**  
 
-![15-60-thoom](/embeds/books/attachments/15-60-thoom.png)  
+![15-60-thoom](/embeds/books/attachments/15-60-thoom.jpg)  
 
 Oh my.  
 

@@ -35,20 +35,20 @@ Notes. Spoilers.
 
 Remember right before Ultimatum? With all those weird statues? And then instead Magneto killed everyone?
 
-![](/embeds/books/attachments/chameleons-textbundle-cb8c1f.png)
+![](/embeds/books/attachments/chameleons-textbundle-cb8c1f.jpg)
 
 Turns out it meant something!
 
-![](/embeds/books/attachments/chameleons-textbundle-2404cd.png)
+![](/embeds/books/attachments/chameleons-textbundle-2404cd.jpg)
 
 They forgot too!
 
 And then suddenly B plot. The return of Spider-Woman’s !
 
-![](/embeds/books/attachments/chameleons-textbundle-65795b.png)
+![](/embeds/books/attachments/chameleons-textbundle-65795b.jpg)
 
 And finally we get to Chameleons. 
 
-![](/embeds/books/attachments/chameleons-textbundle-4b7992.png)
+![](/embeds/books/attachments/chameleons-textbundle-4b7992.jpg)
 
 That's a thing. 

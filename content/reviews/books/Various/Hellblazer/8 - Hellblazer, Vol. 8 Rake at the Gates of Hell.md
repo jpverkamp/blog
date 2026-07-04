@@ -21,23 +21,23 @@ There was a lot of potential in this episode, with two longer storylines--one th
 That… was a very story. Which is saying something for Constantine. Papa Midnite, visions within visions, and The President, shot in the head, holding his brains in. Oh Hellblazer. 
 
 ### Brave New World 
-![](/embeds/books/attachments/hellblazer-8-d5007d.png)
+![](/embeds/books/attachments/hellblazer-8-d5007d.jpg)
 
 Heh. 
 
 Something I hadn’t really realized: he’s smoking again. Unless this is earlier. I’d think a near death scare like only Constantine can get out of would be enough to quit…
 
-![](/embeds/books/attachments/hellblazer-8-359215.png)
+![](/embeds/books/attachments/hellblazer-8-359215.jpg)
 
 Haven’t seen Papa Midnite in a while…
 
 ### Broadway the Hard Way 
 
-![](/embeds/books/attachments/hellblazer-8-3acbf4.png)
+![](/embeds/books/attachments/hellblazer-8-3acbf4.jpg)
 
 Not in Kansas any more. 
 
-![](/embeds/books/attachments/hellblazer-8-06eb48.png)
+![](/embeds/books/attachments/hellblazer-8-06eb48.jpg)
 
 … all right then. 
 
@@ -45,13 +45,13 @@ Not in Kansas any more.
 
 A nightmare in his mind and not much better for his body. What has he gotten himself into this time…
 
-![](/embeds/books/attachments/hellblazer-8-c17851.png)
+![](/embeds/books/attachments/hellblazer-8-c17851.jpg)
 
 Ah. It all begins to come together. 
 
 ### Hail to the Chief 
 
-![](/embeds/books/attachments/hellblazer-8-6faf51.png)
+![](/embeds/books/attachments/hellblazer-8-6faf51.jpg)
 
 Visions from within a witchwalking? It’s gone recursive!
 
@@ -59,27 +59,27 @@ And then it ended. I guess? Weird.
 
 ## Act of Union
 
-![](/embeds/books/attachments/hellblazer-8-b2b14f.png)
+![](/embeds/books/attachments/hellblazer-8-b2b14f.jpg)
 
 Kit in the Before Times as well. A bit bittersweet now… both for Kit and Brenden. Weird time for this story. 
 
 ## Confessions of an Irish Rebel
 
-![](/embeds/books/attachments/hellblazer-8-71cef1.png)
+![](/embeds/books/attachments/hellblazer-8-71cef1.jpg)
 
 Ah. Now the flashback makes more sense. And Midnite even figures into it! Ish. 
 
 ## And the Crowd Goes Wild
 Just think of it…
 
-![](/embeds/books/attachments/hellblazer-8-f76e16.png)
+![](/embeds/books/attachments/hellblazer-8-f76e16.jpg)
 
 … all the crazy crap Constantine has pulled, from Chas’ perspective. 
 
 ## Rake at the Gate of Hell
 ### Part One
 
-![](/embeds/books/attachments/hellblazer-8-6796c8.png)
+![](/embeds/books/attachments/hellblazer-8-6796c8.jpg)
 
 Now **that** is something happening!
 
@@ -87,13 +87,13 @@ Another old flame too: Ellen this time.
 
 ### Part Two
 
-![](/embeds/books/attachments/hellblazer-8-b00e0f.png)
+![](/embeds/books/attachments/hellblazer-8-b00e0f.jpg)
 
 An interesting thought. I would think that everyone does have a line for everything. But… sometimes it’s not practical to get to?
 
 Anyways, we immediately get to this:
 
-![](/embeds/books/attachments/hellblazer-8-c13eda.png)
+![](/embeds/books/attachments/hellblazer-8-c13eda.jpg)
 
 Things that crack me up, Constantine style. 
 
@@ -101,39 +101,39 @@ I’m mostly not interested in this spelling unfortunately, except the Hell poli
 
 ### Part Three
 
-![](/embeds/books/attachments/hellblazer-8-06c2d3.png)
+![](/embeds/books/attachments/hellblazer-8-06c2d3.jpg)
 
 Perhaps they had to spell it out for me in black and white… but it all makes sense now, glow everything fits together. 
 
 ### Part Four 
 
-![](/embeds/books/attachments/hellblazer-8-1bd4b8.png)
+![](/embeds/books/attachments/hellblazer-8-1bd4b8.jpg)
 
 Creepy much? Astra is … certainly an interesting side effect of Constantine’s rather extravagant life. 
 
-![](/embeds/books/attachments/hellblazer-8-298b83.png)
+![](/embeds/books/attachments/hellblazer-8-298b83.jpg)
 
 That poor Priest. 
 
-![](/embeds/books/attachments/hellblazer-8-5854d2.png)
+![](/embeds/books/attachments/hellblazer-8-5854d2.jpg)
 
 An interesting point. 
 
 ### Part Five
 
-![](/embeds/books/attachments/hellblazer-8-a1ace2.png)
+![](/embeds/books/attachments/hellblazer-8-a1ace2.jpg)
 
 It does cement the timeline at least, but I still feel like I’m missing something. 
 
 ### Part Six
 
-![](/embeds/books/attachments/hellblazer-8-c0ac6a.png)
+![](/embeds/books/attachments/hellblazer-8-c0ac6a.jpg)
 
 And then, after six parts, they finally meet!
 
 And we finally get the secret that drove that Priest mad:
 
-![](/embeds/books/attachments/hellblazer-8-dc28fd.png)
+![](/embeds/books/attachments/hellblazer-8-dc28fd.jpg)
 
 Some interesting thoughts their. God, capable of loneliness. The first creation. 
 
@@ -141,7 +141,7 @@ And then… the twist. The twist that makes it all worth it. And Death. Sudden. 
 
 ## Heartland
 
-![](/embeds/books/attachments/hellblazer-8-d35c5c.png)
+![](/embeds/books/attachments/hellblazer-8-d35c5c.jpg)
 
 I fully expect this to go well and everyone to live happily ever after… even after he got mistaken for a drug dealer and his kneecap(s) shot off. 
 

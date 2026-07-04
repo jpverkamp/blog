@@ -22,21 +22,21 @@ It's fascinating seeing both women in the cast now. Bit weird.
 
 <!--more-->
 
-![Transmetropolitan-4-1](/embeds/books/attachments/transmetropolitan-4-1.png)  
+![Transmetropolitan-4-1](/embeds/books/attachments/transmetropolitan-4-1.jpg)  
 
 Especially with...  
 
-![Transmetropolitan-4-2](/embeds/books/attachments/transmetropolitan-4-2.png)  
+![Transmetropolitan-4-2](/embeds/books/attachments/transmetropolitan-4-2.jpg)  
 
 (hints of spoilers) Yeah. That's not really a surprising plotline, but I expect it's not going to end up going well for anyone.  
 
 So far as other topics we're dealing with this time around, we have anti- technology fields:  
 
-![Transmetropolitan-4-3](/embeds/books/attachments/transmetropolitan-4-3.png)  
+![Transmetropolitan-4-3](/embeds/books/attachments/transmetropolitan-4-3.jpg)  
 
 The president thinking he's beyond crime (like I said, this plotline got a bit too real):  
 
-![Transmetropolitan-4-4](/embeds/books/attachments/transmetropolitan-4-4.png)  
+![Transmetropolitan-4-4](/embeds/books/attachments/transmetropolitan-4-4.jpg)  
 
 It's quite a plot. I wonder how many volumes we'll be dealing with the election and the fallout. I'd like to see other parts of the world as well.  
 
@@ -44,14 +44,14 @@ Onward!
 
 More pictures/potential spoilers:  
 
-![Transmetropolitan-4-5](/embeds/books/attachments/transmetropolitan-4-5.png)  
+![Transmetropolitan-4-5](/embeds/books/attachments/transmetropolitan-4-5.jpg)  
 
 Well. That's a description. Corrupt... and worse, competent.  
 
-![Transmetropolitan-4-6](/embeds/books/attachments/transmetropolitan-4-6.png)  
+![Transmetropolitan-4-6](/embeds/books/attachments/transmetropolitan-4-6.jpg)  
 
 Well. That's one way to do it. At least it's out in the open?  
 
-![Transmetropolitan-4-7](/embeds/books/attachments/transmetropolitan-4-7.png)  
+![Transmetropolitan-4-7](/embeds/books/attachments/transmetropolitan-4-7.jpg)  
 
 And then there's the Christmas episode. THat was pretty hilarious.

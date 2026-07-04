@@ -29,19 +29,19 @@ Overall, it’s really good. I’m looking forward to where this goes next!
 
 A few more thoughts as I read. Spoilers!
 
-![](/embeds/books/attachments/hawkeye-2012-v1-d94e7b.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-d94e7b.jpg)
 
 Well that’s a start. 
 
-![](/embeds/books/attachments/hawkeye-2012-v1-4056ee.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-4056ee.jpg)
 
 So in the comics, he can do more than arrows? That’s a neat trick. 
 
-![](/embeds/books/attachments/hawkeye-2012-v1-74988a.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-74988a.jpg)
 
 Not exactly the same story then. Got the same bones, but Kate Bishop is already introduced. 
 
-![](/embeds/books/attachments/hawkeye-2012-v1-eff6bd.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-eff6bd.jpg)
 
 Their relationship is kind of wonderful. I do so hope they actually keep it platonic. Is Hawkeye married with a family in the comics?
 
@@ -49,15 +49,15 @@ Also, weird outfit.
 
 Also also, Clint geeking out about all the random arrows… I love it. 
 
-![](/embeds/books/attachments/hawkeye-2012-v1-01ec41.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-01ec41.jpg)
 
 Speaking of outfits… that’s hilarious. 
 
-![](/embeds/books/attachments/hawkeye-2012-v1-6695f0.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-6695f0.jpg)
 
 That’s quite the art style swap. 
 
-![](/embeds/books/attachments/hawkeye-2012-v1-991973.png)
+![](/embeds/books/attachments/hawkeye-2012-v1-991973.jpg)
 
 😃
 

@@ -19,7 +19,7 @@ title: Ultimate Comics Spider-Man by Brian Michael Bendis, Volume 4
 ---
 Miles is new on the job—and already too many people know (or suspect that he’s Spider-Man). 
 
-![](/embeds/books/attachments/ultimate-comics-spider-man-4-textbundle-258b1c.png)
+![](/embeds/books/attachments/ultimate-comics-spider-man-4-textbundle-258b1c.jpg)
 
 I do like this Jameson. 
 

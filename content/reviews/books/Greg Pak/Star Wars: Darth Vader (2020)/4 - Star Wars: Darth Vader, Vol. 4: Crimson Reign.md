@@ -20,7 +20,7 @@ series_index:
 title: 'Darth Vader, Vol. 4: Crimson Reign'
 ---
 
-![](/embeds/books/attachments/darth-vader-2020-v4-textbundle-6d8ec1.png)
+![](/embeds/books/attachments/darth-vader-2020-v4-textbundle-6d8ec1.jpg)
 
 All right. 
 
@@ -28,7 +28,7 @@ So forget Luke and Han Vader is apparently going after this Crimson Dawn now.
 
 Except: 
 
-![](/embeds/books/attachments/darth-vader-2020-v4-textbundle-99b49e.png)
+![](/embeds/books/attachments/darth-vader-2020-v4-textbundle-99b49e.jpg)
 
 They’re everywhere. 
 
@@ -40,7 +40,7 @@ Still not quite as good as the first two volumes but an enjoyable read neverthel
 
 On thing I particularly enjoy about the comics is just how varied and alien the universe can feel:
 
-![](/embeds/books/attachments/darth-vader-2020-v4-textbundle-5f40a5.png)
+![](/embeds/books/attachments/darth-vader-2020-v4-textbundle-5f40a5.jpg)
 
 It’s a nice contrast to how human centric the movies and shows have to be. Easier to draw a bug/lizard/ten foot ball droid than to put them on film. 
 

@@ -17,7 +17,7 @@ series_index: [2]
 ---
 Elanor saved the world (more or less) and takes a night on the town. One thing leads to another and...  
 
-![Hex-11-2](/embeds/books/attachments/hex-11-2.png)  
+![Hex-11-2](/embeds/books/attachments/hex-11-2.jpg)  
 
 <!--more-->
 
@@ -25,6 +25,6 @@ Well, I'll leave that to you to figure out. But you might just guess that things
 
 It's a solid story, full of wonderfully weird worldbuilding, hints of things that make me want to know more, and twists and turns (some of which I guessed, some I didn't).  
 
-![Hex-11-3](/embeds/books/attachments/hex-11-3.png)  
+![Hex-11-3](/embeds/books/attachments/hex-11-3.jpg)  
 
 Overall, well worth the read and as the new issues come out, I can only wait until the there's a new collected volume to read!

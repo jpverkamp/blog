@@ -15,7 +15,7 @@ title: Ultimate Origins
 ---
 And now we learn…
 
-![](/embeds/books/attachments/ultimate-origins-textbundle-5be231.png)
+![](/embeds/books/attachments/ultimate-origins-textbundle-5be231.jpg)
 
 How it’s all connected. 
 
@@ -37,10 +37,10 @@ Onward!
 
 More notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-origins-textbundle-8e18f8.png)
+![](/embeds/books/attachments/ultimate-origins-textbundle-8e18f8.jpg)
 
 For once it’s not Reed poking his nose into dangerous unknowable territory. 
 
-![](/embeds/books/attachments/ultimate-origins-textbundle-e4bde6.png)
+![](/embeds/books/attachments/ultimate-origins-textbundle-e4bde6.jpg)
 
 That’s such a twisted origin story. And yet, in this universe, it kind of works. Fury and Wolverine. The first (modern) super humans. 

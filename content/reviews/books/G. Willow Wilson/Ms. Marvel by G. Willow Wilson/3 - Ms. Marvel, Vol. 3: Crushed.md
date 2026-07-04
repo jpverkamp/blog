@@ -14,7 +14,7 @@ series_index:
 title: 'Ms. Marvel, Vol. 3: Crushed'
 ---
 
-![](/embeds/books/attachments/ms-marvel-2014-v3-textbundle-0c1f99.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v3-textbundle-0c1f99.jpg)
 
 …
 
@@ -24,7 +24,7 @@ Pity it’s only got one volume.
 
 Other than that we get the introduction of Kamran—instant meetcute with Kamala, what can possibly go wrong—inhuman strife, and… a S.H.I.E.L.D. crossover?
 
-![](/embeds/books/attachments/ms-marvel-2014-v3-textbundle-94662b.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v3-textbundle-94662b.jpg)
 
 Looks fun. Maybe I’ll read that one next. 
 
@@ -41,6 +41,6 @@ Onward!
 
 Side note (spoilers!):
 
-![](/embeds/books/attachments/ms-marvel-2014-v3-textbundle-bd681b.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v3-textbundle-bd681b.jpg)
 
 Yeah, that’s pretty teenagers… (I think; it’s been a year or two)

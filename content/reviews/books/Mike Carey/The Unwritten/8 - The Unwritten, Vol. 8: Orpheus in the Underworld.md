@@ -22,31 +22,31 @@ A journey to Hell... and a few faces we haven't seen in a while. Good times.
 
 ## Full review (potential spoilers):
 
-![](/embeds/books/attachments/unwritten-8-8aaef1.png)
+![](/embeds/books/attachments/unwritten-8-8aaef1.jpg)
 
 Is it any different to be in a story about being dead... versus actually being dead? For them in Russ worlds in particular?
 
-![](/embeds/books/attachments/unwritten-8-f5c089.png)
+![](/embeds/books/attachments/unwritten-8-f5c089.jpg)
 
 Handy having a local about!
 
-![](/embeds/books/attachments/unwritten-8-091c79.png)
+![](/embeds/books/attachments/unwritten-8-091c79.jpg)
 
 Bit of a different sort of story that. Things are breaking down...
 
-![](/embeds/books/attachments/unwritten-8-c282df.png)
+![](/embeds/books/attachments/unwritten-8-c282df.jpg)
 
 Oh my. Have not seen them in a good long while. 
 
-![](/embeds/books/attachments/unwritten-8-0b3416.png)
+![](/embeds/books/attachments/unwritten-8-0b3416.jpg)
 
 New friends! Omniversal ones no less. 
 
-![](/embeds/books/attachments/unwritten-8-9d5e96.png)
+![](/embeds/books/attachments/unwritten-8-9d5e96.jpg)
 
 Good for the kid? But like so much else in these stories ... there's going to be fallout for this. 
 
-![](/embeds/books/attachments/unwritten-8-c2b43c.png)
+![](/embeds/books/attachments/unwritten-8-c2b43c.jpg)
 
 Bonkers. But awesome. 
 

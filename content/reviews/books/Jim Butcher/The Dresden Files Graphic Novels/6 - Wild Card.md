@@ -21,11 +21,11 @@ That being said, this story is a bit crazy. It introduces [Puck](https://en.wiki
 
 <!--more-->
 
-![puck](/embeds/books/attachments/puck.png)  
+![puck](/embeds/books/attachments/puck.jpg)  
 
 Overall, a wonderful story. I think one of the two parts that bugged me the most was this lovely attempt to take Puck down:  
 
-![circle-of-fire](/embeds/books/attachments/circle-of-fire.png)  
+![circle-of-fire](/embeds/books/attachments/circle-of-fire.jpg)  
 
 You're going to shoot each other. Come on. But if that's the worst? Pretty good.  
 

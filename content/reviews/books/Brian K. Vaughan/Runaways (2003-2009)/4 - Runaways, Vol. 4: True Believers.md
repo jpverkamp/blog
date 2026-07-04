@@ -18,7 +18,7 @@ title: 'Runaways, Vol. 4: True Believers'
 ---
 The one with the time travel, yo. 
 
-![](/embeds/books/attachments/runaways-v4-3a5f94.png)
+![](/embeds/books/attachments/runaways-v4-3a5f94.jpg)
 
 Bit more traditional super hero flare, but still with a Runaways twist. 
 
@@ -37,22 +37,22 @@ Onward!
 
 As I reads. Might be Spoilers. You know the drill. 
 
-![](/embeds/books/attachments/runaways-v4-e05e70.png)
+![](/embeds/books/attachments/runaways-v4-e05e70.jpg)
 
 Oh boy. 
 
 Interesting new art style. Nico and Karolina got super skinny…
 
 
-![](/embeds/books/attachments/runaways-v4-3c56df.png)
+![](/embeds/books/attachments/runaways-v4-3c56df.jpg)
 
 An upside of sorts?
 
-![](/embeds/books/attachments/runaways-v4-56045a.png)
+![](/embeds/books/attachments/runaways-v4-56045a.jpg)
 
 And that’s why so many random super heroes in the comics can randomly fly. 
 
-![](/embeds/books/attachments/runaways-v4-f4b072.png)
+![](/embeds/books/attachments/runaways-v4-f4b072.jpg)
 
 … after 3 volumes. I’m amused. 
 

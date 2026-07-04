@@ -15,7 +15,7 @@ series_index:
 - 8
 title: Ultimate Comics Captain America
 ---
-![](/embeds/books/attachments/ultimate-comics-captain-america-textbundle-61bba0.png)
+![](/embeds/books/attachments/ultimate-comics-captain-america-textbundle-61bba0.jpg)
 
 Well that’s a thing. 
 

@@ -22,22 +22,22 @@ Spoilers and pretty pretty pictures (for some definitions of pretty):
 
 <!--more-->
 
-![Aot-11-1](/embeds/books/attachments/aot-11-1.png)  
+![Aot-11-1](/embeds/books/attachments/aot-11-1.jpg)  
 
 Man that's a crazy fight. I love it.  
 
-![Aot-11-2](/embeds/books/attachments/aot-11-2.png)  
+![Aot-11-2](/embeds/books/attachments/aot-11-2.jpg)  
 
 > And how to talk to girls
 
 Not the time. Still hilarious. Any time something like this comes up, I wonder how much is the author, how much is the cultural differences, and how much is translation. On the other hand, they are all really young, which makes it all the more terrifying.  
 
-![Aot-11-3](/embeds/books/attachments/aot-11-3.png)  
+![Aot-11-3](/embeds/books/attachments/aot-11-3.jpg)  
 
 Tactics! I wonder why they don't use armor any more? I guess it doesn't do much against a Titan.  
 
 And then there's...  
 
-![Aot-11-4](/embeds/books/attachments/aot-11-4.png)  
+![Aot-11-4](/embeds/books/attachments/aot-11-4.jpg)  
 
 Weird and creepy. As I was saying about translations. So it goes.

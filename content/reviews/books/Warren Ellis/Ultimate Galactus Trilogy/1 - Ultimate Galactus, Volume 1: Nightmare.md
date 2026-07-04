@@ -33,29 +33,29 @@ This can’t possibly go wrong.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-29bbc3.png)
+![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-29bbc3.jpg)
 
 Putin has been around for a while. I wonder how this issue would have played differently in the modern political climate. 
 
 Also, Iron Man with an entire support staff makes so much more sense than what we get in the movies. Never really considered it. 
 
-![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-aea968.png)
+![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-aea968.jpg)
 
 Mutations! X-Men!
 
 Apparently there is evidence of radiation from the event along trees that survived but were cut down before nuclear tests in the 40s. 
 
-![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-4df5dc.png)
+![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-4df5dc.jpg)
 
 Huh. That’s a point of view. 
 
 And given it was mentioned, relevant?
 
-![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-163327.png)
+![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-163327.jpg)
 
 That’s some cool layout. 
 
-![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-db71bb.png)
+![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-db71bb.jpg)
 
 Does Captain America know who wolverine was?
 
@@ -63,7 +63,7 @@ Did we know that?
 
 Or is ‘Jim’ just (bad) luck. 
 
-![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-d96052.png)
+![](/embeds/books/attachments/ultimate-galactus-1-nightmare-textbundle-d96052.jpg)
 
 … huh. Ultimate Vision. 
 

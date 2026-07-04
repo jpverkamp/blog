@@ -20,7 +20,7 @@ Overall, a lot of things come to an end. Hazel and Squire are growing up and fig
 
 <!--more-->
 
-![1-screens](/embeds/books/attachments/1-screens.png)  
+![1-screens](/embeds/books/attachments/1-screens.jpg)  
 
 It's funny because his face is a screen.  
 
@@ -28,7 +28,7 @@ I wonder if they'll end up together by the end. It seems too perfect.
 
 We have a few discussions that feel all too modern, while at the same time making you think... What else do we have to learn from and to explore the world in the end--except for stories.  
 
-![2-works-of-fiction](/embeds/books/attachments/2-works-of-fiction.png)  
+![2-works-of-fiction](/embeds/books/attachments/2-works-of-fiction.jpg)  
 
 And deaths. Oh the deaths.  
 

@@ -17,7 +17,7 @@ title: 'Spider-Gwen, Vol. 1: Greater Power'
 ---
 When worlds collide…
 
-![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-eeebab.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-eeebab.jpg)
 
 In this universe, Peter Parker wanted to be a hero and got killed for it. So… why is the Lizard apparently still running around?
 
@@ -39,7 +39,7 @@ Onward!
 
 As-reading thoughts: (**spoilers**)
 
-![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-ecd7b5.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-ecd7b5.jpg)
 
 … lol. 
 
@@ -49,17 +49,17 @@ Also who is this Captain America?
 
 Samantha “Sam” Wilson. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-2ba82b.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-2ba82b.jpg)
 
 So many [[Spider-Man: Across the Spider-Verse|Across the Spider-Verse]]() references/inspirations!
 
 I have no idea where this pregnant Spider-Jessica actually came from. I mean, the only basis I have is the [[Ultimate Spider-Man, Volume 17: Clone Saga|Ultimate Spider-Man version]](). Which… was an interesting one to be sure. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-ed747f.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-ed747f.jpg)
 
 Delightfully twisty multiversal world building GO!
 
-![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-b964a1.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v1-textbundle-b964a1.jpg)
 
 Oh that’s quite the realization… for a lifelong cop especially. Interesting to see what’s next for him. 
 

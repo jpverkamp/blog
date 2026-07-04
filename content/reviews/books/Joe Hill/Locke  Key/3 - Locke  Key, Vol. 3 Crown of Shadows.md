@@ -18,7 +18,7 @@ series_index: [3]
 ---
 So it's not just keys... it's crowns and other artifacts too now? That's cool! They're all still vaguely key related, so it works out.  
 
-![](/embeds/books/attachments/locke-and-key-3.2.png)  
+![](/embeds/books/attachments/locke-and-key-3.2.jpg)  
 
 <!--more-->
 
@@ -26,7 +26,7 @@ Man Dodge/Zach/Luke/whatever his name is makes a somewhat terrifying foe. He act
 
 One thing that I enjoyed particularly about this volume was the introduction of a few new characters.  
 
-![](/embeds/books/attachments/locke-and-key-3.1.png)   
+![](/embeds/books/attachments/locke-and-key-3.1.jpg)   
 
 He's great. :D  
 

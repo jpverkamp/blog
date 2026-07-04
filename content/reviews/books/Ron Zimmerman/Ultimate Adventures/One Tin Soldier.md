@@ -15,11 +15,11 @@ title: 'Ultimate Adventures: One Tin Soldier'
 ---
 So… Hawk-Owl. Right.  Big time Batman parody, no?
 
-![](/embeds/books/attachments/one-tin-soldier-b46cd4.png)
+![](/embeds/books/attachments/one-tin-soldier-b46cd4.jpg)
 
 That’s an introduction. 
 
-![](/embeds/books/attachments/one-tin-soldier-aa9c84.png)
+![](/embeds/books/attachments/one-tin-soldier-aa9c84.jpg)
 
 And… that’s a backstory. 
 
@@ -39,24 +39,24 @@ Onward.
 
 More notes. Potential spoilers. 
 
-![](/embeds/books/attachments/one-tin-soldier-ede0af.png)
+![](/embeds/books/attachments/one-tin-soldier-ede0af.jpg)
 
 Heh. 
 
 Giant Man and the Wasp? Didn’t expect to see them together. When is this?
 
-![](/embeds/books/attachments/one-tin-soldier-754e95.png)
+![](/embeds/books/attachments/one-tin-soldier-754e95.jpg)
 
 … it’s after then? Knowing that is even more surprising. 
 
-![](/embeds/books/attachments/one-tin-soldier-99c546.png)
+![](/embeds/books/attachments/one-tin-soldier-99c546.jpg)
 
 And then everything got **weird**. 
 
-![](/embeds/books/attachments/one-tin-soldier-18ba60.png)
+![](/embeds/books/attachments/one-tin-soldier-18ba60.jpg)
 
 Oh my. 
 
-![](/embeds/books/attachments/one-tin-soldier-7f425d.png)
+![](/embeds/books/attachments/one-tin-soldier-7f425d.jpg)
 
 Yeah… he walked into that one. 

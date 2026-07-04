@@ -21,62 +21,62 @@ Well that’s an interesting saga. Heaven, Hell, and… a Third Place. Mythology
 
 ## Empathy is the Enemy
 
-![](/embeds/books/attachments/hellblazer-19-2bcf07.png)
+![](/embeds/books/attachments/hellblazer-19-2bcf07.jpg)
 
 Confident. Can’t say it isn’t deserved though. 
 
-![](/embeds/books/attachments/hellblazer-19-90721c.png)
+![](/embeds/books/attachments/hellblazer-19-90721c.jpg)
 
 Not something monks want to hear I expect. 
 
-![](/embeds/books/attachments/hellblazer-19-87114f.png)
+![](/embeds/books/attachments/hellblazer-19-87114f.jpg)
 
 IRL the team seems attached to a particular brand of Fundamentalist Christians. I like this idea better. 
 
-![](/embeds/books/attachments/hellblazer-19-028946.png)
+![](/embeds/books/attachments/hellblazer-19-028946.jpg)
 
 ## The Season of the Zealot 
 
-![](/embeds/books/attachments/hellblazer-19-a937ac.png)
+![](/embeds/books/attachments/hellblazer-19-a937ac.jpg)
 
 Map!
 
 ## The Red Right Hand
 
-![](/embeds/books/attachments/hellblazer-19-d73953.png)
+![](/embeds/books/attachments/hellblazer-19-d73953.jpg)
 
 How do you fix something like that? Perhaps an ally with newly upgraded time related powers? 😃
 
-![](/embeds/books/attachments/hellblazer-19-ee524c.png)
+![](/embeds/books/attachments/hellblazer-19-ee524c.jpg)
 
 Such a Constantine way to choose to save the world. 
 
-![](/embeds/books/attachments/hellblazer-19-e67d5d.png)
+![](/embeds/books/attachments/hellblazer-19-e67d5d.jpg)
 
 He’s not entirely wrong. 
 
-![](/embeds/books/attachments/hellblazer-19-a7b0a5.png)
+![](/embeds/books/attachments/hellblazer-19-a7b0a5.jpg)
 
 And that’s (currently) happy Chas. Poor Chas. 
 
-![](/embeds/books/attachments/hellblazer-19-bb6ee9.png)
+![](/embeds/books/attachments/hellblazer-19-bb6ee9.jpg)
 
 Oh that’s a touch of world building. 
 
-![](/embeds/books/attachments/hellblazer-19-15fde0.png)
+![](/embeds/books/attachments/hellblazer-19-15fde0.jpg)
 
 … not the way I would have expected this to go…
 
-![](/embeds/books/attachments/hellblazer-19-5397d8.png)
+![](/embeds/books/attachments/hellblazer-19-5397d8.jpg)
 
 Oh that’s beautiful. 
 
 ## With a Little Help From My Friends
 
-![](/embeds/books/attachments/hellblazer-19-572d2f.png)
+![](/embeds/books/attachments/hellblazer-19-572d2f.jpg)
 
 Don’t they all?
 
-![](/embeds/books/attachments/hellblazer-19-db948d.png)
+![](/embeds/books/attachments/hellblazer-19-db948d.jpg)
 
 Not that sort of story at all.

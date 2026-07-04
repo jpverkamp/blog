@@ -31,53 +31,53 @@ This should have been part of Volume 1 (or dropped entirely).
 ## Newcastle: A Taste of Things to Come
 Ah, now there’s a plot I care more about. Why is Constantine the way he is…
 
-![](/embeds/books/attachments/hellblazer-2.02.png)
+![](/embeds/books/attachments/hellblazer-2.02.jpg)
 
 Man that gets dark. And young Constantine is kind of an  over confident ass. 
 
-![](/embeds/books/attachments/hellblazer-2.03.png)
+![](/embeds/books/attachments/hellblazer-2.03.jpg)
 
 Which goes as well as can be expected…
 
-![](/embeds/books/attachments/hellblazer-2.04.png)
+![](/embeds/books/attachments/hellblazer-2.04.jpg)
 
 ## The Devil You Know…
 That’s satisfying. Dealing with one demon and a callback to the friend stuck in a computer. 
 
-![](/embeds/books/attachments/hellblazer-2.05.png)
+![](/embeds/books/attachments/hellblazer-2.05.jpg)
 
 ## On the Beach
 A nice vacation day of sorts…
 
-![](/embeds/books/attachments/hellblazer-2.06.png)
+![](/embeds/books/attachments/hellblazer-2.06.jpg)
 
 Which quickly takes a turn for the surreal. A dream, a nightmare. It’s hard to tell sometimes when you have a world with such fuzzy rules as comics do… 
 
 ## The Bloody Saints: Part One
 Constantine, reeling and broken. A chance from the past, before the mess in New Castle. 
 
-![](/embeds/books/attachments/hellblazer-2.07.png)
+![](/embeds/books/attachments/hellblazer-2.07.jpg)
 
 But it’s not for him…
 
 ## The Bloody Saints: Part Two
 … 
 
-![](/embeds/books/attachments/hellblazer-2.08.png)
+![](/embeds/books/attachments/hellblazer-2.08.jpg)
 
 That was a very strange issue. Constantine is King Author? With lots of puking blood? I don’t get it. 
 
-![](/embeds/books/attachments/hellblazer-2.09.png)
+![](/embeds/books/attachments/hellblazer-2.09.jpg)
 
 Lol wat. 
 
 ## The Horrorist
 That is a very different feel… 
 
-![](/embeds/books/attachments/hellblazer-2.10.png)
+![](/embeds/books/attachments/hellblazer-2.10.jpg)
 
 Cold (literally) and horrifying in the best way, and I’d like to see more of it—I’m not a huge fan of the style for most of Hellblazer thus far. I’m not sure where it fits with anything else, but it’s a good standalone. 
 
-![](/embeds/books/attachments/hellblazer-2.11.png)
+![](/embeds/books/attachments/hellblazer-2.11.jpg)
 
 Only to end with Constantine basically {{< spoiler >}}fucking her to death {{</ spoiler >}}. That’s certainly a choice.

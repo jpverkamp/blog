@@ -17,7 +17,7 @@ series_index:
 - 20
 title: Ultimate Comics Ultimates by Jonathan Hickman, Vol. 2
 ---
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-87e0ba.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-87e0ba.jpg)
 
 Well that escalated again’ly. 
 
@@ -33,27 +33,27 @@ A lot certainly happens, but I find it hard to be invested in any of it. Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-6befdd.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-6befdd.jpg)
 
 Yeah, the names are always going to be confusing. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-6a1ec7.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-6a1ec7.jpg)
 
 Is that an orbital launched Hulk?
 
 Awesome. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-2861bb.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-2861bb.jpg)
 
 
 … those eyes. 
 
 Startling each time. 
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-f6377d.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-f6377d.jpg)
 
 Oh my.
 
-![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-4693d8.png)
+![](/embeds/books/attachments/ultimate-comics-ultimates-2-textbundle-4693d8.jpg)
 
 Comic book logic!

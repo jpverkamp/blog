@@ -34,23 +34,23 @@ Onward!
 
 Notes. Or else. 
 
-![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-7613ee.png)
+![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-7613ee.jpg)
 
 I wonder if living in the crazy world they do makes believing in God easier or harder. 
 
-![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-aabd78.png)
+![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-aabd78.jpg)
 
 Oh boy. Just wait another decade or two. World gets weird yo. 
 
-![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-5e31df.png)
+![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-5e31df.jpg)
 
 😆
 
-![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-b9186e.png)
+![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-b9186e.jpg)
 
 Vision is repaired? And… golden? And presenting somewhat more female than in the movies. Interesting. 
 
-![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-723afd.png)
+![](/embeds/books/attachments/ultimate-galactus-3-extinction-textbundle-723afd.jpg)
 
 That… is delightfully bonkers. I wonder if that’s going to mess up the universe stack somehow. If that’s something they’ll deal with at some point later, or just gloss over. 
 

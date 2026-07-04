@@ -19,11 +19,11 @@ Finally getting some answers!
 
 We have:
 
-![](/embeds/books/attachments/runaways-v3-1440de.png)
+![](/embeds/books/attachments/runaways-v3-1440de.jpg)
 
 Who (and why) the Pride **are**. 
 
-![](/embeds/books/attachments/runaways-v3-e7b707.png)
+![](/embeds/books/attachments/runaways-v3-e7b707.jpg)
 
 And what they mean when they say it’s all for the children…
 
@@ -36,7 +36,7 @@ Of course things are more complicated than that. Of course there are subgroups w
 
 Also:
 
-![](/embeds/books/attachments/runaways-v3-a6ef8c.png)
+![](/embeds/books/attachments/runaways-v3-a6ef8c.jpg)
 
 Given the fallout of your average comic book… they kind of have a point. 
 

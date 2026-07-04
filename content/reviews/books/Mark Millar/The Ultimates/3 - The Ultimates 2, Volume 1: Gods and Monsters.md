@@ -35,31 +35,31 @@ Onward!
 
 Notes. Potential spoilers. 
 
-![](/embeds/books/attachments/ultimates-2-1-textbundle-b2774f.png)
+![](/embeds/books/attachments/ultimates-2-1-textbundle-b2774f.jpg)
 
 Person of Mass Destruction. 
 
 It’s both early 2000s and kind of a good point. And Captain America is probably among the least ‘mass’ destruction of the Ultimates. 
 
-![](/embeds/books/attachments/ultimates-2-1-textbundle-979787.png)
+![](/embeds/books/attachments/ultimates-2-1-textbundle-979787.jpg)
 
 The idea that it’s _still_ not really clear if Thor is really Thor … or a meta human with psychiatric issues is _fascinating_. I want more of this. I think the original Thor line may be more that than what we got in the movies? Worth looking. 
 
-![](/embeds/books/attachments/ultimates-2-1-textbundle-ff7d6c.png)
+![](/embeds/books/attachments/ultimates-2-1-textbundle-ff7d6c.jpg)
 
 So. By the end, will we have proof? Either way. 
 
 In expect not. 
 
-![](/embeds/books/attachments/ultimates-2-1-textbundle-fded47.png)
+![](/embeds/books/attachments/ultimates-2-1-textbundle-fded47.jpg)
 
 Black Widow in an Iron Man suit. I love it. 
 
-![](/embeds/books/attachments/ultimates-2-1-textbundle-26e49f.png)
+![](/embeds/books/attachments/ultimates-2-1-textbundle-26e49f.jpg)
 
 … that is bonkers. 
 
-![](/embeds/books/attachments/ultimates-2-1-textbundle-ae54a3.png)
+![](/embeds/books/attachments/ultimates-2-1-textbundle-ae54a3.jpg)
 
 Still not convinced. 
 

@@ -24,12 +24,12 @@ Man this one was crazy. Everything is changed, a pile of major and minor charact
 
 Oh, and the adorable little girl is growing up:  
 
-![Saga-3-4-Skish](/embeds/books/attachments/saga-3-4-skish.png)  
+![Saga-3-4-Skish](/embeds/books/attachments/saga-3-4-skish.jpg)  
 
 Plus, she's basically a wrestler. Whatever it takes to provide for your family, yes? Well... that's sort of the question, now isn't it?  
 
 My favorite individual panel of this volume:  
 
-![Saga-3-5-Robot-Rambo](/embeds/books/attachments/saga-3-5-robot-rambo.png)  
+![Saga-3-5-Robot-Rambo](/embeds/books/attachments/saga-3-5-robot-rambo.jpg)  
 
 It loses a bit without having read who that is and what he's doing, but seeing the parallels between his story, the baby's (that's a baby on his chest), and Hazel's? Oh it's interesting.

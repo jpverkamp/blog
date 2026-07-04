@@ -28,25 +28,25 @@ Man this was a crazy chapter.
 
 Meta:  
 
-![14-54-1-super-villain](/embeds/books/attachments/14-54-1-super-villain.png)  
+![14-54-1-super-villain](/embeds/books/attachments/14-54-1-super-villain.jpg)  
 
 An interesting point of view from Father:  
 
-![14-54-2-Fools](/embeds/books/attachments/14-54-2-fools.png)  
+![14-54-2-Fools](/embeds/books/attachments/14-54-2-fools.jpg)  
 
 FIGHT SCENES:  
 
-![14-54-3-fight-fight-fight](/embeds/books/attachments/14-54-3-fight-fight-fight.png)  
+![14-54-3-fight-fight-fight](/embeds/books/attachments/14-54-3-fight-fight-fight.jpg)  
 
 EYE BALLS!  
 
-![14-54-4-EYEBALLS](/embeds/books/attachments/14-54-4-eyeballs.png)  
+![14-54-4-EYEBALLS](/embeds/books/attachments/14-54-4-eyeballs.jpg)  
 
  **Chapter 55: The Avarice of Two**  
 
 I DON'T EVEN KNOW WHAT'S GOING ON, BUT IT'S INTERESTING!  
 
-![14-55-1-What](/embeds/books/attachments/14-55-1-what.png)  
+![14-55-1-What](/embeds/books/attachments/14-55-1-what.jpg)  
 
 Also, I'm getting some strong [[Elantris]]() vibes from the non-locals still being able to use Alchemy. That's interesting.  
 
@@ -54,7 +54,7 @@ Also, I'm getting some strong [[Elantris]]() vibes from the non-locals still bei
 
 Sometimes, you remember that Al is still just a kid.  
 
-![14-56-1-In-a-manga](/embeds/books/attachments/14-56-1-in-a-manga.png)  
+![14-56-1-In-a-manga](/embeds/books/attachments/14-56-1-in-a-manga.jpg)  
 
 And sometimes... in the most meta way possible.  
 
@@ -62,6 +62,6 @@ And sometimes... in the most meta way possible.
 
 And finally...  
 
-![14-57-1-Father-is-WEIRD](/embeds/books/attachments/14-57-1-father-is-weird.png)  
+![14-57-1-Father-is-WEIRD](/embeds/books/attachments/14-57-1-father-is-weird.jpg)  
 
 That. Man Father is weird. So many answers. So many more questions...

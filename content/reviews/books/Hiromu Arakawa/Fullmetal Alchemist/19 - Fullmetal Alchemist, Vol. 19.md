@@ -30,31 +30,31 @@ This time: the origin of Father and Von Hohenheim!
 
  **Chapter 74: The Dwarf in the Flask**  
 
-![19-074-1-Cheapskate](/embeds/books/attachments/19-074-1-cheapskate.png)  
+![19-074-1-Cheapskate](/embeds/books/attachments/19-074-1-cheapskate.jpg)  
 
 Major General Armstrong continues to be my favorite. (They're all my favorite! You can't stop me!)  
 
-![19-074-2-THE-DWARF-IN-THE-FLASK](/embeds/books/attachments/19-074-2-the-dwarf-in-the-flask.png)  
+![19-074-2-THE-DWARF-IN-THE-FLASK](/embeds/books/attachments/19-074-2-the-dwarf-in-the-flask.jpg)  
 
 THE BEGINNING OF IT ALL!  
 
-![19-074-3-Von-Hohenheim](/embeds/books/attachments/19-074-3-von-hohenheim.png)  
+![19-074-3-Von-Hohenheim](/embeds/books/attachments/19-074-3-von-hohenheim.jpg)  
 
 VON HOHENHEIM! I expect this will go badly.  
 
 **Chapter 75: The Last Days of Xerxes**  
 
-![19-075-1-Breed](/embeds/books/attachments/19-075-1-breed.png)  
+![19-075-1-Breed](/embeds/books/attachments/19-075-1-breed.jpg)  
 
 Oh 'breed'. I agree with Von Hohenheim. It's a loaded word.  
 
-![19-075-2-The-Human-Philosopher-s-Stone](/embeds/books/attachments/19-075-2-the-human-philosopher-s-stone.png)  
+![19-075-2-The-Human-Philosopher-s-Stone](/embeds/books/attachments/19-075-2-the-human-philosopher-s-stone.jpg)  
 
 That's what he is! And done by the 'love' (or at least gratitude) of the Dwarf in the Flask / Father. That's quite the relationship.  
 
 **Chapter 76: Shape of a Person, Shape of a Stone**  
 
-![19-076-1-I-ENVY-them](/embeds/books/attachments/19-076-1-i-envy-them.png)  
+![19-076-1-I-ENVY-them](/embeds/books/attachments/19-076-1-i-envy-them.jpg)  
 
 I ENVY them?! Sneaky sneaky! (or just a red herring?)  
 
@@ -64,6 +64,6 @@ Goodness. Ed can do new alchemy and Al is in pieces and they figured out a secon
 
  **Chapter 78: The Seven Deadly Sins**  
 
-![19-078-1-Declaration-of-WAR](/embeds/books/attachments/19-078-1-declaration-of-war.png)  
+![19-078-1-Declaration-of-WAR](/embeds/books/attachments/19-078-1-declaration-of-war.jpg)  
 
 WAR! In some ways it's all the story of Father and Von Hohenheim, we're just now getting to it.

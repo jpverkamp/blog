@@ -15,7 +15,7 @@ series_index:
 - 26
 title: 'Ultimate X-Men, Vol. 8: New Mutants'
 ---
-![](/embeds/books/attachments/ultimate-x-men-v8-fb5799.png)
+![](/embeds/books/attachments/ultimate-x-men-v8-fb5799.jpg)
 
 Things have been rough for the X-Men, what with the whole Magneto thing (again) and anti-Mutant feelings running high. So of course what do we need? More mutants! 
 
@@ -37,17 +37,17 @@ Onward!
 
 More notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v8-87cb31.png)
+![](/embeds/books/attachments/ultimate-x-men-v8-87cb31.jpg)
 
 On one hand, that’s hilarious. Beast, tech nerd. It fits. 
 
 On the other hand… this is most directly how we got Magneto back…
 
-![](/embeds/books/attachments/ultimate-x-men-v8-513c2a.png)
+![](/embeds/books/attachments/ultimate-x-men-v8-513c2a.jpg)
 
 Oh Storm. 
 
-![](/embeds/books/attachments/ultimate-x-men-v8-b241d2.png)
+![](/embeds/books/attachments/ultimate-x-men-v8-b241d2.jpg)
 
 Couldn’t save anyone else, could you? With a vocabulary of more than one syllable?
 
@@ -57,12 +57,12 @@ Because healing factor?
 
 Yeah. 
 
-![](/embeds/books/attachments/ultimate-x-men-v8-bd26a8.png)
+![](/embeds/books/attachments/ultimate-x-men-v8-bd26a8.jpg)
 
 Dazzler! Well how’s that for a blast from the past?
 
 Cyclops’ face is great. 
 
-![](/embeds/books/attachments/ultimate-x-men-v8-be165c.png)
+![](/embeds/books/attachments/ultimate-x-men-v8-be165c.jpg)
 
 Being comics, my first thought of course is: how do they bring him back? Because with only a very few exceptions, they always bring them back. 

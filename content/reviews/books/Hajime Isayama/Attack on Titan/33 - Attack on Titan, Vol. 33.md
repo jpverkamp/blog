@@ -16,7 +16,7 @@ series_index: [33]
 ---
 T-1. And man. It's...  
 
-![aot-33-1](/embeds/books/attachments/aot-33-1.png)  
+![aot-33-1](/embeds/books/attachments/aot-33-1.jpg)  
 
 <!--more-->
 

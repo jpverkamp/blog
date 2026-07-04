@@ -24,20 +24,20 @@ It wasn't great, but we get a lot more of Molly in her apprentice level, which I
 
 Plus:  
 
-![Down-Town-1-Marcone-etc](/embeds/books/attachments/down-town-1-marcone-etc.png)  
+![Down-Town-1-Marcone-etc](/embeds/books/attachments/down-town-1-marcone-etc.jpg)  
 
 Marcone, Hendricks, and Guard. I ... didn't really picture any of them that way, but it works!  
 
 And Bob's always a hoot:  
 
-![Down-Town-2-Master-of-the-Obvious](/embeds/books/attachments/down-town-2-master-of-the-obvious.png)  
+![Down-Town-2-Master-of-the-Obvious](/embeds/books/attachments/down-town-2-master-of-the-obvious.jpg)  
 
 I think the other break out of this one is the villain:  
 
-![Down-Town-3-Throne-of-Sewage](/embeds/books/attachments/down-town-3-throne-of-sewage.png)  
+![Down-Town-3-Throne-of-Sewage](/embeds/books/attachments/down-town-3-throne-of-sewage.jpg)  
 
 A THRONE OF SEWAGE! He's cartoonishly evil, but ... it's a comic book based on an urban fantasy series. It works. Plus, you get sludge monsters:  
 
-![Downtown-4-Sewage-elemental](/embeds/books/attachments/downtown-4-sewage-elemental.png)  
+![Downtown-4-Sewage-elemental](/embeds/books/attachments/downtown-4-sewage-elemental.jpg)  
 
 Good enough to read for a completionist's sake.

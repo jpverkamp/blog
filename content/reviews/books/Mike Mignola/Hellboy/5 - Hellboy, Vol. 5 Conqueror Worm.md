@@ -22,19 +22,19 @@ I love these books.
 
 <!--more-->
 
-![Hellboy-5-Frankenmonkey](/embeds/books/attachments/hellboy-5-frankenmonkey.png)  
+![Hellboy-5-Frankenmonkey](/embeds/books/attachments/hellboy-5-frankenmonkey.jpg)  
 
 They're the perfect blend of hilarious and creepy.  
 
-![Hellboy-5-Head-in-a-jar-humor](/embeds/books/attachments/hellboy-5-head-in-a-jar-humor.png)  
+![Hellboy-5-Head-in-a-jar-humor](/embeds/books/attachments/hellboy-5-head-in-a-jar-humor.jpg)  
 
 And they do a good job of hinting at just _what is it_ that makes someone a person?  
 
-![Hellboy-5-To-be-other-than-human](/embeds/books/attachments/hellboy-5-to-be-other-than-human.png)  
+![Hellboy-5-To-be-other-than-human](/embeds/books/attachments/hellboy-5-to-be-other-than-human.jpg)  
 
 Plus, you have one of the craziest core ideas for a plotline yet. There are spectral entities out in that want to come down, but they need a body to do so. How, may you ask?  
 
-![Hellboy-5-Dead-astronaut](/embeds/books/attachments/hellboy-5-dead-astronaut.png)  
+![Hellboy-5-Dead-astronaut](/embeds/books/attachments/hellboy-5-dead-astronaut.jpg)  
 
 Yup.  
 

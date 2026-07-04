@@ -29,17 +29,17 @@ Onward!
 
 Scenes that stuck out to me (spoilers):
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-009855.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-009855.jpg)
 
 I do so enjoy the Spider snark. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-edd3f6.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-edd3f6.jpg)
 
 It’s extra funny because **web** site. Get it? Web? Spider? 
 
 😃
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-0e3161.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-0e3161.jpg)
 
 Cute. 
 
@@ -47,25 +47,25 @@ I hope they get at least a few good moments before everything goes as sideways a
 
 It’s nice to see Peter not completely clueless. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-90d9c4.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-90d9c4.jpg)
 
 Not the best insults. Especially given such a big target. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-4819fa.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-4819fa.jpg)
 
 Spider-Dolt. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-b922c2.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-b922c2.jpg)
 
 An… interesting strategy. And he even brought notecards. 
 
 And it even worked…
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-88e8b8.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-88e8b8.jpg)
 
 Huh. Interesting. Okay, I hope this sticks, I’d like to see him with some backup. 
 
-![](/embeds/books/attachments/ultimate-spider-man-vol-2-061439.png)
+![](/embeds/books/attachments/ultimate-spider-man-vol-2-061439.jpg)
 
 Delightful. 
 

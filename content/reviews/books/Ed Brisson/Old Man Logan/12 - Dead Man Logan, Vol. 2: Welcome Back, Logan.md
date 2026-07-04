@@ -17,7 +17,7 @@ title: 'Dead Man Logan, Vol. 2: Welcome Back, Logan'
 ---
 And so it ends as it began. Logan and a Hulk, in the Wastelands. 
 
-![](/embeds/books/attachments/dead-man-logan-2-69c695.png)
+![](/embeds/books/attachments/dead-man-logan-2-69c695.jpg)
 
 The best part? Saberteeth. So many Sabertooths. Sabertoothipode? 
 
@@ -25,7 +25,7 @@ The best part? Saberteeth. So many Sabertooths. Sabertoothipode?
 
 The weirdest part? Suddenly Mjolnir?
 
-![](/embeds/books/attachments/dead-man-logan-2-6603f3.png)
+![](/embeds/books/attachments/dead-man-logan-2-6603f3.jpg)
 
 I’ll admit… Thor’s speech patterns (and font) coming with the hammer is pretty funny.
 

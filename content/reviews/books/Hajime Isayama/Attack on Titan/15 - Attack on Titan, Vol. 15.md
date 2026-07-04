@@ -18,7 +18,7 @@ series_index: [15]
 ---
 Woo boy. More twists and turns on the Titan front, more on the whole revolution front, and just a whole pile of madness in general.  
 
-![AoT-15-2](/embeds/books/attachments/aot-15-2.png)  
+![AoT-15-2](/embeds/books/attachments/aot-15-2.jpg)  
 
 <!--more-->
 

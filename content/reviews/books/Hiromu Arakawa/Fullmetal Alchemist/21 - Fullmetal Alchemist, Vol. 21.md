@@ -30,11 +30,11 @@ Spoilers etc:
 
  **Chapter 84: Shadow of the Pursuer**  
 
-![FMA-21-084-1-O-O](/embeds/books/attachments/fma-21-084-1-o-o.png)  
+![FMA-21-084-1-O-O](/embeds/books/attachments/fma-21-084-1-o-o.jpg)  
 
 Well... that's a thing. Aren't they teenagers?  
 
-![FMA-21-084-1-Pure-intentions](/embeds/books/attachments/fma-21-084-1-pure-intentions.png)  
+![FMA-21-084-1-Pure-intentions](/embeds/books/attachments/fma-21-084-1-pure-intentions.jpg)  
 
 Heh. I love her reaction though!  
 
@@ -44,11 +44,11 @@ Heh. I love her reaction though!
 
 Right in the feels. :(  
 
-![FMA-21-085-1-An-odd-one](/embeds/books/attachments/fma-21-085-1-an-odd-one.png)  
+![FMA-21-085-1-An-odd-one](/embeds/books/attachments/fma-21-085-1-an-odd-one.jpg)  
 
 Major General Armstrong is an odd one...  
 
-![FMA-21-085-2-VH](/embeds/books/attachments/fma-21-085-2-vh.png)  
+![FMA-21-085-2-VH](/embeds/books/attachments/fma-21-085-2-vh.jpg)  
 
 Oh Van Hohenheim.  
 
@@ -56,7 +56,7 @@ Also as a random note, Ed makes clothes seemingly without effort. How do any ind
 
 **Chapter 86: Servant of Darkness**  
 
-![FMA-21-086-1-Gluttony](/embeds/books/attachments/fma-21-086-1-gluttony.png)  
+![FMA-21-086-1-Gluttony](/embeds/books/attachments/fma-21-086-1-gluttony.jpg)  
 
 Gluttony is my favorite. Not as a good person (heh), but just as a fascinating character. He's not deep, but he's so wonderfully creepy.  
 
@@ -66,7 +66,7 @@ Gluttony is my favorite. Not as a good person (heh), but just as a fascinating c
 
 Speaking of creepy... how did Selim remain hidden so long? I guess people just don't look for things that they don't expect to see?  
 
-![FMA-21-087-2-Christmas](/embeds/books/attachments/fma-21-087-2-christmas.png)  
+![FMA-21-087-2-Christmas](/embeds/books/attachments/fma-21-087-2-christmas.jpg)  
 
 That was a fun twist.  
 

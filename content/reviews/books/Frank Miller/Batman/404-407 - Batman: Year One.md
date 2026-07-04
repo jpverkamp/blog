@@ -29,32 +29,32 @@ Also, the cursive is hard to read at times…
 Thoughts as I read (spoilers):
 
 ## Chapter 1: Who I Am, How I Came to Be
-![](/embeds/books/attachments/batman-272ed1.png)
+![](/embeds/books/attachments/batman-272ed1.jpg)
 
 An introduction to Gordon more than Batman so far. 
 
-![](/embeds/books/attachments/batman-8baf25.png)
+![](/embeds/books/attachments/batman-8baf25.jpg)
 
 Just how many familiar faces are we going to get?
 
-![](/embeds/books/attachments/batman-778354.png)
+![](/embeds/books/attachments/batman-778354.jpg)
 
 There’s the line!
 
 ## Chapter Two: War is Declared
 
-![](/embeds/books/attachments/batman-23cd24.png)
+![](/embeds/books/attachments/batman-23cd24.jpg)
 
 A suspect! Or two. 
 
 ## Chapter Three: Black Dawn
-![](/embeds/books/attachments/batman-fbf81c.png)
+![](/embeds/books/attachments/batman-fbf81c.jpg)
 
 It’s a Bat-Swarm!!
 
 ## Chapter Four: Friend in Need
 
-![](/embeds/books/attachments/batman-910b61.png)
+![](/embeds/books/attachments/batman-910b61.jpg)
 
 Sneaky!
 
@@ -62,11 +62,11 @@ Makes you wonder. Does the existence of true story powered individuals make one 
 
 Oh right, that’s the plot of Watchmen. 😆
 
-![](/embeds/books/attachments/batman-efb3de.png)
+![](/embeds/books/attachments/batman-efb3de.jpg)
 
 Heh. It’s funny because it’s true. 
 
 
-![](/embeds/books/attachments/batman-3bddc8.png)
+![](/embeds/books/attachments/batman-3bddc8.jpg)
 
 Nana nana nana nana Batman!

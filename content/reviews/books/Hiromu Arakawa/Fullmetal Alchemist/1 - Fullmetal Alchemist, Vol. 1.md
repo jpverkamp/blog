@@ -18,7 +18,7 @@ series_index: [1]
 ---
 I have never before read Fullmetal Alchemist. Amusingly though, I have seen (one of) the TV versions. It's been a few years though--I watched it with my now wife before we were even married. So going back and reading it, everything has a strange sort of familiarity.  
 
-![](/embeds/books/attachments/fullmetal-alchemist-vol-1-x-1.png)  
+![](/embeds/books/attachments/fullmetal-alchemist-vol-1-x-1.jpg)  
 
 <!--more-->
 
@@ -26,13 +26,13 @@ I know just how creepy Lust and Gluttony are and core to the story. Somehow the 
 
 One thing that manga really hits that I was missing? The comic book sound effects:  
 
-![](/embeds/books/attachments/fullmetal-alchemist-vol-1-x-2.png)  
+![](/embeds/books/attachments/fullmetal-alchemist-vol-1-x-2.jpg)  
 
 TOOM!  
 
 And occasionally, you get things that just feel very stereo-typically Japanese  
 
-![](/embeds/books/attachments/fullmetal-alchemist-vol-1-x-3.png)  
+![](/embeds/books/attachments/fullmetal-alchemist-vol-1-x-3.jpg)  
 
 Overall, it's a fascinating universe. The idea that magic is strictly science based, where you have to break down one thing to make something else of equivalent materials is just cool.  
 

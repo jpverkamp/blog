@@ -31,15 +31,15 @@ It’s quite the story and good to see some closure of sorts. For now.
 
 Additional thoughts, bro. Only minor spoilers. 
 
-![](/embeds/books/attachments/hawkeye-2012-v4-81bb51.png)
+![](/embeds/books/attachments/hawkeye-2012-v4-81bb51.jpg)
 
 Bro. 
 
-![](/embeds/books/attachments/hawkeye-2012-v4-69b694.png)
+![](/embeds/books/attachments/hawkeye-2012-v4-69b694.jpg)
 
 … Bro. 
 
-![](/embeds/books/attachments/hawkeye-2012-v4-eeb256.png)
+![](/embeds/books/attachments/hawkeye-2012-v4-eeb256.jpg)
 
 Bro. Ladybro. 
 

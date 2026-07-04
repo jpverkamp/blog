@@ -30,15 +30,15 @@ Makes sense. And could be useful for the Elric brothers!
 
  **Chapter 39: Complications at Central**  
 
-![FMA-10-39a-SHLA-MUK](/embeds/books/attachments/fma-10-39a-shla-muk.png)  
+![FMA-10-39a-SHLA-MUK](/embeds/books/attachments/fma-10-39a-shla-muk.jpg)  
 
 SHLA-MUK! Oh Gluttony is so gross.  
 
-![FMA-10-39b-IMMORTAL](/embeds/books/attachments/fma-10-39b-immortal.png)  
+![FMA-10-39b-IMMORTAL](/embeds/books/attachments/fma-10-39b-immortal.jpg)  
 
 But ... useful for those seeking immortality I guess?  
 
-![FMA-10-39c-Oh-Barry](/embeds/books/attachments/fma-10-39c-oh-barry.png)  
+![FMA-10-39c-Oh-Barry](/embeds/books/attachments/fma-10-39c-oh-barry.jpg)  
 
 Oh Barry...  
 
@@ -46,17 +46,17 @@ Oh Barry...
 
 And he ... cannot lie? Every once in a while, the translations seem amusingly juvenile.  
 
-![FMA-10-39e-Tough-to-kill](/embeds/books/attachments/fma-10-39e-tough-to-kill.png)  
+![FMA-10-39e-Tough-to-kill](/embeds/books/attachments/fma-10-39e-tough-to-kill.jpg)  
 
 ... wow homunculi are hard to kill.  
 
 **Chapter 40: Philosopher from the West**  
 
-![FMA-10-40a-Lets-do-it](/embeds/books/attachments/fma-10-40a-lets-do-it.png)  
+![FMA-10-40a-Lets-do-it](/embeds/books/attachments/fma-10-40a-lets-do-it.jpg)  
 
 Heh! LET'S DO IT!  
 
-![FMA-10-40b-Made-of-metal](/embeds/books/attachments/fma-10-40b-made-of-metal.png)  
+![FMA-10-40b-Made-of-metal](/embeds/books/attachments/fma-10-40b-made-of-metal.jpg)  
 
 Ouch. I hadn't considered that. I wonder what sort of metal he's made out of.  
 
@@ -64,18 +64,18 @@ Also... what in the world did they do that cost an entire country...
 
  **Chapter 41: On the Palm of an Arrogant Human Being**  
 
-![FMA-10-41a-Oh-Barry](/embeds/books/attachments/fma-10-41a-oh-barry.png)  
+![FMA-10-41a-Oh-Barry](/embeds/books/attachments/fma-10-41a-oh-barry.jpg)  
 
 Oh Barry.  
 
-![FMA-10-41b-Cutting-corners](/embeds/books/attachments/fma-10-41b-cutting-corners.png)  
+![FMA-10-41b-Cutting-corners](/embeds/books/attachments/fma-10-41b-cutting-corners.jpg)  
 
 Quite a place to be cutting corners. I knew there was something up about that from the start though.  
 
-![FMA-10-41c-The-one-with-the-boobs](/embeds/books/attachments/fma-10-41c-the-one-with-the-boobs.png)  
+![FMA-10-41c-The-one-with-the-boobs](/embeds/books/attachments/fma-10-41c-the-one-with-the-boobs.jpg)  
 
 Again with the boobs. It feels real enough, but it's still funny.  
 
-![FMA-10-41d-SCAR](/embeds/books/attachments/fma-10-41d-scar.png)  
+![FMA-10-41d-SCAR](/embeds/books/attachments/fma-10-41d-scar.jpg)  
 
 SCAR!!!

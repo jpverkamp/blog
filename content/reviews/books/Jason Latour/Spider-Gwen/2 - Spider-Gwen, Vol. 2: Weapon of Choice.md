@@ -32,13 +32,13 @@ Intense. Curious how long this lasts.
 
 Thoughts as I’m reading; SPOILERS!
 
-![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-417e15.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-417e15.jpg)
 
 Man, poor Gwen. Even if for better and for worse he has a point. 
 
 And of course to top it all off?
 
-![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-4168fe.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-4168fe.jpg)
 
 Halloween!
 
@@ -48,15 +48,15 @@ Halloween!
 
 Anyways, we get these:
 
-![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-a7a344.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-a7a344.jpg)
 
 ... please tell me that's on page somewhere. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-e2f18f.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-e2f18f.jpg)
 
 Huh. Alt Reed Richards. That's neat. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-fd4734.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v2-textbundle-fd4734.jpg)
 
 That's kind of funny. Spider-ADHD? Maybe I should read that series next. 
 

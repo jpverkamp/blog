@@ -24,7 +24,7 @@ Memes? I feel like I missed something. Interesting character development, but no
 
 ### Part One
 
-![](/embeds/books/attachments/hellblazer-12-02e230.png)
+![](/embeds/books/attachments/hellblazer-12-02e230.jpg)
 
 You are dating the _wrong_ man. 
 
@@ -32,23 +32,23 @@ Other than that, we have a fairly standard meet the family type scene. Until, Co
 
 ## Part Two
 
-![](/embeds/books/attachments/hellblazer-12-aa78c6.png)
+![](/embeds/books/attachments/hellblazer-12-aa78c6.jpg)
 
 Can’t catch a break, even in the TV. Interesting to try to play a game with an immortal… when you don’t even know the rules. 
 
 ### Part Three 
 
-![](/embeds/books/attachments/hellblazer-12-571da3.png)
+![](/embeds/books/attachments/hellblazer-12-571da3.jpg)
 
 I remember that!
 
 ### Part Four 
 
-![](/embeds/books/attachments/hellblazer-12-c90b5a.png)
+![](/embeds/books/attachments/hellblazer-12-c90b5a.jpg)
 
 Come to think of it. 
 
-![](/embeds/books/attachments/hellblazer-12-c932b3.png)
+![](/embeds/books/attachments/hellblazer-12-c932b3.jpg)
 
 There’s apparently stories of this having really happened! From a [1904 source](https://archive.org/details/previctoriandram00hughiala/page/12/mode/2up). 
 
@@ -58,11 +58,11 @@ Now that’s Constantine. Everything coming back to haunt him and him more or le
 
 ### Part One: Blowing on the Embers
 
-![](/embeds/books/attachments/hellblazer-12-e3caa8.png)
+![](/embeds/books/attachments/hellblazer-12-e3caa8.jpg)
 
 A good start. :smile:
 
-![](/embeds/books/attachments/hellblazer-12-7cadf3.png)
+![](/embeds/books/attachments/hellblazer-12-7cadf3.jpg)
 
 “Observers.” 
 
@@ -70,33 +70,33 @@ She’s not wrong though.
 
 ### Part Two: Fanning the Flames
 
-![](/embeds/books/attachments/hellblazer-12-ad353a.png)
+![](/embeds/books/attachments/hellblazer-12-ad353a.jpg)
 
 Of course. 
 
 And that’s not even it… family troubles, (dead) daddy issues, demon issues, relationship troubles. 
 
-![](/embeds/books/attachments/hellblazer-12-f7d696.png)
+![](/embeds/books/attachments/hellblazer-12-f7d696.jpg)
 
 Oy. 
 
 ### Part Three: Burning Down the House
 
-![](/embeds/books/attachments/hellblazer-12-f25bad.png)
+![](/embeds/books/attachments/hellblazer-12-f25bad.jpg)
 
 Such twisty allegiances. I love it. 
 
 ### Part Four: Sifting Through the Ashes 
 
-![](/embeds/books/attachments/hellblazer-12-974409.png)
+![](/embeds/books/attachments/hellblazer-12-974409.jpg)
 
 Oh Constantine. 
 
-![](/embeds/books/attachments/hellblazer-12-d37c02.png)
+![](/embeds/books/attachments/hellblazer-12-d37c02.jpg)
 
 I’d be more concerned if he hasn’t done that before. More than once. 
 
-![](/embeds/books/attachments/hellblazer-12-bb3c07.png)
+![](/embeds/books/attachments/hellblazer-12-bb3c07.jpg)
 
 Lol. That is all. 
 
@@ -106,23 +106,23 @@ Well that was twisted. A great build up, an exploration of Constantine and Chas,
 ### Part One
 The art changes can be really strange at times. Their relationship though:
 
-![](/embeds/books/attachments/hellblazer-12-f0ee8d.png)
+![](/embeds/books/attachments/hellblazer-12-f0ee8d.jpg)
 
 Worth. 
 
 ### Part Two
 
-![](/embeds/books/attachments/hellblazer-12-d34560.png)
+![](/embeds/books/attachments/hellblazer-12-d34560.jpg)
 
 Ah. Interesting how that often seems to be the one impossible thing. 
 
 As an aside:
 
-![](/embeds/books/attachments/hellblazer-12-5e6ab7.png)
+![](/embeds/books/attachments/hellblazer-12-5e6ab7.jpg)
 
 That’s a fascinating concept. Build a whole book on that. 
 
-![](/embeds/books/attachments/hellblazer-12-cfe36d.png)
+![](/embeds/books/attachments/hellblazer-12-cfe36d.jpg)
 
 Or that. 
 
@@ -130,13 +130,13 @@ All leading up to what _Constantine actually did_. Oy.
 
 ### Part Three
 
-![](/embeds/books/attachments/hellblazer-12-fc7533.png)
+![](/embeds/books/attachments/hellblazer-12-fc7533.jpg)
 
 Oy. 
 
 ### B Part Four 
 
-![](/embeds/books/attachments/hellblazer-12-a6f75b.png)
+![](/embeds/books/attachments/hellblazer-12-a6f75b.jpg)
 
 Ironic, considering. He totally deserved the shiner though. 
 
@@ -144,10 +144,10 @@ Ironic, considering. He totally deserved the shiner though.
 
 Such an insanely twisted villain. 
 
-![](/embeds/books/attachments/hellblazer-12-64de05.png)
+![](/embeds/books/attachments/hellblazer-12-64de05.jpg)
 
 With such a plan. 
 
-![](/embeds/books/attachments/hellblazer-12-de52ee.png)
+![](/embeds/books/attachments/hellblazer-12-de52ee.jpg)
 
 Oy.

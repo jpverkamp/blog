@@ -15,15 +15,15 @@ series_index:
 - 0
 title: 'Spider-Gwen, Vol. 6: The Life of Gwen Stacy'
 ---
-![](/embeds/books/attachments/spider-gwen-2015-v6-textbundle-77a37a.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v6-textbundle-77a37a.jpg)
 
 Gwens. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v6-textbundle-252f67.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v6-textbundle-252f67.jpg)
 
 Looking for help. 
 
-![](/embeds/books/attachments/spider-gwen-2015-v6-textbundle-26f3d8.jpeg)
+![](/embeds/books/attachments/spider-gwen-2015-v6-textbundle-26f3d8.jpg)
 
 And all for a secret (even to the Watchers…) cabal of Gwens. 
 

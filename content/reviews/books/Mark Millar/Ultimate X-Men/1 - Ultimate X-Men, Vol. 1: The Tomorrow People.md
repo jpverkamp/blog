@@ -34,45 +34,45 @@ Onward!
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/ultimate-x-men-v1-486e33.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-486e33.jpg)
 
 Assemble! The team, certainly not the women‘a outfits… I’m not sure if the late 90s/early 2000s or comic style is more to blame. 
 
 Also… Marvel Girl? I see why she often has just gone by Jean Gray. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-d028d1.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-d028d1.jpg)
 
 Okay that being the very next panel is kind of great. You go Hank. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-8e34a0.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-8e34a0.jpg)
 
 I haven’t often the the darker sides and history of Wolverine. But it totally makes sense. I wonder how they’ll go with it in this run long term. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-db1194.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-db1194.jpg)
 
 Pissing off the mutant you just commented you don’t know how to kill… brilliant idea that. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-b0ad9e.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-b0ad9e.jpg)
 
 Again, a page later. So they’re not complete idiots at least. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-7a72bd.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-7a72bd.jpg)
 
 Creepy. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-83e0d4.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-83e0d4.jpg)
 
 Highbrow humor it ain’t… but I’ll admit. I chuckled. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-aa606b.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-aa606b.jpg)
 
 How old is Wolverine supposed to be in this continuity? Still hundreds of years? Again, creepy.
 
-![](/embeds/books/attachments/ultimate-x-men-v1-8088f4.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-8088f4.jpg)
 
 Of course. Another rule of the X-Men. Beast be blue. 
 
-![](/embeds/books/attachments/ultimate-x-men-v1-d6deba.png)
+![](/embeds/books/attachments/ultimate-x-men-v1-d6deba.jpg)
 
 Also also questionable. Are we supposed to be siding with the X-Men? I suppose it’s better than the outright murder the other two sides seen hellbent on at the moment?
 

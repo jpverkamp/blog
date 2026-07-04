@@ -16,7 +16,7 @@ title: 'Wolverine: Old Man Logan, Vol. 9: The Hunter and the Hunted'
 
 The hand returns… 
 
-![](/embeds/books/attachments/old-man-logan-9-textbundle-31ffad.png)
+![](/embeds/books/attachments/old-man-logan-9-textbundle-31ffad.jpg)
 
 No, not that Hand. Logan’s hand. The one with the adamantium claws. I’ve actually enjoyed seeing him with the mismatched claws for a few volumes now.
 
@@ -34,6 +34,6 @@ Part two: continuation of the Bullseye feud from the last volume. He’s nuts �
 
 Anyways. Onward. 
 
-![](/embeds/books/attachments/old-man-logan-9-textbundle-83d0cf.png)
+![](/embeds/books/attachments/old-man-logan-9-textbundle-83d0cf.jpg)
 
 And that’s how you get a name. 

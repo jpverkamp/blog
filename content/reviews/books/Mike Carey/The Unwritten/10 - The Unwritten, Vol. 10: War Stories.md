@@ -20,15 +20,15 @@ title: 'The Unwritten, Vol. 10: War Stories'
 ---
 In the beginning...
 
-![](/embeds/books/attachments/unwritten-10-ef6c92.png)
+![](/embeds/books/attachments/unwritten-10-ef6c92.jpg)
 
 And it only gets weirder from there...
 
-![](/embeds/books/attachments/unwritten-10-381f87.png)
+![](/embeds/books/attachments/unwritten-10-381f87.jpg)
 
 A good choice of story though. 
 
-![](/embeds/books/attachments/unwritten-10-01d658.png)
+![](/embeds/books/attachments/unwritten-10-01d658.jpg)
 
 Yup. That's Aslan. 
 
@@ -38,6 +38,6 @@ Of course it's going to take quite a story to get back to the 'real' world from 
 
 ## Spoilers:
 
-![](/embeds/books/attachments/unwritten-10-27bf79.png)
+![](/embeds/books/attachments/unwritten-10-27bf79.jpg)
 
 Oooh my. 

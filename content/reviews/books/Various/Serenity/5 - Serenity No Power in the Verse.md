@@ -20,16 +20,16 @@ On top of that, we have hints at a more interesting past for Inara (we'd had thi
 
 <!--more-->
 
-![Serenity-5-1](/embeds/books/attachments/serenity-5-1.png)  
+![Serenity-5-1](/embeds/books/attachments/serenity-5-1.jpg)  
 
 It was a bit disjointed and felt a bit rushed, but it's still an enjoyable story.  
 
 And to top everything else off, a bedtime story told by River to Emma. It's ... the most beautiful, River thing I've ever seen:  
 
-![Serenity-5-3](/embeds/books/attachments/serenity-5-3.png)  
+![Serenity-5-3](/embeds/books/attachments/serenity-5-3.jpg)  
 
 And it gets better:  
 
-![Serenity-5-4](/embeds/books/attachments/serenity-5-4.png)  
+![Serenity-5-4](/embeds/books/attachments/serenity-5-4.jpg)  
 
 Oh, that is a wonderful way to send off a series. I don't know if there will ever be more Firefly/Serenity comics, but I'm still glad to have read them.

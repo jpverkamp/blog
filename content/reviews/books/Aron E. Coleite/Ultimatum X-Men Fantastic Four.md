@@ -21,7 +21,7 @@ title: 'Ultimatum: X-Men/Fantastic Four'
 ---
 Death and destruction on a massive scale. And to make it worse…
 
-![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-9587e2.png)
+![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-9587e2.jpg)
 
 We have zealots blaming all mutants and going on a rampage. 
 
@@ -29,7 +29,7 @@ So much death.
 
 And on the Fantastic Four side:
 
-![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-24175b.png)
+![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-24175b.jpg)
 
 Mole Man and Grimm, going in. Such a weird time for it. But I suppose it’s otherwise all the time Sue has left. 
 
@@ -41,10 +41,10 @@ Mole Man and Grimm, going in. Such a weird time for it. But I suppose it’s oth
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-f04cf3.png)
+![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-f04cf3.jpg)
 
 Rogue tapping Multiple Man. That’s a fun fight. 
 
-![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-3469cb.png)
+![](/embeds/books/attachments/ultimatum-x-menfantastic-four-textbundle-3469cb.jpg)
 
 And after all that… it wasn’t even the original doing it. 

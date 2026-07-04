@@ -33,10 +33,10 @@ And onward we go!
 ---
 
 
-![](/embeds/books/attachments/wicked-divine-6-270e58.png)
+![](/embeds/books/attachments/wicked-divine-6-270e58.jpg)
 
 Liking Minerva’s new look!
 
-![](/embeds/books/attachments/wicked-divine-6-5d253b.png)
+![](/embeds/books/attachments/wicked-divine-6-5d253b.jpg)
 
 Oh Amaterasu…

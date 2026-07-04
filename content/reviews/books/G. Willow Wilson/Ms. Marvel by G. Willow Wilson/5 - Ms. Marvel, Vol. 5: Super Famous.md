@@ -17,25 +17,25 @@ And… swap. Continued volume numbering, new issue numbers. Same writer, new art
 
 Onward!
 
-![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-e06382.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-e06382.jpg)
 
 Whoa, wait a minute. Less onward. More context!
 
-![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-3f430a.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-3f430a.jpg)
 
 Okay, so six months have passed. And it’s not just we the readers who missed everything—apparently Kamala’s been flaking hard as well. 
 
-![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-044ab1.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-044ab1.jpg)
 
 lol. 
 
 Also, Tyesha!
 
-![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-ae6ea7.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-ae6ea7.jpg)
 
 Which makes everything even more super busy! So of course…
 
-![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-99be6a.jpeg)
+![](/embeds/books/attachments/ms-marvel-2014-v5-textbundle-99be6a.jpg)
 
 Yup. Bad idea. 
 

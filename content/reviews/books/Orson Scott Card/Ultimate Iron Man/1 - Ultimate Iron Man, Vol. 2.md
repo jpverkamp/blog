@@ -36,17 +36,17 @@ Ready to move on.
 
 Notes (spoilers):
 
-![](/embeds/books/attachments/ultimate-iron-man-ii-a6cf25.png)
+![](/embeds/books/attachments/ultimate-iron-man-ii-a6cf25.jpg)
 
 Iron Man vs government suits? Iron Man working for the suits?
 
-![](/embeds/books/attachments/ultimate-iron-man-ii-51bb47.png)
+![](/embeds/books/attachments/ultimate-iron-man-ii-51bb47.jpg)
 
 Wat. 
 
 I don't really get this version of Obadiah. He is over the top weird and creepy and I don't remember (or care) hew he got whatever powers he has.
 
-![](/embeds/books/attachments/ultimate-iron-man-ii-b9982b.png)
+![](/embeds/books/attachments/ultimate-iron-man-ii-b9982b.jpg)
 
 Perfectly normal reaction, so far as I know. But… why would you include that line in a comic?
 

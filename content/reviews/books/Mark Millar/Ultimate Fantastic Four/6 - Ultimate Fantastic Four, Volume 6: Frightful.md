@@ -31,29 +31,29 @@ A lot to put in one volume one again, but perhaps my favorite Fantastic Four thu
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-363f07.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-363f07.jpg)
 
 Do we even have regular Skrull yet?
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-1fdaa0.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-1fdaa0.jpg)
 
 Keeping them around is still a weird choice…
 
 As is in any way trusting him. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-5ea43e.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-5ea43e.jpg)
 
 Time travel rules! Time spiders!
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-901fd3.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-901fd3.jpg)
 
 Ah. So that’s why we saw the Super Skrull and where they get introduced. Because something always goes wrong with time travel… especially when the goal is undoing the very origin story of your main characters. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-75002a.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-75002a.jpg)
 
 Well that is certainly a power…
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-c550a6.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v6-textbundle-c550a6.jpg)
 
 Ah! That’s why they’re still about. I guess they’re already dead ish?
 

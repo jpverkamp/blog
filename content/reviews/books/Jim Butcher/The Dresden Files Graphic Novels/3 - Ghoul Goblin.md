@@ -24,21 +24,21 @@ It's interesting seeing introductions over and over again. I know the books do t
 
 Dresden!  
 
-![Ghoul-Goblin-1-Introduction-to-Dresden](/embeds/books/attachments/ghoul-goblin-1-introduction-to-dresden.png)  
+![Ghoul-Goblin-1-Introduction-to-Dresden](/embeds/books/attachments/ghoul-goblin-1-introduction-to-dresden.jpg)  
 
 Well, nothing's on fire?  
 
 Bob!  
 
-![Ghoul-Goblin-2-Introduction-to-Bob](/embeds/books/attachments/ghoul-goblin-2-introduction-to-bob.png)  
+![Ghoul-Goblin-2-Introduction-to-Bob](/embeds/books/attachments/ghoul-goblin-2-introduction-to-bob.jpg)  
 
 I enjoy Bob.  
 
-![Ghoul-Goblin-3-Bloodline-curse](/embeds/books/attachments/ghoul-goblin-3-bloodline-curse.png)  
+![Ghoul-Goblin-3-Bloodline-curse](/embeds/books/attachments/ghoul-goblin-3-bloodline-curse.jpg)  
 
 There's something of an irony here, especially since I'm right around [[Changes]]() in the main series. Ghoul Goblin was published 3 years after Changes, but takes place several books before.  
 
-![Ghoul-Goblin-5-The-worth-of-a-life](/embeds/books/attachments/ghoul-goblin-5-the-worth-of-a-life.png)  
+![Ghoul-Goblin-5-The-worth-of-a-life](/embeds/books/attachments/ghoul-goblin-5-the-worth-of-a-life.jpg)  
 
 It's a concept Dresden has made a number of times... but the wording just feels wrong. Too 'fancy' for Dresden. It stuck out.  
 

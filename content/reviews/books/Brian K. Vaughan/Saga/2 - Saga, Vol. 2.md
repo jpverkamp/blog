@@ -18,7 +18,7 @@ series_index: [2]
 ---
 The story continues! We have the core family and the ~~out~~ inlaws on the run in a wooden rocketship, trying to lose all manner of bounty hunters and the war between their species behind. Oh, this is a story.  
 
-![Saga-2-3-Summary](/embeds/books/attachments/saga-2-3-summary.png)  
+![Saga-2-3-Summary](/embeds/books/attachments/saga-2-3-summary.jpg)  
 
 <!--more-->
 
@@ -26,15 +26,15 @@ It always is.
 
 You haven moments that feel oh so real:  
 
-![Saga-2-1-So-real](/embeds/books/attachments/saga-2-1-so-real.png)  
+![Saga-2-1-So-real](/embeds/books/attachments/saga-2-1-so-real.jpg)  
 
 And the idea of marriage bands that double as translation rings. That would be handy a lot of times in life:  
 
-![Saga-2-2-Translation-rings](/embeds/books/attachments/saga-2-2-translation-rings.png)  
+![Saga-2-2-Translation-rings](/embeds/books/attachments/saga-2-2-translation-rings.jpg)  
 
 Even if there are a few problems when talking with rather crude giants. Did I mention how adult these books are?  
 
-![Saga-2-2-Translation-rings](/embeds/books/attachments/Saga-2-4-How-I-met-your-mother.png)  
+![Saga-2-2-Translation-rings](/embeds/books/attachments/Saga-2-4-How-I-met-your-mother.jpg)  
 
 And that... was how I met your mother.  
 

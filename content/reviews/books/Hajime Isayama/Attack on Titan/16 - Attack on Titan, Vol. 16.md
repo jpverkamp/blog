@@ -18,7 +18,7 @@ series_index: [16]
 ---
 Man it just keeps getting crazier and crazier. On one hand, we have more and more human on human violence in a giant underground columns set piece, perfect for their vertical maneuvering equipment.  
 
-![AoT-16-1](/embeds/books/attachments/aot-16-1.png)  
+![AoT-16-1](/embeds/books/attachments/aot-16-1.jpg)  
 
 <!--more-->
 
@@ -34,14 +34,14 @@ More pictures/spoilers:
 
 Reiss family reveals:  
 
-![AoT-16-2](/embeds/books/attachments/aot-16-2.png)  
+![AoT-16-2](/embeds/books/attachments/aot-16-2.jpg)  
 
 Memories are involved and turns out... racism has a legit basis in this world? That's ... a bit weird, but we'll see hwo it goes.  
 
-![AoT-16-3](/embeds/books/attachments/aot-16-3.png)  
+![AoT-16-3](/embeds/books/attachments/aot-16-3.jpg)  
 
 And of course... why you have to kill Titans by slicing the neck. It all comes down to spines and spinal fluid for some reason.  
 
-![AoT-16-4](/embeds/books/attachments/aot-16-4.png)  
+![AoT-16-4](/embeds/books/attachments/aot-16-4.jpg)  
 
 Oy.

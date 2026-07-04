@@ -22,53 +22,53 @@ Well that’s unexpected. Epiphany is pretty cool… but she’s way too young f
 Thoughts while reading (spoilers):
 
 ## Sectioned
-![](/embeds/books/attachments/hellblazer-24-29cbef.png)
+![](/embeds/books/attachments/hellblazer-24-29cbef.jpg)
 
 Oh Constantine. That’s a start. 
 
-![](/embeds/books/attachments/hellblazer-24-56c467.png)
+![](/embeds/books/attachments/hellblazer-24-56c467.jpg)
 
 Nope. **That’** a start. 
 
-![](/embeds/books/attachments/hellblazer-24-27fd68.png)
+![](/embeds/books/attachments/hellblazer-24-27fd68.jpg)
 
 Things only escalate from there. A mental ward, a new old friend with a Technicolor madness coat. Good times. 
 
-![](/embeds/books/attachments/hellblazer-24-cbb690.png)
+![](/embeds/books/attachments/hellblazer-24-cbb690.jpg)
 
 Growing up. 
 
-![](/embeds/books/attachments/hellblazer-24-ad84b9.png)
+![](/embeds/books/attachments/hellblazer-24-ad84b9.jpg)
 
 Like… a literal alien? I feel like I missed something. 
 
 ## Bloody Carnations
-![](/embeds/books/attachments/hellblazer-24-005364.png)
+![](/embeds/books/attachments/hellblazer-24-005364.jpg)
 
 Constantine proposing… doesn’t make much sense. But of course it has to go badly for him. 
 
-![](/embeds/books/attachments/hellblazer-24-5a2cf8.png)
+![](/embeds/books/attachments/hellblazer-24-5a2cf8.jpg)
 
 Interesting. I wonder if that’s how they deal with the Constantine age gap. 
 
-![](/embeds/books/attachments/hellblazer-24-972525.png)
+![](/embeds/books/attachments/hellblazer-24-972525.jpg)
 
 Hah. Figured that was coming. Wonderful. 
 
-![](/embeds/books/attachments/hellblazer-24-59319e.png)
+![](/embeds/books/attachments/hellblazer-24-59319e.jpg)
 
 Did not expect that to work… Let alone twice. 
 
 ## City of Demons
-![](/embeds/books/attachments/hellblazer-24-8f3a47.png)
+![](/embeds/books/attachments/hellblazer-24-8f3a47.jpg)
 
 Uh oh. This is going to end badly. 
 
-![](/embeds/books/attachments/hellblazer-24-1a8412.png)
+![](/embeds/books/attachments/hellblazer-24-1a8412.jpg)
 
 Yup. Constantine demon blood slaves. Good times. 
 
-![](/embeds/books/attachments/hellblazer-24-00e240.png)
+![](/embeds/books/attachments/hellblazer-24-00e240.jpg)
 
 Meddling with things they don’t understand. 
 

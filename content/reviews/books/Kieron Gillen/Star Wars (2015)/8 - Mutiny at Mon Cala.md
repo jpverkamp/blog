@@ -21,7 +21,7 @@ title: "Star Wars Vol. 8: Mutiny at Mon Cala"
 ---
 How the Mon Calamari came to join the rebellion. 
 
-![](/embeds/books/attachments/star-wars-2015-v8-textbundle-aa2eae.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v8-textbundle-aa2eae.jpg)
 
 It’s got it all. Double crosses. Triple crosses. Prison breaks. Kidnapping. Impersonation. A big space battle. An opera! An encore!
 
@@ -45,6 +45,6 @@ Playing up Luke’s obsession with milk is… weird. But I suppose this case out
 
 Also:
 
-![](/embeds/books/attachments/star-wars-2015-v8-textbundle-083341.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v8-textbundle-083341.jpg)
 
 lol. A better callback. 

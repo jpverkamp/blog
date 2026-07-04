@@ -17,7 +17,7 @@ title: 'Ultimate Fantastic Four, Volume 1: The Fantastic'
 ---
 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v1-0f3c73.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v1-0f3c73.jpg)
 
 Reed, Sue, Johnny. Ben back at school. The gangs all here!
 
@@ -41,6 +41,6 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v1-ff0f66.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v1-ff0f66.jpg)
 
 Well that’s certainly an odd one. 

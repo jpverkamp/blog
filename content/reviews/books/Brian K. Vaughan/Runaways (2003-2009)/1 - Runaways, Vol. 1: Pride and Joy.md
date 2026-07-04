@@ -22,11 +22,11 @@ bingo-data:
 ---
 Reading volume 1, issue 1:
 
-![](/embeds/books/attachments/runaways-v1-eeae62.png)
+![](/embeds/books/attachments/runaways-v1-eeae62.jpg)
 
 Oh that’s fun. 
 
-![](/embeds/books/attachments/runaways-v1-569e60.png)
+![](/embeds/books/attachments/runaways-v1-569e60.jpg)
 
 Oh that’s even better. 
 

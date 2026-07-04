@@ -31,28 +31,28 @@ Going to have to see where it goes from here!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-abc4b5.png)
+![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-abc4b5.jpg)
 
 Wait. Cable is who?
 
 That’s a fun twist. 
 
-![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-f2c947.png)
+![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-f2c947.jpg)
 
 That’s… less fun. I did not care for this Xavier before. This is not better. 
 
-![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-4a5476.png)
+![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-4a5476.jpg)
 
 … that’s an entry. And deserved really. 
 
-![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-7a35d4.png)
+![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-7a35d4.jpg)
 
 So. Real? Trick? Bootstrap paradox?
 
-![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-0ee402.png)
+![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-0ee402.jpg)
 
 Don’t think they’ve ever been mentioned. Makes sense. 
 
-![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-a02635.png)
+![](/embeds/books/attachments/ultimate-x-men-v16-textbundle-a02635.jpg)
 
 He’s… got a point. 

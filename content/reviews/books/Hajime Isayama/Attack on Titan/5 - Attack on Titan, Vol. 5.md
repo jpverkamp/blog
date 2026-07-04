@@ -22,11 +22,11 @@ Titans that talk!
 
 <!--more-->
 
-![Attack-on-Titan-5-1](/embeds/books/attachments/attack-on-titan-5-1.png)  
+![Attack-on-Titan-5-1](/embeds/books/attachments/attack-on-titan-5-1.jpg)  
 
 They're very light!  
 
-![Attack-on-Titan-5-2](/embeds/books/attachments/attack-on-titan-5-2.png)  
+![Attack-on-Titan-5-2](/embeds/books/attachments/attack-on-titan-5-2.jpg)  
 
 What's going on?!  
 

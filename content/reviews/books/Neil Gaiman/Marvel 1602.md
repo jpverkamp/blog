@@ -20,7 +20,7 @@ Sir Nicholas Fury, with his servant Peter Parquagh. Stephen Strange, master of m
 
 Oh. And dinosaurs. 
 
-![](/embeds/books/attachments/marvel-1602-8f5230.png)
+![](/embeds/books/attachments/marvel-1602-8f5230.jpg)
 
 As things escalate, it turns out there may very well be a reason everything is out of time… as there always had to be in a comic book. It’s neat when you get there. 
 
@@ -33,35 +33,35 @@ Worth a read. It’s certainly an interesting ride.
 
 More thoughts as I went (potential spoilers):
 
-![](/embeds/books/attachments/marvel-1602-155bab.png)
+![](/embeds/books/attachments/marvel-1602-155bab.jpg)
 
 Hail?
 
 Enjoying their dynamic. 
 
-![](/embeds/books/attachments/marvel-1602-dbd6d8.png)
+![](/embeds/books/attachments/marvel-1602-dbd6d8.jpg)
 
 I’ve only seen him a handful of times in what I’ve read… does he always speak in a funny font?
 
-![](/embeds/books/attachments/marvel-1602-742ce1.png)
+![](/embeds/books/attachments/marvel-1602-742ce1.jpg)
 
 A ha!
 
-![](/embeds/books/attachments/marvel-1602-a69e01.png)
+![](/embeds/books/attachments/marvel-1602-a69e01.jpg)
 
 Fantastic!
 
-![](/embeds/books/attachments/marvel-1602-932542.png)
+![](/embeds/books/attachments/marvel-1602-932542.jpg)
 
 Gray is an interesting one in this world. I wonder which way they’ll go/have gone with  that. 
 
-![](/embeds/books/attachments/marvel-1602-a05e93.png)
+![](/embeds/books/attachments/marvel-1602-a05e93.jpg)
 
 That wasn’t long. 
 
 Angel remaining amusing oblivious is fun. 
 
-![](/embeds/books/attachments/marvel-1602-a80247.png)
+![](/embeds/books/attachments/marvel-1602-a80247.jpg)
 
 A tie in back to the main Marvel universe. Necessary, I wouldn’t think. Interesting enough though. 
 

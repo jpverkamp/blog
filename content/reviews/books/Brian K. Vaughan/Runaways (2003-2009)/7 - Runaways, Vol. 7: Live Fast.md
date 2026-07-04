@@ -18,7 +18,7 @@ title: 'Runaways, Vol. 7: Live Fast'
 ---
 You know, I didn’t expect turning 18 and then *immediately* turning to the dark side as a plot line. Fits though. 
 
-![](/embeds/books/attachments/runaways-v7-1e72b0.png)
+![](/embeds/books/attachments/runaways-v7-1e72b0.jpg)
 
 But he at last has *good intentions* and all that?
 
@@ -33,6 +33,6 @@ Onwards!
 ---
  
 
-![](/embeds/books/attachments/runaways-v7-93055c.png)
+![](/embeds/books/attachments/runaways-v7-93055c.jpg)
 
 The honesty of youth. The Karolina and Xavin plotline is fun though. I wonder / expect that their own series somewhere? 

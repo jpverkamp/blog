@@ -26,6 +26,6 @@ A wonderful story.
 
 Not to mention, you get scenes like this:  
 
-![Serenity-3](/embeds/books/attachments/serenity-3.png)  
+![Serenity-3](/embeds/books/attachments/serenity-3.jpg)  
 
 It goes on for a few pages and is so much _better_ even than that. Hard to imagine; I know. Read it and find out!

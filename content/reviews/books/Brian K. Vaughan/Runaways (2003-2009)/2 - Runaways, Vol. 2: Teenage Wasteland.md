@@ -15,7 +15,7 @@ series_index:
 - 2
 title: 'Runaways, Vol. 2: Teenage Wasteland'
 ---
-![](/embeds/books/attachments/runaways-v2-505090.png)
+![](/embeds/books/attachments/runaways-v2-505090.jpg)
 
 And so the team grows. 
 
@@ -34,10 +34,10 @@ Onward!
 
 As a side note:
 
-![](/embeds/books/attachments/runaways-v2-ebdd2d.png)
+![](/embeds/books/attachments/runaways-v2-ebdd2d.jpg)
 
 Cloak and Dagger? A crossover!
 
-![](/embeds/books/attachments/runaways-v2-49894e.png)
+![](/embeds/books/attachments/runaways-v2-49894e.jpg)
 
 Heh. Meta. 

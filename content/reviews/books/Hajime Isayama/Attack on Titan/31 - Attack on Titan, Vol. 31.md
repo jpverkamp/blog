@@ -16,13 +16,13 @@ series_index: [31]
 ---
 Man things are ramping up quickly.  
 
-![aot-31-1](/embeds/books/attachments/aot-31-1.png)  
+![aot-31-1](/embeds/books/attachments/aot-31-1.jpg)  
 
 <!--more-->
 
 That sums up things pretty nicely really. Combine that with:  
 
-![aot-31-2](/embeds/books/attachments/aot-31-2.png)  
+![aot-31-2](/embeds/books/attachments/aot-31-2.jpg)  
 
 Eren's gone a bit around the bend. There's at least a reason why.  
 

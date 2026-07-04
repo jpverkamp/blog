@@ -28,11 +28,11 @@ Onward!
 
 A few thoughts / Minor spoilers:
 
-![](/embeds/books/attachments/marvel-1602-fantastick-41ea29.png)
+![](/embeds/books/attachments/marvel-1602-fantastick-41ea29.jpg)
 
 And then… Shakespeare. 
 
-![](/embeds/books/attachments/marvel-1602-fantastick-3b2194.png)
+![](/embeds/books/attachments/marvel-1602-fantastick-3b2194.jpg)
 
 The Invisible Woman, pregnant. That’s a thing. 
 

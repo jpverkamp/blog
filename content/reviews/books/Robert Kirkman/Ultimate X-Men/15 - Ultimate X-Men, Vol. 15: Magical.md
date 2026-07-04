@@ -17,7 +17,7 @@ title: 'Ultimate X-Men, Vol. 15: Magical'
 ---
 Uh oh. 
 
-![](/embeds/books/attachments/ultimate-x-men-v15-textbundle-b1195c.png)
+![](/embeds/books/attachments/ultimate-x-men-v15-textbundle-b1195c.jpg)
 
 Remember that reality altering meant we found last volume? Well now he’s back… and altering reality!
 

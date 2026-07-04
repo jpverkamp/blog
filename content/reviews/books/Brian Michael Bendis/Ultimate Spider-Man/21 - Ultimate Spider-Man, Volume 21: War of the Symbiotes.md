@@ -17,7 +17,7 @@ title: 'Ultimate Spider-Man, Volume 21: War of the Symbiotes'
 ---
 Venom and Carnage! And all the chaos that ensues.
 
-![](/embeds/books/attachments/ultimate-spider-man-v21-textbundle-a1a552.png)
+![](/embeds/books/attachments/ultimate-spider-man-v21-textbundle-a1a552.jpg)
 
 It’s a fascinating story line. Quintessentially Spider-Man. 
 

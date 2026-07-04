@@ -16,7 +16,7 @@ series_index: [32]
 ---
 Another step towards the end of the world.  
 
-![aot-32-2](/embeds/books/attachments/aot-32-2.png)  
+![aot-32-2](/embeds/books/attachments/aot-32-2.jpg)  
 
 <!--more-->
 
@@ -24,10 +24,10 @@ I mean... that's a reasonable point of view. Try telling a giant skeleton with t
 
 I mean... it's a crazy visual.  
 
-![aot-32-3](/embeds/books/attachments/aot-32-3.png)  
+![aot-32-3](/embeds/books/attachments/aot-32-3.jpg)  
 
 Man the visuals in this series are really a spectacular reason to keep going.  
 
-![aot-32-5](/embeds/books/attachments/aot-32-5.png)  
+![aot-32-5](/embeds/books/attachments/aot-32-5.jpg)  
 
 I have a few ideas on how this can all end up and any one of them could be worth seeing.

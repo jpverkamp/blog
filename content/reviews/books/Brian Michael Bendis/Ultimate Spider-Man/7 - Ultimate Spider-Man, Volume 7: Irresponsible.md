@@ -17,7 +17,7 @@ title: 'Ultimate Spider-Man, Volume 7: Irresponsible'
 ---
 Such a teenager sometimes. Too broke for a new costume. Caught passing notes in class. Some guy my things up. The X-Men. You know. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-b4ba10.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-b4ba10.jpg)
 
 I love it. It’s relatively lower stakes. Gives Peter and MJ some time to breathe. Builds the conflict between Peter in school and as Spider-Man. 
 
@@ -35,27 +35,27 @@ Onwards!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-48ec91.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-48ec91.jpg)
 
 … that’s an outfit. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-2a7131.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-2a7131.jpg)
 
 She said the thing!
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-93f92a.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-93f92a.jpg)
 
 Vippy woo. 😆
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-b0268b.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-b0268b.jpg)
 
 What is **with** the cutouts in the pants…
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-9c279a.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-9c279a.jpg)
 
 That’s cute. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-6d3ddb.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-6d3ddb.jpg)
 
 1. Telepath downsides, yo. 
 2. Don’t think of pink elephants!
@@ -63,11 +63,11 @@ That’s cute.
 
 The fact that this goes on for two pages though? Hilarious. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-da1bc1.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-da1bc1.jpg)
 
 … angels?
 
-![](/embeds/books/attachments/ultimate-spider-man-v7-3c90d7.png)
+![](/embeds/books/attachments/ultimate-spider-man-v7-3c90d7.jpg)
 
 I feel like that’s among the most ethical self inspection the Professor has done yet…
 

@@ -26,27 +26,27 @@ So many different stories in this one!
 
 We have the beach episode. 
 
-![](/embeds/books/attachments/star-wars-2015-v6-92790a.png)
+![](/embeds/books/attachments/star-wars-2015-v6-92790a.jpg)
 
 A Lando Calrissian and Sana Starros team up…
 
-![](/embeds/books/attachments/star-wars-2015-v6-8ac441.png)
+![](/embeds/books/attachments/star-wars-2015-v6-8ac441.jpg)
 
 …double (triple? Quadruple?!) cross!
 
 Han (with a weirdly photorealistic face) and Chewie transporting a Hutt:
 
-![](/embeds/books/attachments/star-wars-2015-v6-423a7f.png)
+![](/embeds/books/attachments/star-wars-2015-v6-423a7f.jpg)
 
 And R2-D2 on a mission!
 
-![](/embeds/books/attachments/star-wars-2015-v6-77462f.png)
+![](/embeds/books/attachments/star-wars-2015-v6-77462f.jpg)
 
 I’d … forgotten that C-3PO had gotten captured. 
 
 And if that wasn’t enough, Scar Squadron—and our favorite Storm Trooper with a lightsaber. 
 
-![](/embeds/books/attachments/star-wars-2015-v6-580a95.png)
+![](/embeds/books/attachments/star-wars-2015-v6-580a95.jpg)
 
 That’s still weird to type. 
 

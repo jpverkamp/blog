@@ -20,7 +20,7 @@ series_index:
 title: "Star Wars Vol. 5: Yoda's Secret War"
 ---
 C-3PO has been captured!
-![](/embeds/books/attachments/star-wars-2015-v5-c45575.png)
+![](/embeds/books/attachments/star-wars-2015-v5-c45575.jpg)
 
 And I’m not sure who’s the worse off for it. 😄 
 

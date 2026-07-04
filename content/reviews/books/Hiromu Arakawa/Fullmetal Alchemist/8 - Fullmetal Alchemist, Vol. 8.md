@@ -22,15 +22,15 @@ We're learning so many more things about the world! And it's getting bigger and 
 
 <!--more-->
 
-![FMA-8-30-Al-squid](/embeds/books/attachments/fma-8-30-al-squid.png)  
+![FMA-8-30-Al-squid](/embeds/books/attachments/fma-8-30-al-squid.jpg)  
 
 🦑 Al knows now! 🦑
 
-![FMA-8-30-Barry](/embeds/books/attachments/fma-8-30-barry.png)  
+![FMA-8-30-Barry](/embeds/books/attachments/fma-8-30-barry.jpg)  
 
 You know, I didn't expect Barry to stick around after his first scene. Nor to actually start rooting for him, serial killer and all.  
 
-![FMA-8-30-Stay-dead](/embeds/books/attachments/fma-8-30-stay-dead.png)  
+![FMA-8-30-Stay-dead](/embeds/books/attachments/fma-8-30-stay-dead.jpg)  
 
 FPK Bradley being  {{< spoiler >}}Wrath{{< /spoiler >}}  makes this all the more sensible.  
 
@@ -44,11 +44,11 @@ More Barry!
 
 More worldbuilding! There's a far east! Also, ADORABLE!  
 
-![FMA-8-32-ADORABLE](/embeds/books/attachments/fma-8-32-adorable.png)  
+![FMA-8-32-ADORABLE](/embeds/books/attachments/fma-8-32-adorable.jpg)  
 
 There's just so many more plotlines going on that I'm not sure where they're going:  
 
-![FMA-8-32-Learn-alchemy](/embeds/books/attachments/fma-8-32-learn-alchemy.png)  
+![FMA-8-32-Learn-alchemy](/embeds/books/attachments/fma-8-32-learn-alchemy.jpg)  
 
 And FPK Bradley... has kids? How's that work?  {{< spoiler >}}Homunculi can have kids?{{< /spoiler >}}  
 
@@ -56,16 +56,16 @@ And FPK Bradley... has kids? How's that work?  {{< spoiler >}}Homunculi can have
 
 **33: Showdown in Rush Valley**  
 
-![FMA-8-33-BOING-BOING](/embeds/books/attachments/fma-8-33-boing-boing.png)  
+![FMA-8-33-BOING-BOING](/embeds/books/attachments/fma-8-33-boing-boing.jpg)  
 
 BOING BOING BOING! Another wild zany character. I think I like him? I think the 'I think' is the entire point of the thing?  
 
-![FMA-8-33-OO](/embeds/books/attachments/fma-8-33-oo.png)  
+![FMA-8-33-OO](/embeds/books/attachments/fma-8-33-oo.jpg)  
 
 OOℲ  
 
 **Bonus Chapter: Fullmetal Alchemist and the Broken Angel**  
 
-![FMA-8-x-Time-to-grill](/embeds/books/attachments/fma-8-x-time-to-grill.png)  
+![FMA-8-x-Time-to-grill](/embeds/books/attachments/fma-8-x-time-to-grill.jpg)  
 
 ... that's Al. Heh.

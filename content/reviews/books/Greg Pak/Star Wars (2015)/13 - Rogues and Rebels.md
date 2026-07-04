@@ -20,11 +20,11 @@ series_index:
 title: "Star Wars Vol. 13: Rogues and Rebels"
 ---
 
-![](/embeds/books/attachments/star-wars-2015-v13-textbundle-02b2d1.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v13-textbundle-02b2d1.jpg)
 
 And now everyone’s back together for one giant showdown. Champions, rock monsters, and all!
 
-![](/embeds/books/attachments/star-wars-2015-v13-textbundle-fbd41f.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v13-textbundle-fbd41f.jpg)
 
 It’s all quite exciting in all the best science fantasy sorts of ways Star Wars has to offer!
 
@@ -38,7 +38,7 @@ Quite a way to end this particular series. Whatever could be next?!
 
 Side note, the collected version also has this fun bit from Empire Ascendant. 
 
-![](/embeds/books/attachments/star-wars-2015-v13-textbundle-2b285f.jpeg)
+![](/embeds/books/attachments/star-wars-2015-v13-textbundle-2b285f.jpg)
 
 Poe, eh?
 

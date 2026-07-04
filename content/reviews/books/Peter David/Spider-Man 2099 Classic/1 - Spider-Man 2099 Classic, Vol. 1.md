@@ -19,13 +19,13 @@ In a somewhat less far future than when this super was first written… 30 years
 
 A future with no super heroes. Only the memory of those like Thor…
 
-![](/embeds/books/attachments/spider-man-2099-v1-textbundle-88b003.jpeg)
+![](/embeds/books/attachments/spider-man-2099-v1-textbundle-88b003.jpg)
 
 As a sort of religion? It’s an interesting bit of world building. I fully expect Spiderlings before the end of this volume… (so close!)
 
 And an origin story. A new Spider-Man—Miguel O’Hara. Created in a lab “accident” after trying to quit a twisted bio engineering project.
 
-![](/embeds/books/attachments/spider-man-2099-v1-textbundle-6bc6e9.jpeg)
+![](/embeds/books/attachments/spider-man-2099-v1-textbundle-6bc6e9.jpg)
 
 He said the line!
 

@@ -19,7 +19,7 @@ The idea that no one else has beaten Galactus is… nonsensical? Bit comics.
 
 Vision… with a rather female form is an interesting choice. No reason not to choose either over the other when approaching Earth. But I expect that’s not why they (the writers/illustrators) did it…
 
-![](/embeds/books/attachments/ultimate-vision-textbundle-45ad5c.png)
+![](/embeds/books/attachments/ultimate-vision-textbundle-45ad5c.jpg)
 
 So now we get a quick aside with A.I.M. and a left behind splinter of Galactus. Neat story, if likely inconsequential to anything else. 
 

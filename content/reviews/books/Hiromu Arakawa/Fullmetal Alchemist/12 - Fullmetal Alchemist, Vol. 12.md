@@ -30,13 +30,13 @@ Also... why do people not tell each other things.
 
 Dang Scar can fight.  
 
-![scar-is-fighty](/embeds/books/attachments/scar-is-fighty.png)  
+![scar-is-fighty](/embeds/books/attachments/scar-is-fighty.jpg)  
 
 He's probably one of the most interesting characters in this story. I hope he gets a redemption arc, for what it's worth.  
 
 Also, Gluttony... is so Gluttony:  
 
-![gluttony-is-so-gluttony](/embeds/books/attachments/gluttony-is-so-gluttony.png)  
+![gluttony-is-so-gluttony](/embeds/books/attachments/gluttony-is-so-gluttony.jpg)  
 
 Oy. Just oy. Redemption for Gluttony ... I'm less hopeful for.  
 
@@ -44,7 +44,7 @@ Oy. Just oy. Redemption for Gluttony ... I'm less hopeful for.
 
 That little girl and her panda are cute and awesome.  
 
-![shazwm](/embeds/books/attachments/shazwm.png)  
+![shazwm](/embeds/books/attachments/shazwm.jpg)  
 
 IT'S ADORABLE! THEY'RE BOTH ADORABLE!  
 
@@ -54,13 +54,13 @@ And as cute as that was... HOLY CRAP THEY KNOW THINGS ABOUT FPKBradley now!? And
 
 Even amoung the Homunculi, Envy is creepy...  
 
-![envy-is-creepy](/embeds/books/attachments/envy-is-creepy.png)  
+![envy-is-creepy](/embeds/books/attachments/envy-is-creepy.jpg)  
 
 The heart is a nice touch though.  
 
 But... Gluttony still wins that one for now...  
 
-![gluttony-is-creepier](/embeds/books/attachments/gluttony-is-creepier.png)  
+![gluttony-is-creepier](/embeds/books/attachments/gluttony-is-creepier.jpg)  
 
 What is with that eye...  
 
@@ -70,6 +70,6 @@ Also: a random thought. Can they transmute guns? Isn't that something we saw way
 
 So... when I read through this in panel mode, it totally skipped the *Fake preview of next volume* text...  
 
-![transforming-panda](/embeds/books/attachments/transforming-panda.png)  
+![transforming-panda](/embeds/books/attachments/transforming-panda.jpg)  
 
 If only.

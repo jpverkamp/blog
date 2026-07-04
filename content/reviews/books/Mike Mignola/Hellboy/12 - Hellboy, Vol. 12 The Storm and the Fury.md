@@ -18,7 +18,7 @@ series_index: [12]
 ---
 It's the end?! (until [[Hellboy in Hell, Vol. 1: The Descent]]() at least!)  
 
-![Hellboy-12-1-Not-a-monster](/embeds/books/attachments/hellboy-12-1-not-a-monster.png)  
+![Hellboy-12-1-Not-a-monster](/embeds/books/attachments/hellboy-12-1-not-a-monster.jpg)  
 
 <!--more-->
 

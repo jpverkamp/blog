@@ -18,7 +18,7 @@ series_index: [6]
 ---
 **6.22: The Masked Man**  
 
-![FMA-6-22-Kindred-spirit](/embeds/books/attachments/fma-6-22-kindred-spirit.png)  
+![FMA-6-22-Kindred-spirit](/embeds/books/attachments/fma-6-22-kindred-spirit.jpg)  
 
 <!--more-->
 
@@ -26,7 +26,7 @@ A kindred spirit! The whole island sequence I love.
 
 **6.23: Knocking on Heaven's Door**  
 
-![FMA-6-23-Teacher-is-a-badass](/embeds/books/attachments/fma-6-23-teacher-is-a-badass.png)  
+![FMA-6-23-Teacher-is-a-badass](/embeds/books/attachments/fma-6-23-teacher-is-a-badass.jpg)  
 
 Teacher is a badass!  
 
@@ -36,12 +36,12 @@ And then the backstory just took a turn for the really bizarre... The worldbuild
 
 So that's how he got his name.  
 
-![FMA-6-24-Weird-for-an-11-yo](/embeds/books/attachments/fma-6-24-weird-for-an-11-yo.png)  
+![FMA-6-24-Weird-for-an-11-yo](/embeds/books/attachments/fma-6-24-weird-for-an-11-yo.jpg)  
 
 Interesting way to join the military.  
 
  **6.25: Master and Apprentice**  
 
-![FMA-6-25-1-Squiddly](/embeds/books/attachments/fma-6-25-1-squiddly.png)  
+![FMA-6-25-1-Squiddly](/embeds/books/attachments/fma-6-25-1-squiddly.jpg)  
 
 Oh the art style sometimes. And the weirdness of the backstory. So

@@ -15,11 +15,11 @@ series_index:
 - 25
 title: 'Ultimate Spider-Man, Volume 10: Hollywood'
 ---
-![](/embeds/books/attachments/ultimate-spider-man-v10-629af4.png)
+![](/embeds/books/attachments/ultimate-spider-man-v10-629af4.jpg)
 
 Oh my. That’s when we are. This has potential. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v10-fbc087.png)
+![](/embeds/books/attachments/ultimate-spider-man-v10-fbc087.jpg)
 
 Oh yes. That is Toney McGwire and (this real) Spider-Man. 
 
@@ -39,11 +39,11 @@ Onward.
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v10-a36090.png)
+![](/embeds/books/attachments/ultimate-spider-man-v10-a36090.jpg)
 
 Not until 2011! (Five years from now). I wonder how far down the pipeline Miles Morales already was then. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v10-6ec25b.png)
+![](/embeds/books/attachments/ultimate-spider-man-v10-6ec25b.jpg)
 
 That’s a weird dynamic. Weirder now. 
 

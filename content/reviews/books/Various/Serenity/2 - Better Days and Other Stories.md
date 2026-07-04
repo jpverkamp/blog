@@ -18,31 +18,31 @@ series_index: [2]
 ---
 Whoa. A heist goes right (for a while) and everyone gets to dream about what to do next.  
 
-![Serenity-2-03](/embeds/books/attachments/serenity-2-03.png)  
+![Serenity-2-03](/embeds/books/attachments/serenity-2-03.jpg)  
 
 <!--more-->
 
 Heh. And of course River's is even better:  
 
-![Serenity-2-04](/embeds/books/attachments/serenity-2-04.png)  
+![Serenity-2-04](/embeds/books/attachments/serenity-2-04.jpg)  
 
 But of course it's not too last. It's a very Firefly sort of story. Full of action and adventure. It's fascinating to see how the Chinese swearing is done in the comics:  
 
-![Serenity-2-05](/embeds/books/attachments/serenity-2-05.png)  
+![Serenity-2-05](/embeds/books/attachments/serenity-2-05.jpg)  
 
 Especially when combined with Google Translates (magical) video translation. I'm.... honestly impressed at how well that works.  
 
-![Serenity-2-06](/embeds/books/attachments/serenity-2-06.png)  
+![Serenity-2-06](/embeds/books/attachments/serenity-2-06.jpg)  
 
 As the second story, we have River being River to defend everyone:  
 
-![Serenity-2-10](/embeds/books/attachments/serenity-2-10.png)  
+![Serenity-2-10](/embeds/books/attachments/serenity-2-10.jpg)  
 
 Not to mention a bit more of a hint about Book's past.  
 
 And finally, a bit of backstory for Wash:  
 
-![Serenity-2-11](/embeds/books/attachments/serenity-2-11.png)  
+![Serenity-2-11](/embeds/books/attachments/serenity-2-11.jpg)  
 
 Oh, I miss Wash. He was wonderful.  
 

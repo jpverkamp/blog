@@ -17,7 +17,7 @@ title: 'Ultimate Fantastic Four, Volume 10: Ghosts'
 ---
 Will he ever learn? 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-ef591a.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-ef591a.jpg)
 
 No. 
 
@@ -37,19 +37,19 @@ It’s a good issue, as often the case, resolved perhaps a little bit too quickl
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-d70cd8.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-d70cd8.jpg)
 
 Well that’s creepy and obvious in hindsight. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-ac5e81.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-ac5e81.jpg)
 
 And now, Grand Theft NYC!
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-76a857.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-76a857.jpg)
 
 That was a quick about face. 
 
-![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-9395bd.png)
+![](/embeds/books/attachments/ultimate-fantastic-four-v10-textbundle-9395bd.jpg)
 
 Yeah okay, that’s a handy twist. 
 

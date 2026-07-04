@@ -29,18 +29,18 @@ Onward!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-bdff08.png)
+![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-bdff08.jpg)
 
 That is a very strange costume. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-7f8ba4.png)
+![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-7f8ba4.jpg)
 
 Different Miles. That’s something. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-655bc7.png)
+![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-655bc7.jpg)
 
 They are pretty cute together. 
 
-![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-ce9fc4.png)
+![](/embeds/books/attachments/ultimate-spider-man-v19-textbundle-ce9fc4.jpg)
 
 Oh the banter. 

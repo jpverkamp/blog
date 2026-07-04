@@ -56,13 +56,13 @@ Worth a watch!
 
     That is quite an interesting visual style, black and white ink work reminiscent of manga, with flashes of color for the lightsabers and blaster shots. Japanese droids, Ronin Jedi*, a spinning lightsaber umbrella attachment. Stunning.
 
-    ![](/embeds/books/attachments/star-wars-visions-37972d.png)
+    ![](/embeds/books/attachments/star-wars-visions-37972d.jpg)
 
 2. *Tatooine Rhapsody*
 
     Let’s get ready to ROCK!
 
-    ![](/embeds/books/attachments/star-wars-visions-58a54c.png)
+    ![](/embeds/books/attachments/star-wars-visions-58a54c.jpg)
 
     Underground rock band!
 
@@ -74,7 +74,7 @@ Worth a watch!
 
     Anime light show battles! What else?
 
-    ![](/embeds/books/attachments/star-wars-visions-a42780.png)
+    ![](/embeds/books/attachments/star-wars-visions-a42780.jpg)
 
     Also, twins born to bring balance… only to do that far more literally than they for some reason expected. Where have we heard that before?
 
@@ -82,7 +82,7 @@ Worth a watch!
 
     A groom carrying his bride up a mountain so as not to dirty her feet? Not so traditionally Star Wars.
 
-    ![](/embeds/books/attachments/star-wars-visions-f2b7f0.png)
+    ![](/embeds/books/attachments/star-wars-visions-f2b7f0.jpg)
 
     Expanding that to some mystical Earth magic (the Force?) and the fallout of the various wars we’ve seen in Star Wars? That fits better. 	
 
@@ -90,7 +90,7 @@ Worth a watch!
 
     I wonder how many canonical times someone has tried to bring back the Jedi. What’s one more?
 
-    ![](/embeds/books/attachments/star-wars-visions-2c814b.png)
+    ![](/embeds/books/attachments/star-wars-visions-2c814b.jpg)
 
     Cool clear lightsaber too. :D
 
@@ -98,12 +98,12 @@ Worth a watch!
 
     There’s more than a bit of stylistic whiplash in these:
 
-    ![](/embeds/books/attachments/star-wars-visions-b43c28.png)
+    ![](/embeds/books/attachments/star-wars-visions-b43c28.jpg)
 
     And those are most certainly *not* the Star Wars droids we’re used to:
 
 
-    ![](/embeds/books/attachments/star-wars-visions-db8313.png)
+    ![](/embeds/books/attachments/star-wars-visions-db8313.jpg)
 
     But it’s kind of adorable.
 
@@ -112,7 +112,7 @@ Worth a watch!
     Slow. Straight forward. Pretty.
 
 
-    ![](/embeds/books/attachments/star-wars-visions-ff61bf.png)
+    ![](/embeds/books/attachments/star-wars-visions-ff61bf.jpg)
 
     The pointy lightsabers are weird but kind of neat.
 
@@ -120,7 +120,7 @@ Worth a watch!
 
     EVIL EMPIRE! And family members taking opposite sides. An old story, but not a bad one.
 
-    ![](/embeds/books/attachments/star-wars-visions-b5a635.png)
+    ![](/embeds/books/attachments/star-wars-visions-b5a635.jpg)
 
     And of course everyone is a hidden Jedi. :p
 
@@ -130,4 +130,4 @@ Worth a watch!
 
     Jedi! Sith! And prices that have to be paid…
 
-    ![](/embeds/books/attachments/star-wars-visions-c375fe.png)
+    ![](/embeds/books/attachments/star-wars-visions-c375fe.jpg)

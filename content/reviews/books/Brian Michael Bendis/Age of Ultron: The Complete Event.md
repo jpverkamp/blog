@@ -15,11 +15,11 @@ I feel like most of these 'big events' have ended up being overwhelming. They ju
 
 In any case:
 
-![](/embeds/books/attachments/age-of-ultron-textbundle-f8d500.png)
+![](/embeds/books/attachments/age-of-ultron-textbundle-f8d500.jpg)
 
 A bit weird to be suddenly dropped into another universe with no idea what’s going on with all the characters I either know from the MCU or Ultimate line. But here we go!
 
-![](/embeds/books/attachments/age-of-ultron-textbundle-7edd25.png)
+![](/embeds/books/attachments/age-of-ultron-textbundle-7edd25.jpg)
 
 Yup. Definitely not in (Ultimate) Kansas any more. 
 
@@ -35,6 +35,6 @@ Onward to Cataclysm!
 
 Notes. Spoilers. 
 
-![](/embeds/books/attachments/age-of-ultron-textbundle-def394.png)
+![](/embeds/books/attachments/age-of-ultron-textbundle-def394.jpg)
 
 Delightful. 

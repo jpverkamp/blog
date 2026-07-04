@@ -18,6 +18,6 @@ All told in a comic book style with different style animals for different races.
 
 It's a fascinating way to tell the story (a (Jewish) mouse wearing a (Polish) pig mask to hide from the Nazis...) even if / perhaps because it raises questions of it's own. And Spiegelman really can tell a story. 
 
-![](/embeds/books/attachments/maus-32e21d.png)
+![](/embeds/books/attachments/maus-32e21d.jpg)
 
 It's worth the read.

@@ -16,7 +16,7 @@ title: 'Wolverine: Old Man Logan, Vol. 5: Past Lives'
 
 Memories of the past/future…
 
-![](/embeds/books/attachments/old-man-logan-5-textbundle-9491f6.png)
+![](/embeds/books/attachments/old-man-logan-5-textbundle-9491f6.jpg)
 
 And he wants to go back. 
 
@@ -36,6 +36,6 @@ It’s an interesting idea, but once again it doesn’t really have time to brea
 
 Side note: 
 
-![](/embeds/books/attachments/old-man-logan-5-textbundle-28496d.png)
+![](/embeds/books/attachments/old-man-logan-5-textbundle-28496d.jpg)
 
 I do love Spider-Man banter. 

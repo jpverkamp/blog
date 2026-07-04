@@ -16,7 +16,7 @@ title: 'Wolverine: Old Man Logan, Vol. 10: End of the World'
 
 Part one:
 
-![](/embeds/books/attachments/old-man-logan-10-textbundle-1a3a18.png)
+![](/embeds/books/attachments/old-man-logan-10-textbundle-1a3a18.jpg)
 
 Obviously. 
 
@@ -24,7 +24,7 @@ Burning time, but it’s a fun enough adventure.
 
 Part two:
 
-![](/embeds/books/attachments/old-man-logan-10-textbundle-84c10d.png)
+![](/embeds/books/attachments/old-man-logan-10-textbundle-84c10d.jpg)
 
 And so it ends as it started. Logan and a Hulk. 
 

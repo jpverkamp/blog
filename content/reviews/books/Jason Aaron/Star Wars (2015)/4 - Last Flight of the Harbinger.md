@@ -33,20 +33,20 @@ On a side note: how much or how little the artwork looks like Mark Hammill/Harri
 - - -
 
 For the first, it’s always interesting to see the little guys on the other side of a conflict:
-![](/embeds/books/attachments/star-wars-2015-v4-e88114.png)
+![](/embeds/books/attachments/star-wars-2015-v4-e88114.jpg)
 
 People don’t generally think of themselves as evil / on the side of the bad guys. It’s good to be reminded of that. 
 
 And then we have…
 
-![](/embeds/books/attachments/star-wars-2015-v4-38ee56.png)
+![](/embeds/books/attachments/star-wars-2015-v4-38ee56.jpg)
 
 Luke, Leia, and Han against a Star Destroyer!
 
 And it gets even better when you find out what they actually want to do with it!
 
 Also, in the backstory part, covering Young Luke and Obi Wan on Tattooine…
-![](/embeds/books/attachments/star-wars-2015-v4-0e9abf.png)
+![](/embeds/books/attachments/star-wars-2015-v4-0e9abf.jpg)
 
 It’s kind of amazing how many times Luke ran away from home. It wasn’t really hinted that strongly at in the original trilogy. Luke was unhappy, but never seemed much of a rule breaker. And the number of times Luke saves the day… it feels like it lessons some of his Hero’s Journey in the original trilogy. 
 

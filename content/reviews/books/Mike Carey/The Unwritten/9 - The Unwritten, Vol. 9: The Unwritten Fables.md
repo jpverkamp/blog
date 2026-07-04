@@ -18,7 +18,7 @@ title: 'The Unwritten, Vol. 9: The Unwritten Fables'
 ---
 Wait... *that* Fables. Confused for a bit. Those people all sounded familiar... but not from Unwritten.
 
-![](/embeds/books/attachments/unwritten-9-8c2e37.png)
+![](/embeds/books/attachments/unwritten-9-8c2e37.jpg)
 
 Not at all what I expected, but most appreciated. It's great to see a number of old faces again, it's been a while since I read Fables. They fit together about as strangely as you'd imagine.
 
@@ -28,23 +28,23 @@ Onward!
 
 ## As I read (spoilers)
 
-![](/embeds/books/attachments/unwritten-9-771efc.png)
+![](/embeds/books/attachments/unwritten-9-771efc.jpg)
 
 Yup. It's that sort of story. 
 
-![](/embeds/books/attachments/unwritten-9-7f5489.png)
+![](/embeds/books/attachments/unwritten-9-7f5489.jpg)
 
 It's been a bit... but I don't remember this plot line in particular. 
 
 Neat!
 
-![](/embeds/books/attachments/unwritten-9-b3b8bb.png)
+![](/embeds/books/attachments/unwritten-9-b3b8bb.jpg)
 
 Oh my. 
 
 Just. Oh my. 
 
-![](/embeds/books/attachments/unwritten-9-44ab4c.png)
+![](/embeds/books/attachments/unwritten-9-44ab4c.jpg)
 
 I love it!
 
