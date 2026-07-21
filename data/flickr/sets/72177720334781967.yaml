@@ -1,0 +1,34 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 12
+count_videos: 0
+count_views: '0'
+date_create: '1784669838'
+date_update: '1784669964'
+description: "Our last full day. A bit quieter. We went to a museum and a store with\
+  \ a chocolate fountain. \n\nSuch a great trip. I'm ready to head home."
+farm: 66
+id: '72177720334781967'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '55410049178'
+- '55408963237'
+- '55410104609'
+- '55410048638'
+- '55410104019'
+- '55410104009'
+- '55410104014'
+- '55410317995'
+- '55408961397'
+- '55409927916'
+- '55410046673'
+- '55410101699'
+primary: '55410049178'
+secret: d54a176111
+server: '65535'
+sorting_option_id: date-taken-asc
+title: Alaska Day 7 - Anchorage
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1

@@ -1,0 +1,48 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 26
+count_videos: 0
+count_views: '0'
+date_create: '1784667759'
+date_update: '1784667886'
+description: Made it back to Holliday Park for probably the last time until classes
+  begin again this fall.
+farm: 66
+id: '72177720334786536'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '55410248045'
+- '55408887397'
+- '55410244015'
+- '55410244045'
+- '55409972373'
+- '55409975088'
+- '55410243865'
+- '55409856736'
+- '55409971733'
+- '55410030009'
+- '55410024709'
+- '55408884947'
+- '55409970568'
+- '55410242535'
+- '55410024039'
+- '55408884052'
+- '55409969298'
+- '55410024019'
+- '55410240005'
+- '55408883342'
+- '55410239400'
+- '55408883327'
+- '55409968123'
+- '55410238615'
+- '55409849496'
+- '55410241605'
+primary: '55410248045'
+secret: d94ae80d78
+server: '65535'
+sorting_option_id: date-taken-asc
+title: A Walk at Holliday Park
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
