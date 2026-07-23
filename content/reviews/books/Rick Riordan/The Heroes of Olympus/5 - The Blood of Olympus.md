@@ -21,7 +21,7 @@ series_index:
 ---
 So, The Heroes of Olympus. It's the second series based on the idea that all of the Greek (and now Roman) myths were true. The gods/demigods/et al live in the 'center of the Western world' (read: America). It's actually a really neat idea and a really neat world. It turns out, those old myths are _really weird_.  
 
-But herein lies the main problem I had with [[todo:The Lost Hero]](). We've already been there / done this. [[The Lightning Thief]]() did it and did it better. If you only read one of the two, I would honestly suggest that one. On the other hand, if you loved the Percy Jackson books and want to read more? You could do far worse.  
+But herein lies the main problem I had with [[The Lost Hero]](). We've already been there / done this. [[The Lightning Thief]]() did it and did it better. If you only read one of the two, I would honestly suggest that one. On the other hand, if you loved the Percy Jackson books and want to read more? You could do far worse.  
 
 <!--more-->
 
