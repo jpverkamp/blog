@@ -2,6 +2,9 @@
 {{- if .Get "set" -}}
     {{- $photoset := index $.Site.Data.flickr.sets (.Get "set") -}}
     {{- $photos := $photoset.photos -}}
+    {{- /* TODO: Hard coded limit here and in image-gallery.css. */ -}}
+    {{- $limit := 20 -}}
+    {{- $overlimit := gt (len $photos) $limit -}}
 
     <div class="imageGallery2">
         {{ range $index, $photoID := $photos }}
@@ -11,6 +14,12 @@
             </a>
         {{ end }}
     </div>
+
+    {{- if $overlimit -}}
+    <div class="viewMorePhotosSummary">
+        <a href="{{ .Page.RelPermalink }}">View {{ sub (len $photos) $limit }} more...</a>
+    </div>
+    {{- end -}}
 
     <div class="viewOnFlicker">
         <a href="https://flickr.com/photos/jpverkamp/sets/{{ .Get "set" }}">View on Flickr</a>
@@ -51,7 +60,7 @@
     {{- end -}}
     </div>
 
-    <div class="viewOnFlicker">
+    <div class="viewOnFlickr">
         <a href="https://flickr.com/photos/jpverkamp">View on Flickr</a>
     </div>
 {{ else }}

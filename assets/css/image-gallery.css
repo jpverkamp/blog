@@ -109,3 +109,19 @@
         column-count: 1;
     }
 }
+
+/* In summary cards, show only the first 20 photos and a link to the full post. */
+/* I really should not include them, I think this will preload? Depends on browser. */
+/* TODO: 20/21 is hard coded here and in flickr.html shortcode. */
+.viewMorePhotosSummary {
+    display: none;
+}
+
+.post-card .imageGallery2 > a:nth-child(n + 21) {
+    display: none;
+}
+
+.post-card .viewMorePhotosSummary {
+    display: block;
+    margin-top: 0.5rem;
+}

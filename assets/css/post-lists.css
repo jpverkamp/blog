@@ -26,6 +26,12 @@ article .entry-meta {
     margin-bottom: 2em;
     padding-bottom: 1.5em;
     overflow: auto; /* Clearfix */
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none;  /* For Internet Explorer and Edge */
+}
+
+.post-card::-webkit-scrollbar {
+    display: none; /* For Chrome, Safari, and Opera */
 }
 
 .post-card:not(:last-child) {
