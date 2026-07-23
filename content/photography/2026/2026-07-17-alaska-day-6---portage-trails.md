@@ -1,6 +1,6 @@
 ---
 title: "Alaska Day 6 - Portage Trails"
-date: 2026-07-18 00:00:00
+date: 2026-07-17 00:00:00
 photography/types:
 - Flickr Album
 generated: true

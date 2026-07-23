@@ -1,6 +1,6 @@
 ---
 title: "Alaska Day 5 - Homer Tides"
-date: 2026-07-17 00:00:00
+date: 2026-07-16 00:00:00
 photography/types:
 - Flickr Album
 generated: true

@@ -1,6 +1,6 @@
 ---
 title: "Alaska Day 3 - Seward Boat Tour"
-date: 2026-07-15 00:00:00
+date: 2026-07-14 00:00:00
 photography/types:
 - Flickr Album
 generated: true

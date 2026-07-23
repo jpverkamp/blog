@@ -1,6 +1,6 @@
 ---
 title: "Alaska Day 2 - Seward"
-date: 2026-07-14 00:00:00
+date: 2026-07-13 00:00:00
 photography/types:
 - Flickr Album
 generated: true

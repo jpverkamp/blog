@@ -1,6 +1,6 @@
 ---
 title: "Alaska Day 7 - Anchorage"
-date: 2026-07-19 00:00:00
+date: 2026-07-18 00:00:00
 photography/types:
 - Flickr Album
 generated: true

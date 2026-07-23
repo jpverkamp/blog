@@ -1,6 +1,6 @@
 ---
 title: The Fellowship of the Ring
-date: '2026-07-19'
+date: '2026-07-19 20:00:00'
 reviews/lists:
 - 2026 Movie Reviews
 cover: /embeds/movies/the-fellowship-of-the-ring.jpg

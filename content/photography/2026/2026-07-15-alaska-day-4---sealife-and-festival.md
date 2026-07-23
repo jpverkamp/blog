@@ -1,6 +1,6 @@
 ---
 title: "Alaska Day 4 - Sealife and Festival"
-date: 2026-07-16 00:00:00
+date: 2026-07-15 00:00:00
 photography/types:
 - Flickr Album
 generated: true
