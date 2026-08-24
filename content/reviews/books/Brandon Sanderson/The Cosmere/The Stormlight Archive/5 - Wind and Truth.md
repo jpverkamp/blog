@@ -13,7 +13,7 @@ reviews/series:
 - The Cosmere
 series_index:
 - 5
-- 31
+- 0
 title: Wind and Truth
 bingo:
 - 2025 Book Bingo

@@ -11,9 +11,11 @@ reviews/series:
 - The Cosmere
 - Year of Sanderson
 - Secret Projects
+- Hoid's Travails
 series_index:
 - 0
 - 4
+- 0
 title: Yumi and the Nightmare Painter
 ---
 Oh Sanderson. How *do* you do it. 

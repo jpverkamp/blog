@@ -11,10 +11,12 @@ reviews/series:
 - The Cosmere
 - Year of Sanderson
 - Secret Projects
+- Hoid's Travails
 series_index:
 - 0
 - 1
 - 1
+- 0
 title: Tress of the Emerald Sea
 bingo:
 - 2023 Book Bingo
