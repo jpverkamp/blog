@@ -17,7 +17,7 @@ reviews/lists:
 reviews/series:
 - Batman
 series_index:
-- 404-407
+- 0
 title: 'Batman: Year One'
 ---
 A relaunch for a new age. It’s impressive how many Batman characters they manage to fit into a volume. Even if more than a few plots are left for later, it’s still a solid launching point. 

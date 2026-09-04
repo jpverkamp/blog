@@ -21,8 +21,11 @@
       {{- $page := . }}
       {{- range $i, $series := index .Params "reviews/series" -}}
           {{- if eq $.Title $series }}
+              {{- $indexValue := index (default (slice 0) $page.Params.series_index) $i -}}
+              {{- $indexFloat := try (float $indexValue) -}}
+              {{- $index := cond (not $indexFloat.Err) $indexFloat.Value $indexValue -}}
               {{ $pageList = $pageList | append (dict
-                  "index" (float (index (default (slice 0) $page.Params.series_index) $i))
+                  "index" $index
                   "title" $page.Title
                   "page" $page
               ) }}
