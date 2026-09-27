@@ -23,6 +23,8 @@ It's a neat bit of worldbuilding and conflict--are we unique among the species o
 
 > But then, what were talking vegetables afraid of anyway?
 
-On the negative side, it's a 1980s sci-fi novel and it feels it at time. There are a few jarring moments, especially in treatment of women and mental health. There's something interesting here . 
+On the negative side, it's a 1980s sci-fi novel and it feels it at time. There are a few jarring moments, especially in treatment of women and mental health. There's something interesting here, with the idea of probationary personalities, but it is still weird. 
+
+> Any mel I know would grow a tail and wag it if that fem so much as whistled.
 
 Still, onward to the rest of the series!
