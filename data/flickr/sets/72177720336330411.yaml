@@ -1,0 +1,56 @@
+can_comment: 0
+count_comments: '0'
+count_photos: 34
+count_videos: 0
+count_views: '0'
+date_create: '1792978687'
+date_update: '1792978816'
+description: A work trip and a chance to see a bit of nature (and a bit of city) in
+  downtown Denver.
+farm: 66
+id: '72177720336330411'
+needs_interstitial: 0
+owner: 27191036@N05
+photos:
+- '55612520359'
+- '55611295257'
+- '55612450738'
+- '55612520224'
+- '55612715995'
+- '55612519844'
+- '55611294702'
+- '55612449873'
+- '55611294457'
+- '55612519219'
+- '55612308346'
+- '55612519394'
+- '55612450448'
+- '55612518839'
+- '55612714525'
+- '55611293137'
+- '55612714100'
+- '55611292792'
+- '55611292587'
+- '55612448238'
+- '55611293277'
+- '55611292307'
+- '55612447808'
+- '55612447488'
+- '55612517429'
+- '55612712850'
+- '55612446588'
+- '55612306991'
+- '55611291287'
+- '55611291432'
+- '55612446408'
+- '55612711950'
+- '55612445993'
+- '55612515044'
+primary: '55612520359'
+secret: ae245b8c70
+server: '65535'
+sorting_option_id: date-taken-asc
+title: A few days in Denver
+username: jpverkamp
+videos: 0
+visibility_can_see_set: 1
