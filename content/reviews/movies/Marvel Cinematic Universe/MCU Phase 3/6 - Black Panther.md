@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Black Panther
 source:
 - Disney+
 cover: /embeds/movies/black-panther.jpg
-series_index: [18, 6]
+series_index: [18, 6, 1]
 imdb_id: '1825683'
 reviews/cinematographers:
 - Rachel Morrison

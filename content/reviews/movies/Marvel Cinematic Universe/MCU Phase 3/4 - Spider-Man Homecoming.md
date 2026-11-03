@@ -8,8 +8,9 @@ reviews/series:
 - MCU Phase 3
 - Spider-Man 
 - Tom Holland's Spider-Man
+- MCU Spider-Man
 cover: /embeds/movies/spider-man-homecoming.jpg
-series_index: [16, 4, 6, 1]
+series_index: [16, 4, 6, 1, 1]
 imdb_id: '2250912'
 reviews/cinematographers:
 - Salvatore Totino

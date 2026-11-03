@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 1
+- MCU Iron Man
 source:
 - Disney+
 cover: /embeds/movies/iron-man.jpg
-series_index: [1, 1]
+series_index: [1, 1, 1]
 imdb_id: '0371746'
 reviews/cinematographers:
 - Matthew Libatique

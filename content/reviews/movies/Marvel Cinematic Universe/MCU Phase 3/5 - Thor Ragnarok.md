@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Thor
 source:
 - Disney+
 cover: /embeds/movies/thor-ragnarok.jpg
-series_index: [17, 5]
+series_index: [17, 5, 3]
 imdb_id: '3501632'
 reviews/cinematographers:
 - Javier Aguirresarobe

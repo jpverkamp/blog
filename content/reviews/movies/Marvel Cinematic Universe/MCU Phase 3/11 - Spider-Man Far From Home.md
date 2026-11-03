@@ -8,8 +8,9 @@ reviews/series:
 - MCU Phase 3
 - Spider-Man 
 - Tom Holland's Spider-Man
+- MCU Spider-Man
 cover: /embeds/movies/spider-man-far-from-home.jpg
-series_index: [23, 11, 7, 2]
+series_index: [23, 11, 7, 2, 2]
 imdb_id: '6320628'
 reviews/cinematographers:
 - Matthew J. Lloyd

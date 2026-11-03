@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+- MCU Avengers
 source:
 - Disney+
 cover: /embeds/movies/avengers-age-of-ultron.jpg
-series_index: [11, 5]
+series_index: [11, 5, 2]
 imdb_id: '2395427'
 reviews/cinematographers:
 - Ben Davis

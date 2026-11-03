@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Captain America
 source:
 - Disney+
 cover: /embeds/movies/captain-america-civil-war.jpg
-series_index: [13, 1]
+series_index: [13, 1, 3]
 imdb_id: '3498820'
 reviews/cinematographers:
 - Trent Opaloch

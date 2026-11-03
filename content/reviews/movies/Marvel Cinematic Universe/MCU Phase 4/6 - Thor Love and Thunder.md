@@ -68,7 +68,8 @@ reviews/year: 2022
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 4
-series_index: [29, 6]
+- MCU Thor
+series_index: [29, 6, 4]
 ---
 [[Thor]]() was probably the most underwhelming of Phase 1, [[Thor: The Dark World]]() tried to go more fantasy and was mostly forgettable, and [[Thor: Ragnarok]]() was a blast. Getting better all the time, so ... what about *Thor: Love and Thunder*?
 

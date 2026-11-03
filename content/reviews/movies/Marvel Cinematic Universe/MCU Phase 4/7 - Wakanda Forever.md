@@ -62,7 +62,8 @@ reviews/year: 2022
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 4
-series_index: [30, 7]
+- MCU Black Panther
+series_index: [30, 7, 2]
 ---
 > How?  
 > How is never as important as why.

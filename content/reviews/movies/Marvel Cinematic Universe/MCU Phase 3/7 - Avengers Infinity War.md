@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Avengers
 source:
 - Disney+
 cover: /embeds/movies/avengers-infinity-war.jpg
-series_index: [19, 7]
+series_index: [19, 7, 3]
 imdb_id: '4154756'
 reviews/cinematographers:
 - Trent Opaloch

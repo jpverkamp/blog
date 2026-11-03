@@ -42,7 +42,8 @@ reviews/year: 2022
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 4
-series_index: [28, 5]
+- MCU Doctor Strange
+series_index: [28, 5, 2]
 ---
 So. That's what what you get if you take a [director best known for his horror movies](/reviews/directors/sam-raimi)[^spiderman] and let them loose in the MCU. 
 

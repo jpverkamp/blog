@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Ant-Man
 source:
 - Disney+
 cover: /embeds/movies/ant-man-and-the-wasp.jpg
-series_index: [20, 8]
+series_index: [20, 8, 2]
 imdb_id: '5095030'
 reviews/cinematographers:
 - Dante Spinotti

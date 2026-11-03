@@ -7,10 +7,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+- MCU Captain America
 source:
 - Theater
 cover: /embeds/movies/captain-america-the-winter-soldier.jpg
-series_index: [9, 3]
+series_index: [9, 3, 2]
 aliases: 
 - /2014/04/05/captain-america-the-winter-soldier/
 imdb_id: '1843866'

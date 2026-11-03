@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 1
+- MCU Captain America
 source:
 - Disney+
 cover: /embeds/movies/captain-america.jpg
-series_index: [5, 5]
+series_index: [5, 5, 1]
 imdb_id: 0458339
 reviews/cinematographers:
 - Shelly Johnson

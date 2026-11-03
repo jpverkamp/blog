@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 1
+- MCU Thor
 source:
 - Disney+
 cover: /embeds/movies/thor.jpg
-series_index: [4, 4]
+series_index: [4, 4, 1]
 imdb_id: 0800369
 reviews/cinematographers:
 - Haris Zambarloukos

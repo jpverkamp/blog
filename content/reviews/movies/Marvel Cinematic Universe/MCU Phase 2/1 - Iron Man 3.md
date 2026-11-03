@@ -7,10 +7,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+- MCU Iron Man
 source:
 - Disney+
 cover: /embeds/movies/iron-man-3.jpg
-series_index: [7, 1]
+series_index: [7, 1, 3]
 aliases: 
 - /2013/05/06/iron-man-3/
 imdb_id: '1300854'

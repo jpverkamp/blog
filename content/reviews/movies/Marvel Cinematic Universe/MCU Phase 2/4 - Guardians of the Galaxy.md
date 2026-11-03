@@ -7,8 +7,9 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+- MCU Guardians of the Galaxy
 cover: /embeds/movies/guardians-of-the-galaxy.jpg
-series_index: [10, 4]
+series_index: [10, 4, 1]
 aliases: /2014/08/05/guardians-of-the-galaxy
 imdb_id: '2015381'
 reviews/cinematographers:

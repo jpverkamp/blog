@@ -7,8 +7,9 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+- MCU Thor
 cover: /embeds/movies/thor-the-dark-world.jpg
-series_index: [8, 2]
+series_index: [8, 2, 2]
 aliases:
 - /2013/11/29/thor-the-dark-world-2021/
 imdb_id: '1981115'

@@ -12,7 +12,10 @@ reviews/cast:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 6
-series_index: [37, 2]
+- Spider-Man 
+- Tom Holland's Spider-Man
+- MCU Spider-Man
+series_index: [37, 2, 9, 4, 4]
 ---
 > Peter Parker: Hi. My name is Peter Parker. You don't remember me, but we used to know each other. Something bad was gonna happen, and the only way to stop it was to make everyone forget about me. Because I'm not just Peter Parker. I'm Spider-Man. And sometimes Spider-Man has to do the hard thing, even if it breaks Peter Parker's heart.
 

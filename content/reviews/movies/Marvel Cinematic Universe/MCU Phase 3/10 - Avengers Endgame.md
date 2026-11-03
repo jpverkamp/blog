@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Avengers
 source:
 - Disney+
 cover: /embeds/movies/avengers-endgame.jpg
-series_index: [22, 10]
+series_index: [22, 10, 4]
 imdb_id: '4154796'
 reviews/cinematographers:
 - Trent Opaloch

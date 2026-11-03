@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 2
+- MCU Ant-Man
 source:
 - Disney+
 cover: /embeds/movies/ant-man.jpg
-series_index: [12, 6]
+series_index: [12, 6, 1]
 imdb_id: 0478970
 reviews/cinematographers:
 - Russell Carpenter

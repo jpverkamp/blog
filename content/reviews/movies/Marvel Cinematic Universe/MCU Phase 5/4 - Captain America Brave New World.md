@@ -8,7 +8,8 @@ reviews/year: 2025
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 5
-series_index: [34, 4]
+- MCU Captain America
+series_index: [34, 4, 4]
 ---
 > President Thaddeus Ross: When a Celestial mass emerged in the Indian Ocean, we did what we often do. We squabbled over it. Countries rushed in to claim it as their own, setting up research facilities to exploit its resources. What was found inside that island is nothing short of the discovery of the millennium. Its potential applications in tech, in medicine, in defense are immeasurable. It's even more indestructible than vibranium. And it's not controlled by an isolationist nation. Ladies and gentlemen, I present to you adamantium.
 

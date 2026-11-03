@@ -6,8 +6,9 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 1
+- MCU Avengers
 cover: /embeds/movies/the-avengers.jpg
-series_index: [6, 6]
+series_index: [6, 6, 1]
 aliases:
 - /2012/05/08/the-avengers
 imdb_id: 0848228

@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Guardians of the Galaxy
 source:
 - Disney+
 cover: /embeds/movies/guardians-of-the-galaxy-vol-2.jpg
-series_index: [15, 3]
+series_index: [15, 3, 2]
 imdb_id: '3896198'
 reviews/cinematographers:
 - Henry Braham

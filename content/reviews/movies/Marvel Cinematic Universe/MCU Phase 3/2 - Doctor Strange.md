@@ -6,10 +6,11 @@ reviews/lists:
 reviews/series:
 - Marvel Cinematic Universe
 - MCU Phase 3
+- MCU Doctor Strange
 source:
 - Disney+
 cover: /embeds/movies/doctor-strange.jpg
-series_index: [14, 2]
+series_index: [14, 2, 1]
 imdb_id: '1211837'
 reviews/cinematographers:
 - Ben Davis

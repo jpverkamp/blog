@@ -8,8 +8,9 @@ reviews/series:
 - MCU Phase 4
 - Spider-Man 
 - Tom Holland's Spider-Man
+- MCU Spider-Man
 cover: /embeds/movies/spider-man-no-way-home.jpg
-series_index: [27, 4, 8, 3]
+series_index: [27, 4, 8, 3, 3]
 imdb_id: '10872600'
 reviews/cinematographers:
 - Mauro Fiore
