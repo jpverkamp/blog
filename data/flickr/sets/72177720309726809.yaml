@@ -4,7 +4,7 @@ count_photos: 772
 count_videos: 0
 count_views: '4'
 date_create: '1689176407'
-date_update: '1792978816'
+date_update: '1793728344'
 description: "Previously: Eagle Creek Walks. \n\nI've taken to walking the loop at\
   \ the Eagle Creek Ornithology Center. A good two miles and so many things to take\
   \ pictures of. Sometimes I'll hit other ones, seems worthwhile to collect them all. "
@@ -13,6 +13,17 @@ id: '72177720309726809'
 needs_interstitial: 0
 owner: 27191036@N05
 photos:
+- '55630629195'
+- '55629212107'
+- '55630344818'
+- '55630629060'
+- '55630416924'
+- '55630416619'
+- '55629212662'
+- '55630345333'
+- '55630417244'
+- '55630213841'
+- '55630345543'
 - '55612300941'
 - '55612301461'
 - '55611288107'
@@ -502,17 +513,6 @@ photos:
 - '55341471101'
 - '55341683699'
 - '55341615238'
-- '55341471256'
-- '55340540482'
-- '55341471531'
-- '55341615528'
-- '55341881885'
-- '55341881980'
-- '55341615618'
-- '55341615853'
-- '55341882285'
-- '55341684159'
-- '55341616188'
 primary: '55612300941'
 secret: 66a803f9b0
 server: '65535'
